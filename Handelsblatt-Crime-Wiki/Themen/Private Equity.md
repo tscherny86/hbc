@@ -38,7 +38,7 @@ Große europäische Anbieter sind EQT, CVC, Permira oder Triton; die Branche ver
 >
 > — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 8:19](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=499) · [[Transkript 101#Minute 8|im Transkript]]
 
-> … zugesichert, was wir zum Glück können als Journalistinnen und Journalisten. Aber die Private Equity Branche ist klein und der Einfluss von Peter Prahl, wir haben eben schon über ihn gesprochen, ist richtig groß und …
+> … zugesichert, was wir zum Glück können als Journalistinnen und Journalisten. Aber die Private Equity Branche ist klein und der Einfluss von Peder Prahl, wir haben eben schon über ihn gesprochen, ist richtig groß und der …
 >
 > — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 16:37](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=997) · [[Transkript 101#Minute 16|im Transkript]]
 

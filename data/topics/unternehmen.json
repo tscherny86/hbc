@@ -26,36 +26,38 @@
   "name": "Volkswagen",
   "folder": "Unternehmen",
   "patterns": [
-   "\\bVolkswagen\\w*",
+   "\\bVolkswagen\\b(?![- ]?Stiftung)",
+   "\\bVolkswagens\\b",
    "\\bVW\\b",
    "\\bWinterkorn\\w*"
   ],
   "summary": "Wolfsburger Autokonzern, dessen Dieselskandal 2015 mehr als 30 Milliarden Euro kostete.",
-  "body": "Die **Volkswagen AG** mit Sitz in Wolfsburg ist der größte Autohersteller Europas mit Marken wie VW, Audi, Porsche, Škoda, Seat und Lamborghini, rund 680.000 Beschäftigten und einem Jahresumsatz von mehr als 300 Milliarden Euro.\n\n**Dieselskandal:** Am 18. September 2015 teilte die US-Umweltbehörde EPA mit, dass VW in rund 500.000 Dieselfahrzeugen eine Software eingesetzt hatte, die Abgastests erkannte und nur dann die volle Abgasreinigung aktivierte. Weltweit waren etwa elf Millionen Fahrzeuge betroffen. Vorstandschef Martin Winterkorn trat fünf Tage später zurück. In den USA bekannte sich der Konzern schuldig und zahlte mehr als 20 Milliarden Dollar; in Deutschland folgten eine Milliarde Euro Bußgeld, ein Vergleich mit rund 260.000 Kunden über mehr als 800 Millionen Euro und ein Anlegerprozess in Braunschweig über fast zehn Milliarden Euro. Die Gesamtkosten überstiegen 30 Milliarden Euro.\n\nGegen Winterkorn und weitere Manager erhob die Staatsanwaltschaft Braunschweig Anklage wegen Betrugs und Marktmanipulation; der Prozess gegen Winterkorn wurde 2024 aus gesundheitlichen Gründen immer wieder unterbrochen. Interne E-Mails („Ohne Bescheißen werden wir es nicht schaffen“) und ein 550 Mitarbeiter starkes Compliance-System, das nichts bemerkte, prägen das Bild des Konzerns bis heute."
+  "body": "Die **Volkswagen AG** mit Sitz in Wolfsburg ist der größte Autohersteller Europas mit Marken wie VW, Audi, Porsche, Škoda, Seat und Lamborghini, rund 680.000 Beschäftigten und einem Jahresumsatz von mehr als 300 Milliarden Euro.\n\n**Dieselskandal:** Am 18. September 2015 teilte die US-Umweltbehörde EPA mit, dass VW in rund 500.000 Dieselfahrzeugen eine Software eingesetzt hatte, die Abgastests erkannte und nur dann die volle Abgasreinigung aktivierte. Weltweit waren etwa elf Millionen Fahrzeuge betroffen. Vorstandschef Martin Winterkorn trat fünf Tage später zurück. In den USA bekannte sich der Konzern schuldig und zahlte mehr als 20 Milliarden Dollar; in Deutschland folgten eine Milliarde Euro Bußgeld, ein Vergleich mit rund 260.000 Kunden über mehr als 800 Millionen Euro und ein Anlegerprozess in Braunschweig über fast zehn Milliarden Euro. Die Gesamtkosten überstiegen 30 Milliarden Euro.\n\nGegen Winterkorn und weitere Manager erhob die Staatsanwaltschaft Braunschweig Anklage wegen Betrugs und Marktmanipulation; der Prozess gegen Winterkorn wurde 2024 aus gesundheitlichen Gründen immer wieder unterbrochen. Interne E-Mails („Ohne Bescheißen werden wir es nicht schaffen“) und ein 550 Mitarbeiter starkes Compliance-System, das nichts bemerkte, prägen das Bild des Konzerns bis heute.",
+  "min": 6
  },
  {
   "name": "Audi",
   "folder": "Unternehmen",
   "patterns": [
-   "\\bAudi\\b",
+   "\\bAudi\\b(?! A\\d)",
    "\\bIngolstadt\\w*",
-   "\\bRupert Stadler\\b",
-   "\\bStadler\\b"
+   "\\bRupert Stadler\\b"
   ],
   "summary": "Ingolstädter VW-Tochter, deren Ex-Chef Rupert Stadler 2023 im Dieselskandal verurteilt wurde.",
-  "body": "Die **Audi AG** mit Sitz in Ingolstadt ist die Premiummarke des Volkswagen-Konzerns mit rund 90.000 Beschäftigten und Werken unter anderem in Neckarsulm, Ungarn, Mexiko und China. Audi entwickelte die großen V6- und V8-Dieselmotoren, die auch in Porsche- und VW-Modellen zum Einsatz kamen.\n\nIm **Dieselskandal** stand Audi von Anfang an im Zentrum: Ein Audi-Ingenieur schrieb schon 2008, ohne „Bescheißen“ seien die Abgasgrenzwerte nicht zu schaffen. In den Motoren wurden Abschalteinrichtungen verbaut, die die Abgasreinigung im Straßenbetrieb reduzierten. Audi-Chef Rupert Stadler wurde 2018 verhaftet und verbrachte vier Monate in Untersuchungshaft.\n\nDer erste deutsche Diesel-Strafprozess begann 2020 vor dem Landgericht München II. Nach rund 170 Verhandlungstagen legten Stadler, der frühere Motorenentwicklungschef Wolfgang Hatz und der Ingenieur Giovanni Pamio Geständnisse ab. Im Juni 2023 erhielt Stadler eine Bewährungsstrafe von einem Jahr und neun Monaten sowie eine Geldauflage von 1,1 Millionen Euro – die erste Verurteilung eines Vorstandschefs im Dieselskandal. Hatz bekam zwei Jahre auf Bewährung und 400.000 Euro Geldauflage. Audi selbst zahlte 2018 ein Bußgeld von 800 Millionen Euro."
+  "body": "Die **Audi AG** mit Sitz in Ingolstadt ist die Premiummarke des Volkswagen-Konzerns mit rund 90.000 Beschäftigten und Werken unter anderem in Neckarsulm, Ungarn, Mexiko und China. Audi entwickelte die großen V6- und V8-Dieselmotoren, die auch in Porsche- und VW-Modellen zum Einsatz kamen.\n\nIm **Dieselskandal** stand Audi von Anfang an im Zentrum: Ein Audi-Ingenieur schrieb schon 2008, ohne „Bescheißen“ seien die Abgasgrenzwerte nicht zu schaffen. In den Motoren wurden Abschalteinrichtungen verbaut, die die Abgasreinigung im Straßenbetrieb reduzierten. Audi-Chef Rupert Stadler wurde 2018 verhaftet und verbrachte vier Monate in Untersuchungshaft.\n\nDer erste deutsche Diesel-Strafprozess begann 2020 vor dem Landgericht München II. Nach rund 170 Verhandlungstagen legten Stadler, der frühere Motorenentwicklungschef Wolfgang Hatz und der Ingenieur Giovanni Pamio Geständnisse ab. Im Juni 2023 erhielt Stadler eine Bewährungsstrafe von einem Jahr und neun Monaten sowie eine Geldauflage von 1,1 Millionen Euro – die erste Verurteilung eines Vorstandschefs im Dieselskandal. Hatz bekam zwei Jahre auf Bewährung und 400.000 Euro Geldauflage. Audi selbst zahlte 2018 ein Bußgeld von 800 Millionen Euro.",
+  "min": 6
  },
  {
   "name": "Porsche",
   "folder": "Unternehmen",
   "patterns": [
-   "\\bPorsche\\b",
-   "\\bPorsches\\b",
+   "\\bPorsche (AG|SE|Holding|Automobil|Konzern|Museum)\\b",
    "\\bZuffenhausen\\w*",
-   "\\bJürgen Barth\\b"
+   "\\bPorsche\\b(?=.{0,80}(Konzern|Vorstand|Werk|Rennsport|Le Mans))"
   ],
   "summary": "Stuttgarter Sportwagenhersteller – Schauplatz eines Prozesses um gefälschte historische Rennwagen.",
-  "body": "Die **Porsche AG** mit Sitz in Stuttgart-Zuffenhausen ist der profitabelste Autohersteller des Volkswagen-Konzerns und seit 2022 selbst börsennotiert. Die Marke lebt von ihrer Rennsportgeschichte – Siege in Le Mans und auf dem Nürburgring machen historische Modelle zu Sammlerobjekten, die zweistellige Millionenbeträge erzielen.\n\nGenau dieser Markt wurde zum Kriminalfall: Jürgen Barth, Le-Mans-Sieger von 1977 und jahrzehntelang Mitarbeiter des Konzerns, galt als „Gedächtnis von Porsche“ und als Autorität für die Echtheit historischer Fahrzeuge. Die Staatsanwaltschaft Aachen warf ihm vor, gemeinsam mit einem Händler nachgebaute Rennwagen als Originale ausgegeben und vermögende Sammler um Millionen gebracht zu haben. Porsche erklärte ihn zur unerwünschten Person. Vor dem Landgericht Aachen kam Barth vergleichsweise glimpflich davon; die zivilrechtlichen Auseinandersetzungen um die Fahrzeuge und die Frage, was ein Original ausmacht, dauern an. Käufer fürchten, dass ihre Autos als Fälschungen verschrottet werden.\n\nPorsche taucht in Wirtschaftsskandalen auch als Statussymbol auf: Immobilienunternehmer verkauften ihre Sportwagen, um Gläubiger zu beruhigen, Bankvorstände beteiligten sich an Luxusprojekten."
+  "body": "Die **Porsche AG** mit Sitz in Stuttgart-Zuffenhausen ist der profitabelste Autohersteller des Volkswagen-Konzerns und seit 2022 selbst börsennotiert. Die Marke lebt von ihrer Rennsportgeschichte – Siege in Le Mans und auf dem Nürburgring machen historische Modelle zu Sammlerobjekten, die zweistellige Millionenbeträge erzielen.\n\nGenau dieser Markt wurde zum Kriminalfall: Jürgen Barth, Le-Mans-Sieger von 1977 und jahrzehntelang Mitarbeiter des Konzerns, galt als „Gedächtnis von Porsche“ und als Autorität für die Echtheit historischer Fahrzeuge. Die Staatsanwaltschaft Aachen warf ihm vor, gemeinsam mit einem Händler nachgebaute Rennwagen als Originale ausgegeben und vermögende Sammler um Millionen gebracht zu haben. Porsche erklärte ihn zur unerwünschten Person. Vor dem Landgericht Aachen kam Barth vergleichsweise glimpflich davon; die zivilrechtlichen Auseinandersetzungen um die Fahrzeuge und die Frage, was ein Original ausmacht, dauern an. Käufer fürchten, dass ihre Autos als Fälschungen verschrottet werden.\n\nPorsche taucht in Wirtschaftsskandalen auch als Statussymbol auf: Immobilienunternehmer verkauften ihre Sportwagen, um Gläubiger zu beruhigen, Bankvorstände beteiligten sich an Luxusprojekten.",
+  "min": 3
  },
  {
   "name": "Tesla",
@@ -68,7 +70,8 @@
    "\\bGiga ?[Ff]a(ctory|brik)\\w*"
   ],
   "summary": "Elektroautohersteller von Elon Musk mit Werk in Grünheide – Gegenstand der Tesla-Files und mehrerer Prozesse.",
-  "body": "**Tesla, Inc.** mit Sitz in Austin, Texas, ist der wertvollste Autohersteller der Welt und wird von Elon Musk geführt, der mit SpaceX, Starlink und der Plattform X zusätzlichen politischen und wirtschaftlichen Einfluss ausübt. Seit 2022 produziert Tesla in **Grünheide** bei Berlin, seinem einzigen europäischen Werk.\n\nEnde 2022 spielte ein Whistleblower dem Handelsblatt die **Tesla-Files** zu: rund 100 Gigabyte interner Daten mit Tausenden Kundenbeschwerden über den Autopiloten, Unfallberichten, Gehältern und Privatadressen von mehr als 100.000 Beschäftigten. Datenschutzbehörden in Europa und den USA befassten sich mit dem Leck; Tesla sprach von Datendiebstahl und ging gegen den früheren Mitarbeiter Lukasz Krupski vor.\n\nIn den USA verurteilte eine Jury in Miami Tesla 2025 zu 243 Millionen Dollar Schadenersatz, weil der Autopilot 2019 in Florida einen tödlichen Unfall mitverursacht hatte und der Konzern Daten zurückgehalten hatte. 2026 genehmigte die niederländische Behörde RDW erstmals „Full Self-Driving“ in Europa – auf Millionen älteren Fahrzeugen läuft die Software jedoch nicht.\n\nIn Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstände und die Betriebsratswahl, bei der Musk 2026 mit einem Stopp des Ausbaus drohte."
+  "body": "**Tesla, Inc.** mit Sitz in Austin, Texas, ist der wertvollste Autohersteller der Welt und wird von Elon Musk geführt, der mit SpaceX, Starlink und der Plattform X zusätzlichen politischen und wirtschaftlichen Einfluss ausübt. Seit 2022 produziert Tesla in **Grünheide** bei Berlin, seinem einzigen europäischen Werk.\n\nEnde 2022 spielte ein Whistleblower dem Handelsblatt die **Tesla-Files** zu: rund 100 Gigabyte interner Daten mit Tausenden Kundenbeschwerden über den Autopiloten, Unfallberichten, Gehältern und Privatadressen von mehr als 100.000 Beschäftigten. Datenschutzbehörden in Europa und den USA befassten sich mit dem Leck; Tesla sprach von Datendiebstahl und ging gegen den früheren Mitarbeiter Lukasz Krupski vor.\n\nIn den USA verurteilte eine Jury in Miami Tesla 2025 zu 243 Millionen Dollar Schadenersatz, weil der Autopilot 2019 in Florida einen tödlichen Unfall mitverursacht hatte und der Konzern Daten zurückgehalten hatte. 2026 genehmigte die niederländische Behörde RDW erstmals „Full Self-Driving“ in Europa – auf Millionen älteren Fahrzeugen läuft die Software jedoch nicht.\n\nIn Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstände und die Betriebsratswahl, bei der Musk 2026 mit einem Stopp des Ausbaus drohte.",
+  "min": 8
  },
  {
   "name": "Signa",
@@ -120,18 +123,6 @@
   "body": "Die **HSH Nordbank** entstand 2003 aus der Fusion der Hamburgischen Landesbank und der Landesbank Schleswig-Holstein und war zeitweise der größte Schiffsfinanzierer der Welt. In der Finanzkrise geriet sie durch Schiffskredite und strukturierte Wertpapiere an den Rand des Zusammenbruchs; Hamburg und Schleswig-Holstein retteten sie mit Kapital und Garantien von mehr als zehn Milliarden Euro. 2018 wurde die Bank auf Druck der EU an Finanzinvestoren um Cerberus und J.C. Flowers verkauft und firmiert seither als **Hamburg Commercial Bank (HCOB)**.\n\nZwischen 2008 und 2011 verdiente die HSH mit **Cum-Ex-Geschäften** rund 112 Millionen Euro – Geld, das sie ihren eigenen Eigentümern, den Steuerzahlern, entzog. Ein interner Untersuchungsbericht der Kanzlei Clifford Chance beschrieb die Geschäfte detailliert; die Bank legte ihn der Staatsanwaltschaft Hamburg vor, die 2014 lediglich einen „Beobachtungsvorgang“ anlegte und nicht ermittelte. Der Strafverteidiger Gerhard Strate sprach von Strafvereitelung im Amt.\n\nErst die Staatsanwaltschaft Köln nahm Ermittlungen gegen 26 Beschuldigte wegen besonders schwerer Steuerhinterziehung auf. Nach acht Jahren bat sie 2026, das Verfahren an Hamburg abzugeben – ausgerechnet an die Behörde, die den Fall einst liegen ließ."
  },
  {
-  "name": "Greensill Bank",
-  "folder": "Unternehmen",
-  "patterns": [
-   "\\bGreensill\\w*",
-   "\\bGreen ?Sill\\b",
-   "\\bLex Greensill\\b",
-   "\\bBremer Bank\\b"
-  ],
-  "summary": "Bremer Bank des Australiers Lex Greensill, deren Kollaps 2021 Sparer und Kommunen Milliarden kostete.",
-  "body": "Die **Greensill Bank AG** in Bremen war die deutsche Banktochter der Finanzgruppe des Australiers Lex Greensill, der mit Lieferkettenfinanzierung (Supply Chain Finance) zum Milliardär wurde, von der SoftBank-Vision-Fund finanziert und in Großbritannien vom Ex-Premier David Cameron beraten. Die ehemalige NordFinanz Bank wuchs binnen weniger Jahre auf eine Bilanzsumme von rund 4,5 Milliarden Euro, weil sie über Zinsplattformen überdurchschnittliche Zinsen bot. Mehr als 20.000 Privatanleger und Dutzende Kommunen legten dort Geld an.\n\nDie Bank refinanzierte Forderungen aus dem Umfeld des Stahlunternehmers Sanjeev Gupta, von denen viele offenbar nie existierten. Die BaFin stellte 2021 nach einer Sonderprüfung fest, dass die Bank Forderungen nicht nachweisen konnte, und verhängte im März 2021 ein Moratorium; wenige Tage später folgte die Insolvenz – für deutsche Sparer die größte Bankenpleite seit Lehman Brothers. Privatanleger wurden über die Einlagensicherung mit rund drei Milliarden Euro entschädigt, Kommunen blieben auf Forderungen von mehreren hundert Millionen Euro sitzen.\n\nDer Insolvenzverwalter verklagte frühere Vorstände und Aufsichtsräte auf Schadenersatz, die Staatsanwaltschaft Bremen ermittelt wegen Bilanzfälschung und Betrugs. Die Schweizer Bank UBS, die Credit Suisse übernahm, entschädigte Fondsanleger mit fast einer Milliarde Dollar."
- },
- {
   "name": "Freshfields",
   "folder": "Unternehmen",
   "patterns": [
@@ -175,12 +166,11 @@
   "patterns": [
    "\\bAldi\\b",
    "\\bAldi[- ](Nord|Süd)\\b",
-   "\\bAlbrecht\\b",
-   "\\bAlbrecht[- ]Brüder\\b",
-   "\\bDiscounter\\w*"
+   "\\bAlbrecht[- ]Brüder\\b"
   ],
   "summary": "Discount-Pionier der Albrecht-Brüder, bei dem Familienstreit und Frankreich-Verluste die Bilanz trüben.",
-  "body": "**Aldi** ist der Erfinder des Lebensmitteldiscounts. Die Brüder Karl und Theo Albrecht übernahmen 1946 den Essener Tante-Emma-Laden ihrer Mutter und bauten daraus ein Imperium mit radikal reduziertem Sortiment, niedrigen Preisen und äußerster Sparsamkeit. 1961 teilten sie das Geschäft: **Aldi Nord** (Essen, Theo) und **Aldi Süd** (Mülheim an der Ruhr, Karl), die sich bis heute den deutschen Markt entlang des „Aldi-Äquators“ aufteilen und international getrennt expandieren. Zusammen setzen sie in Deutschland mehr als 30 Milliarden Euro um und beschäftigen fast 90.000 Menschen.\n\nDie Albrechts waren legendär öffentlichkeitsscheu, erst recht nach der Entführung Theo Albrechts 1971. Nach dem Tod der Brüder (2010 und 2014) brachen bei Aldi Nord **Familienstreitigkeiten** aus: Die Witwe und die Kinder von Berthold Albrecht stritten mit dem Rest der Familie um die Macht in den Stiftungen, die das Unternehmen kontrollieren, bis vor Gerichte.\n\nWirtschaftlich schwächelt vor allem Aldi Nord: Der Zukauf des französischen Discounters Leader Price brachte hohe Verluste, in Deutschland schrumpfen Margen, während Lidl technisch und organisatorisch davonzieht. Insidern zufolge schrieb Aldi Nord 2022 rote Zahlen."
+  "body": "**Aldi** ist der Erfinder des Lebensmitteldiscounts. Die Brüder Karl und Theo Albrecht übernahmen 1946 den Essener Tante-Emma-Laden ihrer Mutter und bauten daraus ein Imperium mit radikal reduziertem Sortiment, niedrigen Preisen und äußerster Sparsamkeit. 1961 teilten sie das Geschäft: **Aldi Nord** (Essen, Theo) und **Aldi Süd** (Mülheim an der Ruhr, Karl), die sich bis heute den deutschen Markt entlang des „Aldi-Äquators“ aufteilen und international getrennt expandieren. Zusammen setzen sie in Deutschland mehr als 30 Milliarden Euro um und beschäftigen fast 90.000 Menschen.\n\nDie Albrechts waren legendär öffentlichkeitsscheu, erst recht nach der Entführung Theo Albrechts 1971. Nach dem Tod der Brüder (2010 und 2014) brachen bei Aldi Nord **Familienstreitigkeiten** aus: Die Witwe und die Kinder von Berthold Albrecht stritten mit dem Rest der Familie um die Macht in den Stiftungen, die das Unternehmen kontrollieren, bis vor Gerichte.\n\nWirtschaftlich schwächelt vor allem Aldi Nord: Der Zukauf des französischen Discounters Leader Price brachte hohe Verluste, in Deutschland schrumpfen Margen, während Lidl technisch und organisatorisch davonzieht. Insidern zufolge schrieb Aldi Nord 2022 rote Zahlen.",
+  "min": 6
  },
  {
   "name": "Continental",
@@ -199,12 +189,11 @@
   "folder": "Unternehmen",
   "patterns": [
    "\\bFraunhofer\\w*",
-   "\\bFraunhofer[- ]Gesellschaft\\b",
-   "\\bNeugebauer\\b",
-   "\\bBundesrechnungshof\\w*"
+   "\\bNeugebauer\\b"
   ],
   "summary": "Europas größte Organisation für angewandte Forschung, erschüttert von einer Spesen- und Reisekostenaffäre.",
-  "body": "Die **Fraunhofer-Gesellschaft** mit Sitz in München ist mit rund 32.000 Beschäftigten und 76 Instituten die größte Organisation für angewandte Forschung in Europa. Ihr Jahresbudget von etwa drei Milliarden Euro stammt zu einem Drittel aus der Grundfinanzierung von Bund und Ländern, der Rest aus Industrie- und Forschungsaufträgen. Erfindungen wie das MP3-Format machten sie weltbekannt.\n\n2023 stellte der **Bundesrechnungshof** fest, dass Führungskräfte jahrelang gegen Spesen-, Reisekosten- und Dienstwagenregeln verstoßen hatten: teure Hotels, Flüge, Bewirtungen und Fahrzeuge weit über den Vorgaben des öffentlichen Dienstes. Im Zentrum stand Präsident Reimund Neugebauer, der sein Budget wiederholt überschritten haben soll und 2023 vorzeitig aus dem Amt schied. Die Staatsanwaltschaft München ermittelt wegen Untreue.\n\nDie Aufarbeitung warf neue Fragen auf: Die Honorare der beauftragten Kanzleien überstiegen den festgestellten Schaden, eine PR-Agentur erhielt umstrittene Aufträge, und eine heutige Vorständin, die für die betroffenen Bereiche verantwortlich war, machte Karriere, während andere Mitarbeiter ihre Jobs verloren. Für eine Institution, die auf öffentliches Vertrauen und Steuergeld angewiesen ist, wurde die Affäre zum Lehrstück über Führungskultur und fehlende Kontrolle."
+  "body": "Die **Fraunhofer-Gesellschaft** mit Sitz in München ist mit rund 32.000 Beschäftigten und 76 Instituten die größte Organisation für angewandte Forschung in Europa. Ihr Jahresbudget von etwa drei Milliarden Euro stammt zu einem Drittel aus der Grundfinanzierung von Bund und Ländern, der Rest aus Industrie- und Forschungsaufträgen. Erfindungen wie das MP3-Format machten sie weltbekannt.\n\n2023 stellte der **Bundesrechnungshof** fest, dass Führungskräfte jahrelang gegen Spesen-, Reisekosten- und Dienstwagenregeln verstoßen hatten: teure Hotels, Flüge, Bewirtungen und Fahrzeuge weit über den Vorgaben des öffentlichen Dienstes. Im Zentrum stand Präsident Reimund Neugebauer, der sein Budget wiederholt überschritten haben soll und 2023 vorzeitig aus dem Amt schied. Die Staatsanwaltschaft München ermittelt wegen Untreue.\n\nDie Aufarbeitung warf neue Fragen auf: Die Honorare der beauftragten Kanzleien überstiegen den festgestellten Schaden, eine PR-Agentur erhielt umstrittene Aufträge, und eine heutige Vorständin, die für die betroffenen Bereiche verantwortlich war, machte Karriere, während andere Mitarbeiter ihre Jobs verloren. Für eine Institution, die auf öffentliches Vertrauen und Steuergeld angewiesen ist, wurde die Affäre zum Lehrstück über Führungskultur und fehlende Kontrolle.",
+  "min": 4
  },
  {
   "name": "Volksbank Köln Bonn",
@@ -302,19 +291,6 @@
   ],
   "summary": "Weltkonzern der Musikbranche, dessen Europachef Daniel Lieberberg mit Mobbingvorwürfen konfrontiert wurde.",
   "body": "**Sony Music Entertainment** mit Sitz in New York ist neben Universal und Warner einer der drei großen Musikkonzerne der Welt und gehört zum japanischen Sony-Konzern. Das Europa- und Afrikageschäft wird von Berlin aus geführt; verantwortlich ist seit 2017 Daniel Lieberberg, Sohn des Konzertveranstalters Marek Lieberberg und einer der mächtigsten Manager der Branche.\n\n2024 berichteten aktuelle und ehemalige Beschäftigte dem Handelsblatt von einem „Klima der Angst“ in der Berliner Zentrale: Mobbing, Wutausbrüche, herablassende Arroganz, so eine interne Meldung an die Compliance-Abteilung. Mehrere Frauen schilderten, Lieberberg habe sie unaufgefordert an den Schultern gepackt und geküsst. Über seinen Anwalt wies er die Vorwürfe zurück; die Konzernzentrale erklärte, Beschwerden würden gewissenhaft geprüft.\n\nDer Fall steht für die Schattenseiten des Musikgeschäfts, in dem wenige Entscheider über Karrieren bestimmen und Abhängigkeiten groß sind. Er fügt sich in eine Reihe von Berichten über toxische Führungskultur in Medien, Finanzbranche und Private Equity, die seit der MeToo-Debatte an die Öffentlichkeit gelangen."
- },
- {
-  "name": "Gröner Group",
-  "folder": "Unternehmen",
-  "patterns": [
-   "\\bGröner\\w*",
-   "\\bGroener\\w*",
-   "\\bGröner[- ]Group\\b",
-   "\\bCG[- ]Gruppe\\b",
-   "\\bCG Elementum\\b"
-  ],
-  "summary": "Immobiliengruppe des Bauunternehmers Christoph Gröner, die 2025 in die Insolvenz rutschte.",
-  "body": "Die **Gröner Group** ist die Dachgesellschaft des Immobilienunternehmers Christoph Gröner, der mit der CG Gruppe (später Teil von Consus und Adler) eine der größten Projektentwicklungen Deutschlands aufbaute und sich 2020 mit einem Milliardenportfolio neu aufstellte. Der gelernte Zimmermann steht für die Karriere vom Tellerwäscher zum Milliardär, umgab sich mit Ex-Kanzleramtschef Ronald Pofalla und Ex-Ministerpräsident Günther Oettinger als Berater und zählte Gerhard Schröder zu seinen Vertrauten. Zugleich eckte er mit zur Schau gestelltem Reichtum, Millionenspenden an die CDU und Streitlust an.\n\nMit der Immobilienkrise geriet die Gruppe ab 2023 unter Druck: Handwerker, Berater, das Finanzamt und die Stadtwerke Leipzig warteten auf Geld, Tochterfirmen sahen sich Insolvenzanträgen gegenüber. Gröner verkaufte Porsches, Villen in Südfrankreich und verpfändete Kunst, um Liquidität zu schaffen, und gab sich öffentlich kämpferisch („Ich ziehe alle Register“).\n\n2025 eröffnete ein Gericht das Insolvenzverfahren über die Gröner Group; auch über sein Privatvermögen läuft ein vorläufiges Verfahren. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Insolvenzverschleppung und Vorenthaltens von Arbeitsentgelt."
  },
  {
   "name": "ThomasLloyd",
@@ -448,14 +424,12 @@
   "folder": "Unternehmen",
   "patterns": [
    "\\bHandelsblatt Media Group\\b",
-   "\\bChefredakt(eur|ion)\\w*",
-   "\\bChefjurist\\w*",
-   "\\bJustiziar\\w*",
-   "\\bInvestigativ[- ]?(Team|Ressort|Chef)\\w*",
-   "\\bHoltzbrinck\\w*"
+   "\\bChefredakt(eur|ion) (des|vom) Handelsblatt\\w*",
+   "\\bHoltzbrinck\\w*",
+   "\\bJustiziar des Handelsblatt\\w*"
   ],
   "summary": "Düsseldorfer Wirtschaftszeitung, deren Investigativteam den Podcast Handelsblatt Crime produziert.",
-  "min": 6,
+  "min": 2,
   "body": "Das **Handelsblatt** ist Deutschlands größte Wirtschafts- und Finanzzeitung mit Sitz in Düsseldorf. Gegründet 1946, gehört es zur Handelsblatt Media Group, die wiederum zur Verlagsgruppe Dieter von Holtzbrinck zählt. Neben der gedruckten Ausgabe und dem digitalen Angebot H+ betreibt die Redaktion Podcasts, Liveformate und Videos; Chefredakteur ist seit 2020 Sebastian Matthes, der im Sinne des Presserechts für alle Inhalte verantwortlich ist.\n\nDas **Investigativteam** unter Leitung von Sönke Iwersen, mit Co-Ressortleiter Martin Murphy und Reportern wie Volker Votsmeier, René Bender, Lars-Marten Nagel und Michael Verfürden, deckte unter anderem die Ergo-Sexreisen, die Cum-Ex-Verstrickungen von Banken und Kanzleien, Details des Wirecard-Betrugs und die Tesla-Files auf. Die Veröffentlichung des geheimen Wambach-Berichts zur Arbeit der Wirecard-Prüfer war eine der umstrittensten Entscheidungen der Redaktion. Das Team wurde mehrfach mit dem Wächterpreis, dem Henri-Nannen-Preis und als Wirtschaftsjournalisten des Jahres ausgezeichnet.\n\nJuristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und seinem Team, die Abmahnungen, Klagen und Millionendrohungen abwehren. Der Podcast **Handelsblatt Crime** erscheint seit Dezember 2021 alle zwei Wochen, moderiert von Ina Karabasz und Solveig Gode, und geht regelmäßig mit Liveshows auf Tour."
  },
  {
@@ -517,7 +491,8 @@
    "\\bVossloh\\b"
   ],
   "summary": "Münchner Bremsenkonzern, um dessen 17-Milliarden-Erbe von Heinz Hermann Thiele Witwe und Sohn klagen.",
-  "body": "Die **Knorr-Bremse AG** mit Sitz in München ist Weltmarktführer für Bremssysteme in Schienen- und Nutzfahrzeugen mit rund 30.000 Beschäftigten und etwa acht Milliarden Euro Umsatz; seit 2018 ist sie börsennotiert. Ihr Aufstieg ist untrennbar mit **Heinz Hermann Thiele** verbunden: 1969 als Jurist in der Patentabteilung eingetreten, wurde er 1985 Vorstandschef, kaufte das damals angeschlagene Unternehmen mit Krediten der Deutschen Bank und baute es zum Weltkonzern aus. Thiele hielt zudem die Mehrheit am Schienenkonzern Vossloh und ein großes Aktienpaket der Lufthansa. Als er im Februar 2021 starb, galt er mit rund 17 Milliarden Euro als einer der reichsten Deutschen.\n\nUm sein **Erbe** tobt seither ein erbitterter Streit. Sein Sohn Henrik, der sich 2015 mit dem Vater überworfen und 2017 mit 25 Millionen Euro abfinden lassen hatte, klagte auf 4,5 Milliarden Euro und scheiterte in erster Instanz; er beschreibt den Tod des Vaters als Befreiung. Witwe Nadia Thiele klagt gegen die Stiftungskonstruktion, in der Tochter Julia die starke Rolle spielt, und gegen Testamentsvollstrecker Robin Brühmüller, der für seine Arbeit bis zu 250 Millionen Euro abrechnen könnte."
+  "body": "Die **Knorr-Bremse AG** mit Sitz in München ist Weltmarktführer für Bremssysteme in Schienen- und Nutzfahrzeugen mit rund 30.000 Beschäftigten und etwa acht Milliarden Euro Umsatz; seit 2018 ist sie börsennotiert. Ihr Aufstieg ist untrennbar mit **Heinz Hermann Thiele** verbunden: 1969 als Jurist in der Patentabteilung eingetreten, wurde er 1985 Vorstandschef, kaufte das damals angeschlagene Unternehmen mit Krediten der Deutschen Bank und baute es zum Weltkonzern aus. Thiele hielt zudem die Mehrheit am Schienenkonzern Vossloh und ein großes Aktienpaket der Lufthansa. Als er im Februar 2021 starb, galt er mit rund 17 Milliarden Euro als einer der reichsten Deutschen.\n\nUm sein **Erbe** tobt seither ein erbitterter Streit. Sein Sohn Henrik, der sich 2015 mit dem Vater überworfen und 2017 mit 25 Millionen Euro abfinden lassen hatte, klagte auf 4,5 Milliarden Euro und scheiterte in erster Instanz; er beschreibt den Tod des Vaters als Befreiung. Witwe Nadia Thiele klagt gegen die Stiftungskonstruktion, in der Tochter Julia die starke Rolle spielt, und gegen Testamentsvollstrecker Robin Brühmüller, der für seine Arbeit bis zu 250 Millionen Euro abrechnen könnte.",
+  "min": 4
  },
  {
   "name": "Landgericht Bonn",

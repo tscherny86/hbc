@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-01-01 |
 | **Dauer** | 40:26 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H) · [MP3](https://audio.podigee-cdn.net/918188-m-51c82b19914cf2f648e1872b973e5c7f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/32-neue-episode) |
-| **Transkript** | [[Transkript 032]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Freshfields und Cum-Ex]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Transkript** | [[Transkript 032]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | [[Freshfields]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Ulf Johannemann]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Porsche-Ikone vor Gericht]], [[Insolvenz]], [[Insolvenzverwalter]], [[Steuerhinterziehung]], [[Strafverteidigung]], [[Volkswagen]], [[Porsche]], [[M.M. Warburg]], [[BaFin]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Ulf Johannemann]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Peter Biesenbach]], [[Insolvenz]], [[Insolvenzverwalter]], [[Steuerhinterziehung]], [[Volkswagen]], [[M.M. Warburg]], [[BaFin]] |
 
 ## Shownotes
 
@@ -67,7 +67,7 @@ Ab sofort sind wir bei WhatsApp, Signal und Telegram über folgende Nummer errei
 - [10:27](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=627) – Vermeintlich. Im Endeffekt schon. Nur wenn das ganze Prinzip sozusagen in Frage gestellt wurde. Aber es war klar, … ([[Transkript 032#Minute 10|Transkript]])
 - [12:28](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=748) – Der Hauptgläubiger ist natürlich das Finanzamt, Fiskus. Da sind wir auch dann genau wieder direkt bei Freshfields. Hat … ([[Transkript 032#Minute 12|Transkript]])
 - [14:29](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=869) – Ursprünglich waren mal sechs Maple-Banker angeklagt und ein Freshfields-Partner, eben Ulf Johannemann. Dann hat man das ein bisschen … ([[Transkript 032#Minute 14|Transkript]])
-- [16:38](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=998) – Die Bank ist Geschichte und der Maple Ball geht dann juristisch nur weiter auf Ebene von Freshfields, wo … ([[Transkript 032#Minute 16|Transkript]])
+- [16:38](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=998) – Die Bank ist Geschichte und der Maple-Fall geht dann juristisch nur weiter auf Ebene von Freshfields, wo der … ([[Transkript 032#Minute 16|Transkript]])
 - [18:40](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1120) – Johannemann ist dann nach Dallas in Texas gegangen und hat da an der Universität auch einen amerikanischen Abschluss … ([[Transkript 032#Minute 18|Transkript]])
 - [20:48](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1248) – 2012 hat er dann die Millionengrenze überschritten und das stieg dann immer weiter an, sodass er 2017 so … ([[Transkript 032#Minute 20|Transkript]])
 - [22:49](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1369) – Okay, und haben sie auch was zu Maple gefunden? Ja, etliche Aktenordner. Das war natürlich ein Riesenmandat über … ([[Transkript 032#Minute 22|Transkript]])
@@ -77,7 +77,7 @@ Ab sofort sind wir bei WhatsApp, Signal und Telegram über folgende Nummer errei
 - [31:09](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1869) – Beziehungsweise Frage 1 ist, wie hat Freshfields eigentlich überhaupt reagiert, als die Vorwürfe gegen ihren wichtig Ex-Partner zu … ([[Transkript 032#Minute 31|Transkript]])
 - [33:12](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1992) – Also sie sollen eigentlich nur dafür sorgen, dass das Recht hier in Deutschland zu Geltung kommt. Und also … ([[Transkript 032#Minute 33|Transkript]])
 - [35:20](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=2120) – Also das waren vier oder fünf Zeugen, die früher bei Freshfields gearbeitet haben, auch in dieser Praxisgruppe Steuerrecht … ([[Transkript 032#Minute 35|Transkript]])
-- [37:21](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=2241) – Aber es gibt halt mehr als 100 Verfahren, es gibt mehr als 1600 Beschuldigte. Und der Wiesenbach und … ([[Transkript 032#Minute 37|Transkript]])
+- [37:21](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=2241) – Aber es gibt halt mehr als 100 Verfahren, es gibt mehr als 1600 Beschuldigte. Und der Biesenbach und … ([[Transkript 032#Minute 37|Transkript]])
 - [39:25](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=2365) – Und insofern auf jeden Fall ein sehr weitreichender Prozess, ein sehr weitreichendes Thema. Ja, also es gibt niemanden, … ([[Transkript 032#Minute 39|Transkript]])
 
 ---

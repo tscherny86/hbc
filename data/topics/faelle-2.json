@@ -130,25 +130,26 @@
   "name": "Fall Jens Lehmann",
   "folder": "Fälle",
   "patterns": [
-   "\\bJens Lehmann\\b",
-   "\\bLehmanns?\\b(?!\\s+Brothers)",
-   "\\bMad Jens\\b"
+   "\\bJens Lehmanns?\\b",
+   "\\bMad Jens\\b",
+   "\\bLehmanns?\\b(?=.{0,120}(Torwart|Nationaltorwart|Kettensäge|Garage|Starnberg))"
   ],
   "summary": "Ex-Nationaltorwart Jens Lehmann: Kettensägen-Attacke, Verkehrsdelikte und Vorstrafe wegen Steuerhinterziehung.",
-  "body": "Jens Lehmann wurde als Nationaltorwart bei der WM 2006 zum Helden, als er im Elfmeterschießen gegen Argentinien zwei Schüsse hielt. Nach der Karriere geriet „Mad Jens“ jedoch immer wieder mit dem Gesetz in Konflikt – vom Rasen auf die Anklagebank.\n\nAufsehen erregte 2022 ein Streit mit einem Nachbarn am Starnberger See: Lehmann zersägte mit einer Kettensäge einen Dachbalken von dessen Garage. Das Amtsgericht Starnberg verurteilte ihn 2023 wegen Sachbeschädigung, Hausfriedensbruchs und versuchten Betrugs (ein nicht bezahltes Parkticket) zu einer hohen Geldstrafe; in der Berufung reduzierte das Landgericht München II die Summe 2024 deutlich. Hinzu kamen Verkehrsdelikte, darunter eine Trunkenheitsfahrt, und Streitigkeiten um Geld.\n\nRecherchen des Handelsblatts förderten 2026 ein weiteres Kapitel zutage: Lehmann ist auch wegen Steuerhinterziehung vorbestraft. Die Reporter stießen auf Akten der Steuerfahndung, in denen es um Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“ geht – Einkünfte, die in keinem Land versteuert wurden. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, hält demnach einer Überprüfung nicht stand.\n\nDer Fall zeigt, wie ein prominenter Sportler mit Ruhm, Geld und einem schwierigen Verhältnis zu Regeln zum Dauergast der Justiz wird."
+  "body": "Jens Lehmann wurde als Nationaltorwart bei der WM 2006 zum Helden, als er im Elfmeterschießen gegen Argentinien zwei Schüsse hielt. Nach der Karriere geriet „Mad Jens“ jedoch immer wieder mit dem Gesetz in Konflikt – vom Rasen auf die Anklagebank.\n\nAufsehen erregte 2022 ein Streit mit einem Nachbarn am Starnberger See: Lehmann zersägte mit einer Kettensäge einen Dachbalken von dessen Garage. Das Amtsgericht Starnberg verurteilte ihn 2023 wegen Sachbeschädigung, Hausfriedensbruchs und versuchten Betrugs (ein nicht bezahltes Parkticket) zu einer hohen Geldstrafe; in der Berufung reduzierte das Landgericht München II die Summe 2024 deutlich. Hinzu kamen Verkehrsdelikte, darunter eine Trunkenheitsfahrt, und Streitigkeiten um Geld.\n\nRecherchen des Handelsblatts förderten 2026 ein weiteres Kapitel zutage: Lehmann ist auch wegen Steuerhinterziehung vorbestraft. Die Reporter stießen auf Akten der Steuerfahndung, in denen es um Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“ geht – Einkünfte, die in keinem Land versteuert wurden. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, hält demnach einer Überprüfung nicht stand.\n\nDer Fall zeigt, wie ein prominenter Sportler mit Ruhm, Geld und einem schwierigen Verhältnis zu Regeln zum Dauergast der Justiz wird.",
+  "min": 3
  },
  {
   "name": "Tesla-Betriebsratswahl Grünheide",
   "folder": "Fälle",
   "patterns": [
-   "\\bBetriebsratswahl\\b",
-   "\\bIG Metall\\b",
+   "\\bBetriebsratswahl\\w*",
    "\\bMichaela Schmitz\\b",
    "\\bKool Savas\\b",
    "\\bWahlvorstand\\b"
   ],
   "summary": "Machtkampf bei der Betriebsratswahl 2026 im Tesla-Werk Grünheide: Polizei, Musk-Drohung, IG Metall unterliegt.",
-  "body": "Im Tesla-Werk Grünheide bei Berlin, der einzigen europäischen Fabrik des Konzerns, eskalierte 2026 ein Machtkampf um den Betriebsrat. Die IG Metall wollte bei der Betriebsratswahl ihren Einfluss ausbauen, nachdem sie 2024 bereits zur stärksten Kraft geworden war, aber keine Mehrheit hatte. Dagegen stand die von Betriebsratschefin Michaela Schmitz angeführte Liste, die viele Beschäftigte als managementnah beschreiben und die die Gewerkschafter als Störfaktor beschimpfte.\n\nDer Wahlkampf nahm bizarre Züge an: Auf einer Betriebsfeier trat der Rapper Kool Savas auf – mitten im Arbeitskampf. Weil ein Gewerkschafter eine Sitzung heimlich aufgenommen haben soll, rief Tesla die Polizei; ein Laptop wurde beschlagnahmt. Die IG Metall bestreitet den Vorwurf und spricht von einer Schmutzkampagne. Wenige Tage vor der Wahl schaltete sich Elon Musk persönlich ein und warnte, die Fabrik werde nicht erweitert, sollte die Gewerkschaft gewinnen. Die Belegschaft stimmte in seinem Sinne ab.\n\nDer Konflikt reicht über Grünheide hinaus: Wie viel Einfluss darf ein Management auf eine Betriebsratswahl nehmen? Das Betriebsverfassungsgesetz verbietet die Behinderung von Wahlen. Der Fall gilt als Testfall dafür, was passiert, wenn amerikanische Unternehmenskultur auf deutsche Mitbestimmung trifft – vor dem Hintergrund von Absatzkrise und hohen Krankenständen im Werk."
+  "body": "Im Tesla-Werk Grünheide bei Berlin, der einzigen europäischen Fabrik des Konzerns, eskalierte 2026 ein Machtkampf um den Betriebsrat. Die IG Metall wollte bei der Betriebsratswahl ihren Einfluss ausbauen, nachdem sie 2024 bereits zur stärksten Kraft geworden war, aber keine Mehrheit hatte. Dagegen stand die von Betriebsratschefin Michaela Schmitz angeführte Liste, die viele Beschäftigte als managementnah beschreiben und die die Gewerkschafter als Störfaktor beschimpfte.\n\nDer Wahlkampf nahm bizarre Züge an: Auf einer Betriebsfeier trat der Rapper Kool Savas auf – mitten im Arbeitskampf. Weil ein Gewerkschafter eine Sitzung heimlich aufgenommen haben soll, rief Tesla die Polizei; ein Laptop wurde beschlagnahmt. Die IG Metall bestreitet den Vorwurf und spricht von einer Schmutzkampagne. Wenige Tage vor der Wahl schaltete sich Elon Musk persönlich ein und warnte, die Fabrik werde nicht erweitert, sollte die Gewerkschaft gewinnen. Die Belegschaft stimmte in seinem Sinne ab.\n\nDer Konflikt reicht über Grünheide hinaus: Wie viel Einfluss darf ein Management auf eine Betriebsratswahl nehmen? Das Betriebsverfassungsgesetz verbietet die Behinderung von Wahlen. Der Fall gilt als Testfall dafür, was passiert, wenn amerikanische Unternehmenskultur auf deutsche Mitbestimmung trifft – vor dem Hintergrund von Absatzkrise und hohen Krankenständen im Werk.",
+  "min": 3
  },
  {
   "name": "TGI-Gold (Helmut Kaltenegger)",
@@ -275,7 +276,8 @@
    "\\bBrockhaus\\b"
   ],
   "summary": "Kredit der Volksbank Köln Bonn fürs Großbordell Pascha: Ermittlungen gegen Vorstand, Aufsichtsräte gehen.",
-  "body": "Die Volksbank Köln Bonn, eine der größten Genossenschaftsbanken im Rheinland, finanzierte mit einem Kredit das Kölner Großbordell „Pascha“ – ein Geschäft, das an sich nicht verboten ist, für eine Volksbank aber ungewöhnlich war. Womöglich wäre es bei einem diskreten Bankgeschäft geblieben, hätte nicht der Anwalt Claus Brockhaus, Beschuldigter in der NRW-Schleuser-Affäre, in Vernehmungen bei der Staatsanwaltschaft darüber berichtet.\n\nSeither steht die Bank unter Druck. Gegen ein Vorstandsmitglied ermittelt die Staatsanwaltschaft unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr; der Manager wurde beurlaubt. Zunächst führte die Staatsanwaltschaft Düsseldorf das Verfahren, inzwischen liegt es bei der Staatsanwaltschaft Köln. Im Vorstand und im Aufsichtsrat kam es zu Verwerfungen über die Frage, wie der Kredit zustande kam und wie gründlich die Vorgänge aufgeklärt wurden – vier Aufsichtsräte warfen das Handtuch.\n\nIm Zentrum stehen die Fragen, welche Rolle der Bankvorstand bei der Kreditvergabe spielte, ob persönliche Vorteile im Spiel waren und ob die Volksbank Köln Bonn ein grundsätzliches Compliance-Problem hat. Im genossenschaftlichen Lager wird der Fall als peinlich empfunden, zumal er in eine Reihe von Volksbank-Affären fällt – etwa bei der Volksbank Düsseldorf Neuss und der Volksbank Brawo – und das Vertrauen in die Selbstkontrolle des Verbunds belastet."
+  "body": "Die Volksbank Köln Bonn, eine der größten Genossenschaftsbanken im Rheinland, finanzierte mit einem Kredit das Kölner Großbordell „Pascha“ – ein Geschäft, das an sich nicht verboten ist, für eine Volksbank aber ungewöhnlich war. Womöglich wäre es bei einem diskreten Bankgeschäft geblieben, hätte nicht der Anwalt Claus Brockhaus, Beschuldigter in der NRW-Schleuser-Affäre, in Vernehmungen bei der Staatsanwaltschaft darüber berichtet.\n\nSeither steht die Bank unter Druck. Gegen ein Vorstandsmitglied ermittelt die Staatsanwaltschaft unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr; der Manager wurde beurlaubt. Zunächst führte die Staatsanwaltschaft Düsseldorf das Verfahren, inzwischen liegt es bei der Staatsanwaltschaft Köln. Im Vorstand und im Aufsichtsrat kam es zu Verwerfungen über die Frage, wie der Kredit zustande kam und wie gründlich die Vorgänge aufgeklärt wurden – vier Aufsichtsräte warfen das Handtuch.\n\nIm Zentrum stehen die Fragen, welche Rolle der Bankvorstand bei der Kreditvergabe spielte, ob persönliche Vorteile im Spiel waren und ob die Volksbank Köln Bonn ein grundsätzliches Compliance-Problem hat. Im genossenschaftlichen Lager wird der Fall als peinlich empfunden, zumal er in eine Reihe von Volksbank-Affären fällt – etwa bei der Volksbank Düsseldorf Neuss und der Volksbank Brawo – und das Vertrauen in die Selbstkontrolle des Verbunds belastet.",
+  "min": 6
  },
  {
   "name": "Fall Hendrik Holt",
@@ -357,10 +359,10 @@
   "name": "Fall Daniel Starr",
   "folder": "Fälle",
   "patterns": [
-   "\\bDaniel Starr\\b",
-   "\\bStarrs?\\b"
+   "\\bDaniel Starrs?\\b",
+   "\\b(?-i:Starrs?)\\b(?=.{0,120}(Daniel|Unternehmer|Flughafen|Haftbefehl|Auslieferung))"
   ],
-  "min": 8,
+  "min": 4,
   "summary": "Bonner Staatsanwälte jagen US-Unternehmer Daniel Starr wegen Steuerhinterziehung – Haftbefehl rechtswidrig.",
   "body": "Daniel Starr ist ein US-amerikanischer Tech-Unternehmer und Investor. Er gründete, kaufte und verkaufte Dutzende Firmen, spendete Millionen an die Ukraine und verkaufte eine Villa in Beverly Hills an die Sängerin Rihanna. Seit rund 2020 ermittelt die Staatsanwaltschaft Bonn gegen ihn – der Vorwurf lautet Steuerhinterziehung im Zusammenhang mit früheren Geschäftsaktivitäten in Deutschland.\n\nIm November 2022 eskalierte der Fall: Auf dem Pariser Flughafen stürmten schwer bewaffnete Polizisten Starrs Privatjet und nahmen ihn fest. Grundlage war ein Europäischer Haftbefehl der deutschen Ermittler, der später gerichtlich als rechtswidrig aufgehoben wurde. Starr saß zeitweise in Auslieferungshaft, ohne nach eigener Darstellung jahrelang zu erfahren, was ihm konkret vorgeworfen wird.\n\nDas Verfahren sticht durch seine Härte heraus: Zwangsmaßnahmen, internationale Fahndung, lange Dauer – bei einem Beschuldigten, der sich kooperationsbereit zeigte. Starr fordert inzwischen Schadensersatz in Milliardenhöhe vom Land Nordrhein-Westfalen. Politiker aus dem Umfeld von Donald Trump schalteten sich ein und kritisierten die Methoden der deutschen Strafverfolger – der Fall wurde zum Politikum zwischen Washington und Berlin.\n\nEr wirft die Frage auf, wie verhältnismäßig deutsche Staatsanwaltschaften bei Steuerverfahren gegen Ausländer vorgehen und welche Folgen ein rechtswidriger Haftbefehl für die Betroffenen hat."
  },
@@ -383,23 +385,25 @@
   "folder": "Fälle",
   "patterns": [
    "\\bSyntellix\\b",
-   "\\bClaassen\\b",
-   "\\bFitschen\\b"
+   "\\bUtz Claassen\\b"
   ],
   "summary": "Medizintechnikfirma Syntellix: Betrugs- und Insolvenzverschleppungsverdacht gegen Ex-EnBW-Chef Utz Claassen.",
-  "body": "Utz Claassen galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Studium in Oxford, McKinsey, Vorstandsposten bei Volkswagen und Sartorius, später Vorstandschef des Energiekonzerns EnBW. Er pflegte das Image des knallharten Sanierers – und geriet immer wieder in Streit, etwa um Abfindungen und Pensionen, die ihm Vorwürfe der Abzocke einbrachten.\n\nSeit 2008 führt Claassen die von ihm gegründete Medizintechnikfirma Syntellix in Hannover, die Implantate aus abbaubarem Magnesium entwickelt. Das Produkt gilt als innovativ, doch das Unternehmen fiel über Jahre vor allem durch große Versprechen, verfehlte Ziele, nicht gezahlte Gehälter und offene Rechnungen auf. Die Staatsanwaltschaft Hannover ermittelt gegen Claassen wegen des Verdachts des Betrugs und der Insolvenzverschleppung; 2025 wurden Geschäftsräume durchsucht und die Ermittlungen ausgeweitet.\n\nClaassen weist die Vorwürfe empört zurück und sieht sich als Opfer: Der frühere Deutsche-Bank-Chef Jürgen Fitschen, zeitweise Aufsichtsrat bei Syntellix, habe die Firma mit einem „Fünf-Stufen-Plan“ zerstören wollen. Claassen verklagte Fitschen auf 68 Millionen Euro Schadensersatz.\n\nDer Fall zeichnet das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden – und wirft die Frage auf, wie aus einem Überflieger, dem einst alle Türen offenstanden, ein Beschuldigter in einem Wirtschaftsstrafverfahren wurde."
+  "body": "Utz Claassen galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Studium in Oxford, McKinsey, Vorstandsposten bei Volkswagen und Sartorius, später Vorstandschef des Energiekonzerns EnBW. Er pflegte das Image des knallharten Sanierers – und geriet immer wieder in Streit, etwa um Abfindungen und Pensionen, die ihm Vorwürfe der Abzocke einbrachten.\n\nSeit 2008 führt Claassen die von ihm gegründete Medizintechnikfirma Syntellix in Hannover, die Implantate aus abbaubarem Magnesium entwickelt. Das Produkt gilt als innovativ, doch das Unternehmen fiel über Jahre vor allem durch große Versprechen, verfehlte Ziele, nicht gezahlte Gehälter und offene Rechnungen auf. Die Staatsanwaltschaft Hannover ermittelt gegen Claassen wegen des Verdachts des Betrugs und der Insolvenzverschleppung; 2025 wurden Geschäftsräume durchsucht und die Ermittlungen ausgeweitet.\n\nClaassen weist die Vorwürfe empört zurück und sieht sich als Opfer: Der frühere Deutsche-Bank-Chef Jürgen Fitschen, zeitweise Aufsichtsrat bei Syntellix, habe die Firma mit einem „Fünf-Stufen-Plan“ zerstören wollen. Claassen verklagte Fitschen auf 68 Millionen Euro Schadensersatz.\n\nDer Fall zeichnet das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden – und wirft die Frage auf, wie aus einem Überflieger, dem einst alle Türen offenstanden, ein Beschuldigter in einem Wirtschaftsstrafverfahren wurde.",
+  "min": 3
  },
  {
   "name": "Fraunhofer-Spesenaffäre",
   "folder": "Fälle",
   "patterns": [
-   "\\bFraunhofer\\b",
+   "\\bFraunhofer[- ]Spesen\\w*",
    "\\bNeugebauer\\b",
    "\\bSpesenaffäre\\b",
-   "\\bSpesenskandal\\b"
+   "\\bSpesenskandal\\b",
+   "\\bFraunhofer\\b(?=.{0,120}(Spesen|Reisen|Dienstwagen|Rechnungshof|Neugebauer))"
   ],
   "summary": "Fraunhofer-Gesellschaft: Bundesrechnungshof rügt Spesen- und Reisekostenverstöße der Spitze, Untreue-Verdacht.",
-  "body": "Die Fraunhofer-Gesellschaft ist mit rund 30.000 Beschäftigten und Milliardenbudgets aus Bund und Ländern Europas größte Organisation für angewandte Forschung. 2023 stellte der Bundesrechnungshof fest, dass Führungskräfte jahrelang gegen Spesen- und Reisekostenregeln verstoßen hatten: teure Hotels, Reisen, Dienstwagen, Bewirtungen und Veranstaltungen, die mit Steuergeld finanziert wurden. Das Ergebnis der Untersuchung war verheerend.\n\nIm Zentrum stand der damalige Präsident Reimund Neugebauer, der sein Budget offenbar immer wieder überschritten und sich teure Eskapaden gegönnt haben soll. Er musste die Organisation vorzeitig verlassen. Die Staatsanwaltschaft ermittelt wegen Untreue. Für Fragen sorgt auch die Aufarbeitung: Eine heutige Vorständin war ausgerechnet für die Bereiche verantwortlich, in denen Regeln gebrochen wurden – andere verloren ihre Jobs, sie machte Karriere.\n\nRecherchen des Handelsblatts zeigten zudem, dass die Anwaltshonorare für die Aufarbeitung den eigentlichen Schaden deutlich übersteigen und dass Aufträge an eine PR-Agentur Fragen aufwerfen. Kritiker sehen ein Versagen der Kontrollmechanismen: Senat, Kuratorium und das Bundesforschungsministerium als wichtigster Geldgeber griffen lange nicht ein.\n\nDer Skandal beschädigte die Reputation eines Leuchtturms der deutschen Wissenschaft und wirft ein Licht auf die Führungskultur in öffentlich finanzierten Forschungseinrichtungen, die weniger Transparenzpflichten haben als börsennotierte Unternehmen."
+  "body": "Die Fraunhofer-Gesellschaft ist mit rund 30.000 Beschäftigten und Milliardenbudgets aus Bund und Ländern Europas größte Organisation für angewandte Forschung. 2023 stellte der Bundesrechnungshof fest, dass Führungskräfte jahrelang gegen Spesen- und Reisekostenregeln verstoßen hatten: teure Hotels, Reisen, Dienstwagen, Bewirtungen und Veranstaltungen, die mit Steuergeld finanziert wurden. Das Ergebnis der Untersuchung war verheerend.\n\nIm Zentrum stand der damalige Präsident Reimund Neugebauer, der sein Budget offenbar immer wieder überschritten und sich teure Eskapaden gegönnt haben soll. Er musste die Organisation vorzeitig verlassen. Die Staatsanwaltschaft ermittelt wegen Untreue. Für Fragen sorgt auch die Aufarbeitung: Eine heutige Vorständin war ausgerechnet für die Bereiche verantwortlich, in denen Regeln gebrochen wurden – andere verloren ihre Jobs, sie machte Karriere.\n\nRecherchen des Handelsblatts zeigten zudem, dass die Anwaltshonorare für die Aufarbeitung den eigentlichen Schaden deutlich übersteigen und dass Aufträge an eine PR-Agentur Fragen aufwerfen. Kritiker sehen ein Versagen der Kontrollmechanismen: Senat, Kuratorium und das Bundesforschungsministerium als wichtigster Geldgeber griffen lange nicht ein.\n\nDer Skandal beschädigte die Reputation eines Leuchtturms der deutschen Wissenschaft und wirft ein Licht auf die Führungskultur in öffentlich finanzierten Forschungseinrichtungen, die weniger Transparenzpflichten haben als börsennotierte Unternehmen.",
+  "min": 4
  },
  {
   "name": "Henry O’Sullivan",
@@ -417,11 +421,11 @@
   "folder": "Fälle",
   "patterns": [
    "\\bBohlen und Halbach\\b",
-   "\\bPeter Sommer\\b",
-   "\\bKrupp\\b",
-   "\\bfalsche[rn]? Baron\\b"
+   "\\bfalsche[rn]? Baron\\b",
+   "\\bBaron von Krupp\\b"
   ],
   "summary": "Peter von Bohlen und Halbach gibt sich als Krupp-Spross und Klimaretter – geboren als Peter Sommer.",
-  "body": "In den sozialen Netzwerken tritt Peter von Bohlen und Halbach so auf, wie man es von einem Baron erwartet: Er jettet um die Welt, speist in teuren Restaurants, übernachtet in luxuriösen Hotels. Der Name erinnert an die Industriellendynastie Krupp von Bohlen und Halbach, die den Stahlkonzern Krupp über Generationen führte. Von Bohlen und Halbach hat sich Großes vorgenommen: Er will mit einem selbst gegründeten Klimainstitut den Klimawandel aufhalten und berät in Brasilien mehrere Bundesstaaten bei der Vermarktung von CO₂-Zertifikaten.\n\n„Ich trage den Namen nicht als Behauptung, sondern als verbriefte, verantwortungsvolle Realität“, schrieb er dem Handelsblatt. Die Recherche ergab ein anderes Bild: Der Mann hat mit der Familie Krupp nichts zu tun. Er wurde als Peter Sommer geboren; sein Lebenslauf ist von Insolvenzen und Betrugsfällen geprägt. Erst eine Hochzeit in Las Vegas ermöglichte ihm die Namensänderung – ein Weg, über den sich in den USA ein Nachname rechtlich erwerben lässt.\n\nAls die Handelsblatt-Volontärin Anna Lauterjung und die Praktikantin Alina Katzele nachfragten, reagierte er mit Drohungen. Sie recherchierten weiter.\n\nDer Fall steht für eine Spielart des Hochstapelns, bei der ein klangvoller Name als Türöffner für Geschäftsbeziehungen, Behördenkontakte und Investorengespräche dient – im wachsenden, schwer kontrollierten Markt für CO₂-Zertifikate."
+  "body": "In den sozialen Netzwerken tritt Peter von Bohlen und Halbach so auf, wie man es von einem Baron erwartet: Er jettet um die Welt, speist in teuren Restaurants, übernachtet in luxuriösen Hotels. Der Name erinnert an die Industriellendynastie Krupp von Bohlen und Halbach, die den Stahlkonzern Krupp über Generationen führte. Von Bohlen und Halbach hat sich Großes vorgenommen: Er will mit einem selbst gegründeten Klimainstitut den Klimawandel aufhalten und berät in Brasilien mehrere Bundesstaaten bei der Vermarktung von CO₂-Zertifikaten.\n\n„Ich trage den Namen nicht als Behauptung, sondern als verbriefte, verantwortungsvolle Realität“, schrieb er dem Handelsblatt. Die Recherche ergab ein anderes Bild: Der Mann hat mit der Familie Krupp nichts zu tun. Er wurde als Peter Sommer geboren; sein Lebenslauf ist von Insolvenzen und Betrugsfällen geprägt. Erst eine Hochzeit in Las Vegas ermöglichte ihm die Namensänderung – ein Weg, über den sich in den USA ein Nachname rechtlich erwerben lässt.\n\nAls die Handelsblatt-Volontärin Anna Lauterjung und die Praktikantin Alina Katzele nachfragten, reagierte er mit Drohungen. Sie recherchierten weiter.\n\nDer Fall steht für eine Spielart des Hochstapelns, bei der ein klangvoller Name als Türöffner für Geschäftsbeziehungen, Behördenkontakte und Investorengespräche dient – im wachsenden, schwer kontrollierten Markt für CO₂-Zertifikate.",
+  "min": 3
  }
 ]

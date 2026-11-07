@@ -22,7 +22,7 @@ Rund 20 Strafverfolgungsbehörden ermitteln gegen sie; das FBI setzte sie 2022 a
 
 ## Was im Podcast gesagt wird
 
-> … number one cryptocurrency global. Weltweit sucht die Polizei nach dieser Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugsverurteil. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll …
+> … number one cryptocurrency global. Weltweit sucht die Polizei nach dieser Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugs verurteilt. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll …
 >
 > — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 0:33](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=33) · [[Transkript 016#Minute 0|im Transkript]]
 

@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-07-31 |
 | **Dauer** | 54:37 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU) · [MP3](https://audio.podigee-cdn.net/806896-m-46414b6582f34427a5d5f602eaa48e8b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/19-neue-episode) |
-| **Transkript** | [[Transkript 019]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 019]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
 | **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]], [[Vergleich und Bußgeld]] |
-| **Unternehmen** | [[Volkswagen]], [[Audi]], [[Porsche]] |
+| **Unternehmen** | [[Volkswagen]], [[Audi]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Martin Winterkorn]], [[Rupert Stadler]], [[Wolfgang Hatz]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[EY im Wirecard-Skandal]], [[Ergo-Lustreisen]], [[Porsche-Ikone vor Gericht]], [[Hanno Berger]], [[EY (Ernst & Young)]], [[Ergo]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[EY im Wirecard-Skandal]], [[Ergo-Lustreisen]], [[Hanno Berger]], [[EY (Ernst & Young)]], [[Ergo]] |
 
 ## Shownotes
 

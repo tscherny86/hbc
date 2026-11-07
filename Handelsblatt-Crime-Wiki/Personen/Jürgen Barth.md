@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 4
+folgen: 2
 tags: [personen]
 ---
 # Jürgen Barth
@@ -22,29 +22,21 @@ Vor dem Landgericht Aachen wurde Barth der Prozess gemacht; er kam vergleichswei
 
 ## Was im Podcast gesagt wird
 
-> … alleine, sondern man hat sich dafür zusammengetan mit der Anlegerkanzlei Nieding und Barth sowie AKD aus Rotterdam. Und die haben ein niederländisches Stiftungsmodell entwickelt, das es geschädigten Wirecard-Anlegern ermöglichen soll, Schadenersatzansprüche geltend zu machen. …
+> … sich ins Ziel zu retten. Die Zündung des betroffenen Zylinders wird stillgelegt. Jürgen Barth, der technisch versierteste der drei Fahrer, übernimmt das Steuer. Eine Stoppuhr soll zwei Runden nach Maß ermöglichen. Zehn Minuten vor …
 >
-> — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 38:57](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2337) · [[Transkript 065#Minute 38|im Transkript]]
+> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 0:50](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=50) · [[Transkript 074#Minute 0|im Transkript]]
 
-> … arbeiten, nicht mehr in der Position sind. Angefangen vom damaligen Deutschlandchef, Hubert Barth, der das Unternehmen verlassen hat. Zahlreiche Prüfer, die eben an der Arbeit bei Wirecard beteiligt waren, sind auch nicht mehr für …
+> … sagen, wenn wir da vorher nochmal ansetzen, begründete definitiv den Helden-Status von Jürgen Barth. Das ist immer in so einem Moment, immer wenn man denkt, okay, es geht super und dann fällt es und …
 >
-> — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 52:36](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=3156) · [[Transkript 065#Minute 52|im Transkript]]
+> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 5:51](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=351) · [[Transkript 074#Minute 5|im Transkript]]
 
-> … Die Porsche-Strategen entscheiden alles oder nichts. In einer schulungslosen Aufholjagd sollen X, Barth und Haywood versuchen, die führenden Renault unter Druck zu setzen, vielleicht sogar noch einzuholen. Die Chance ist minimal, aber rechnerisch vorhanden. …
+> … Verräter gelten könnte. Und deshalb ist er dann im Westen geblieben. Und Jürgen Barth, also der Sohn, der war ja noch mit der Mama zu Hause. Und er hat das im Prozess tatsächlich sehr …
 >
-> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 0:14](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=14) · [[Transkript 074#Minute 0|im Transkript]]
+> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 7:40](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=460) · [[Transkript 074#Minute 7|im Transkript]]
 
-> … Der Ex-Rennfahrer gilt als das Gedächtnis von Porsche. Ja, aber dann geriet Barth ins Fadenkreuz der Justiz. Der Verdacht, Barth soll Teil einer Gruppe von Betrügern gewesen sein und geholfen haben, gefälschte historische Porsche …
+> … so ein Trauersmiley dahinter oder dass einer der Betrüger kein anderer als Jürgen Barth sein sollte. Das hat ein anderer Fan als völlig verrückt beschrieben und ja, man hat gemerkt, die Fans haben halt …
 >
-> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 1:58](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=118) · [[Transkript 074#Minute 1|im Transkript]]
-
-> … was damals eigentlich dann keiner mehr für möglich gehalten hat. Und dass Barth seinen weißen Porsche 936 Spyder dann doch noch als Erster über die Ziellinie steuert. Und dafür, das ist ja schon angeklungen, …
->
-> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 5:16](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=316) · [[Transkript 074#Minute 5|im Transkript]]
-
-> … die DDR dann irgendwann den Rennsport verboten hat tatsächlich. Dann hat sozusagen Barth Senior damals bei Porsche angeheuert. Der durfte dann auch Rennen im Westen fahren, musste dann aber immer seinen Pass abgeben und …
->
-> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 6:46](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=406) · [[Transkript 074#Minute 6|im Transkript]]
+> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 18:41](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1121) · [[Transkript 074#Minute 18|im Transkript]]
 
 > … zu einer Rennsport-Ikone geschafft hat, damals, 1977. René, die Rede ist von? Jürgen Barth. Ja, eine wahre Porsche-Ikone. Es ist gesagt, 1977 hat er das 24-Stunden-Rennen in Le Mans gewonnen und 1980 sogar das …
 >
@@ -58,32 +50,10 @@ Vor dem Landgericht Aachen wurde Barth der Prozess gemacht; er kam vergleichswei
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 49:12](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2952) · [[Transkript 104#Minute 49|im Transkript]]
 
-> … Wir sind immer noch im Wirecard-Zusammenhang und deren, also EYs Ex-Deutschlandchef Hubert Barth hat damals versucht, vor dem Landgericht Berlin eine einstweilige Verfügung gegen uns zu kriegen, weil wir sein Foto gezeigt haben. Der …
->
-> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 30:55](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1855) · [[Transkript 116#Minute 30|im Transkript]]
+## In diesen Folgen (2)
 
-> … der Gesellschaft sieht man sich nicht gerne und da wollte auch Hubert Barth offenbar ungern gezeigt werden und deshalb ist er vor das Landgericht Berlin gezogen. Es ging im Kern am Ende immer nur …
->
-> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 32:27](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1947) · [[Transkript 116#Minute 32|im Transkript]]
-
-> … ist der Trend? Ja, ich habe ja beim letzten Mal von Hubert Barth erzählt, erinnere ich mich? Ja, das war der ehemalige Deutschlandchef von EY. Genau, der wollte uns damals verbieten, ein Foto von …
->
-> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 10:09](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=609) · [[Transkript 135#Minute 10|im Transkript]]
-
-> … eine große Rolle gespielt haben. Ganz anders als vorher, wie bei Hubert Barth damals. Aber genau, damit müssen wir dann umgehen und vor Gericht dagegen argumentieren. Wir haben auch einen anderen Fall vor Gericht, …
->
-> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 13:24](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=804) · [[Transkript 135#Minute 13|im Transkript]]
-
-## In diesen Folgen (4)
-
-- [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74 – Demontage einer Legende: Porsche-Ikone im Fadenkreuz der Justiz]] (2024-04-20) — Shownotes · Minute [0:14](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=14), [1:58](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=118), [5:16](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=316), [6:46](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=406)
+- [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74 – Demontage einer Legende: Porsche-Ikone im Fadenkreuz der Justiz]] (2024-04-20) — Shownotes · Minute [0:50](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=50), [5:51](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=351), [7:40](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=460), [18:41](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1121)
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [45:01](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2701), [46:56](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2816), [49:12](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2952)
-- [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Minute [30:55](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1855), [32:27](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1947)
-- [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135 – Abmahnungen, Klagen, Grauzonen: Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwälten]] (2025-12-28) — Minute [10:09](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=609), [13:24](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=804)
-
-## Kurz erwähnt (1)
-
-- [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Minute [38:57](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2337), [52:36](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=3156)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

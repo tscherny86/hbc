@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-08-11 |
 | **Dauer** | 50:55 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy) · [MP3](https://audio.podigee-cdn.net/1526362-m-0933ca0c53c04eb4db1de1bf3d2584f4.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/90-neue-episode) |
-| **Transkript** | [[Transkript 090]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Porsche-Ikone vor Gericht]] |
-| **Themen** | [[Insolvenz]], [[Steuerfahndung]] |
-| **Unternehmen** | [[Porsche]], [[Gröner Group]] |
-| **Personen** | [[Ina Karabasz]], [[Christian Heinemann]], [[Christoph Gröner]] |
-| **Kurz erwähnt** | [[Prominente und die Steuerfahndung]], [[Adler Group]], [[Signa und René Benko]], [[René Benko]], [[Insolvenzverwalter]], [[Signa]] |
+| **Transkript** | [[Transkript 090]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Gröner Group]] |
+| **Themen** | [[Insolvenz]], [[Pressefreiheit und Presserecht]] |
+| **Unternehmen** | – |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Christian Heinemann]], [[Christoph Gröner]] |
+| **Kurz erwähnt** | [[Adler Group]], [[Signa und René Benko]], [[René Benko]], [[Insolvenzverwalter]], [[Signa]] |
 
 ## Shownotes
 

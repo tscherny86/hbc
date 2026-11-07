@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW
 
-Folge: [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] · automatisch transkribiert, vollständig Korrektur gelesen (62 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] · automatisch transkribiert, vollständig Korrektur gelesen (63 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0
@@ -54,7 +54,7 @@ Können wir unsere Mitarbeiter noch beschäftigen? Müssen wir weiter abspecken?
 
 ### Minute 11
 [▶ 11:51](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=711)  
-Oder laut Bescheid erst mal. Und so 50 plus 50, dann sind wir schon bei 100 Millionen, um die es da geht. Und da wären wir natürlich hellhörig bei solchen Summen. Also vielleicht, wenn ich da einmal noch mal einhaken kann, um es noch mal ganz deutlich für unsere Hörer und Hörerinnen zu sagen, das Geld sollte sozusagen aus Deutschland vom Panzerbauer fließen an die Kingdom-Projects in Doha und einen Teil der Summe von dort dann zurück wieder in die Schweiz. Für die Vermittlung? Für die Frex, für die Vermittlung, genau. Okay, super. Und diese beiden Firmen, die da jetzt auftauchen und diesem Gerichtsbescheid, die gehören ja jetzt aber erstmal nicht direkt zu Krauss-Maffei Wegmann, KMW kurz. Deswegen lass uns jetzt vielleicht mal mit dem Kläger anfangen. Also dieser FGS-Frags-Firma aus der Schweiz. Was wissen wir denn über die? Ja, das ist wie oft bei unseren Projekten am Anfang. Über FGS Frex wussten wir wenig. Auch wir haben dann rumgefragt oder Lars hauptsächlich. Lars ist im Rüstungsbereich viel besser verdrahtet als ich.
+Oder laut Bescheid erst mal. Und so 50 plus 50, dann sind wir schon bei 100 Millionen, um die es da geht. Und da wären wir natürlich hellhörig bei solchen Summen. Also vielleicht, wenn ich da einmal noch mal einhaken kann, um es noch mal ganz deutlich für unsere Hörer und Hörerinnen zu sagen, das Geld sollte sozusagen aus Deutschland vom Panzerbauer fließen an die Kingdom-Projects in Doha und einen Teil der Summe von dort dann zurück wieder in die Schweiz. Für die Vermittlung? Für die Frex, für die Vermittlung, genau. Okay, super. Und diese beiden Firmen, die da jetzt auftauchen und diesem Gerichtsbescheid, die gehören ja jetzt aber erstmal nicht direkt zu Krauss-Maffei Wegmann, KMW kurz. Deswegen lass uns jetzt vielleicht mal mit dem Kläger anfangen. Also dieser FGS Frex-Firma aus der Schweiz. Was wissen wir denn über die? Ja, das ist wie oft bei unseren Projekten am Anfang. Über FGS Frex wussten wir wenig. Auch wir haben dann rumgefragt oder Lars hauptsächlich. Lars ist im Rüstungsbereich viel besser verdrahtet als ich.
 
 ### Minute 12
 [▶ 12:52](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=772)  

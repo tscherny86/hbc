@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-06-04 |
 | **Dauer** | 54:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh) · [MP3](https://audio.podigee-cdn.net/1098549-m-a3ccbe75e71c680981b445f176797493.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/45-new-episode) |
-| **Transkript** | [[Transkript 045]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 045]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]] |
-| **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
+| **Themen** | [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Sönke Iwersen]], [[Elon Musk]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Fraunhofer-Spesenaffäre]], [[Jan Marsalek]], [[Staatsanwaltschaft und Strafprozess]], [[Vergleich und Bußgeld]], [[Fraunhofer-Gesellschaft]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Jan Marsalek]], [[Staatsanwaltschaft und Strafprozess]], [[Vergleich und Bußgeld]], [[Fraunhofer-Gesellschaft]] |
 
 ## Shownotes
 
@@ -68,7 +68,7 @@ Sind auch Ihre Daten in den Tesla-Files? Melden Sie sich bei der Redaktion!
 - [39:19](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2359) – Vodafone. Wie erklärt ihr euch diese Zahlen? Weil man muss das ja fragen, denn Tesla ist ja jetzt … ([[Transkript 045#Minute 39|Transkript]])
 - [41:23](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2483) – Also der sagt sozusagen das Gegenteil von dem, den Michael gerade erwähnt hat, dass wenn der Kundendienst sagt, … ([[Transkript 045#Minute 41|Transkript]])
 - [43:27](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2607) – Tatsächlich gibt es das Versprechen sogar schon wesentlich länger. Wir haben uns mal den Spaß gemacht und haben … ([[Transkript 045#Minute 43|Transkript]])
-- [45:32](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2732) – Und dieser Clip zeigt den Modell X, das scheinbar vollkommen autonom durch Kalifornien fuhr. Und zu Beginn dieses … ([[Transkript 045#Minute 45|Transkript]])
+- [45:32](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2732) – Und dieser Clip zeigt den Model X, das scheinbar vollkommen autonom durch Kalifornien fuhr. Und zu Beginn dieses … ([[Transkript 045#Minute 45|Transkript]])
 - [47:34](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2854) – Tesla habe zwar also auf Wunsch von Musk tatsächlich eine Demonstration der Fähigkeiten des Systems entworfen und aufgezeichnet, … ([[Transkript 045#Minute 47|Transkript]])
 - [49:41](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=2981) – Wie geht es jetzt mit dieser ganzen Geschichte weiter? Wie geht es mit Tesla weiter? Was erwartet uns … ([[Transkript 045#Minute 49|Transkript]])
 - [51:51](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=3111) – Irgendwann dann eben halt auch diesen Mann und das war im März und seitdem sind natürlich viel, viel, … ([[Transkript 045#Minute 51|Transkript]])

@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Podcast-Tipp: Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet
 
-Folge: [[166 Podcast-Tipp Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (1 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[166 Podcast-Tipp Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet]] · automatisch transkribiert, vollständig Korrektur gelesen (1 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0

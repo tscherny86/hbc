@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-02-24 |
 | **Dauer** | 1:06:35 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx) · [MP3](https://audio.podigee-cdn.net/1359100-m-57b986e45bd78cd6e3f1cbfada900b11.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/68-neue-episode) |
-| **Transkript** | [[Transkript 068]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 068]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Picam]] |
-| **Themen** | [[Betrug]], [[Schneeballsystem]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
+| **Themen** | [[Betrug]], [[Schneeballsystem]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[BaFin]] |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Insolvenzverwalter]], [[Geldwäsche]], [[Wirtschaftsprüfung]], [[Strafverteidigung]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Thomas Entzeroth]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Insolvenzverwalter]], [[Wirtschaftsprüfung]] |
 
 ## Shownotes
 
@@ -61,7 +61,7 @@ Wie mehr als 320 Millionen Euro verschwanden, Picam-Manager vor Gericht
 
 - [0:02](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=2) – Heute sprechen wir über ein Klassiker der Wirtschaftskriminalität, den mutmaßlichen Betrug mithilfe eines Schneeballsystems. Diese Masche basiert darauf, … ([[Transkript 068#Minute 0|Transkript]])
 - [2:06](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=126) – In diesem Podcast sprechen wir alle zwei Wochen über die spektakulärsten Streitfälle und eben auch die wichtigsten Wirtschaftsskandale … ([[Transkript 068#Minute 2|Transkript]])
-- [4:11](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=251) – Also sehr, sehr unterschiedlich. Also gesagt haben sie erst mal am ersten Prozestag nichts, außer dass sie halt … ([[Transkript 068#Minute 4|Transkript]])
+- [4:11](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=251) – Also sehr, sehr unterschiedlich. Also gesagt haben sie erst mal am ersten Prozesstag nichts, außer dass sie halt … ([[Transkript 068#Minute 4|Transkript]])
 - [6:17](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=377) – Und die Linie der beiden Strafverteidiger dieser Mitangeklagten geht so in die Richtung, naja, unsere Mandanten haben ja … ([[Transkript 068#Minute 6|Transkript]])
 - [8:21](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=501) – Und dabei haben die die stattliche Summe von 320 Millionen Euro eingesammelt, wenn man den Behörden glauben kann. … ([[Transkript 068#Minute 8|Transkript]])
 - [10:24](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=624) – Wir erinnern uns 2008. Warum haben Anleger da nicht genauer nachgefragt? Warum haben die nie Verdacht geschöpft? Ja, … ([[Transkript 068#Minute 10|Transkript]])

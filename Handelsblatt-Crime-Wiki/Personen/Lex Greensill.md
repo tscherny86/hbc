@@ -30,34 +30,34 @@ Im März 2021 kollabierte die gesamte Finanzgruppe samt Bankentochter. Für deut
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 1:34](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=94) · [[Transkript 113#Minute 1|im Transkript]]
 
-> … du schon sagst, richtig ist natürlich auch, dass es in diesem Fall Greensill entsprechende Versicherungen gab, die Managerhaftpflichtversicherung, im Fachgreifen auch D &O-Versicherung genannt. Und da kennen wir natürlich zahlreiche andere Fälle, wo das …
+> … du schon sagst, richtig ist natürlich auch, dass es in diesem Fall Greensill entsprechende Versicherungen gab, die Managerhaftpflichtversicherung, in Fachkreisen auch D &O-Versicherung genannt. Und da kennen wir natürlich zahlreiche andere Fälle, wo das schon …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 5:14](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=314) · [[Transkript 113#Minute 5|im Transkript]]
 
-> … von Handelsbut Crime. Hallo. Wir wollten uns mit Ihnen über den Fall Greensill unterhalten. Und den begleiten Sie ja als Sprecher der Staatsanwaltschaft in Bremen. Sie sind selber auch Oberstaatsanwalt. Danke das erstmal, dass …
+> … Ina Karabasz von Handelsblatt Crime. Hallo. Wir wollten uns mit Ihnen über den Fall Greensill unterhalten. Und den begleiten Sie ja als Sprecher der Staatsanwaltschaft in Bremen. Sie sind selber auch Oberstaatsanwalt. Danke das erstmal, dass …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 7:17](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=437) · [[Transkript 113#Minute 7|im Transkript]]
 
-> … des DAX-Konzerns Wirecard. Und man muss sagen, allein in Deutschland traf die Greensill-Pleite mit mehr als 20.000 Sparern auch Dutzende Kommunen, die bis heute auf offenen Forderungen von mehr als 330 Millionen Euro sitzen. …
+> … Oberstaatsanwalt und Sprecher der Staatsanwaltschaft Bremen. Die Behörde ermittelt derzeit im Fall Greensill jener Bremer Bank, die im März 2021 Insolvenz anmelden musste. Der Fall hat erstaunliche Parallelen zum Fall des DAX-Konzerns Wirecard. Und …
 >
-> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 1:27](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=87) · [[Transkript 114#Minute 1|im Transkript]]
+> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 1:14](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=74) · [[Transkript 114#Minute 1|im Transkript]]
 
-> … Also es ist ja wirklich innerhalb von Rekordzeit hat der Gründer Lex Greensill es geschafft, wirklich tatsächlich vom Bauernsohn, muss man sagen, hatten wir auch darüber gesprochen, jetzt nicht total verarmter Bauernsohn, aber Bauernsohn …
+> … Ina. Wir haben uns ja in der ersten Folge über den Fall Greensill schon ziemlich ausführlich darüber unterhalten, wie so der rasante Aufstieg der Bank begann. Also es ist ja wirklich innerhalb von Rekordzeit hat der …
 >
-> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 3:01](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=181) · [[Transkript 114#Minute 3|im Transkript]]
+> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 2:51](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=171) · [[Transkript 114#Minute 2|im Transkript]]
 
-> … Ganze ist ganz interessant, weil eben auch Verantwortliche von Kommunen, die bei Greensill investiert hatten, eben auf die BaFin gezeigt haben und ihr indirekt vorgeworfen haben, mit Schuld an ihren Fehlinvestments zu sein. Zum …
+> … Thema. Und wir wissen, dass die BaFin sich schon 2019 sich mit Greensill beschäftigt hat, allerdings nicht wegen des Betrugsverdachts, sondern wegen dieser Klumpenrisiken, über die wir auch in der ersten Folge schon gesprochen …
 >
-> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 9:11](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=551) · [[Transkript 114#Minute 9|im Transkript]]
+> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 4:24](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=264) · [[Transkript 114#Minute 4|im Transkript]]
 
-> … Konsequenzen hatte das eben nicht gehabt. Anfang 2020 hat der Prüfungsverband die Greensill Bank tatsächlich aufgefordert, ihre Risiken abzubauen. Und insbesondere im Hinblick auf diese Klumpenrisiken mit dem Gupta, das schrittweise zurückzuführen. Die Bremer …
+> … 2020. Da ist die Prüfungsgesellschaft KPMG beauftragt worden, sich die Geschäfte der Greensill Bank mal genauer anzuschauen. Und im Januar 2021 hat die BaFin dann auch einen Sonderbeauftragten in die Bank geschickt und dem …
 >
-> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 12:16](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=736) · [[Transkript 114#Minute 12|im Transkript]]
+> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 6:46](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=406) · [[Transkript 114#Minute 6|im Transkript]]
 
 ## In diesen Folgen (2)
 
 - [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Shownotes · Minute [0:00](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=0), [1:34](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=94), [5:14](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=314), [7:17](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=437)
-- [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes · Minute [1:27](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=87), [3:01](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=181), [9:11](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=551), [12:16](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=736)
+- [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes · Minute [1:14](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=74), [2:51](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=171), [4:24](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=264), [6:46](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=406)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

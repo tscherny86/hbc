@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-03-09 |
 | **Dauer** | 52:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0) · [MP3](https://audio.podigee-cdn.net/1791712-m-41ce2e793558e924a6c7c9a79f6dc548.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/109-neue-episode) |
-| **Transkript** | [[Transkript 109]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 109]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Picam]] |
 | **Themen** | [[Betrug]], [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Uli Hoeneß]] |
-| **Kurz erwähnt** | [[Prominente und die Steuerfahndung]], [[Insolvenzverwalter]], [[Wirtschaftsprüfung]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Thomas Entzeroth]] |
+| **Kurz erwähnt** | [[Insolvenzverwalter]], [[Wirtschaftsprüfung]] |
 
 ## Shownotes
 
@@ -55,10 +55,10 @@ Zur Vorgeschichte von Picam im Podcast: Handelsblatt Crime: Wie bei Picam 300 Mi
 - [20:40](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1240) – Ja, also so ähnlich wirkt das. Wobei das glaube ich nicht heißen soll, dass man eben 20 Millionen … ([[Transkript 109#Minute 20|Transkript]])
 - [22:47](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1367) – Reportings stand da drauf und schöne Summen. Und was die Anleger nicht gemerkt haben, ist, dass das Ganze … ([[Transkript 109#Minute 22|Transkript]])
 - [24:52](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1492) – Aber lass mich mal folgendes Argument bringen. Ich würde mal behaupten, die meisten Menschen, wenn die sich einen … ([[Transkript 109#Minute 24|Transkript]])
-- [26:57](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1617) – Also da haben sie ganz komplizierte Fondsstrukturen aufgebaut in Lichtenstein, Luxemburg. Und dann sind diese Gelder rotiert durch … ([[Transkript 109#Minute 26|Transkript]])
+- [26:57](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1617) – Also da haben sie ganz komplizierte Fondsstrukturen aufgebaut in Liechtenstein, Luxemburg. Und dann sind diese Gelder rotiert durch … ([[Transkript 109#Minute 26|Transkript]])
 - [29:01](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1741) – Aber so wie du das schon anteaserst, muss man jetzt natürlich als nächstes die Frage stellen, er hat … ([[Transkript 109#Minute 29|Transkript]])
 - [31:10](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1870) – Und dann gibt es tatsächlich die Gefechtslage, dass dann der Anleger, der in Anführungszeichen Glück gehabt hat, sich … ([[Transkript 109#Minute 31|Transkript]])
-- [33:14](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1994) – Enzeroth, das hat das Gericht ganz klar gesagt, ist der Haupttäter. Die beiden anderen sind gehilfen. So, und … ([[Transkript 109#Minute 33|Transkript]])
+- [33:14](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1994) – Entzeroth, das hat das Gericht ganz klar gesagt, ist der Haupttäter. Die beiden anderen sind gehilfen. So, und … ([[Transkript 109#Minute 33|Transkript]])
 - [35:26](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=2126) – Und dann hat man eben das abgetrennt und nur gegen die beiden anderen quasi die Urteile gesprochen. Und … ([[Transkript 109#Minute 35|Transkript]])
 - [37:32](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=2252) – Und der ist zu zwei Jahren auf Bewährung verurteilt worden. Und da ist allerdings auch klar, anders als … ([[Transkript 109#Minute 37|Transkript]])
 - [39:33](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=2373) – Was hat er denn genau gesagt? Ja, also der hat natürlich geschluchzt. Der war emotional, war jetzt von … ([[Transkript 109#Minute 39|Transkript]])

@@ -28,6 +28,7 @@ PROOFREAD = {l.split("\t")[0].strip() for l in (_PR.read_text(encoding="utf-8").
 
 WIKI = re.compile(r"\[\[([^\]]+?)\]\]")
 MDLINK = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+BARE = re.compile(r"https?://[^\s<>\"\x00]+")
 
 
 def slugify(s: str) -> str:
@@ -108,6 +109,15 @@ class Site:
         s = WIKI.sub(wl, s)
         s = MDLINK.sub(lambda m: keep(f'<a href="{html.escape(m.group(2))}" target="_blank" rel="noopener">'
                                       f'{html.escape(m.group(1))}</a>'), s)
+
+        def bare(m):  # nackte Links aus den Shownotes kurz und klickbar: „handelsblatt.com/…“
+            url = m.group(0).rstrip(".,;:")
+            rest = m.group(0)[len(url):]
+            host = re.sub(r"^https?://(www\.)?", "", url).split("/")[0]
+            label = host + ("/…" if len(url.split("/", 3)) > 3 and url.split("/", 3)[3] else "")
+            return keep(f'<a href="{html.escape(url)}" target="_blank" rel="noopener">{html.escape(label)}</a>') + html.escape(rest)
+
+        s = BARE.sub(bare, s)
         s = html.escape(s, quote=False)
         s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
         s = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?!\w)", r"<em>\1</em>", s)

@@ -1,6 +1,6 @@
 ---
 type: faelle
-folgen: 38
+folgen: 39
 tags: [faelle]
 ---
 # Cum-Ex
@@ -50,7 +50,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 3:01](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=181) · [[Transkript 003#Minute 3|im Transkript]]
 
-> … in der Steuererziehung bezichtigten. Die Behauptung, er habe den Staat im Steuerskandal Cum Ex um Millionen betrogen, sei eine bösartige, dümmliche Hetze. Selbst Menschen mit einer mittelmäßigen Intelligenz müssten verstehen, dass er sich bei …
+> … Vorwürfe derjenigen, die ihn der Steuerhinterziehung bezichtigten. Die Behauptung, er habe den Staat im Steuerskandal Cum Ex um Millionen betrogen, sei eine bösartige, dümmliche Hetze. Selbst Menschen mit einer mittelmäßigen Intelligenz müssten verstehen, dass er sich bei …
 >
 > — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 8:10](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=490) · [[Transkript 003#Minute 8|im Transkript]]
 
@@ -58,15 +58,11 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 12:19](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=739) · [[Transkript 003#Minute 12|im Transkript]]
 
-> … freuen wir uns natürlich auch. In der nächsten Folge geht es um Cum-Ex. Wir haben ja bereits in den ersten beiden Folgen dieses Formats über diesen Fall gesprochen, aber der ist noch lange nicht …
->
-> — [[006 Wie Snowdens Retter ihn in Hongkong versteckten - und was sie ihm heute sagen wollen|#6]], [Minute 50:15](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=3015) · [[Transkript 006#Minute 50|im Transkript]]
-
 > … Steuervermögen mehr rausholen, als sie eingezahlt haben. Sie ist die Aufklärerin des Cum-Ex-Skandals. Dem Skandal, bei dem 12 Milliarden Euro nicht in der Steuerkasse gelandet sind. Sie ist die Jägerin. Ihrer Arbeit ist es …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 2:19](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=139) · [[Transkript 008#Minute 2|im Transkript]]
 
-> … die prominenteste, bekannteste Frau, die Staatsanwältin, die Jägerin, kann man sagen, im Cum-Ex-Fall. Und wir fangen jetzt, glaube ich, chronologisch am besten einfach mal vorne an, Volker. Wann hat Frau Brohr-Helker das erste Mal …
+> … die prominenteste, bekannteste Frau, die Staatsanwältin, die Jägerin, kann man sagen, im Cum-Ex-Fall. Und wir fangen jetzt, glaube ich, chronologisch am besten einfach mal vorne an, Volker. Wann hat Frau Brorhilker das erste Mal …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 4:07](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=247) · [[Transkript 008#Minute 4|im Transkript]]
 
@@ -82,6 +78,10 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 0:31](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=31) · [[Transkript 011#Minute 0|im Transkript]]
 
+> … hey, das kann nicht sein. Wir starten gerade diesen Podcast, erste Folge Cum-Ex und dann heißt es direkt, okay, Hanno Berger wird wahrscheinlich Anfang nächsten Jahres, also Anfang diesen Jahres ausgeliefert, nach neun Jahren. …
+>
+> — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 6:10](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=370) · [[Transkript 011#Minute 6|im Transkript]]
+
 > … Geschäfte für die Hamburger Traditionsbank MM Warburg. Die hat diese Fonds, also Cum-Ex-Geschäfte, initiiert und insgesamt damit laut Anklage 283 Millionen Euro Steuern hinterzogen. Und weil Hanno Berger beraten hat und dabei auch selbst …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 8:31](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=511) · [[Transkript 011#Minute 8|im Transkript]]
@@ -90,15 +90,11 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 13:55](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=835) · [[Transkript 011#Minute 13|im Transkript]]
 
-> … muss er sich jetzt letzten Endes aber verantworten. Deswegen letzte Frage zu Cum-Ex von mir an der Stelle an dich. Welche Bedeutung hat dieser Fall oder der Fall Hanno Berger jetzt vor Gericht für …
->
-> — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 19:23](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1163) · [[Transkript 011#Minute 19|im Transkript]]
-
 > Bei Cum-Ex war die Gier möglicherweise etwas größer als der Anspruch, ein ehrbarer Kaufmann zu sein. Es ist halt auch sein Lebenswerk beschädigt …
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 0:03](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=3) · [[Transkript 014#Minute 0|im Transkript]]
 
-> … gegeben hat, welche Nachrichten. Was ist passiert in den letzten Wochen im Cum-Ex-Fall? Ja, es geht rasend vorwärts. Der Cum-Ex-Fall geht jetzt schon eine Dekade lang, kann man sagen. Frau Bohr-Hilke in Köln ermittelt …
+> … gegeben hat, welche Nachrichten. Was ist passiert in den letzten Wochen im Cum-Ex-Fall? Ja, es geht rasend vorwärts. Der Cum-Ex-Fall geht jetzt schon eine Dekade lang, kann man sagen. Frau Brorhilker in Köln ermittelt …
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 2:37](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=157) · [[Transkript 014#Minute 2|im Transkript]]
 
@@ -118,13 +114,13 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 2:59](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=179) · [[Transkript 015#Minute 2|im Transkript]]
 
-> … René Bender. Er ist Investigativreporter bei uns beim Handelsblatt und begleitet den Cum-Ex-Skandal, den Cum-Ex-Fall von vornherein und natürlich auch den Prozess. Hallo René. Hallo Ina. René, wir sind jetzt an einem typischen Prozestag …
+> … René Bender. Er ist Investigativreporter bei uns beim Handelsblatt und begleitet den Cum-Ex-Skandal, den Cum-Ex-Fall von vornherein und natürlich auch den Prozess. Hallo René. Hallo Ina. René, wir sind jetzt an einem typischen Prozesstag …
 >
 > — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 4:53](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=293) · [[Transkript 015#Minute 4|im Transkript]]
 
-> … Zickler, das ist der Vorsitzende Richter, der hat schon einige Erfahrungen im Cum-Ex-Verfahren. Derjenige Richter in Deutschland sicher, der die größte Erfahrung hat und der einzige Richter ehrlich gesagt, der bisher in Strafsachen im …
+> … dazu. Also man muss da schon richtig tief drin sein in diesem Fall Cum-Ex und natürlich auch in allen Aktienrechts - und Steuerrechtsthemen. Können seine Anwälte das? Sind die vom Fach? Also auf jeden Fall …
 >
-> — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 11:45](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=705) · [[Transkript 015#Minute 11|im Transkript]]
+> — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 8:51](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=531) · [[Transkript 015#Minute 8|im Transkript]]
 
 > … Konzern, der in so einer Krise kommt, das haben wir auch bei Cum-Ex, bei den Banken, die haben jetzt alle sehr, sehr teure Anwaltskanzleien laufen. Diese Kanzleien werden also losgeschickt, um angeblich ergebnisoffen alles …
 >
@@ -138,9 +134,9 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23]], [Minute 4:04](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=244) · [[Transkript 023#Minute 4|im Transkript]]
 
-> … hat gesagt, dass er seit zehn Jahren jeden Tag sich mit diesem Cum-Ex-Thema beschäftigt und seit zehn Jahren jede Woche Dreck über ihn ausgeschüttet wird und dass das vielfach nicht stimmen würde, was da …
+> … das mag man mal dahingestellt lassen, weil ja längst festgestellt wurde, dass Cum-Ex-Gestaltungen zum Beispiel steuerrechtswidrig sind und eben auch strafbar. Das haben die Gerichte so entschieden und das ist der Rechtsstaat, der das …
 >
-> — [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23]], [Minute 11:42](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=702) · [[Transkript 023#Minute 11|im Transkript]]
+> — [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23]], [Minute 11:09](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=669) · [[Transkript 023#Minute 11|im Transkript]]
 
 > … abgelegt, dass er zumindest ab dem Jahr 2009 mit bedingtem Vorsatz die Cum-Ex-Geschäfte seiner Mandanten begleitet hat. Ich denke, mehr kann man von ihm nicht erwarten. Das geschickte Geständnis war auch absolut plausibel, offen …
 >
@@ -154,7 +150,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 0:24](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=24) · [[Transkript 020#Minute 0|im Transkript]]
 
-> … und die West-IB in Nordrhein-Westfalen. Handelsbandrecherchen zeigen, wie stark sie alle in Cum-Ex verstrickt sind. So stark, dass eine Folge nicht reichen wird, um heute über alles zu sprechen. Daher ist dies nur der …
+> … und die WestLB in Nordrhein-Westfalen. Handelsblatt-Recherchen zeigen, wie stark sie alle in Cum-Ex verstrickt sind. So stark, dass eine Folge nicht reichen wird, um heute über alles zu sprechen. Daher ist dies nur der …
 >
 > — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 2:00](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=120) · [[Transkript 020#Minute 2|im Transkript]]
 
@@ -166,7 +162,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 5:49](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=349) · [[Transkript 020#Minute 5|im Transkript]]
 
-> … Hintergrund der Ermittlungen ist die mutmaßliche Verwicklung der ehemaligen HSA Nordbank in Cum-Ex-Geschäfte, bei denen sich womöglich auch Landesbanker Steuern erstatten ließen, die zuvor niemand gezahlt hatte. Liebe Zuhörerinnen und Zuhörer, heute spüren wir …
+> … an. Hintergrund der Ermittlungen ist die mutmaßliche Verwicklung der ehemaligen HSH Nordbank in Cum-Ex-Geschäfte, bei denen sich womöglich auch Landesbanker Steuern erstatten ließen, die zuvor niemand gezahlt hatte. Liebe Zuhörerinnen und Zuhörer, heute spüren wir …
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 0:24](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=24) · [[Transkript 021#Minute 0|im Transkript]]
 
@@ -182,13 +178,9 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 6:12](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=372) · [[Transkript 021#Minute 6|im Transkript]]
 
-> … Vor mittlerweile zweieinhalb Jahren habe ich mich entschieden, aus der Gruppe der Cum-Ex-Laus zu steigen. Seitdem sind die Freunde von eins meine Feinde. Liebe Zuhörerinnen und Zuhörer, heute erzählen wir Ihnen bei Handelsblatt Crime …
+> … und ihre Freundschaft ist zerbrochen. Hintergrund dieses Dramas ist einmal mehr der Cum-Ex-Skandal. Wenn Sie diesen Podcast nicht zum ersten Mal hören, dann werden Ihnen diese fünf Buchstaben geläufig sein. Cum-Ex ist die Beschreibung …
 >
-> — [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22]], [Minute 0:38](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=38) · [[Transkript 022#Minute 0|im Transkript]]
-
-> … als falsch beschreibt. Er spricht von Gier, Skrupellosigkeit und Allmachtsfantasien. Frey sagt, Cum-Ex-Geschäfte seien kriminell. Und das ist das, was ihn von Hanno Berger unterscheidet. Beide arbeiteten einmal sehr eng zusammen. Beide verdienten auf …
->
-> — [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22]], [Minute 2:38](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=158) · [[Transkript 022#Minute 2|im Transkript]]
+> — [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22]], [Minute 1:21](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=81) · [[Transkript 022#Minute 1|im Transkript]]
 
 > … das zugelassen hat. Dies ist eine weitere Folge zu Deutschlands größtem Steuerskandal, Cum-Ex. Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Volker, hallo Sönke. Immer schön, euch hier zu sehen. …
 >
@@ -197,6 +189,10 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 > … eine klare Hierarchie in den Räumen. Wir reden jetzt so häufig über Cum-Ex und es ist immer wieder erstaunlich, muss ich sagen, wie die Abläufe tatsächlich damals waren. Sag mal, Volker, wo stand denn …
 >
 > — [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22]], [Minute 20:59](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=1259) · [[Transkript 022#Minute 20|im Transkript]]
+
+> … man sich so ein paar Aussagen jetzt anguckt, von Politikern, die das Cum-Ex-Geschäft mal beschrieben haben. Zum Beispiel der ehemalige nordrhein-westfälische Finanzminister Norbert Walter-Borjans, der war ja später auch SPD-Vorsitzender, der hatte das mal …
+>
+> — [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22]], [Minute 38:17](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=2297) · [[Transkript 022#Minute 38|im Transkript]]
 
 > Es ist soweit. Der Kronzeuge im Cum-Ex-Fall, bei dem Millionen an Steuergeldern zu Unrecht in die Hände von Investoren geschoben worden sind, sagt aus der Schüler gegen seinen …
 >
@@ -226,7 +222,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 43:17](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=2597) · [[Transkript 025#Minute 43|im Transkript]]
 
-> … über den wir hier bei Handelsbutcrime schon viel gesprochen haben, und zwar Cum-Ex. Die Methode, bei der sich die Angeklagten und noch viel mehr Menschen mehr Steuern haben zurückerstatten lassen, als sie gezahlt haben. …
+> … über den wir hier bei Handelsblatt Crime schon viel gesprochen haben, und zwar Cum-Ex. Die Methode, bei der sich die Angeklagten und noch viel mehr Menschen mehr Steuern haben zurückerstatten lassen, als sie gezahlt haben. …
 >
 > — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 1:27](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=87) · [[Transkript 024#Minute 1|im Transkript]]
 
@@ -262,17 +258,17 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 20:49](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1249) · [[Transkript 028#Minute 20|im Transkript]]
 
-> … Das sehen wir vielleicht am besten, jetzt kommen wir doch wieder auf CumEx zu sprechen, da haben wir das oft beschrieben, wie diese Staatsanwältin in Bonn, da Frau Anne Bohr-Hilker damals ganz allein in …
+> … Ersttäter ist. Aber mir fällt das auch da wieder auf. Auch in Cum-Ex sagen ja teilweise die Angeklagten, sie sind gestolpert gefühlt und mit der Hand irgendwie im Steuertopf gelandet. Das war bei Herrn …
+>
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 38:48](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2328) · [[Transkript 028#Minute 38|im Transkript]]
+
+> … ich mich, was treibt Promis und natürlich auch andere Menschen haben wir bei Cum-Ex gesehen, die viel Geld haben, sich auf Kosten der Allgemeinheit zu bedienen. Ja, da gibt es wohl, das kann man nicht …
+>
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:11:31](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4291) · [[Transkript 028#Minute 71|im Transkript]]
+
+> … Das sehen wir vielleicht am besten, jetzt kommen wir doch wieder auf Cum-Ex zu sprechen, da haben wir das oft beschrieben, wie diese Staatsanwältin in Bonn, da Frau Anne Brorhilker damals ganz allein in ihrem …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:14:06](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4446) · [[Transkript 028#Minute 74|im Transkript]]
-
-> … dem heißen Stein. Und diese Steuervermeidungskonstrukte, die kennen wir ja schon von Cum-Ex. Da ist es auch nicht immer alles legal, was nach legal aussieht. Für mich würde nicht ein Strich drunter ziehen, klingt …
->
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:18:20](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4700) · [[Transkript 028#Minute 78|im Transkript]]
-
-> … ich kann Ihnen jetzt schon sagen, sollte in unseren anderen großen Fällen CumEx oder Wirecard in der nächsten Woche nichts mehr passieren, dann erfahren Sie bei uns in den nächsten Folgen etwas zur Adler …
->
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:23:27](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=5007) · [[Transkript 028#Minute 83|im Transkript]]
 
 > … finde ich immer wieder erstaunlich. Also das fängt ja beim Bundeskanzler im Cum-Ex-Prozess an und geht jetzt über Markus Braun durchaus hin bis zu anderen Mitwirkenden. Dieses Unwissen spielt immer wieder eine große Rolle. …
 >
@@ -281,6 +277,10 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 > … wirklich ein Urteil an und zwar zu einem anderen Prozess und zwar Cum-Ex. Also halten Sie sich bereit, nächste Woche wird es noch eine Sonderfolge geben und dann haben wir auf jeden Fall ein …
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 48:39](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2919) · [[Transkript 033#Minute 48|im Transkript]]
+
+> … nächste Woche nochmal rein, denn dann geht es um das Urteil im Cum-Ex-Prozess. Aber jetzt erstmal einen schönen Abend oder einen schönen Tag. Was zählt heute wirklich, wenn Top-Talente sich für Arbeitgeber entscheiden? Nicht …
+>
+> — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 1:03:03](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3783) · [[Transkript 033#Minute 63|im Transkript]]
 
 > … aus unserer Berichterstattung. Er ist einer der größten Strippenzieher hinter dem großen Cum-Ex-Skandal. Mit mir im Gericht sind René Bender, Teil des Investigativteams und der Chef des Investigativteams des Handelsblatts Sönke Iwersen. Hallo René, hallo …
 >
@@ -354,37 +354,25 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 4:18](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=258) · [[Transkript 040#Minute 4|im Transkript]]
 
-> … Anne Brauchelker bleiben. Wir kennen den Namen ja schon aus unseren vergangenen Cum-Ex-Folgen. Zum Beispiel aus der Folge vom 27. Februar 2022. Das ist zugegeben jetzt allerdings schon ein paar Tage her. Deshalb, Sönke, …
+> … Anne Brorhilker bleiben. Wir kennen den Namen ja schon aus unseren vergangenen Cum-Ex-Folgen. Zum Beispiel aus der Folge vom 27. Februar 2022. Das ist zugegeben jetzt allerdings schon ein paar Tage her. Deshalb, Sönke, …
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 6:50](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=410) · [[Transkript 040#Minute 6|im Transkript]]
-
-> … ist es so, aber auch bei anderen. Also wenn wir diese ganze Cum-Ex-Saga uns nehmen, woher haben wir ganz, ganz viele Informationen über Hanno Berger, den Mr. Cum-Ex in Deutschland, von seinem eins engsten …
->
-> — [[043 Alarm bei Aldi Ist ein Familienstreit Schuld an den Problemen|#43]], [Minute 26:49](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1609) · [[Transkript 043#Minute 26|im Transkript]]
 
 > Der Cum-Ex-Skandal, das ist in der deutschen Wirtschaftsgeschichte das sprichwörtliche Fass ohne Boden. Wir wollen heute über einen besonderen Fall in dieser Steueraffäre …
 >
 > — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 0:02](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=2) · [[Transkript 044#Minute 0|im Transkript]]
 
-> … Jesberg und damit herzlich willkommen zu Handelsblatt Crime. Und wenn es um Cum-Ex geht, dann dürfen zwei meiner Kollegen natürlich nicht fehlen. Sönke Iwersen und Volker Futzmeier, unsere beiden Investigativreporter. Die begleiten den ganzen Fall …
+> … Jesberg und damit herzlich willkommen zu Handelsblatt Crime. Und wenn es um Cum-Ex geht, dann dürfen zwei meiner Kollegen natürlich nicht fehlen. Sönke Iwersen und Volker Votsmeier, unsere beiden Investigativreporter. Die begleiten den ganzen Fall mit …
 >
 > — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 1:35](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=95) · [[Transkript 044#Minute 1|im Transkript]]
 
-> … der Suche danach finden würde. Jedenfalls sagte der, er hätte Informationen über Cum-Ex-Geschäfte, nicht nur über die West-LB, die West-LB hat der Mann gar nicht erwähnt. Der hat nur gesagt, dass er einen riesigen …
+> … der Suche danach finden würde. Jedenfalls sagte der, er hätte Informationen über Cum-Ex-Geschäfte, nicht nur über die WestLB, die WestLB hat der Mann gar nicht erwähnt. Der hat nur gesagt, dass er einen riesigen …
 >
 > — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 3:39](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=219) · [[Transkript 044#Minute 3|im Transkript]]
 
 > … hier beim Handelsblatt im Investigativ-Team, hatte aber vorher auch schon Berührungspunkte mit Cum-Ex. Insofern hat sich das ganz gut ergänzt und als Sönke mir dann erzählt hat, dass er seit ein paar Monaten da …
 >
 > — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 5:21](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=321) · [[Transkript 044#Minute 5|im Transkript]]
-
-> … bei Recherchen zur Korruption im Gesundheitswesen, sondern ganz andere Delikte, wie beispielsweise Cum-Ex, Steuerverfahren, andere Betrugsverfahren. Und ja, wie so ein richtiger preußischer Beamter hat er auf einen gewirkt. Das kann man schon sagen. …
->
-> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 20:39](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1239) · [[Transkript 048#Minute 20|im Transkript]]
-
-> … auch eben öfters so ein bisschen doziert über besondere Verwerflichkeiten. Beispielsweise bei Cum-Ex-Steuerverfahren. Kurz noch zur Erklärung an der Stelle. Da haben ja viele Juristen eben beraten, die bei den kriminellen Geschäften waren quasi …
->
-> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 22:50](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1370) · [[Transkript 048#Minute 22|im Transkript]]
 
 > … Cerberus. Die HSH Nordbank ist eine von vielen Banken, die in den Cum-Ex-Skandal verstrickt waren. Wir haben im Podcast Handelsblatt Crime schon einiges über den größten Steuerskandal der bundesdeutschen Geschichte gehört. Aber vielleicht noch …
 >
@@ -418,7 +406,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 10:28](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=628) · [[Transkript 055#Minute 10|im Transkript]]
 
-> Wer hätte mit dieser Wendung gerechnet? Ausgerechnet die Frau, die im Cum-Ex-Prozess so viel erreicht hat. Anne Broer-Hilker, Staatsanwältin in Köln, steht unter Feuer. Und derjenige, der sie in diese Position gebracht hat, …
+> Wer hätte mit dieser Wendung gerechnet? Ausgerechnet die Frau, die im Cum-Ex-Prozess so viel erreicht hat. Anne Brorhilker, Staatsanwältin in Köln, steht unter Feuer. Und derjenige, der sie in diese Position gebracht hat, ist …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 0:06](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=6) · [[Transkript 056#Minute 0|im Transkript]]
 
@@ -430,7 +418,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 4:52](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=292) · [[Transkript 056#Minute 4|im Transkript]]
 
-> … Merkwürdiges passiert. Heute, wenn man Olaf Scholz fragt, was halten Sie von CumEx-Geschäften, sagt er einem einfach so, also CumEx, er könnte sich gar nicht vorstellen, wie man auf die Idee kommen kann, sich …
+> … Merkwürdiges passiert. Heute, wenn man Olaf Scholz fragt, was halten Sie von Cum-Ex-Geschäften, sagt er einem einfach so, also Cum-Ex, er könnte sich gar nicht vorstellen, wie man auf die Idee kommen kann, sich …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 7:02](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=422) · [[Transkript 056#Minute 7|im Transkript]]
 
@@ -438,35 +426,35 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 0:16](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=16) · [[Transkript 057#Minute 0|im Transkript]]
 
-> … der öffentlichen Kritik. Fangen wir also auch direkt da an mit den Cum-Ex-Ermittlungen. Wir hatten ja gesagt, Cum-Ex-Chefermittlerin Anne Bohrhecker wird entmachtet und das kommt jetzt doch nicht. Volker, erklär mal bitte, was genau …
+> … der öffentlichen Kritik. Fangen wir also auch direkt da an mit den Cum-Ex-Ermittlungen. Wir hatten ja gesagt, Cum-Ex-Chefermittlerin Anne Brorhilker wird entmachtet und das kommt jetzt doch nicht. Volker, erklär mal bitte, was genau …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 2:41](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=161) · [[Transkript 057#Minute 2|im Transkript]]
 
-> … Das muss man sich ja nochmal vergegenwärtigen. Ohne Anne Brorheker wäre die Cum-Ex-Aufklärung längst nicht da, wo sie heute ist. Wahrscheinlich, sage ich jetzt einfach mal so, würde vielleicht noch gar keiner im Gefängnis …
+> … ist. Das muss man sich ja nochmal vergegenwärtigen. Ohne Anne Brorhilker wäre die Cum-Ex-Aufklärung längst nicht da, wo sie heute ist. Wahrscheinlich, sage ich jetzt einfach mal so, würde vielleicht noch gar keiner im Gefängnis …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 8:16](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=496) · [[Transkript 057#Minute 8|im Transkript]]
 
-> … er dafür vorgesehen hat, die hatte überhaupt gar keine Erfahrung in diesen Cum-Ex-Ermittlungen. Also wenn man mal sieht, dass die Anne Brorheker da schon seit elf Jahren ermittelt und sich sehr tief in diese …
+> … er dafür vorgesehen hat, die hatte überhaupt gar keine Erfahrung in diesen Cum-Ex-Ermittlungen. Also wenn man mal sieht, dass die Anne Brorhilker da schon seit elf Jahren ermittelt und sich sehr tief in diese Materie …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 10:09](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=609) · [[Transkript 057#Minute 10|im Transkript]]
 
-> … so kryptisch anzuteasern, denn der Fall, das kann ich schon sagen, ist Cum-Ex. Das System dahinter ist die Staatsanwaltschaft um eine Brorhecker und das System dahinter ist ein kleiner Justizskandal in Nordrhein-Westfalen, der Frau …
+> … so kryptisch anzuteasern, denn der Fall, das kann ich schon sagen, ist Cum-Ex. Das System dahinter ist die Staatsanwaltschaft um Anne Brorhilker und das System dahinter ist ein kleiner Justizskandal in Nordrhein-Westfalen, der Frau Brorhilker …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 45:26](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2726) · [[Transkript 064#Minute 45|im Transkript]]
 
-> … getroffen hat und da in diesen Gesprächen ging es halt auch um Cum-Ex und Oliarius hat halt versucht, auf der politischen Ebene Einfluss zu nehmen, um diese Rückforderungsbescheide des Finanzamts Hamburg abzuwenden. Da ging …
+> … getroffen hat und da in diesen Gesprächen ging es halt auch um Cum-Ex und Olearius hat halt versucht, auf der politischen Ebene Einfluss zu nehmen, um diese Rückforderungsbescheide des Finanzamts Hamburg abzuwenden. Da ging …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 48:21](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2901) · [[Transkript 064#Minute 48|im Transkript]]
 
-> … Goliath, Goliath in dem Fall sehr mächtige, finanzstarke Manager, Ex-Finanzinvestoren, die mit CumEx sehr viel Geld gemacht haben und Angst hatten, es zurückzahlen zu müssen. Sie hat trotzdem gewonnen. Dann hat es wegen einer, …
+> … Goliath, Goliath in dem Fall sehr mächtige, finanzstarke Manager, Ex-Finanzinvestoren, die mit Cum-Ex sehr viel Geld gemacht haben und Angst hatten, es zurückzahlen zu müssen. Sie hat trotzdem gewonnen. Dann hat es wegen einer, …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 50:14](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3014) · [[Transkript 064#Minute 50|im Transkript]]
 
-> … könnte wirklich ein riesiges Umdenken für die ganze Anwaltsbranche, nicht nur bei Cum-Ex, nicht nur bei Steuerhinterziehung, sondern auch in allen anderen Fällen werden. Denn es ist ja so, wir sind mit jedem Fall, …
+> … mal ganz ehrlich sagen, nervt es nicht manchmal zu sagen, schon wieder Cum-Ex? Ach nee. Also es ist halt, es gibt Themen, die halt so lange dauern. Nicht viele. Ich glaube, streng genommen ist …
 >
-> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:00:29](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3629) · [[Transkript 064#Minute 60|im Transkript]]
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 59:31](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3571) · [[Transkript 064#Minute 59|im Transkript]]
 
-> … Herrn Bundeskanzler Scheuß, über die wir hier auch schon oft gesprochen haben. Cum-Ex lässt grüßen. Genau, die Warburg-Bank, das füllt ja auch inzwischen etliche Seiten und auch mehrere Untersuchungsausschüsse. Also das hat alles nicht …
+> … von Herrn Bundeskanzler Scholz, über die wir hier auch schon oft gesprochen haben. Cum-Ex lässt grüßen. Genau, die Warburg-Bank, das füllt ja auch inzwischen etliche Seiten und auch mehrere Untersuchungsausschüsse. Also das hat alles nicht …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 24:11](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1451) · [[Transkript 067#Minute 24|im Transkript]]
 
@@ -494,7 +482,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[075 Cum-Ex-Chefermittlerin Brorhilker hat gekündigt|#75]], [Minute 9:24](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=564) · [[Transkript 075#Minute 9|im Transkript]]
 
-> … tolle Leistungsbilanz hinter sich. Absolut. Sie hat wahnsinnig viel geleistet für das Cum-Ex-Verfahren, damit halt auch für die Finanzkriminalitätsbekämpfung am Standort in Deutschland. Sie wird es auch weiterhin tun, deswegen für Frau Brorhecker ist …
+> … tolle Leistungsbilanz hinter sich. Absolut. Sie hat wahnsinnig viel geleistet für das Cum-Ex-Verfahren, damit halt auch für die Finanzkriminalitätsbekämpfung am Standort in Deutschland. Sie wird es auch weiterhin tun, deswegen für Frau Brorhilker ist …
 >
 > — [[075 Cum-Ex-Chefermittlerin Brorhilker hat gekündigt|#75]], [Minute 12:02](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=722) · [[Transkript 075#Minute 12|im Transkript]]
 
@@ -522,7 +510,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 6:49](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=409) · [[Transkript 087#Minute 6|im Transkript]]
 
-> … Aber sagen wir mal, wenn jetzt, also die Händler, die an diesen Cum-Ex-Geschäften teilgenommen haben, diese wurden verurteilt. Genau, also nicht nur der Generalbevormichtigste, nicht nur der Steueranwalt, also Herr Berger hat 8 ,5 …
+> … Aber sagen wir mal, wenn jetzt, also die Händler, die an diesen Cum-Ex-Geschäften teilgenommen haben, diese wurden verurteilt. Genau, also nicht nur der Generalbevollmächtigte, nicht nur der Steueranwalt, also Herr Berger hat 8 ,5 …
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 10:10](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=610) · [[Transkript 087#Minute 10|im Transkript]]
 
@@ -546,7 +534,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[091 Meet the Team Ina Karabasz|#91]], [Minute 9:19](https://open.spotify.com/episode/1OGC6FBUiOFaJc5vis9TgH?t=559) · [[Transkript 091#Minute 9|im Transkript]]
 
-> … wird Sie weiter erschrecken. Anne Brohl-Hilker, Deutschlands führende Staatsanwältin im riesigen Steuerskandal Cum-Ex, hat hingeschmissen. Das, wie gesagt, haben einige mitbekommen. Das war im April. Und die Worte, die Sie gerade von ihr gehört …
+> … es wird Sie weiter erschrecken. Anne Brorhilker, Deutschlands führende Staatsanwältin im riesigen Steuerskandal Cum-Ex, hat hingeschmissen. Das, wie gesagt, haben einige mitbekommen. Das war im April. Und die Worte, die Sie gerade von ihr gehört …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 1:00](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=60) · [[Transkript 094#Minute 1|im Transkript]]
 
@@ -554,7 +542,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 2:44](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=164) · [[Transkript 094#Minute 2|im Transkript]]
 
-> … Herrn Biesenbach. Und also Herr Limbach hatte keinen Schwerpunkt gesetzt bei den Cum-Ex-Ermittlungen. Aber er hat gesehen, da gibt es möglicherweise Probleme. Und er hat sozusagen dem Herrn Neuhäuser den Auftrag gegeben, da mal …
+> … Herrn Biesenbach. Und also Herr Limbach hatte keinen Schwerpunkt gesetzt bei den Cum-Ex-Ermittlungen. Aber er hat gesehen, da gibt es möglicherweise Probleme. Und er hat sozusagen dem Herrn Neuheuser den Auftrag gegeben, da mal …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 7:31](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=451) · [[Transkript 094#Minute 7|im Transkript]]
 
@@ -570,7 +558,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 2:49](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=169) · [[Transkript 095#Minute 2|im Transkript]]
 
-> … der Sprecher hat uns damals gesagt, man habe Beobachtungsvorgänge angelegt. Beobachtungsvorgänge zu Cum-Ex. Aber dann hat man sich also nicht entschieden, auch ein tatsächliches Strafverfahren einzuleiten. Und dasselbe ist bei der Privatbank in einem …
+> … der Sprecher hat uns damals gesagt, man habe Beobachtungsvorgänge angelegt. Beobachtungsvorgänge zu Cum-Ex. Aber dann hat man sich also nicht entschieden, auch ein tatsächliches Strafverfahren einzuleiten. Und dasselbe ist bei der Privatbank M.M. Warburg geschehen, …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 6:23](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=383) · [[Transkript 095#Minute 6|im Transkript]]
 
@@ -578,7 +566,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 10:49](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=649) · [[Transkript 095#Minute 10|im Transkript]]
 
-> … über diese Frau gesprochen. Anne Brohl-Hilker ist ihr Name, war Deutschlands erfolgreichste Cum-Ex-Ermittlerin. War Volker, muss man leider sagen. Ja, das kann man auf jeden Fall sagen, weil sie ist Ende Mai ausgeschieden aus …
+> … häufig über diese Frau gesprochen. Anne Brorhilker ist ihr Name, war Deutschlands erfolgreichste Cum-Ex-Ermittlerin. War Volker, muss man leider sagen. Ja, das kann man auf jeden Fall sagen, weil sie ist Ende Mai ausgeschieden aus …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 16:42](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1002) · [[Transkript 104#Minute 16|im Transkript]]
 
@@ -602,21 +590,13 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 2:41](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=161) · [[Transkript 105#Minute 2|im Transkript]]
 
-> … Zuschauer und Journalistinnen und Journalisten sitzen, sondern auch einige Anwälte aus anderen Cum-Ex-Fällen. Warum ist das so? Ja, da sitzen zum Beispiel die Anwälte von Herrn Olearius. Der hat ja hier auch schon ein …
+> … Steck hat ausgesagt. Er hat sich zu wirklich kleinteiligen Prozessen während seiner Cum-Ex-Zeit geäußert, muss man sagen. Ich glaube, auf die jetzt im Detail einzugehen ist schwierig. Da ging es irgendwie um Fonds und …
 >
-> — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 12:01](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=721) · [[Transkript 105#Minute 12|im Transkript]]
+> — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 11:39](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=699) · [[Transkript 105#Minute 11|im Transkript]]
 
-> … so wahnsinnig viele reiche Menschen gibt, die ein Interesse daran hatten, dass Cum-Ex nicht rauskamen. Dann kam es raus wegen Frau Broer-Helker. Ist dieser Vorwurf, den Steck gegenüber Broer-Helker geäußert hat, jetzt auch für …
+> … so wahnsinnig viele reiche Menschen gibt, die ein Interesse daran hatten, dass Cum-Ex nicht rauskamen. Dann kam es raus wegen Frau Brorhilker. Ist dieser Vorwurf, den Steck gegenüber Brorhilker geäußert hat, jetzt auch für …
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 13:41](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=821) · [[Transkript 105#Minute 13|im Transkript]]
-
-> … gibt es doch nicht. Das klingt fast so wie Olaf Scholz im Cum-Ex-Untersuchungsausschuss, dass er sich nicht mehr an die Gespräche mit dem Banker Olearius erinnern kann. Ja, also das ist eine erstaunliche Formulierung, …
->
-> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 26:08](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=1568) · [[Transkript 107#Minute 26|im Transkript]]
-
-> … sich mit sozusagen Kapitalmarktrecht und so Geschichten auseinandersetzt. Ich denke jetzt an Cum-Ex, das ist ja wahnsinnig kompliziert, ne? Ja, aber das wird schon gesehen an solchen Themen, wo man es dann auch mal …
->
-> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 47:07](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=2827) · [[Transkript 107#Minute 47|im Transkript]]
 
 > … den ehemaligen Wirecard-CEO Markus Braun vertreten hat. Er hat den Kronzeugen im Cum-Ex-Prozess vertreten, macht er beides nicht mehr und kann heute mit uns über sich und seine Arbeit sprechen. Und wir sind sehr …
 >
@@ -634,6 +614,10 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 25:10](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1510) · [[Transkript 108#Minute 25|im Transkript]]
 
+> … Aufarbeitung läuft, jetzt hätte ich fast gesagt wie immer, in Klammern Wirecard, Cum-Ex etc. Allerdings kommt jetzt Bewegung rein, denn der Insolvenzverwalter hat einen Vorstoß unternommen und zwar will er Geld von ehemaligen Verantwortlichen. Viel Geld, Volker. …
+>
+> — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 2:25](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=145) · [[Transkript 113#Minute 2|im Transkript]]
+
 > … wie vielen Leuten sind Sie da dran? Wir hatten es ja bei Cum-Ex immer, dass es zwischenzeitlich nur eine Staatsanwältin war bei diesem Riesenfall. Wie viele sind es bei Ihnen? Wir haben in der …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 10:56](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=656) · [[Transkript 113#Minute 10|im Transkript]]
@@ -646,7 +630,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 19:38](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1178) · [[Transkript 114#Minute 19|im Transkript]]
 
-> … zu einem aktuellen Fall, denn was ist heute passiert? Der Grundzeuge im Cum-Ex-Prozess, den kennen Sie ja wahrscheinlich noch alle aus unseren Folgen, Kai-Uwe Steck ist heute vor dem Landsgericht Bonn verurteilt worden und …
+> … zu einem aktuellen Fall, denn was ist heute passiert? Der Kronzeuge im Cum-Ex-Prozess, den kennen Sie ja wahrscheinlich noch alle aus unseren Folgen, Kai-Uwe Steck ist heute vor dem Landgericht Bonn verurteilt worden und …
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 0:20](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=20) · [[Transkript 117#Minute 0|im Transkript]]
 
@@ -658,13 +642,17 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 15:27](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=927) · [[Transkript 117#Minute 15|im Transkript]]
 
-> … Oliarius krankheitsbedingt nicht mehr vor Gericht steht. Das heißt, die drei großen Cum-Ex-Prozesse sind eigentlich vorbei, oder? Ja, das kann man sagen. Es gibt natürlich noch eine Reihe weiterer Prozesse, die auch schon gelaufen …
+> … Olearius krankheitsbedingt nicht mehr vor Gericht steht. Das heißt, die drei großen Cum-Ex-Prozesse sind eigentlich vorbei, oder? Ja, das kann man sagen. Es gibt natürlich noch eine Reihe weiterer Prozesse, die auch schon gelaufen …
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 18:12](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=1092) · [[Transkript 117#Minute 18|im Transkript]]
 
 > … ist einer der wichtigsten Köpfe hinter dem größten Steuerbetrug der deutschen Geschichte, Cum-Ex. Ja, und wir erinnern uns, Cum-Ex bezeichnet sogenannte Aktienkreisgeschäfte. Banken und Investoren ließen sich damit Steuern erstatten, die sie gar nicht …
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 1:04](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=64) · [[Transkript 121#Minute 1|im Transkript]]
+
+> … erstmal nicht so viel, wenn man ihm eben unterstellt, dass er durch Cum-Ex 50 Millionen Euro erbeutet hat. Genau, das waren Zahlen, die nicht zusammenpassten. Und das fanden die Behörden offenbar auch gar nicht …
+>
+> — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 19:33](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1173) · [[Transkript 121#Minute 19|im Transkript]]
 
 > … mit dem Verfahren weitergeht und wie grundsätzlich, wie die Geschehnisse rund um Cum-Ex in Deutschland so weitergegangen sind. Jetzt muss man sagen, also Herr Steck wurde zwischendurch sehr scharf attackiert von einigen Stimmen, weil …
 >
@@ -674,11 +662,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 33:39](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2019) · [[Transkript 121#Minute 33|im Transkript]]
 
-> … dieses legendäre Treffen am Flughafen Zürich. Da waren im Grunde alle wichtigen Cum-Ex-Protagonisten dabei. Also Berger, Steck, andere noch, auch die ganzen Anwälte, die sind da gekommen. Und bis dahin hatte ja Steck immer …
->
-> — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 37:10](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2230) · [[Transkript 121#Minute 37|im Transkript]]
-
-> … geht's los mit einer neuen Folge Handelsblatt Crime. Unser Thema, wieder einmal, Cum-Ex. Wir sprechen darüber mit Anne Bräuelker, der maßgeblichen Ermittlerin in diesem unglaublichen Steuerskandal. Sie erinnern sich. Mit Cum-Ex ergaunerten sich Banken …
+> … geht's los mit einer neuen Folge Handelsblatt Crime. Unser Thema, wieder einmal, Cum-Ex. Wir sprechen darüber mit Anne Brorhilker, der maßgeblichen Ermittlerin in diesem unglaublichen Steuerskandal. Sie erinnern sich. Mit Cum-Ex ergaunerten sich Banken …
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 1:47](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=107) · [[Transkript 130#Minute 1|im Transkript]]
 
@@ -690,13 +674,17 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 5:21](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=321) · [[Transkript 130#Minute 5|im Transkript]]
 
-> … denn dazu geführt, dass jetzt tatsächlich wieder Prioritäten verschoben wurden, weg von Cum-Ex? Haben Sie dazu was gehört? Gibt es mittlerweile weniger Staatsanwälte, weniger Polizeibeamte, weniger Steuerfahnder, die mit diesem Thema befasst sind? Also …
+> … muss einer Behördenleitung klar sein, dass diese Art von Verfahren, also diese Cum-Ex-Ermittlungen, einfach eine andere Organisation bedürfen und auch eine andere Arbeitsrhythmus. Und wenn das eben nicht klar ist und vielen Vorgesetzten ist das …
 >
-> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 10:26](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=626) · [[Transkript 130#Minute 10|im Transkript]]
+> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 8:33](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=513) · [[Transkript 130#Minute 8|im Transkript]]
 
-> … Buch geschrieben. Er kommt also quasi selber zu Wort. Der Titel, der Cum-Ex-Kronzeuge, die wahre Geschichte des größten Finanzskandal aller Zeiten. Tja, doch genau da beginnen die Probleme. Denn zentrale Szenen, die Steck in …
+> … und denken jetzt, Moment, Kai-Uwe Steck, das war doch der Kronzeuge im Cum-Ex-Komplex, dem größten Steuerskandal der deutschen Geschichte und den kenne ich doch. Wir haben bei Handelsblatt Crime schon häufiger über ihn gesprochen. Aber …
 >
-> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:56](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=116) · [[Transkript 137#Minute 1|im Transkript]]
+> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:09](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=69) · [[Transkript 137#Minute 1|im Transkript]]
+
+> … wird grenzsicher spannend werden. Und bevor wir jetzt aber ganz tief in Cum-Ex einsteigen, ein kurzer Hinweis. Haben Sie bestimmt schon gehört oder auch gesehen, Handelsblatt Crime geht wieder auf Tour. Sie hatten sich …
+>
+> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 4:32](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=272) · [[Transkript 137#Minute 4|im Transkript]]
 
 > … ist Hanno Berger. Hanno Berger ist eine der größten, wichtigsten Figuren im Cum-Ex-Prozess, ist selber auch schon verurteilt. Wir haben einige Folgen zu ihm, hört da gerne im Zweifel 2 nochmal rein. Der war …
 >
@@ -705,10 +693,6 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 > … war ja ungefähr das Jahr, wo sie richtig eingestiegen sind in die Cum-Ex-Beratung und sie haben aber dann auch das Geschäft immer weiter forciert und tatsächlich haben sie dann 2010 auch diese Kanzlei wieder …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 35:01](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2101) · [[Transkript 137#Minute 35|im Transkript]]
-
-> … dann gleichberechtigte Partner in ihrer eigenen Kanzlei und dann drehen sie mit Cum-Ex richtig auf. Also für ihre Mandanten, aber auch auf eigene Rechnungen fahren sie die Steuergeschäfte hoch und sollen dann den Steuerzahler …
->
-> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 36:33](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2193) · [[Transkript 137#Minute 36|im Transkript]]
 
 > … Um Aktien rund um den Dividendenstichtag und um Geschäfte, die später als Cum-Ex bekannt werden. Der Kollege fragt, hast du da mal was Schriftliches für mich, wie das genau funktioniert? Die Antwort kommt sofort. …
 >
@@ -726,6 +710,10 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 7:20](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=440) · [[Transkript 138#Minute 7|im Transkript]]
 
+> … einen Fall, darüber haben wir auch berichtet. Da ging es um den Cum-Ex-Skandal und da ist die Maplebank von der Kanzlei Freshfields beraten worden. Die ist dann an diesen Cum-Ex Geschäften zugrunde gegangen. Dann …
+>
+> — [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146]], [Minute 49:59](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=2999) · [[Transkript 146#Minute 49|im Transkript]]
+
 > … dieser Zeit macht die Bank aber munter weiter. U.a. mit den illegalen Cum-Ex-Geschäften. Zwischen 2006 und 2011 soll die Gemeinsame Landesbank von Hamburg und Schleswig-Holstein mehr als 110 Mio. Euro Steuern hinterzogen haben. Manchmal …
 >
 > — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 0:36](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=36) · [[Transkript 150#Minute 0|im Transkript]]
@@ -738,29 +726,30 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 >
 > — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 6:42](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=402) · [[Transkript 150#Minute 6|im Transkript]]
 
-> … jetzt vielleicht nochmal so deutlich macht, ist ja eben, weil das viele Cum-Ex-Täter in diesen Verfahren und auch davor immer als Erklärung verwendet haben über viele Jahre. Da kommen wir ja auch gleich auch …
+> … gab ein Investor 50 Millionen Euro eigenes Geld rein, in so eine Cum-Ex-Angelegenheit. und 500 Millionen hat er sich dann geliehen dazu von der Bank, damals der Hypo-Vereinsbank. Und dann wurden halt Aktien gekauft …
 >
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 14:00](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=840) · [[Transkript 150#Minute 14|im Transkript]]
+> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 11:04](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=664) · [[Transkript 150#Minute 11|im Transkript]]
 
 > … sagen, ich bin ja wahrscheinlich nicht die Einzige, der sofort ein gewisser Cum-Ex-Fall mit einem gewissen Ex-Bundeskanzler hochkommt, wo Erinnerungen ihn auch bis heute davon entlastet, vielleicht auch zu Recht. Zum Thema Cum-Ex, in …
 >
 > — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 20:17](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1217) · [[Transkript 159#Minute 20|im Transkript]]
 
-## In diesen Folgen (38)
+## In diesen Folgen (39)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Shownotes · Minute [0:03](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=3), [1:51](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=111), [3:28](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=208), [5:00](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=300)
 - [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Shownotes · Minute [1:21](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=81), [3:01](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=181), [8:10](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=490), [12:19](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=739)
 - [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Shownotes · Minute [2:19](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=139), [4:07](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=247), [5:44](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=344), [10:37](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=637)
-- [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Shownotes · Minute [0:31](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=31), [8:31](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=511), [13:55](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=835), [19:23](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1163)
+- [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Shownotes · Minute [0:31](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=31), [6:10](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=370), [8:31](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=511), [13:55](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=835)
 - [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14 – Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekostet hat]] (2022-05-22) — Shownotes · Minute [0:03](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=3), [2:37](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=157), [6:29](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=389), [8:02](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=482)
-- [[015 Hanno Berger Steuer-Guru vor Gericht|#15 – Hanno Berger: Steuer-Guru vor Gericht]] (2022-06-05) — Shownotes · Minute [0:28](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=28), [2:59](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=179), [4:53](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=293), [11:45](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=705)
-- [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23 – Das Cum-Ex-Geständnis des Angeklagten Hanno Berger]] (2022-08-08) — Shownotes · Minute [4:04](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=244), [11:42](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=702), [14:56](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=896), [17:16](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=1036)
+- [[015 Hanno Berger Steuer-Guru vor Gericht|#15 – Hanno Berger: Steuer-Guru vor Gericht]] (2022-06-05) — Shownotes · Minute [0:28](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=28), [2:59](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=179), [4:53](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=293), [8:51](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=531)
+- [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23 – Das Cum-Ex-Geständnis des Angeklagten Hanno Berger]] (2022-08-08) — Shownotes · Minute [4:04](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=244), [11:09](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=669), [14:56](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=896), [17:16](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=1036)
 - [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20 – Landesbanken im Cum-Ex-Skandal: Chefetagen als justizfreie Zone]] (2022-08-14) — Shownotes · Minute [0:24](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=24), [2:00](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=120), [4:07](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=247), [5:49](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=349)
 - [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Shownotes · Minute [0:24](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=24), [2:03](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=123), [4:25](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=265), [6:12](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=372)
-- [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22 – Der Cum-Ex-Meister und sein Ziehsohn]] (2022-09-11) — Shownotes · Minute [0:38](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=38), [2:38](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=158), [4:08](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=248), [20:59](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=1259)
+- [[022 Der Cum-Ex-Meister und sein Ziehsohn|#22 – Der Cum-Ex-Meister und sein Ziehsohn]] (2022-09-11) — Shownotes · Minute [1:21](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=81), [4:08](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=248), [20:59](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=1259), [38:17](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV?t=2297)
 - [[026 Cum-Ex Show-Down vor Gericht|#26 – Cum-Ex: Show-Down vor Gericht]] (2022-09-13) — Shownotes · Minute [0:05](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=5), [1:57](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=117), [15:48](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=948), [17:55](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=1075)
 - [[024 Das Cum-Ex Dream Team (Teil 2)|#24 – Das Cum-Ex Dream Team (Teil 2)]] (2022-10-09) — Shownotes · Minute [1:27](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=87), [16:46](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1006), [18:29](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1109), [20:32](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1232)
 - [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27 – Der Bruch mit dem Cum-Ex Meister (Teil 3)]] (2022-10-23) — Shownotes · Minute [0:01](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1), [1:36](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=96), [5:20](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=320), [8:03](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=483)
+- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Minute [20:49](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1249), [38:48](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2328), [1:11:31](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4291), [1:14:06](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4446)
 - [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36 – Cum-Ex-Prozess: Hanno Berger verurteilt]] (2022-12-13) — Shownotes · Minute [0:36](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=36), [16:32](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=992), [20:12](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1212), [32:59](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1979)
 - [[031 Freshfields Spitzenkanzlei unter Verdacht|#31 – Freshfields: Spitzenkanzlei unter Verdacht]] (2022-12-18) — Shownotes · Minute [1:15](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=75), [2:52](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=172), [6:09](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=369), [16:35](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=995)
 - [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — Shownotes · Minute [0:03](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=3), [1:36](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=96), [3:29](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=209), [5:02](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=302)
@@ -770,7 +759,7 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 - [[055 Christian Olearius vor Gericht|#55 – Christian Olearius vor Gericht]] (2023-09-18) — Shownotes · Minute [0:35](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=35), [2:17](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=137), [8:10](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=490), [10:28](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=628)
 - [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Shownotes · Minute [0:06](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=6), [2:06](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=126), [4:52](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=292), [7:02](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=422)
 - [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes · Minute [0:16](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=16), [2:41](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=161), [8:16](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=496), [10:09](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=609)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [45:26](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2726), [48:21](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2901), [50:14](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3014), [1:00:29](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3629)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [45:26](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2726), [48:21](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2901), [50:14](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3014), [59:31](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3571)
 - [[075 Cum-Ex-Chefermittlerin Brorhilker hat gekündigt|#75 – Cum-Ex-Chefermittlerin Brorhilker hat gekündigt]] (2024-04-22) — Shownotes · Minute [0:18](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=18), [6:46](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=406), [9:24](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=564), [12:02](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=722)
 - [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76 – Der Mann mit der Maske: Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank]] (2024-05-04) — Shownotes · Minute [1:22](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=82), [4:40](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=280), [6:45](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=405), [9:00](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=540)
 - [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87 – Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab]] (2024-06-26) — Shownotes · Minute [5:17](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=317), [6:49](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=409), [10:10](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=610), [13:20](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=800)
@@ -778,31 +767,27 @@ Politisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und
 - [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Shownotes · Minute [1:00](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=60), [2:44](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=164), [7:31](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=451), [10:06](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=606)
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes · Minute [1:04](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=64), [2:49](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=169), [6:23](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=383), [10:49](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=649)
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [16:42](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1002), [18:25](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1105), [19:56](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1196), [43:11](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2591)
-- [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105 – Cum Ex: Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker]] (2025-01-12) — Shownotes · Minute [0:20](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=20), [2:41](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=161), [12:01](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=721), [13:41](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=821)
+- [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105 – Cum Ex: Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker]] (2025-01-12) — Shownotes · Minute [0:20](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=20), [2:41](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=161), [11:39](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=699), [13:41](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=821)
 - [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108 – Alfred Dierlamm im Gespräch: Was macht einen erfolgreichen Strafverteidiger aus?]] (2025-02-23) — Shownotes · Minute [0:47](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=47), [21:37](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1297), [23:27](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1407), [25:10](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1510)
 - [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117 – Überraschung im Cum-Ex-Prozess gegen den Kronzeugen]] (2025-06-03) — Shownotes · Minute [0:20](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=20), [4:36](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=276), [15:27](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=927), [18:12](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=1092)
-- [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121 – Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt]] (2025-08-10) — Shownotes · Minute [1:04](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=64), [32:02](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1922), [33:39](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2019), [37:10](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2230)
-- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Shownotes · Minute [1:47](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=107), [3:48](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=228), [5:21](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=321), [10:26](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=626)
-- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes · Minute [1:56](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=116), [32:17](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=1937), [35:01](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2101), [36:33](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2193)
+- [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121 – Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt]] (2025-08-10) — Shownotes · Minute [1:04](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=64), [19:33](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1173), [32:02](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1922), [33:39](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2019)
+- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Shownotes · Minute [1:47](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=107), [3:48](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=228), [5:21](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=321), [8:33](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=513)
+- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes · Minute [1:09](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=69), [4:32](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=272), [32:17](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=1937), [35:01](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2101)
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes · Minute [0:29](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=29), [3:15](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=195), [5:48](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=348), [7:20](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=440)
-- [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes · Minute [0:36](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=36), [3:34](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=214), [6:42](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=402), [14:00](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=840)
+- [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes · Minute [0:36](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=36), [3:34](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=214), [6:42](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=402), [11:04](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=664)
 
-## Kurz erwähnt (15)
+## Kurz erwähnt (11)
 
-- [[006 Wie Snowdens Retter ihn in Hongkong versteckten - und was sie ihm heute sagen wollen|#6 – Wie Snowdens Retter ihn in Hongkong versteckten - und was sie ihm heute sagen wollen]] (2022-02-13) — Minute [50:15](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=3015)
 - [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19 – Dieselgate (Teil 3): Volkswagen in den Fängen der Justiz]] (2022-07-31) — Minute [22:54](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1374), [48:06](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=2886)
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Minute [2:11](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=131), [3:45](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=225), [43:17](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=2597)
-- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Minute [20:49](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1249), [1:14:06](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4446), [1:18:20](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4700), [1:23:27](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=5007)
-- [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Minute [25:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1526), [48:39](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2919)
+- [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Minute [25:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1526), [48:39](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2919), [1:03:03](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3783)
 - [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37 – Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verbrachte (Teil 2)]] (2023-02-12) — Minute [10:37](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=637), [42:08](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2528), [48:48](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2928)
-- [[043 Alarm bei Aldi Ist ein Familienstreit Schuld an den Problemen|#43 – Alarm bei Aldi: Ist ein Familienstreit Schuld an den Problemen?]] (2023-05-07) — Minute [26:49](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1609)
-- [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48 – Wie ein Korruptionsbekämpfer selbst korrupt wurde: Der tiefe Fall eines Oberstaatsanwalts]] (2023-07-15) — Minute [20:39](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1239), [22:50](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1370)
 - [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67 – Der Elbtower in Hamburg: Desaster mit Ansage]] (2024-02-10) — Minute [24:11](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1451), [26:59](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1619), [40:21](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=2421)
 - [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72 – Meet the Team: Unsere neue Podcast-Host Solveig Gode]] (2024-04-07) — Minute [5:15](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=315)
 - [[091 Meet the Team Ina Karabasz|#91 – Meet the Team: Ina Karabasz]] (2024-08-11) — Minute [9:19](https://open.spotify.com/episode/1OGC6FBUiOFaJc5vis9TgH?t=559)
-- [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Minute [26:08](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=1568), [47:07](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=2827)
-- [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Minute [10:56](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=656), [41:26](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2486)
+- [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Minute [2:25](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=145), [10:56](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=656), [41:26](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2486)
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Minute [19:38](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1178)
+- [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146 – Diesel-Skandal bei Continental: Wer zahlt die Kosten von 300 Millionen Euro?]] (2026-05-03) — Minute [49:59](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=2999)
 - [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Minute [20:17](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1217)
 
 ---

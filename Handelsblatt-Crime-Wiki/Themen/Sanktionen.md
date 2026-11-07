@@ -30,7 +30,7 @@ _Wirtschaftliche Strafmaßnahmen gegen Staaten, Firmen und Personen – etwa Ver
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 0:15](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=15) · [[Transkript 010#Minute 0|im Transkript]]
 
-> … aufgrund der Sanktionen nach 20 Jahren zum Verkauf angeboten. Das Geld der Oligarchen schmilzt in diesen Tagen also mehr oder weniger dahin. Unser Russland-Experte Matthias Brückmann sagte mir neulich, Millionen, Mary, kannst du legal …
+> … aufgrund der Sanktionen nach 20 Jahren zum Verkauf angeboten. Das Geld der Oligarchen schmilzt in diesen Tagen also mehr oder weniger dahin. Unser Russland-Experte Matthias Brüggmann sagte mir neulich, Millionen, Mary, kannst du legal …
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 1:45](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=105) · [[Transkript 010#Minute 1|im Transkript]]
 
@@ -42,7 +42,7 @@ _Wirtschaftliche Strafmaßnahmen gegen Staaten, Firmen und Personen – etwa Ver
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 6:11](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=371) · [[Transkript 010#Minute 6|im Transkript]]
 
-> … Anfang war die Frage an Carsten L., ob er denn Unterlagen zu Sanktionen rausgeben könnte. Weil Ato E. sagte halt, das sind für Freunde von Ihnen, die wissen gar nicht, ob sie sanktioniert werden, …
+> … Anfang war die Frage an Carsten L., ob er denn Unterlagen zu Sanktionen rausgeben könnte. Weil Arthur E. sagte halt, das sind für Freunde von Ihnen, die wissen gar nicht, ob sie sanktioniert werden, ob …
 >
 > — [[066 Russland-Spionage beim Bundesnachrichtendienst|#66]], [Minute 11:46](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=706) · [[Transkript 066#Minute 11|im Transkript]]
 
@@ -50,7 +50,7 @@ _Wirtschaftliche Strafmaßnahmen gegen Staaten, Firmen und Personen – etwa Ver
 >
 > — [[066 Russland-Spionage beim Bundesnachrichtendienst|#66]], [Minute 16:55](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=1015) · [[Transkript 066#Minute 16|im Transkript]]
 
-> Tonight, I say to the Russian oligarchs and the Krupp leaders who built billions of dollars off this violent regime, no more. The United States, I mean it, …
+> Tonight, I say to the Russian oligarchs and the Corrupt leaders who built billions of dollars off this violent regime, no more. The United States, I mean it, the …
 >
 > — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 0:05](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=5) · [[Transkript 126#Minute 0|im Transkript]]
 

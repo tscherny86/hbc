@@ -34,7 +34,7 @@ Sein Ruf war dahin – „für den Preis von einer Million Euro“, wie das Hand
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 53:47](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=3227) · [[Transkript 028#Minute 53|im Transkript]]
 
-> … das frühe Geständnis, es gehörte aber auch dazu die Lebensleistung von Herrn Zumwinkel und die Vorverurteilung durch die Medien, das hat das Gericht nicht gutiert, dass die Medien offenbar wussten von der Razzia, bevor …
+> … das frühe Geständnis, es gehörte aber auch dazu die Lebensleistung von Herrn Zumwinkel und die Vorverurteilung durch die Medien, das hat das Gericht nicht goutiert, dass die Medien offenbar wussten von der Razzia, bevor …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 55:47](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=3347) · [[Transkript 028#Minute 55|im Transkript]]
 

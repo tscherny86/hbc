@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 1
 tags: [personen]
 ---
 # Jens Lehmann
@@ -22,30 +22,25 @@ Die Investigativ-Reporter stießen auf dubiose Wohnsitzkonstruktionen und sogena
 
 ## Was im Podcast gesagt wird
 
-> … vielen davon gesprochen. Ich kann mich an einen erinnern, die hieß Stefanie Lehmann in Stuttgart-Untertürkheim. Die wurde 2004 befördert zur Filialleiterin. Und da waren sie also die einzige Vollzeitkraft, hatte sonst nur Hilfskräfte. Aber …
+> … zu 1 und es geht ins Elfmeterschießen. Plötzlich kramt der deutsche Torhüter Jens Lehmann einen Zettel aus seinem Stutzen. Er liest ihn nochmal genau und was dann passiert, geht als Sommermärchen in die deutsche …
 >
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 24:36](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1476) · [[Transkript 082#Minute 24|im Transkript]]
-
-> … 1 und es geht ins Elfmeterschießen. Plötzlich kramt der deutsche Torhüter Jens Lehmann einen Zettel aus seinem Stutzen. Er liest ihn nochmal genau und was dann passiert, geht als Sommermärchen in die deutsche Fußballgeschichte …
->
-> — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 0:20](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=20) · [[Transkript 141#Minute 0|im Transkript]]
+> — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 0:19](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=19) · [[Transkript 141#Minute 0|im Transkript]]
 
 > … gekommen sind. Und sie erzählen mir von ganz schön skurrilen Erfahrungen mit Mad Jens. Und eins kann ich Ihnen versprechen, diesen Spitznamen, den hat er nicht umsonst bekommen. In diesem Podcast sprechen wir alle …
 >
 > — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 1:58](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=118) · [[Transkript 141#Minute 1|im Transkript]]
 
-> … ich mich zum Beispiel auch noch sehr, sehr gut erinnere, ist Jens Lehmann. So richtig vergessen kann man den ja auch gar nicht. Denn leise ist es um ihn und seine Karriere ja auch …
+> … die ich mich zum Beispiel auch noch sehr, sehr gut erinnere, ist Jens Lehmann. So richtig vergessen kann man den ja auch gar nicht. Denn leise ist es um ihn und seine Karriere ja …
 >
-> — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 4:26](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=266) · [[Transkript 141#Minute 4|im Transkript]]
+> — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 4:25](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=265) · [[Transkript 141#Minute 4|im Transkript]]
 
-> … ermittelt wird. Dabei hat sich dann herausgestellt, dass es sich um Jens Lehmann handelt. Und damit hat unsere Recherche hier eigentlich den Anfang genommen. Und ja, wenn man so ein bisschen es zusammenfasst, ist …
+> … Nationalspieler ermittelt wird. Dabei hat sich dann herausgestellt, dass es sich um Jens Lehmann handelt. Und damit hat unsere Recherche hier eigentlich den Anfang genommen. Und ja, wenn man so ein bisschen es zusammenfasst, …
 >
 > — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 6:17](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=377) · [[Transkript 141#Minute 6|im Transkript]]
 
-## In diesen Folgen (2)
+## In diesen Folgen (1)
 
-- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Minute [24:36](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1476)
-- [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes · Minute [0:20](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=20), [1:58](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=118), [4:26](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=266), [6:17](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=377)
+- [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes · Minute [0:19](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=19), [1:58](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=118), [4:25](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=265), [6:17](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=377)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

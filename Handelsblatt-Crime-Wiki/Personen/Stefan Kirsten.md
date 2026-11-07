@@ -26,7 +26,7 @@ Kirsten präsentierte im November 2022 einen Restrukturierungsplan, den er als �
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 37:12](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2232) · [[Transkript 029#Minute 37|im Transkript]]
 
-> … seiner Funktion, gratuliert und Karna hätte ihm also eine SMS geschickt. Und Kirsten ist dann auch sehr frontal gleich am ersten Arbeitstag vor die Presse gegangen und hat bereitwillig Auskünfte erteilt. Und das war …
+> … seiner Funktion, gratuliert und Caner hätte ihm also eine SMS geschickt. Und Kirsten ist dann auch sehr frontal gleich am ersten Arbeitstag vor die Presse gegangen und hat bereitwillig Auskünfte erteilt. Und das war …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 38:43](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2323) · [[Transkript 029#Minute 38|im Transkript]]
 
@@ -66,7 +66,7 @@ Kirsten präsentierte im November 2022 einen Restrukturierungsplan, den er als �
 >
 > — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 45:13](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=2713) · [[Transkript 042#Minute 45|im Transkript]]
 
-> … Suche zumindest für ihre Berliner Tochter endlich einen Wirtschaftsprüfer gefunden hat. Verwaltungsgrad-Chef Stefan Kirsten lobte schon, Adler sei auf dem Weg in eine neue Normalität. Bei mir sind heute Gene Bender und Michael Verführden …
+> … Suche zumindest für ihre Berliner Tochter endlich einen Wirtschaftsprüfer gefunden hat. Verwaltungsrats-Chef Stefan Kirsten lobte schon, Adler sei auf dem Weg in eine neue Normalität. Bei mir sind heute René Bender und Michael Verfürden aus dem …
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 1:02](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=62) · [[Transkript 051#Minute 1|im Transkript]]
 

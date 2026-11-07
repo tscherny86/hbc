@@ -18,11 +18,11 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-02-22 |
 | **Dauer** | 1:04:39 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI) · [MP3](https://audio.podigee-cdn.net/2328740-m-72fe63c38510d9c74b05347402cdd150.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/140-neue-episode) |
-| **Transkript** | [[Transkript 140]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 140]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Degag-Pleite]] |
 | **Themen** | [[Insolvenz]], [[Insolvenzverwalter]] |
 | **Unternehmen** | [[Degag]] |
-| **Personen** | [[Ina Karabasz]], [[Birger Dehne]], [[Bernd Klein]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Birger Dehne]], [[Bernd Klein]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes
@@ -58,14 +58,14 @@ Hier geht es zur Crime-Live-Veranstaltung.
 - [25:12](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=1512) – Das war alles okay und jetzt auf einmal kommt kein Geld mehr. Ja, also tatsächlich ist das der … ([[Transkript 140#Minute 25|Transkript]])
 - [27:15](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=1635) – Das hatte er unter anderem auch damit begründet, dass er auch persönlich für genügend Kapital zur Verfügung stellt, … ([[Transkript 140#Minute 27|Transkript]])
 - [29:18](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=1758) – Also ich bilanziere, wir haben eine Uhr, wir haben ein Auto, das passt schon mal ins Klischee, aber … ([[Transkript 140#Minute 29|Transkript]])
-- [31:20](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=1880) – Aber das sozusagen einfach mal, das Brot gab es in seinem direkten Umfeld. Okay, ich habe jetzt aber … ([[Transkript 140#Minute 31|Transkript]])
+- [31:20](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=1880) – Aber das sozusagen einfach mal, das Boot gab es in seinem direkten Umfeld. Okay, ich habe jetzt aber … ([[Transkript 140#Minute 31|Transkript]])
 - [33:27](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2007) – Wir haben ja auch die Anleger informiert und die Vorstellung, dass der Anleger unter einem Weihnachtsbaum so ein … ([[Transkript 140#Minute 33|Transkript]])
 - [35:38](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2138) – Richtig, wir haben ja auch lange drüber gerätselt, wie er eigentlich bezahlt worden ist oder ob er überhaupt … ([[Transkript 140#Minute 35|Transkript]])
 - [37:43](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2263) – Und du hattest auch mit Benkos Firmengeflecht zu tun und das war auch durchaus kompliziert, muss ich sagen. … ([[Transkript 140#Minute 37|Transkript]])
 - [39:49](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2389) – Und ihm ist dann auch wichtig zu sagen, dass für die Degag, die in Anführungszeichen zuständigen Organe über … ([[Transkript 140#Minute 39|Transkript]])
 - [42:00](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2520) – Also Aktien, eine deutliche Aktienmehrheit von fast 90 Prozent. Diese drei Gesellschaften heißen Ivory Properties 1 bis 3. … ([[Transkript 140#Minute 42|Transkript]])
 - [44:03](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2643) – Es ist jetzt nicht nur so, dass er diesen Vertrag für die SGI als Verkäufer unterzeichnet hat, er … ([[Transkript 140#Minute 44|Transkript]])
-- [46:18](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2778) – Aber jetzt können wir mal hören, was Clients zu diesen Due Diligence Themen gesagt hat. Nein, eine Due … ([[Transkript 140#Minute 46|Transkript]])
+- [46:18](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2778) – Aber jetzt können wir mal hören, was Klein zu diesen Due Diligence Themen gesagt hat. Nein, eine Due … ([[Transkript 140#Minute 46|Transkript]])
 - [48:19](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=2899) – Ja, die Argumentation der Anwälte von Herrn Dehne, ich weiß nicht, wie die das nachher machen, ob er … ([[Transkript 140#Minute 48|Transkript]])
 - [50:32](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=3032) – Und bei dieser Anzahlung ist das so, die wurde beim ersten Vertrag auf 15 Millionen Euro vereinbart und … ([[Transkript 140#Minute 50|Transkript]])
 - [52:42](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=3162) – So, und das ist ja jetzt, sag ich mal, nicht wenig Geld. Nee, auf keinen Fall. Und es … ([[Transkript 140#Minute 52|Transkript]])

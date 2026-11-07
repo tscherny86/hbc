@@ -42,7 +42,7 @@ Der Fall steht beispielhaft für die Debatte über Machtmissbrauch und toxische 
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 27:20](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1640) · [[Transkript 104#Minute 27|im Transkript]]
 
-> … haben sollen. Die haben gesagt, die schauen es sich an. Und Herr Lieberberg selber ließe bei seinem Anwalt sämtliche Vorwürfe runter raus zurückweisen und sagt, das wäre halt nicht so gewesen und zwar in …
+> … haben sollen. Die haben gesagt, die schauen es sich an. Und Herr Lieberberg selber ließe bei seinem Anwalt sämtliche Vorwürfe rundheraus zurückweisen und sagt, das wäre halt nicht so gewesen und zwar in keiner …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 28:56](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1736) · [[Transkript 104#Minute 28|im Transkript]]
 

@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-12-14 |
 | **Dauer** | 58:56 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7) · [MP3](https://audio.podigee-cdn.net/2228304-m-7def32bcceac78a3747fb9cea3c6e2eb.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/134-der-falsche-baron-von-thyssen-krupp) |
-| **Transkript** | [[Transkript 134]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 134]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Falscher Baron von Krupp]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Hochstapler]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]], [[KPMG]] |
+| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]], [[KPMG]] |
 
 ## Shownotes
 
@@ -39,13 +39,13 @@ In der aktuellen Folge von Handelsblatt Crime spricht Host Solveig Gode mit der 
 
 ## Zeitmarken
 
-- [0:01](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=1) – Sehr geehrter Herr Mattes, sehr geehrter Herr Iverson, ich erwarte von Ihnen nichts anderes als die totale Rücknahme … ([[Transkript 134#Minute 0|Transkript]])
-- [2:06](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=126) – Mein Name ist Solveig Ode und damit herzlich willkommen zu Handelsblatt Crime. Herzlich willkommen im Studio, liebe Anna. … ([[Transkript 134#Minute 2|Transkript]])
+- [0:01](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=1) – Sehr geehrter Herr Matthes, sehr geehrter Herr Iwersen, ich erwarte von Ihnen nichts anderes als die totale Rücknahme … ([[Transkript 134#Minute 0|Transkript]])
+- [2:06](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=126) – Mein Name ist Solveig Gode und damit herzlich willkommen zu Handelsblatt Crime. Herzlich willkommen im Studio, liebe Anna. … ([[Transkript 134#Minute 2|Transkript]])
 - [4:07](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=247) – Verratet mir mal bitte, wie ist diese Recherche eigentlich losgegangen? Ja, also für uns hat alles mit Sönke … ([[Transkript 134#Minute 4|Transkript]])
-- [6:10](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=370) – Und im Ruhrgebiet, da ist der Name einfach Institution. Dort verbindet jeder von Bullen und Heilbach sofort mit … ([[Transkript 134#Minute 6|Transkript]])
+- [6:10](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=370) – Und im Ruhrgebiet, da ist der Name einfach Institution. Dort verbindet jeder von Bohlen und Halbach sofort mit … ([[Transkript 134#Minute 6|Transkript]])
 - [8:16](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=496) – Und nur so mal ein Detail, der Taufpate von Alfred Krupp war wirklich Kaiser Wilhelm II. Man muss … ([[Transkript 134#Minute 8|Transkript]])
 - [10:18](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=618) – Alles aus einer Hand. Zusammen für Ihr Business. Vodafone. Ja, klar. So, und jetzt sind wir ja mitten … ([[Transkript 134#Minute 10|Transkript]])
-- [12:22](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=742) – Und von Bohlen und Halbach schreibt dort über seine Hochzeit in Las Vegas. Er wähnt aber nicht mit … ([[Transkript 134#Minute 12|Transkript]])
+- [12:22](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=742) – Und von Bohlen und Halbach schreibt dort über seine Hochzeit in Las Vegas. Er erwähnt aber nicht mit … ([[Transkript 134#Minute 12|Transkript]])
 - [14:26](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=866) – Und so war das auch hier. Sommer wusste ab Juni, dass wir ihm auf der Spur sind. Und … ([[Transkript 134#Minute 14|Transkript]])
 - [16:31](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=991) – Genau, sowas macht uns natürlich misstrauisch, wenn wir so eine E-Mail bekommen und jemand so allergisch reagiert, nur … ([[Transkript 134#Minute 16|Transkript]])
 - [18:47](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=1127) – Wir sind jetzt hier im Jahr 1995. Da war Peter Sommer 28 Jahre alt und hatte gerade seine … ([[Transkript 134#Minute 18|Transkript]])

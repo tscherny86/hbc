@@ -26,17 +26,17 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 >
 > — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 0:57](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=57) · [[Transkript 034#Minute 0|im Transkript]]
 
-> … sowas wie eine Geburtsurkunde, das ist schon, ja, so die Spitze des Datenschutzes, würde ich behaupten, weil mit einer Geburtsurkunde kann man wirklich viel Schindluder betreiben, fast noch mehr als mit Personalausweis. Jetzt habt …
+> … Daten gefunden und das ist ja schon wirklich ein offensichtlich, also riesiges Datenleck, das muss man ja sagen, also Datenleck klingt positiv, aber Datenhack vor allen Dingen. Wie seid ihr damit umgegangen? Auch hier …
 >
-> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 33:36](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2016) · [[Transkript 034#Minute 33|im Transkript]]
+> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 33:49](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2029) · [[Transkript 034#Minute 33|im Transkript]]
 
-> … Mitarbeiter hinsichtlich ihrer eigenen Daten, aber auch welcher wirtschaftlicher Schaden durch diesen Datenklau für kontinental entstehen könnte, das war für die natürlich prioritär. Naja, und Finanzchefin Dürfeld, wie Michael ja sagte, ist im Vorstand …
+> … Mitarbeiter hinsichtlich ihrer eigenen Daten, aber auch welcher wirtschaftlicher Schaden durch diesen Datenklau für Continental entstehen könnte, das war für die natürlich prioritär. Naja, und Finanzchefin Dürrfeld, wie Michael ja sagte, ist im Vorstand auch …
 >
 > — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 38:50](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2330) · [[Transkript 034#Minute 38|im Transkript]]
 
-> … noch ein Nachspiel für Conti haben, weil wir haben, es gilt die Datenschutz-Grundverordnung und die sieht unter Umständen auch echt empfindliche Bußgelder vor. Also ich glaube bis zu 4% des weltweiten Umsatzes, wenn ein …
+> … nun was kritisch ist oder nicht, es ist klar, dass so ein Datenleck das Vertrauensverhältnis zwischen Continental und den Autobauern nicht stärkt. Und das Vertrauensverhältnis leidet sowieso bereits schon zwischen den Autobauern und Conti …
 >
-> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 48:19](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2899) · [[Transkript 034#Minute 48|im Transkript]]
+> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 47:49](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2869) · [[Transkript 034#Minute 47|im Transkript]]
 
 > … als vertraulich gekennzeichnete Dokumente. Viele davon zu Unfällen mit dem Autopiloten. Dieses Datenleck hat in der vergangenen Woche ein internationales mediales Echo ausgelöst. Der Elektroautobauer Tesla hat mit massiven Datenschutzproblemen zu kämpfen. Nicht nur …
 >
@@ -50,17 +50,9 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 >
 > — [[045 Tesla-Files Die Hintergründe zum Datenleck|#45]], [Minute 21:03](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1263) · [[Transkript 045#Minute 21|im Transkript]]
 
-> … Informant, der hat tatsächlich nicht nur uns informiert, der hat auch die Datenschutzbehörde in Brandenburg in Kenntnis gesetzt über all das, was er auch uns erzählt hat. Und wir haben dann von der Datenschutzbehörde …
+> … sein. Wie interpretiert ihr das? Interessieren sich die Mitarbeiter nicht für das Datenleck oder? Doch, also mit Sicherheit. Aber ich habe es vorhin einmal ganz kurz angerissen. Tesla ist jetzt nicht unbedingt das Unternehmen, …
 >
-> — [[045 Tesla-Files Die Hintergründe zum Datenleck|#45]], [Minute 25:11](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1511) · [[Transkript 045#Minute 25|im Transkript]]
-
-> … dürfe. Die müsste man erst nochmal richtig prüfen. Und da sprechen auch datenschutzrechtliche Gründe dagegen. Und obwohl der Justizminister schon gesagt hat, mach. Als es dann neun Justizminister gab, schlief das erstmal wieder ein. …
->
-> — [[056 Eklat in der NRW-Justiz|#56]], [Minute 14:22](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=862) · [[Transkript 056#Minute 14|im Transkript]]
-
-> … das ist wirklich verworren. Es kam dann heraus, dass diese Prüfung, diese datenschutzrechtliche Prüfung, da haben die Hamburger Politiker gesagt, ja, das machen wir doch. Wir kennen ja hier in Hamburg die Gesetze auch. …
->
-> — [[056 Eklat in der NRW-Justiz|#56]], [Minute 16:32](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=992) · [[Transkript 056#Minute 16|im Transkript]]
+> — [[045 Tesla-Files Die Hintergründe zum Datenleck|#45]], [Minute 28:38](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1718) · [[Transkript 045#Minute 28|im Transkript]]
 
 > … bei Tesla gearbeitet. In seiner Zeit dort ist ihm ein wohl gigantisches Datenleck im Unternehmen aufgefallen. Er konnte Informationen einsehen, die definitiv nicht für seine Augen bestimmt waren. Gehaltsabrechnungen von Kollegen oder Kündigungsgründe ehemaliger …
 >
@@ -78,33 +70,25 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 39:51](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2391) · [[Transkript 058#Minute 39|im Transkript]]
 
-> … Tesla-Chef Elon Musk gestellt hat, hören. Den Mann, der ein wohl gigantisches Datenleck in dem Unternehmen ans Licht gebracht hat. Den Mann hinter den Tesla-Files. Zum allerersten Mal tritt Lukas Skrubski aus dem Schutz …
+> … Tesla-Chef Elon Musk gestellt hat, hören. Den Mann, der ein wohl gigantisches Datenleck in dem Unternehmen ans Licht gebracht hat. Den Mann hinter den Tesla-Files. Zum allerersten Mal tritt Lukasz Krupski aus dem Schutz der …
 >
 > — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 0:18](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=18) · [[Transkript 061#Minute 0|im Transkript]]
-
-> … 2022, da waren sie schon gekündigt. Und sie haben mir von den Datenschutzproblemen bei Tesla erzählt. Und eine der Dateien, die sie geschickt haben, war die mit 100.000 Mitarbeitern und einer Million Datensätzen, die …
->
-> — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 2:29](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=149) · [[Transkript 061#Minute 2|im Transkript]]
 
 > … dem Artikel mit dem Namen Jetzt spricht erstmals der Whistleblower über die Tesla-Files. Ja, und bitte nicht wundern, es handelt sich dabei um exklusiven Inhalt für Handelsblatt-Abonnenten. Aber keine Sorge, Sie müssen sich jetzt …
 >
 > — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 6:52](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=412) · [[Transkript 061#Minute 6|im Transkript]]
 
-> … lang blieb der Whistleblower im Verborgenen. Als das Handelsblatt Ende Mai die Tesla-Files veröffentlichte, beobachtete Lukas Krupski das Geschehen aus seiner sicheren Wohnung. So dachte er jedenfalls. Doch dann, am 1. Juni, hämmerten schwarz …
+> … lang blieb der Whistleblower im Verborgenen. Als das Handelsblatt Ende Mai die Tesla-Files veröffentlichte, beobachtete Lukasz Krupski das Geschehen aus seiner sicheren Wohnung. So dachte er jedenfalls. Doch dann, am 1. Juni, hämmerten schwarz gekleidete …
 >
 > — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 0:07](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=7) · [[Transkript 063#Minute 0|im Transkript]]
-
-> … 2022, da waren sie schon gekündigt. Und sie haben mir von den Datenschutzproblemen bei Tesla erzählt. Und eine der Dateien, die sie geschickt haben, war die mit 100.000 Mitarbeitern und einer Million Datensätzen, die …
->
-> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 22:31](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1351) · [[Transkript 063#Minute 22|im Transkript]]
-
-> … und die Sie auswerten konnten. Aber mein Hauptinteresse galt immer noch dem Datenschutzproblem. Ich wollte, dass Sie den mangelnden Datenschutz publik machen, weil die Behörden schon an der Thematik dran waren. Ich hatte Sie …
->
-> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 30:34](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1834) · [[Transkript 063#Minute 30|im Transkript]]
 
 > … kurz sprechen sollten. Der Artikel ist dann der erste Handelsblattartikel über die Tesla-Files erschienen Ende Mai. Und Anfang Juni änderte sich die Situation dann erneut sehr. Vielleicht, wenn Sie kurz beschreiben, was passierte. Der …
 >
 > — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 32:05](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1925) · [[Transkript 063#Minute 32|im Transkript]]
+
+> … haben Tesla um Stellungnahme zu den Fragen und Vorwürfen rund um die Tesla-Files gebeten. Leider kam keine Antwort. Für heute alles Gute und bis zum nächsten Mal bei Handelsblatt-Crime. Zukunft entsteht dort, wo wir gemeinsam in …
+>
+> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 41:17](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=2477) · [[Transkript 063#Minute 41|im Transkript]]
 
 > … noch einen anderen großen Fall? Ja, also wir sind ja jetzt diese Tesla-Files, sind glaube ich noch eine Nummer größer, auch vom Arbeitsaufwand. Das sind ja diese Gigabyte von Daten, die wir da ausgewertet …
 >
@@ -114,6 +98,10 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 1:23](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=83) · [[Transkript 110#Minute 1|im Transkript]]
 
+> … Daten rausgegeben, aber selber gefiltert und so weiter. Wir haben in unseren Tesla-Files sozusagen ein Dokument gefunden, da geht es um einen Mitarbeiter, der soll so eine Art sichere Umgebung schaffen im IT-System von Tesla, …
+>
+> — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 37:10](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2230) · [[Transkript 110#Minute 37|im Transkript]]
+
 > … also wir wussten ein paar Dinge über seinen Kontostand, als wir die Tesla-Files hatten und die noch sehr, sehr frisch waren. Da konnten wir ein paar Zahlen sehen. Wenn man jetzt sagt, also wenn …
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 50:57](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3057) · [[Transkript 110#Minute 50|im Transkript]]
@@ -121,10 +109,6 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 > … will viel mehr, der kann das natürlich in eurem Buch nachlesen. Die Tesla-Files, das ist jetzt verfügbar. Den Link packen wir natürlich auch noch mal in die Shownotes. Und ich habe ja am Anfang …
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 58:56](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3536) · [[Transkript 110#Minute 58|im Transkript]]
-
-> … dem Telefon. Wir hatten auch mal ein Team Tesla, als wir die Tesla-Files bekommen haben, dieser Whistleblower, da waren es vielleicht zwölf, vierzehn Leute. Da gibt es ja auch die dementsprechenden Folgen zu. Wer …
->
-> — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 7:32](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=452) · [[Transkript 142#Minute 7|im Transkript]]
 
 > … letzte Geschichte, die mich über Wochen wirklich intensiv beschäftigt hat, waren die Tesla-Files, die ihr ja auch intensiv besprochen habt. Also vielleicht nochmal kurz für alle, die es nicht mitgekriegt haben. Reporterinnen und Reporter …
 >
@@ -150,30 +134,24 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 7:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=465) · [[Transkript 162#Minute 7|im Transkript]]
 
-> … dann an die Behörden gewandt. Auch in mehreren Ländern. Also US-Verkehrsbehörde, deutsche Datenschutzbehörde, norwegische, niederländische, weil die Zentrale von Tesla in Amsterdam sitzt. Und hat dann gewartet und gewartet, also Monate. Und erst als …
->
-> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 12:13](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=733) · [[Transkript 162#Minute 12|im Transkript]]
-
 > … Dafür stand dann in regelmäßigen Pflichtmitteilungen für die Börse, dass es dieses Datenleck gibt und dass da Probleme für Tesla drin wohnen können. Warum das so wichtig war, als ihr das gefunden habt? Das …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 14:44](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=884) · [[Transkript 162#Minute 14|im Transkript]]
 
 ## In diesen Folgen (8)
 
-- [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34 – Cyberangriff auf Continental: So lief der spektakuläre Datendiebstahl bei dem Dax-Konzern ab]] (2023-01-15) — Shownotes · Minute [0:57](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=57), [33:36](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2016), [38:50](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2330), [48:19](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2899)
-- [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Shownotes · Minute [1:17](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=77), [4:15](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=255), [21:03](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1263), [25:11](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1511)
+- [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34 – Cyberangriff auf Continental: So lief der spektakuläre Datendiebstahl bei dem Dax-Konzern ab]] (2023-01-15) — Shownotes · Minute [0:57](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=57), [33:49](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2029), [38:50](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2330), [47:49](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2869)
+- [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Shownotes · Minute [1:17](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=77), [4:15](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=255), [21:03](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1263), [28:38](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1718)
 - [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Shownotes · Minute [0:12](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=12), [23:04](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=1384), [37:45](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2265), [39:51](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2391)
-- [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61 – Crime-Investigativ: Jetzt spricht erstmals der Whistleblower über die Tesla-Files]] (2023-11-10) — Shownotes · Minute [0:18](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=18), [2:29](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=149), [6:52](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=412)
-- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:07](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=7), [22:31](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1351), [30:34](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1834), [32:05](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1925)
-- [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes · Minute [1:23](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=83), [50:57](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3057), [58:56](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3536)
+- [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61 – Crime-Investigativ: Jetzt spricht erstmals der Whistleblower über die Tesla-Files]] (2023-11-10) — Shownotes · Minute [0:18](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=18), [6:52](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=412)
+- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:07](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=7), [32:05](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1925), [41:17](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=2477)
+- [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes · Minute [1:23](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=83), [37:10](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2230), [50:57](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3057), [58:56](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3536)
 - [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes · Minute [6:07](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=367), [9:39](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=579), [20:01](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1201), [29:15](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1755)
-- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:25](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=85), [7:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=465), [12:13](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=733), [14:44](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=884)
+- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:25](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=85), [7:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=465), [14:44](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=884)
 
-## Kurz erwähnt (3)
+## Kurz erwähnt (1)
 
-- [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Minute [14:22](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=862), [16:32](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=992)
 - [[088 Meet the Team Lars-Marten Nagel|#88 – Meet the Team: Lars-Marten Nagel]] (2024-07-13) — Minute [9:24](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=564)
-- [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Minute [7:32](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=452)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -71,13 +71,12 @@
   "name": "Hanno Berger",
   "folder": "Personen",
   "patterns": [
-   "\\bHanno Berger\\b",
-   "\\bHanno Bergers\\b",
-   "\\bBerger\\b(?=.{0,80}Cum)",
+   "\\bHanno Bergers?\\b",
    "\\bMister Cum-?Ex\\b"
   ],
   "summary": "Steueranwalt und „Spiritus Rector“ von Cum-Ex, nach Flucht in die Schweiz zu mehrjähriger Haft verurteilt.",
-  "body": "**Hanno Berger** (geboren 1950) gilt als Architekt der Cum-Ex-Geschäfte, bei denen sich Banken und Investoren Kapitalertragsteuern erstatten ließen, die nie gezahlt worden waren. Die Ermittler nennen ihn den „Spiritus Rector“ des Modells.\n\n- Pfarrerssohn, ab 1981 in der hessischen Finanzverwaltung, dort oberster Bankenprüfer in Frankfurt\n- Wechselte die Seiten und beriet als Steueranwalt Konzerne und Superreiche; später eigene Kanzlei mit Kai-Uwe Steck im Frankfurter Skyper\n- Flüchtete 2012 nach einer Razzia in die Schweiz und beschimpfte deutsche Ermittler als „Schweinerichter“\n\nIm Juli 2021 wurde Berger in der Schweiz festgenommen und im Februar 2022 ausgeliefert. Das Landgericht Bonn verurteilte ihn im Dezember 2022 wegen besonders schwerer Steuerhinterziehung zu acht Jahren Haft; er soll als Berater der Warburg-Gruppe einen Steuerschaden von 278 Millionen Euro mitverursacht und selbst rund 14 Millionen Euro verdient haben. Ein zweites Verfahren in Wiesbaden endete 2023 ebenfalls mit einer mehrjährigen Haftstrafe. Die Urteile sind rechtskräftig. 2025 gab Berger aus der Haft sein erstes Interview und äußerte sich über Anne Brorhilker und seinen früheren Ziehsohn Steck."
+  "body": "**Hanno Berger** (geboren 1950) gilt als Architekt der Cum-Ex-Geschäfte, bei denen sich Banken und Investoren Kapitalertragsteuern erstatten ließen, die nie gezahlt worden waren. Die Ermittler nennen ihn den „Spiritus Rector“ des Modells.\n\n- Pfarrerssohn, ab 1981 in der hessischen Finanzverwaltung, dort oberster Bankenprüfer in Frankfurt\n- Wechselte die Seiten und beriet als Steueranwalt Konzerne und Superreiche; später eigene Kanzlei mit Kai-Uwe Steck im Frankfurter Skyper\n- Flüchtete 2012 nach einer Razzia in die Schweiz und beschimpfte deutsche Ermittler als „Schweinerichter“\n\nIm Juli 2021 wurde Berger in der Schweiz festgenommen und im Februar 2022 ausgeliefert. Das Landgericht Bonn verurteilte ihn im Dezember 2022 wegen besonders schwerer Steuerhinterziehung zu acht Jahren Haft; er soll als Berater der Warburg-Gruppe einen Steuerschaden von 278 Millionen Euro mitverursacht und selbst rund 14 Millionen Euro verdient haben. Ein zweites Verfahren in Wiesbaden endete 2023 ebenfalls mit einer mehrjährigen Haftstrafe. Die Urteile sind rechtskräftig. 2025 gab Berger aus der Haft sein erstes Interview und äußerte sich über Anne Brorhilker und seinen früheren Ziehsohn Steck.",
+  "min": 3
  },
  {
   "name": "Anne Brorhilker",
@@ -234,7 +233,7 @@
    "\\bElon\\b"
   ],
   "summary": "Tesla-Chef und reichster Mensch der Welt; Autopilot-Versprechen und Firmenkultur stehen in der Kritik.",
-  "min": 5,
+  "min": 8,
   "body": "**Elon Musk** (geboren 1971 in Pretoria) ist Chef von Tesla und SpaceX, Eigentümer der Plattform X und gilt als reichster Mensch der Welt. In den Tesla-Files, rund 100 Gigabyte interner Daten, die ein Whistleblower Ende 2022 dem Handelsblatt zuspielte, steht sein wichtigstes Versprechen im Mittelpunkt: der Autopilot.\n\n- Erklärte 2019, der Autopilot sei etwa doppelt so sicher wie ein menschlicher Fahrer; drei Tage später starb in Florida eine 22-Jährige, Tesla wurde 2025 zu 243 Millionen Dollar verurteilt\n- Sagte 2022, ein funktionierender Autopilot entscheide, ob Tesla viel Geld wert sei „oder praktisch null“\n- Finanzierte 2024 Donald Trumps Wahlkampf mit rund 300 Millionen Dollar und erhielt Einfluss auf Behörden, die Tesla beaufsichtigen\n\nDie Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen Firmenkult, der an eine Sekte erinnere, und einen Konzern, der sich gegen Aufklärung von Unfällen sperrt. Dem Whistleblower Lukasz Krupski soll Musk eine ehemalige CIA-Agentin auf den Hals gehetzt haben. In Grünheide griff Musk 2026 persönlich in die Betriebsratswahl ein und warnte, die Fabrik werde bei einem Sieg der IG Metall nicht erweitert. Für vier Millionen ältere Teslas läuft das versprochene Full Self-Driving bis heute nicht."
  },
  {
@@ -280,7 +279,8 @@
    "\\bWunderwuzzi\\b"
   ],
   "summary": "Österreichischer Signa-Gründer und Ex-Milliardär; nach der Milliardenpleite 2025 in Haft und verurteilt.",
-  "body": "**René Benko** (geboren 1977 in Innsbruck) baute ab 2000 ohne Schulabschluss die Signa-Gruppe zu einem der größten Handels- und Immobilienkonzerne Europas auf, mit Objekten wie dem KaDeWe, dem Chrysler Building und dem Elbtower sowie der Kaufhauskette Galeria. Er wurde noch vor seinem 40. Geburtstag Milliardär und als „Wunderwuzzi“ gefeiert.\n\n- Unübersichtliche Firmenstrukturen und Luxusausgaben der Holding wurden ihm zum Verhängnis\n- Ende November 2023 meldete die Signa Holding Insolvenz an, die größte Pleite der österreichischen Geschichte; weitere Tochterfirmen folgten\n- Gläubiger meldeten rund zwei Milliarden Euro Forderungen an; Benko gab an, nur noch 3700 Euro im Monat zu verdienen\n\nVertraute hatten unter dem Dach der Laura Privatstiftung ein großes Immobilienportfolio aufgebaut; Geschenke an und von seiner Mutter Ingeborg beschäftigten die Ermittler. Im Januar 2025 kam Benko in Untersuchungshaft, im Juli 2025 klagte ihn die Staatsanwaltschaft Wien wegen betrügerischen Bankrotts an. Das Landesgericht Innsbruck verurteilte ihn im Oktober 2025 zu zwei Jahren Haft, weil er 300.000 Euro seiner Mutter schenkte statt sie Gläubigern zu geben; in einem zweiten Anklagepunkt wurde er freigesprochen. Weitere Ermittlungsstränge in Österreich, Deutschland und Italien laufen. Benko bestreitet die Vorwürfe."
+  "body": "**René Benko** (geboren 1977 in Innsbruck) baute ab 2000 ohne Schulabschluss die Signa-Gruppe zu einem der größten Handels- und Immobilienkonzerne Europas auf, mit Objekten wie dem KaDeWe, dem Chrysler Building und dem Elbtower sowie der Kaufhauskette Galeria. Er wurde noch vor seinem 40. Geburtstag Milliardär und als „Wunderwuzzi“ gefeiert.\n\n- Unübersichtliche Firmenstrukturen und Luxusausgaben der Holding wurden ihm zum Verhängnis\n- Ende November 2023 meldete die Signa Holding Insolvenz an, die größte Pleite der österreichischen Geschichte; weitere Tochterfirmen folgten\n- Gläubiger meldeten rund zwei Milliarden Euro Forderungen an; Benko gab an, nur noch 3700 Euro im Monat zu verdienen\n\nVertraute hatten unter dem Dach der Laura Privatstiftung ein großes Immobilienportfolio aufgebaut; Geschenke an und von seiner Mutter Ingeborg beschäftigten die Ermittler. Im Januar 2025 kam Benko in Untersuchungshaft, im Juli 2025 klagte ihn die Staatsanwaltschaft Wien wegen betrügerischen Bankrotts an. Das Landesgericht Innsbruck verurteilte ihn im Oktober 2025 zu zwei Jahren Haft, weil er 300.000 Euro seiner Mutter schenkte statt sie Gläubigern zu geben; in einem zweiten Anklagepunkt wurde er freigesprochen. Weitere Ermittlungsstränge in Österreich, Deutschland und Italien laufen. Benko bestreitet die Vorwürfe.",
+  "min": 6
  },
  {
   "name": "Mehmet Göker",
@@ -343,12 +343,12 @@
   "name": "Jens Lehmann",
   "folder": "Personen",
   "patterns": [
-   "\\bLehmann\\b",
-   "\\bLehmanns\\b",
+   "\\bJens Lehmanns?\\b",
    "\\bMad Jens\\b"
   ],
   "summary": "WM-Torwart von 2006, heute vorbestrafter Dauergast bei Gericht – auch wegen Steuerhinterziehung.",
-  "body": "**Jens Lehmann** (geboren 1969) schrieb als Nationaltorwart bei der Fußball-WM 2006 im Elfmeterschießen gegen Argentinien Geschichte. Nach der Karriere begann ein Abstieg abseits des Platzes, der ihm den Spitznamen „Mad Jens“ einbrachte.\n\n- Verkehrsdelikte, Streitigkeiten um Geld und ein Kettensägen-Angriff auf die Garage eines Nachbarn am Starnberger See\n- Vorbestraft wegen versuchten Betrugs und Sachbeschädigung\n- Handelsblatt-Recherchen in Akten der Steuerfahndung zeigen zudem eine Verurteilung wegen Steuerhinterziehung\n\nDie Investigativ-Reporter stießen auf dubiose Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“, die in keinem Land versteuert werden sollten. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, stimme deshalb nicht. Die Folge vom März 2026 erzählt die Geschichte eines Mannes, der sich offenbar nur schwer an Regeln halten kann, und ordnet ein, wie aus dem WM-Helden ein Dauergast vor Gericht wurde. Lehmann selbst äußerte sich zu den Steuervorwürfen gegenüber dem Handelsblatt nicht."
+  "body": "**Jens Lehmann** (geboren 1969) schrieb als Nationaltorwart bei der Fußball-WM 2006 im Elfmeterschießen gegen Argentinien Geschichte. Nach der Karriere begann ein Abstieg abseits des Platzes, der ihm den Spitznamen „Mad Jens“ einbrachte.\n\n- Verkehrsdelikte, Streitigkeiten um Geld und ein Kettensägen-Angriff auf die Garage eines Nachbarn am Starnberger See\n- Vorbestraft wegen versuchten Betrugs und Sachbeschädigung\n- Handelsblatt-Recherchen in Akten der Steuerfahndung zeigen zudem eine Verurteilung wegen Steuerhinterziehung\n\nDie Investigativ-Reporter stießen auf dubiose Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“, die in keinem Land versteuert werden sollten. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, stimme deshalb nicht. Die Folge vom März 2026 erzählt die Geschichte eines Mannes, der sich offenbar nur schwer an Regeln halten kann, und ordnet ein, wie aus dem WM-Helden ein Dauergast vor Gericht wurde. Lehmann selbst äußerte sich zu den Steuervorwürfen gegenüber dem Handelsblatt nicht.",
+  "min": 2
  },
  {
   "name": "Hendrik Holt",
@@ -562,12 +562,12 @@
   "name": "Stefan Effenberg",
   "folder": "Personen",
   "patterns": [
-   "\\bEffenberg\\b",
-   "\\bEffenbergs\\b",
-   "\\bEffenberg-Bank\\b"
+   "\\bStefan Effenberg\\b",
+   "\\bEffenbergs?\\b(?![- ]?Bank)"
   ],
   "summary": "Ex-Fußballprofi, der als Banker bei der VR-Bank Bad Salzungen Schmalkalden anheuerte – der „Effenberg-Bank“.",
-  "body": "**Stefan Effenberg** (geboren 1968) ist ehemaliger Fußballnationalspieler und Kapitän des FC Bayern München, mit dem er 2001 die Champions League gewann. Nach der Karriere arbeitete er als TV-Experte und Trainer.\n\n- Die VR-Bank Bad Salzungen Schmalkalden aus Südthüringen heuerte ihn als Banker an; das Institut erhielt so den Spitznamen „Effenberg-Bank“\n- Die Genossenschaftsbank verspekulierte sich mit riskanten Beteiligungen, Immobilien und Investments in erneuerbare Energien und Landwirtschaft\n- Mindestens 220 Millionen Euro Verlust drückten auf die Bilanz, die Bank hoffte auf Rettung durch die Sicherungseinrichtung der Genossenschaftsbanken\n\nDie Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu besetzen – ein einmaliger Vorgang in der Geschichte der deutschen Genossenschaftsbanken. Die Bank trennte sich später von Effenberg. Gegen ihn selbst richten sich keine strafrechtlichen Vorwürfe; im Zentrum der Ermittlungen steht der langjährige Bankchef Stefan Siebert, gegen den die Staatsanwaltschaft unter anderem wegen des Verdachts der Steuerhinterziehung vorgeht. Die Folge vom März 2024 beleuchtet einen Krimi, den die Bankenwelt so noch nicht gesehen hat, inklusive Bordell-Immobilien in Oberhausen."
+  "body": "**Stefan Effenberg** (geboren 1968) ist ehemaliger Fußballnationalspieler und Kapitän des FC Bayern München, mit dem er 2001 die Champions League gewann. Nach der Karriere arbeitete er als TV-Experte und Trainer.\n\n- Die VR-Bank Bad Salzungen Schmalkalden aus Südthüringen heuerte ihn als Banker an; das Institut erhielt so den Spitznamen „Effenberg-Bank“\n- Die Genossenschaftsbank verspekulierte sich mit riskanten Beteiligungen, Immobilien und Investments in erneuerbare Energien und Landwirtschaft\n- Mindestens 220 Millionen Euro Verlust drückten auf die Bilanz, die Bank hoffte auf Rettung durch die Sicherungseinrichtung der Genossenschaftsbanken\n\nDie Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu besetzen – ein einmaliger Vorgang in der Geschichte der deutschen Genossenschaftsbanken. Die Bank trennte sich später von Effenberg. Gegen ihn selbst richten sich keine strafrechtlichen Vorwürfe; im Zentrum der Ermittlungen steht der langjährige Bankchef Stefan Siebert, gegen den die Staatsanwaltschaft unter anderem wegen des Verdachts der Steuerhinterziehung vorgeht. Die Folge vom März 2024 beleuchtet einen Krimi, den die Bankenwelt so noch nicht gesehen hat, inklusive Bordell-Immobilien in Oberhausen.",
+  "min": 3
  },
  {
   "name": "Stefan Siebert",
@@ -617,13 +617,12 @@
   "name": "Utz Claassen",
   "folder": "Personen",
   "patterns": [
-   "\\bClaassen\\b",
-   "\\bClaassens\\b",
-   "\\bClasen\\b",
-   "\\bKlaassen\\b"
+   "\\bUtz Claassens?\\b",
+   "\\bClaassens?\\b(?=.{0,80}Syntellix)"
   ],
   "summary": "Einstiges Manager-Wunderkind und Ex-EnBW-Chef, heute Syntellix-Chef im Visier der Staatsanwaltschaft.",
-  "body": "**Utz Claassen** (geboren 1963) galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Oxford-Absolvent, McKinsey-Berater, Finanzvorstand bei VW und Sartorius, von 2003 bis 2007 Vorstandschef des Energiekonzerns EnBW.\n\n- Galt als Überflieger und knallharter Sanierer, bis Vorwürfe von Abzocke und Dauerstreit vor Gericht seinen Ruf beschädigten\n- Heute Chef der Medizintechnikfirma Syntellix, die durch leere Versprechen, verfehlte Ziele sowie nicht gezahlte Gehälter und Rechnungen auffiel\n- Die Staatsanwaltschaft verdächtigt ihn des Betrugs und der Insolvenzverschleppung und durchsuchte Syntellix\n\nClaassen weist die Vorwürfe empört zurück und zeigt auf Ex-Deutsche-Bank-Chef Jürgen Fitschen, der als Syntellix-Aufsichtsrat die Firma mit einem „Fünf-Stufen-Plan“ zerstören wolle; er verklagte Fitschen auf 68 Millionen Euro Schadensersatz. Die Reporter René Bender und Sönke Iwersen begleiten Claassens Karriere teils seit Jahrzehnten und zeichnen das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden. Eine Anklage oder ein Urteil ist nicht bekannt; es gilt die Unschuldsvermutung."
+  "body": "**Utz Claassen** (geboren 1963) galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Oxford-Absolvent, McKinsey-Berater, Finanzvorstand bei VW und Sartorius, von 2003 bis 2007 Vorstandschef des Energiekonzerns EnBW.\n\n- Galt als Überflieger und knallharter Sanierer, bis Vorwürfe von Abzocke und Dauerstreit vor Gericht seinen Ruf beschädigten\n- Heute Chef der Medizintechnikfirma Syntellix, die durch leere Versprechen, verfehlte Ziele sowie nicht gezahlte Gehälter und Rechnungen auffiel\n- Die Staatsanwaltschaft verdächtigt ihn des Betrugs und der Insolvenzverschleppung und durchsuchte Syntellix\n\nClaassen weist die Vorwürfe empört zurück und zeigt auf Ex-Deutsche-Bank-Chef Jürgen Fitschen, der als Syntellix-Aufsichtsrat die Firma mit einem „Fünf-Stufen-Plan“ zerstören wolle; er verklagte Fitschen auf 68 Millionen Euro Schadensersatz. Die Reporter René Bender und Sönke Iwersen begleiten Claassens Karriere teils seit Jahrzehnten und zeichnen das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden. Eine Anklage oder ein Urteil ist nicht bekannt; es gilt die Unschuldsvermutung.",
+  "min": 2
  },
  {
   "name": "Thomas Entzeroth",
@@ -651,13 +650,12 @@
   "name": "Peter Koppe",
   "folder": "Personen",
   "patterns": [
-   "\\bKoppe\\b",
-   "\\bKoppes\\b",
-   "\\bChefjustiziar\\b",
-   "\\bChefjurist\\b"
+   "\\bPeter Koppes?\\b",
+   "\\bKoppes?\\b"
   ],
   "summary": "Chefjustiziar der Handelsblatt Media Group, der Recherchen juristisch absichert; Gast in zwei Sonderfolgen.",
-  "body": "**Peter Koppe** ist Chefjustiziar der Handelsblatt Media Group. Bevor Recherchen des Investigativ-Teams erscheinen, prüfen er und sein Team Artikel und Podcasts; wenn es hart auf hart kommt, verteidigen sie das Handelsblatt vor Gericht.\n\n- Erlebte Millionenklagen, die bereits angedroht wurden, bevor ein Artikel überhaupt erschienen war\n- Berichtet von Fax-Abmahnungen, aggressiven Anwaltsschreiben und Prozessen rund um Wirecard, EY und prominente Werbepartner in der Kryptowelt\n- Zu Gast in der Sonderfolge vom Juni 2025 und im Jahresrückblick 2025 gemeinsam mit Justiziarin Marie Wollschlaeger\n\nKoppe beschreibt ein wiederkehrendes Muster vor Gericht: mächtige Manager, die sich in guten Zeiten mit großen Titeln schmücken und sich im juristischen Konflikt plötzlich als klein und einflusslos darstellen. Er erläutert, wo die Grenze zwischen öffentlichem Interesse und Persönlichkeitsrecht verläuft, wie unterschiedlich Gerichte je nach Zuständigkeit urteilen und wie ein Storytelling-Podcast wie „Catching Chris“ juristisch vorbereitet wird. Außerdem berichtet er von einem richtungsweisenden Urteil gegen die AfD, das die Pressefreiheit stärkt. Seine Botschaft: Pressefreiheit braucht nicht nur gute Recherche, sondern auch juristischen Rückhalt."
+  "body": "**Peter Koppe** ist Chefjustiziar der Handelsblatt Media Group. Bevor Recherchen des Investigativ-Teams erscheinen, prüfen er und sein Team Artikel und Podcasts; wenn es hart auf hart kommt, verteidigen sie das Handelsblatt vor Gericht.\n\n- Erlebte Millionenklagen, die bereits angedroht wurden, bevor ein Artikel überhaupt erschienen war\n- Berichtet von Fax-Abmahnungen, aggressiven Anwaltsschreiben und Prozessen rund um Wirecard, EY und prominente Werbepartner in der Kryptowelt\n- Zu Gast in der Sonderfolge vom Juni 2025 und im Jahresrückblick 2025 gemeinsam mit Justiziarin Marie Wollschlaeger\n\nKoppe beschreibt ein wiederkehrendes Muster vor Gericht: mächtige Manager, die sich in guten Zeiten mit großen Titeln schmücken und sich im juristischen Konflikt plötzlich als klein und einflusslos darstellen. Er erläutert, wo die Grenze zwischen öffentlichem Interesse und Persönlichkeitsrecht verläuft, wie unterschiedlich Gerichte je nach Zuständigkeit urteilen und wie ein Storytelling-Podcast wie „Catching Chris“ juristisch vorbereitet wird. Außerdem berichtet er von einem richtungsweisenden Urteil gegen die AfD, das die Pressefreiheit stärkt. Seine Botschaft: Pressefreiheit braucht nicht nur gute Recherche, sondern auch juristischen Rückhalt.",
+  "min": 3
  },
  {
   "name": "Alfons Schuhbeck",
@@ -799,12 +797,11 @@
   "name": "Jürgen Barth",
   "folder": "Personen",
   "patterns": [
-   "\\bBarth\\b",
-   "\\bBarths\\b",
-   "\\bJürgen Barth\\b"
+   "\\bJürgen Barths?\\b"
   ],
   "summary": "Le-Mans-Sieger und „Gedächtnis von Porsche“, angeklagt wegen angeblich gefälschter historischer Porsche.",
-  "body": "**Jürgen Barth** (geboren 1947) ist eine Rennsport-Ikone und lebende Porsche-Legende. 1977 gewann er für den Sportwagenhersteller das 24-Stunden-Rennen von Le Mans, 1980 das 1000-Kilometer-Rennen auf dem Nürburgring. Fast sein gesamtes Berufsleben verbrachte er im Konzern.\n\n- Galt als das „Gedächtnis von Porsche“ mit einzigartigem Wissen über historische Fahrzeuge und Fahrgestellnummern\n- Soll laut Staatsanwaltschaft geholfen haben, gefälschte historische Porsche als Originale auszugeben; vermögende Sammler seien um Millionen gebracht worden\n- Porsche erklärte den einstigen Helden zur Persona non grata\n\nVor dem Landgericht Aachen wurde Barth der Prozess gemacht; er kam vergleichsweise glimpflich davon, das Drama ging aber weiter. Der Fall erschütterte nicht nur die Reputation einer Ikone, sondern weckte auch Zweifel am Unterschied zwischen Original und Kopie bei Oldtimern, die Millionen wert sind. Er droht, Porsche und einige seiner besten Kunden zu entzweien, die fürchten müssen, dass ihre teuer erworbenen Autos verschrottet werden. Die Reporter René Bender und Michael Verfürden zeichnen in der Folge vom April 2024 die „Demontage einer Legende“ nach."
+  "body": "**Jürgen Barth** (geboren 1947) ist eine Rennsport-Ikone und lebende Porsche-Legende. 1977 gewann er für den Sportwagenhersteller das 24-Stunden-Rennen von Le Mans, 1980 das 1000-Kilometer-Rennen auf dem Nürburgring. Fast sein gesamtes Berufsleben verbrachte er im Konzern.\n\n- Galt als das „Gedächtnis von Porsche“ mit einzigartigem Wissen über historische Fahrzeuge und Fahrgestellnummern\n- Soll laut Staatsanwaltschaft geholfen haben, gefälschte historische Porsche als Originale auszugeben; vermögende Sammler seien um Millionen gebracht worden\n- Porsche erklärte den einstigen Helden zur Persona non grata\n\nVor dem Landgericht Aachen wurde Barth der Prozess gemacht; er kam vergleichsweise glimpflich davon, das Drama ging aber weiter. Der Fall erschütterte nicht nur die Reputation einer Ikone, sondern weckte auch Zweifel am Unterschied zwischen Original und Kopie bei Oldtimern, die Millionen wert sind. Er droht, Porsche und einige seiner besten Kunden zu entzweien, die fürchten müssen, dass ihre teuer erworbenen Autos verschrottet werden. Die Reporter René Bender und Michael Verfürden zeichnen in der Folge vom April 2024 die „Demontage einer Legende“ nach.",
+  "min": 2
  },
  {
   "name": "Mirko Hüllemann",

@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-03-26 |
 | **Dauer** | 50:03 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg) · [MP3](https://audio.podigee-cdn.net/1020394-m-81bfa779d0920941ff83402f50d7892c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/40-new-episode) |
-| **Transkript** | [[Transkript 040]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Insolvenzverschleppung]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
+| **Transkript** | [[Transkript 040]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
-| **Personen** | [[Sönke Iwersen]], [[Benjamin Limbach]], [[Peter Biesenbach]] |
-| **Kurz erwähnt** | [[Landesbanken im Cum-Ex-Skandal]], [[LBBW-Cum-Ex]], [[LBBW]] |
+| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]], [[Anne Brorhilker]], [[Benjamin Limbach]], [[Peter Biesenbach]] |
+| **Kurz erwähnt** | [[LBBW-Cum-Ex]], [[LBBW]] |
 
 ## Shownotes
 
@@ -58,7 +58,7 @@ Fahnder in Fitschens Wohnung
 - [2:08](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=128) – Mein Name ist Lena Jesberg und damit herzlich willkommen zu Handelsblatt Crime. Und zunächst einmal darf ich natürlich … ([[Transkript 040#Minute 2|Transkript]])
 - [4:10](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=250) – In München wird auch ein bisschen ermittelt. In Stuttgart, da beschränkt sich das aber auf wenige Fälle. Die … ([[Transkript 040#Minute 4|Transkript]])
 - [6:12](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=372) – Und ja, also unterm Strich ist die Behörde damit überfordert. Nach einer kurzen Unterbrechung geht es gleich weiter. … ([[Transkript 040#Minute 6|Transkript]])
-- [8:21](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=501) – Hat da angefangen, ja wie jede junge Staatsanwältin, mit, ich will nicht sagen Kleinkram, aber so aller Weltsachen, … ([[Transkript 040#Minute 8|Transkript]])
+- [8:21](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=501) – Hat da angefangen, ja wie jede junge Staatsanwältin, mit, ich will nicht sagen Kleinkram, aber so Allerweltssachen, ich … ([[Transkript 040#Minute 8|Transkript]])
 - [10:24](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=624) – Ja, genau. Das kann man auf jeden Fall sagen. Das war 2013 und da kam noch ein bisschen … ([[Transkript 040#Minute 10|Transkript]])
 - [12:28](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=748) – Die waren halt sehr hoch, 10, 12, 15 Prozent innerhalb von wenigen Monaten. So wie viele andere Investoren … ([[Transkript 040#Minute 12|Transkript]])
 - [14:32](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=872) – Und ich höre nicht auf an dieser Tür oder jener Tür, weil das halt so schöne Türen sind, … ([[Transkript 040#Minute 14|Transkript]])
@@ -68,7 +68,7 @@ Fahnder in Fitschens Wohnung
 - [22:47](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1367) – Also ich habe da gesessen und gedacht, was ist denn hier los? Gibt es also das Prinzip Arbeitsteilung, … ([[Transkript 040#Minute 22|Transkript]])
 - [24:53](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1493) – Also er hat dann wohl gemerkt, dass es dann schon auch darauf ankommt, mehr Leute dahin zu setzen, … ([[Transkript 040#Minute 24|Transkript]])
 - [26:54](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1614) – Und das Landgericht Bonn tatsächlich, das war auch schon fertig oder kurz jedoch. Ich glaube, die Vorbereitungen waren … ([[Transkript 040#Minute 26|Transkript]])
-- [28:55](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1735) – Der Banker von MM Warburg, das war die rechte Hand von Christian Oliarius, der langjährigen Chef von Warburg. … ([[Transkript 040#Minute 28|Transkript]])
+- [28:55](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1735) – Der Banker von MM Warburg, das war die rechte Hand von Christian Olearius, der langjährigen Chef von Warburg. … ([[Transkript 040#Minute 28|Transkript]])
 - [30:57](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1857) – Also das ist gerade mal ein halbes Jahr, acht Monate her, dass er der Chef, dass das sein … ([[Transkript 040#Minute 30|Transkript]])
 - [33:01](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1981) – Ich hoffe, dass der sich jetzt einmal rundherum informiert und dann feststellt, wie ich, dass es notwendig ist, … ([[Transkript 040#Minute 33|Transkript]])
 - [35:03](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2103) – Und die müssen erst aufwendig eingearbeitet werden. Also deswegen kann diese Hauptabteilung noch gar nicht die Schlagkraft entfalten, … ([[Transkript 040#Minute 35|Transkript]])

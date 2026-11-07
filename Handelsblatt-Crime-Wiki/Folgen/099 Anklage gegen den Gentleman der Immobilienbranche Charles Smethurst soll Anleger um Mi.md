@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-11-03 |
 | **Dauer** | 39:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY) · [MP3](https://audio.podigee-cdn.net/1600527-m-17b0dc3921a5900c8ebc432b59da375d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/99-german-property-group) |
-| **Transkript** | [[Transkript 099]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 099]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Charles Smethurst und die German Property Group]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Insolvenzverwalter]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[German Property Group]] |
 | **Personen** | [[Solveig Gode]], [[Charles Smethurst]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Schneeballsystem]], [[Rüstungsexporte und Provisionen]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Schneeballsystem]] |
 
 ## Shownotes
 
@@ -66,7 +66,7 @@ Unsere Redakteure und Auslandskorrespondenten analysieren für Sie den historisc
 - [25:04](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1504) – Aber wenn man dann in Asien sitzt oder in Irland, dann ist es halt viel schwieriger. Dann muss … ([[Transkript 099#Minute 25|Transkript]])
 - [27:08](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1628) – Aber damals hatte das Gericht den Gerrit Hölzle noch eingeschaltet. Und der hat in seinem Zwischenbericht das ganz … ([[Transkript 099#Minute 27|Transkript]])
 - [29:10](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1750) – Das war bestimmt mehrere Meter breit und vielleicht zwei Meter hoch. Also so ein Riesenplakat. Und da war … ([[Transkript 099#Minute 29|Transkript]])
-- [31:13](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1873) – Ja, teilweise spricht man auch von 20 Prozent plus. Und klar, also wenn du da 100.000 eins zahlst … ([[Transkript 099#Minute 31|Transkript]])
+- [31:13](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1873) – Ja, teilweise spricht man auch von 20 Prozent plus. Und klar, also wenn du da 100.000 einzahlst und … ([[Transkript 099#Minute 31|Transkript]])
 - [33:17](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1997) – Also er sagt, er will per se nichts dazu sagen und insofern ist mir da nicht gelungen, Kontakt … ([[Transkript 099#Minute 33|Transkript]])
 - [35:23](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=2123) – Und du hast ja auch nochmal mit dem Anlegeranwalt Peter Mattil, den wir eingangs schon mal gehört haben, … ([[Transkript 099#Minute 35|Transkript]])
 - [37:26](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=2246) – Und das liegt jetzt beim Gericht. Also das zuständige Gericht ist das Landgericht Hildesheim. Und die müssen jetzt … ([[Transkript 099#Minute 37|Transkript]])

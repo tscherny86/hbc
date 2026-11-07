@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-12-13 |
 | **Dauer** | 35:00 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT) · [MP3](https://audio.podigee-cdn.net/961311-m-592674c2a4b71785f97ee534d685da27.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/36-neue-episode) |
-| **Transkript** | [[Transkript 036]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 036]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[M.M. Warburg]], [[Freshfields]] |
-| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]], [[Christian Olearius]] |
-| **Kurz erwähnt** | [[Ulf Johannemann]], [[Untersuchungshaft]], [[Strafverteidigung]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Ulf Johannemann]] |
+| **Kurz erwähnt** | [[Untersuchungshaft]], [[Strafverteidigung]] |
 
 ## Shownotes
 
@@ -69,7 +69,7 @@ Wenn Sie Anmerkungen, Fragen, Kritik oder Lob zu dieser Folge haben, schreiben S
 - [22:59](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1379) – Was sagen Sie? Wenn man die Urteilsbegründung liest und hört und in Relation zu dem Schuldspruch und zur … ([[Transkript 036#Minute 22|Transkript]])
 - [25:01](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1501) – Dazu möchte ich bloß sagen, dass Herr Berger ja am Schluss wieder sein Geständnis wiederholt hat, dass man … ([[Transkript 036#Minute 25|Transkript]])
 - [27:17](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1637) – Die ist statthaft geblieben und standhaft geblieben. Und so ist jetzt Berger hier im Gericht verurteilt und nicht … ([[Transkript 036#Minute 27|Transkript]])
-- [29:22](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1762) – Jetzt sagt der Kronzeuger, ich zahle es zurück. Und Hanno Berger sagt, ich habe nichts mehr. Und deshalb … ([[Transkript 036#Minute 29|Transkript]])
+- [29:22](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1762) – Jetzt sagt der Kronzeuge, ich zahle es zurück. Und Hanno Berger sagt, ich habe nichts mehr. Und deshalb … ([[Transkript 036#Minute 29|Transkript]])
 - [31:25](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1885) – Wenn er jetzt tatsächlich keine Revision einlegen würde, würde er sich damit einen Gefallen tun? Einerseits schon, denn … ([[Transkript 036#Minute 31|Transkript]])
 - [33:27](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=2007) – Freshfields ist eine der, oder war vielleicht eine der angesehensten Kanzleien der Welt. Und wir haben ja vorhin … ([[Transkript 036#Minute 33|Transkript]])
 - [35:33](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=2133) – Ansonsten finden Sie in den Shownotes auch eine Telefonnummer, die Sie sich wenden können. Wir danken Ihnen fürs … ([[Transkript 036#Minute 35|Transkript]])

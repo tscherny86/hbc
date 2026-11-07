@@ -32,7 +32,7 @@ Die Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – u
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 34:47](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=2087) · [[Transkript 025#Minute 34|im Transkript]]
 
-> … erst saß der Star-Koch Alfons Schubeck wegen Steuerhinterziehung auf der Anklagebank. Das Landgericht München verurteilte den wohl bekanntesten Koch der Republik zu einer Haftstrafe ohne Bewährung. Schubeck muss für drei Jahre und zwei Monate …
+> … erst saß der Star-Koch Alfons Schuhbeck wegen Steuerhinterziehung auf der Anklagebank. Das Landgericht München verurteilte den wohl bekanntesten Koch der Republik zu einer Haftstrafe ohne Bewährung. Schuhbeck muss für drei Jahre und zwei Monate …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 0:33](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=33) · [[Transkript 028#Minute 0|im Transkript]]
 
@@ -52,7 +52,7 @@ Die Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – u
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 32:10](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1930) · [[Transkript 038#Minute 32|im Transkript]]
 
-> … dieser Stelle einmal interessieren würde, er hat jetzt in erster Instanz vorm Landgericht München verloren. Das war es für ihn aber noch nicht. Er will weitermachen. Ja, er gibt jetzt nicht kleinen Ball. Also …
+> … dieser Stelle einmal interessieren würde, er hat jetzt in erster Instanz vorm Landgericht München verloren. Das war es für ihn aber noch nicht. Er will weitermachen. Ja, er gibt jetzt nicht klein bei. Also ich glaube, …
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 48:28](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2908) · [[Transkript 038#Minute 48|im Transkript]]
 
@@ -68,9 +68,17 @@ Die Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – u
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 15:27](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=927) · [[Transkript 039#Minute 15|im Transkript]]
 
+> … da könne man nicht alles in voller Länge ausführen. Da war Richter Födisch dann relativ klar, oder nicht relativ, sondern klar, sondern hat gesagt, sie haben eigentlich das Gegenteil kommuniziert in der Ad-Hoc-Mitteilung. Das …
+>
+> — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 18:46](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1126) · [[Transkript 039#Minute 18|im Transkript]]
+
 > … Wort gemeldet. Über seinen Anwalt hat er ein achtseitiges Schreiben an das Landgericht München schicken lassen, wo derzeit der erste Strafprozess um den milliardenschweren Betrug stattfindet. Wir haben in einer Sonderfolge schon ganz kurz …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 0:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=25) · [[Transkript 049#Minute 0|im Transkript]]
+
+> … Werning gesagt, einer der Anwälte Brauns. Ja, der Richter, Vorsitzender Richter Markus Födisch meinte dann allerdings, dass er kaum Möglichkeiten sehen würde, das Schreiben zum Gegenstand des Prozesses zu machen. Und dann ging der …
+>
+> — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 25:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1525) · [[Transkript 049#Minute 25|im Transkript]]
 
 > … die Verhandlung einführen kann. Und darüber muss jetzt der Richter, der Herr Födisch, muss jetzt entscheiden, ob der Antrag zulässig ist oder nicht. Diese Entscheidung steht noch aus. Ich weiß auch nicht, wann sie …
 >
@@ -84,17 +92,33 @@ Die Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – u
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 0:21](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=21) · [[Transkript 089#Minute 0|im Transkript]]
 
-> … wo die Prozessbeteiligten sitzen. Da sitzt unter anderem der Vorsitzende Richter Markus Födisch in der Mitte und neben ihm seine beisitzenden Richter und die Cheffen. Rechts davon sitzen die Vertreter der Staatsanwaltschaft. Stefan von …
+> … wo die Prozessbeteiligten sitzen. Da sitzt unter anderem der Vorsitzende Richter Markus Födisch in der Mitte und neben ihm seine beisitzenden Richter und die Schöffen. Rechts davon sitzen die Vertreter der Staatsanwaltschaft. Stephan von Erffa sitzt, von …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 6:16](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=376) · [[Transkript 089#Minute 6|im Transkript]]
 
-> … richtig spannend. Denn jetzt geht die Befragung los. Der Vorsitzende Richter Markus Födisch hat den Angeklagten von Erfa gleich im ersten Verhandlungstermin scharf zurechtgewiesen. Er glaubt von Erfa in wichtigen Punkten einfach nicht. Was …
+> … beiden dann halt immer wieder aneinander geraten, haben immer wieder diskutiert, bis Födisch dann irgendwann total genervt war und dann auch schon recht ruppig, würde ich mal sagen, gesagt hat, wir sind hier nicht …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 33:34](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2014) · [[Transkript 089#Minute 33|im Transkript]]
+
+> … wahnsinnig viel Geld gewesen, haben sogar einen Großteil der Liquidität dargestellt. Und Födisch hat dann eben immer wieder gefragt, warum sind Sie da nicht hellhörig geworden? Und was hat er dann gesagt? von Erffa hat …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 47:34](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2854) · [[Transkript 089#Minute 47|im Transkript]]
+
+> … richtig spannend. Denn jetzt geht die Befragung los. Der Vorsitzende Richter Markus Födisch hat den Angeklagten von Erffa gleich im ersten Verhandlungstermin scharf zurechtgewiesen. Er glaubt von Erffa in wichtigen Punkten einfach nicht. Was von Erffa erzähle, …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 0:37](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=37) · [[Transkript 093#Minute 0|im Transkript]]
 
 > … ist ja auch eine ganz schön besondere Atmosphäre da in dieser JVA Stadelheim, in diesem Hochsicherheitsgerichtssaal, fünf Meter unter der Erde. Jetzt warst du ja für uns dieses Mal da, René, und hast von …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 2:36](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=156) · [[Transkript 093#Minute 2|im Transkript]]
+
+> … dann ging es ja eigentlich auch direkt zur Sache, oder? Der Richter Födisch, der hat ja gleich losgelegt. Ja, so kann man es sagen. Erstmal war allerdings von Erffa dran. Der hat noch ein ergänzendes …
+>
+> — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 4:29](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=269) · [[Transkript 093#Minute 4|im Transkript]]
+
+> … legte dann auch Mails vor, die das dokumentieren sollen. Und dann warf Födisch eben vor, das war eine Wortklauberei, was er mache. Das gleiche hat ja eigentlich aber auch Födisch ihm vorgeworfen, oder? Genau, …
+>
+> — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 6:29](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=389) · [[Transkript 093#Minute 6|im Transkript]]
 
 > … Verfügung gegen die Fotoveröffentlichung beantragt. Diesmal war es aber andersrum. Tatsächlich das Landgericht München ist unserer Auffassung gefolgt, hat uns Recht gegeben und hat gesagt, ja, die Abwägung aller Interessen kommt nach Erhebung der …
 >
@@ -108,7 +132,7 @@ Die Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – u
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 34:59](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2099) · [[Transkript 116#Minute 34|im Transkript]]
 
-> … Heinrich war eben Geschäftspartner von Alexander Samwa und hat dann vor dem Landgericht München versucht, eine einstwellige Verfügung gegen uns zu kriegen, weil wir ihn in der Wirtschaftswoche, Achtung, als Landwirtssohn aus dem Münchner …
+> … Heinrich war eben Geschäftspartner von Alexander Samwer und hat dann vor dem Landgericht München versucht, eine einstweilige Verfügung gegen uns zu kriegen, weil wir ihn in der Wirtschaftswoche, Achtung, als Landwirtssohn aus dem Münchner …
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 37:09](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2229) · [[Transkript 116#Minute 37|im Transkript]]
 
@@ -117,10 +141,10 @@ Die Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – u
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [0:47](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=47), [2:39](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=159), [34:47](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=2087)
 - [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes · Minute [0:33](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=33), [46:46](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2806)
 - [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Shownotes · Minute [6:51](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=411), [46:53](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2813)
-- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes · Minute [0:51](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=51), [13:24](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=804), [15:27](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=927)
-- [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes · Minute [0:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=25), [32:16](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1936), [41:58](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2518)
-- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Shownotes · Minute [0:21](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=21), [6:16](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=376)
-- [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Shownotes · Minute [0:37](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=37), [2:36](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=156)
+- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes · Minute [0:51](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=51), [13:24](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=804), [15:27](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=927), [18:46](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1126)
+- [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes · Minute [0:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=25), [25:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1525), [32:16](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1936), [41:58](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2518)
+- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Shownotes · Minute [0:21](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=21), [6:16](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=376), [33:34](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2014), [47:34](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2854)
+- [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Shownotes · Minute [0:37](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=37), [2:36](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=156), [4:29](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=269), [6:29](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=389)
 - [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Minute [26:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1608), [33:25](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2005), [34:59](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2099), [37:09](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2229)
 
 ## Kurz erwähnt (1)

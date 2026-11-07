@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-11-03 |
 | **Dauer** | 1:12:19 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9) · [MP3](https://audio.podigee-cdn.net/1249006-m-0a01cc6cf42c58bbf10625e314eac7a2.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/58-neue-episode) |
-| **Transkript** | [[Transkript 058]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 058]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]] |
-| **Themen** | [[Whistleblower]], [[Spionage]], [[Datenleck]], [[Autonomes Fahren]] |
+| **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Sönke Iwersen]], [[Elon Musk]], [[Lukasz Krupski]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Staatsanwaltschaft und Strafprozess]], [[Pressefreiheit und Presserecht]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Jan Marsalek]], [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 
@@ -71,7 +71,7 @@ Unsere erste Crime-Folge zu den Tesla-Files hören Sie hier.
 - [33:08](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=1988) – Und er kam einfach mit seiner, er wurde dann, er hat dann Arbeits - so Zwischenzeugnisse, praktisch Bewertungen, … ([[Transkript 058#Minute 33|Transkript]])
 - [35:09](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2109) – Und nicht nur das, sondern nach dem, was er über das Unternehmen weiß, was er mit seinen Vorgesetzten … ([[Transkript 058#Minute 35|Transkript]])
 - [37:15](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2235) – Es gibt Leute, die haben Tesla wegen verschiedener Sachen verklagt. Elon Musk ist ja berühmt dafür, Sachen anzukündigen, … ([[Transkript 058#Minute 37|Transkript]])
-- [39:21](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2361) – Und natürlich sind das Informationen, die ein Bandmitarbeiter, also jemand auf Level von Kupski und auch in dem … ([[Transkript 058#Minute 39|Transkript]])
+- [39:21](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2361) – Und natürlich sind das Informationen, die ein Bandmitarbeiter, also jemand auf Level von Krupski und auch in dem … ([[Transkript 058#Minute 39|Transkript]])
 - [41:42](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2502) – und im Endeffekt macht er, also der gibt da Stichworte ein, das was ihm gerade in den Kopf … ([[Transkript 058#Minute 41|Transkript]])
 - [43:52](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2632) – Der betreibt so eine Website, auf denen er Gerichtsdokumente hochlädt zu anderen Unternehmen, aber vor allen Dingen auch … ([[Transkript 058#Minute 43|Transkript]])
 - [45:53](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=2753) – Er hat sich, sagt er, Sorgen gemacht um seine eigene Gesundheit, um die seiner Kollegen, aber auch um … ([[Transkript 058#Minute 45|Transkript]])
@@ -79,7 +79,7 @@ Unsere erste Crime-Folge zu den Tesla-Files hören Sie hier.
 - [50:05](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3005) – jetzt hatte der ja schon, wenn man mit dem sprach oder wenn man überhaupt den Kontakt aufnahm, schon … ([[Transkript 058#Minute 50|Transkript]])
 - [52:07](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3127) – Also nach zwei Stunden hast du schon 25 Nachrichten dann gehabt und er ist nicht der Einzige, der … ([[Transkript 058#Minute 52|Transkript]])
 - [54:09](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3249) – Zukunft entsteht dort, wo wir gemeinsam in Deutschlands Fortschritt investieren und aus guten Ideen Aufbruch wird. Genau dafür … ([[Transkript 058#Minute 54|Transkript]])
-- [56:11](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3371) – Der Masalik hat sich ja abgesetzt, ist dann verschwunden und wird auch noch immer international gesucht und da … ([[Transkript 058#Minute 56|Transkript]])
+- [56:11](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3371) – Der Marsalek hat sich ja abgesetzt, ist dann verschwunden und wird auch noch immer international gesucht und da … ([[Transkript 058#Minute 56|Transkript]])
 - [58:31](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3511) – Wir haben das dann aber alles, natürlich nichts abgelehnt, sondern alles genommen und bei uns, und da muss … ([[Transkript 058#Minute 58|Transkript]])
 - [1:00:37](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3637) – Er wusste nicht mehr, ob das, was er auf diesem Stick hatte, nicht auch auf dem Stick war … ([[Transkript 058#Minute 60|Transkript]])
 - [1:03:29](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3809) – Die Geschichte geht dann ja so weiter, dass wir dann, wir recherchieren, recherchieren und verifizieren die Daten und … ([[Transkript 058#Minute 63|Transkript]])

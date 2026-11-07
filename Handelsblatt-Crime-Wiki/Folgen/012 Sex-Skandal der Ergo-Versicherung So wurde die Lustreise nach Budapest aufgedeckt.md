@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-04-24 |
 | **Dauer** | 46:20 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3DDjiaRQQYFtVNOjb00x1g) · [MP3](https://audio.podigee-cdn.net/722601-m-c38509f4bc70983d95ac4e3ba91e5989.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/12-neue-episode) |
-| **Transkript** | [[Transkript 012]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 012]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Ergo-Lustreisen]] |
-| **Themen** | [[Rüstungsexporte und Provisionen]] |
-| **Unternehmen** | [[Ergo]], [[Handelsblatt]] |
+| **Themen** | – |
+| **Unternehmen** | [[Ergo]] |
 | **Personen** | [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[Falschaussage]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 

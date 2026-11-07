@@ -22,8 +22,8 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Deutsche Finance Gruppe]] |
 | **Themen** | [[Wirtschaftsprüfung]] |
 | **Unternehmen** | [[Deutsche Finance Group]], [[BaFin]] |
-| **Personen** | [[Ina Karabasz]], [[René Benko]] |
-| **Kurz erwähnt** | [[Signa und René Benko]], [[Private Equity]], [[Staatsanwaltschaft und Strafprozess]], [[Signa]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
+| **Kurz erwähnt** | [[Signa und René Benko]], [[René Benko]], [[Private Equity]], [[Staatsanwaltschaft und Strafprozess]], [[Signa]] |
 
 ## Shownotes
 

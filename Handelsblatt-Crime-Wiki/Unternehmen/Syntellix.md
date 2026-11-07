@@ -20,25 +20,25 @@ Der Fall steht für Selbstinszenierung, Größenwahn und juristische Dauerfehden
 
 ## Was im Podcast gesagt wird
 
-> … Das, was ihr da gerade gehört habt, ist eine Pressemitteilung des Medizintechnikunternehmens Syntelix. Das Unternehmen bietet innovative Operationsschrauben an. Die Firma sollte zu einer Weltmarke, einem Milliardenunternehmen werden. Daraus wurde aber nichts. Dafür soll …
+> … Das, was ihr da gerade gehört habt, ist eine Pressemitteilung des Medizintechnikunternehmens Syntellix. Das Unternehmen bietet innovative Operationsschrauben an. Die Firma sollte zu einer Weltmarke, einem Milliardenunternehmen werden. Daraus wurde aber nichts. Dafür soll …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:15](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=75) · [[Transkript 127#Minute 1|im Transkript]]
 
-> … Revolution in der Medizintechnikbranche auf den Weg bringt. Und das Versprechen von Syntelix war tatsächlich, 50 Prozent aller Operationen mit Schrauben praktisch überflüssig zu machen. Denn es ist ja so, wenn du dir was …
+> … Solveig. Und hallo René. Hallo Solveig, grüß dich. Ja, ihr zwei. Also Utz Claassen ist ein ganz besonderer Manager, kann man glaube ich sagen. Sönke, du hast ja seit mehr als 20 Jahren bereits mit …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 5:51](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=351) · [[Transkript 127#Minute 5|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 3:09](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=189) · [[Transkript 127#Minute 3|im Transkript]]
 
-> … also schon ein paar Jahre her. Ich würde aber sagen, zur Weltmarke Syntelix ist es ja aber bisher mit seinen Produkten noch nicht ganz gekommen. Nee, das ist völlig richtig. Im Gegenteil, die Umsätze …
+> … Alle anderen scheitern seit mehr als einem Jahrhundert an diesem Problem. Aber Utz Claassen geht das Ganze an und schafft das in fünf Jahren. Genau, so wie er halt ist. Das Interview zeigt wirklich sehr …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 7:40](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=460) · [[Transkript 127#Minute 7|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 5:25](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=325) · [[Transkript 127#Minute 5|im Transkript]]
 
-> … werden. Das nächste, wo man dann wirklich von ihm gehört hat, war Syntelix und alles, was sich eben um das Unternehmen dreht. Aber wollte Klasen denn dann überhaupt noch Manager sein? Das klingt jetzt …
+> … würden. Disruptieren. Hören wir oft in der Managersprache. Disruptieren nannte das auch Utz Claassen. Den Schraubenmarkt disruptieren. Und mit diesen Worten und mit diesen Zahlen vor allem, also 100 Milliarden ist ja schon eine ziemliche …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 40:50](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=2450) · [[Transkript 127#Minute 40|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 6:58](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=418) · [[Transkript 127#Minute 6|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [1:15](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=75), [5:51](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=351), [7:40](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=460), [40:50](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=2450)
+- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [1:15](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=75), [3:09](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=189), [5:25](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=325), [6:58](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=418)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

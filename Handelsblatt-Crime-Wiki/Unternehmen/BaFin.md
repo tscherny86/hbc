@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 15
+folgen: 14
 tags: [unternehmen]
 ---
 # BaFin
@@ -36,7 +36,7 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 29:28](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1768) · [[Transkript 016#Minute 29|im Transkript]]
 
-> … an den Vorsitzenden Richter wie, ich bräuchte Monate, um den Bescheid der Finanzaufsicht bar für den Mitverstand zu lesen. Punkt. Und in dem Satz steckt eigentlich drin, hey, ich komme mit meinen Lesepflichten nicht …
+> … an den Vorsitzenden Richter wie, ich bräuchte Monate, um den Bescheid der Finanzaufsicht BaFin mit Verstand zu lesen. Punkt. Und in dem Satz steckt eigentlich drin, hey, ich komme mit meinen Lesepflichten nicht hinterher. Aber das ist …
 >
 > — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 31:38](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1898) · [[Transkript 016#Minute 31|im Transkript]]
 
@@ -72,21 +72,13 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 43:18](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=2598) · [[Transkript 030#Minute 43|im Transkript]]
 
-> … Ende musste die Maple Bank Insolvenz anmelden, weil das Finanzamt und die BaFin eintritten und dem Treiben ein Ende setzte. Und der Insolvenzverwalter sagt ganz klar, diese Geschäfte kamen dank tatkräftiger Hilfe von Freshfields …
+> … Ende musste die Maple Bank Insolvenz anmelden, weil das Finanzamt und die BaFin eintraten und dem Treiben ein Ende setzte. Und der Insolvenzverwalter sagt ganz klar, diese Geschäfte kamen dank tatkräftiger Hilfe von Freshfields …
 >
 > — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 1:03](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=63) · [[Transkript 032#Minute 1|im Transkript]]
 
 > … dann hat man ein Problem, gerade als kleine Bank. Irgendwann hat die BaFin dann den Stecker gezogen. Er hat gesagt, das geht nicht mehr. Wurde Moratorium verhängt. Und ja, Moratorium heißt im Grunde, alles …
 >
 > — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 11:56](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=716) · [[Transkript 032#Minute 11|im Transkript]]
-
-> … weiter zugespitzt hat. Um das einmal knapp zu umreißen, Staatsanwälte ermitteln, die Finanzaufsicht stellte zwei grobe Bilanzfehler fest. Wirtschaftsprüfer legten ihr Mandat hin und der Konzern findet trotz verzweifelter Suche bis heute keine neuen …
->
-> — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 0:46](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=46) · [[Transkript 042#Minute 0|im Transkript]]
-
-> … auch noch, denn die Staatsanwaltschaften ermitteln rund um Adler herum und die BaFin prüft weiter die Bilanzen. Und dann gibt es vor dem Landgericht Frankfurt noch eine Feststellungsklage durch die Gegner, die in London …
->
-> — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 46:16](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=2776) · [[Transkript 042#Minute 46|im Transkript]]
 
 > … gewarnt hatte. Und ja, es war im Oktober 2021. Dann begann die Finanzaufsicht mit Ermittlungen. Und im Mai 2022 haben wir erstmals darüber berichtet, dass auch die Frankfurter Staatsanwaltschaft Adler ins Visier genommen hat. …
 >
@@ -99,14 +91,6 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 > … vergessen sollen, darüber haben wir jetzt noch gar nicht gesprochen, auch die Finanzaufsicht, die BaFin schaut sich ja weiterhin die Bilanzen von Adler an. Die BaFin hatte vor rund einem Jahr in dem Abschluss …
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 34:55](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=2095) · [[Transkript 051#Minute 34|im Transkript]]
-
-> … nach außen sichtbar ging es im Juli los mit einer Information der BaFin. Die Finanzaufsicht hat mitgeteilt eben, dass Social Chain Zahlungen aus der Aufnahme eines Bankdarlehens in Höhe von 50 Millionen Euro fälschlicherweise …
->
-> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 21:21](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1281) · [[Transkript 052#Minute 21|im Transkript]]
-
-> … also den Eindruck der Akte, die ganzen Querelen, den Ärger mit der BaFin, wenn man das alles zusammennimmt, da haben wir schon irgendwie ein bisschen geahnt, was da kommen könnte. Und tatsächlich, der Juli …
->
-> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 26:04](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1564) · [[Transkript 052#Minute 26|im Transkript]]
 
 > … auch über das System dahinter. Es soll auch darum gehen, warum Banken, Finanzaufsicht und Justiz überfordert wirken, wenn so ein Fall ans Licht kommt. In diesem Podcast sprechen wir alle zwei Wochen über die …
 >
@@ -148,7 +132,7 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 22:32](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1352) · [[Transkript 104#Minute 22|im Transkript]]
 
-> … letztendlich der Bundesverband der Volks - und Reifarbeitsbanken einschreiten musste und die BaFin. Zum ersten Mal muss man sagen. Es gibt da diesen Rettungsfonds, so einen Rettungsschirm für VR-Banken, der meines Wissens bis zu …
+> … letztendlich der Bundesverband der Volks - und Raiffeisenbanken einschreiten musste und die BaFin. Zum ersten Mal muss man sagen. Es gibt da diesen Rettungsfonds, so einen Rettungsschirm für VR-Banken, der meines Wissens bis zu …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 40:09](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2409) · [[Transkript 104#Minute 40|im Transkript]]
 
@@ -172,6 +156,10 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 0:16](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=16) · [[Transkript 113#Minute 0|im Transkript]]
 
+> … Ermittlungen haben wir im Jahre 2021 aufgenommen. Hintergrund war eine Strafanzeige der BaFin, die Anfang März 2021 erstattet worden ist. Und welche Straftaten stehen genau im Raum? Also die ursprüngliche Strafanzeige zielte auf den …
+>
+> — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 7:42](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=462) · [[Transkript 113#Minute 7|im Transkript]]
+
 > … Großbritannien rein. Das ging aber auch nicht lange gut. 2009 nahm die BaFin und die Bank schon ins Visier, weil die Einlagensicherung des Bankenverbands wohl der Meinung war, dass die Nordfinanzbank zu hohe Risiken …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 18:51](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=1131) · [[Transkript 113#Minute 18|im Transkript]]
@@ -180,15 +168,15 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 57:34](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=3454) · [[Transkript 113#Minute 57|im Transkript]]
 
-> … wie es mit den Investments der Städte und Gemeinden weiterging, was die Finanzaufsicht unternahm und was nun Insolvenzverwalter und Staatsanwälte tun, um den Schaden möglichst gering zu halten und Verantwortliche zur Rechenschaft zu ziehen. …
+> … Ermittlungen haben wir im Jahre 2021 aufgenommen. Hintergrund war eine Strafanzeige der BaFin, die Anfang März 2021 erstattet worden ist. Bei uns ist es aktuell so, dass Schwerpunkt der Ermittlungen ist der Straftatbestand des …
 >
-> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 2:03](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=123) · [[Transkript 114#Minute 2|im Transkript]]
+> — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 0:42](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=42) · [[Transkript 114#Minute 0|im Transkript]]
 
 > … Stichwort Klumpenrisiko etc. Jetzt ist es Zeit, dass wir uns mal der BaFin unserer Bundesfinanzaufsicht widmen und fragen, was hat die denn eigentlich unternommen? Denn wie gesagt, wir hatten den Fall Wirecard in der …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 3:51](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=231) · [[Transkript 114#Minute 3|im Transkript]]
 
-> … den Planzahlen entsprach, die die Bank gegenüber der Deutschen Bundesbank und der BaFin selbst kommuniziert hatte. Im Januar 2020 hat dann die BaFin die Aufsicht über die Grünitzelbank intensiviert, auch weil sie halt gesehen …
+> … den Planzahlen entsprach, die die Bank gegenüber der Deutschen Bundesbank und der BaFin selbst kommuniziert hatte. Im Januar 2020 hat dann die BaFin die Aufsicht über die Greensill Bank intensiviert, auch weil sie halt gesehen …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 5:42](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=342) · [[Transkript 114#Minute 5|im Transkript]]
 
@@ -196,7 +184,7 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 7:13](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=433) · [[Transkript 114#Minute 7|im Transkript]]
 
-> … passierte dann noch etwas Überraschendes. Okay, was denn? Erzähl mal. Die deutsche Finanzaufsicht BaFin veröffentlicht einen Verbraucherschutzhinweis. Diesen hier. Die Finanzaufsicht BaFin hat Anhaltspunkte dafür, dass die TGI AG mit Sitz in Waduz, Fürstentum …
+> … passierte dann noch etwas Überraschendes. Okay, was denn? Erzähl mal. Die deutsche Finanzaufsicht BaFin veröffentlicht einen Verbraucherschutzhinweis. Diesen hier. Die Finanzaufsicht BaFin hat Anhaltspunkte dafür, dass die TGI AG mit Sitz in Vaduz, Fürstentum …
 >
 > — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 46:50](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=2810) · [[Transkript 143#Minute 46|im Transkript]]
 
@@ -244,27 +232,25 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 33:50](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2030) · [[Transkript 160#Minute 33|im Transkript]]
 
-## In diesen Folgen (15)
+## In diesen Folgen (14)
 
 - [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14 – Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekostet hat]] (2022-05-22) — Shownotes · Minute [34:40](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=2080)
+- [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Minute [16:11](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=971), [25:16](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1516), [29:28](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1768), [31:38](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1898)
 - [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes · Minute [2:00](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=120), [5:22](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=322), [7:06](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=426), [13:13](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=793)
 - [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group aus der Krise will (Teil 2)]] (2022-12-04) — Shownotes · Minute [30:29](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=1829), [41:45](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=2505), [43:18](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=2598)
-- [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes · Minute [0:46](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=46), [46:16](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=2776)
 - [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Minute [3:52](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=232), [13:11](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=791), [34:55](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=2095)
-- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes · Minute [21:21](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1281), [26:04](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1564)
 - [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Shownotes · Minute [1:58](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=118), [33:53](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=2033), [48:42](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=2922), [1:01:01](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3661)
 - [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes · Minute [1:23](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=83), [7:57](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=477), [12:32](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=752), [16:07](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=967)
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [22:32](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1352), [40:09](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2409), [41:54](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2514)
 - [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Minute [5:31](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=331), [13:24](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=804)
-- [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Minute [0:16](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=16), [18:51](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=1131), [57:34](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=3454)
-- [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes · Minute [2:03](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=123), [3:51](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=231), [5:42](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=342), [7:13](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=433)
+- [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Minute [0:16](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=16), [7:42](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=462), [18:51](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=1131), [57:34](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=3454)
+- [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes · Minute [0:42](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=42), [3:51](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=231), [5:42](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=342), [7:13](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=433)
 - [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — Shownotes · Minute [46:50](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=2810), [48:40](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=2920), [50:52](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3052), [55:24](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3324)
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [32:58](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1978), [41:05](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2465)
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [0:08](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=8), [2:31](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=151), [4:06](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=246), [5:53](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=353)
 
-## Kurz erwähnt (7)
+## Kurz erwähnt (6)
 
-- [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Minute [16:11](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=971), [25:16](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1516), [29:28](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1768), [31:38](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1898)
 - [[024 Das Cum-Ex Dream Team (Teil 2)|#24 – Das Cum-Ex Dream Team (Teil 2)]] (2022-10-09) — Minute [19:11](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1151)
 - [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — Minute [1:03](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=63), [11:56](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=716)
 - [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Minute [30:57](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=1857)

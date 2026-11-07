@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-12-15 |
 | **Dauer** | 49:33 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V) · [MP3](https://audio.podigee-cdn.net/1658630-m-fe984f0454196070b7191834c1ee0199.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/103-schwere-vorwuerfe-sony-music) |
-| **Transkript** | [[Transkript 103]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 103]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Sony Music und Daniel Lieberberg]] |
-| **Themen** | [[Whistleblower]], [[Compliance]] |
+| **Themen** | [[Compliance]] |
 | **Unternehmen** | [[Sony Music]] |
 | **Personen** | [[Solveig Gode]], [[Daniel Lieberberg]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]] |
+| **Kurz erwähnt** | [[Whistleblower]] |
 
 ## Shownotes
 
@@ -45,19 +45,19 @@ Für alle Hörer, die unbegrenzt auf unsere digitalen Handelsblatt-Inhalte zugre
 - [10:33](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=633) – Kannst du mal einen dieser Fälle schildern? Also eine Person, die wir, wir haben sie Katrin Berger genannt, … ([[Transkript 103#Minute 10|Transkript]])
 - [12:34](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=754) – Also eine Sache, die sie beschrieben hat, sei die Begrüßung gewesen. Also wir hatten es ja vorher schon … ([[Transkript 103#Minute 12|Transkript]])
 - [14:40](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=880) – Aber ich muss sagen, mich hat das, als du mir das erzählt hast und dir hier gerade vorgemacht … ([[Transkript 103#Minute 14|Transkript]])
-- [16:45](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1005) – Es geht nicht darum, jemanden zu bereden, sondern es geht darum, jemandem nahezu legen. Hey, es macht Sinn. … ([[Transkript 103#Minute 16|Transkript]])
+- [16:45](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1005) – Es geht nicht darum, jemanden zu bereden, sondern es geht darum, jemandem nahezulegen. Hey, es macht Sinn. Wir … ([[Transkript 103#Minute 16|Transkript]])
 - [18:50](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1130) – Zu dürfen. So ist es auch. Und dazu muss man halt sehen, es gibt wenige Firmen, die hier, … ([[Transkript 103#Minute 18|Transkript]])
 - [20:52](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1252) – Die werden auch gefördert. Denen geht es halt ganz gut. Da scheint die Sonne. Jetzt hatten wir gerade … ([[Transkript 103#Minute 20|Transkript]])
 - [22:56](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1376) – Ja, Journalisten, wir sind ja häufig Touristen. Also das heißt, klar, wir schnuppern rein, ich bin nicht Teil … ([[Transkript 103#Minute 22|Transkript]])
 - [24:58](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1498) – Machen wir besser ohne. Trotzdem unterstreicht das ja nochmal, gerade wenn man dann darauf hingewiesen wird, wie groß … ([[Transkript 103#Minute 24|Transkript]])
-- [27:05](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1625) – Also da sehr lobende Worte. An diesen Konzernschrift Rob Stringer in den USA ist dir aber auch eine … ([[Transkript 103#Minute 27|Transkript]])
+- [27:05](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1625) – Also da sehr lobende Worte. An diesen Konzernchef Rob Stringer in den USA ist dir aber auch eine … ([[Transkript 103#Minute 27|Transkript]])
 - [29:07](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1747) – Es gab da ohnehin die Übergriffe, muss Horror gewesen sein. Ja, mich nimmt das auch gleich total mit, … ([[Transkript 103#Minute 29|Transkript]])
 - [31:11](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1871) – Klar, es ist ein People's Business, also das funktioniert über, wer kennt hier wen, das funktioniert über Vertrauen … ([[Transkript 103#Minute 31|Transkript]])
 - [33:13](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=1993) – Also nicht vermischt mit intern. Genau, nicht vermischt mit intern. Da intern ist häufig genug, das wäre bei … ([[Transkript 103#Minute 33|Transkript]])
 - [35:14](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2114) – Ja und falls jetzt bei Ihnen, liebe Hörerinnen und Hörer, da jetzt vielleicht auch die Frage aufkommt, ob … ([[Transkript 103#Minute 35|Transkript]])
 - [37:15](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2235) – Und unsere Juristen hier im Haus sehen das genauso. Nach einer kurzen Unterbrechung geht es gleich weiter. Bleiben … ([[Transkript 103#Minute 37|Transkript]])
 - [39:15](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2355) – Ich kenne das auch von anderen Fällen, dass dann da angekündigt wird, dass Journalisten recherchieren und dass das … ([[Transkript 103#Minute 39|Transkript]])
-- [41:20](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2480) – Herr Muschazzi, das ist der Chef von GSA, also Deutschland, Österreich, Schweiz, der hat das Unternehmen zu dem … ([[Transkript 103#Minute 41|Transkript]])
+- [41:20](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2480) – Herr Mushatsi-Kareba, das ist der Chef von GSA, also Deutschland, Österreich, Schweiz, der hat das Unternehmen zu dem … ([[Transkript 103#Minute 41|Transkript]])
 - [43:26](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2606) – Oder? Habe ich auch so gelesen, verstehe ich auch so. Versteht auch jeder in dem Unternehmen so, mit … ([[Transkript 103#Minute 43|Transkript]])
 - [45:27](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2727) – Ja, du hast gerade schon angesprochen, es geht immer das Geld, follow the money ist ja eigentlich auch … ([[Transkript 103#Minute 45|Transkript]])
 - [47:29](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V?t=2849) – Ich kenne eine ganze Reihe von hochrangigen Managern aus deutschen Konzernen, die Beziehungen zu Untergebenen haben, zum Teil … ([[Transkript 103#Minute 47|Transkript]])

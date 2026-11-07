@@ -42,11 +42,11 @@ Dem Prozess entzog er sich durch Flucht in die Türkei, wo er bis heute lebt und
 >
 > — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 1:03](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=63) · [[Transkript 037#Minute 1|im Transkript]]
 
-> … weiter. Zwei Jahre später nämlich nahm mein Kollege Orsan Demircan Kontakt zu Göker auf. Es hatte vorher Gerüchte gegeben, Göker sei wieder aktiv. Er würde wieder Versicherungen verkaufen. Eigentlich unmöglich, wenn man bedenkt, dass …
+> … weiter. Zwei Jahre später nämlich nahm mein Kollege Ozan Demircan Kontakt zu Göker auf. Es hatte vorher Gerüchte gegeben, Göker sei wieder aktiv. Er würde wieder Versicherungen verkaufen. Eigentlich unmöglich, wenn man bedenkt, dass …
 >
 > — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 2:34](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=154) · [[Transkript 037#Minute 2|im Transkript]]
 
-> … Ich freue mich, dass wir heute in die zweite Runde zu Mehmet Göker gehen. Und Orsan, ich wende mich natürlich gleich mal an dich. Du hast quasi bei ihm gewohnt. Wie war das eigentlich, …
+> … Ich freue mich, dass wir heute in die zweite Runde zu Mehmet Göker gehen. Und Ozan, ich wende mich natürlich gleich mal an dich. Du hast quasi bei ihm gewohnt. Wie war das eigentlich, …
 >
 > — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 4:27](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=267) · [[Transkript 037#Minute 4|im Transkript]]
 

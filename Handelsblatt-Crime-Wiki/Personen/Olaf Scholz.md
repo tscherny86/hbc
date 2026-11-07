@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 11
+folgen: 10
 tags: [personen]
 ---
 # Olaf Scholz
@@ -22,7 +22,7 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 
 ## Was im Podcast gesagt wird
 
-> … Behörden verkauft hat. Ja, und wir sprechen in diesem Podcast über unseren Bundeskanzler Olaf Scholz. Wir, das sind meine Kollegin Ina Karabasz, Leiterin des Bereichs Journalismus Live, und ich, Mary Abdelaziz Dizzo, Head of Podcast …
+> … Behörden verkauft hat. Ja, und wir sprechen in diesem Podcast über unseren Bundeskanzler Olaf Scholz. Wir, das sind meine Kollegin Ina Karabasz, Leiterin des Bereichs Journalismus Live, und ich, Mary Abdelaziz-Ditzow, Head of Podcast und …
 >
 > — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 2:29](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=149) · [[Transkript 002#Minute 2|im Transkript]]
 
@@ -38,7 +38,7 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 >
 > — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 20:30](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1230) · [[Transkript 002#Minute 20|im Transkript]]
 
-> … ganz besonderen Person? Ja, da kommen wir dann tatsächlich bis rauf zum Bundeskanzler. Olaf Scholz war damals, als Christian Oliarius mit ihm sprechen wollte und über die Cum-Ex-Geschäfte, war er der erste Bürgermeister von …
+> … ganz besonderen Person? Ja, da kommen wir dann tatsächlich bis rauf zum Bundeskanzler. Olaf Scholz war damals, als Christian Olearius mit ihm sprechen wollte und über die Cum-Ex-Geschäfte, war er der erste Bürgermeister von Hamburg. …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 50:02](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=3002) · [[Transkript 008#Minute 50|im Transkript]]
 
@@ -46,11 +46,11 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 2:01](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=121) · [[Transkript 014#Minute 2|im Transkript]]
 
-> … wird, was der anderen Seite oder die andere Seite, also Herr Olaf Scholz, damals erster Bürgermeister von Hamburg, heute Bundeskanzler, vehement bestreitet. Nämlich, dass Einflussnahme geschehen ist. Und der Christian Auleaus schreibt das aber …
+> … wird, was der anderen Seite oder die andere Seite, also Herr Olaf Scholz, damals erster Bürgermeister von Hamburg, heute Bundeskanzler, vehement bestreitet. Nämlich, dass Einflussnahme geschehen ist. Und der Christian Olearius schreibt das aber …
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 22:02](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1322) · [[Transkript 014#Minute 22|im Transkript]]
 
-> … nach wie vor die Vorwürfe gegen ihn zurück. Gleiches gilt für Olaf Scholz und den Hamburger Bürgermeister Peter Tschentscher. Es ist ja aus den Tagebüchern von Herrn Oliarius ersichtlich, dass er sich mit Olaf …
+> … nach wie vor die Vorwürfe gegen ihn zurück. Gleiches gilt für Olaf Scholz und den Hamburger Bürgermeister Peter Tschentscher. Es ist ja aus den Tagebüchern von Herrn Olearius ersichtlich, dass er sich mit Olaf …
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 29:29](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1769) · [[Transkript 014#Minute 29|im Transkript]]
 
@@ -58,7 +58,7 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 31:05](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1865) · [[Transkript 014#Minute 31|im Transkript]]
 
-> … Hamburg und seine Verbindungen zu Herrn Oberbürgern oder erst dem Bürgermeister Herrn Scholz, unserem Bundeskanzler heute. Darum drehen sich diese ganzen Prozesse. Der erste Prozess, wie gesagt, ging gegen zwei Londoner Banker der Hypovereinsbank, …
+> … aus Hamburg und seine Verbindungen zu Herrn Oberbürgermeister oder erst dem Bürgermeister Herrn Scholz, unserem Bundeskanzler heute. Darum drehen sich diese ganzen Prozesse. Der erste Prozess, wie gesagt, ging gegen zwei Londoner Banker der Hypovereinsbank, …
 >
 > — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 3:49](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=229) · [[Transkript 015#Minute 3|im Transkript]]
 
@@ -82,7 +82,7 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 >
 > — [[053 Hamburg Paradies für Steuerhinterzieher|#53]], [Minute 35:59](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2159) · [[Transkript 053#Minute 35|im Transkript]]
 
-> … auch ein durchaus bekannter anderer Name. Und zwar der des Bundeskanzlers Olaf Scholz. Ja, dem Bundeskanzler, dem aktuellen, dem wirft man keine Steuerhinterziehung vorher. Er ist ja noch nicht mal beschuldigt, aber sein Name …
+> … auch ein durchaus bekannter anderer Name. Und zwar der des Bundeskanzlers Olaf Scholz. Ja, dem Bundeskanzler, dem aktuellen, dem wirft man keine Steuerhinterziehung vor. Er ist ja noch nicht mal beschuldigt, aber sein Name kam hier …
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 5:00](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=300) · [[Transkript 055#Minute 5|im Transkript]]
 
@@ -118,7 +118,7 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 9:59](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=599) · [[Transkript 067#Minute 9|im Transkript]]
 
-> … eine seriöse Firma, wie man in Hamburg gedacht hat. Warum hat Olaf Scholz das geglaubt? Der hätte ja ausdrücklich sich auch für Siegner stark gemacht und ihn attestiert, dass die halt ein hervorragendes Finanzrating …
+> … eine seriöse Firma, wie man in Hamburg gedacht hat. Warum hat Olaf Scholz das geglaubt? Der hätte ja ausdrücklich sich auch für Signa stark gemacht und ihn attestiert, dass die halt ein hervorragendes Finanzrating …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 14:28](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=868) · [[Transkript 067#Minute 14|im Transkript]]
 
@@ -130,31 +130,23 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 30:30](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=1830) · [[Transkript 087#Minute 30|im Transkript]]
 
-> … paar Mal drüber gesprochen. Trotzdem vielleicht nochmal eine kleine Zusammenfassung, die Sache Scholz und Ole Arios. Wer mag es machen? Ja, also 2016 wollte das Hamburger Finanzamt ja 47 Millionen Euro von der MM …
+> … paar Mal drüber gesprochen. Trotzdem vielleicht nochmal eine kleine Zusammenfassung, die Sache Scholz und Olearius. Wer mag es machen? Ja, also 2016 wollte das Hamburger Finanzamt ja 47 Millionen Euro von der MM Warburg …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 33:18](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1998) · [[Transkript 095#Minute 33|im Transkript]]
 
-> … Januar 2016, also zu diesem Zeitpunkt der Gespräche zwischen Ole Arios und Scholz war Herr Ole Arios schon selbst beschuldigt. Also gegen ihn wurde ermittelt und also insofern, es gab dann eine zweite Untersuchung, …
+> … im Januar 2016, also zu diesem Zeitpunkt der Gespräche zwischen Olearius und Scholz war Herr Olearius schon selbst beschuldigt. Also gegen ihn wurde ermittelt und also insofern, es gab dann eine zweite Untersuchung, das …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 35:58](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=2158) · [[Transkript 095#Minute 35|im Transkript]]
 
-> … Hilfe bereit. Paveltschik armiere ich mit Unterlagen. Er wird ein Gespräch mit Scholz suchen. Der Fall hat politische Dimensionen. Ein schönes Wort. Armiere ich mit Unterlagen. Das ist so richtig alte Schule. Ja, und …
+> … Hilfe bereit. Pawelczyk armiere ich mit Unterlagen. Er wird ein Gespräch mit Scholz suchen. Der Fall hat politische Dimensionen. Ein schönes Wort. Armiere ich mit Unterlagen. Das ist so richtig alte Schule. Ja, und …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 42:52](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=2572) · [[Transkript 095#Minute 42|im Transkript]]
-
-> … auch politisch relativ hohe Wellen geschlagen, weil der damalige erste Bürgermeister Olaf Scholz da auch Gespräche geführt hat mit diesem Warburg-Chef Christian Olearius. Aber der Untersuchungsausschuss hat sich eben nicht nur mit diesem Warburg-Fall …
->
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 15:08](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=908) · [[Transkript 150#Minute 15|im Transkript]]
-
-> … anderem zum Beispiel Peter Tschentscher der damalige Finanzsenator und Nachfolger von Olaf Scholz als erster Bürgermeister Hamburgs er ist ja immer noch amtierender erster Bürgermeister und was hat Tschentscher da in diesem Untersuchungsausschuss gesagt …
->
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 45:43](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2743) · [[Transkript 150#Minute 45|im Transkript]]
 
 > … wahrscheinlich nicht die Einzige, der sofort ein gewisser Cum-Ex-Fall mit einem gewissen Ex-Bundeskanzler hochkommt, wo Erinnerungen ihn auch bis heute davon entlastet, vielleicht auch zu Recht. Zum Thema Cum-Ex, in das Thema Cum-Ex reingezogen …
 >
 > — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 20:18](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1218) · [[Transkript 159#Minute 20|im Transkript]]
 
-## In diesen Folgen (11)
+## In diesen Folgen (10)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Minute [2:29](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=149), [16:54](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1014), [18:30](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1110), [20:30](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1230)
 - [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Minute [50:02](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=3002)
@@ -166,7 +158,6 @@ Scholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlic
 - [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67 – Der Elbtower in Hamburg: Desaster mit Ansage]] (2024-02-10) — Shownotes · Minute [0:21](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=21), [8:17](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=497), [9:59](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=599), [14:28](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=868)
 - [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87 – Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab]] (2024-06-26) — Minute [28:50](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=1730), [30:30](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=1830)
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Minute [33:18](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1998), [35:58](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=2158), [42:52](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=2572)
-- [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Minute [15:08](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=908), [45:43](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2743)
 
 ## Kurz erwähnt (3)
 

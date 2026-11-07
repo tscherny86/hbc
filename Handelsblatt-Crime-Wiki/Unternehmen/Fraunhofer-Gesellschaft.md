@@ -28,10 +28,6 @@ Die Aufarbeitung warf neue Fragen auf: Die Honorare der beauftragten Kanzleien �
 >
 > — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 0:03](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=3) · [[Transkript 129#Minute 0|im Transkript]]
 
-> … in den letzten Jahren Milliarden aus der öffentlichen Hand bekommen hat. Der Bundesrechnungshof attestierte der Gesellschaft jahrelange Verstöße gegen Spesen - und Reisekostenregeln. Die Staatsanwaltschaft ermittelt wegen Untreue. Im Zentrum steht der ehemalige Präsident, …
->
-> — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 1:34](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=94) · [[Transkript 129#Minute 1|im Transkript]]
-
 > … nie besprochen haben und zwar eher so die Wissenschaft und zwar die Fraunhofer-Gesellschaft, eine der wichtigsten europäischen Forschungsinstitute. Da stellt sich jetzt natürlich die Frage, wie kommt die Fraunhofer-Gesellschaft hier in unseren Wirtschaftspodcast Handelsblatt …
 >
 > — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 4:32](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=272) · [[Transkript 129#Minute 4|im Transkript]]
@@ -40,18 +36,17 @@ Die Aufarbeitung warf neue Fragen auf: Die Honorare der beauftragten Kanzleien �
 >
 > — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 6:04](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=364) · [[Transkript 129#Minute 6|im Transkript]]
 
-> … Aber gerade bei der Umsatzsteuerbekämpfung hat zum Beispiel auch schon mehrfach der Bundesrechnungshof in mehreren Berichten festgestellt, dass wir da sogar Rückschritte machen. Wegen der mangelnden Zusammenarbeit, wegen mangelnder technischer Ausstattung und ich sage …
+> … Zeit, um so einen Ruf aufzubauen. Und diese Zeit existiert auch die Fraunhofer-Gesellschaft. Wenn man guckt, seit wann gibt es die eigentlich, muss man tatsächlich bis ins Gründungsjahr der Bundesrepublik Deutschland zurückgehen. 1949 wurde …
 >
-> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 1:19:13](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4753) · [[Transkript 130#Minute 79|im Transkript]]
+> — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 8:11](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=491) · [[Transkript 129#Minute 8|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Shownotes · Minute [0:03](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=3), [1:34](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=94), [4:32](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=272), [6:04](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=364)
+- [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Shownotes · Minute [0:03](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=3), [4:32](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=272), [6:04](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=364), [8:11](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=491)
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (1)
 
 - [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Minute [22:05](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1325)
-- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Minute [1:19:13](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4753)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

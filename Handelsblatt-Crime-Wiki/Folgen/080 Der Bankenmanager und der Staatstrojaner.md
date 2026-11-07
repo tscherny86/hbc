@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-06-01 |
 | **Dauer** | 1:02:35 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM) · [MP3](https://audio.podigee-cdn.net/1457106-m-95e2e77fce858e3a8ed8f3b97d7303b6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/80-neue-episode) |
-| **Transkript** | [[Transkript 080]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 080]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Staatstrojaner-Fall]] |
 | **Themen** | [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[BSI]] |
 | **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]] |
-| **Kurz erwähnt** | [[Wirecard]], [[BSI-Affäre Schönbohm]], [[Geldwäsche]], [[Goldanlage]], [[Compliance]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Geldwäsche]], [[Compliance]] |
 
 ## Shownotes
 
@@ -48,7 +48,7 @@ Transparenzhinweis: Ein zwischenzeitlich bei der Generalstaatsanwaltschaft Frank
 - [16:42](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1002) – Er kommt auf die, weil die auf ihrer Website auch damit werben, dass das ein Schwerpunkt IT-Forensik ist. … ([[Transkript 080#Minute 16|Transkript]])
 - [18:50](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1130) – Ja, euch beiden hat er das ja auch persönlich erklärt im Gespräch, wie die Untersuchung dieses Jahrnächstes abgelaufen … ([[Transkript 080#Minute 18|Transkript]])
 - [20:51](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1251) – Drumherum liefen die Kinder von Herrn Popowski, seine Frau war da, der Fernseher lief. So mittendrin quasi. Ehrlich … ([[Transkript 080#Minute 20|Transkript]])
-- [22:52](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1372) – Also es war schon ziemlich... Da war es dann nördig. Ziemlich abgefahren aus. Das muss man schon sagen, … ([[Transkript 080#Minute 22|Transkript]])
+- [22:52](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1372) – Also es war schon ziemlich... Da war es dann nerdig. Ziemlich abgefahren aus. Das muss man schon sagen, … ([[Transkript 080#Minute 22|Transkript]])
 - [24:58](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1498) – Auch IT-Forensiker Luca Cardonici heißt der. Das klingt schon nach so einem Mafiajäger. Genau, und das war so … ([[Transkript 080#Minute 24|Transkript]])
 - [27:02](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1622) – Und er macht das jetzt eben auch aus dem Grund primär, weil er dann wirklich alle Daten sehen … ([[Transkript 080#Minute 27|Transkript]])
 - [29:05](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=1745) – Und die helfen ihm dann, geben ihm noch ein paar Tipps und dann am 8. März, da klappt … ([[Transkript 080#Minute 29|Transkript]])
@@ -60,7 +60,7 @@ Transparenzhinweis: Ein zwischenzeitlich bei der Generalstaatsanwaltschaft Frank
 - [41:39](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=2499) – Oh, ich bin möglicherweise aufgeflogen. Damit müssen die jetzt halt rechnen. Und Popowski, der meldet seinen Fund jetzt … ([[Transkript 080#Minute 41|Transkript]])
 - [43:45](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=2625) – Die ist jetzt auf meinem Handy gewesen. Was macht das jetzt mit ihm? Ich habe mich bestätigt gefühlt. … ([[Transkript 080#Minute 43|Transkript]])
 - [45:47](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=2747) – Am Sonntag, klar, da will man wissen, wie sind Sie dann drauf gekommen und eben alles, was man … ([[Transkript 080#Minute 45|Transkript]])
-- [47:50](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=2870) – Ja, wer könnte es auf allen Dingen auf ihn abgesehen haben? Und was ist da für ein Interesse … ([[Transkript 080#Minute 47|Transkript]])
+- [47:50](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=2870) – Ja, wer könnte es vor allen Dingen auf ihn abgesehen haben? Und was ist da für ein Interesse … ([[Transkript 080#Minute 47|Transkript]])
 - [49:52](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=2992) – Jetzt sagt er dazu, naja, ich bin Compliance-Chef gewesen und Anti-Geldwäsche-Beauftragter. Meine Position beruflich ist eigentlich nicht so … ([[Transkript 080#Minute 49|Transkript]])
 - [51:58](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3118) – Das ist sozusagen. Wir haben natürlich auch bei NSO angefragt, aber uns sagen die gar nichts. Also die … ([[Transkript 080#Minute 51|Transkript]])
 - [54:00](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3240) – Wir haben nachgefragt und haben dazu keine Antwort bekommen. Und wir haben die Münchner Behörden auch damit konfrontiert, … ([[Transkript 080#Minute 54|Transkript]])

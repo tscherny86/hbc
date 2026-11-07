@@ -22,33 +22,25 @@ Claassen weist die Vorwürfe empört zurück und zeigt auf Ex-Deutsche-Bank-Chef
 
 ## Was im Podcast gesagt wird
 
-> … später auch noch wichtig, wir haben sie jetzt im Text mal Arabella Klaassen genannt, die hatte offenbar noch einen zweiten Job als Escort-Begleiterin. Das steht zumindest so auf ihrer Website. Und wir haben nachgeschaut, …
+> … die Insolvenz zu treiben. Das wirft ihm der Chef von Syntellix vor, Utz Claassen. Auch dieser Manager ist nicht erst seit gestern in den Schlagzeilen. Gegen ihn gibt es Ermittlungen der Staatsanwaltschaft Hannover, Vollstreckungen und …
 >
-> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 16:44](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=1004) · [[Transkript 112#Minute 16|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:54](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=114) · [[Transkript 127#Minute 1|im Transkript]]
 
-> … den Verdacht einer Vorteilsgewährung gesehen und hat dann Anklage erhoben. Und ja, Klaassen ging, würde ich jetzt nicht wundern, auf Konfrontation. Er sagte, kein Deal, keine Einstellung gegen Geldauflage. Ich kann nicht mit einer …
+> … man soll ja mit Superlativen vorsichtig sein. Aber ich glaube schon, dass Utz Claassen zu den Top Ten der außergewöhnlichsten Charakteren gehört, mit denen ich so in meiner Karriere zu tun gehabt habe, über die …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 28:12](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1692) · [[Transkript 127#Minute 28|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 3:29](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=209) · [[Transkript 127#Minute 3|im Transkript]]
 
-> … Landes bezeichnet. Also das war ein Zitat. Das war ein Zitat von Klaassen über sich selbst oder seine Leistung. Aber es gab halt nicht nur Jubelgesänge auf die Arbeit. Und man hat es ja …
+> … Alle anderen scheitern seit mehr als einem Jahrhundert an diesem Problem. Aber Utz Claassen geht das Ganze an und schafft das in fünf Jahren. Genau, so wie er halt ist. Das Interview zeigt wirklich sehr …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 29:50](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1790) · [[Transkript 127#Minute 29|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 5:25](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=325) · [[Transkript 127#Minute 5|im Transkript]]
 
-> … oder? Genau, das Geld spielt immer eine Rolle. Und auch hier bei Klaassen und bei der ENBW. Schon bei seinem Antritt haben sich nämlich viele gefragt, warum Klaassen eigentlich 4 Millionen Euro verdient. Und …
+> … würden. Disruptieren. Hören wir oft in der Managersprache. Disruptieren nannte das auch Utz Claassen. Den Schraubenmarkt disruptieren. Und mit diesen Worten und mit diesen Zahlen vor allem, also 100 Milliarden ist ja schon eine ziemliche …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 31:22](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1882) · [[Transkript 127#Minute 31|im Transkript]]
-
-> … er einen neuen Job angenommen hatte, als er für Cerberus arbeitete. Und Klaassen sagte aber, das ist ja kein Gehalt, sondern Honorar, weil er Berater sei. Sag nochmal, was ist Cerberus? Cerberus ist ein …
->
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 33:02](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1982) · [[Transkript 127#Minute 33|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 6:58](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=418) · [[Transkript 127#Minute 6|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [28:12](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1692), [29:50](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1790), [31:22](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1882), [33:02](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1982)
-
-## Kurz erwähnt (1)
-
-- [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Minute [16:44](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=1004)
+- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [1:54](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=114), [3:29](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=209), [5:25](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=325), [6:58](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=418)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 7
+folgen: 8
 tags: [unternehmen]
 ---
 # Freshfields
@@ -20,11 +20,23 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 
 ## Was im Podcast gesagt wird
 
-> … sei. Olaf Scholz ist aber auch derjenige, der beim 175-jährigen Geburtstag von Freshfields in Hamburg vor Freshfields Anwälten stand und denen sie alle über den grünen Klee gelobt hat und ihnen gesagt hat, sie …
+> … zu prüfen. Und die Wahl fiel in der Regel bei Cum-Ex-Geschäften auf Freshfields. Über die wir auch schon oft berichtet haben. Genau, Freshfields ist eine der angesehensten Kanzleien der Welt. Ist auch Berufseinsteigern, wenn …
 >
-> — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 17:29](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1049) · [[Transkript 002#Minute 17|im Transkript]]
+> — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 14:28](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=868) · [[Transkript 002#Minute 14|im Transkript]]
 
-> … beschrieben, von Insidern. Und zwar gab es da ein Gutachten der Kanzlei Freshfields. Und die haben für McRory entsprechende Cum-Ex-Geschäfte begutachtet. Und dieses Gutachten ist Hanno Berger in die Hände gefallen. Und der hat …
+> … ist ja klar, dass es nicht geht. Wieso hat, wie konnte denn Freshfields überhaupt sagen, ja klar könnt ihr machen? Das ist bis heute unerklärlich. Also einerseits ist es richtig, die tollsten und besten …
+>
+> — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 16:09](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=969) · [[Transkript 002#Minute 16|im Transkript]]
+
+> … war erster Bürgermeister der Hansestadt Hamburg und hat also nachdem er die Freshfields-Anwälte über den grünen Klee gelobt hat, auch einen Anruf oder mehrere Gespräche geführt mit Herrn Christian Olearius. Den Namen braucht man …
+>
+> — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 18:38](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1118) · [[Transkript 002#Minute 18|im Transkript]]
+
+> … Du hast es eben gesagt, 2015, 2016, als Olaf Scholz damals vor Freshfields gesprochen hat, da kannte man das System Cum-Ex schon. Warum sind Sie nicht eingeschritten? Herr Scholz war sozusagen noch ein paar …
+>
+> — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 33:33](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=2013) · [[Transkript 002#Minute 33|im Transkript]]
+
+> … beschrieben, von Insidern. Und zwar gab es da ein Gutachten der Kanzlei Freshfields. Und die haben für Macquarie entsprechende Cum-Ex-Geschäfte begutachtet. Und dieses Gutachten ist Hanno Berger in die Hände gefallen. Und der hat …
 >
 > — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 14:34](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=874) · [[Transkript 003#Minute 14|im Transkript]]
 
@@ -36,11 +48,15 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 19:45](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1185) · [[Transkript 008#Minute 19|im Transkript]]
 
-> … verstehen sie auch gar nicht, Frau Bohr-Hilke. Aber gucken Sie mal, was Freshfields dazu schreibt. Und dann hat man ihr halt ein halbes Kilo Papier auf den Tisch geknallt. Und Frau Bohr-Hilke hat sich …
+> … verstehen sie auch gar nicht, Frau Brorhilker. Aber gucken Sie mal, was Freshfields dazu schreibt. Und dann hat man ihr halt ein halbes Kilo Papier auf den Tisch geknallt. Und Frau Brorhilker hat sich …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 31:44](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1904) · [[Transkript 008#Minute 31|im Transkript]]
 
-> … Und wir haben da eine E-Mail gefunden von einem Anwalt der Kanzlei Freshfields-Bruckhaus-Dehringer. Freshfields ist nicht ganz unbekannt in diesem Business. Die haben viele Banken beraten und auch Gutachten geschrieben. Gutachten muss man sagen, …
+> … von mir. 2011 hätte er gar keinen Kontakt mehr gehabt. Die haben Freshfields eingeschaltet und auch der Paul Mora, von dem wir schon gesprochen haben bei unserem Podcast, der Investmentbanker aus London, der hat …
+>
+> — [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23]], [Minute 21:12](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=1272) · [[Transkript 023#Minute 21|im Transkript]]
+
+> … Und wir haben da eine E-Mail gefunden von einem Anwalt der Kanzlei Freshfields Bruckhaus Deringer. Freshfields ist nicht ganz unbekannt in diesem Business. Die haben viele Banken beraten und auch Gutachten geschrieben. Gutachten muss man sagen, …
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 23:56](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1436) · [[Transkript 021#Minute 23|im Transkript]]
 
@@ -64,7 +80,7 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 >
 > — [[031 Freshfields Spitzenkanzlei unter Verdacht|#31]], [Minute 1:42](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=102) · [[Transkript 031#Minute 1|im Transkript]]
 
-> … Das sind die vier Kanzleien, Linklaters, Clifford Charnes, Allen & Overy und Freshfields-Bruckhaus-Deringer. Also das ist schon ein ganz erlesener, erlauchter Kreis. Und Freshfields hat natürlich auch hier in Deutschland Büros, in allen großen …
+> … angesiedelt? Das sind die vier Kanzleien, Linklaters, Clifford Chance, Allen & Overy und Freshfields-Bruckhaus-Deringer. Also das ist schon ein ganz erlesener, erlauchter Kreis. Und Freshfields hat natürlich auch hier in Deutschland Büros, in allen großen …
 >
 > — [[031 Freshfields Spitzenkanzlei unter Verdacht|#31]], [Minute 3:24](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=204) · [[Transkript 031#Minute 3|im Transkript]]
 
@@ -72,11 +88,11 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 >
 > — [[031 Freshfields Spitzenkanzlei unter Verdacht|#31]], [Minute 5:21](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=321) · [[Transkript 031#Minute 5|im Transkript]]
 
-> … der Insolvenzverwalter sagt ganz klar, diese Geschäfte kamen dank tatkräftiger Hilfe von Freshfields zustande. Den Namen kennen Sie wahrscheinlich aus der letzten Folge von Handels but Crime, unserem ersten Teil über die Verstrickung einer …
+> … der Insolvenzverwalter sagt ganz klar, diese Geschäfte kamen dank tatkräftiger Hilfe von Freshfields zustande. Den Namen kennen Sie wahrscheinlich aus der letzten Folge von Handelsblatt Crime, unserem ersten Teil über die Verstrickung einer der renommiertesten …
 >
 > — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 1:13](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=73) · [[Transkript 032#Minute 1|im Transkript]]
 
-> … Volker Fotzmay ebenfalls aus dem Investigativteam. Sie haben sich intensiv mit Ulf Johannemann beschäftigt. Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Volker, hallo Sönke. Hallo Ina. Hi Ina. Wir …
+> … Volker Votsmeier ebenfalls aus dem Investigativteam. Sie haben sich intensiv mit Ulf Johannemann beschäftigt. Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Volker, hallo Sönke. Hallo Ina. Hi Ina. Wir …
 >
 > — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 2:50](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=170) · [[Transkript 032#Minute 2|im Transkript]]
 
@@ -88,7 +104,7 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 >
 > — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 14:30](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=870) · [[Transkript 032#Minute 14|im Transkript]]
 
-> … ein Gutachten mitgebracht von einer sehr renommierten Kanzlei. Das war die Kanzlei Freshfields, Bruckhaus, Deringe. Und die haben das dann auch bescheinigt, dass das im Grundsatz legal ist. Kennen wir auch schon. Über Freshfields …
+> … ein Gutachten mitgebracht von einer sehr renommierten Kanzlei. Das war die Kanzlei Freshfields, Bruckhaus, Deringer. Und die haben das dann auch bescheinigt, dass das im Grundsatz legal ist. Kennen wir auch schon. Über Freshfields …
 >
 > — [[053 Hamburg Paradies für Steuerhinterzieher|#53]], [Minute 8:17](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=497) · [[Transkript 053#Minute 8|im Transkript]]
 
@@ -100,24 +116,25 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 >
 > — [[053 Hamburg Paradies für Steuerhinterzieher|#53]], [Minute 11:28](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=688) · [[Transkript 053#Minute 11|im Transkript]]
 
-> … verdrahtet. Wir haben mal einen Artikel geschrieben über die geheime Kundenliste von Freshfields. Und da stehen auch mindestens 25 Banken drauf. Also Parkles zum Beispiel hat ein Gutachten. Aber viele andere auch. Maple haben …
+> … verdrahtet. Wir haben mal einen Artikel geschrieben über die geheime Kundenliste von Freshfields. Und da stehen auch mindestens 25 Banken drauf. Also Barclays zum Beispiel hat ein Gutachten. Aber viele andere auch. Maple haben …
 >
 > — [[053 Hamburg Paradies für Steuerhinterzieher|#53]], [Minute 13:16](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=796) · [[Transkript 053#Minute 13|im Transkript]]
 
-> … interessantes Verfahren gegen einen ehemaligen Partner, sogar den weltweiten Steuerchef der Spitzenkanzlei Freshfields Bruckhaus-Dehringer. Das ist der Ulf Johannemann. Dem wird, wie gesagt, in Frankfurt der Prozess gemacht. Ich erwarte da auch für Januar …
+> … interessantes Verfahren gegen einen ehemaligen Partner, sogar den weltweiten Steuerchef der Spitzenkanzlei Freshfields Bruckhaus Deringer. Das ist der Ulf Johannemann. Dem wird, wie gesagt, in Frankfurt der Prozess gemacht. Ich erwarte da auch für Januar …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 57:09](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3429) · [[Transkript 064#Minute 57|im Transkript]]
 
-> … dann nächstes Jahr einmalig würde, wenn es so kommt. Also wenn der Johannemann, der Anwalt, der ehemalige Partner von Freshly tatsächlich verurteilt wird, das ist dann wieder ein Highlight für die ganze Dekade, weil …
+> … dann nächstes Jahr einmalig würde, wenn es so kommt. Also wenn der Johannemann, der Anwalt, der ehemalige Partner von Freshfields tatsächlich verurteilt wird, das ist dann wieder ein Highlight für die ganze Dekade, weil …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 59:57](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3597) · [[Transkript 064#Minute 59|im Transkript]]
 
-> … es um den COMEX-Skandal und da ist die Maplebank von der Kanzlei Freshfields beraten worden. Die ist dann an diesen COMEX Geschäften zugrunde gegangen. Dann hat der Insolvenzverwalter von Maple die Kanzlei auf ninety …
+> … es um den Cum-Ex-Skandal und da ist die Maplebank von der Kanzlei Freshfields beraten worden. Die ist dann an diesen Cum-Ex Geschäften zugrunde gegangen. Dann hat der Insolvenzverwalter von Maple die Kanzlei auf ninety …
 >
 > — [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146]], [Minute 50:04](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=3004) · [[Transkript 146#Minute 50|im Transkript]]
 
-## In diesen Folgen (7)
+## In diesen Folgen (8)
 
+- [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Minute [14:28](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=868), [16:09](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=969), [18:38](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1118), [33:33](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=2013)
 - [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Minute [19:45](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1185), [31:44](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1904)
 - [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Minute [23:56](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1436)
 - [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36 – Cum-Ex-Prozess: Hanno Berger verurteilt]] (2022-12-13) — Minute [17:21](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1041), [33:18](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=1998), [34:52](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=2092)
@@ -128,8 +145,8 @@ Johannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankf
 
 ## Kurz erwähnt (3)
 
-- [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Minute [17:29](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1049)
 - [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Minute [14:34](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=874), [18:42](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1122)
+- [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23 – Das Cum-Ex-Geständnis des Angeklagten Hanno Berger]] (2022-08-08) — Minute [21:12](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=1272)
 - [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146 – Diesel-Skandal bei Continental: Wer zahlt die Kosten von 300 Millionen Euro?]] (2026-05-03) — Minute [50:04](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=3004)
 
 ---

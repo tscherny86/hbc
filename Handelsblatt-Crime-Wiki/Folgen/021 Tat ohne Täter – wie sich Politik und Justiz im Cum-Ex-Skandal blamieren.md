@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-08-28 |
 | **Dauer** | 49:40 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25) · [MP3](https://audio.podigee-cdn.net/819185-m-79a189e6da21179b2364c2ca2a5ec56b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/21-neue-episode) |
-| **Transkript** | [[Transkript 021]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]], [[Warburg Bank und Christian Olearius]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[M.M. Warburg]], [[HSH Nordbank]], [[Freshfields]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[HSH Nordbank und Cum-Ex]], [[Freshfields und Cum-Ex]], [[LBBW-Cum-Ex]], [[Compliance]], [[LBBW]], [[Handelsblatt]] |
+| **Transkript** | [[Transkript 021]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
+| **Unternehmen** | [[HSH Nordbank]], [[Freshfields]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[HSH Nordbank und Cum-Ex]], [[Freshfields und Cum-Ex]], [[LBBW-Cum-Ex]], [[Anne Brorhilker]], [[Wirtschaftsprüfung]], [[Compliance]], [[LBBW]], [[Staatsanwaltschaft Köln]] |
 
 ## Shownotes
 
@@ -56,16 +56,16 @@ Maschmeyer & Cum Ex: Der ahnungslose Milliardär
 - [10:31](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=631) – Da ging es um Immobiliengeschäfte und ja, du hast recht, die Landesbank brauchte damals unter Vetter Milliardenhilfe vom … ([[Transkript 021#Minute 10|Transkript]])
 - [12:36](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=756) – Also wir haben ja jetzt von der HSH Nordbank gehört, da ging es um über 100 Millionen. Bei … ([[Transkript 021#Minute 12|Transkript]])
 - [14:38](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=878) – Also hat ihrem Retter sozusagen von hinten nochmal in die Tasche gegriffen. Als wir das aufgedeckt haben, das … ([[Transkript 021#Minute 14|Transkript]])
-- [16:43](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1003) – Ja, also jetzt haben wir es gehört. Keine Erkenntnisse über missbräuchliches Verhalten bei der West-LB. Das sagt der … ([[Transkript 021#Minute 16|Transkript]])
+- [16:43](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1003) – Ja, also jetzt haben wir es gehört. Keine Erkenntnisse über missbräuchliches Verhalten bei der WestLB. Das sagt der … ([[Transkript 021#Minute 16|Transkript]])
 - [18:48](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1128) – Weil ja, letztendlich hinter der Portigon steht der Steuerzahler beziehungsweise der Staat. Und es gibt auch noch die … ([[Transkript 021#Minute 18|Transkript]])
 - [20:51](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1251) – Am 12. April 2007 gab es plötzlich eine Meldung, eine Börsenmeldung, Ad-Hoc-Meldung nannte man, und nennt man es … ([[Transkript 021#Minute 20|Transkript]])
 - [22:52](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1372) – Das ist der beste, wie halt passiert. Die haben die Aktien zu lang gehalten und deshalb gibt es … ([[Transkript 021#Minute 22|Transkript]])
 - [24:56](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1496) – Mehrere von ihren Anwälten und Partnern sind beschuldigt beziehungsweise sogar angeklagt. Da wird es bald zu einem Strafprozess … ([[Transkript 021#Minute 24|Transkript]])
 - [26:59](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1619) – Da war ja doch mehr deutlich, als es viele gerne wahrhaben wollten oder zumindest auch öffentlich gesagt haben. … ([[Transkript 021#Minute 26|Transkript]])
-- [29:00](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1740) – Es kam immer dieselbe Antwort, hier ist nichts. Linsen sagte, also in diesem Untersuchungsausschuss auch, er hätte das … ([[Transkript 021#Minute 29|Transkript]])
+- [29:00](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1740) – Es kam immer dieselbe Antwort, hier ist nichts. Linssen sagte, also in diesem Untersuchungsausschuss auch, er hätte das … ([[Transkript 021#Minute 29|Transkript]])
 - [31:00](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1860) – Aber wir könnten jetzt schon sagen, sie haben nicht mit dem Richtigen gesprochen. Also es gibt da auch … ([[Transkript 021#Minute 31|Transkript]])
 - [33:04](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1984) – Denn die konkreten Transaktionen waren so groß, teilweise über 10% des Emissionsvolumens, dass sie nur über Leerverkäufe abgewickelt … ([[Transkript 021#Minute 33|Transkript]])
-- [35:10](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2110) – Er hatte einen so großen Erfolg mit der West-LB für seine Investmentbank eingefahren, dass sein Marketing-Budget ins Unermessliche … ([[Transkript 021#Minute 35|Transkript]])
+- [35:10](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2110) – Er hatte einen so großen Erfolg mit der WestLB für seine Investmentbank eingefahren, dass sein Marketing-Budget ins Unermessliche … ([[Transkript 021#Minute 35|Transkript]])
 - [37:14](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2234) – Also ich möchte das nochmal kurz zusammenfassen und hinterher ein Fragezeichen dran machen. Also wir haben eine Bank, … ([[Transkript 021#Minute 37|Transkript]])
 - [39:22](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2362) – Ja, immerhin gibt es jetzt vielleicht ein bisschen Bewegung, wenn man sich jetzt den neuen Koalitionsvertrag anschaut. In … ([[Transkript 021#Minute 39|Transkript]])
 - [41:23](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2483) – Aber außer Herrn Berger ist da in Frankfurt noch ein bisschen Brachland gewissermaßen. Natürlich gibt es auch in … ([[Transkript 021#Minute 41|Transkript]])

@@ -25,22 +25,6 @@ Die Aufsicht liegt bei der BaFin, die Verdachtsfälle an Staatsanwaltschaften ab
 
 ## Was im Podcast gesagt wird
 
-> … allein Cum-Ex-Steuerrückzahlungen drohen. Das hat Portigon auch selbst mitgeteilt inzwischen in einer Ad-Hoc-Meldung. Und ja, man muss sich das nochmal vor Augen halten. Das, nachdem sie jahrelang gesagt hat, gehen Sie weiter, hier gibt …
->
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 18:07](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1087) · [[Transkript 021#Minute 18|im Transkript]]
-
-> … lief. Am 12. April 2007 gab es plötzlich eine Meldung, eine Börsenmeldung, Ad-Hoc-Meldung nannte man, und nennt man es auch heute, von Daimler Chrysler. Und da stand dann drin, dass die West-LB jetzt 144 …
->
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 20:54](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1254) · [[Transkript 021#Minute 20|im Transkript]]
-
-> … und mussten sich dann an die Regeln halten. Und das war diese Ad-Hoc-Meldung. Genau, also die Amerikaner sagen dazu, caught with your hand in the cookie jar. Das ist schön bildlich, dass der kleine …
->
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 22:38](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1358) · [[Transkript 021#Minute 22|im Transkript]]
-
-> … der Aktien verkauft, die er noch gar nicht hat. Das ist der Leerverkäufer. Und der Leerverkäufer, der generiert dann sozusagen eine Kapitalertragssteuerbescheinigung. Und der eigentliche Aktionär, der generiert auch eine Kapitalertragssteuerbescheinigung. Also so kommt …
->
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 33:44](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2024) · [[Transkript 021#Minute 33|im Transkript]]
-
 > … wir getagt und wir sind der Meinung, dass wir unverzüglich eine sogenannte Ad-Hoc-Mitteilung machen müssen. Dazu sind Unternehmen verpflichtet, genau, wenn es aktienrelevante Nachrichten gibt, die auch sofort zu veröffentlichen. Genau, Ad-Hoc, ein lateinischer …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 12:42](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=762) · [[Transkript 025#Minute 12|im Transkript]]
@@ -65,7 +49,7 @@ Die Aufsicht liegt bei der BaFin, die Verdachtsfälle an Staatsanwaltschaften ab
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 18:21](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1101) · [[Transkript 029#Minute 18|im Transkript]]
 
-> … kurzen Strich drunter ziehen, wo wir gerade stehen. Also, wir haben aggressiven Leerverkäufern, in Klammern Pairing. Dann haben wir einen Konzern, der eine Untersuchung beauftragt hat, in Klammern Adler und aber eben sonst schweigt. …
+> … kurzen Strich drunter ziehen, wo wir gerade stehen. Also, wir haben aggressiven Leerverkäufern, in Klammern Perring. Dann haben wir einen Konzern, der eine Untersuchung beauftragt hat, in Klammern Adler und aber eben sonst schweigt. …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 31:12](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1872) · [[Transkript 029#Minute 31|im Transkript]]
 
@@ -73,11 +57,19 @@ Die Aufsicht liegt bei der BaFin, die Verdachtsfälle an Staatsanwaltschaften ab
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 16:36](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=996) · [[Transkript 039#Minute 16|im Transkript]]
 
-> … Kapitalmarkt hätte doch bei weiteren Ausführungen den ganzen Kontext nicht verstanden. Eine Ad-Hoc-Meldung ist immer nur eine kurze Meldung. Und da könne man nicht alles in voller Länge ausführen. Da war Richter Födych dann …
+> … Kapitalmarkt hätte doch bei weiteren Ausführungen den ganzen Kontext nicht verstanden. Eine Ad-Hoc-Meldung ist immer nur eine kurze Meldung. Und da könne man nicht alles in voller Länge ausführen. Da war Richter Födisch dann …
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 18:38](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1118) · [[Transkript 039#Minute 18|im Transkript]]
 
-> … der Chef der US-Börsenaufsicht, der gegen mich ermittelt, wegen des Verdachts auf Marktmanipulation, Kussmanipulation, weil er ständig Versprechen macht bei Tesla zum Beispiel, die dann nicht eintreffen. Deshalb gibt es ein Verfahren wegen Marktmanipulation. …
+> … gibt es Razzien. Es geht um den Verdacht auf Untreue, Bilanzfälschung und Marktmanipulation und um einen der wichtigsten Player auf dem deutschen Immobilienmarkt, nämlich die Adler Group. Die Dauerkrise des Luxemburger Konzerns hat mit …
+>
+> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 0:31](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=31) · [[Transkript 051#Minute 0|im Transkript]]
+
+> … nicht überschreitet. Und einer der zentralen Vorwürfe über dem Unternehmen, den eben der Shortseller auch erhoben hatte, ist, dass Adler mit Tricks verschleiern soll, dass das Unternehmen diese Hürde des LTVs eben gerissen hat. Man …
+>
+> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 11:09](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=669) · [[Transkript 051#Minute 11|im Transkript]]
+
+> … der Chef der US-Börsenaufsicht, der gegen mich ermittelt, wegen des Verdachts auf Marktmanipulation, Kursmanipulation, weil er ständig Versprechen macht bei Tesla zum Beispiel, die dann nicht eintreffen. Deshalb gibt es ein Verfahren wegen Marktmanipulation. …
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 26:54](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=1614) · [[Transkript 110#Minute 26|im Transkript]]
 
@@ -95,10 +87,10 @@ Die Aufsicht liegt bei der BaFin, die Verdachtsfälle an Staatsanwaltschaften ab
 
 ## In diesen Folgen (4)
 
-- [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Minute [18:07](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1087), [20:54](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1254), [22:38](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1358), [33:44](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=2024)
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [12:42](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=762), [15:29](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=929), [17:43](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1063)
 - [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes · Minute [0:10](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=10), [14:44](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=884), [18:21](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1101), [31:12](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1872)
 - [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Minute [16:36](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=996), [18:38](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1118)
+- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes · Minute [0:31](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=31), [11:09](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=669)
 
 ## Kurz erwähnt (2)
 

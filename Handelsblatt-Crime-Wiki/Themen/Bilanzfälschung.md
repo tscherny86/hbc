@@ -29,13 +29,17 @@ _Vorsätzlich falsche Darstellung der Vermögens- und Ertragslage in Jahresabsch
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 3:40](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=220) · [[Transkript 004#Minute 3|im Transkript]]
 
-> … Vermittlung von Kunden musste Paisi Wirecard-Provisionen zahlen, was sie dann angeblich auf Treuhandkonten eingezahlt haben. Doch dieses Geld und auch das Geld von anderen Partnern konnten die Wirtschaftsprüfer dann Anfang 2020 nicht finden. Es …
+> … Vermittlung von Kunden musste PayEasy Wirecard-Provisionen zahlen, was sie dann angeblich auf Treuhandkonten eingezahlt haben. Doch dieses Geld und auch das Geld von anderen Partnern konnten die Wirtschaftsprüfer dann Anfang 2020 nicht finden. Es …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 8:18](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=498) · [[Transkript 004#Minute 8|im Transkript]]
 
 > … Wirecard-Beispiel. Am Rande, das Handelsblatt hat schon lange vor der Wirecard-Insolvenz von Luftbuchungen berichtet, also in seiner Berichterstattung den Begriff der Luftbuchungen verwendet. Und dagegen war damals Wirecard selbst vorgegangen und hat es auch …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 21:34](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1294) · [[Transkript 004#Minute 21|im Transkript]]
+
+> … dem Wirecard eingestehen musste, dass 1 ,9 Milliarden Euro, die angeblich auf Treuhandkonten, auf den Philippinen liegen sollten, nicht existierten. Und ja, Milliardenwerte wurden an der Börse vernichtet. Es kam zum massiven Absturz und …
+>
+> — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 6:24](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=384) · [[Transkript 039#Minute 6|im Transkript]]
 
 > … dass das Geschäft existiert hat, aber in wesentlichen Teilen nicht auf das Treuhandkonto geflossen ist. Zur Erklärung, es geht dabei um dieses ominöse Drittpartnergeschäft, den Kern des Skandals. Also das Geschäft, wo letztlich die …
 >
@@ -61,6 +65,18 @@ _Vorsätzlich falsche Darstellung der Vermögens- und Ertragslage in Jahresabsch
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 41:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2485) · [[Transkript 049#Minute 41|im Transkript]]
 
+> … dabei gewesen, den Wirtschaftsprüfern eben vorzugaukeln, dass Wirecard über ein Vermögen auf Treuhandkonten, verfügte, die es in Wirklichkeit nicht gab. Da fehlten dann am Ende 1 ,9 Milliarden Euro, wie wir heute wissen. Da …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 9:42](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=582) · [[Transkript 089#Minute 9|im Transkript]]
+
+> … glauben zu lassen, dass es dieses Geschäft und auch Vermögen auf den Treuhandkonten gab. Und von Erffa, was hat er jetzt dazu gesagt? Er hat gesagt, Marsalek, damals als sein Vorgesetzter, habe ihn damit beauftragt, …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 42:35](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2555) · [[Transkript 089#Minute 42|im Transkript]]
+
+> … diese Saldenbestätigungen, die sollten bestätigen, dass es ein bestimmtes Vermögen Wirecards auf Treuhandkonten liegt, aus diesem Drittpartnergeschäft, über das wir jetzt gerade gesprochen haben. Und die Staatsanwaltschaft geht ja davon aus, dass es dieses …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 46:16](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2776) · [[Transkript 089#Minute 46|im Transkript]]
+
 > … sie von der GFG Alliance Group angekauft hat. Also will heißen, mutmaßliche Luftbuchung, wenn man so viel 2.0, aber von der Summe dann womöglich noch größer. 2.0 Wirecard meinst du? Genau, Wirecard sind 2.0. …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 44:31](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2671) · [[Transkript 114#Minute 44|im Transkript]]
@@ -75,12 +91,13 @@ _Vorsätzlich falsche Darstellung der Vermögens- und Ertragslage in Jahresabsch
 
 ## In diesen Folgen (2)
 
-- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Minute [8:13](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=493), [14:46](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=886), [17:47](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1067)
+- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Minute [6:24](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=384), [8:13](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=493), [14:46](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=886), [17:47](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1067)
 - [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes · Minute [0:13](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=13), [38:49](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2329), [41:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2485)
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (3)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [3:40](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=220), [8:18](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=498), [21:34](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1294)
+- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Minute [9:42](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=582), [42:35](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2555), [46:16](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2776)
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Minute [44:31](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2671), [46:26](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2786), [55:53](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3353)
 
 ---

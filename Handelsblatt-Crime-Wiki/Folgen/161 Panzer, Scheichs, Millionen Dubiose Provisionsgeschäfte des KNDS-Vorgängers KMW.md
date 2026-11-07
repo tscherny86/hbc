@@ -23,7 +23,7 @@ tags: [folge, jahr-2026, folge]
 | **Themen** | [[Rüstungsexporte und Provisionen]], [[Compliance]] |
 | **Unternehmen** | [[KNDS (Krauss-Maffei Wegmann)]] |
 | **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]], [[Lars-Marten Nagel]] |
-| **Kurz erwähnt** | [[Schneeballsystem]], [[Korruption und Bestechung]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Kurz erwähnt** | [[Schneeballsystem]], [[Korruption und Bestechung]], [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 
@@ -45,7 +45,7 @@ Produziert von Florian Pape
 - [6:17](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=377) – Ja, wie du richtig sagst, wenn man überhaupt einen Panzer kennt, dann kennt man den. Dann den Leopard. … ([[Transkript 161#Minute 6|Transkript]])
 - [8:21](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=501) – Für einen Preis von 1 ,9 Milliarden Euro damals. Genau. Und wie Lars vorhin ja auch schon gesagt … ([[Transkript 161#Minute 8|Transkript]])
 - [10:25](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=625) – Ja, oder verschrottet. Aber das ist sozusagen die Vorstellung, dass man irgendwie den Vormarsch des Ostblocks irgendwo bei … ([[Transkript 161#Minute 10|Transkript]])
-- [12:31](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=751) – Deswegen lass uns jetzt vielleicht mal mit dem Kläger anfangen. Also dieser FGS-Frags-Firma aus der Schweiz. Was wissen … ([[Transkript 161#Minute 12|Transkript]])
+- [12:31](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=751) – Deswegen lass uns jetzt vielleicht mal mit dem Kläger anfangen. Also dieser FGS Frex-Firma aus der Schweiz. Was … ([[Transkript 161#Minute 12|Transkript]])
 - [14:33](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=873) – Also Namensschilder waren da, von der Firma als auch von dem Ehepaar. Und es war jetzt, manchmal hast … ([[Transkript 161#Minute 14|Transkript]])
 - [16:37](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=997) – Er habe dann ein Geschäft gewittert und angeboten, doch diese alten Vorderladerkanonen auszutauschen gegen professionelle Salutkanonen, die nämlich … ([[Transkript 161#Minute 16|Transkript]])
 - [18:38](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=1118) – Es könnte halt so ein erster Fingerzeig an die Geschäftspartner gewesen sein. Wir sind verhandlungsbereit und wir können … ([[Transkript 161#Minute 18|Transkript]])

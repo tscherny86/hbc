@@ -47,11 +47,11 @@ Soziale Netzwerke erleichtern die Inszenierung, erleichtern aber auch die Recher
 >
 > — [[134 Familienunternehmer Der falsche Baron von Krupp|#134]], [Minute 51:07](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=3067) · [[Transkript 134#Minute 51|im Transkript]]
 
-> … Das war nämlich alles gar nicht so einfach, wenn man über einen Serienbetrüger berichtet. Ja, danke, Salva. Ich freue mich, heute dabei zu sein. Peter, nachdem du das letzte Mal bei uns warst im …
+> … Das war nämlich alles gar nicht so einfach, wenn man über einen Serienbetrüger berichtet. Ja, danke, Solveig. Ich freue mich, heute dabei zu sein. Peter, nachdem du das letzte Mal bei uns warst im …
 >
 > — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 2:57](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=177) · [[Transkript 135#Minute 2|im Transkript]]
 
-> … Einwurf da jetzt, apropos Erpressung. Auch der Protagonist unserer letzten Folge, der falsche Baron, wie er sich ja oft auch mal dargestellt hat, Peter von Bohlen und Hahlbach, der hat ja auch so ein …
+> … Einwurf da jetzt, apropos Erpressung. Auch der Protagonist unserer letzten Folge, der falsche Baron, wie er sich ja oft auch mal dargestellt hat, Peter von Bohlen und Halbach, der hat ja auch so ein …
 >
 > — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 6:46](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=406) · [[Transkript 135#Minute 6|im Transkript]]
 

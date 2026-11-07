@@ -28,13 +28,13 @@ Der Fall zeigt die Risiken pseudogrüner Investments am grauen Kapitalmarkt: lan
 >
 > — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 3:52](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=232) · [[Transkript 086#Minute 3|im Transkript]]
 
-> … in Finanzprodukte. Da gibt es ganz unterschiedliche Finanzprodukte, die aus diesem Investmenthaus Thomas Lloyd ausgegeben imitiert wurden. Das sind dann sogenannte Genussrechte, Direktbeteiligungen. Aber das meiste von dem Geld, das ist über eine Reihe …
+> … in Finanzprodukte. Da gibt es ganz unterschiedliche Finanzprodukte, die aus diesem Investmenthaus Thomas Lloyd ausgegeben emittiert wurden. Das sind dann sogenannte Genussrechte, Direktbeteiligungen. Aber das meiste von dem Geld, das ist über eine Reihe von …
 >
 > — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 5:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=331) · [[Transkript 086#Minute 5|im Transkript]]
 
-> … der Zeit. Da hat Thomas Leuth auch richtig Kongresse abgehalten, wo diese Cleantech-Fonds dann auch beworben wurden. Und ich habe tatsächlich noch eine alte Aufzeichnung gefunden von einem dieser Kongresse und habe die mitgebracht …
+> … Ökokraftwerke. Also Biomasse, Solarenergie, das sei die Zukunft. Und diese Botschaft hat Thomas Lloyd sehr offensiv unters Volk gebracht. Das liegt jetzt schon ein bisschen zurück. Also das spielt so Mitte des letzten Jahrzehnts, 2015, …
 >
-> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 7:23](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=443) · [[Transkript 086#Minute 7|im Transkript]]
+> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 7:09](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=429) · [[Transkript 086#Minute 7|im Transkript]]
 
 > … ja jetzt gerade das erste Mal unsere gemeinsame Folge hier zusammen über Thomas Lloyd. Wie geht es dir denn heute so nach dieser Folge? Also wir mussten während der Aufnahme die Klimaanlage ausmachen, damit …
 >
@@ -46,7 +46,7 @@ Der Fall zeigt die Risiken pseudogrüner Investments am grauen Kapitalmarkt: lan
 
 ## In diesen Folgen (1)
 
-- [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes · Minute [1:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=91), [3:52](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=232), [5:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=331), [7:23](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=443)
+- [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes · Minute [1:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=91), [3:52](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=232), [5:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=331), [7:09](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=429)
 
 ## Kurz erwähnt (1)
 

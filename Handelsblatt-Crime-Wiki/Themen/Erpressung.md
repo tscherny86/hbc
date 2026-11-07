@@ -54,7 +54,7 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 >
 > — [[026 Cum-Ex Show-Down vor Gericht|#26]], [Minute 37:33](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=2253) · [[Transkript 026#Minute 37|im Transkript]]
 
-> … war so, dass mein Großvater früher, wo wir noch in Deutschland waren, erpresst wurde. Heute sage ich ganz klar, das ist organisierte Kriminalität in Nadelschreifen. Hier ist so viel kriminelle Energie angewandt worden, dass …
+> … war so, dass mein Großvater früher, wo wir noch in Deutschland waren, erpresst wurde. Heute sage ich ganz klar, das ist organisierte Kriminalität in Nadelstreifen. Hier ist so viel kriminelle Energie angewandt worden, dass …
 >
 > — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 0:30](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=30) · [[Transkript 024#Minute 0|im Transkript]]
 
@@ -82,9 +82,9 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 >
 > — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 16:35](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=995) · [[Transkript 034#Minute 16|im Transkript]]
 
-> … bei Conti auch passiert ist, schleusen sie Daten aus dem Unternehmen und erpressen die damit. Und häufig verschlüsseln sie, das hast du gerade angesprochen, verschlüsseln sie auch Systeme und sperren sozusagen die Unternehmen aus …
+> … zum Beispiel an russischen Feiertagen nicht gearbeitet wird, in Anführungszeichen, von Seiten der Erpresser. Und natürlich auch, dass generell keine russlandfreundlichen Staaten angegriffen werden. Also es gibt ja immer auch den Verdacht, da sprechen wir …
 >
-> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 18:53](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=1133) · [[Transkript 034#Minute 18|im Transkript]]
+> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 18:06](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=1086) · [[Transkript 034#Minute 18|im Transkript]]
 
 > … deswegen gab es tatsächlich, und das wissen wir auch vom Kronzeugen, solche Erpressungssituationen. Also das gab zum Beispiel einmal die Situation, dass einer dieser Investoren das mitbekommen hat. Und der hat dann auf die …
 >
@@ -110,7 +110,7 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 0:10](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=10) · [[Transkript 115#Minute 0|im Transkript]]
 
-> … ein Prozess gegen Klaus Maurischatt beginnen soll. Und dabei sollte es um Erpressungsvorwürfe rund um Gomopa, was wir gerade schon gehört haben, gehen. Und viel mehr wusste ich zu dem Zeitpunkt auch gar nicht. …
+> … ein Prozess gegen Klaus Maurischat beginnen soll. Und dabei sollte es um Erpressungsvorwürfe rund um Gomopa, was wir gerade schon gehört haben, gehen. Und viel mehr wusste ich zu dem Zeitpunkt auch gar nicht. …
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 3:00](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=180) · [[Transkript 115#Minute 3|im Transkript]]
 
@@ -130,11 +130,11 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 16:11](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=971) · [[Transkript 116#Minute 16|im Transkript]]
 
-> … dazu. Ein Teil dessen ist eben auch die Diskussion um Vorwürfe einer Erpressung, die eben durch die Familie der Anzeigerstatter veranlasst worden sein soll. Also das ist der Vorwurf, die Anzeigerstatter hätten erpresst. Darüber …
+> … hemdsärmelig geht es da zu. Ein Teil dessen ist eben auch die Diskussion um Vorwürfe einer Erpressung, die eben durch die Familie der Anzeigeerstatter veranlasst worden sein soll. Also das ist der Vorwurf, die Anzeigeerstatter hätten erpresst. Darüber …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 35:21](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2121) · [[Transkript 119#Minute 35|im Transkript]]
 
-> … Anleihe. Okay, verstehe. Und wo geht es da jetzt aber um eine Erpressung oder einen Erpressungsvorwurf, den ihr gerade erzählt habt? Ja, das liegt am zweiten Sympathex-Eigner. Über den haben wir zumindest jetzt heute …
+> … Anleihe. Okay, verstehe. Und wo geht es da jetzt aber um eine Erpressung oder einen Erpressungsvorwurf, den ihr gerade erzählt habt? Ja, das liegt am zweiten Sympatex-Eigner. Über den haben wir zumindest jetzt heute …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 39:23](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2363) · [[Transkript 119#Minute 39|im Transkript]]
 
@@ -171,7 +171,7 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 - [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes · Minute [4:00](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=240), [14:17](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=857), [23:29](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=1409)
 - [[026 Cum-Ex Show-Down vor Gericht|#26 – Cum-Ex: Show-Down vor Gericht]] (2022-09-13) — Minute [33:12](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=1992), [35:43](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=2143), [37:33](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=2253)
 - [[024 Das Cum-Ex Dream Team (Teil 2)|#24 – Das Cum-Ex Dream Team (Teil 2)]] (2022-10-09) — Shownotes · Minute [0:30](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=30), [23:46](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1426), [26:37](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1597), [30:02](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1802)
-- [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34 – Cyberangriff auf Continental: So lief der spektakuläre Datendiebstahl bei dem Dax-Konzern ab]] (2023-01-15) — Shownotes · Minute [0:15](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=15), [14:58](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=898), [16:35](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=995), [18:53](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=1133)
+- [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34 – Cyberangriff auf Continental: So lief der spektakuläre Datendiebstahl bei dem Dax-Konzern ab]] (2023-01-15) — Shownotes · Minute [0:15](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=15), [14:58](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=898), [16:35](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=995), [18:06](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=1086)
 - [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76 – Der Mann mit der Maske: Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank]] (2024-05-04) — Shownotes · Minute [13:34](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=814), [47:39](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2859)
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes · Minute [0:10](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=10), [3:00](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=180), [4:51](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=291), [7:46](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=466)
 - [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Minute [35:21](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2121), [39:23](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2363), [41:29](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2489), [44:35](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2675)

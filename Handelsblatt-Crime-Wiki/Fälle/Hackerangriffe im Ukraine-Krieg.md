@@ -26,7 +26,7 @@ Deutsche Behörden warnten vor Aktionismus: Computersabotage bleibt auch gegen r
 
 ## Was im Podcast gesagt wird
 
-> … Ziel, Geld zu erbeuten. Wann beginnt eigentlich Vandalismus und wann beginnt der Cyberkrieg? In diesem Zusammenhang werden wir auch darüber sprechen, warum Behörden und Staatsanwälte derzeit deutlich vor privaten Cyberattacken auf russische Akteure waren. …
+> … Ziel, Geld zu erbeuten. Wann beginnt eigentlich Vandalismus und wann beginnt der Cyberkrieg? In diesem Zusammenhang werden wir auch darüber sprechen, warum Behörden und Staatsanwälte derzeit deutlich vor privaten Cyberattacken auf russische Akteure warnen. Denn da …
 >
 > — [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9]], [Minute 1:38](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=98) · [[Transkript 009#Minute 1|im Transkript]]
 

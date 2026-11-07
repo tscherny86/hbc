@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-06-15 |
 | **Dauer** | 1:06:09 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss) · [MP3](https://audio.podigee-cdn.net/1457109-m-01c894c6cef3830b03908ada40df2636.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/82-neue-episode) |
-| **Transkript** | [[Transkript 082]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 082]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]], [[Schlecker-Insolvenz]] |
 | **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Bankrott und Vermögensverschleierung]], [[Betriebsrat und Mitbestimmung]] |
 | **Unternehmen** | [[Schlecker]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Markus Braun]], [[Alfred Dierlamm]], [[Jens Lehmann]], [[Anton Schlecker]] |
-| **Kurz erwähnt** | [[Tesla-Files]], [[Fall Jens Lehmann]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[Pressefreiheit und Presserecht]], [[Erpressung]], [[Tesla]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Markus Braun]], [[Alfred Dierlamm]], [[Anton Schlecker]] |
+| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[Erpressung]] |
 
 ## Shownotes
 
@@ -52,16 +52,16 @@ Im ersten Teil von Handelsblatt Crime zum Fall Schlecker sprechen Investigativ-C
 - [24:42](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1482) – Die wurde 2004 befördert zur Filialleiterin. Und da waren sie also die einzige Vollzeitkraft, hatte sonst nur Hilfskräfte. … ([[Transkript 082#Minute 24|Transkript]])
 - [26:44](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1604) – Und dann aber fast amerikanische Verhältnisse, hätte ich jetzt was gesagt, bei dem Wort Betriebsrat sind dann bei … ([[Transkript 082#Minute 26|Transkript]])
 - [29:05](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1745) – Also es ist wirklich Wahnsinn. Also zu wissen, dass das passieren kann die ganze Zeit, macht ja einen … ([[Transkript 082#Minute 29|Transkript]])
-- [31:05](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1865) – Also solche Sachen, also wirklich hanebüchende Sachen, wo du dann wusstest, dass es nur um hier Angst und … ([[Transkript 082#Minute 31|Transkript]])
+- [31:05](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1865) – Also solche Sachen, also wirklich hanebüchene Sachen, wo du dann wusstest, dass es nur um hier Angst und … ([[Transkript 082#Minute 31|Transkript]])
 - [33:08](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1988) – Ist denn Schlecker auch selber mal bei solchen Testkäufen aufgeschlagen? Das war eine wöchentliche Übung für Herrn Schlecker, … ([[Transkript 082#Minute 33|Transkript]])
 - [35:19](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2119) – Und dann wurde sie also angeschossen und konnte nicht keine Hilfe holen. Warum? Weil es kein Telefon gab … ([[Transkript 082#Minute 35|Transkript]])
-- [37:22](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2242) – Zwei Jahre später seine Schwester Maike. Und Anton nahm seine Frau einfach mit in die Firma. Also die … ([[Transkript 082#Minute 37|Transkript]])
+- [37:22](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2242) – Zwei Jahre später seine Schwester Meike. Und Anton nahm seine Frau einfach mit in die Firma. Also die … ([[Transkript 082#Minute 37|Transkript]])
 - [39:22](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2362) – Genau. Und also 6.45 Uhr kommt der Anton Schlecker an, um 8 Uhr beginnt die Besprechung mit den … ([[Transkript 082#Minute 39|Transkript]])
 - [41:28](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2488) – Das ist vielleicht auch das Problem, dass sie das halt nicht gelernt hat, also sie hat ja Fremdsprachensekretärin … ([[Transkript 082#Minute 41|Transkript]])
 - [43:35](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2615) – Ich glaube auch und dann ist es wirklich egal, ist das Mann oder Frau, ist das alt oder … ([[Transkript 082#Minute 43|Transkript]])
 - [45:40](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2740) – Schlecker spendierte den Männern, natürlich alles Männer, S-Klasse-Limousinen von Mercedes. Deshalb wurden sie dann auch die S-Klasse-Direktoren genannt. … ([[Transkript 082#Minute 45|Transkript]])
 - [47:44](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2864) – Bleiben Sie dran. Cybersecurity, KI und dann wollen auch noch alle remote arbeiten. Wie soll ich mich dann … ([[Transkript 082#Minute 47|Transkript]])
-- [49:52](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2992) – Und ich sage dir ja gerade, Persönlichkeitsstruktur, was macht, also Christoph Schlecker prügelt sich sozusagen erstmal mit dem … ([[Transkript 082#Minute 49|Transkript]])
+- [49:52](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2992) – Und ich sage dir ja gerade, Persönlichkeitsstruktur, was macht, also Christa Schlecker prügelt sich sozusagen erstmal mit dem … ([[Transkript 082#Minute 49|Transkript]])
 - [52:02](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3122) – Und 99 werden dann die beiden Hauptangeklagten, der hieß Herbert Franz Jakobi und Wilhelm Hudlmeier, wegen räuberischer Erpressung … ([[Transkript 082#Minute 52|Transkript]])
 - [54:03](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3243) – Ja, ist natürlich mit Blick auf die Entführung auch verständlich. Natürlich ist natürlich das Interesse an den Schleckers … ([[Transkript 082#Minute 54|Transkript]])
 - [56:04](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3364) – Also natürlich hat da Schlecker unheimlich viele Arbeitsplätze geschaffen und sonst würde wahrscheinlich auch gar keiner Ehingen kennen. … ([[Transkript 082#Minute 56|Transkript]])
@@ -69,7 +69,7 @@ Im ersten Teil von Handelsblatt Crime zum Fall Schlecker sprechen Investigativ-C
 - [1:00:10](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3610) – Wuchs und wuchs und wuchs. Und 2004 war der Umsatz weltweit schon bei 6 ,6 Milliarden Euro. Also … ([[Transkript 082#Minute 60|Transkript]])
 - [1:02:15](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3735) – Auch das übrigens ein Wunsch eines Hörers. Und zwar ist es so, dass im Wirecard-Prozess sich doch etwas, … ([[Transkript 082#Minute 62|Transkript]])
 - [1:04:16](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3856) – Es sieht nicht gut aus. Alle wichtigen Zeugen haben ihn belastet. Dann könnte man natürlich jetzt sagen, okay, … ([[Transkript 082#Minute 64|Transkript]])
-- [1:06:17](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3977) – Bis dann, Nina. Ganz herzlichen Dank für diese Folge auch erstmal an unser Producer-Team. Ich finde, das darf … ([[Transkript 082#Minute 66|Transkript]])
+- [1:06:17](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3977) – Bis dann, Ina. Ganz herzlichen Dank für diese Folge auch erstmal an unser Producer-Team. Ich finde, das darf … ([[Transkript 082#Minute 66|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,7 +18,7 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-10-20 |
 | **Dauer** | 19:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6) · [MP3](https://audio.podigee-cdn.net/1600526-m-8d597b297e24d27f531e33cc7590a338.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/98-sympatex-update) |
-| **Transkript** | [[Transkript 098]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 098]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Sympatex-Betrug]] |
 | **Themen** | [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Sympatex]], [[Goetzpartners]] |
@@ -40,7 +40,7 @@ Unsere Redakteure und Auslandskorrespondenten analysieren für Sie den historisc
 
 ## Zeitmarken
 
-- [0:08](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=8) – Vielleicht erinnern Sie sich noch an die Namen Stephan Goetz und Stefan Sankt-Johanser. Im November 2023 haben wir … ([[Transkript 098#Minute 0|Transkript]])
+- [0:08](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=8) – Vielleicht erinnern Sie sich noch an die Namen Stephan Goetz und Stefan Sanktjohanser. Im November 2023 haben wir … ([[Transkript 098#Minute 0|Transkript]])
 - [2:16](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=136) – Genau das ist das Imageproblem, mit dem sich die Beratung Goetzpartners gerade befassen muss. Die Staatsanwaltschaft München verdächtigt … ([[Transkript 098#Minute 2|Transkript]])
 - [4:17](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=257) – Aber wir haben natürlich mit vielen Leuten gesprochen, die ihn kennen. Und den kennen wirklich viele, ja, weil … ([[Transkript 098#Minute 4|Transkript]])
 - [6:19](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=379) – Auch wenn das natürlich noch keine verurteilten Männer sind. Das aber führt uns ziemlich direkt zu dem Deal, … ([[Transkript 098#Minute 6|Transkript]])

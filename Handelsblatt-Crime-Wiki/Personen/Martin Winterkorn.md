@@ -70,7 +70,7 @@ Der Dieselskandal kostete VW mehr als 32 Milliarden Euro; es kam zum größten V
 >
 > — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 6:55](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=415) · [[Transkript 019#Minute 6|im Transkript]]
 
-> … im Bilde war. Denn zum einen hat er sich damals beim VW-Chef Winterkorn dafür verbirgt, dass dieses Clean-Diesel-Projekt fliegt und dass das funktioniert in den USA. Und außerdem hat er sich eben im Jahr …
+> … im Bilde war. Denn zum einen hat er sich damals beim VW-Chef Winterkorn dafür verbürgt, dass dieses Clean-Diesel-Projekt fliegt und dass das funktioniert in den USA. Und außerdem hat er sich eben im Jahr …
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 16:43](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1003) · [[Transkript 046#Minute 16|im Transkript]]
 

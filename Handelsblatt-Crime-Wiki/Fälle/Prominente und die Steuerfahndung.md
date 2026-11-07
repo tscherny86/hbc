@@ -23,43 +23,33 @@ Auffällig ist, dass die Strafen angesichts der Beträge oft mild ausfielen – 
 
 ## Was im Podcast gesagt wird
 
-> … mit dem Steuerstrafverfahren konfrontiert. Die wenigsten mussten wie der FC Bayern-Manager Uli Hoeneß ins Gefängnis. Viele kamen mit Bewährungsstrafen weit gelimpflicher davon, wie etwa der ehemalige Chef der Deutschen Post, Klaus Zumwinkel. Sein Fall …
+> Alfons Schuhbeck steht vor Gericht. Die Staatsanwaltschaft wirft dem Star-Koch und einem seiner Mitarbeiter aus der IT-Abteilung Steuerhinterziehung in Millionenhöhe vor. Es geht …
 >
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=119) · [[Transkript 028#Minute 1|im Transkript]]
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 0:00](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=0) · [[Transkript 028#Minute 0|im Transkript]]
 
-> … vor Gericht zu stehen, Prozess. Alle gucken ihn an, er ist der Steuersünder auf einmal. Das war schon ein Einschnitt für ihn, oder René? Ja, absolut. Das hat man unmittelbar vor Prozessbeginn auch stark …
+> … die Schliche kam und welche Folgen das Ganze hatte und hat. Denn Schuhbeck befindet sich mit seinen Steuerstrafdelikten in guter bzw. in schlechter Gesellschaft. Unzählige Prominente sahen sich bereits mit dem Steuerstrafverfahren konfrontiert. Die …
 >
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 10:11](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=611) · [[Transkript 028#Minute 10|im Transkript]]
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:44](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=104) · [[Transkript 028#Minute 1|im Transkript]]
 
-> … mit ihm als Mensch machen? Ich glaube, er sagt sich ja, Uli Hoeneß, sein Freund, hat ja auch gekocht für den FC Bayern München, der wurde dann auch wieder Präsident. Und Uli Hoeneß hat …
+> … willkommen. Hallo Ina. Hallo Ina, freut mich. Lass uns nochmal bei dem Schuhbeck-Prozess starten, auch bevor wir zu anderen Fällen kommen. Worum ging es in dem Prozess konkret? Ja, es ging um 21 Fälle …
 >
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 32:54](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1974) · [[Transkript 028#Minute 32|im Transkript]]
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 3:18](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=198) · [[Transkript 028#Minute 3|im Transkript]]
 
-> … das war auch in der Presse sehr gut zu lesen, war Uli Hoeneß. Und die beiden waren ja auch Buddys, also Hoeneß war ein Buddy von Schubeck. Und der wurde auch wegen Steuerhinterziehung verurteilt. …
+> … am Waging, am See. Und da traf er dann den Gastwirt Sebastian Schuhbeck. Und der war so begeistert von dem jungen Mann und dem jungen Musiker, dass er ihn adoptiert hat. Erstmal hat er …
 >
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 41:04](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2464) · [[Transkript 028#Minute 41|im Transkript]]
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 4:55](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=295) · [[Transkript 028#Minute 4|im Transkript]]
 
-> … halt schon sehr an seiner Reputation. Und nun stand er da als Steuersünder und muss man jetzt aus Sicht des Sohnes sagen, ist halt auch so als Steuersünder ins Grab gegangen. Und das sind …
+> … in der Öffentlichkeit bekannt sind. Wie wurden die bestraft? Zum Beispiel Uli Hoeneß, der Präsident der FC Bayern München, der hat ja damals als Daytrader enorme Gewinne gemacht an der Börse und sozusagen vergessen, …
 >
-> — [[053 Hamburg Paradies für Steuerhinterzieher|#53]], [Minute 25:54](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1554) · [[Transkript 053#Minute 25|im Transkript]]
-
-> … ein ganz nettes Beispiel aus einem Interview. Da hat er mal über Boris Becker gesprochen und gesagt, als ich Abitur machte, sah ich seinen Wimbledon-Sieg auf meinem 100-Mark-Fernseher. Er fuhr Porsche und ich 21 …
->
-> — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 12:18](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=738) · [[Transkript 090#Minute 12|im Transkript]]
-
-> … tatsächlich witzigerweise spontan. Der erste Einfall, der mir dazu kommt, ist Uli Hoeneß. Da hatten wir auch mal eine Folge zu. Das ist der Bayern-Präsident und der als Steuernterzieher von fast 30 Millionen Euro, …
->
-> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 14:47](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=887) · [[Transkript 109#Minute 14|im Transkript]]
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 8:56](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=536) · [[Transkript 138#Minute 8|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes · Minute [1:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=119), [10:11](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=611), [32:54](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1974), [41:04](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2464)
+- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes · Minute [0:00](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=0), [1:44](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=104), [3:18](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=198), [4:55](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=295)
 
-## Kurz erwähnt (3)
+## Kurz erwähnt (1)
 
-- [[053 Hamburg Paradies für Steuerhinterzieher|#53 – Hamburg: Paradies für Steuerhinterzieher]] (2023-09-09) — Minute [25:54](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1554)
-- [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Minute [12:18](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=738)
-- [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Minute [14:47](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=887)
+- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [8:56](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=536)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

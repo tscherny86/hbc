@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 20
+folgen: 19
 tags: [personen]
 ---
 # Jan Marsalek
@@ -22,6 +22,10 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 
 ## Was im Podcast gesagt wird
 
+> … ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marsalek? Und müssen die Aktionäre vielleicht ihre Dividenden zurückzahlen? Damit herzlich willkommen zu Handelsblatt Crime. Hallo Felix, hallo Sönke. Hallo Ina. Hallo. …
+>
+> — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 2:49](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=169) · [[Transkript 004#Minute 2|im Transkript]]
+
 > … offenbar alles nicht gestört. Die haben sich dann darauf verlassen, dass Herr Marsalek eine Mail geschickt hat, die angeblich von einer Frau aus Manila kam, von der man noch nie vorher was gehört hat. …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 28:06](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1686) · [[Transkript 004#Minute 28|im Transkript]]
@@ -30,13 +34,9 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 30:22](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1822) · [[Transkript 004#Minute 30|im Transkript]]
 
-> … sagt ganz klar, Markus Braun ist ein Opfer, ein Opfer von Jan Marsalek, hat sozusagen nicht gesehen, was unter ihm im Vorstand passiert bei Wirecard. Andere, und so ist auch die Staatsanwaltschaft davon überzeugt, …
+> … uns ganz zum Ende nochmal auf das Thema Markus Braun und Jan Marsalek zu sprechen kommen, weil das sind natürlich auch so ein bisschen die Hauptpersonen. Da sind wir natürlich alle gespannt, was jetzt …
 >
-> — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 44:52](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2692) · [[Transkript 004#Minute 44|im Transkript]]
-
-> … diesem sich alle fragen, hat dieser Kriminalfall ein Ende, an dem Jan Marsalek in München am Flughafen in Handschellen abgeführt wird? Ach, naja, ich könnte mir vorstellen, dass er am Ende tatsächlich am Flughafen …
->
-> — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 46:31](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2791) · [[Transkript 004#Minute 46|im Transkript]]
+> — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 39:34](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2374) · [[Transkript 004#Minute 39|im Transkript]]
 
 > … unterschiedlich viel wussten. Und ganz oben standen zwei Personen. Das sind Jan Marsalek, der Asienvorstand von Wirecard und der britische Geschäftsmann James Henry O'Sullivan, die wahrscheinlich die einzigen waren, die sozusagen komplett im Bilde …
 >
@@ -50,9 +50,9 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 10:34](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=634) · [[Transkript 007#Minute 10|im Transkript]]
 
-> … eine Firma in Indien, die rein theoretisch passen würde. Wir haben Jan Marsalek, der offensichtlich da mit im Boot ist und versucht, den CEO mit reinzuziehen. Wir haben dieses Gewirr und wir haben ein …
+> … sozusagen. Und es wird dann eben dieser mysteriöse Fonds aufgesetzt. Das heißt, Jan Marsalek geht so ein bisschen den offiziellen Weg, spricht mit dem ehemaligen CEO Markus Braun, der heute nach wie vor noch in …
 >
-> — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 15:13](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=913) · [[Transkript 007#Minute 15|im Transkript]]
+> — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 12:18](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=738) · [[Transkript 007#Minute 12|im Transkript]]
 
 > … stieg dann sehr schnell auf. Er verstand sich ausgesprochen gut mit Jan Marsalek, was aus damaliger Sicht strategisch sehr gut war, weil Jan Marsalek halt Asienvorstand war, bald. Jan Marsalek kennen mittlerweile die einen …
 >
@@ -62,15 +62,15 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 26:45](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1605) · [[Transkript 011#Minute 26|im Transkript]]
 
+> … in dem ganzen Komplex. Ein britischer Geschäftsmann, der wird 2012 von Jan Marsalek eingeführt, dem Braun vorgestellt, so, hey Markus, du musst mal den Henry kennenlernen, das ist ein ganz toller Mann, der hat …
+>
+> — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 31:16](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1876) · [[Transkript 011#Minute 31|im Transkript]]
+
 > … Millionen Transaktionen fälschen muss, dann braucht man einen Datensatz. Den hat der Marsalek dann besorgt. Und ja, wir können das nachlesen, 2017, 18 waren schon panikartige Zustände in Dubai. Und der Bellenhaus hat das …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 32:49](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1969) · [[Transkript 011#Minute 32|im Transkript]]
 
-> … sein Handy ist, hat er gesagt, das hätte er verloren. Bellenhaus und Marsalek haben ganz, ganz viel über Telegram-Chats sich unterhalten und diese Chats gelöscht regelmäßig, was dann dazu führt, bei Telegram ist es …
->
-> — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 37:01](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2221) · [[Transkript 011#Minute 37|im Transkript]]
-
-> … genau. Eine E-Mail geschrieben an Herrn Braun, an die anderen Vorstände, also Marsalek ist uns ja eingeläufig der flüchtige Asienvorstand von Wirecard, an die gesamten anderen Aufsichtsräte und noch ein paar Anwälte waren da …
+> … genau. Eine E-Mail geschrieben an Herrn Braun, an die anderen Vorstände, also Marsalek ist uns ja geläufig der flüchtige Asienvorstand von Wirecard, an die gesamten anderen Aufsichtsräte und noch ein paar Anwälte waren da …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 12:19](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=739) · [[Transkript 025#Minute 12|im Transkript]]
 
@@ -78,17 +78,13 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 18:50](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1130) · [[Transkript 025#Minute 18|im Transkript]]
 
-> … der hat dann noch ein paar Geschäfte abgeschlossen. Jan ist immer Jan Marsalek. Buch mal hier noch diese Million und da noch jene Million. Und dann hat das tatsächlich offenbar, so schildern ist die …
+> … der hat dann noch ein paar Geschäfte abgeschlossen. Jan ist immer Jan Marsalek. Buch mal hier noch diese Million und da noch jene Million. Und dann hat das tatsächlich offenbar, so schildern es die Zeugen, so ausgesehen, dass …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 23:56](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1436) · [[Transkript 025#Minute 23|im Transkript]]
 
 > … sozusagen hintergangen von einer anderen Bande rund um Oliver Bellenhaus und Jan Marsalek. Nach einer kurzen Unterbrechung geht es gleich weiter. Bleiben Sie dran. Cyber Security, KI und dann wollen auch noch alle remote …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 30:22](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1822) · [[Transkript 025#Minute 30|im Transkript]]
-
-> … Hintergrund. Ja, kleine Randnotiz. Der Chef Ted Karner, der kannte den Jan Marsalek von Wirecard auch persönlich. Das ist jetzt sozusagen den Zufall geschuldet, dass wir darauf gestoßen sind, weil wir halt auch im …
->
-> — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 41:25](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2485) · [[Transkript 029#Minute 41|im Transkript]]
 
 > … zack in Untersuchungshaft kommt. Der erste DAX-Vorstand, der einfach flieht mit Jan Marsalek, der einfach dann abgeflogen ist. Das war schon eine irre Geschichte und jetzt wird das alles vor Gericht verhandelt. Ja, definitiv …
 >
@@ -102,21 +98,9 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 24:12](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1452) · [[Transkript 033#Minute 24|im Transkript]]
 
-> … sagt, Braun wusste von der Liste. Und Bellenhaus sagt auch, dass Jan Marsalek dann so kurz auf knapp halt noch ein paar Daten zusammengesucht hat und die dann dem Braun gegeben hat, der sie …
+> … sind, aber rein theoretisch ist das genau der Zeitpunkt, an dem Jan Marsalek ungescholten zurück nach Deutschland kommen könnte, weil nämlich die Strafe verjährt ist. René? Ja, nach 20 Jahren wäre das Ganze verjährt …
 >
-> — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 33:40](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2020) · [[Transkript 033#Minute 33|im Transkript]]
-
-> … nun durch den geständigen Mitangeklagten Oliver Bellenhaus oder den flüchtigen Ex-Vorstand Jan Marsalek, habe er einfach nichts gewusst, sagt Braun. Unsere Gerichtsreporter René Bender und Vinzenz Neumeyer schildern in dieser Folge, wie Brauns Verteidigung …
->
-> — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 2:16](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=136) · [[Transkript 039#Minute 2|im Transkript]]
-
-> … mitgetragen habe. Braun dagegen sagt, dass eine Bande um Bellenhaus und Jan Marsalek, den ehemaligen Asienschef, der auf der Flucht ist, diesen Betrug initiiert haben und alles hinter seinem Rücken abgewickelt haben und an …
->
-> — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 4:26](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=266) · [[Transkript 039#Minute 4|im Transkript]]
-
-> … Eben durch Herrn Bellenhaus und eine Bande um ihn herum mit Jan Marsalek. Und man müsste mal sauber ermitteln, wie viel ist davon wiederholbar. Das hat Herr Braun vor Gericht gesagt. Nach einer kurzen …
->
-> — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 9:20](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=560) · [[Transkript 039#Minute 9|im Transkript]]
+> — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 27:40](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1660) · [[Transkript 033#Minute 27|im Transkript]]
 
 > … Tag von Tesla wissen, beziehungsweise die hat am Daten angefordert, zum Fall Marsalek. Da ging es darum, dass ein österreichischer Politiker sich als, ja gewissermaßen als Fluchthelfer von Jan Marsalek, der ist ja geflohen, …
 >
@@ -166,27 +150,35 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 34:32](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2072) · [[Transkript 057#Minute 34|im Transkript]]
 
-> … gespannt, was da wohl rauskommt. Ich könnte mir gut vorstellen, dass Jan Marsalek, sollte er uns zuhören, diese These, dass er spionengesteuert hat, durchaus auch gefallen könnte. So als Bild, was die Leute von …
+> … gespannt, was da wohl rauskommt. Ich könnte mir gut vorstellen, dass Jan Marsalek, sollte er uns zuhören, diese These, dass er Spione gesteuert hat, durchaus auch gefallen könnte. So als Bild, was die Leute von …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 36:29](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2189) · [[Transkript 057#Minute 36|im Transkript]]
+
+> … übermittelt haben wollte, weil sie den in Verdacht hatte, Fluchthelfer von Jan Marsalek aus Wirecard gewesen zu sein. Der Marsalek hat sich ja abgesetzt, ist dann verschwunden und wird auch noch immer international gesucht …
+>
+> — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 56:04](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3364) · [[Transkript 058#Minute 56|im Transkript]]
 
 > … was ein großer Schritt war im Nachbarn, dass plötzlich der Name Jan Marsalek auf dem Bildschirm stand. Genau. Ich dachte, wo bin ich denn jetzt? Da kam ich mir wirklich vor wie im Film. …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 26:30](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1590) · [[Transkript 064#Minute 26|im Transkript]]
 
-> … so. Ja, ich habe auch das Gefühl, dass der Name hier an Marsalek irgendwie auch in anderen Fällen, über einen werden wir natürlich gleich noch nachher sprechen, nochmal wieder auftauchen könnten. Also in einem …
+> … machen oder so. Ja, ich habe auch das Gefühl, dass der Name Jan Marsalek irgendwie auch in anderen Fällen, über einen werden wir natürlich gleich noch nachher sprechen, nochmal wieder auftauchen könnten. Also in einem …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 28:17](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1697) · [[Transkript 064#Minute 28|im Transkript]]
 
-> … ist interessant, was in dem größten deutschen Wirtschaftsskandal jenseits Cum-Exit passiert. Apropos Marsalek. Marsalek hat auch einen Brief geschrieben. Über den wir auch berichtet haben. Genau. Der ist tatsächlich beim Gericht eingereicht worden. Und …
+> … ein Zeuge nach dem anderen vernommen. Zwischendurch ist mal der Name Jan Marsalek, den wir auch schon hören, aufgetaucht, aber gar nicht in München, sondern im Londoner Gerichtssaal, weil Jan Marsalek angeblich oder offenbar …
 >
-> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:06:04](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3964) · [[Transkript 064#Minute 66|im Transkript]]
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:04:59](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3899) · [[Transkript 064#Minute 64|im Transkript]]
 
-> … das habe es gegeben. Und dieses Geld sei unter anderem von Jan Marsalek und anderen veruntreut worden. Aber es hätte es gegeben. Genau, das sind diese sehr unterschiedlichen Positionen. Staatsanwaltschaft und Jaffe, wenn man …
+> … wurden die Gelder aus diesem Drittpartnergeschäft abgezweigt von einer Bande um Jan Marsalek und Oliver Bellenhaus herum. Und ja, aber bis jetzt gibt es eigentlich keine richtigen Belege. Jedenfalls geht das Gericht auch davon …
+>
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:06:52](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4012) · [[Transkript 064#Minute 66|im Transkript]]
+
+> … das habe es gegeben. Und dieses Geld sei unter anderem von Jan Marsalek und anderen veruntreut worden. Aber es hätte es gegeben. Genau, das sind diese sehr unterschiedlichen Positionen. Staatsanwaltschaft und Jaffé, wenn man …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 36:28](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2188) · [[Transkript 065#Minute 36|im Transkript]]
 
-> … unter anderem aber auch gegen die Ex-Vaya-Cut-Vorstände, unter anderem Herrn Braun, Herrn Marsalek und aber auch den früheren CFO Alexander von Knob. Und ja, ein Privatanleger ist aber zum Musterkläger in dem Verfahren bestellt …
+> … unter anderem aber auch gegen die Ex-Wirecard-Vorstände, unter anderem Herrn Braun, Herrn Marsalek und aber auch den früheren CFO Alexander von Knoop. Und ja, ein Privatanleger ist aber zum Musterkläger in dem Verfahren bestellt worden. Und …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 47:00](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2820) · [[Transkript 065#Minute 47|im Transkript]]
 
@@ -206,19 +198,31 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 7:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=473) · [[Transkript 069#Minute 7|im Transkript]]
 
+> … viele andere auch. Wir sehen das, wir haben das gesehen bei Jan Marsalek, der auch als charmant gilt. Wir sehen das bei René Benko, der eben auch als verkaufsstark, wenn ich es positiv sagen …
+>
+> — [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72]], [Minute 3:48](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=228) · [[Transkript 072#Minute 3|im Transkript]]
+
+> … Ja, melden Sie sich. Und wie immer gilt auch, sollten Sie Jan Marsalek gesehen haben oder sonstige Informationen für uns haben, schreiben Sie auch dann auch immer gerne Feedback. Wir, Solveig und ich, ich …
+>
+> — [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72]], [Minute 8:59](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=539) · [[Transkript 072#Minute 8|im Transkript]]
+
 > … Würdest du eher mit René Benko einen Kaffee trinken oder mit Jan Marsalek auf einer Yachtparty machen? Ich würde tatsächlich eher mit Marsalek Party machen gehen. Einfach, glaube ich, deshalb, ich bin Marsalek in …
 >
 > — [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79]], [Minute 4:14](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=254) · [[Transkript 079#Minute 4|im Transkript]]
+
+> … so wahnsinnig verlockend. Deshalb dann doch lieber auf die Yacht mit Jan Marsalek. Das war aber nicht die Alternative in dem Moment, das war die andere Alternative. Dann lieber die Daten auswerten, glaube ich. …
+>
+> — [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79]], [Minute 6:21](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=381) · [[Transkript 079#Minute 6|im Transkript]]
 
 > … Außer, ich habe es ja schon ein paar Mal gesagt, der Herr Marsalek meldet sich und lädt uns ein. Dann kommen wir natürlich auch gerne, dann kriegen wir das schon hin. Danke dir erstmal, …
 >
 > — [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79]], [Minute 11:12](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=672) · [[Transkript 079#Minute 11|im Transkript]]
 
-> … Schafen. Allen voran dem Kronzeugen Oliver Bellenhaus und dem ehemaligen Asienchef Jan Marsalek, der jetzt ja schon seit vier Jahren verschwunden, abgetaucht, flüchtig ist. Wahnsinn, dass das schon vier Jahre sind. Ja, und von …
+> … Schafen. Allen voran dem Kronzeugen Oliver Bellenhaus und dem ehemaligen Asienchef Jan Marsalek, der jetzt ja schon seit vier Jahren verschwunden, abgetaucht, flüchtig ist. Wahnsinn, dass das schon vier Jahre sind. Ja, und von Erffa …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 22:04](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1324) · [[Transkript 089#Minute 22|im Transkript]]
 
-> … Wir haben doch Zeugen gehört, die sagen, ein - und ausgegangen sind Marsalek und von Erfa. Der ist dann natürlich auch wieder rein. Und wie ging es dann weiter nach der Mittagspause? Ja, gemessen …
+> … Wir haben doch Zeugen gehört, die sagen, ein - und ausgegangen sind Marsalek und von Erffa. Der ist dann natürlich auch wieder rein. Und wie ging es dann weiter nach der Mittagspause? Ja, gemessen an …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 31:57](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1917) · [[Transkript 089#Minute 31|im Transkript]]
 
@@ -234,11 +238,11 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 15:04](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=904) · [[Transkript 093#Minute 15|im Transkript]]
 
-> … er hat die Mail gar nicht geschrieben. Er geht davon aus, dass Marsalek die geschrieben habe und zwar in einem Spaß. Ah, als er wirklich seinen Rechner, also als von Erfors wirklich seinen Rechner …
+> … er hat die Mail gar nicht geschrieben. Er geht davon aus, dass Marsalek die geschrieben habe und zwar in einem Spaß. Ah, als er wirklich seinen Rechner, also als von Erffa wirklich seinen Rechner …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 16:40](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1000) · [[Transkript 093#Minute 16|im Transkript]]
 
-> … hinterfragt. Da ging es um Chat-Austausch. Und zwar, es ging darum, dass Marsalek wohl intern einen Leak befürchtete. Und er hat vorgeschlagen, eine Liste an von Erfa zu geben. Da sei sie sicher. Ja. …
+> … hinterfragt. Da ging es um Chat-Austausch. Und zwar, es ging darum, dass Marsalek wohl intern einen Leak befürchtete. Und er hat vorgeschlagen, eine Liste an von Erffa zu geben. Da sei sie sicher. Ja. Und …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 18:15](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1095) · [[Transkript 093#Minute 18|im Transkript]]
 
@@ -254,7 +258,7 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 5:56](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=356) · [[Transkript 102#Minute 5|im Transkript]]
 
-> … also O-R-L-I-N, Rousseff. Ja, und der soll sozusagen auch der Kontaktmann von Marsalek gewesen sein. Nach einer kurzen Unterbrechung geht es gleich weiter. Bleiben Sie dran. Cybersecurity, KI und dann wollen auch noch alle …
+> … also O-R-L-I-N, Roussev. Ja, und der soll sozusagen auch der Kontaktmann von Marsalek gewesen sein. Nach einer kurzen Unterbrechung geht es gleich weiter. Bleiben Sie dran. Cybersecurity, KI und dann wollen auch noch alle …
 >
 > — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 7:40](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=460) · [[Transkript 102#Minute 7|im Transkript]]
 
@@ -266,25 +270,29 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 25:53](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1553) · [[Transkript 104#Minute 25|im Transkript]]
 
+> … ist eine Personalie in Moskau. Niemand anderes als der flüchtige Wirecard-Asien-Vorstand Jan Marsalek soll die Agentenzelle angeleitet haben. Nicht persönlich vor Ort im Westen, wo er sich wegen der Fahndung wohl nicht mehr ganz …
+>
+> — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 1:19](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=79) · [[Transkript 111#Minute 1|im Transkript]]
+
+> … haben, als es losging. Von den, ja muss man sagen, von Jan Marsalek gesteuerten Russland-Agenten. Da gibt es nun ein Urteil. Also klar, René, erste Frage, was sagt denn das Urteil? Ja, die Jury …
+>
+> — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 3:15](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=195) · [[Transkript 111#Minute 3|im Transkript]]
+
 > … denn das gehen in einem Fall, wo einer der Haupttäter, nämlich Jan Marsalek, also über den ist ja, bibliothekenweise sind ja über den Texte veröffentlicht worden in der Vergangenheit. Auch von uns, muss man …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 8:32](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=512) · [[Transkript 111#Minute 8|im Transkript]]
 
-> … ist ein Beispiel, Q ist ein Beispiel aus James Bond. Und der Marsalek und der Rousseff haben in Chats auch gerne die anderen Mitarbeiter in der Gruppe als Minions bezeichnet. Wer das jetzt nicht …
+> … ist ein Beispiel, Q ist ein Beispiel aus James Bond. Und der Marsalek und der Roussev haben in Chats auch gerne die anderen Mitarbeiter in der Gruppe als Minions bezeichnet. Wer das jetzt nicht …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 11:18](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=678) · [[Transkript 111#Minute 11|im Transkript]]
-
-> … auch sagen, er hat dann eben nicht versucht, mit Hilfe seines Superspionskumpels Marsalek irgendwie da aus dem Knast auszubrechen. wiederum filmreif, sondern hat dann einfach gesagt, ja, I did it, Geständnis abgelegt. Also, was …
->
-> — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 14:10](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=850) · [[Transkript 111#Minute 14|im Transkript]]
-
-> … noch ungefähr 80.000 Chat-Nachrichten dazu, die die Bande untereinander und mit Jan Marsalek ausgetauscht haben soll. Und ich meine, wir haben jetzt ein paar Mal über Jan Marsalek gesprochen. Für diejenigen, die es nicht …
->
-> — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 15:47](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=947) · [[Transkript 111#Minute 15|im Transkript]]
 
 > … haben wir Fotos gezeigt. Links Markus Braun, Ex-Vorstandsvorsitzender von Wirecard, rechts Jan Marsalek, Ex-Vorstand von Wirecard und auf der Flucht. Und auf der Flucht, richtig, kleines Detail und in der Mitte Hubert Barth, Ex-Deutschlandchef …
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 31:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1908) · [[Transkript 116#Minute 31|im Transkript]]
+
+> … das Handelsblatt mein Foto in der Form zwischen Markus Braun und Jan Marsalek veröffentlichen? Wir haben natürlich selbstbewusst argumentiert. Wir hatten gerade die Entscheidung aus Berlin da. Schaut euch die Entscheidung an aus Berlin. …
+>
+> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 34:53](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2093) · [[Transkript 116#Minute 34|im Transkript]]
 
 > … Zahlungsanbieter ein und feierte viele Nächte mit dem flüchtigen, früheren Wirecard-Vorstand Jan Marsalek durch. Jetzt drohen dem britischen Geschäftsmann und einem Komplizen wegen Kontofälschung in Milliardenhöhe womöglich lange Gefängnisstrafen. Ein Gericht in Singapur zeichnete …
 >
@@ -322,34 +330,34 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 >
 > — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 32:28](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1948) · [[Transkript 154#Minute 32|im Transkript]]
 
-## In diesen Folgen (20)
+## In diesen Folgen (19)
 
-- [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [28:06](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1686), [30:22](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1822), [44:52](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2692), [46:31](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2791)
-- [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes · Minute [6:33](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=393), [8:21](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=501), [10:34](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=634), [15:13](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=913)
-- [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Shownotes · Minute [23:22](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1402), [26:45](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1605), [32:49](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1969), [37:01](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2221)
+- [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [2:49](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=169), [28:06](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1686), [30:22](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1822), [39:34](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2374)
+- [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes · Minute [6:33](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=393), [8:21](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=501), [10:34](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=634), [12:18](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=738)
+- [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Shownotes · Minute [23:22](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1402), [26:45](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1605), [31:16](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1876), [32:49](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1969)
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [12:19](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=739), [18:50](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1130), [23:56](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1436), [30:22](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1822)
-- [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Minute [41:25](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2485)
-- [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Minute [2:49](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=169), [14:37](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=877), [24:12](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1452), [33:40](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2020)
-- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes · Minute [2:16](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=136), [4:26](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=266), [9:20](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=560)
+- [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Minute [2:49](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=169), [14:37](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=877), [24:12](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1452), [27:40](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1660)
 - [[050 Was hat es mit dem Brief von Jan Marsalek auf sich|#50 – Was hat es mit dem Brief von Jan Marsalek auf sich?]] (2023-07-20) — Shownotes · Minute [0:12](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=12), [2:41](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=161), [5:04](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=304), [6:43](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=403)
 - [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes · Minute [0:03](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3), [3:23](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=203), [5:07](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=307), [6:57](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=417)
 - [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes · Minute [1:14](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=74), [27:19](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1639), [34:32](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2072), [36:29](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2189)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [26:30](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1590), [28:17](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1697), [1:06:04](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3964)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [26:30](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1590), [28:17](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1697), [1:04:59](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3899), [1:06:52](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4012)
 - [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:30](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=30), [2:39](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=159), [4:44](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=284), [7:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=473)
-- [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79 – Meet the Team: Investigativ-Redakteur Michael Verfürden]] (2024-05-18) — Minute [4:14](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=254), [11:12](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=672)
+- [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79 – Meet the Team: Investigativ-Redakteur Michael Verfürden]] (2024-05-18) — Minute [4:14](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=254), [6:21](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=381), [11:12](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=672)
 - [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Minute [22:04](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1324), [31:57](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1917), [36:11](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2171), [41:28](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2488)
 - [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Minute [15:04](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=904), [16:40](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1000), [18:15](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1095)
 - [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102 – Vom Dax-Vorstand zum Agentenführer: Was ein Spionageprozess in London über das neue Leben von Jan Marsalek verrät]] (2024-12-01) — Shownotes · Minute [0:05](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=5), [2:26](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=146), [5:56](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=356), [7:40](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=460)
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [24:19](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1459), [25:53](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1553)
-- [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes · Minute [8:32](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=512), [11:18](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=678), [14:10](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=850), [15:47](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=947)
+- [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes · Minute [1:19](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=79), [3:15](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=195), [8:32](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=512), [11:18](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=678)
+- [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Minute [31:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1908), [34:53](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2093)
 - [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131 – Henry O’Sullivan: Der Schattenmann im Wirecard-Skandal]] (2025-11-30) — Shownotes · Minute [1:41](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=101), [3:22](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=202), [6:58](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=418), [8:32](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=512)
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [1:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=108), [7:38](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=458), [9:41](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=581), [43:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2610)
 
-## Kurz erwähnt (4)
+## Kurz erwähnt (5)
 
 - [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Minute [13:39](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=819)
+- [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Minute [56:04](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3364)
 - [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Minute [36:28](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2188), [47:00](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2820)
-- [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Minute [31:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1908)
+- [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72 – Meet the Team: Unsere neue Podcast-Host Solveig Gode]] (2024-04-07) — Minute [3:48](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=228), [8:59](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=539)
 - [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [32:28](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1948)
 
 ---

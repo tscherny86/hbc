@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-11-22 |
 | **Dauer** | 1:05:02 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3) · [MP3](https://audio.podigee-cdn.net/1658614-m-cbd3acb088daeffe61af8cabfe0e01e6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/101-neue-episode) |
-| **Transkript** | [[Transkript 101]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 101]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Very Private Equity (Triton)]] |
-| **Themen** | [[Private Equity]], [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | [[Handelsblatt]], [[Triton Partners]] |
-| **Personen** | [[Ina Karabasz]], [[Solveig Gode]] |
-| **Kurz erwähnt** | [[Rüstungsexporte und Provisionen]] |
+| **Themen** | [[Private Equity]] |
+| **Unternehmen** | [[Triton Partners]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 
@@ -57,7 +57,7 @@ Für alle Hörerinnen und Hörer, die mit geballtem Wirtschaftswissen punkten m�
 - [10:27](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=627) – Und als Triton sie dann sechs Jahre später wieder verkauft hat, da lag der Jahresgewinn dann schon bei … ([[Transkript 101#Minute 10|Transkript]])
 - [12:33](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=753) – Warum? Ich glaube, also das muss man mal einmal noch mal ganz klar sagen, die sind jetzt Großaktionär. … ([[Transkript 101#Minute 12|Transkript]])
 - [14:34](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=874) – Wie lange musstet ihr euch da vorarbeiten? Ich glaube, die ersten, bis wir tatsächlich eine signifikant große Anzahl … ([[Transkript 101#Minute 14|Transkript]])
-- [16:39](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=999) – Aber die Private Equity Branche ist klein und der Einfluss von Peter Prahl, wir haben eben schon über … ([[Transkript 101#Minute 16|Transkript]])
+- [16:39](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=999) – Aber die Private Equity Branche ist klein und der Einfluss von Peder Prahl, wir haben eben schon über … ([[Transkript 101#Minute 16|Transkript]])
 - [18:40](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=1120) – Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz. Alles aus einer Hand, zusammen für Ihr Business. Vodafone. Wie … ([[Transkript 101#Minute 18|Transkript]])
 - [20:50](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=1250) – Also wir haben gehört, die Branche ist halt sehr klein, die begegnen sich. Die begegnen sich auch, wenn … ([[Transkript 101#Minute 20|Transkript]])
 - [22:55](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=1375) – Und deswegen, genau ist es halt, wenn da jemand das Bedürfnis hatte zu sagen, hey, ich habe da … ([[Transkript 101#Minute 22|Transkript]])
@@ -79,7 +79,7 @@ Für alle Hörerinnen und Hörer, die mit geballtem Wirtschaftswissen punkten m�
 - [56:21](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3381) – Ich meine, für den ist Ergebnis, glaube ich, vor allen Dingen wichtig. Wir hatten über ihn gesprochen, der … ([[Transkript 101#Minute 56|Transkript]])
 - [58:23](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3503) – Das ist sozusagen der Eindruck, den viele haben und nachdem wir auch gefragt haben. Und daraufhin hat er … ([[Transkript 101#Minute 58|Transkript]])
 - [1:00:24](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3624) – Ich möchte gerne nochmal auf die Perspektive der betroffenen Mitarbeiterinnen und Mitarbeiter eingehen, die sich ja auch an … ([[Transkript 101#Minute 60|Transkript]])
-- [1:02:27](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3747) – Und deswegen machen wir diesen Podcast. Vielen Dank, Ina und Michael. Vielen Dank dir. Ganz herzlichen Dank, Säure. … ([[Transkript 101#Minute 62|Transkript]])
+- [1:02:27](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3747) – Und deswegen machen wir diesen Podcast. Vielen Dank, Ina und Michael. Vielen Dank dir. Ganz herzlichen Dank, Solveig. … ([[Transkript 101#Minute 62|Transkript]])
 - [1:04:28](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3868) – Hallo zusammen, herzlichen Glückwunsch zur hundertsten Folge. Weiter so, die Fälle sind immer sehr, sehr spannend. Das Format … ([[Transkript 101#Minute 64|Transkript]])
 - [1:06:29](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=3989) – Ob künstliche Intelligenz, moderne Führung, Anlagestrategien oder fundiertes Wissen rund um den Defense-Sektor. Lernen Sie flexibel und praxisnah … ([[Transkript 101#Minute 66|Transkript]])
 

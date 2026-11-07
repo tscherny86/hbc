@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-12-28 |
 | **Dauer** | 31:05 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67) · [MP3](https://audio.podigee-cdn.net/2228305-m-84715acaabb6476d8f88d8e1e310e161.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/135-justiziare-jahresr-ckblick) |
-| **Transkript** | [[Transkript 135]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 135]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]] |
 | **Themen** | [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | [[EY (Ernst & Young)]], [[Handelsblatt]] |
-| **Personen** | [[Solveig Gode]], [[Peter Koppe]], [[Jürgen Barth]] |
-| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Porsche-Ikone vor Gericht]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]], [[Hochstapler]] |
+| **Unternehmen** | [[EY (Ernst & Young)]] |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
+| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Falscher Baron von Krupp]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]], [[Hochstapler]] |
 
 ## Shownotes
 

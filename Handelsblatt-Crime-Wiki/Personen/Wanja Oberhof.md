@@ -22,7 +22,7 @@ Gegen eine Millionen-Kaution und unter strengen Auflagen kam Oberhof wieder frei
 
 ## Was im Podcast gesagt wird
 
-> … solche Aktien. Und ja, hören wir doch einfach mal rein, was Herr Oberhof, Wanja Oberhof, das war zu dem Zeitpunkt der CEO von Social Chain, am Tag der ersten Notseats im Prime-Standard an der Frankfurter …
+> … solche Aktien. Und ja, hören wir doch einfach mal rein, was Herr Oberhof, Wanja Oberhof, das war zu dem Zeitpunkt der CEO von Social Chain, am Tag der ersten Notiz im Prime-Standard an der Frankfurter …
 >
 > — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 14:13](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=853) · [[Transkript 052#Minute 14|im Transkript]]
 

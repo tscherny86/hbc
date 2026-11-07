@@ -18,7 +18,7 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-02-26 |
 | **Dauer** | 53:56 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy) · [MP3](https://audio.podigee-cdn.net/991207-m-9d1390f8e2fba858ce50cfc76e21b1ca.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/38-new-episode) |
-| **Transkript** | [[Transkript 038]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 038]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Erbstreit Thiele]] |
 | **Themen** | [[Erbstreit]] |
 | **Unternehmen** | [[Knorr-Bremse]] |
@@ -66,22 +66,22 @@ https://www.handelsblatt.com/unternehmen/mittelstand/familienunternehmer/verstor
 - [8:22](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=502) – Und das hätte die Deutsche Bank natürlich sicherlich nicht bei jedem gemacht. Aber er hatte offenbar ein gutes … ([[Transkript 038#Minute 8|Transkript]])
 - [10:40](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=640) – Also es waren zuletzt sechs Milliarden, also von einer Viertelmilliarde auf sechs Milliarden Umsatz. Standorte in, ich glaube, … ([[Transkript 038#Minute 10|Transkript]])
 - [12:42](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=762) – Und in der Corona-Zeit, als es den Lufthansa sehr schlecht ging, hat er da auch noch einen großen … ([[Transkript 038#Minute 12|Transkript]])
-- [14:49](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=889) – Also jetzt mal zum Vergleich, als vor ein paar Jahren der Pi-Ich verstorben ist, war da ein Bruchteil. … ([[Transkript 038#Minute 14|Transkript]])
+- [14:49](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=889) – Also jetzt mal zum Vergleich, als vor ein paar Jahren der Piëch verstorben ist, war da ein Bruchteil. … ([[Transkript 038#Minute 14|Transkript]])
 - [17:00](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1020) – Also der Tod kam relativ überraschend, jedenfalls für alle, mit denen wir gesprochen haben. Niemand hat damit gerechnet, … ([[Transkript 038#Minute 17|Transkript]])
 - [19:02](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1142) – Ja, dann gehen wir doch da mal durch, würde ich sagen. Fangen wir an bei der Witwe, Nadja … ([[Transkript 038#Minute 19|Transkript]])
 - [21:11](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1271) – Und der Testamentsvollstrecker begründet das damit, dass Frau Thiele-Schürhoff eine gewisse unternehmerische Expertise mitbringt. Die sitzt zum Beispiel … ([[Transkript 038#Minute 21|Transkript]])
-- [23:14](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1394) – Und als der alte Brummüller sozusagen zu alt wurde, um diesen Job zu machen, hat er das ganze … ([[Transkript 038#Minute 23|Transkript]])
+- [23:14](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1394) – Und als der alte Brühmüller sozusagen zu alt wurde, um diesen Job zu machen, hat er das ganze … ([[Transkript 038#Minute 23|Transkript]])
 - [25:18](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1518) – Und das ist sozusagen der Maßstab, nach dem Testamentsvollstrecker vergütet werden. Das Problem ist, die Vergütung ist abhängig … ([[Transkript 038#Minute 25|Transkript]])
 - [27:18](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1638) – Und dann hört das irgendwann auf. Es fängt vielleicht bei 10 Prozent für ein paar 10.000 Euro Vermögen … ([[Transkript 038#Minute 27|Transkript]])
 - [29:19](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1759) – Und letztendlich kommt es aber natürlich darauf an, was das Nachlassgericht dazu sagt. Und was ist das? Was … ([[Transkript 038#Minute 29|Transkript]])
-- [31:20](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1880) – Und die Staatsanwaltschaft hat dann tatsächlich auch Ermittlungen eingeleitet und die laufen noch. Und insofern sieht sich Brumüller … ([[Transkript 038#Minute 31|Transkript]])
+- [31:20](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1880) – Und die Staatsanwaltschaft hat dann tatsächlich auch Ermittlungen eingeleitet und die laufen noch. Und insofern sieht sich Brühmüller … ([[Transkript 038#Minute 31|Transkript]])
 - [33:29](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2009) – Man muss natürlich, wenn wir jetzt hier über Tochter und Witwe sprechen, vielleicht dazu sagen, die Frauen sind … ([[Transkript 038#Minute 33|Transkript]])
 - [35:38](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2138) – Genau dafür gibt es den Deutschlandfonds. Er mobilisiert Investitionen in Milliardenhöhe, um unsere Wirtschaft innovativ und wettbewerbsstark für … ([[Transkript 038#Minute 35|Transkript]])
 - [37:40](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2260) – Es gibt noch den Henrik Thiele. Welche Rolle spielt der in der ganzen Geschichte? Ja, das ist ein … ([[Transkript 038#Minute 37|Transkript]])
 - [39:40](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2380) – Und ich glaube, die Überschrift war die Familie Thiele. Also relativ harmlos. Kreativ. Das Problem jetzt für erst … ([[Transkript 038#Minute 39|Transkript]])
 - [41:48](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2508) – Natürlich, der war dann schon nicht mehr Vorstandschef, aber die Nachfolger als Führer dieses Unternehmens. Dann kommt dieser … ([[Transkript 038#Minute 41|Transkript]])
-- [43:55](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2635) – Und angeblich, so schilderte es Hendrik jedenfalls, hätte sogar die Familie, die Ehefrau Angst gehabt, dass vielleicht die … ([[Transkript 038#Minute 43|Transkript]])
-- [46:02](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2762) – Ist das Erfolgsversprechen, Zünke? Bisher nicht. Wir haben eigentlich, das ist ein ganz interessantes Parallel, eigentlich haben wir … ([[Transkript 038#Minute 46|Transkript]])
+- [43:55](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2635) – Und angeblich, so schilderte es Henrik jedenfalls, hätte sogar die Familie, die Ehefrau Angst gehabt, dass vielleicht die … ([[Transkript 038#Minute 43|Transkript]])
+- [46:02](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2762) – Ist das Erfolgversprechend, Sönke? Bisher nicht. Wir haben eigentlich, das ist ein ganz interessantes Parallel, eigentlich haben wir … ([[Transkript 038#Minute 46|Transkript]])
 - [48:05](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2885) – Da hatten wir gesagt, er ist ja voll ausgebildet worden und war mit allen Wassern gewaschen. Und trotzdem … ([[Transkript 038#Minute 48|Transkript]])
 - [50:08](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=3008) – Und wenn sie nicht einschreiten, dann kommen sie ihrer Pflicht nicht nach und dann zeige ich sie an … ([[Transkript 038#Minute 50|Transkript]])
 - [52:12](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=3132) – Und da muss man sehen, wer da den dickeren Willen hat, den stärkeren Willen, die größere Geduld, vielleicht … ([[Transkript 038#Minute 52|Transkript]])

@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-05-22 |
 | **Dauer** | 44:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z) · [MP3](https://audio.podigee-cdn.net/749399-m-c2c70ca448172c1597da3106f8cf6279.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/14-neue-episode) |
-| **Transkript** | [[Transkript 014]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 014]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Warburg Bank und Christian Olearius]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[M.M. Warburg]], [[BaFin]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Christian Olearius]], [[Olaf Scholz]] |
-| **Kurz erwähnt** | [[Steuerhinterziehung]], [[Strafverteidigung]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Anne Brorhilker]], [[Christian Olearius]], [[Olaf Scholz]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Steuerhinterziehung]], [[Strafverteidigung]], [[Staatsanwaltschaft Köln]] |
 
 ## Shownotes
 

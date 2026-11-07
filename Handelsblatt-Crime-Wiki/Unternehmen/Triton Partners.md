@@ -24,17 +24,17 @@ Triton bestreitet eine verfehlte Kultur, verweist auf Untersuchungen, Verwarnung
 >
 > — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 4:15](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=255) · [[Transkript 101#Minute 4|im Transkript]]
 
-> … unterhalten haben davon, dass auf Videomaterial, was es gibt, der Triton-Chef Peter Prahl höchstpersönlich halbnackt Flaschendrehen gespielt haben soll mit seinen Mitarbeiterinnen und Mitarbeitern. Ja und dann war aber eben natürlich auch klar, das …
+> … dass wir hier mal einsteigen und einmal darüber sprechen, wer ist eigentlich Peder Prahl, dieser Mann, den du eben erwähnt hast und was genau ist eigentlich Triton, das Unternehmen? Michael, du bist dann ja im …
 >
-> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 5:45](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=345) · [[Transkript 101#Minute 5|im Transkript]]
+> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 6:21](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=381) · [[Transkript 101#Minute 6|im Transkript]]
 
-> … von dieser Familie, der die Bank gehört. Man kann also sagen, der Prahl, der hat sozusagen den Kapitalismus schon so ein bisschen in den Gehen. Das ist schon mal gut zu wissen, um den …
+> … Respekt vorhaben. Das wurde dann nämlich auch tatsächlich eine richtige schwedische Erfolgsgeschichte, Triton. Genau, wir hatten es in der Anmoderation schon gesagt, Triton ist ein sogenannter Private Equity Investor. Das heißt, sie sammeln Kapital …
 >
-> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 7:24](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=444) · [[Transkript 101#Minute 7|im Transkript]]
+> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 8:15](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=495) · [[Transkript 101#Minute 8|im Transkript]]
 
-> … zählen Staatsfonds und öffentliche Pensionskassen. Und was das Spezielle aber noch an Triton ist, die fokussieren sich hauptsächlich auf mittelständische Firmen, die in schwieriges Fahrwasser geraten sind. Also versuchen dann noch ein bisschen was …
+> … können. Könnt ihr mal ein paar Beispiele von Unternehmen nennen, in die Triton investiert hat? Klar, also Triton ist auch deshalb so interessant für uns, weil die auch hier in Deutschland sehr aktiv sind. …
 >
-> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 9:08](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=548) · [[Transkript 101#Minute 9|im Transkript]]
+> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 10:04](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=604) · [[Transkript 101#Minute 10|im Transkript]]
 
 > … kurz, worum es genau ging. Ja, hi erstmal. Wir reden ja über Triton. Triton Partners, ein schwedischer Finanzinvestor. Und unsere Geschichte handelte von der Unternehmenskultur oder genauer gesagt von Kritik an der Unternehmenskultur. Wir …
 >
@@ -48,13 +48,13 @@ Triton bestreitet eine verfehlte Kultur, verweist auf Untersuchungen, Verwarnung
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 29:46](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1786) · [[Transkript 104#Minute 29|im Transkript]]
 
-> … und Benco und diese vielen Themen, die wir hier haben und Tesla, Triton, jetzt keine weitergehende Geschichte. Die ist abgeschlossen. Das kann man nicht zu unserem nächsten und letzten Fall des Jahres sagen, und …
+> … und Benko und diese vielen Themen, die wir hier haben und Tesla, Triton, jetzt keine weitergehende Geschichte. Die ist abgeschlossen. Das kann man nicht zu unserem nächsten und letzten Fall des Jahres sagen, und …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 49:54](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2994) · [[Transkript 104#Minute 49|im Transkript]]
 
 ## In diesen Folgen (2)
 
-- [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101 – Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds]] (2024-11-22) — Shownotes · Minute [4:15](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=255), [5:45](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=345), [7:24](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=444), [9:08](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=548)
+- [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101 – Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds]] (2024-11-22) — Shownotes · Minute [4:15](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=255), [6:21](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=381), [8:15](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=495), [10:04](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=604)
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [7:36](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=456), [10:02](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=602), [29:46](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1786), [49:54](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2994)
 
 ---

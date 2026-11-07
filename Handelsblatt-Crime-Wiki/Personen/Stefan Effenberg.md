@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 4
+folgen: 1
 tags: [personen]
 ---
 # Stefan Effenberg
@@ -22,9 +22,9 @@ Die Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu 
 
 ## Was im Podcast gesagt wird
 
-> … den Verdacht auf Steuerhinterziehung, Kontakte ins Rotlichtmilieu und den ehemaligen Fußballprofi Stefan Effenberg. Eben jenen hatte die VR-Bank Bad Salzungen-Schmalkalden aus Südthüringen als Banker angeheuert und sich so den Spitznamen Effenberg Bank eingefangen. Mit …
+> … um den Verdacht auf Steuerhinterziehung, Kontakte ins Rotlichtmilieu und den ehemaligen Fußballprofi Stefan Effenberg. Eben jenen hatte die VR-Bank Bad Salzungen-Schmalkalden aus Südthüringen als Banker angeheuert und sich so den Spitznamen Effenberg Bank eingefangen. …
 >
-> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 0:54](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=54) · [[Transkript 070#Minute 0|im Transkript]]
+> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 0:53](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=53) · [[Transkript 070#Minute 0|im Transkript]]
 
 > … dürfen. Ich habe es in der Anmoderation schon gesagt, es geht um Effenberg, Bank und Bordelle. Das sind drei Schlagwörter, die man so eigentlich erstmal nicht miteinander verbinden würde. Könnt ihr kurz schon mal …
 >
@@ -34,36 +34,21 @@ Die Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu 
 >
 > — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 4:23](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=263) · [[Transkript 070#Minute 4|im Transkript]]
 
-> … würdest du denn sagen, dass man so weit gehen kann, dass die Effenberg-Bank Bordellbetreiber ist? Also bekommt die Bank Geld aus der Prostitution? Also man kann jetzt nicht sagen, dass sie unmittelbar Bordellbetreiber ist. …
+> … noch nicht bekannt. Das haben wir sozusagen herausgefunden. Auch mit dem Arbeitsgerichtsstreit Effenberg, darüber haben wir berichtet. Und es geht jetzt auch noch munter weiter. Also wir werden uns schon jetzt weiterhin der Sache …
 >
-> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 5:58](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=358) · [[Transkript 070#Minute 5|im Transkript]]
+> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 14:05](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=845) · [[Transkript 070#Minute 14|im Transkript]]
 
-> … Crime-Folgen haben wir dich denn hier zuletzt gehört? Die letzte war die Effenberg-Bank bzw. die fragwürdigen Geschäfte der Effenberg-Bank, wie der offizielle Titel glaube ich war. Zusammen mit Volker. War eine ganz lustige Aufnahme. …
+> … so auf dem Schirm hat. Die hat eine gewisse Bekanntheit erlangt durch Stefan Effenberg, ehemaliger Fußball-Nationalspieler. Und diese Bank hat den Stefan Effenberg unter Vertrag genommen. Der war tatsächlich Mitarbeiter dieser Bank. Deswegen hat …
 >
-> — [[081 Meet the Team Vinzenz Neumaier|#81]], [Minute 1:43](https://open.spotify.com/episode/5pQZB94lCbpYMyfDPuHekr?t=103) · [[Transkript 081#Minute 1|im Transkript]]
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 39:06](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2346) · [[Transkript 104#Minute 39|im Transkript]]
 
-> … so ein bisschen aufgeteilt? Also wir haben jetzt gerade schon gehört, die Effenberg-Bank. Gibt es sonst so Spezialthemen, die du hast? Also zurzeit mache ich sehr viel Immobilienthemen, weil da in der ganzen Branche …
->
-> — [[081 Meet the Team Vinzenz Neumaier|#81]], [Minute 4:06](https://open.spotify.com/episode/5pQZB94lCbpYMyfDPuHekr?t=246) · [[Transkript 081#Minute 4|im Transkript]]
+## In diesen Folgen (1)
 
-> … auf dem Schirm hat. Die hat eine gewisse Bekanntheit erlangt durch Stefan Effenberg, ehemaliger Fußball-Nationalspieler. Und diese Bank hat den Stefan Effenberg unter Vertrag genommen. Der war tatsächlich Mitarbeiter dieser Bank. Deswegen hat diese …
->
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 39:07](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2347) · [[Transkript 104#Minute 39|im Transkript]]
+- [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes · Minute [0:53](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=53), [2:31](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=151), [4:23](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=263), [14:05](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=845)
 
-> … glaube ich, ist anders als jetzt Comex und Wirecard und auch die Effenberg Bank und Benco und diese vielen Themen, die wir hier haben und Tesla, Triton, jetzt keine weitergehende Geschichte. Die ist abgeschlossen. …
->
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 49:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2989) · [[Transkript 104#Minute 49|im Transkript]]
+## Kurz erwähnt (1)
 
-> … oder Volks - und Raiffeisenbank Bad Salzungen-Schmalkalden beschäftigt. Besser bekannt unter dem Namen Effenberg-Bank. Ach, ja, genau. Weil eben der ehemalige Nationalspieler Stefan Effenberg da zeitweise Mitarbeiter war. Und diese Effenberg-Bank hat mit risikoreichen Geschäften …
->
-> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 36:02](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2162) · [[Transkript 153#Minute 36|im Transkript]]
-
-## In diesen Folgen (4)
-
-- [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes · Minute [0:54](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=54), [2:31](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=151), [4:23](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=263), [5:58](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=358)
-- [[081 Meet the Team Vinzenz Neumaier|#81 – Meet the Team: Vinzenz Neumaier]] (2024-06-01) — Minute [1:43](https://open.spotify.com/episode/5pQZB94lCbpYMyfDPuHekr?t=103), [4:06](https://open.spotify.com/episode/5pQZB94lCbpYMyfDPuHekr?t=246)
-- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [39:07](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2347), [49:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2989)
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [36:02](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2162)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [39:06](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2346)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

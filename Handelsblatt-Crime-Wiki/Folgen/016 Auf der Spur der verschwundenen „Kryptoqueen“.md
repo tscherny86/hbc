@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-06-19 |
 | **Dauer** | 43:49 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI) · [MP3](https://audio.podigee-cdn.net/766592-m-a7b4caa761e0691f0ad294afce93ff85.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/16-neue-episode) |
-| **Transkript** | [[Transkript 016]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 016]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Kryptoqueen Ruja Ignatova]] |
 | **Themen** | – |
-| **Unternehmen** | [[OneCoin]] |
-| **Personen** | [[Ruja Ignatova]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Betrug]], [[Insolvenz]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[BaFin]] |
+| **Unternehmen** | [[BaFin]], [[OneCoin]] |
+| **Personen** | [[Lars-Marten Nagel]], [[Ruja Ignatova]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Betrug]], [[Insolvenz]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 

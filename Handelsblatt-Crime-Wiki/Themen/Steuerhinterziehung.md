@@ -30,9 +30,9 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 5:20](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=320) · [[Transkript 002#Minute 5|im Transkript]]
 
-> … die in der Steuererziehung bezichtigten. Die Behauptung, er habe den Staat im Steuerskandal Cum Ex um Millionen betrogen, sei eine bösartige, dümmliche Hetze. Selbst Menschen mit einer mittelmäßigen Intelligenz müssten verstehen, dass er sich …
+> … nie einen Zweifel. Blanken Unsinn nannte der Steueranwalt die Vorwürfe derjenigen, die ihn der Steuerhinterziehung bezichtigten. Die Behauptung, er habe den Staat im Steuerskandal Cum Ex um Millionen betrogen, sei eine bösartige, dümmliche Hetze. Selbst Menschen mit …
 >
-> — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 8:09](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=489) · [[Transkript 003#Minute 8|im Transkript]]
+> — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 8:04](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=484) · [[Transkript 003#Minute 8|im Transkript]]
 
 > … wäre es auch so gewesen, wenn der einzige Vorwurf der Deutschen die Steuerhinterziehung gewesen wäre, hätte die Schweiz ihn nicht ausgeliefert. Das ist einfach so. Die Deutschen haben ihm aber nicht nur Steuerhinterziehung vorgeworfen, …
 >
@@ -46,7 +46,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 51:00](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=3060) · [[Transkript 003#Minute 51|im Transkript]]
 
-> … hat, Cum-Ex-Aktiengeschäfte, bei denen sich die Akteure Steuern zweimal erstatten lassen, sind Steuerhinterziehung und damit strafbar. Über Anne Brohr-Helker und den aktuellen Stand des Cum-Ex-Files wollen wir heute in dieser Folge von Handelsblatt Crime …
+> … hat, Cum-Ex-Aktiengeschäfte, bei denen sich die Akteure Steuern zweimal erstatten lassen, sind Steuerhinterziehung und damit strafbar. Über Anne Brorhilker und den aktuellen Stand des Cum-Ex-Files wollen wir heute in dieser Folge von Handelsblatt Crime …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 2:39](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=159) · [[Transkript 008#Minute 2|im Transkript]]
 
@@ -57,6 +57,10 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 > … gesorgt hat, dass die Welle überhaupt rollt. Also es geht halt um Steuerhinterziehung. Und auch wenn Menschen wie Maschmeyer und Tönnies und Müller, das sind jetzt keine Beschuldigten. Aber wenn deren Namen im Zusammenhang …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 17:16](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1036) · [[Transkript 008#Minute 17|im Transkript]]
+
+> … welche Dimensionen das Ganze hat. Weil sie im Grunde diesen Code dieser Steuerhinterziehungsindustrie, wie sie jetzt teilweise auch genannt wird, zu entschlüsseln. Und weil sie im Grunde auch durch die Aussagen der Kronzeugen verstanden …
+>
+> — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 27:49](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1669) · [[Transkript 008#Minute 27|im Transkript]]
 
 > … naja, das kann man so sagen, wohl der Ideengeber hinter dem milliardenschweren Steuerskandal Cum-Ex. Und wir haben jetzt auch gesehen, es gibt die Anklage. Es ist offiziell gegen Markus Braun, dem Ex-CEO des, ja, …
 >
@@ -78,7 +82,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 18:25](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1105) · [[Transkript 014#Minute 18|im Transkript]]
 
-> … nicht geschehen sei. Deswegen sei man selbst nicht dafür verantwortlich für diesen Steuerschaden. Man kann ja jetzt wirklich auch sagen, dass Oleoris auch selber offenbar immer davon ausgegangen ist, dass das eigentlich keine so …
+> … nicht geschehen sei. Deswegen sei man selbst nicht dafür verantwortlich für diesen Steuerschaden. Man kann ja jetzt wirklich auch sagen, dass Olearius auch selber offenbar immer davon ausgegangen ist, dass das eigentlich keine so …
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 24:34](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1474) · [[Transkript 014#Minute 24|im Transkript]]
 
@@ -122,9 +126,9 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 9:07](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=547) · [[Transkript 020#Minute 9|im Transkript]]
 
-> … also man muss mir ja bedenken, dass der Bundesgerichtshof ab einem Betrag Steuerhinterziehung von 50.000 Euro von schwerer Steuerhinterziehung spricht. Also hier haben wir einen Fall, da geht es deutlich in den dreistelligen Millionenbereich …
+> … völlig absurd. Und der Bundesgerichtshof hat es ja auch bestätigt. Es war Steuerhinterziehung. Genau, richtig. Also es gab auch vorher schon eine Reihe von Urteilen, zum Beispiel vom Finanzgericht Hessen oder auch vom Finanzgericht …
 >
-> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 36:29](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2189) · [[Transkript 020#Minute 36|im Transkript]]
+> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 29:56](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=1796) · [[Transkript 020#Minute 29|im Transkript]]
 
 > … harte Worte, aber weichere Worte würden der Sache einfach nicht gerecht. Der Steuerskandal Cum-Ex, über den wir schon einige Male gesprochen haben, er weitet sich immer weiter aus. Und er betrifft eben auch die …
 >
@@ -174,7 +178,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 3:03](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=183) · [[Transkript 027#Minute 3|im Transkript]]
 
-> … die Leute schon so ein Bild von ihm haben, Mr. Comex, dieser Steuerhinterzieher und das geht halt einem nahe, weil es mein Großvater ist, über den sie reden, das geht meiner ganzen Familie auch …
+> … weil die Leute schon so ein Bild von ihm haben, Mr. Cum-Ex, dieser Steuerhinterzieher und das geht halt einem nahe, weil es mein Großvater ist, über den sie reden, das geht meiner ganzen Familie auch …
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 44:45](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2685) · [[Transkript 027#Minute 44|im Transkript]]
 
@@ -186,7 +190,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 0:06](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=6) · [[Transkript 028#Minute 0|im Transkript]]
 
-> … es in dem Prozess konkret? Ja, es ging um 21 Fälle der Steuerhinterziehung, die Staatsanwaltschaft München Schubeck zur Last legte. Wie wir jetzt wissen, zu Recht. Schubeck hat Kassen manipuliert in seinen zwei Restaurants. …
+> … es in dem Prozess konkret? Ja, es ging um 21 Fälle der Steuerhinterziehung, die Staatsanwaltschaft München Schuhbeck zur Last legte. Wie wir jetzt wissen, zu Recht. Schuhbeck hat Kassen manipuliert in seinen zwei Restaurants. …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 3:26](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=206) · [[Transkript 028#Minute 3|im Transkript]]
 
@@ -194,7 +198,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 10:11](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=611) · [[Transkript 028#Minute 10|im Transkript]]
 
-> … sagt ja Schubeck dann plötzlich vor Gericht, er ist angeklagt wegen der Steuerhinterziehung und sagt dann plötzlich, er konnte ja nicht studieren und er hätte ja so gern studieren wollen und deshalb hat er …
+> … sagt ja Schuhbeck dann plötzlich vor Gericht, er ist angeklagt wegen der Steuerhinterziehung und sagt dann plötzlich, er konnte ja nicht studieren und er hätte ja so gern studieren wollen und deshalb hat er …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 24:23](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1463) · [[Transkript 028#Minute 24|im Transkript]]
 
@@ -226,7 +230,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 28:28](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1708) · [[Transkript 040#Minute 28|im Transkript]]
 
-> … der Prozess gemacht, an dessen Ende wegen gewerbsmäßiger Bestechlichkeit, schwerer Untreue und Steuerhinterziehung sechs Jahre Haft stehen. Meine Kollegen René Bender und Volker Votsmeier aus unserem Investigativ-Team kennen Alexander Bartle seit vielen Jahren. Sie hatten …
+> … der Prozess gemacht, an dessen Ende wegen gewerbsmäßiger Bestechlichkeit, schwerer Untreue und Steuerhinterziehung sechs Jahre Haft stehen. Meine Kollegen René Bender und Volker Votsmeier aus unserem Investigativ-Team kennen Alexander Badle seit vielen Jahren. Sie hatten …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 1:29](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=89) · [[Transkript 048#Minute 1|im Transkript]]
 
@@ -250,15 +254,15 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[053 Hamburg Paradies für Steuerhinterzieher|#53]], [Minute 25:54](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1554) · [[Transkript 053#Minute 25|im Transkript]]
 
-> … hat ausbezahlen lassen. Das, das ist mittlerweile klar, ist illegal. Das ist Steuerhinterziehung und genau das wird Uliharius nun vorgeworfen. Er soll sich der besonders schweren Steuerhinterziehung in 14 Fällen schuldig gemacht haben. Wir …
+> … hat ausbezahlen lassen. Das, das ist mittlerweile klar, ist illegal. Das ist Steuerhinterziehung und genau das wird Olearius nun vorgeworfen. Er soll sich der besonders schweren Steuerhinterziehung in 14 Fällen schuldig gemacht haben. Wir …
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 0:50](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=50) · [[Transkript 055#Minute 0|im Transkript]]
 
-> … anderem eben mit Hannu Berger. Und dann soll es zu dieser hohen Steuerhinterziehung gekommen sein. Über wie viel Geld sprechen wir? Wir sprechen über 276 Millionen, die hinterzogen worden sind, mußmaßlich. Und es sollen …
+> … unter anderem eben mit Hanno Berger. Und dann soll es zu dieser hohen Steuerhinterziehung gekommen sein. Über wie viel Geld sprechen wir? Wir sprechen über 276 Millionen, die hinterzogen worden sind, mutmaßlich. Und es sollen …
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 3:23](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=203) · [[Transkript 055#Minute 3|im Transkript]]
 
-> … Bundeskanzlers Olaf Scholz. Ja, dem Bundeskanzler, dem aktuellen, dem wirft man keine Steuerhinterziehung vorher. Er ist ja noch nicht mal beschuldigt, aber sein Name kam hier ins Spiel, weil sein Name festgehalten war in …
+> … des Bundeskanzlers Olaf Scholz. Ja, dem Bundeskanzler, dem aktuellen, dem wirft man keine Steuerhinterziehung vor. Er ist ja noch nicht mal beschuldigt, aber sein Name kam hier ins Spiel, weil sein Name festgehalten war in Tagebüchern …
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 5:06](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=306) · [[Transkript 055#Minute 5|im Transkript]]
 
@@ -266,7 +270,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 6:49](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=409) · [[Transkript 055#Minute 6|im Transkript]]
 
-> … Sachkenntnis hat, wird ausgeschlossen von der Reorganisation der wichtigsten Staatsanwaltschaft in Sachen Steuerhinterziehung in Deutschland. Ja und man muss dazu sagen noch, in dieser Stellungnahme attackiert Frau Bräuelke auch Herrn Limbach relativ scharf, weil …
+> … Sachkenntnis hat, wird ausgeschlossen von der Reorganisation der wichtigsten Staatsanwaltschaft in Sachen Steuerhinterziehung in Deutschland. Ja und man muss dazu sagen noch, in dieser Stellungnahme attackiert Frau Brorhilker auch Herrn Limbach relativ scharf, weil …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 29:34](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1774) · [[Transkript 056#Minute 29|im Transkript]]
 
@@ -274,7 +278,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 37:46](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2266) · [[Transkript 056#Minute 37|im Transkript]]
 
-> … Anklage, die sind schon relativ harsch. Also es geht da um einen Steuerschaden von ein paar hundert Millionen Euro. Also Christian Oliarius hat natürlich diese Geschäfte auch freigegeben. Also er sagt ja jetzt immer, …
+> … Anklage, die sind schon relativ harsch. Also es geht da um einen Steuerschaden von ein paar hundert Millionen Euro. Also Christian Olearius hat natürlich diese Geschäfte auch freigegeben. Also er sagt ja jetzt immer, dass …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 44:15](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2655) · [[Transkript 056#Minute 44|im Transkript]]
 
@@ -285,6 +289,10 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 > … spielt sich ein überraschender Krimi ab. Es geht um den Verdacht auf Steuerhinterziehung, Kontakte ins Rotlichtmilieu und den ehemaligen Fußballprofi Stefan Effenberg. Eben jenen hatte die VR-Bank Bad Salzungen-Schmalkalden aus Südthüringen als Banker angeheuert …
 >
 > — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 0:48](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=48) · [[Transkript 070#Minute 0|im Transkript]]
+
+> … gegen Herrn Siebert ein Ermittlungsverfahren gibt. Und zwar wegen des Verdachts auf Steuerhinterziehung. Also Herr Siebert ist wirklich eine sehr exotische Figur in der Bankenlandschaft. Nicht nur, weil er immer so eine hellblaue Brille …
+>
+> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 15:15](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=915) · [[Transkript 070#Minute 15|im Transkript]]
 
 > … es die Staatsanwaltschaft Meiningen, die ermittelt gegen ihn wegen des Verdachts der Steuerhinterziehung. Worum es da genau geht, wissen wir noch nicht. Also die Staatsanwaltschaft hat uns bestätigt, dass ermittelt wird. Aber die Details, …
 >
@@ -306,7 +314,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76]], [Minute 1:01:55](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3715) · [[Transkript 076#Minute 61|im Transkript]]
 
-> … der langjährige Chef der Hamburger Privatbank MM Warburg, angeklagt gegen besonders schwerer Steuerhinterziehung, ist ein freier Mann. Herr Olearius, 82 Jahre alt, hat seinen Verhandlungstag, seinen letzten Verhandlungstag nun hinter sich, und deshalb spreche …
+> … Christian Olearius, der langjährige Chef der Hamburger Privatbank MM Warburg, angeklagt wegen besonders schwerer Steuerhinterziehung, ist ein freier Mann. Herr Olearius, 82 Jahre alt, hat seinen Verhandlungstag, seinen letzten Verhandlungstag nun hinter sich, und deshalb spreche …
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 0:22](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=22) · [[Transkript 087#Minute 0|im Transkript]]
 
@@ -318,7 +326,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 9:40](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=580) · [[Transkript 087#Minute 9|im Transkript]]
 
-> … es wird Sie weiter erschrecken. Anne Brohl-Hilker, Deutschlands führende Staatsanwältin im riesigen Steuerskandal Cum-Ex, hat hingeschmissen. Das, wie gesagt, haben einige mitbekommen. Das war im April. Und die Worte, die Sie gerade von ihr …
+> … eins, es wird Sie weiter erschrecken. Anne Brorhilker, Deutschlands führende Staatsanwältin im riesigen Steuerskandal Cum-Ex, hat hingeschmissen. Das, wie gesagt, haben einige mitbekommen. Das war im April. Und die Worte, die Sie gerade von ihr …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 0:59](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=59) · [[Transkript 094#Minute 0|im Transkript]]
 
@@ -330,9 +338,9 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 4:35](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=275) · [[Transkript 094#Minute 4|im Transkript]]
 
-> … in seinem Unternehmen selbst für die Abwehr von Verfahren wegen Beihilfe zur Steuerhinterziehung, dass er dafür zuständig gewesen sei. Also er war sozusagen zuständig dafür, das den Finanzbehörden bei der Aufdeckung dieser Geschäfte schwer …
+> … gesagt, wir müssen damit zur Staatsanwaltschaft. Das ist ein schwerer Fall von Steuerhinterziehung. Und ja, die haben dann im Grunde alles zutage gefördert und auch der Staatsanwaltschaft auf den Tisch gelegt, was sie an …
 >
-> — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 44:09](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2649) · [[Transkript 094#Minute 44|im Transkript]]
+> — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 32:25](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1945) · [[Transkript 094#Minute 32|im Transkript]]
 
 > … Frau, die zehn Jahre lang wie keine andere für die Aufklärung des Steuerskandals Cum-Ex gekämpft hat und die dann im Mai 2024 entnervt Hinschmiss. Unsere Investigativreporter Sönke Iwersen und Volker Votsmeier sind der Frage nachgegangen, wie …
 >
@@ -346,7 +354,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 28:10](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1690) · [[Transkript 095#Minute 28|im Transkript]]
 
-> … macht sich der Begünstigung schuldig. Und hier ist die vermutete Straftat halt Steuerhinterziehung. Ole Arios wird verdächtigt, für einen riesigen Steuerschaden verantwortlich zu sein. Broheke kann in seinem Tagebuch nachlesen, wie der Ole Arios …
+> … macht sich der Begünstigung schuldig. Und hier ist die vermutete Straftat halt Steuerhinterziehung. Olearius wird verdächtigt, für einen riesigen Steuerschaden verantwortlich zu sein. Brorhilker kann in seinem Tagebuch nachlesen, wie der Olearius dafür die …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 37:40](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=2260) · [[Transkript 095#Minute 37|im Transkript]]
 
@@ -354,7 +362,7 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 17:36](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1056) · [[Transkript 104#Minute 17|im Transkript]]
 
-> … Schäden. Also ihm wird ja vorgeworfen, bei fast einer Billiarde Euro an Steuerschaden mitverantwortlich gewesen zu sein jedenfalls. Er selbst hat gesagt, er hätte 50 Millionen Euro verdient persönlich an Cum-Ex-Geschäften auf Kosten der …
+> … um riesige Schäden. Also ihm wird ja vorgeworfen, bei fast einer Milliarde Euro an Steuerschaden mitverantwortlich gewesen zu sein jedenfalls. Er selbst hat gesagt, er hätte 50 Millionen Euro verdient persönlich an Cum-Ex-Geschäften auf Kosten der …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 52:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=3170) · [[Transkript 104#Minute 52|im Transkript]]
 
@@ -370,11 +378,11 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 14:08](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=848) · [[Transkript 121#Minute 14|im Transkript]]
 
-> … Wir sprechen darüber mit Anne Bräuelker, der maßgeblichen Ermittlerin in diesem unglaublichen Steuerskandal. Sie erinnern sich. Mit Cum-Ex ergaunerten sich Banken und Investoren doppelte Steuererstattung. Angetrieben von Anwälten und Beratern gelang der größte Steuerraub …
+> … Wir sprechen darüber mit Anne Brorhilker, der maßgeblichen Ermittlerin in diesem unglaublichen Steuerskandal. Sie erinnern sich. Mit Cum-Ex ergaunerten sich Banken und Investoren doppelte Steuererstattung. Angetrieben von Anwälten und Beratern gelang der größte Steuerraub …
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 1:53](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=113) · [[Transkript 130#Minute 1|im Transkript]]
 
-> … lag ein Pfeil bei Ihnen auf dem Tisch, wo es um einen Steuerschaden von 460 Millionen Euro ging und Sie hatten noch viele andere Fälle auf dem Tisch. Genau, ich hatte da zu der …
+> … da lag ein File bei Ihnen auf dem Tisch, wo es um einen Steuerschaden von 460 Millionen Euro ging und Sie hatten noch viele andere Fälle auf dem Tisch. Genau, ich hatte da zu der …
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 29:48](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=1788) · [[Transkript 130#Minute 29|im Transkript]]
 
@@ -382,25 +390,25 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 36:52](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2212) · [[Transkript 130#Minute 36|im Transkript]]
 
-> … angefangen. Und diese Zahl, ob nun zehn, zwölf oder 15 Milliarden Euro Steuerschaden, ist ja im Grunde gleich. Wenn man jetzt im Jahr 2015 immer noch dafür werben muss, Verständnis auf der politischen Seite …
+> … und kriege dann so eine E-Mail, wo drinsteht, ist das Ganze nicht Steuerhinterziehung, ist das nicht strafbar? Das würde ich ja Stehhaare kriegen. Ich würde echt, ich habe oft in den Vernehmungen gefragt, was …
 >
-> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 1:18:04](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4684) · [[Transkript 130#Minute 78|im Transkript]]
+> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 1:08:31](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4111) · [[Transkript 130#Minute 68|im Transkript]]
 
-> … Moment, Kai-Uwe Steck, das war doch der Kronzeuge im Comex-Komplex, dem größten Steuerskandal der deutschen Geschichte und den kenne ich doch. Wir haben bei Handelsbutcrime schon häufiger über ihn gesprochen. Aber jetzt ist was …
+> … Moment, Kai-Uwe Steck, das war doch der Kronzeuge im Cum-Ex-Komplex, dem größten Steuerskandal der deutschen Geschichte und den kenne ich doch. Wir haben bei Handelsblatt Crime schon häufiger über ihn gesprochen. Aber jetzt ist was …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:11](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=71) · [[Transkript 137#Minute 1|im Transkript]]
 
-> … gesagt, viele unserer Hörerinnen und Hörer kennen es schon. Comex, der gigantische Steuerskandal, bei dem deutsche Steuerzahler Milliarden verloren haben. Es geht um Kai-Uwe Steck, eine Schlüsselfigur in dieser Affäre. Sie kennen ihn als …
+> … gesagt, viele unserer Hörerinnen und Hörer kennen es schon. Cum-Ex, der gigantische Steuerskandal, bei dem deutsche Steuerzahler Milliarden verloren haben. Es geht um Kai-Uwe Steck, eine Schlüsselfigur in dieser Affäre. Sie kennen ihn als …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 5:35](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=335) · [[Transkript 137#Minute 5|im Transkript]]
+
+> … Euro in die eigene Tasche gesteckt, nach eigenen Hausangaben, hat bei der Steuerhinterziehung von mehr als einer Milliarde geholfen. Aber wenn die Strafverfolgungsbehörde ihn dann anklagt, dann ist das Verrat. Er hat noch mehr …
+>
+> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 45:06](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2706) · [[Transkript 137#Minute 45|im Transkript]]
 
 > … jetzt mal drei Punkte, Gesprochene und sage dann, Sönke, also ein bestürdigter Steuerhinterzieher will andere Leute dabei beraten, ein besseres Leben zu führen. Genau, ist schon anspruchsvoll, finde ich. Also, wir müssen uns ja, …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:04:59](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=3899) · [[Transkript 137#Minute 64|im Transkript]]
-
-> … ist das 1137-fache der 50.000 Euro Grenze ab 50.000 Euro gilt nämlich Steuerhinterziehung als schwere Steuerhinterziehung und ab einer Million gilt auch ist keine Bewährungsstrafe mehr möglich und obwohl das da vier, fünf, sechs …
->
-> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:26:30](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=5190) · [[Transkript 137#Minute 86|im Transkript]]
 
 > … Sie könnte Ihr Vertrauen in den Rechtsstaat nachhaltig erschüttern. Cum-Ex, der größte Steuerskandal der deutschen Geschichte, ein System, mit dem Milliarden aus der Staatskasse gezogen wurden, ist eben auch nach wie vor nicht vollständig …
 >
@@ -430,9 +438,9 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 42:56](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2576) · [[Transkript 141#Minute 42|im Transkript]]
 
-> … erzählt, dass er auf Twitter damals geschrieben hat, er hätte niemals Steuer hinterzogen. Da habt ihr aber inzwischen andere Beweise, oder? Genau, seine Bemerkung damals auf Twitter, die ist schlicht nicht richtig, denn das …
+> … Post bei Twitter veröffentlicht. Und da hat er geschrieben, ich habe niemals Steuern hinterzogen und werde daher mit juristischen Mitteln gegen die vom Handelsblatt aufgestellten Unwahrheiten vorgehen. Also es gab dann tatsächlich auch eine Auseinandersetzung …
 >
-> — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 48:27](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2907) · [[Transkript 141#Minute 48|im Transkript]]
+> — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 45:15](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2715) · [[Transkript 141#Minute 45|im Transkript]]
 
 > … Gemeinsame Landesbank von Hamburg und Schleswig-Holstein mehr als 110 Mio. Euro Steuern hinterzogen haben. Manchmal liegt die Wahrheit schwarz auf weiß auf dem Tisch. Und trotzdem gibt es jahrelang keine Aufklärung. So ist es …
 >
@@ -442,23 +450,23 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 >
 > — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 3:57](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=237) · [[Transkript 150#Minute 3|im Transkript]]
 
-> … es dem Steuerzahler. Und wenn jetzt eine Bank im Besitz der Steuerzahler Steuerhinterziehung betreibt, dann bedrückt sie sich ja eigentlich sehr, beziehungsweise sie bedrückt die eigenen Eigentümer. Und das hat der Konstantin von Österreich …
+> … es dem Steuerzahler. Und wenn jetzt eine Bank im Besitz der Steuerzahler Steuerhinterziehung betreibt, dann betrügt sie sich ja eigentlich sehr, beziehungsweise sie betrügt die eigenen Eigentümer. Und das hat der Constantin von Oesterreich dann beschämend genannt, dass man damit …
 >
 > — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 5:54](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=354) · [[Transkript 150#Minute 5|im Transkript]]
 
-> … nennen wir das, zustande und dann auch die gewaltigen Steuererstattungen. Also konkret Steuerhinterziehung. Und deshalb sind die Comex-Geschäfte halt auch nie einfach nur einfache Straftaten. Haben wir ja auch schon oft beschrieben, schwere Steuerhinterziehung …
+> … nennen wir das, zustande und dann auch die gewaltigen Steuererstattungen. Also konkret Steuerhinterziehung. Und deshalb sind die Cum-Ex-Geschäfte halt auch nie einfach nur einfache Straftaten. Haben wir ja auch schon oft beschrieben, schwere Steuerhinterziehung …
 >
 > — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 11:48](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=708) · [[Transkript 150#Minute 11|im Transkript]]
 
 ## In diesen Folgen (28)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Shownotes · Minute [0:08](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=8), [5:20](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=320)
-- [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Shownotes · Minute [8:09](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=489), [39:17](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=2357), [43:36](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=2616), [51:00](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=3060)
-- [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Shownotes · Minute [2:39](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=159), [12:05](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=725), [17:16](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1036)
+- [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Shownotes · Minute [8:04](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=484), [39:17](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=2357), [43:36](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=2616), [51:00](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=3060)
+- [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Shownotes · Minute [2:39](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=159), [12:05](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=725), [17:16](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1036), [27:49](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1669)
 - [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Shownotes · Minute [0:41](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=41), [7:35](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=455), [12:19](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=739)
 - [[015 Hanno Berger Steuer-Guru vor Gericht|#15 – Hanno Berger: Steuer-Guru vor Gericht]] (2022-06-05) — Shownotes · Minute [0:20](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=20), [34:24](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=2064), [50:38](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=3038)
 - [[023 Das Cum-Ex-Geständnis des Angeklagten Hanno Berger|#23 – Das Cum-Ex-Geständnis des Angeklagten Hanno Berger]] (2022-08-08) — Shownotes · Minute [0:49](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=49), [2:26](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=146), [17:34](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=1054), [22:23](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl?t=1343)
-- [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20 – Landesbanken im Cum-Ex-Skandal: Chefetagen als justizfreie Zone]] (2022-08-14) — Shownotes · Minute [1:28](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=88), [3:17](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=197), [9:07](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=547), [36:29](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2189)
+- [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20 – Landesbanken im Cum-Ex-Skandal: Chefetagen als justizfreie Zone]] (2022-08-14) — Shownotes · Minute [1:28](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=88), [3:17](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=197), [9:07](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=547), [29:56](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=1796)
 - [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Minute [0:59](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=59), [3:55](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=235), [6:22](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=382), [9:43](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=583)
 - [[026 Cum-Ex Show-Down vor Gericht|#26 – Cum-Ex: Show-Down vor Gericht]] (2022-09-13) — Shownotes · Minute [1:22](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=82), [18:09](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=1089), [24:54](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=1494)
 - [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27 – Der Bruch mit dem Cum-Ex Meister (Teil 3)]] (2022-10-23) — Shownotes · Minute [0:03](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3), [3:03](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=183), [44:45](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2685), [1:00:10](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3610)
@@ -469,16 +477,16 @@ Eine strafbefreiende **Selbstanzeige** (§ 371 AO) ist möglich, solange die Tat
 - [[055 Christian Olearius vor Gericht|#55 – Christian Olearius vor Gericht]] (2023-09-18) — Minute [0:50](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=50), [3:23](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=203), [5:06](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=306), [6:49](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=409)
 - [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Shownotes · Minute [29:34](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1774), [37:46](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2266), [44:15](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2655)
 - [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes · Minute [15:55](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=955)
-- [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes · Minute [0:48](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=48), [17:49](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=1069)
+- [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes · Minute [0:48](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=48), [15:15](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=915), [17:49](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=1069)
 - [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87 – Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab]] (2024-06-26) — Shownotes · Minute [0:22](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=22), [5:15](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=315), [9:40](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=580)
-- [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Shownotes · Minute [0:59](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=59), [2:44](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=164), [4:35](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=275), [44:09](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2649)
+- [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Shownotes · Minute [0:59](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=59), [2:44](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=164), [4:35](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=275), [32:25](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1945)
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes · Minute [1:03](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=63), [5:46](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=346), [28:10](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1690), [37:40](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=2260)
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [17:36](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1056), [52:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=3170), [54:24](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=3264)
 - [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121 – Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt]] (2025-08-10) — Shownotes · Minute [1:02](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=62), [14:08](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=848)
-- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Shownotes · Minute [1:53](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=113), [29:48](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=1788), [36:52](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2212), [1:18:04](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4684)
-- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes · Minute [1:11](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=71), [5:35](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=335), [1:04:59](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=3899), [1:26:30](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=5190)
+- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Shownotes · Minute [1:53](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=113), [29:48](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=1788), [36:52](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2212), [1:08:31](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4111)
+- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes · Minute [1:11](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=71), [5:35](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=335), [45:06](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2706), [1:04:59](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=3899)
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes · Minute [1:25](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=85), [4:11](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=251), [7:32](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=452), [9:36](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=576)
-- [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes · Minute [1:35](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=95), [7:59](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=479), [42:56](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2576), [48:27](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2907)
+- [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes · Minute [1:35](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=95), [7:59](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=479), [42:56](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2576), [45:15](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=2715)
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes · Minute [0:46](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=46), [3:57](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=237), [5:54](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=354), [11:48](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=708)
 
 ## Kurz erwähnt (4)

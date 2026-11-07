@@ -30,7 +30,7 @@ Im Cum-Ex-Komplex tauchte sein Name ebenfalls auf: Das Handelsblatt berichtete u
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 3:54](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=234) · [[Transkript 127#Minute 3|im Transkript]]
 
-> … oder der Unternehmer Sigmund Kiener und Rolf Elgeti und eben halt Jürgen Fitschen, der ehemalige Chef der Deutschen Bank, Co-Chef der Deutschen Bank. Ja, und die hofften eben alle auf richtig satze Renditen. Die …
+> … oder der Unternehmer Sigmund Kiener und Rolf Elgeti und eben halt Jürgen Fitschen, der ehemalige Chef der Deutschen Bank, Co-Chef der Deutschen Bank. Ja, und die hofften eben alle auf richtig satte Renditen. Die …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 9:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=545) · [[Transkript 127#Minute 9|im Transkript]]
 

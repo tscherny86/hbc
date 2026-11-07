@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-03-23 |
 | **Dauer** | 59:45 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV) · [MP3](https://audio.podigee-cdn.net/1791715-m-9e865a2d3726c7d93f9097546fa5937a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/110-tesla-files-buch) |
-| **Transkript** | [[Transkript 110]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 110]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Elon Musk]] |
-| **Kurz erwähnt** | [[Russische Oligarchen und Sanktionen]], [[Tesla-Betriebsratswahl Grünheide]], [[Marktmanipulation]], [[Betriebsrat und Mitbestimmung]] |
+| **Kurz erwähnt** | [[Lukasz Krupski]], [[Marktmanipulation]] |
 
 ## Shownotes
 
@@ -66,7 +66,7 @@ Jetzt reinhören!
 - [39:55](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2395) – Also ganz, ganz nah die beiden. Und wenige Tage später dann plötzlich kam so die Meldung, Trumps Team … ([[Transkript 110#Minute 39|Transkript]])
 - [41:56](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2516) – also das war dann plötzlich wie Tag und Nacht. Vorher hast du nichts aus dem Unternehmen bekommen. Zu … ([[Transkript 110#Minute 41|Transkript]])
 - [44:00](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2640) – Wahnsinn. Und das ist beim Monatsgehalt... Darf man sowas einfach? Rechtlich? Nein, darf man nicht. Das ist eine … ([[Transkript 110#Minute 44|Transkript]])
-- [46:01](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2761) – Ich glaube, was Herr Thierik selber nicht so gut fand, ist dieses ganze Thema Krankenstand. Das ist so … ([[Transkript 110#Minute 46|Transkript]])
+- [46:01](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2761) – Ich glaube, was Herr Thierig selber nicht so gut fand, ist dieses ganze Thema Krankenstand. Das ist so … ([[Transkript 110#Minute 46|Transkript]])
 - [48:17](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=2897) – Ja, am besten spielen wir das direkt mal ein, was dann für eine Unterhaltung sich, eine kurze Unterhaltung … ([[Transkript 110#Minute 48|Transkript]])
 - [50:20](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3020) – Ja, es ist halt das klassische Muster. Da gibt es ja den Witz, dass der Alkoholiker sagte, ich … ([[Transkript 110#Minute 50|Transkript]])
 - [52:26](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3146) – Wir retten die Welt sozusagen, wenn wir für Tesla arbeiten oder Tesla fahren. Auch das bröckelt jetzt natürlich … ([[Transkript 110#Minute 52|Transkript]])

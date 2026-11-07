@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Neuer Podcast: Catching Chris - Auf der Spur des Millionenbetrügers
 
-Folge: [[133 Neuer Podcast Catching Chris - Auf der Spur des Millionenbetrügers]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (0 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[133 Neuer Podcast Catching Chris - Auf der Spur des Millionenbetrügers]] · automatisch transkribiert, vollständig Korrektur gelesen (0 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0

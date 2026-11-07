@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-02-08 |
 | **Dauer** | 59:02 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b) · [MP3](https://audio.podigee-cdn.net/2328738-m-fd851a90dc3142b75bd83a083c16be51.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/139-die-millionen-pleite-der-degag-wird-zum-nachsten-krimi-am-immobilienmarkt) |
-| **Transkript** | [[Transkript 139]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Signa und René Benko]], [[Degag-Pleite]] |
+| **Transkript** | [[Transkript 139]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Degag-Pleite]] |
 | **Themen** | [[Insolvenz]], [[Insolvenzverwalter]] |
-| **Unternehmen** | [[Signa]], [[Degag]] |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[René Benko]], [[Birger Dehne]], [[Bernd Klein]] |
-| **Kurz erwähnt** | [[Goldanlage]] |
+| **Unternehmen** | [[Degag]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Birger Dehne]], [[Bernd Klein]] |
+| **Kurz erwähnt** | [[Adler Group]], [[Pressefreiheit und Presserecht]] |
 
 ## Shownotes
 
@@ -64,9 +64,9 @@ Angebot bis zum 23.02.2026: 40% Rabatt auf alle Handelsblatt-Jahresabos sowie au
 - [0:00](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=0) – Bevor es mit der neuen Folge losgeht, habe ich noch kurz was für Sie. Wir gehen ja wieder … ([[Transkript 139#Minute 0|Transkript]])
 - [2:06](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=126) – Aber vor einem Jahr kollabierte die Degag-Gruppe. Nun muss in der niedersächsischen Hauptstadt ein Insolvenzverwalter retten, was zu … ([[Transkript 139#Minute 2|Transkript]])
 - [4:11](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=251) – Und also heruntergekommen wirklich in zum Teil sehr schlimmen Zuständen, was in der Vergangenheit halt auch öfter dazu … ([[Transkript 139#Minute 4|Transkript]])
-- [6:13](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=373) – Das klingt jetzt wirklich nicht unbedingt nach einem Ort, wo Menschen gern leben. Lass uns über die GIGAG … ([[Transkript 139#Minute 6|Transkript]])
-- [8:35](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=515) – Das ist immer bei der DGAG der Fall und für die, die neu dabei sind, wir gewinnen niemals, … ([[Transkript 139#Minute 8|Transkript]])
-- [10:36](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=636) – gemacht. Aber Dehne sah im Oktober 2024 schon noch eine Riesenchance für die DGAG, weil man eben nun … ([[Transkript 139#Minute 10|Transkript]])
+- [6:13](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=373) – Das klingt jetzt wirklich nicht unbedingt nach einem Ort, wo Menschen gern leben. Lass uns über die Degag … ([[Transkript 139#Minute 6|Transkript]])
+- [8:35](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=515) – Das ist immer bei der Degag der Fall und für die, die neu dabei sind, wir gewinnen niemals, … ([[Transkript 139#Minute 8|Transkript]])
+- [10:36](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=636) – gemacht. Aber Dehne sah im Oktober 2024 schon noch eine Riesenchance für die Degag, weil man eben nun … ([[Transkript 139#Minute 10|Transkript]])
 - [12:37](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=757) – Ja, da werden die Zuhörer vom Herrn Dehne, die jetzt in dem Call sozusagen ihm gelauscht haben von … ([[Transkript 139#Minute 12|Transkript]])
 - [14:43](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=883) – Und verkauft hatten sie bis dahin aber nur 17. Ja, so. Und das fällt jetzt in die Zeit … ([[Transkript 139#Minute 14|Transkript]])
 - [16:49](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1009) – Naja, die haben dann im Dezember in Mitteilungen für die Presse sozusagen noch gesagt, also der Zahlungsstopp, der … ([[Transkript 139#Minute 16|Transkript]])

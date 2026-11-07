@@ -20,7 +20,7 @@ tags: [folge, jahr-2026, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6) · [MP3](https://audio.podigee-cdn.net/2547792-m-b8a583d7563cb23cc10314df0cb2dd21.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/157-neue-episode-06-09) |
 | **Transkript** | [[Transkript 157]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Volksbank Köln Bonn (Bordell-Kredit)]] |
-| **Themen** | [[Korruption und Bestechung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]], [[Compliance]] |
+| **Themen** | [[Korruption und Bestechung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
 | **Unternehmen** | [[Volksbank Köln Bonn]] |
 | **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | [[Effenberg-Bank]], [[Geldwäsche]] |

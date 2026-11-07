@@ -20,7 +20,7 @@ Die Staatsanwaltschaft Düsseldorf ermittelt wegen Betrugs und Urkundenfälschun
 
 ## Was im Podcast gesagt wird
 
-> … im Luxus zwischen den USA, Frankreich und Deutschland führte. Und mittendrin die Volksbank Düsseldorf-Noise. Ja, das kommt jetzt etwas überraschend, aber das macht die Geschichte ja so interessant. Also, die luxusliebende Aurelie B. soll …
+> … im Luxus zwischen den USA, Frankreich und Deutschland führte. Und mittendrin die Volksbank Düsseldorf-Neuss. Ja, das kommt jetzt etwas überraschend, aber das macht die Geschichte ja so interessant. Also, die luxusliebende Aurelie B. soll …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 1:30](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=90) · [[Transkript 100#Minute 1|im Transkript]]
 
@@ -32,9 +32,9 @@ Die Staatsanwaltschaft Düsseldorf ermittelt wegen Betrugs und Urkundenfälschun
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 6:47](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=407) · [[Transkript 100#Minute 6|im Transkript]]
 
-> … hast, für Mode zu kleineren Preisen bekannt. So und da kommt jetzt Aurélie B. hin und sie arbeitet da, man weiß es nicht genau, ungefähr so zwei Jahre. Ungefähr, ja. Was konntest du da …
+> … die Familie Mulliez. Und die haben eine Reihe von Einzelhandelsgeschäften, Ketten und Kiabi ist eben Teil dieses Mulliez-Imperiums. Und in Frankreich, wie du schon gesagt hast, für Mode zu kleineren Preisen bekannt. So und …
 >
-> — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 8:31](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=511) · [[Transkript 100#Minute 8|im Transkript]]
+> — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 8:20](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=500) · [[Transkript 100#Minute 8|im Transkript]]
 
 > … In dem Fall sogar Sonderbeauftragter der Finanzaufsicht BaFin. Das war bei der Volksbank Düsseldorf-Neuss. Ja, und jetzt hier bei der Brawo soll er auch eine gewisse Zeit lang bleiben. Zwei Jahre Vertrag erst mal. …
 >
@@ -46,7 +46,7 @@ Die Staatsanwaltschaft Düsseldorf ermittelt wegen Betrugs und Urkundenfälschun
 
 ## In diesen Folgen (2)
 
-- [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Shownotes · Minute [1:30](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=90), [3:42](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=222), [6:47](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=407), [8:31](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=511)
+- [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Shownotes · Minute [1:30](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=90), [3:42](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=222), [6:47](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=407), [8:20](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=500)
 - [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [32:19](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1939), [33:55](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2035)
 
 ---

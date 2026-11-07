@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 36
+folgen: 33
 tags: [themen]
 ---
 # Insolvenz
@@ -66,31 +66,15 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 9:35](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=575) · [[Transkript 027#Minute 9|im Transkript]]
 
-> … in seinen Restaurants und das leitete seinen Abstieg ein. 2021 musste Schubeck Insolvenz anmelden, wenig später erhob die Staatsanwaltschaft Anklage und nun kam es zum Prozess. Wir betrachten die Hintergründe dieses Strafverfahrens und analysieren …
->
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:13](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=73) · [[Transkript 028#Minute 1|im Transkript]]
-
-> … Jahre alt ungefähr und damals in der Folge auch nah an der Pleite dran. Und angeblich hat er damals mal in der Kirche übernachtet und gebetet und hat erzählt, ich habe wieder ganz von …
->
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 39:50](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2390) · [[Transkript 028#Minute 39|im Transkript]]
-
-> … ganz klar und nüchtern ums Geld. Becker war 2017 schon gerichtlich für zahlungsunfähig erklärt worden und musste deshalb sein Vermögen, also sein nicht Verhandelsvermögen gewissermaßen offenlegen und genau dabei hat er einen Fehler gemacht, …
->
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:09:30](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4170) · [[Transkript 028#Minute 69|im Transkript]]
-
-> … gesagt hat. Er musste ja für seine Betriebe im Übrigen schon 2021 Insolvenz anmelden. Ja, und was jetzt übrig bleibt von seinem Privatvermögen, oder so hat er denn überhaupt, welches er hat, ist eben …
->
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:19:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4799) · [[Transkript 028#Minute 79|im Transkript]]
-
-> … bevor der Konzern dann wirklich zusammengebrochen ist und über Nacht in die Insolvenz rutschte. Ja, definitiv. Also im Endeffekt muss man sagen, ja, feiert sich Fraser Pering schon so ein bisschen dafür, das sich …
+> … bevor der Konzern dann wirklich zusammengebrochen ist und über Nacht in die Insolvenz rutschte. Ja, definitiv. Also im Endeffekt muss man sagen, ja, feiert sich Fraser Perring schon so ein bisschen dafür, das sich durchaus …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 17:46](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1066) · [[Transkript 029#Minute 17|im Transkript]]
 
-> … wissen, nämlich, dass er in der Vergangenheit schon mal eine ziemlich spektakuläre Pleite hingelegt hat. Auch das klingt wieder spannend, Lars. Ja, also der Chef der Kana hat zunächst einmal einen ganz steilen Aufstieg …
+> … wissen, nämlich, dass er in der Vergangenheit schon mal eine ziemlich spektakuläre Pleite hingelegt hat. Auch das klingt wieder spannend, Lars. Ja, also der Cevdet Caner hat zunächst einmal einen ganz steilen Aufstieg hingelegt. Er …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 28:55](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1735) · [[Transkript 029#Minute 28|im Transkript]]
 
-> … Zumindest setzt der Kana das offenbar voraus, dass man das macht. Die Level-One-Pleite hatte für ihn auch ein Nachspiel. Die Staatsanwaltschaft Wien hat gegen ihn ermittelt und ihn auch angeklagt, wegen gewerbsmäßigen schweren Betrugs. …
+> … Zumindest setzt der Caner das offenbar voraus, dass man das macht. Die Level-One-Pleite hatte für ihn auch ein Nachspiel. Die Staatsanwaltschaft Wien hat gegen ihn ermittelt und ihn auch angeklagt, wegen gewerbsmäßigen schweren Betrugs. …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 30:35](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1835) · [[Transkript 029#Minute 30|im Transkript]]
 
@@ -114,7 +98,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 37:30](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2250) · [[Transkript 033#Minute 37|im Transkript]]
 
-> … auch noch sehr sicher gefühlt. Doch am Ende musste die Maple Bank Insolvenz anmelden, weil das Finanzamt und die BaFin eintritten und dem Treiben ein Ende setzte. Und der Insolvenzverwalter sagt ganz klar, diese …
+> … auch noch sehr sicher gefühlt. Doch am Ende musste die Maple Bank Insolvenz anmelden, weil das Finanzamt und die BaFin eintraten und dem Treiben ein Ende setzte. Und der Insolvenzverwalter sagt ganz klar, diese …
 >
 > — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 1:00](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=60) · [[Transkript 032#Minute 1|im Transkript]]
 
@@ -134,13 +118,13 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 2:39](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=159) · [[Transkript 035#Minute 2|im Transkript]]
 
-> … deutschen Gerichten auch als solcher zuerst angeklagt und auch teilweise verurteilt worden. Insolvenz, Verschleppung, Untreue, das sind keine Kavaliersdelikte. Und Göker hatte auch schon vor seiner Flucht aus Deutschland Probleme mit dem Rechtsstaat, da …
->
-> — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 7:14](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=434) · [[Transkript 035#Minute 7|im Transkript]]
-
-> … geduldet. Und Goecker hat ja auch übersehen, dass dieser Größenwahn letztendlich zur Pleite führen wird. Und die Versicherer haben ihn doch sehr, sehr lange hofiert und haben ihn da auch in gewisser Weise ins …
+> … geduldet. Und Göker hat ja auch übersehen, dass dieser Größenwahn letztendlich zur Pleite führen wird. Und die Versicherer haben ihn doch sehr, sehr lange hofiert und haben ihn da auch in gewisser Weise ins …
 >
 > — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 34:18](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2058) · [[Transkript 035#Minute 34|im Transkript]]
+
+> … es kaum. Also es gibt keinen richtigen Knall, der auf einmal zur Insolvenz führt. Das sind viele Schritte. Wir haben es jetzt ja, glaube ich, gut aufgedröselt und zusammengefasst. Göker hatte diesen Laden nicht …
+>
+> — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 52:59](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3179) · [[Transkript 035#Minute 52|im Transkript]]
 
 > … hat natürlich nicht locker gelassen. Und er hat, um die Schulden der Insolventen MEG AG einzutreiben, irgendwann eine Anwältin in der Türkei gefunden und sie engagiert. Ja, und jetzt beginnt der Krimi erst richtig, …
 >
@@ -166,7 +150,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 6:40](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=400) · [[Transkript 039#Minute 6|im Transkript]]
 
-> … ermittelt haben. Und danach kommt ein Compliant-Verantwortlicher von Wirecard, der nach der Insolvenz den Skandal aufgearbeitet hat, im Auftrag des Insolvenzverwalters. Unter anderem hat dieser Mann nach dem angeblichen Treuhandvermögen gesucht, allerdings ohne Erfolg. …
+> … ermittelt haben. Und danach kommt ein Compliance-Verantwortlicher von Wirecard, der nach der Insolvenz den Skandal aufgearbeitet hat, im Auftrag des Insolvenzverwalters. Unter anderem hat dieser Mann nach dem angeblichen Treuhandvermögen gesucht, allerdings ohne Erfolg. …
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 33:49](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=2029) · [[Transkript 039#Minute 33|im Transkript]]
 
@@ -186,7 +170,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 16:13](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=973) · [[Transkript 042#Minute 16|im Transkript]]
 
-> … Durchsuchungen ein herber Rückschlag, denn das Unternehmen hatte gerade erst eine mögliche Insolvenz abgewendet und verkündet, dass sie nach monatelanger Suche zumindest für ihre Berliner Tochter endlich einen Wirtschaftsprüfer gefunden hat. Verwaltungsgrad-Chef Stefan Kirsten …
+> … Durchsuchungen ein herber Rückschlag, denn das Unternehmen hatte gerade erst eine mögliche Insolvenz abgewendet und verkündet, dass sie nach monatelanger Suche zumindest für ihre Berliner Tochter endlich einen Wirtschaftsprüfer gefunden hat. Verwaltungsrats-Chef Stefan Kirsten …
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 0:51](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=51) · [[Transkript 051#Minute 0|im Transkript]]
 
@@ -214,7 +198,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 27:54](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1674) · [[Transkript 052#Minute 27|im Transkript]]
 
-> … geäußert hat. Das betrifft aber auch Markus Braun, den ehemaligen CEO des insolventen Zahlungsdienstleisters Wirecard, dem nach wie vor in München der Prozess gemacht wirkt. Als auch, ganz besonders, seinen Ex-Aufsichtsrat Thomas Eichelmann. Der …
+> … geäußert hat. Das betrifft aber auch Markus Braun, den ehemaligen CEO des insolventen Zahlungsdienstleisters Wirecard, dem nach wie vor in München der Prozess gemacht wird. Als auch, ganz besonders, seinen Ex-Aufsichtsrat Thomas Eichelmann. Der hat …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 0:56](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=56) · [[Transkript 057#Minute 0|im Transkript]]
 
@@ -246,7 +230,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 4:17](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=257) · [[Transkript 060#Minute 4|im Transkript]]
 
-> … dazugeholt. Siegner Sports United an die Börse gebracht in den USA, mittlerweile insolvent. Über allem thront die Siegner Holding. Darunter gibt es zwei große Konzernteile. Der eine ist Siegner Development, das sind die Entwicklungsprojekte …
+> … dazugeholt. Signa Sports United an die Börse gebracht in den USA, mittlerweile insolvent. Über allem thront die Signa Holding. Darunter gibt es zwei große Konzernteile. Der eine ist Signa Development, das sind die Entwicklungsprojekte …
 >
 > — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 9:25](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=565) · [[Transkript 060#Minute 9|im Transkript]]
 
@@ -262,7 +246,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 0:19](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=19) · [[Transkript 062#Minute 0|im Transkript]]
 
-> … gefühlt neue Meldung. Vor zwei Wochen, da hatte die Signer Holding gerade Insolvenz angemeldet. Deswegen starten wir an diesem Punkt. Erklärt doch gerne nochmal ganz kurz, wer ist die Holding überhaupt und wie ist …
+> … gefühlt neue Meldung. Vor zwei Wochen, da hatte die Signa Holding gerade Insolvenz angemeldet. Deswegen starten wir an diesem Punkt. Erklärt doch gerne nochmal ganz kurz, wer ist die Holding überhaupt und wie ist …
 >
 > — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 2:15](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=135) · [[Transkript 062#Minute 2|im Transkript]]
 
@@ -290,19 +274,19 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 3:52](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=232) · [[Transkript 065#Minute 3|im Transkript]]
 
-> … nicht im Detail kennt. Denn im Endeffekt wissen wir, Weyerkart hat die Insolvenz angemeldet, hat viele Anlegerinnen und Anleger zurückgelassen, die viel investiert hatten. Und einige, die wirklich sehr stark davon betroffen waren, auch …
+> … nicht im Detail kennt. Denn im Endeffekt wissen wir, Wirecard hat die Insolvenz angemeldet, hat viele Anlegerinnen und Anleger zurückgelassen, die viel investiert hatten. Und einige, die wirklich sehr stark davon betroffen waren, auch …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 57:56](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=3476) · [[Transkript 065#Minute 57|im Transkript]]
 
-> … Der Hamburger Elb-Tower, sein Prestigebau in seiner Zeit als erster Oberbürgermeister ist insolvent. Am 22. Januar erwischte es auch das Bauprojekt, das eigentlich ab 2025 Hamburg überstrahlen sollte. Der Hamburger Elb-Tower war ein Projekt …
+> … Der Hamburger Elbtower, sein Prestigebau in seiner Zeit als erster Oberbürgermeister ist insolvent. Am 22. Januar erwischte es auch das Bauprojekt, das eigentlich ab 2025 Hamburg überstrahlen sollte. Der Hamburger Elbtower war ein Projekt …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 0:49](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=49) · [[Transkript 067#Minute 0|im Transkript]]
 
-> … Stein nach dem anderen. Angefangen hatte es im Oktober 2023 mit der Insolvenz der Signer Sports United, wo er seine Handelsaktivitäten online, quasi seine ganzen Sportshops gebündelt hatte. Das war die erste Firma, die …
+> … Stein nach dem anderen. Angefangen hatte es im Oktober 2023 mit der Insolvenz der Signa Sports United, wo er seine Handelsaktivitäten online, quasi seine ganzen Sportshops gebündelt hatte. Das war die erste Firma, die …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 2:44](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=164) · [[Transkript 067#Minute 2|im Transkript]]
 
-> … den zweiten, dritten Platz, und der Zweitplatzierte ist auch heute in der Insolvenz. Also es ist jetzt nicht so, ja, also auch andere sind in die Insolvenz gegangen. Das ist die Gercht Group aus …
+> … den zweiten, dritten Platz, und der Zweitplatzierte ist auch heute in der Insolvenz. Also es ist jetzt nicht so, ja, also auch andere sind in die Insolvenz gegangen. Das ist die Gerch Group aus Düsseldorf, …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 14:02](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=842) · [[Transkript 067#Minute 14|im Transkript]]
 
@@ -310,27 +294,15 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 15:57](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=957) · [[Transkript 067#Minute 15|im Transkript]]
 
-> … durch. Der österreichische Manager soll schon 2014, also sechs Jahre vor der Wirecard-Pleite, in engem Kontakt zu russischen Geheimdiensten und Spionen gestanden haben. Nach seiner Flucht im Juni 2020 soll der russische Geheimdienst ihn …
->
-> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 0:55](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=55) · [[Transkript 069#Minute 0|im Transkript]]
-
-> … mal angeschrieben worden, das war einer recht frühen Berichterstattung nach, nach der Pleite und da wurde halt hinterfragt oder gesagt, naja, wenn man nach Massalek googelt und waif, dann würde ich doch bei der …
->
-> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 41:47](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2507) · [[Transkript 069#Minute 41|im Transkript]]
-
-> … aber von den Wirtschaftsprüfern nicht mehr gefunden irgendwann, weswegen Wirecard in der Insolvenz gerutscht ist. Markus Braun behauptet nach wie vor, es würde es geben, Bellenhaus sagt, nein, es war gefakt. So, ich hoffe, …
->
-> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 56:00](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3360) · [[Transkript 069#Minute 56|im Transkript]]
-
-> … Immobilieninvestor René Benko ist tief gefallen. Die wichtigsten Gesellschaften seines Signerreichs haben Insolvenz angemeldet. Genauso wie Benko als Privatmann. Gläubiger haben mittlerweile rund zwei Milliarden Euro an Forderungen gegen ihn angemeldet. Doch der einstige …
+> … Immobilieninvestor René Benko ist tief gefallen. Die wichtigsten Gesellschaften seines Signa-Reichs haben Insolvenz angemeldet. Genauso wie Benko als Privatmann. Gläubiger haben mittlerweile rund zwei Milliarden Euro an Forderungen gegen ihn angemeldet. Doch der einstige …
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 0:11](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=11) · [[Transkript 078#Minute 0|im Transkript]]
 
-> … Kaufhof oder der KDW-Gruppe. Und Benko eben selber auch als Privatunternehmer hat Insolvenz angemeldet. Er musste zum Beispiel die Mega-Yacht Roma, die er benutzt hat, die wurde verkauft. Genauso wie der Privatjet mit der …
+> … Galeria Kaufhof oder der KaDeWe-Gruppe. Und Benko eben selber auch als Privatunternehmer hat Insolvenz angemeldet. Er musste zum Beispiel die Mega-Yacht Roma, die er benutzt hat, die wurde verkauft. Genauso wie der Privatjet mit der …
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 2:56](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=176) · [[Transkript 078#Minute 2|im Transkript]]
 
-> … hingehalten. Im Sitz berichten sie das heute zumindest. Und jetzt nach der Pleite der Siegner-Gruppe müssen sie damit rechnen, dass sie eigentlich faktisch leer ausgehen. Damit sind viele, viele Milliarden verbrannt. Und das wollen …
+> … hingehalten. Im Sitz berichten sie das heute zumindest. Und jetzt nach der Pleite der Signa-Gruppe müssen sie damit rechnen, dass sie eigentlich faktisch leer ausgehen. Damit sind viele, viele Milliarden verbrannt. Und das wollen …
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 4:51](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=291) · [[Transkript 078#Minute 4|im Transkript]]
 
@@ -338,7 +310,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 12:46](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=766) · [[Transkript 078#Minute 12|im Transkript]]
 
-> … In ganz Deutschland wurden gestern 2200 Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründe Anton Schlecker. In diesem Zusammenhang haben Fahnder heute …
+> … In ganz Deutschland wurden gestern 2200 Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründer Anton Schlecker. In diesem Zusammenhang haben Fahnder heute mehrere …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 0:17](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=17) · [[Transkript 082#Minute 0|im Transkript]]
 
@@ -354,11 +326,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 25:58](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1558) · [[Transkript 082#Minute 25|im Transkript]]
 
-> … in meinem Leben zwei Firmen gegründet und auch Konzepte erarbeitet. Beide sind pleite gegangen, also nicht pleite, haben wir aufgelöst, sagen wir es mal so. Also, falls du dir die Frage noch stellen magst. …
->
-> — [[083 Meet the Team Martin Murphy|#83]], [Minute 5:30](https://open.spotify.com/episode/3EyE9Hn100zkOmBkWStyUM?t=330) · [[Transkript 083#Minute 5|im Transkript]]
-
-> … In ganz Deutschland wurden gestern 2200 Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründe Anton Schlecker. In diesem Zusammenhang haben Verhandler heute …
+> … In ganz Deutschland wurden gestern 2200 Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründer Anton Schlecker. In diesem Zusammenhang haben Fahnder heute mehrere …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 0:17](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=17) · [[Transkript 084#Minute 0|im Transkript]]
 
@@ -374,7 +342,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 23:46](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=1426) · [[Transkript 084#Minute 23|im Transkript]]
 
-> … die Branche unter Druck ist und so weiter. Benko-Signer-Gruppe ist in die Insolvenz gerutscht. Andere Entwickler sind gekippt. Adler macht Schlagzeilen mit stillstehenden Projekten. Auch bei ihm gibt es bei Baustellen Schwierigkeiten. Und ja, …
+> … die Branche unter Druck ist und so weiter. Benko-Signa-Gruppe ist in die Insolvenz gerutscht. Andere Entwickler sind gekippt. Adler macht Schlagzeilen mit stillstehenden Projekten. Auch bei ihm gibt es bei Baustellen Schwierigkeiten. Und ja, …
 >
 > — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 17:36](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1056) · [[Transkript 090#Minute 17|im Transkript]]
 
@@ -386,11 +354,11 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 30:37](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1837) · [[Transkript 090#Minute 30|im Transkript]]
 
-> … wenn man so will, ein bisschen überschattet. Und zwar durch ein vorläufiges Insolvenzverfahren bei einer Tochtergesellschaft, bei der ehemaligen Grüner Verwaltungs GmbH. GmbH. Die ist unterhalb der zentralen Mutter bis jetzt angesiedelt gewesen, war …
+> … wenn man so will, ein bisschen überschattet. Und zwar durch ein vorläufiges Insolvenzverfahren bei einer Tochtergesellschaft, bei der ehemaligen Gröner Verwaltungs GmbH. GmbH. Die ist unterhalb der zentralen Mutter bis jetzt angesiedelt gewesen, war eben lange …
 >
 > — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 47:18](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=2838) · [[Transkript 090#Minute 47|im Transkript]]
 
-> … oder wie ich darauf reagiere, sondern wir werden eben durch diese Einschläge, pleite Impfer, pleite Benko, pleite dies, jeden Tag erneut herausgefordert, weil es trifft unsere Investoren, es trifft unsere Banken, es trifft unsere …
+> … oder wie ich darauf reagiere, sondern wir werden eben durch diese Einschläge, pleite Imfarr, pleite Benko, pleite dies, jeden Tag erneut herausgefordert, weil es trifft unsere Investoren, es trifft unsere Banken, es trifft unsere …
 >
 > — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 5:31](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=331) · [[Transkript 096#Minute 5|im Transkript]]
 
@@ -402,7 +370,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 23:25](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1405) · [[Transkript 096#Minute 23|im Transkript]]
 
-> … Streit und das lässt sich klären. Sie sprachen von der Androhung eines Insolvenzantrags bei der CGL-Elementum im Falle des Dienstleisters, der auf sein Geld gewartet hat. Jetzt ist ja noch nicht alles bezahlt. Doch, …
+> … Streit und das lässt sich klären. Sie sprachen von der Androhung eines Insolvenzantrags bei der CG Elementum im Falle des Dienstleisters, der auf sein Geld gewartet hat. Jetzt ist ja noch nicht alles bezahlt. Doch, …
 >
 > — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 26:05](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1565) · [[Transkript 096#Minute 26|im Transkript]]
 
@@ -442,19 +410,23 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 4:43](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=283) · [[Transkript 104#Minute 4|im Transkript]]
 
-> … dafür, dass René Benko weiter in seiner Villa leben kann, trotz der Insolvenz eben in Tirol, in Bayinsburg. Und es besteht eben der Verdacht, dass die Stiftung eben, wo seine Mutter auch einen großen …
+> … Bei mir im Studio sind wieder Michael und René. Wir sprechen über die Pleite von René Benko. Und Michael, warum Geheimniskrämer des Jahres? Naja, also diejenigen, die die Folge damals gehört haben, die werden sich erinnern, dass wir eine Geschichte gemacht …
 >
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 21:44](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1304) · [[Transkript 104#Minute 21|im Transkript]]
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 20:18](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1218) · [[Transkript 104#Minute 20|im Transkript]]
+
+> … leben konnte. Und der Masseverwalter Andreas Grabenweger, der sich eben um die Insolvenz kümmert, der sagt es sehr hart und sagt, die Mutter sei eben eine Strohfrau René Benkos und es sei ungeheuerlich, dass …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 22:04](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1324) · [[Transkript 104#Minute 22|im Transkript]]
 
 > … zu diesem Schuldenschnitt kommt, dann kann die Firma gekauft werden und eine Insolvenz verhindert werden. Die haben dann zugestimmt, auch wenn man gar nicht wusste, naja, an wen soll das Ganze denn hier gehen. …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 35:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2150) · [[Transkript 104#Minute 35|im Transkript]]
 
-> … festgenommen. Und man kann das sagen, damit erreicht die strafrechtliche Aufarbeitung der Pleite seines Handels - und Immobilienkonzerns Signa eine neue Qualität. Ja, mit Handelsbut Crime sind wir also am Puls der Ereignisse. Wir …
+> … festgenommen. Und man kann das sagen, damit erreicht die strafrechtliche Aufarbeitung der Pleite seines Handels - und Immobilienkonzerns Signa eine neue Qualität. Ja, mit Handelsblatt Crime sind wir also am Puls der Ereignisse. Wir wollen …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 0:25](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=25) · [[Transkript 106#Minute 0|im Transkript]]
 
-> … Gemeinsam mit vielen anderen Kollegen vom Handelsblatt verfolgen sie die Aufarbeitung der Signer-Pleite sehr eng. Mit ihnen spreche ich nun über die jüngsten Entwicklungen rund um Benko. In diesem Podcast sprechen wir alle zwei …
+> … Gemeinsam mit vielen anderen Kollegen vom Handelsblatt verfolgen sie die Aufarbeitung der Signa-Pleite sehr eng. Mit ihnen spreche ich nun über die jüngsten Entwicklungen rund um Benko. In diesem Podcast sprechen wir alle zwei …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 3:00](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=180) · [[Transkript 106#Minute 3|im Transkript]]
 
@@ -462,7 +434,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 7:44](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=464) · [[Transkript 106#Minute 7|im Transkript]]
 
-> … geschleust haben. Ja, und in Berlin wiederum ermitteln Staatsanwälte rund um die Insolvenz des Kaufhaus des Westens, des KDW. Ja, und übrigens in den vergangenen Monaten gab es auch, das hat es glaube ich …
+> … geschleust haben. Ja, und in Berlin wiederum ermitteln Staatsanwälte rund um die Insolvenz des Kaufhaus des Westens, des KaDeWe. Ja, und übrigens in den vergangenen Monaten gab es auch, das hat es glaube ich …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 15:56](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=956) · [[Transkript 106#Minute 15|im Transkript]]
 
@@ -486,7 +458,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 0:00](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=0) · [[Transkript 113#Minute 0|im Transkript]]
 
-> … mal drüber geschrieben. Ich hatte in der Moderation auch schon gesagt, die Pleite ist jetzt vier Jahre her und die Aufarbeitung läuft, jetzt hätte ich fast gesagt wie immer, in Klammern Wirecard, Comex etc. …
+> … mal drüber geschrieben. Ich hatte in der Moderation auch schon gesagt, die Pleite ist jetzt vier Jahre her und die Aufarbeitung läuft, jetzt hätte ich fast gesagt wie immer, in Klammern Wirecard, Cum-Ex etc. …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 2:18](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=138) · [[Transkript 113#Minute 2|im Transkript]]
 
@@ -494,11 +466,11 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 16:30](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=990) · [[Transkript 113#Minute 16|im Transkript]]
 
-> … Schu AG eingestiegen, hat die Mehrheit übernommen, musste dann aber dummerweise selber Insolvenz anmelden. Wir sind inzwischen in den 2000er Jahren und dann kam der erste internationale Investor aus Großbritannien rein. Das ging aber …
+> … Schuheinkaufsverband Garant Schuh AG eingestiegen, hat die Mehrheit übernommen, musste dann aber dummerweise selber Insolvenz anmelden. Wir sind inzwischen in den 2000er Jahren und dann kam der erste internationale Investor aus Großbritannien rein. Das ging aber …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 18:37](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=1117) · [[Transkript 113#Minute 18|im Transkript]]
 
-> … ermittelt derzeit im Fall Grinzel jener Bremer Bank, die im März 2021 Insolvenz anmelden musste. Der Fall hat erstaunliche Parallelen zum Fall des DAX-Konzerns Wirecard. Und man muss sagen, allein in Deutschland traf die …
+> … ermittelt derzeit im Fall Greensill jener Bremer Bank, die im März 2021 Insolvenz anmelden musste. Der Fall hat erstaunliche Parallelen zum Fall des DAX-Konzerns Wirecard. Und man muss sagen, allein in Deutschland traf die …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 1:17](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=77) · [[Transkript 114#Minute 1|im Transkript]]
 
@@ -546,7 +518,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 24:09](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1449) · [[Transkript 119#Minute 24|im Transkript]]
 
-> … aus dem Handelsblatt-Investigativ-Team verfolgen sie, das wissen Sie schon, die Aufarbeitung der Signer-Pleite sehr, sehr eng. In diesem Podcast sprechen wir alle zwei Wochen über die größten Kriminal - und Streitfälle der deutschen Wirtschaft. …
+> … aus dem Handelsblatt-Investigativ-Team verfolgen sie, das wissen Sie schon, die Aufarbeitung der Signa-Pleite sehr, sehr eng. In diesem Podcast sprechen wir alle zwei Wochen über die größten Kriminal - und Streitfälle der deutschen Wirtschaft. …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 1:01](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=61) · [[Transkript 120#Minute 1|im Transkript]]
 
@@ -558,19 +530,19 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 8:07](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=487) · [[Transkript 120#Minute 8|im Transkript]]
 
-> … dieser Überweisung, also am 29. November und damit an dem Tag der Insolvenz der Siegner Holding, überwies Benko dann seinerseits wieder 300.000 Euro an seine Mutter zurück. Und er erhält dann wenige Tage später …
+> … dieser Überweisung, also am 29. November und damit an dem Tag der Insolvenz der Signa Holding, überwies Benko dann seinerseits wieder 300.000 Euro an seine Mutter zurück. Und er erhält dann wenige Tage später …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 15:33](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=933) · [[Transkript 120#Minute 15|im Transkript]]
 
-> … Aufsichtsrat von Syntelix versucht haben, das Unternehmen zu zerstören und in die Insolvenz zu treiben. Das wirft ihm der Chef von Syntelix vor, Utz Klasen. Auch dieser Manager ist nicht erst seit gestern in …
+> … Aufsichtsrat von Syntellix versucht haben, das Unternehmen zu zerstören und in die Insolvenz zu treiben. Das wirft ihm der Chef von Syntellix vor, Utz Claassen. Auch dieser Manager ist nicht erst seit gestern in den …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:50](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=110) · [[Transkript 127#Minute 1|im Transkript]]
 
-> … festhalten, er wollte 200 Millionen Euro Schadensersatz haben von einer Firma, die insolvent war. Ja, ich meine, das war natürlich alles absurd und das Image von Klasen war damit ziemlich ramponiert, aber eben auch …
+> … festhalten, er wollte 200 Millionen Euro Schadensersatz haben von einer Firma, die insolvent war. Ja, ich meine, das war natürlich alles absurd und das Image von Claassen war damit ziemlich ramponiert, aber eben auch …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 40:32](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=2432) · [[Transkript 127#Minute 40|im Transkript]]
 
-> … also nach Auskunft des Amtsgerichts Hannover gab es schon 2022 sogar drei Insolvenzanträge gegen die Syntelix AG. Die wurden aber alle durch Rücknahme des Antrags oder übereinstimmende Erledigungserklärung, so nennt man das, wieder beendet. …
+> … also nach Auskunft des Amtsgerichts Hannover gab es schon 2022 sogar drei Insolvenzanträge gegen die Syntellix AG. Die wurden aber alle durch Rücknahme des Antrags oder übereinstimmende Erledigungserklärung, so nennt man das, wieder beendet. …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:01:01](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=3661) · [[Transkript 127#Minute 61|im Transkript]]
 
@@ -582,11 +554,11 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 10:00](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=600) · [[Transkript 128#Minute 10|im Transkript]]
 
-> … so viel über Cigna. Es geht in diesem Verfahren nicht um die Insolvenz von Cigna, sondern es gibt eine zweite Insolvenz, die betrifft René Benko als Einzelunternehmer. Also die Person René Benko. Und das …
+> … so viel über Signa. Es geht in diesem Verfahren nicht um die Insolvenz von Signa, sondern es gibt eine zweite Insolvenz, die betrifft René Benko als Einzelunternehmer. Also die Person René Benko. Und das …
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 12:47](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=767) · [[Transkript 128#Minute 12|im Transkript]]
 
-> … geht es, worum geht es da jetzt um diese Millionenschäden aus der Signer-Pleite oder noch um was ganz anderes? Ne, immer noch keine Millionenschäden. Es ist wieder ein eher profaner Krider-Vorwurf. Diesmal geht es …
+> … geht es, worum geht es da jetzt um diese Millionenschäden aus der Signa-Pleite oder noch um was ganz anderes? Ne, immer noch keine Millionenschäden. Es ist wieder ein eher profaner Krida-Vorwurf. Diesmal geht es …
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 30:16](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=1816) · [[Transkript 128#Minute 30|im Transkript]]
 
@@ -606,19 +578,19 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 2:22](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=142) · [[Transkript 139#Minute 2|im Transkript]]
 
-> … leben. Lass uns über die GIGAG sprechen. Die hatte kurz vor der Pleite ungefähr 5000 Wohnungen und 1000 Garagen auch noch im Portfolio. Und der regionale Sperrpunkt, so hatte ich das verstanden, war Nordwestdeutschland. …
+> … leben. Lass uns über die Degag sprechen. Die hatte kurz vor der Pleite ungefähr 5000 Wohnungen und 1000 Garagen auch noch im Portfolio. Und der regionale Schwerpunkt, so hatte ich das verstanden, war Nordwestdeutschland. …
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 6:18](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=378) · [[Transkript 139#Minute 6|im Transkript]]
 
-> … gerade gehört haben, die ist vom Oktober 2024, wenige Monate vor der Pleite. Also jetzt muss man wirklich sagen, alle Hannes-Bad-Crime-Hörerinnen und Hörer werden es wissen, die ganze Branche steckt schon seit Jahren in …
+> … gerade gehört haben, die ist vom Oktober 2024, wenige Monate vor der Pleite. Also jetzt muss man wirklich sagen, alle Handelsblatt Crime-Hörerinnen und Hörer werden es wissen, die ganze Branche steckt schon seit Jahren in …
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 10:21](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=621) · [[Transkript 139#Minute 10|im Transkript]]
 
-> … Benko und Co., wir hatten es gerade, waren da schon in der Pleite. Und der Markt, kann man so sagen, der litt wirklich seit Jahren. Ja, und die DGAG war tatsächlich auch keine Ausnahme, …
+> … Benko und Co., wir hatten es gerade, waren da schon in der Pleite. Und der Markt, kann man so sagen, der litt wirklich seit Jahren. Ja, und die Degag war tatsächlich auch keine Ausnahme, …
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 13:37](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=817) · [[Transkript 139#Minute 13|im Transkript]]
 
-> … Hannover. Das Unternehmen kaufte, sanierte und verkaufte Häuser und dann kam die Pleite. Klein musste vor einem Jahr Insolvenz anmelden. Wir haben in der vergangenen Ausgabe von Handelsbutcrime bereits über den Kollaps der Degag …
+> … Hannover. Das Unternehmen kaufte, sanierte und verkaufte Häuser und dann kam die Pleite. Klein musste vor einem Jahr Insolvenz anmelden. Wir haben in der vergangenen Ausgabe von Handelsblatt Crime bereits über den Kollaps der Degag …
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 1:21](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=81) · [[Transkript 140#Minute 1|im Transkript]]
 
@@ -630,19 +602,19 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 33:19](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=1999) · [[Transkript 140#Minute 33|im Transkript]]
 
-> … gebrochen, worum es denn konkret ging. Nämlich im Kern um das private Insolvenzverfahren, das eben Uwe Reppelgatter zwei Jahre zuvor abgeschlossen hatte. Ja und die Staatsanwaltschaft wird Reppelgatter vor seiner Privatinsolvenz eben Vermögenswerte in …
+> … heruntergebrochen, worum es denn konkret ging. Nämlich im Kern um das private Insolvenzverfahren, das eben Uwe Reppegather zwei Jahre zuvor abgeschlossen hatte. Ja und die Staatsanwaltschaft wirft Reppegather vor seiner Privatinsolvenz eben Vermögenswerte in ganz …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 9:33](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=573) · [[Transkript 144#Minute 9|im Transkript]]
 
-> … noch so eine Art Berliner Immobilienboutique ist, Gröner immer noch mit der Insolvenz kämpft, Benko sitzt im Gefängnis, hat Repegata und seine Zentrumgruppe, die haben diese Pleite halt vergleichsweise schnell hinter sich gelassen. Und …
+> … noch so eine Art Berliner Immobilienboutique ist, Gröner immer noch mit der Insolvenz kämpft, Benko sitzt im Gefängnis, hat Reppegather und seine Centrum-Gruppe, die haben diese Pleite halt vergleichsweise schnell hinter sich gelassen. Und …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 11:05](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=665) · [[Transkript 144#Minute 11|im Transkript]]
 
-> … Dem hat er auch eine halbe Million Euro geliehen, bevor Becker privat insolvent gegangen ist. Und er ist auch ein Kumpel von Til Schweiger. Rippegarte hat dem Schweiger zum Beispiel mal geholfen, einen Film …
+> … Dem hat er auch eine halbe Million Euro geliehen, bevor Becker privat insolvent gegangen ist. Und er ist auch ein Kumpel von Til Schweiger. Reppegather hat dem Schweiger zum Beispiel mal geholfen, einen Film …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 20:49](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=1249) · [[Transkript 144#Minute 20|im Transkript]]
 
-> … von Rippegata kollabierte. Und weil Rippegata persönlich mit Bürgschaften haftete, riss die Pleite seiner Gesellschaft Zentrum ihn dann Mitte August 2023 auch mit in den Abgrund. Also das ist die Version Rippegatas. Genau, weil …
+> … von Reppegather kollabierte. Und weil Reppegather persönlich mit Bürgschaften haftete, riss die Pleite seiner Gesellschaft Centrum ihn dann Mitte August 2023 auch mit in den Abgrund. Also das ist die Version Reppegathers. Genau, weil …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 27:02](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=1622) · [[Transkript 144#Minute 27|im Transkript]]
 
@@ -742,10 +714,9 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 48:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2929) · [[Transkript 160#Minute 48|im Transkript]]
 
-## In diesen Folgen (36)
+## In diesen Folgen (33)
 
-- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes · Minute [1:13](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=73), [39:50](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2390), [1:09:30](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4170), [1:19:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=4799)
-- [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — Minute [0:34](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=34), [2:39](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=159), [7:14](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=434), [34:18](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2058)
+- [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — Minute [0:34](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=34), [2:39](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=159), [34:18](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2058), [52:59](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3179)
 - [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37 – Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verbrachte (Teil 2)]] (2023-02-12) — Shownotes · Minute [31:49](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=1909), [34:36](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2076), [42:49](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2569)
 - [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes · Minute [0:59](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=59), [3:28](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=208), [6:40](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=400), [33:49](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=2029)
 - [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes · Minute [1:34](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=94), [4:32](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=272), [11:20](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=680), [16:13](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=973)
@@ -755,16 +726,14 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 - [[060 René Benko Er war der Mann der ganz großen Show|#60 – René Benko: Er war der Mann der ganz großen Show]] (2023-12-02) — Minute [4:17](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=257), [9:25](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=565), [19:00](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=1140), [40:48](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=2448)
 - [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62 – Nächste Insolvenzen, neue Vorwürfe: Weitere Turbulenzen im Benko-Imperium]] (2023-12-16) — Shownotes · Minute [0:19](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=19), [2:15](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=135), [3:59](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=239), [5:30](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=330)
 - [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67 – Der Elbtower in Hamburg: Desaster mit Ansage]] (2024-02-10) — Shownotes · Minute [0:49](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=49), [2:44](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=164), [14:02](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=842), [15:57](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=957)
-- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:55](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=55), [41:47](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2507), [56:00](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3360)
 - [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78 – Das geheimnisvolle Immobilienportfolio der Familie Benko]] (2024-05-18) — Shownotes · Minute [0:11](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=11), [2:56](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=176), [4:51](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=291), [12:46](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=766)
 - [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Shownotes · Minute [0:17](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=17), [4:31](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=271), [23:39](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1419), [25:58](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1558)
-- [[083 Meet the Team Martin Murphy|#83 – Meet the Team: Martin Murphy]] (2024-06-15) — Shownotes · Minute [5:30](https://open.spotify.com/episode/3EyE9Hn100zkOmBkWStyUM?t=330)
 - [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84 – Der Fall Schlecker: Teil 2 – der Abstieg]] (2024-06-29) — Minute [0:17](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=17), [2:49](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=169), [17:15](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=1035), [23:46](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=1426)
 - [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Shownotes · Minute [17:36](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1056), [22:45](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1365), [30:37](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1837), [47:18](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=2838)
 - [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96 – Interview mit Christoph Gröner: "Ich gehe den Weg konsequent zu Ende und ich ziehe alle Register"]] (2024-08-17) — Shownotes · Minute [5:31](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=331), [10:41](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=641), [23:25](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1405), [26:05](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1565)
 - [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97 – 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen der Soravia-Gruppe zahlen müssen]] (2024-10-06) — Minute [13:36](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=816), [40:57](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=2457), [43:03](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=2583), [45:48](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=2748)
 - [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Minute [1:30](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=90), [7:30](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=450), [11:37](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=697), [30:13](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1813)
-- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [4:43](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=283), [21:44](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1304), [35:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2150)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [4:43](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=283), [20:18](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1218), [22:04](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1324), [35:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2150)
 - [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes · Minute [0:25](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=25), [3:00](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=180), [7:44](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=464), [15:56](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=956)
 - [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Shownotes · Minute [0:00](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=0), [2:18](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=138), [16:30](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=990), [18:37](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=1117)
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes · Minute [1:17](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=77), [8:06](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=486), [16:39](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=999), [20:52](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1252)

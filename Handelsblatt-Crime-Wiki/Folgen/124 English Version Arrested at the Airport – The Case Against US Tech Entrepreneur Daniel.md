@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, sonder]
 | **Datum** | 2025-09-02 |
 | **Dauer** | 29:21 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ) · [MP3](https://audio.podigee-cdn.net/2091589-m-3f3fa0361dfe126fde8cc8f56daaf11c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/124-arrested-at-the-airport) |
-| **Transkript** | [[Transkript 124]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 124]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Daniel Starr]] |
 | **Themen** | – |
 | **Unternehmen** | – |
-| **Personen** | [[Daniel Starr]] |
-| **Kurz erwähnt** | [[Tesla-Files]], [[Elon Musk]], [[Tesla]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Daniel Starr]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 
@@ -45,7 +45,7 @@ https://www.handelsblatt.com/unternehmen/industrie/justizaffaere-us-investor-for
 
 ## Zeitmarken
 
-- [0:01](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=1) – Dear listeners, welcome to a special edition of Handel's Flot Crime. A few days ago, we released an … ([[Transkript 124#Minute 0|Transkript]])
+- [0:01](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=1) – Dear listeners, welcome to a special edition of Handelsblatt Crime. A few days ago, we released an episode … ([[Transkript 124#Minute 0|Transkript]])
 - [2:02](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=122) – And, um, he said, I don't know. Um, I have a European arrest warrant to get you. This … ([[Transkript 124#Minute 2|Transkript]])
 - [4:05](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=245) – Right. That's something most of us remember from the backseat of a car. Things took off quickly. After … ([[Transkript 124#Minute 4|Transkript]])
 - [6:07](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=367) – I arrived at the police station, or jail, asked them what I had done wrong. They also said … ([[Transkript 124#Minute 6|Transkript]])

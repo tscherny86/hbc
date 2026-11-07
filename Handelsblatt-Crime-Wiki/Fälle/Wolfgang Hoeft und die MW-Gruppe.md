@@ -26,7 +26,7 @@ Der Fall zeigt die typischen Muster des grauen Kapitalmarkts: hohe Renditeverspr
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 0:54](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=54) · [[Transkript 112#Minute 0|im Transkript]]
 
-> … der Staatsanwaltschaft dabei. Und vor allem die Kriminalakte eines Mannes, nämlich Wolfgang Höft. Das ist der Strippenzieher in verschiedenen Unternehmen der sogenannten MW-Gruppe. MW-Gruppe, muss man die kennen? Also mir sagte das jetzt jedenfalls …
+> … der Staatsanwaltschaft dabei. Und vor allem die Kriminalakte eines Mannes, nämlich Wolfgang Hoeft. Das ist der Strippenzieher in verschiedenen Unternehmen der sogenannten MW-Gruppe. MW-Gruppe, muss man die kennen? Also mir sagte das jetzt jedenfalls …
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 3:56](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=236) · [[Transkript 112#Minute 3|im Transkript]]
 
@@ -34,7 +34,7 @@ Der Fall zeigt die typischen Muster des grauen Kapitalmarkts: hohe Renditeverspr
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 5:39](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=339) · [[Transkript 112#Minute 5|im Transkript]]
 
-> … lange her wegen Insolvenzverschleppung. Und das sind nur die Fälle, in denen Höft tatsächlich auch eine Strafe bekommen hat. Insgesamt trat Höft seit 1990, und ich habe das durchgezählt, 23 Mal strafrechtlich in Erscheinung, …
+> … lange her wegen Insolvenzverschleppung. Und das sind nur die Fälle, in denen Hoeft tatsächlich auch eine Strafe bekommen hat. Insgesamt trat Hoeft seit 1990, und ich habe das durchgezählt, 23 Mal strafrechtlich in Erscheinung, …
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 7:19](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=439) · [[Transkript 112#Minute 7|im Transkript]]
 

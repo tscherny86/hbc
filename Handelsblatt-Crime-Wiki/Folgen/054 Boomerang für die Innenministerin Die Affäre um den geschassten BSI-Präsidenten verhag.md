@@ -18,11 +18,11 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-09-23 |
 | **Dauer** | 54:07 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd) · [MP3](https://audio.podigee-cdn.net/1192777-m-3aec6d44ed0cb2cf330af15c463488f9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/54-neue-episode) |
-| **Transkript** | [[Transkript 054]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 054]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[BSI-Affäre Schönbohm]] |
-| **Themen** | [[Spionage]], [[Cyberangriff und Ransomware]] |
-| **Unternehmen** | [[BSI]], [[Handelsblatt]] |
-| **Personen** | [[Arne Schönbohm]], [[Nancy Faeser]] |
+| **Themen** | – |
+| **Unternehmen** | [[BSI]] |
+| **Personen** | [[Lars-Marten Nagel]], [[Arne Schönbohm]], [[Nancy Faeser]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes
@@ -61,16 +61,16 @@ Der unsichtbare Krieg: Globale Hackerbanden bedrohen Deutschland – betroffene 
 - [25:05](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1505) – Und dann gehört zur Wahrheit auch dazu, dass dieses Event auch zahlreiche Sicherheitspolitiker und andere Akteure deutscher Sicherheitsbehörden … ([[Transkript 054#Minute 25|Transkript]])
 - [27:06](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1626) – Das war ja schon ein paar Jahre her eigentlich. Und dann habe ich die Sendung gesehen, dachte mir … ([[Transkript 054#Minute 27|Transkript]])
 - [29:09](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1749) – Trotzdem hat jemand, der aus dem Ministerium kommt, an diesem Sonntag mit Medien gesprochen und dann die durchgestochen, … ([[Transkript 054#Minute 29|Transkript]])
-- [31:20](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1880) – Wir haben den Brief vorliegen und wir können eben mal reinhören, was Schönbum da genau geschrieben hat. Die … ([[Transkript 054#Minute 31|Transkript]])
-- [33:25](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2005) – Und Schönbrum, der hat dann kurz darauf, auch das wissen wir, mit einem Staatssekretär telefoniert, dem Herrn Richter. … ([[Transkript 054#Minute 33|Transkript]])
+- [31:20](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1880) – Wir haben den Brief vorliegen und wir können eben mal reinhören, was Schönbohm da genau geschrieben hat. Die … ([[Transkript 054#Minute 31|Transkript]])
+- [33:25](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2005) – Und Schönbohm, der hat dann kurz darauf, auch das wissen wir, mit einem Staatssekretär telefoniert, dem Herrn Richter. … ([[Transkript 054#Minute 33|Transkript]])
 - [35:29](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2129) – Der Präsident, den die hatte, der wollte gar nicht weg. Die hatten den Alexander Eisvogel, ehemaligen Vizepräsident des … ([[Transkript 054#Minute 35|Transkript]])
-- [37:43](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2263) – Das bedeutet im Endeffekt, egal ob es jetzt in dieser Affäre Fehlverhalten gibt oder nicht, Schirmum muss weg. … ([[Transkript 054#Minute 37|Transkript]])
+- [37:43](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2263) – Das bedeutet im Endeffekt, egal ob es jetzt in dieser Affäre Fehlverhalten gibt oder nicht, Schönbohm muss weg. … ([[Transkript 054#Minute 37|Transkript]])
 - [39:56](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2396) – Also wir können das nicht bis ins Letzte nachvollziehen. Das sind Bereiche, in denen verlässliche Informationen nur sehr … ([[Transkript 054#Minute 39|Transkript]])
-- [41:58](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2518) – Also die Leute, von denen wir wissen, die waren nicht so happy damit. Und Schönbrunn selber hat am … ([[Transkript 054#Minute 41|Transkript]])
+- [41:58](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2518) – Also die Leute, von denen wir wissen, die waren nicht so happy damit. Und Schönbohm selber hat am … ([[Transkript 054#Minute 41|Transkript]])
 - [44:03](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2643) – Aber im Endeffekt, und das hat man der Veranstaltung auch angemerkt, der Mann, der da jetzt hinkam, der … ([[Transkript 054#Minute 44|Transkript]])
 - [46:14](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2774) – Da fällt dann auf, dass also so eine Bild-Zeitung fast täglich irgendwo in großen Berichten über diese Mobbing-Klage … ([[Transkript 054#Minute 46|Transkript]])
-- [48:19](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2899) – Und was man jetzt sozusagen auch viel gegen Feser auslegt, ist sozusagen ihr Verhalten. Es ist ja so … ([[Transkript 054#Minute 48|Transkript]])
-- [50:21](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=3021) – Der hat sowohl Feser verklagt als auch Böhmermann. Vom Böhmermann fordert er 100.000 Euro Schmerzensgeld oder vom ZDF … ([[Transkript 054#Minute 50|Transkript]])
+- [48:19](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=2899) – Und was man jetzt sozusagen auch viel gegen Faeser auslegt, ist sozusagen ihr Verhalten. Es ist ja so … ([[Transkript 054#Minute 48|Transkript]])
+- [50:21](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=3021) – Der hat sowohl Faeser verklagt als auch Böhmermann. Vom Böhmermann fordert er 100.000 Euro Schmerzensgeld oder vom ZDF … ([[Transkript 054#Minute 50|Transkript]])
 - [52:28](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=3148) – Wir werden angehalten, Fakten nüchtern zu referieren und bei Verdachtsberichterstattung auch einen Verdacht immer als Verdacht zu kennzeichnen … ([[Transkript 054#Minute 52|Transkript]])
 - [54:29](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=3269) – Danke. Vielen Dank. Liebe Zuhörerinnen und Zuhörer, wir hoffen natürlich, dass wir diesen spannenden und komplexen Fall für … ([[Transkript 054#Minute 54|Transkript]])
 

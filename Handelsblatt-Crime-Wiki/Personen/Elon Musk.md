@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 10
+folgen: 9
 tags: [personen]
 ---
 # Elon Musk
@@ -22,10 +22,6 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 
 ## Was im Podcast gesagt wird
 
-> … schon gestorben oder, na gut, das allergrößte Beispiel haben wir jetzt mit Elon Musk, der ja keine fünf Minuten ohne Öffentlichkeit, jedenfalls nicht ohne digitale Öffentlichkeit auszuhalten scheint. Ja, das ist so, das sind …
->
-> — [[043 Alarm bei Aldi Ist ein Familienstreit Schuld an den Problemen|#43]], [Minute 19:29](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1169) · [[Transkript 043#Minute 19|im Transkript]]
-
 > … für Innovation und für den Mut voranzuschreiten. Die große Hoffnung für Konzernchef Elon Musk ist der Autopilot. Im Juni 2022 hat er mal gesagt, einen funktionierenden Autopiloten zu entwickeln, entscheide darüber, ob Tesla viel …
 >
 > — [[045 Tesla-Files Die Hintergründe zum Datenleck|#45]], [Minute 0:09](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=9) · [[Transkript 045#Minute 0|im Transkript]]
@@ -46,11 +42,11 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 0:07](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=7) · [[Transkript 058#Minute 0|im Transkript]]
 
-> … zu sagen, dass das kein Spion war. Das war kein Tesla-Feind oder Elon Musk-Hasser oder so, sondern Lukas Skrubski war ein wahnsinniger Fan, sowohl von Tesla als auch von Elon Musk. Wir kennen seinen …
+> … zu sagen, dass das kein Spion war. Das war kein Tesla-Feind oder Elon Musk-Hasser oder so, sondern Lukasz Krupski war ein wahnsinniger Fan, sowohl von Tesla als auch von Elon Musk. Wir kennen seinen ganzen …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 3:01](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=181) · [[Transkript 058#Minute 3|im Transkript]]
 
-> … von 2023 war, das war damals kaum profitabel. Im Jahr vorher, sagt Elon Musk, sind sie an der Insolvenz vorbeigeschrammt und ein Unternehmen sozusagen in diesem labilen Stadion, wenn die so eine schlechte Nachricht …
+> … von 2023 war, das war damals kaum profitabel. Im Jahr vorher, sagt Elon Musk, sind sie an der Insolvenz vorbeigeschrammt und ein Unternehmen sozusagen in diesem labilen Stadium, wenn die so eine schlechte Nachricht abbekommen …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 7:11](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=431) · [[Transkript 058#Minute 7|im Transkript]]
 
@@ -74,9 +70,9 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 13:39](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=819) · [[Transkript 063#Minute 13|im Transkript]]
 
-> … ein Teil von dir. Ja, und dann habe ich die E-Mail von Elon Musk gehalten. Ihm habe ich geantwortet, keine Sorge, jeder hätte das Gleiche getan. Ich bin ein großer Fan von dir. Er …
+> … Es wird ein Teil von dir. Ja, und dann habe ich die E-Mail von Elon Musk erhalten. Ihm habe ich geantwortet, keine Sorge, jeder hätte das Gleiche getan. Ich bin ein großer Fan von dir. Er hat mich …
 >
-> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 15:47](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=947) · [[Transkript 063#Minute 15|im Transkript]]
+> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 15:46](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=946) · [[Transkript 063#Minute 15|im Transkript]]
 
 > … einer Million Datensätzen, die auch die Sozialversicherungsnummern beinhalteten, unter anderem die von Elon Musk selbst. Und die Frage ist, wie haben sie sich da gefühlt, als sie die Sozialversicherungsnummer von Elon Musk plötzlich auf …
 >
@@ -94,6 +90,10 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 26:16](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1576) · [[Transkript 064#Minute 26|im Transkript]]
 
+> … mir einfach so wünschen würde, wünschen darf, würde ich sagen, ob nicht Herr Musk mal das Telefon abnimmt, wenn wir ihn anrufen. denn wir versuchen jetzt seit einem halben Jahr Antworten von Tesla zu bekommen …
+>
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:10:20](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4220) · [[Transkript 064#Minute 70|im Transkript]]
+
 > … geflogen. Ansonsten, naja, wenn wir über Milliardäre sprechen, ich würde auch mal Elon Musk antreffen, über den wir ja schon seit jetzt einem Dreivierteljahr intensiv schreiben. Ich fürchte, das wird nichts mehr, so wie …
 >
 > — [[077 Meet the Team Investigativ-Chef Sönke Iwersen|#77]], [Minute 9:52](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=592) · [[Transkript 077#Minute 9|im Transkript]]
@@ -106,7 +106,7 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 0:31](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=31) · [[Transkript 110#Minute 0|im Transkript]]
 
-> … Buch vorzustellen. Euer Buch heißt Die Tesla-Fights. Enthüllungen aus dem Reich von Elon Musk. Und es ist am 20. März erschienen. Man kann es also schon lesen, wenn man will. Und ich habe hier …
+> … Buch vorzustellen. Euer Buch heißt Die Tesla-Files. Enthüllungen aus dem Reich von Elon Musk. Und es ist am 20. März erschienen. Man kann es also schon lesen, wenn man will. Und ich habe hier …
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 2:33](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=153) · [[Transkript 110#Minute 2|im Transkript]]
 
@@ -118,27 +118,15 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 6:22](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=382) · [[Transkript 110#Minute 6|im Transkript]]
 
-> … bisschen wild, aber wir haben in der Tesla-Sache zum Beispiel, bei der Elon Musk-Sache, da gab es mal ein Interview von genau dem J.D. Vance, dass der gesagt hat, wenn die Europäische Kommission nicht …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 38:37](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2317) · [[Transkript 123#Minute 38|im Transkript]]
-
-> … stellen wir unser neues Buch, die Tesla-Files, Enthüllungen aus dem Reich von Elon Musk vor. Es geht los um 20 Uhr, Einlass ist um 19 Uhr und die Tickets gibt es auf zAK.de. Sorry, …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 42:25](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2545) · [[Transkript 123#Minute 42|im Transkript]]
-
-> … may sound wild, but we've seen this before. Think of Tesla and Elon Musk when J.D. Vance suggested the US might reconsider NATO commitments if the EU pressed too hard. Law and politics blurred …
->
-> — [[124 English Version Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel|#124]], [Minute 27:20](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=1640) · [[Transkript 124#Minute 27|im Transkript]]
-
 > … federal regulators about these very issues, and they did nothing about it. Musk would then go on TV and in response to a terrible tragedy, he would go into a shareholders meeting or to …
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 0:29](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=29) · [[Transkript 125#Minute 0|im Transkript]]
 
-> … in Düsseldorf im ZAK und sprechen da über all die Geschichten, die Elon Musk lieber verborgen gehalten hätte. Und wir würden uns natürlich freuen, wenn auch einige Hörer kommen und Fragen stellen und uns …
+> … in Düsseldorf im Zakk und sprechen da über all die Geschichten, die Elon Musk lieber verborgen gehalten hätte. Und wir würden uns natürlich freuen, wenn auch einige Hörer kommen und Fragen stellen und uns …
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 4:04](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=244) · [[Transkript 125#Minute 4|im Transkript]]
 
-> … im Kontrast dazu steht, wie Tesla das... Berührt. Genau. Vor allem voran Elon Musk, der ständig suggeriert, schon seit Jahren, dass es gar nicht nötig ist. Dass es eher so ist, du steigst einfach …
+> … im Kontrast dazu steht, wie Tesla das... Bewirbt. Genau. Vor allem voran Elon Musk, der ständig suggeriert, schon seit Jahren, dass es gar nicht nötig ist. Dass es eher so ist, du steigst einfach …
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 13:11](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=791) · [[Transkript 125#Minute 13|im Transkript]]
 
@@ -154,7 +142,7 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 4:39](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=279) · [[Transkript 142#Minute 4|im Transkript]]
 
-> … wollten, dass die E-Metall sich durchsetzt. Und ganz oben ein Sieg für Elon Musk. Also, wir haben es jetzt schon quasi vorweggenommen. Das ganze Elon Musk hat seinen Willen bekommen. Die E-Metall ist nicht …
+> … wollten, dass die IG Metall sich durchsetzt. Und ganz oben ein Sieg für Elon Musk. Also, wir haben es jetzt schon quasi vorweggenommen. Das ganze Elon Musk hat seinen Willen bekommen. Die IG Metall ist nicht …
 >
 > — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 12:52](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=772) · [[Transkript 142#Minute 12|im Transkript]]
 
@@ -182,25 +170,22 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 8:19](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=499) · [[Transkript 162#Minute 8|im Transkript]]
 
-## In diesen Folgen (10)
+## In diesen Folgen (9)
 
 - [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Shownotes · Minute [0:09](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=9), [6:12](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=372), [8:20](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=500), [32:15](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1935)
 - [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Shownotes · Minute [0:07](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=7), [3:01](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=181), [7:11](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=431), [8:44](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=524)
 - [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61 – Crime-Investigativ: Jetzt spricht erstmals der Whistleblower über die Tesla-Files]] (2023-11-10) — Minute [0:14](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=14), [2:46](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=166)
-- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:42](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=42), [13:39](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=819), [15:47](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=947), [22:48](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1368)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [21:28](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1288), [23:11](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1391), [26:16](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1576)
+- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:42](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=42), [13:39](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=819), [15:46](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=946), [22:48](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1368)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [21:28](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1288), [23:11](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1391), [26:16](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1576), [1:10:20](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4220)
 - [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes · Minute [0:31](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=31), [2:33](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=153), [4:04](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=244), [6:22](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=382)
-- [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123 – Der Fall Daniel Starr: Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nicht, warum]] (2025-08-24) — Minute [38:37](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2317), [42:25](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2545)
 - [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Minute [0:29](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=29), [4:04](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=244), [13:11](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=791), [17:44](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=1064)
 - [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Shownotes · Minute [0:22](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=22), [4:39](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=279), [12:52](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=772), [15:58](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=958)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [0:58](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=58), [4:05](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=245), [6:21](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=381), [8:19](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=499)
 
-## Kurz erwähnt (5)
+## Kurz erwähnt (3)
 
-- [[043 Alarm bei Aldi Ist ein Familienstreit Schuld an den Problemen|#43 – Alarm bei Aldi: Ist ein Familienstreit Schuld an den Problemen?]] (2023-05-07) — Minute [19:29](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1169)
 - [[077 Meet the Team Investigativ-Chef Sönke Iwersen|#77 – Meet the Team: Investigativ-Chef Sönke Iwersen]] (2024-05-04) — Minute [9:52](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=592)
 - [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97 – 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen der Soravia-Gruppe zahlen müssen]] (2024-10-06) — Minute [1:07:58](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=4078)
-- [[124 English Version Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel|#124 – English Version: Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel Starr]] (2025-09-02) — Minute [27:20](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=1640)
 - [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [37:48](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2268)
 
 ---

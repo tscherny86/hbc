@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, team]
 | **Datum** | 2024-07-28 |
 | **Dauer** | 17:32 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o) · [MP3](https://audio.podigee-cdn.net/1545806-m-a7eae392d2a8cb8c9804d646359e6786.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/92-volker-votsmeier) |
-| **Transkript** | [[Transkript 092]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 092]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Wirecard]] |
 | **Themen** | [[Cum-Ex-Geschäfte]] |
-| **Unternehmen** | [[Handelsblatt]] |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Stephan von Erffa]], [[Hanno Berger]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Markus Braun]], [[Whistleblower]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
+| **Unternehmen** | – |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]] |
+| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Markus Braun]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 
 ## Shownotes
 

@@ -18,11 +18,11 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-11-10 |
 | **Dauer** | 7:50 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py) · [MP3](https://audio.podigee-cdn.net/1276025-m-cb317259a2a57c6f95a84c4080d7005e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/61-neue-episode) |
-| **Transkript** | [[Transkript 061]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 061]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]] |
 | **Unternehmen** | [[Tesla]] |
-| **Personen** | [[Sönke Iwersen]], [[Elon Musk]] |
+| **Personen** | [[Sönke Iwersen]], [[Elon Musk]], [[Lukasz Krupski]] |
 | **Kurz erwähnt** | [[Compliance]] |
 
 ## Shownotes
@@ -37,7 +37,7 @@ Das Gespräch finden Sie in voller Länge samt Video hier: Zum Podcast
 ## Zeitmarken
 
 - [0:03](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=3) – Wir vom Handelsblatt haben heute eine Überraschung für Sie, auf die ich Sie unbedingt aufmerksam machen möchte. Ich … ([[Transkript 061#Minute 0|Transkript]])
-- [2:08](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=128) – Ich habe da viel über Tesla-Kritiker gelesen, über die Sachen, die Christina Ballard, Martin Tripp und Karl Hansen … ([[Transkript 061#Minute 2|Transkript]])
+- [2:08](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=128) – Ich habe da viel über Tesla-Kritiker gelesen, über die Sachen, die Cristina Balan, Martin Tripp und Karl Hansen … ([[Transkript 061#Minute 2|Transkript]])
 - [4:14](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=254) – Man kann Dateien anhängen und kommentieren und darüber diskutieren, wie man Dinge regelt. Sagen wir, es gibt einen … ([[Transkript 061#Minute 4|Transkript]])
 - [6:20](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=380) – Ich brauchte also jemanden, der sich das ansehen konnte, und entschied mich, zu den Behörden zu gehen. Und … ([[Transkript 061#Minute 6|Transkript]])
 

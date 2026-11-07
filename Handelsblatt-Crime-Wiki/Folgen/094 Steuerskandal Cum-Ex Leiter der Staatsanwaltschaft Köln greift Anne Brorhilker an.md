@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-09-08 |
 | **Dauer** | 1:13:23 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ) · [MP3](https://audio.podigee-cdn.net/1562726-m-39c10fdea8941f84cf6246cf2612290d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/94-neue-episode) |
-| **Transkript** | [[Transkript 094]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 094]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Staatsanwaltschaft Köln]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Benjamin Limbach]], [[Peter Biesenbach]], [[Stephan Neuheuser]] |
-| **Kurz erwähnt** | [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[KPMG]], [[M.M. Warburg]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Steuerfahndung]], [[Landesbanken]], [[KPMG]], [[M.M. Warburg]] |
 
 ## Shownotes
 
@@ -46,21 +46,21 @@ Hier geht es zur Umfrage.
 
 ## Zeitmarken
 
-- [0:02](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2) – An sich war es total einfach. Man hat einfach in die Staatskrasse gegriffen mit Aktienstrategien oder Handelsstrategien, die … ([[Transkript 094#Minute 0|Transkript]])
+- [0:02](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2) – An sich war es total einfach. Man hat einfach in die Staatskasse gegriffen mit Aktienstrategien oder Handelsstrategien, die … ([[Transkript 094#Minute 0|Transkript]])
 - [2:10](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=130) – Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Sönke und Volker. Hallo Ina. … ([[Transkript 094#Minute 2|Transkript]])
 - [4:13](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=253) – Und ich hoffe natürlich den Hörerinnen und Hörern auch nicht. Also das hoffe ich zumindest auch. Mir wird … ([[Transkript 094#Minute 4|Transkript]])
 - [6:15](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=375) – Und man muss natürlich auch sagen, nur weil sie nicht drüber reden konnte, hat uns das ja nicht … ([[Transkript 094#Minute 6|Transkript]])
-- [8:16](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=496) – Und es war ja auch eine irre Situation, die Bräuchelker, weltweit anerkannt als Topladenmittlerin mit 10, 11 Jahren … ([[Transkript 094#Minute 8|Transkript]])
-- [10:26](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=626) – Und wie gesagt, Herr Schick hat Frau Bräuchelke immer sehr gelobt. Und dass jetzt das ausgerechnet seinem Parteikollege … ([[Transkript 094#Minute 10|Transkript]])
-- [12:27](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=747) – Ja, nicht so, wie man jetzt denken könnte, nachdem die Pläne verworfen wurden und der Bräuhilke neue Stellen … ([[Transkript 094#Minute 12|Transkript]])
+- [8:16](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=496) – Und es war ja auch eine irre Situation, die Brorhilker, weltweit anerkannt als Top-Ermittlerin mit 10, 11 Jahren … ([[Transkript 094#Minute 8|Transkript]])
+- [10:26](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=626) – Und wie gesagt, Herr Schick hat Frau Brorhilker immer sehr gelobt. Und dass jetzt das ausgerechnet seinem Parteikollege … ([[Transkript 094#Minute 10|Transkript]])
+- [12:27](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=747) – Ja, nicht so, wie man jetzt denken könnte, nachdem die Pläne verworfen wurden und der Brorhilker neue Stellen … ([[Transkript 094#Minute 12|Transkript]])
 - [14:28](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=868) – Was machen die? Die ermitteln, sie schreiben Berichte und sie schreiben irgendwann Anklagen, wenn sie zu dem Ergebnis … ([[Transkript 094#Minute 14|Transkript]])
 - [16:28](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=988) – Also der Minister, muss man ja wirklich sagen, lässt sie so ein bisschen als Minderleisterin dastehen, oder? Ja, … ([[Transkript 094#Minute 16|Transkript]])
-- [18:31](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1111) – Was sagt denn Limbachs Vorgänger über Brorheker? Ja, also der Vorgänger von Herrn Limbach, das war der Herr … ([[Transkript 094#Minute 18|Transkript]])
-- [20:32](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1232) – Brorheker geht. Sie wird gar nicht rausgebrochen. Sie geht von selbst. Das Problem ist halt, dass diese Justizmaschine, … ([[Transkript 094#Minute 20|Transkript]])
+- [18:31](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1111) – Was sagt denn Limbachs Vorgänger über Brorhilker? Ja, also der Vorgänger von Herrn Limbach, das war der Herr … ([[Transkript 094#Minute 18|Transkript]])
+- [20:32](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1232) – Brorhilker geht. Sie wird gar nicht rausgebrochen. Sie geht von selbst. Das Problem ist halt, dass diese Justizmaschine, … ([[Transkript 094#Minute 20|Transkript]])
 - [22:36](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1356) – Teilt der Minister diese Aussagen? Diese Ausführungen beruhen auf Wahrnehmungen und Einschätzungen des zur Ausübung der Dienst - … ([[Transkript 094#Minute 22|Transkript]])
 - [24:39](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1479) – Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz. Alles aus einer Hand. Zusammen für Ihr Business. Vodafone. Lass … ([[Transkript 094#Minute 24|Transkript]])
-- [26:43](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1603) – So heißt nämlich auch der Artikel dazu. Wir wollen jetzt genau verstehen, warum Brorheker hingeschmissen hat. Und deswegen … ([[Transkript 094#Minute 26|Transkript]])
-- [28:50](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1730) – Und deswegen hat damals der Chef von Frau Bräuchelker den Fall an sich gezogen, weil er erkannt hat, … ([[Transkript 094#Minute 28|Transkript]])
+- [26:43](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1603) – So heißt nämlich auch der Artikel dazu. Wir wollen jetzt genau verstehen, warum Brorhilker hingeschmissen hat. Und deswegen … ([[Transkript 094#Minute 26|Transkript]])
+- [28:50](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1730) – Und deswegen hat damals der Chef von Frau Brorhilker den Fall an sich gezogen, weil er erkannt hat, … ([[Transkript 094#Minute 28|Transkript]])
 - [30:52](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1852) – Und da kann ich richtig was bewegen vielleicht auch. Ja, wie gesagt, das war ein bisschen später, ein … ([[Transkript 094#Minute 30|Transkript]])
 - [32:53](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1973) – Also sie musste sich ja dann auch irgendwie als Laien zurechtfinden. Wir hatten es ja schon gesagt, das … ([[Transkript 094#Minute 32|Transkript]])
 - [34:53](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2093) – Und damals hat sie zusammen mit der europäischen Justizbehörde Eurojust eine der größten internationalen Razzien aller Zeiten organisiert. … ([[Transkript 094#Minute 34|Transkript]])
@@ -72,9 +72,9 @@ Hier geht es zur Umfrage.
 - [47:22](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2842) – Aber mit diesen ganzen Daten wird Nordrhein-Westfalen jetzt wirklich zu dem Wissenszentrum Cum-Ex in Deutschland. Wenn nicht weltweit. … ([[Transkript 094#Minute 47|Transkript]])
 - [49:26](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2966) – Und das ist halt das Geld der Steuerzahler. Also das ist unser aller Geld. Und deswegen hat das … ([[Transkript 094#Minute 49|Transkript]])
 - [51:32](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3092) – Was genau, vielleicht mag ich es mal zusammenfassen, hat Steck über Berger im Endeffekt gesagt, denke ich. Alles. … ([[Transkript 094#Minute 51|Transkript]])
-- [53:35](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3215) – Also Volker, ich finde, man muss schon sagen, da klingt ein gewisser Respekt Richtung Rohilka durch. Ja, also … ([[Transkript 094#Minute 53|Transkript]])
+- [53:35](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3215) – Also Volker, ich finde, man muss schon sagen, da klingt ein gewisser Respekt Richtung Brorhilker durch. Ja, also … ([[Transkript 094#Minute 53|Transkript]])
 - [55:40](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3340) – Ja, klar. Also wenn du hörst, dass der Kronzeuge sich so über deine Staatsanwältin äußert und wenn du … ([[Transkript 094#Minute 55|Transkript]])
-- [57:47](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3467) – Also die Kollegen, die da an dem Bohrhelgers Büro vorbeikommen, können sie dann für lauter Aktenordnern und Kisten … ([[Transkript 094#Minute 57|Transkript]])
+- [57:47](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3467) – Also die Kollegen, die da an dem Brorhilkers Büro vorbeikommen, können sie dann für lauter Aktenordnern und Kisten … ([[Transkript 094#Minute 57|Transkript]])
 - [59:49](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3589) – Und offenbar gab es auch lauten Streit zwischen den beiden. Okay. Was genau bedeutet das? Ja, die beiden … ([[Transkript 094#Minute 59|Transkript]])
 - [1:02:01](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3721) – Ja, ganz genau. Also die Frage ist ja, die du stellst, warum feiert sich eigentlich die Politik nicht … ([[Transkript 094#Minute 62|Transkript]])
 - [1:04:10](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3850) – Das muss wahnsinnig frustrierend gewesen sein für eine Staatsanwältin, die sich dann zu diesem Zeitpunkt seit drei Jahren … ([[Transkript 094#Minute 64|Transkript]])

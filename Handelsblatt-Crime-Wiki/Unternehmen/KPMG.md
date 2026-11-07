@@ -28,7 +28,7 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 37:02](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2222) · [[Transkript 004#Minute 37|im Transkript]]
 
-> … die die Lage seines Konzerns zum Beispiel zum Ende der Sonderprüfung von KPMG hin kurz vor dem Untergang viel zu roh sich dargestellt haben? Hat er eventuell Untreue begangen? Also ist da Geld aus …
+> … die die Lage seines Konzerns zum Beispiel zum Ende der Sonderprüfung von KPMG hin kurz vor dem Untergang viel zu rosig dargestellt haben? Hat er eventuell Untreue begangen? Also ist da Geld aus dem Konzern in …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 44:23](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2663) · [[Transkript 004#Minute 44|im Transkript]]
 
@@ -36,7 +36,7 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 8:25](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=505) · [[Transkript 007#Minute 8|im Transkript]]
 
-> … Kurz nachdem der Fonds sozusagen aufgesetzt wurde, gibt er bei der Wirtschaftsprüfgesellschaft KPMG Indien die Prüfung, also die Due Diligence Prüfung des Hermes Geschäfts in Auftrag. Genau, Due Diligence müssen wir vielleicht für die, …
+> … Kurz nachdem der Fonds sozusagen aufgesetzt wurde, gibt er bei der Wirtschaftsprüfungsgesellschaft KPMG Indien die Prüfung, also die Due Diligence Prüfung des Hermes Geschäfts in Auftrag. Genau, Due Diligence müssen wir vielleicht für die, …
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 16:44](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1004) · [[Transkript 007#Minute 16|im Transkript]]
 
@@ -44,7 +44,7 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 19:47](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1187) · [[Transkript 007#Minute 19|im Transkript]]
 
-> … also, wir haben Asalek, wir haben O'Sullivan. Wir haben einen Partner von KPMG Indien, der schon bei der Due Diligence Prüfung für EMIF dabei war. EMIF ist der Fonds, der in Mauritius aufgelegt wurde, …
+> … haben also, wir haben Marsalek, wir haben O'Sullivan. Wir haben einen Partner von KPMG Indien, der schon bei der Due Diligence Prüfung für EMIF dabei war. EMIF ist der Fonds, der in Mauritius aufgelegt wurde, …
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 37:35](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=2255) · [[Transkript 007#Minute 37|im Transkript]]
 
@@ -56,7 +56,7 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 12:36](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=756) · [[Transkript 025#Minute 12|im Transkript]]
 
-> … guckt und vor allem mit dem Wissen, was man jetzt hat, dass KPMG nämlich goldrichtig lag, dann ist das natürlich an Absurdität eigentlich nicht zu übergeben. Aber klar, das Argument der Anwälte ist, es …
+> … guckt und vor allem mit dem Wissen, was man jetzt hat, dass KPMG nämlich goldrichtig lag, dann ist das natürlich an Absurdität eigentlich nicht zu überbieten. Aber klar, das Argument der Anwälte ist, es gab einen …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 17:26](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1046) · [[Transkript 025#Minute 17|im Transkript]]
 
@@ -68,11 +68,11 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 22:58](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1378) · [[Transkript 029#Minute 22|im Transkript]]
 
-> … jetzt oft genug gesagt, es gibt auch viele Parallelen. Die Sonderuntersuchung von KPMG, die es auch bei Wirecard gab, Vorwürfe der Bilanzmanipulation. Wir haben wieder den Frazier Pairing dabei, der auch wieder früh gewarnt …
+> … jetzt oft genug gesagt, es gibt auch viele Parallelen. Die Sonderuntersuchung von KPMG, die es auch bei Wirecard gab, Vorwürfe der Bilanzmanipulation. Wir haben wieder den Fraser Perring dabei, der auch wieder früh gewarnt hat. …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 41:04](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2464) · [[Transkript 029#Minute 41|im Transkript]]
 
-> … ist dafür, dass die Sonderuntersuchung dieser Pairing-Vorwürfe, die Forensikabteilung der Wirtschaftsprüfer von KPMG aus Deutschland heraus geführt, der verzögert sich Anfang 2022. Und der verzögert sich so, dass Adler dann plötzlich ankündigt, ja, wir …
+> … ist dafür, dass die Sonderuntersuchung dieser Perring-Vorwürfe, die Forensikabteilung der Wirtschaftsprüfer von KPMG aus Deutschland heraus geführt, der verzögert sich Anfang 2022. Und der verzögert sich so, dass Adler dann plötzlich ankündigt, ja, wir …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 43:58](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2638) · [[Transkript 029#Minute 43|im Transkript]]
 
@@ -84,15 +84,15 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 3:18](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=198) · [[Transkript 030#Minute 3|im Transkript]]
 
-> … das Bild von der Schrotflinte bemüht, mit der Pairing schießt. Und dem KPMG-Bericht zufolge ist halt auch 99% des Schrots an dem Punkt vorbeigegangen. Aber Adler hat dann selbst einräumen müssen, dass ein Schrotkörnchen …
+> … das Bild von der Schrotflinte bemüht, mit der Perring schießt. Und dem KPMG-Bericht zufolge ist halt auch 99% des Schrots an dem Punkt vorbeigegangen. Aber Adler hat dann selbst einräumen müssen, dass ein Schrotkörnchen …
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 5:38](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=338) · [[Transkript 030#Minute 5|im Transkript]]
 
-> … Was genau stand drin? Also zuerst mal muss man wissen, dass das KPMG alle Protagonisten anonymisiert hat in seinem Bericht. Also da taucht gar nicht der Name Kana auf, sondern es gibt sozusagen Codenamen. …
+> … Was genau stand drin? Also zuerst mal muss man wissen, dass das KPMG alle Protagonisten anonymisiert hat in seinem Bericht. Also da taucht gar nicht der Name Caner auf, sondern es gibt sozusagen Codenamen. …
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 7:14](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=434) · [[Transkript 030#Minute 7|im Transkript]]
 
-> … parallel offenbar ein hohes Maß an Einfluss auf Führungskräfte von Adler hatte. KPMG hat nämlich festgestellt, dass Jeff De Kana Strategie-Meetings mit Organen der Gesellschaften anberaumt hat und, Zitat, in Personalentscheidungen, Vorbereitung von strategischen …
+> … parallel offenbar ein hohes Maß an Einfluss auf Führungskräfte von Adler hatte. KPMG hat nämlich festgestellt, dass Cevdet Caner Strategie-Meetings mit Organen der Gesellschaften anberaumt hat und, Zitat, in Personalentscheidungen, Vorbereitung von strategischen Entscheidungen und …
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 9:08](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=548) · [[Transkript 030#Minute 9|im Transkript]]
 
@@ -152,7 +152,7 @@ Die Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abh�
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 37:16](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2236) · [[Transkript 094#Minute 37|im Transkript]]
 
-> … 2020, ja, wenige Monate bevor Wirecard zusammenbricht. Gerade sind die Sonderprüfer von KPMG im Haus, die durchleuchten das ganze Unternehmen, auch den E-Miv-Deal, die durchleuchten das Drittpartnergeschäft, über das wir eingangs gesprochen haben. Also …
+> … 2020, ja, wenige Monate bevor Wirecard zusammenbricht. Gerade sind die Sonderprüfer von KPMG im Haus, die durchleuchten das ganze Unternehmen, auch den Emif-Deal, die durchleuchten das Drittpartnergeschäft, über das wir eingangs gesprochen haben. Also …
 >
 > — [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131]], [Minute 25:38](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1538) · [[Transkript 131#Minute 25|im Transkript]]
 

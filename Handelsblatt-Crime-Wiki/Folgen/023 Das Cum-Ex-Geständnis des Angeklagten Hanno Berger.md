@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-08-08 |
 | **Dauer** | 27:05 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl) · [MP3](https://audio.podigee-cdn.net/836893-m-3caee71815962241502f4d8683fad93c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/23-neue-episode) |
-| **Transkript** | [[Transkript 023]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 023]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | [[M.M. Warburg]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]] |
-| **Kurz erwähnt** | [[Steuerfahndung]], [[Handelsblatt]], [[Landgericht Bonn]] |
+| **Kurz erwähnt** | [[Freshfields und Cum-Ex]], [[Freshfields]], [[Landgericht Bonn]] |
 
 ## Shownotes
 

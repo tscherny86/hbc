@@ -30,34 +30,34 @@ Anders als bei Stadler war die Staatsanwaltschaft mit einer Bewährungsstrafe f�
 >
 > — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 16:23](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=983) · [[Transkript 019#Minute 16|im Transkript]]
 
+> … sogar noch mehrere, die mitgeschnitten wurden, unter anderem auch Gespräche von Herrn Hatz mit dem Porsche-Chef Oliver Blume und Hatz-Stellvertreter Michael Steiner. Ja, weshalb hat sie das gemacht? Ich glaube, man wollte letztlich schauen, …
+>
+> — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 18:48](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1128) · [[Transkript 019#Minute 18|im Transkript]]
+
 > … wir da gerade, was genau muss er da gerade machen? Ja, Herr Hatz ist angeklagt in München. In dem Prozess geht es nicht um Volkswagen, sondern um Audi. Audi gilt ja letztlich so ein …
 >
 > — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 21:16](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1276) · [[Transkript 019#Minute 21|im Transkript]]
-
-> … warum Ja beschuldigt sind da der Ex-Audi CEO Robert Stadler dann Herr Hatz früherer Motorenchef über den sprachen wir schon und der Ingenieur Giovanni Parmio und noch ein weiterer Ingenieur und Hatz Parmio und …
->
-> — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 45:59](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=2759) · [[Transkript 019#Minute 45|im Transkript]]
 
 > … darunter waren auch der ehemalige Konzernchef Rupert Stadler und der ehemalige Motorenchef Wolfgang Hatz. Im Juli 2019 erhob die Staatsanwaltschaft Anklage gegen die beiden Top-Manager sowie gegen zwei Ingenieure. Es hat dann nochmal mehr …
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 0:48](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=48) · [[Transkript 046#Minute 0|im Transkript]]
 
-> … was hat die Staatsanwaltschaft gefordert in ihrem Plädoyer? Also, es gab neben Hatz und Stadler noch einen dritten Angeklagten, ein Ingenieur, Giovanni Pamio und bezüglich der beiden Angeklagten Rupert Stadler. Und Giovanni Pamio hat …
+> … Ingenieure und zwei Manager, beziehungsweise der eine ist eigentlich auch Ingenieur, der Wolfgang Hatz, der Motorenentwickler. Der höchstrangige Angeklagte ist Rupert Stadler, langjähriger CEO bei Audi. Und ja, was hat sich jetzt gerade aktuell getan? …
 >
-> — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 4:07](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=247) · [[Transkript 046#Minute 4|im Transkript]]
+> — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 3:02](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=182) · [[Transkript 046#Minute 3|im Transkript]]
 
-> … tatsächlich ein bisschen anders gelaufen. Also, das Gericht hatte ja auch dem Hatz in Aussicht gestellt, mit der Bewährungsstrafe davon zu kommen. Aber die Staatsanwaltschaft will diesem Vorschlag nicht folgen. Die Staatsanwaltschaft sagt, dass …
+> … von 69 Millionen Euro. Und wie sieht das jetzt beim ehemaligen Motorenchef Wolfgang Hatz aus? Also, da ist es tatsächlich ein bisschen anders gelaufen. Also, das Gericht hatte ja auch dem Hatz in Aussicht …
 >
-> — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 5:41](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=341) · [[Transkript 046#Minute 5|im Transkript]]
+> — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 5:35](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=335) · [[Transkript 046#Minute 5|im Transkript]]
 
-> … strafbarer Werbung. Die sind aber trotzdem etwas unterschiedlich gelagert. Also dem Trio Hatz, Pamio und L werfen die Staatsanwälte vor, Motoren für Fahrzeuge der Marken Audi, VW und Porsche entwickelt zu haben, deren Steuerung …
+> … so die Gemengelage in diesem Prozess. Auf der anderen Seite stehen eben Wolfgang Hatz, der ehemalige Motorenchef bei Audi. Der war später auch Porsche-Vorstand. Also war schon sehr lange im VW-Konzern, hat Karriere von Anfang …
 >
-> — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 11:14](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=674) · [[Transkript 046#Minute 11|im Transkript]]
+> — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 10:28](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=628) · [[Transkript 046#Minute 10|im Transkript]]
 
 ## In diesen Folgen (2)
 
-- [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19 – Dieselgate (Teil 3): Volkswagen in den Fängen der Justiz]] (2022-07-31) — Minute [13:36](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=816), [16:23](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=983), [21:16](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1276), [45:59](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=2759)
-- [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46 – Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank]] (2023-06-17) — Shownotes · Minute [0:48](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=48), [4:07](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=247), [5:41](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=341), [11:14](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=674)
+- [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19 – Dieselgate (Teil 3): Volkswagen in den Fängen der Justiz]] (2022-07-31) — Minute [13:36](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=816), [16:23](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=983), [18:48](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1128), [21:16](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1276)
+- [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46 – Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank]] (2023-06-17) — Shownotes · Minute [0:48](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=48), [3:02](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=182), [5:35](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=335), [10:28](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=628)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

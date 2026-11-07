@@ -22,10 +22,6 @@ Der Fall zeigt, wie ein prominenter Sportler mit Ruhm, Geld und einem schwierige
 
 ## Was im Podcast gesagt wird
 
-> … vielen davon gesprochen. Ich kann mich an einen erinnern, die hieß Stefanie Lehmann in Stuttgart-Untertürkheim. Die wurde 2004 befördert zur Filialleiterin. Und da waren sie also die einzige Vollzeitkraft, hatte sonst nur Hilfskräfte. Aber …
->
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 24:36](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1476) · [[Transkript 082#Minute 24|im Transkript]]
-
 > … zu 1 und es geht ins Elfmeterschießen. Plötzlich kramt der deutsche Torhüter Jens Lehmann einen Zettel aus seinem Stutzen. Er liest ihn nochmal genau und was dann passiert, geht als Sommermärchen in die deutsche …
 >
 > — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 0:19](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=19) · [[Transkript 141#Minute 0|im Transkript]]
@@ -45,10 +41,6 @@ Der Fall zeigt, wie ein prominenter Sportler mit Ruhm, Geld und einem schwierige
 ## In diesen Folgen (1)
 
 - [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes · Minute [0:19](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=19), [1:58](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=118), [4:25](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=265), [6:17](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=377)
-
-## Kurz erwähnt (1)
-
-- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Minute [24:36](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1476)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-06-03 |
 | **Dauer** | 19:06 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU) · [MP3](https://audio.podigee-cdn.net/1956956-m-6fb9aca7bdf9f08aec00b0b1d133d3a6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/117-neue-episode) |
-| **Transkript** | [[Transkript 117]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]] |
+| **Transkript** | [[Transkript 117]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Hanno Berger]], [[Kai-Uwe Steck]] |
-| **Kurz erwähnt** | – |
+| **Kurz erwähnt** | [[Warburg Bank und Christian Olearius]], [[Christian Olearius]], [[M.M. Warburg]] |
 
 ## Shownotes
 

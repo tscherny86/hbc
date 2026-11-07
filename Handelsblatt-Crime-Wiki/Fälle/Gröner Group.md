@@ -1,18 +1,20 @@
 ---
-type: unternehmen
+type: faelle
 folgen: 4
-tags: [unternehmen]
+tags: [faelle]
 ---
 # Gröner Group
 
-_Immobiliengruppe des Bauunternehmers Christoph Gröner, die 2025 in die Insolvenz rutschte._
+_Absturz des Berliner Baulöwen Christoph Gröner: vom Projektentwickler-Star zur Insolvenz seiner Gruppe._
 
 ## Erklärung
-Die **Gröner Group** ist die Dachgesellschaft des Immobilienunternehmers Christoph Gröner, der mit der CG Gruppe (später Teil von Consus und Adler) eine der größten Projektentwicklungen Deutschlands aufbaute und sich 2020 mit einem Milliardenportfolio neu aufstellte. Der gelernte Zimmermann steht für die Karriere vom Tellerwäscher zum Milliardär, umgab sich mit Ex-Kanzleramtschef Ronald Pofalla und Ex-Ministerpräsident Günther Oettinger als Berater und zählte Gerhard Schröder zu seinen Vertrauten. Zugleich eckte er mit zur Schau gestelltem Reichtum, Millionenspenden an die CDU und Streitlust an.
+**Christoph Gröner** gründete in den 1990er-Jahren in Leipzig die spätere **CG Gruppe** und wurde mit Wohn- und Büroprojekten in Berlin und anderen Großstädten zu einem der bekanntesten Projektentwickler Deutschlands. Er trat gern öffentlich auf, kündigte an, große Teile seines Vermögens zu spenden, und war in TV-Formaten zu sehen. Nach dem Verkauf von Anteilen an Adler/Consus führte er sein Geschäft als **Gröner Group** weiter.
 
-Mit der Immobilienkrise geriet die Gruppe ab 2023 unter Druck: Handwerker, Berater, das Finanzamt und die Stadtwerke Leipzig warteten auf Geld, Tochterfirmen sahen sich Insolvenzanträgen gegenüber. Gröner verkaufte Porsches, Villen in Südfrankreich und verpfändete Kunst, um Liquidität zu schaffen, und gab sich öffentlich kämpferisch („Ich ziehe alle Register“).
+- **Krise ab 2023:** Steigende Zinsen, teure Baustoffe und der Einbruch der Immobilienpreise trafen Projektentwickler besonders hart. Bei der Gröner Group stockten Baustellen, Handwerker und Geldgeber warteten auf Zahlungen.
+- **2024:** Berichte über verkaufte Luxusautos, verpfändete Anteile und Druck von Gläubigern; Gröner selbst gab sich kämpferisch und wollte das Unternehmen sanieren.
+- **2025:** Für die Gröner Group wurde ein Insolvenzverfahren eröffnet, mehrere Projektgesellschaften folgten. Der Fall steht exemplarisch für die Pleitewelle unter deutschen Projektentwicklern nach der Zinswende.
 
-2025 eröffnete ein Gericht das Insolvenzverfahren über die Gröner Group; auch über sein Privatvermögen läuft ein vorläufiges Verfahren. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Insolvenzverschleppung und Vorenthaltens von Arbeitsentgelt.
+Wie viel Geld Anleger, Banken und Handwerker am Ende verlieren, klärt sich erst im Insolvenzverfahren.
 
 > [!info] Hinweis
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
@@ -48,17 +50,21 @@ Mit der Immobilienkrise geriet die Gruppe ab 2023 unter Druck: Handwerker, Berat
 >
 > — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 10:16](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=616) · [[Transkript 096#Minute 10|im Transkript]]
 
-> … geschrieben, Zitat, wenn Sie jetzt vollstrecken, gefährden Sie die Gesellschaft, also die CG Elementum AG, in Ihrem Bestand. Das ist der Fall. Ich kann Ihnen mit Sicherheit heute schon sagen, dass ohne unser Zutun …
+> … Es geht um einen Dienstleister, der aus meiner Sicht das Aufsichtsrat der CG Elementum AG sich Honorare erstritten hat, die ich niemals freigegeben hätte oder niemals gutgeheißen hätte. Manchmal gibt es zwischen Aufsichtsrat und den …
 >
-> — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 22:07](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1327) · [[Transkript 096#Minute 22|im Transkript]]
+> — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 14:45](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=885) · [[Transkript 096#Minute 14|im Transkript]]
 
 > … abwegig, aber auch hier im Podcast hatten wir ja schon den Christoph Gröner, den Bauunternehmer aus Berlin, der um sein Unternehmen zu stützen, mal seine Villen und die Porsches verkauft. Also das gibt es …
 >
 > — [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97]], [Minute 1:05:39](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=3939) · [[Transkript 097#Minute 65|im Transkript]]
 
-> … haben es ja vorhin angesprochen. Da gab es Adler, da gab es Gröner, was haben wir nicht? Ja, Signer. Wir haben im Handelsblatt über die DII geschrieben, über Project Immobilien, Preos, Public T, wie …
+> … haben es ja vorhin angesprochen. Da gab es Adler, da gab es Gröner, was haben wir nicht? Ja, Signa. Wir haben im Handelsblatt über die DII geschrieben, über Project Immobilien, Preos, Publity, wie sie …
 >
 > — [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97]], [Minute 1:08:55](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=4135) · [[Transkript 097#Minute 68|im Transkript]]
+
+> … zwar sprechen wir über den Absturz des Jahres. Da ist der Name? Christoph Gröner zu nennen. So ist das. Was war das für eine Geschichte? Oder ist es, muss man sagen? Absolut. Es ist eine …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 3:28](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=208) · [[Transkript 104#Minute 3|im Transkript]]
 
 > … große Razzia in Geschäftsstellen und auch an Privatadressen von Verantwortlichen aus dem Gröner Imperium. Und jetzt ermittelt eben auch die Staatsanwaltschaft. Ja, das heißt, da wird es im nächsten Jahr auf jeden Fall weitere …
 >
@@ -76,20 +82,20 @@ Mit der Immobilienkrise geriet die Gruppe ab 2023 unter Druck: Handwerker, Berat
 >
 > — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 5:31](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=331) · [[Transkript 118#Minute 5|im Transkript]]
 
-> … Bild einfach. Also quasi kurz vor dem Podcast im Sommer 2024 hat Gröner in seinem Unternehmen eine Operation angesetzt. Kritiker würden vielleicht sagen eine Notoperation. Er wird das sicherlich bestreiten. Er hat seine Firma …
+> … eingestellt werden und zig Arbeitnehmer von der Pleite betroffen sind. Denn diese Gröner Group, die ist zunächst eine Gesellschaft ohne operatives Geschäft und war als Dachfirma für die Finanzierung und Verwaltung zuständig. Und deshalb hat die …
 >
-> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 8:40](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=520) · [[Transkript 118#Minute 8|im Transkript]]
+> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 7:20](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=440) · [[Transkript 118#Minute 7|im Transkript]]
 
-> … man sagen, über Pleiten von Immobilienunternehmern berichtet. Also, wir hatten wir Christoph Gröner, Chef Ted Karner, René Benko, last but not least. Unterscheidet sich dieser Fall jetzt irgendwie elementar von den anderen? Ich würde …
+> … man sagen, über Pleiten von Immobilienunternehmern berichtet. Also, wir hatten wir Christoph Gröner, Cevdet Caner, René Benko, last but not least. Unterscheidet sich dieser Fall jetzt irgendwie elementar von den anderen? Ich würde sagen, ja, …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 10:35](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=635) · [[Transkript 144#Minute 10|im Transkript]]
 
 ## In diesen Folgen (4)
 
 - [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Shownotes · Minute [0:27](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=27), [1:58](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=118), [3:37](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=217), [5:09](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=309)
-- [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96 – Interview mit Christoph Gröner: "Ich gehe den Weg konsequent zu Ende und ich ziehe alle Register"]] (2024-08-17) — Shownotes · Minute [0:07](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=7), [2:35](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=155), [10:16](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=616), [22:07](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1327)
-- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [6:18](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=378)
-- [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118 – Insolvenz der Gröner Group: Der tiefe Sturz eines Baulöwen]] (2025-06-29) — Shownotes · Minute [1:05](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=65), [3:19](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=199), [5:31](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=331), [8:40](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=520)
+- [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96 – Interview mit Christoph Gröner: "Ich gehe den Weg konsequent zu Ende und ich ziehe alle Register"]] (2024-08-17) — Shownotes · Minute [0:07](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=7), [2:35](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=155), [10:16](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=616), [14:45](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=885)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes · Minute [3:28](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=208), [6:18](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=378)
+- [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118 – Insolvenz der Gröner Group: Der tiefe Sturz eines Baulöwen]] (2025-06-29) — Shownotes · Minute [1:05](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=65), [3:19](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=199), [5:31](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=331), [7:20](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=440)
 
 ## Kurz erwähnt (2)
 
@@ -97,4 +103,4 @@ Mit der Immobilienkrise geriet die Gruppe ab 2023 unter Druck: Handwerker, Berat
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Minute [10:35](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=635)
 
 ---
-← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]
+← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

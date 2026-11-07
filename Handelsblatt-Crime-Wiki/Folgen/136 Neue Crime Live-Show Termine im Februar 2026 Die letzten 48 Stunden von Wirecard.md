@@ -18,7 +18,7 @@ tags: [folge, jahr-2025, hinweis]
 | **Datum** | 2025-12-11 |
 | **Dauer** | 0:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3zjSMeUP8mUMfd7ATk89DR) · [MP3](https://audio.podigee-cdn.net/2253701-m-ccce35b76d87844649f86395955053f3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/136-neue-crime-live-show-termine-im-februar-2026-die-letzten-48-stunden-von-wirecard) |
-| **Transkript** | [[Transkript 136]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 136]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]] |
 | **Themen** | – |
 | **Unternehmen** | – |

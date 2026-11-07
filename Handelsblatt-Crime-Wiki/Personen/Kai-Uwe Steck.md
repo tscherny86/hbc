@@ -26,11 +26,15 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[026 Cum-Ex Show-Down vor Gericht|#26]], [Minute 1:52](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=112) · [[Transkript 026#Minute 1|im Transkript]]
 
+> … gezahlt haben. Und dies ist die zweite Folge zu Hanno Berger und Benjamin Frey. Wir haben bereits vor vier Wochen damit begonnen, die Lebenswege dieser wirklich außergewöhnlichen Männer nachzuzeichnen und die verhängnisvolle Stelle, an der …
+>
+> — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 1:42](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=102) · [[Transkript 024#Minute 1|im Transkript]]
+
 > … Es ging um den Thrill. Es war ein kometenhafter Aufstieg des Steueranwalts Benjamin Frey. Das ist nicht sein richtiger Name. Aus juristischen Gründen nennen wir ihn hier so. Und dies ist die dritte Folge …
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 0:44](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=44) · [[Transkript 027#Minute 0|im Transkript]]
 
-> … Facetten zu dieser, ich würde sagen, schicksalshaften Begegnung von Hanno Berger und Benjamin Frey und natürlich auch dann der nächsten Begegnung mit Oberstahlsanwältin Anne Broer-Hilker und eben vielen anderen Protagonisten in diesem Skandal. An …
+> … Facetten zu dieser, ich würde sagen, schicksalshaften Begegnung von Hanno Berger und Benjamin Frey und natürlich auch dann der nächsten Begegnung mit Oberstaatsanwältin Anne Brorhilker und eben vielen anderen Protagonisten in diesem Skandal. An der …
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 1:07:04](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=4024) · [[Transkript 027#Minute 67|im Transkript]]
 
@@ -46,7 +50,7 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 3:41](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=221) · [[Transkript 094#Minute 3|im Transkript]]
 
-> … man sagen. Am 7. November 2016 empfängt Frau Bräuke zum ersten Mal Kai-Uwe Steck. Genau, der ist zu dem Zeitpunkt noch nicht der Kronzeuge, aber hat vor, das zu werden. Und auch darüber haben …
+> … man sagen. Am 7. November 2016 empfängt Frau Brorhilker zum ersten Mal Kai-Uwe Steck. Genau, der ist zu dem Zeitpunkt noch nicht der Kronzeuge, aber hat vor, das zu werden. Und auch darüber haben …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 50:57](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3057) · [[Transkript 094#Minute 50|im Transkript]]
 
@@ -62,7 +66,7 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 55:12](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=3312) · [[Transkript 104#Minute 55|im Transkript]]
 
-> … und warum muss Anne Brorheker gleich aussagen? Ja, genau. Angeklagt ist also Kai-Uwe Steck, der Kronzeuge, der sehr viel beigetragen hat zur Aufklärung dieses Skandals. Und er ist aber natürlich gleichzeitig auch Täter. Die …
+> … Gericht und warum muss Anne Brorhilker gleich aussagen? Ja, genau. Angeklagt ist also Kai-Uwe Steck, der Kronzeuge, der sehr viel beigetragen hat zur Aufklärung dieses Skandals. Und er ist aber natürlich gleichzeitig auch Täter. Die …
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 1:47](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=107) · [[Transkript 105#Minute 1|im Transkript]]
 
@@ -78,7 +82,7 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 7:19](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=439) · [[Transkript 105#Minute 7|im Transkript]]
 
-> … mit Herrn Dierlam aufgezeichnet haben, ist im Prozess mit dem ehemaligen Kronzeuge Kai-Uwe Steck etwas doch sehr Ungewöhnliches passiert. Darauf gehen wir dann gleich noch einmal ein. Vielleicht einfach mal so ein bisschen was …
+> … mit Herrn Dierlamm aufgezeichnet haben, ist im Prozess mit dem ehemaligen Kronzeuge Kai-Uwe Steck etwas doch sehr Ungewöhnliches passiert. Darauf gehen wir dann gleich noch einmal ein. Vielleicht einfach mal so ein bisschen was …
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 1:04](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=64) · [[Transkript 108#Minute 1|im Transkript]]
 
@@ -86,7 +90,7 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 26:42](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1602) · [[Transkript 108#Minute 26|im Transkript]]
 
-> … wir schon angesprochen. Sie haben also Markus Braun vertreten. Dann haben Sie Steck eben den Kronzeugen vertreten im Comex-Skandal. Sie haben aber unter anderem auch Alexander Zverev, das ist ein bekannter Tennisspieler, vertreten. Und …
+> … wir schon angesprochen. Sie haben also Markus Braun vertreten. Dann haben Sie Steck eben den Kronzeugen vertreten im Cum-Ex-Skandal. Sie haben aber unter anderem auch Alexander Zverev, das ist ein bekannter Tennisspieler, vertreten. Und …
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 30:02](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1802) · [[Transkript 108#Minute 30|im Transkript]]
 
@@ -94,7 +98,7 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 42:06](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=2526) · [[Transkript 108#Minute 42|im Transkript]]
 
-> … im Cum-Ex-Prozess, den kennen Sie ja wahrscheinlich noch alle aus unseren Folgen, Kai-Uwe Steck ist heute vor dem Landsgericht Bonn verurteilt worden und darüber wollen wir aktuell sprechen, weil es schon auch tatsächlich ein …
+> … im Cum-Ex-Prozess, den kennen Sie ja wahrscheinlich noch alle aus unseren Folgen, Kai-Uwe Steck ist heute vor dem Landgericht Bonn verurteilt worden und darüber wollen wir aktuell sprechen, weil es schon auch tatsächlich ein …
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 0:24](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=24) · [[Transkript 117#Minute 0|im Transkript]]
 
@@ -110,21 +114,21 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 6:00](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=360) · [[Transkript 117#Minute 6|im Transkript]]
 
+> … ein bisschen das Problem sowohl von ihm als auch von seinem ehemaligen Kompagnon Steck gewesen zu sein, dass die irgendwie auch mit Verteidigern Probleme hätten. Jetzt muss man sagen, er hätte ja vielleicht, weil wir …
+>
+> — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 23:28](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1408) · [[Transkript 121#Minute 23|im Transkript]]
+
 > … auch im Gefängnis erfahren, wie es seinem Kompagnon, seinem ehemaligen Zögling, dem Kai-Uwe Steck, ehemaligen Kanzleipartner erging. Und dass der nämlich ein ganz anderes Urteil bekommen hat als er. Er hat zweimal acht Jahre …
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 26:20](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1580) · [[Transkript 121#Minute 26|im Transkript]]
 
-> … dem Mann sprichst, wenn da bestimmte Namen auftauchen, ne, Frau Broerhilke, sei Kai-Uwe Steck oder der Roland Zickler, der Richter, dann redet er sich schon so ein bisschen in Rage, ne. Er bezeichnet sie …
+> … dem Mann sprichst, wenn da bestimmte Namen auftauchen, ne, Frau Brorhilker, sei Kai-Uwe Steck oder der Roland Zickler, der Richter, dann redet er sich schon so ein bisschen in Rage, ne. Er bezeichnet sie …
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 31:00](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1860) · [[Transkript 121#Minute 31|im Transkript]]
 
-> … Frau Brorhülker wurde von einigen angegangen, unter anderem zum Beispiel von Herrn Steck, weil sie vermeintlich Versprechungen gemacht hat, die sie dann hinterher nicht eingehalten hat. Hat das bei ihm zu Genugtuung geführt, Volker? …
+> … Frau Brorhilker wurde von einigen angegangen, unter anderem zum Beispiel von Herrn Steck, weil sie vermeintlich Versprechungen gemacht hat, die sie dann hinterher nicht eingehalten hat. Hat das bei ihm zu Genugtuung geführt, Volker? …
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 32:32](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1952) · [[Transkript 121#Minute 32|im Transkript]]
-
-> … ist ein grenzenloser Opportunist. Er hängt sein Fähnchen immer in den Wind. Steck hat immer geschaut, wer ist der Mächtigste, wer kann mir am meisten helfen. Das war schon in seinen Anfangsjahren so. Also …
->
-> — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 34:17](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2057) · [[Transkript 121#Minute 34|im Transkript]]
 
 > … ist ja verurteilt worden, ist der ehemalige Partner von Herrn Berger, Herr Kai-Uwe Steck, der auch ein Buch jetzt geschrieben hat. Und in der Ankündigung sagt er, er würde in seinem Buch darüber sprechen …
 >
@@ -138,7 +142,7 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 1:00:24](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3624) · [[Transkript 130#Minute 60|im Transkript]]
 
-> … Hörerinnen, liebe Hörer, die Worte, die Sie gerade gehört haben, stammen von Kai-Uwe Steck. Den Namen kennen Sie wahrscheinlich und denken jetzt, Moment, Kai-Uwe Steck, das war doch der Kronzeuge im Comex-Komplex, dem größten …
+> … Hörerinnen, liebe Hörer, die Worte, die Sie gerade gehört haben, stammen von Kai-Uwe Steck. Den Namen kennen Sie wahrscheinlich und denken jetzt, Moment, Kai-Uwe Steck, das war doch der Kronzeuge im Cum-Ex-Komplex, dem größten …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:00](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=60) · [[Transkript 137#Minute 1|im Transkript]]
 
@@ -154,17 +158,10 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 7:25](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=445) · [[Transkript 137#Minute 7|im Transkript]]
 
-> … in der größeren Öffentlichkeit bekannt. Im November 2012 wurde die Kanzlei Berger Steck und Kollegen durchsucht. Und das war halt die Kanzlei von Hanno Berger und Kai-Uwe Steck, die wir beide sehr gut kennen, …
->
-> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 12:14](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=734) · [[Transkript 138#Minute 12|im Transkript]]
-
-> … dann die Gewinne zustande mir fiel das nur gerade ein weil der Steck der Kai-Burfe Steck über den wir jetzt in der letzten Folge berichtet haben der stellt das ja so dar als ob …
->
-> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 32:08](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=1928) · [[Transkript 138#Minute 32|im Transkript]]
-
 ## In diesen Folgen (12)
 
 - [[026 Cum-Ex Show-Down vor Gericht|#26 – Cum-Ex: Show-Down vor Gericht]] (2022-09-13) — Shownotes · Minute [1:52](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=112)
+- [[024 Das Cum-Ex Dream Team (Teil 2)|#24 – Das Cum-Ex Dream Team (Teil 2)]] (2022-10-09) — Shownotes · Minute [1:42](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=102)
 - [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27 – Der Bruch mit dem Cum-Ex Meister (Teil 3)]] (2022-10-23) — Shownotes · Minute [0:44](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=44), [1:07:04](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=4024)
 - [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76 – Der Mann mit der Maske: Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank]] (2024-05-04) — Shownotes · Minute [1:00](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=60), [4:01](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=241)
 - [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Minute [3:41](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=221), [50:57](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3057), [53:45](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3225)
@@ -172,10 +169,9 @@ Im September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn al
 - [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105 – Cum Ex: Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker]] (2025-01-12) — Shownotes · Minute [1:47](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=107), [3:26](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=206), [5:37](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=337), [7:19](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=439)
 - [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108 – Alfred Dierlamm im Gespräch: Was macht einen erfolgreichen Strafverteidiger aus?]] (2025-02-23) — Shownotes · Minute [1:04](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=64), [26:42](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1602), [30:02](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1802), [42:06](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=2526)
 - [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117 – Überraschung im Cum-Ex-Prozess gegen den Kronzeugen]] (2025-06-03) — Shownotes · Minute [0:24](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=24), [2:12](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=132), [4:28](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=268), [6:00](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=360)
-- [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121 – Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt]] (2025-08-10) — Shownotes · Minute [26:20](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1580), [31:00](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1860), [32:32](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1952), [34:17](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=2057)
+- [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121 – Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt]] (2025-08-10) — Shownotes · Minute [23:28](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1408), [26:20](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1580), [31:00](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1860), [32:32](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1952)
 - [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Minute [54:07](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3247), [58:08](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3488), [1:00:24](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3624)
 - [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes · Minute [1:00](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=60), [2:39](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=159), [5:41](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=341), [7:25](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=445)
-- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [12:14](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=734), [32:08](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=1928)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

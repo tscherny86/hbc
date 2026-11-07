@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-03-13 |
 | **Dauer** | 37:19 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI) · [MP3](https://audio.podigee-cdn.net/689322-m-898490d7959fd1223a7f113b94561c7e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/9-neue-episode) |
-| **Transkript** | [[Transkript 009]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Hackerangriffe im Ukraine-Krieg]], [[BSI-Affäre Schönbohm]] |
-| **Themen** | [[Cyberangriff und Ransomware]], [[Erpressung]], [[Windkraft-Projektentwicklung]] |
+| **Transkript** | [[Transkript 009]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Hackerangriffe im Ukraine-Krieg]] |
+| **Themen** | [[Cyberangriff und Ransomware]], [[Erpressung]] |
 | **Unternehmen** | [[BSI]] |
-| **Personen** | [[Ina Karabasz]], [[Martin Murphy]] |
-| **Kurz erwähnt** | [[Cyberangriff auf Continental]], [[Spionage]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Martin Murphy]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 

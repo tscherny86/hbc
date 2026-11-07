@@ -18,11 +18,11 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-08-17 |
 | **Dauer** | 32:32 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw) · [MP3](https://audio.podigee-cdn.net/1566533-m-1c607589682f3a508fe5d97b4ad6aad4.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/96-christoph-groener-interview) |
-| **Transkript** | [[Transkript 096]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | – |
+| **Transkript** | [[Transkript 096]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Gröner Group]] |
 | **Themen** | [[Insolvenz]] |
-| **Unternehmen** | [[Signa]], [[Gröner Group]] |
-| **Personen** | [[René Benko]], [[Christoph Gröner]] |
+| **Unternehmen** | – |
+| **Personen** | [[Ina Karabasz]], [[Christoph Gröner]] |
 | **Kurz erwähnt** | [[Signa und René Benko]] |
 
 ## Shownotes
@@ -38,11 +38,11 @@ Hören Sie im Gespräch mit den Redakteuren Ina Karabasz, René Bender und Micha
 - [0:05](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=5) – In der letzten regulären Folge vor einer Woche haben wir über den prominenten Immobilienunternehmer Christoph Gröner und die … ([[Transkript 096#Minute 0|Transkript]])
 - [2:15](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=135) – Und sehen Sie zum Beispiel, habe ich eine DIW-Studie zitiert, in der ich gesagt habe, wenn Sie ein … ([[Transkript 096#Minute 2|Transkript]])
 - [4:19](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=259) – Und jetzt sind wir an einem Punkt, wo eben nur noch produziert werden kann, was der Markt abnimmt. … ([[Transkript 096#Minute 4|Transkript]])
-- [6:31](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=391) – Im Moment spüren wir eine leichte Erholung. Wir verkaufen wieder, wir haben Anfragen, aber jetzt Impfer hat auch … ([[Transkript 096#Minute 6|Transkript]])
+- [6:31](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=391) – Im Moment spüren wir eine leichte Erholung. Wir verkaufen wieder, wir haben Anfragen, aber jetzt Imfarr hat auch … ([[Transkript 096#Minute 6|Transkript]])
 - [8:42](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=522) – Zur Einordnung, vor einem Jahr haben Sie, glaube ich, in einem Interview gesagt oder sind gefragt worden, wie … ([[Transkript 096#Minute 8|Transkript]])
 - [10:55](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=655) – Wenn Sie heute Christoph Gröner googeln oder Gröner Group, dann steht oben drüber folgendes. Insolvenz, Gröner Group, zurückgezogen. … ([[Transkript 096#Minute 10|Transkript]])
 - [12:55](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=775) – Und dann haben Sie gesagt, Sie seien relativ gelassen und hätten von, abgesehen von Kleinigkeiten, alles im Griff. … ([[Transkript 096#Minute 12|Transkript]])
-- [15:00](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=900) – Manchmal gibt es zwischen Aussichtsrat und den Vorständen dann auch unterschiedliche Vorstellungen. Diese Elementum hat sich ein Urteil … ([[Transkript 096#Minute 15|Transkript]])
+- [15:00](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=900) – Manchmal gibt es zwischen Aufsichtsrat und den Vorständen dann auch unterschiedliche Vorstellungen. Diese Elementum hat sich ein Urteil … ([[Transkript 096#Minute 15|Transkript]])
 - [17:12](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1032) – Und das ist meine Vorgehensweise, zu sagen, dann lieber mit aller Kraft, mal auch zu spät. Aber wir … ([[Transkript 096#Minute 17|Transkript]])
 - [19:17](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1157) – Den Herrn Kretschmer kenne ich so und ich kriege einen Termin beim Herrn Kretschmer jeden Tag, wenn es … ([[Transkript 096#Minute 19|Transkript]])
 - [21:20](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1280) – Wie soll ich mich denn auch noch darum kümmern? Müssen Sie doch nicht. Ach nee, und wer macht … ([[Transkript 096#Minute 21|Transkript]])

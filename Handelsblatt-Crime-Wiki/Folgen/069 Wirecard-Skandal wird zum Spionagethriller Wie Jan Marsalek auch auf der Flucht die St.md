@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-03-09 |
 | **Dauer** | 1:09:00 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h) · [MP3](https://audio.podigee-cdn.net/1373647-m-6aff58521e55524126bf68431cf3f311.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/69-neue-episode) |
-| **Transkript** | [[Transkript 069]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
-| **Themen** | [[Insolvenz]], [[Kronzeuge]], [[Untersuchungshaft]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Transkript** | [[Transkript 069]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
+| **Themen** | [[Kronzeuge]], [[Untersuchungshaft]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Stephan von Erffa]] |
-| **Kurz erwähnt** | [[Marsalek-Brief]], [[BND-Spionage]], [[Spionageprozess London (Marsaleks Agenten)]], [[Wirtschaftsprüfung]], [[Strafverteidigung]], [[BND]] |
+| **Kurz erwähnt** | [[Hermes-Deal (Wirecard in Indien)]], [[Wirtschaftsprüfung]], [[Strafverteidigung]], [[BND]] |
 
 ## Shownotes
 
@@ -67,9 +67,9 @@ Mehr zum Thema: Personenschutz für Wirecard-Kronzeugen nach Hinweis von Geheimd
 - [58:41](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3521) – Lass uns auch einmal ganz kurz diesen Menschen beschreiben. Der hat schon einen sehr langen Namen. Stefan E. … ([[Transkript 069#Minute 58|Transkript]])
 - [1:00:42](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3642) – Der Prozess läuft ja jetzt seit einem Jahr und drei Monaten. Und ist noch deutlich, also wird noch … ([[Transkript 069#Minute 60|Transkript]])
 - [1:03:13](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3793) – Die Hauptverteidigerin war auf jeden Fall in den letzten Monaten häufiger mal nicht da. Da wissen wir aber … ([[Transkript 069#Minute 63|Transkript]])
-- [1:05:15](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3915) – Wir sind gespannt, wann von Erfa was sagt. Du hattest es schon gesagt, Frühjahr, bald ist Ostern. Diese … ([[Transkript 069#Minute 65|Transkript]])
-- [1:07:34](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=4054) – Das waren jetzt schon sehr viele Details und mich interessieren natürlich auch die Details rund um Jan Masarek … ([[Transkript 069#Minute 67|Transkript]])
-- [1:09:38](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=4178) – So, in dieser Folge ging es um Jan Masarek und um Herrn Bellenhaus und darum, wie es in … ([[Transkript 069#Minute 69|Transkript]])
+- [1:05:15](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3915) – Wir sind gespannt, wann von Erffa was sagt. Du hattest es schon gesagt, Frühjahr, bald ist Ostern. Diese … ([[Transkript 069#Minute 65|Transkript]])
+- [1:07:34](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=4054) – Das waren jetzt schon sehr viele Details und mich interessieren natürlich auch die Details rund um Jan Marsalek … ([[Transkript 069#Minute 67|Transkript]])
+- [1:09:38](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=4178) – So, in dieser Folge ging es um Jan Marsalek und um Herrn Bellenhaus und darum, wie es in … ([[Transkript 069#Minute 69|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

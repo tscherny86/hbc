@@ -18,11 +18,11 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-01-12 |
 | **Dauer** | 34:36 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw) · [MP3](https://audio.podigee-cdn.net/1696201-m-d187d8b7c57620f88cef82d11658db2a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/105-cum-ex-anne-brorhilker-sagt-aus) |
-| **Transkript** | [[Transkript 105]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
+| **Transkript** | [[Transkript 105]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Handelsblatt]], [[Landgericht Bonn]] |
-| **Personen** | [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Christian Olearius]], [[Gerhard Strate]], [[Alfred Dierlamm]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Ina Karabasz]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Christian Olearius]], [[Gerhard Strate]], [[Alfred Dierlamm]] |
 | **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Hanno Berger]] |
 
 ## Shownotes
@@ -49,12 +49,12 @@ Für alle Hörer, die unbegrenzt auf unsere digitalen Handelsblatt-Inhalte zugre
 - [2:20](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=140) – 400 Millionen davon vollendet. Also er hat tatsächlich einen beträchtlichen Schaden angerichtet am Fiskus bzw. an uns allen. … ([[Transkript 105#Minute 2|Transkript]])
 - [4:23](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=263) – Denn, um das vielleicht zu verkürzen, er sagt, sie hätte ihm versprochen, er muss gar nicht vor Gericht, … ([[Transkript 105#Minute 4|Transkript]])
 - [6:24](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=384) – Die Staatsanwaltschaft kann sowas anregen. Also es ist auch ein sehr neues oder manche sagen totes Recht. Es … ([[Transkript 105#Minute 6|Transkript]])
-- [8:27](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=507) – Und da geht es konkret darum, dass die Frau Brorhilke ja in ihrer Abteilung mehr oder weniger gemobbt … ([[Transkript 105#Minute 8|Transkript]])
-- [10:30](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=630) – Ich bin sehr gespannt auf das Zusammentreffen. Er hat nämlich auch immer wieder davon gesprochen, dass Frau Brorhilke … ([[Transkript 105#Minute 10|Transkript]])
+- [8:27](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=507) – Und da geht es konkret darum, dass die Frau Brorhilker ja in ihrer Abteilung mehr oder weniger gemobbt … ([[Transkript 105#Minute 8|Transkript]])
+- [10:30](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=630) – Ich bin sehr gespannt auf das Zusammentreffen. Er hat nämlich auch immer wieder davon gesprochen, dass Frau Brorhilker … ([[Transkript 105#Minute 10|Transkript]])
 - [12:32](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=752) – Und deswegen ist das Thema, was hier jetzt besprochen wird, durchaus relevant, weil der Herr Steck ja auch … ([[Transkript 105#Minute 12|Transkript]])
 - [14:34](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=874) – Und zum Beispiel beklagt er ja auch, dass die Vernehmungen gar nicht so abgelaufen sind, wie sie vielleicht … ([[Transkript 105#Minute 14|Transkript]])
 - [16:40](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1000) – Und dass es jetzt auch einige gibt, die ihr das wünschen, dass sie jetzt so unter Druck gerät. … ([[Transkript 105#Minute 16|Transkript]])
-- [18:42](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1122) – Man hat es insbesondere auch zwischen Verteidigung und Broer-Helker gesehen, dass es da sehr hitzig geworden ist. Herr … ([[Transkript 105#Minute 18|Transkript]])
+- [18:42](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1122) – Man hat es insbesondere auch zwischen Verteidigung und Brorhilker gesehen, dass es da sehr hitzig geworden ist. Herr … ([[Transkript 105#Minute 18|Transkript]])
 - [20:46](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1246) – Da hat sie jetzt gesagt, da kann sie keine Aussage zu machen, weil sie sagt, davon ist ihre … ([[Transkript 105#Minute 20|Transkript]])
 - [22:48](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1368) – Volker, was ist dein Vorab-Fazit? Erst mal, ich sage vorab, weil wir gleich noch mit dem Anwalt des … ([[Transkript 105#Minute 22|Transkript]])
 - [24:53](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1493) – Das heißt, wenn hier draußen Autogeräusche sind, bitte nicht wundern, liebe Zuhörerinnen, liebe Zuhörer. Vor mir steht jetzt … ([[Transkript 105#Minute 24|Transkript]])

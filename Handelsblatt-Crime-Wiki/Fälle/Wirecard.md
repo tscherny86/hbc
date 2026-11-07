@@ -1,6 +1,6 @@
 ---
 type: faelle
-folgen: 36
+folgen: 34
 tags: [faelle]
 ---
 # Wirecard
@@ -25,19 +25,11 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 
 ## Was im Podcast gesagt wird
 
-> … Und wenn andere Leute sich darüber unterhalten, dass sie mit zum Beispiel Wirecard gerade was gewonnen haben oder die Milliardäre erzählen sich das genauso. Und wenn da einer dem anderen erzählt, ich habe in …
->
-> — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 21:31](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1291) · [[Transkript 003#Minute 21|im Transkript]]
-
-> … Ina Karabasz mit dir, Sönke, und mit Handelsblatt-Reporter Felix Holtermann über den Fall Wirecard. Ja und ganz konkret über den Wambach-Report. Also genau den Report, der sich mit der Frage beschäftigt hat, ob die Wirtschaftsprüfer …
->
-> — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 52:12](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=3132) · [[Transkript 003#Minute 52|im Transkript]]
-
 > … der Frage, wie konnte das alles passieren, dieser Skandal um den Finanzdienstleister Wirecard. Im Frühjahr 2020 verpufften auf einmal 1 ,9 Milliarden Euro. 1 ,9 Milliarden Euro, von denen Aktionäre, Investorinnen, Mitarbeiter und Kreditgeberinnen …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 0:22](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=22) · [[Transkript 004#Minute 0|im Transkript]]
 
-> … Veröffentlichung reagiert haben. Natürlich sprechen wir auch über die aktuellen Ereignisse bei Wirecard. Wird der ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marzalek? Und müssen die Aktionäre vielleicht ihre …
+> … Veröffentlichung reagiert haben. Natürlich sprechen wir auch über die aktuellen Ereignisse bei Wirecard. Wird der ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marsalek? Und müssen die Aktionäre vielleicht ihre …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 2:44](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=164) · [[Transkript 004#Minute 2|im Transkript]]
 
@@ -69,11 +61,11 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 0:32](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=32) · [[Transkript 011#Minute 0|im Transkript]]
 
-> … Laufen gebraucht hat. Ich finde, das ist eine super Überleitung zum Thema Wirecard. Weil auch da muss man sagen, da hängt alles, oder an einem Kronzeugen, vielleicht hängt es nicht alles an einem Kronzeugen, …
+> … zum Laufen gebracht hat. Ich finde, das ist eine super Überleitung zum Thema Wirecard. Weil auch da muss man sagen, da hängt alles, oder an einem Kronzeugen, vielleicht hängt es nicht alles an einem Kronzeugen, …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 20:51](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1251) · [[Transkript 011#Minute 20|im Transkript]]
 
-> … mit Eigenwerbung. Wir machen weiter. Und zwar sprechen wir jetzt über... Oliver Bellenhaus, dem Kronzeugen. Genau, er ist der Kronzeug. Oliver Bellenhaus, wer ist er? Oliver Bellenhaus ist ein Mann, der Bank gelernt hat, …
+> … mit Eigenwerbung. Wir machen weiter. Und zwar sprechen wir jetzt über... Oliver Bellenhaus, dem Kronzeugen. Genau, er ist der Kronzeuge. Oliver Bellenhaus, wer ist er? Oliver Bellenhaus ist ein Mann, der Bank gelernt hat, ein …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 22:58](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1378) · [[Transkript 011#Minute 22|im Transkript]]
 
@@ -97,7 +89,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 13:46](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=826) · [[Transkript 018#Minute 13|im Transkript]]
 
-> … Sie alles rund um das Thema Dieselgate, aber vielleicht auch Crime oder Wirecard oder alles andere auf unserer Handelsbutt-Webseite lesen wollen. Wir haben da noch einen besonderen Link für Sie. Und zwar unter handelsbutt.com …
+> … Sie alles rund um das Thema Dieselgate, aber vielleicht auch Crime oder Wirecard oder alles andere auf unserer Handelsblatt-Webseite lesen wollen. Wir haben da noch einen besonderen Link für Sie. Und zwar unter handelsblatt.com …
 >
 > — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 40:24](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=2424) · [[Transkript 018#Minute 40|im Transkript]]
 
@@ -125,7 +117,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 23:51](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1431) · [[Transkript 028#Minute 23|im Transkript]]
 
-> … Ihnen jetzt schon sagen, sollte in unseren anderen großen Fällen CumEx oder Wirecard in der nächsten Woche nichts mehr passieren, dann erfahren Sie bei uns in den nächsten Folgen etwas zur Adler Group, warum …
+> … Ihnen jetzt schon sagen, sollte in unseren anderen großen Fällen Cum-Ex oder Wirecard in der nächsten Woche nichts mehr passieren, dann erfahren Sie bei uns in den nächsten Folgen etwas zur Adler Group, warum …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:23:28](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=5008) · [[Transkript 028#Minute 83|im Transkript]]
 
@@ -229,7 +221,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 0:08](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=8) · [[Transkript 049#Minute 0|im Transkript]]
 
-> … Strafkammer, vor der seit Dezember 2022 auch der Prozess gegen den ehemaligen Wirecard-Chef Markus Braun, den früheren Chefbuchhalter des Konzerns Stefan von Erfa und den ehemaligen Stadthalter in Dubai, Oliver Bellenhaus, die da vor …
+> … Strafkammer, vor der seit Dezember 2022 auch der Prozess gegen den ehemaligen Wirecard-Chef Markus Braun, den früheren Chefbuchhalter des Konzerns Stephan von Erffa und den ehemaligen Statthalter in Dubai, Oliver Bellenhaus, die da vor Gericht stehen, …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 4:42](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=282) · [[Transkript 049#Minute 4|im Transkript]]
 
@@ -241,11 +233,11 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 8:32](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=512) · [[Transkript 049#Minute 8|im Transkript]]
 
-> … nehmen muss. Im Zuschauerraum sitzt auch ein Mann, den der geneigte Hannesbad Wirecard-Zuhörer oder Zuhörerin auch schon kennen, und zwar Fabio Di Masi. Fabio Di Masi hat sich nicht nur im Wirecard-Prozess bzw. in …
+> … nehmen muss. Im Zuschauerraum sitzt auch ein Mann, den der geneigte Handelsblatt Wirecard-Zuhörer oder Zuhörerin auch schon kennen, und zwar Fabio Di Masi. Fabio Di Masi hat sich nicht nur im Wirecard-Prozess bzw. in …
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 7:57](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=477) · [[Transkript 055#Minute 7|im Transkript]]
 
-> … zum ersten Mal öffentlich vor Gericht geäußert hat. Das betrifft aber auch Markus Braun, den ehemaligen CEO des insolventen Zahlungsdienstleisters Wirecard, dem nach wie vor in München der Prozess gemacht wirkt. Als auch, ganz …
+> … zum ersten Mal öffentlich vor Gericht geäußert hat. Das betrifft aber auch Markus Braun, den ehemaligen CEO des insolventen Zahlungsdienstleisters Wirecard, dem nach wie vor in München der Prozess gemacht wird. Als auch, ganz besonders, …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 0:53](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=53) · [[Transkript 057#Minute 0|im Transkript]]
 
@@ -261,7 +253,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 27:07](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1627) · [[Transkript 057#Minute 27|im Transkript]]
 
-> … wollte, weil sie den in Verdacht hatte, Fluchthelfer von Jan Masalik aus Wirecard gewesen zu sein. Der Masalik hat sich ja abgesetzt, ist dann verschwunden und wird auch noch immer international gesucht und da …
+> … wollte, weil sie den in Verdacht hatte, Fluchthelfer von Jan Marsalek aus Wirecard gewesen zu sein. Der Marsalek hat sich ja abgesetzt, ist dann verschwunden und wird auch noch immer international gesucht und da …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 56:05](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3365) · [[Transkript 058#Minute 56|im Transkript]]
 
@@ -273,15 +265,15 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:04:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3862) · [[Transkript 064#Minute 64|im Transkript]]
 
-> … dass es auch die ein oder andere Folge in 2024 zum Thema Wirecard geben wird. Wahrscheinlich wird es auch noch mal eine zu einem anderen Fall geben, über den wir erst kürzlich berichtet haben …
+> … Brief hat Herr Marsalek in Frage gestellt, das, was der Kronzeuge Oliver Bellenhaus, der wird ja vom Gericht als Kronzeuge eingeschätzt, und der bestreitet, dass es dieses Drittpartnergeschäft überhaupt gab, dieses ominöse Drittpartnergeschäft, das …
 >
-> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:07:38](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4058) · [[Transkript 064#Minute 67|im Transkript]]
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:06:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3982) · [[Transkript 064#Minute 66|im Transkript]]
 
 > … diesen ganz großen Affären, wenn wir über Diesel reden, über Cum-Ex, über Wirecard, das ist natürlich alles spannend. Ich stehe aber auf die kleinen Geschichten. Mir persönlich hängen geblieben ist zum Beispiel total die …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:09:34](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4174) · [[Transkript 064#Minute 69|im Transkript]]
 
-> … EY kam es kurz vor dem Jahreswechsel knüppel dick. Der Insolvenzverwalter von Wirecard fordert 1 ,5 Milliarden Euro Schadenersatz. Die Schutzvereinigung für Wertpapierbesitz noch einmal 700 Millionen Euro. Und von der Berufsaufsicht für Wirtschaftsprüfer …
+> … Wirtschaftsprüfungsgesellschaft EY kam es kurz vor dem Jahreswechsel knüppeldick. Der Insolvenzverwalter von Wirecard fordert 1 ,5 Milliarden Euro Schadenersatz. Die Schutzvereinigung für Wertpapierbesitz noch einmal 700 Millionen Euro. Und von der Berufsaufsicht für Wirtschaftsprüfer …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 0:11](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=11) · [[Transkript 065#Minute 0|im Transkript]]
 
@@ -289,7 +281,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 3:31](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=211) · [[Transkript 065#Minute 3|im Transkript]]
 
-> … Weihnachten fast zeitgleich Klagen gegen EY und zwar einmal vom Insolvenzverwalter von Wirecard, Michael Jaffe und die andere Klage kam von der Deutschen Schutzvereinigung für Wertpapierbesitz. Auch da der gleiche Hintergrund, sie halten EY …
+> … Weihnachten fast zeitgleich Klagen gegen EY und zwar einmal vom Insolvenzverwalter von Wirecard, Michael Jaffé und die andere Klage kam von der Deutschen Schutzvereinigung für Wertpapierbesitz. Auch da der gleiche Hintergrund, sie halten EY …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 5:11](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=311) · [[Transkript 065#Minute 5|im Transkript]]
 
@@ -297,9 +289,9 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 7:07](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=427) · [[Transkript 065#Minute 7|im Transkript]]
 
-> … nochmal total wichtig werden im Laufe des Prozesses, glaube ich. Wobei ein Wirecard-Prozess ja durchaus auch die Beweisführung, dass ob es ein Geschäft gegeben hat oder nicht gegeben hat, überraschend schwierig zu sein scheint, …
+> … Aspekte natürlich nochmal total wichtig werden im Laufe des Prozesses, glaube ich. Wobei im Wirecard-Prozess ja durchaus auch die Beweisführung, dass ob es ein Geschäft gegeben hat oder nicht gegeben hat, überraschend schwierig zu sein scheint, …
 >
-> — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 56:24](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3384) · [[Transkript 068#Minute 56|im Transkript]]
+> — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 56:23](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3383) · [[Transkript 068#Minute 56|im Transkript]]
 
 > … vielleicht fairerweise auch noch dazu erklären, das spielt halt alles vor dem Wirecard-Skandal. Man hofft einfach, dass die BaFin heute eine andere ist als damals. Damals ist ihr zumindest nicht aufgefallen, dass sie jetzt …
 >
@@ -329,13 +321,17 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[073 Meet the Team René Bender|#73]], [Minute 5:08](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=308) · [[Transkript 073#Minute 5|im Transkript]]
 
-> … hochgebobbt sind. Und ansonsten, ja, was fällt mir sonst noch ein? Also Wirecard ist halt auch immer wieder komplex. Da muss man einfach dranbleiben. Die Kontakte anfunken, immer und immer wieder anfunken und dann …
+> … hochgeploppt sind. Und ansonsten, ja, was fällt mir sonst noch ein? Also Wirecard ist halt auch immer wieder komplex. Da muss man einfach dranbleiben. Die Kontakte anfunken, immer und immer wieder anfunken und dann …
 >
 > — [[073 Meet the Team René Bender|#73]], [Minute 7:54](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=474) · [[Transkript 073#Minute 7|im Transkript]]
 
-> … Das eine ist Alfred Dierlam, den kennen wir ja auch aus dem Wirecard-Komplex. Der vertritt zum Beispiel Markus Braun. Also einen Top-Anwalt. Genau. Der andere ist nicht weniger, sagen wir mal, gut und auch …
+> … Das eine ist Alfred Dierlamm, den kennen wir ja auch aus dem Wirecard-Komplex. Der vertritt zum Beispiel Markus Braun. Also einen Top-Anwalt. Genau. Der andere ist nicht weniger, sagen wir mal, gut und auch …
 >
 > — [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76]], [Minute 15:00](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=900) · [[Transkript 076#Minute 15|im Transkript]]
+
+> … das klingt jetzt nicht falsch, aber mehr verbunden. Den begleite ich sozusagen, den Fall Wirecard, den begleite ich eigentlich seit meiner Anfangszeit hier im E-Team. Benko ist jetzt sozusagen ganz frisch neu dazugekommen. Ja, wenn ich …
+>
+> — [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79]], [Minute 4:30](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=270) · [[Transkript 079#Minute 4|im Transkript]]
 
 > … dem du bis zu deinem Lebensabend weiter recherchierst, welcher wäre das? Definitiv Wirecard. Also vielleicht ist das auch so. Und du bist noch verhältnismäßig jung. Wie alt bist du jetzt? Ich bin 32. Wir …
 >
@@ -353,11 +349,11 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:33](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=93) · [[Transkript 082#Minute 1|im Transkript]]
 
-> … übrigens ein Wunsch eines Hörers. Und zwar ist es so, dass im Wirecard-Prozess sich doch etwas, interessantes Minimum begeben hat. Denn Alfred Dierlam, den kennen wir, der ist schon häufiger mal aufgetaucht. Das ist …
+> … übrigens ein Wunsch eines Hörers. Und zwar ist es so, dass im Wirecard-Prozess sich doch etwas, interessantes Minimum begeben hat. Denn Alfred Dierlamm, den kennen wir, der ist schon häufiger mal aufgetaucht. Das ist …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:02:17](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3737) · [[Transkript 082#Minute 62|im Transkript]]
 
-> … gar nicht mehr so lange hin, wahrscheinlich wirklich sehr kritische Aussagen für Markus Braun anstehen könnten, die wahrscheinlich das Ende des Prozesses doch sehr stark beeinflussen werden. und jetzt Herr Dierlam weg. Ja, genau. …
+> … gar nicht mehr so lange hin, wahrscheinlich wirklich sehr kritische Aussagen für Markus Braun anstehen könnten, die wahrscheinlich das Ende des Prozesses doch sehr stark beeinflussen werden. und jetzt Herr Dierlamm weg. Ja, genau. …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:03:57](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3837) · [[Transkript 082#Minute 63|im Transkript]]
 
@@ -369,7 +365,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 0:29](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=29) · [[Transkript 089#Minute 0|im Transkript]]
 
-> … Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Stadthalter des Konzerns. Der hat schon vor einiger Zeit ausgepackt und ist Kronzeuge der Staatsanwaltschaft geworden. Oliver Bellenhaus hat …
+> … Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Statthalter des Konzerns. Der hat schon vor einiger Zeit ausgepackt und ist Kronzeuge der Staatsanwaltschaft geworden. Oliver Bellenhaus hat …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 2:00](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=120) · [[Transkript 089#Minute 2|im Transkript]]
 
@@ -433,9 +429,9 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 0:19](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=19) · [[Transkript 099#Minute 0|im Transkript]]
 
-> … Und das ist von der Dimension her aus der P &R, ein Wirecard, denke ich, kein mit mehr als anderthalb, zwei Milliarden. Okay, also dieser Anlegeranwalt Mattil, der vergleicht es sogar mit Wirecard, einem …
+> … mit Bewährungen nach Hause spaziert. Und das ist von der Dimension her außer P &R und Wirecard, denke ich, kein mit mehr als anderthalb, zwei Milliarden. Okay, also dieser Anlegeranwalt Mattil, der vergleicht es sogar mit Wirecard, einem …
 >
-> — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 11:00](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=660) · [[Transkript 099#Minute 11|im Transkript]]
+> — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 10:59](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=659) · [[Transkript 099#Minute 10|im Transkript]]
 
 > … ist, so stellt es sich heute dar, Dreh - und Angelpunkt des Wirecard-Skandals, bei dem Anlegerinnen und Anleger Milliarden verloren haben. Ja, und Jan Marsalek, der hat sich damals abgesetzt. Viele vermuten nach Russland …
 >
@@ -453,17 +449,13 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 17:14](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1034) · [[Transkript 102#Minute 17|im Transkript]]
 
-> … in London. Ja, ja, Wahnsinn. Also irgendwie immer, wenn man glaubt, bei Wirecard, da kommt nichts mehr, kommt irgendwie die nächste überraschende Wendung. Da sitzen jetzt also eine Gruppe Bürgaren im Old Bailey in …
+> … in London. Ja, ja, Wahnsinn. Also irgendwie immer, wenn man glaubt, bei Wirecard, da kommt nichts mehr, kommt irgendwie die nächste überraschende Wendung. Da sitzen jetzt also eine Gruppe Bulgaren im Old Bailey in …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 24:31](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1471) · [[Transkript 104#Minute 24|im Transkript]]
 
-> … tief verletzt. Und deshalb glaube ich, ist anders als jetzt Comex und Wirecard und auch die Effenberg Bank und Benco und diese vielen Themen, die wir hier haben und Tesla, Triton, jetzt keine weitergehende …
+> … tief verletzt. Und deshalb glaube ich, ist anders als jetzt Cum-Ex und Wirecard und auch die Effenberg Bank und Benko und diese vielen Themen, die wir hier haben und Tesla, Triton, jetzt keine weitergehende …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 49:48](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2988) · [[Transkript 104#Minute 49|im Transkript]]
-
-> … dauern. Ja, auf die Spitze reden, wenn wir uns den Fall von Markus Braun, Wirecard in Deutschland angucken. Der ist im Juli 2020 in Untersuchungshaft gekommen. Da sitzt er bis heute und seit mehr …
->
-> — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 13:44](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=824) · [[Transkript 106#Minute 13|im Transkript]]
 
 > … mal gehört. Genau, das ist er. Er ist derjenige, der den ehemaligen Wirecard-CEO Markus Braun vertreten hat. Er hat den Kronzeugen im Cum-Ex-Prozess vertreten, macht er beides nicht mehr und kann heute mit uns …
 >
@@ -477,23 +469,23 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 21:34](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1294) · [[Transkript 108#Minute 21|im Transkript]]
 
-> … die großen Namen kommen. Zwei hatten wir schon angesprochen. Sie haben also Markus Braun vertreten. Dann haben Sie Steck eben den Kronzeugen vertreten im Comex-Skandal. Sie haben aber unter anderem auch Alexander Zverev, das …
+> … die großen Namen kommen. Zwei hatten wir schon angesprochen. Sie haben also Markus Braun vertreten. Dann haben Sie Steck eben den Kronzeugen vertreten im Cum-Ex-Skandal. Sie haben aber unter anderem auch Alexander Zverev, das …
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 30:00](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1800) · [[Transkript 108#Minute 30|im Transkript]]
 
-> … spannend macht, ist eine Personalie in Moskau. Niemand anderes als der flüchtige Wirecard-Asien-Vorstand Jan Marzalek soll die Agentenzelle angeleitet haben. Nicht persönlich vor Ort im Westen, wo er sich wegen der Fahndung wohl nicht …
+> … spannend macht, ist eine Personalie in Moskau. Niemand anderes als der flüchtige Wirecard-Asien-Vorstand Jan Marsalek soll die Agentenzelle angeleitet haben. Nicht persönlich vor Ort im Westen, wo er sich wegen der Fahndung wohl nicht …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 1:17](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=77) · [[Transkript 111#Minute 1|im Transkript]]
 
-> … Und auch als erwiesen an, dass Jan Marzalek, der seit 2020 flüchtige Wirecard-Vorstand, die Gruppe angeleitet hat. Aus dem Untergrund quasi. Und in der Hauptverhandlung hat die Staatsanwaltschaft, ja auch dieser Crown Prosecution Service, …
+> … Und auch als erwiesen an, dass Jan Marsalek, der seit 2020 flüchtige Wirecard-Vorstand, die Gruppe angeleitet hat. Aus dem Untergrund quasi. Und in der Hauptverhandlung hat die Staatsanwaltschaft, ja auch dieser Crown Prosecution Service, …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 3:44](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=224) · [[Transkript 111#Minute 3|im Transkript]]
 
-> … mir fast bei unseren Hannes-Bad-Crime-Hörerinnen und Hörern nicht vorstellen kann. Denn der Ex-Wirecard-Vorstand gilt nach wie vor als einer der Strippenzieher hinter den Milliardenbetrug, der den ehemaligen DAX-Konzern war. Ja, Wirecard in die Pleite …
+> … mir fast bei unseren Handelsblatt-Crime-Hörerinnen und Hörern nicht vorstellen kann. Denn der Ex-Wirecard-Vorstand gilt nach wie vor als einer der Strippenzieher hinter den Milliardenbetrug, der den ehemaligen DAX-Konzern war. Ja, Wirecard in die Pleite …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 16:00](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=960) · [[Transkript 111#Minute 16|im Transkript]]
 
-> … hat Grosev da irgendwie diese vielen Russlandflüge von Marsalek auch schon zu Wirecard-Zeiten irgendwie aufgedeckt und dann die Fluchtroute da über Weißrussland und jetzt andersrum hat man hier, wie sie ihnen nachstellen. Allerdings spricht …
+> … hat Grozev da irgendwie diese vielen Russlandflüge von Marsalek auch schon zu Wirecard-Zeiten irgendwie aufgedeckt und dann die Fluchtroute da über Weißrussland und jetzt andersrum hat man hier, wie sie ihnen nachstellen. Allerdings spricht …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 35:17](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2117) · [[Transkript 111#Minute 35|im Transkript]]
 
@@ -501,7 +493,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 0:08](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=8) · [[Transkript 113#Minute 0|im Transkript]]
 
-> … die Aufarbeitung läuft, jetzt hätte ich fast gesagt wie immer, in Klammern Wirecard, Comex etc. Allerdings kommt jetzt Bewegung rein, denn der Insolvenzverwalter hat einen Vorstoß unternommen und zwar wird er Geld von ehemaligen …
+> … die Aufarbeitung läuft, jetzt hätte ich fast gesagt wie immer, in Klammern Wirecard, Cum-Ex etc. Allerdings kommt jetzt Bewegung rein, denn der Insolvenzverwalter hat einen Vorstoß unternommen und zwar will er Geld von ehemaligen Verantwortlichen. Viel Geld, …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 2:24](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=144) · [[Transkript 113#Minute 2|im Transkript]]
 
@@ -529,7 +521,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 43:20](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2600) · [[Transkript 114#Minute 43|im Transkript]]
 
-> … sie oft früher dran als klassische Medien, zum Beispiel bei Skandalen wie Wirecard oder Pimgold oder auch Dolphin Trust. Gomopa hat sich nämlich viel mit dem sogenannten grauen Kapitalmarkt beschäftigt. Also da vertreiben ja …
+> … sie oft früher dran als klassische Medien, zum Beispiel bei Skandalen wie Wirecard oder PIM Gold oder auch Dolphin Trust. Gomopa hat sich nämlich viel mit dem sogenannten grauen Kapitalmarkt beschäftigt. Also da vertreiben ja …
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 0:46](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=46) · [[Transkript 115#Minute 0|im Transkript]]
 
@@ -541,9 +533,9 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 16:51](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1011) · [[Transkript 115#Minute 16|im Transkript]]
 
-> … anders. Also erst mal, Zufall oder nicht, nach der Veröffentlichung sagt der Wirecard-Kurs um 30 Prozent ab. Und dann hat eben Sönke rausgefunden, dass es diesen Artikel, dass es den so offenbar nicht gegeben …
+> … ein bisschen anders. Also erst mal, Zufall oder nicht, nach der Veröffentlichung sackt der Wirecard-Kurs um 30 Prozent ab. Und dann hat eben Sönke rausgefunden, dass es diesen Artikel, dass es den so offenbar nicht gegeben …
 >
-> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 18:29](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1109) · [[Transkript 115#Minute 18|im Transkript]]
+> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 18:28](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1108) · [[Transkript 115#Minute 18|im Transkript]]
 
 > … Also was insgesamt wirklich spannend war, waren alle Prozesse rund um unsere Wirecard-Berichterstattung. Wir haben schon sehr früh, lange vor der Insolvenz von Wirecard, von Luftbuchung geschrieben. Dagegen ist Wirecard tatsächlich auch gerichtlich vorgegangen, …
 >
@@ -565,7 +557,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 2:39](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=159) · [[Transkript 119#Minute 2|im Transkript]]
 
-> … beauftragt. Diese Wertpapiere mal zu analysieren. Rödel und Partner, wer jetzt unsere Wirecard-Berichterstattung verfolgt, weiß, das ist ein super renommierter Wirtschaftsprüfer. Der hat unter anderem damals für den Untersuchungsausschuss im Bundestag die Leistung von …
+> … beauftragt. Diese Wertpapiere mal zu analysieren. Rödl und Partner, wer jetzt unsere Wirecard-Berichterstattung verfolgt, weiß, das ist ein super renommierter Wirtschaftsprüfer. Der hat unter anderem damals für den Untersuchungsausschuss im Bundestag die Leistung von …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 21:25](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1285) · [[Transkript 119#Minute 21|im Transkript]]
 
@@ -577,9 +569,21 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 22:12](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1332) · [[Transkript 120#Minute 22|im Transkript]]
 
+> … Und wir kennen das ja schon. Das war ein Dieselskandal so bei Wirecard, bei Cum-Ex und jetzt eben halt auch bei René Benko. Und wir hatten auch eins schon mal angeteasert. Ja, ich ahne …
+>
+> — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 23:50](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1430) · [[Transkript 120#Minute 23|im Transkript]]
+
 > … mal im Podcast darüber gesprochen, dass er dort auch, also Benko auch Ex-Wirecard-Chef Markus Braun empfangen hat. Ja, da haben wir noch die Mail, die Einladung, du kannst gerne bei uns übernachten, hat er …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 53:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=3190) · [[Transkript 120#Minute 53|im Transkript]]
+
+> … Claassen Verstöße gegen Gesetze und Wortbruch vorgeworfen und hat Syntellix sogar mit Wirecard verglichen. Da ist dann Claassen natürlich gleich wieder dagegen angegangen und hat gesagt, das sei ja wohl unvorstellbar, solche Vergleiche aufzustellen …
+>
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:08:43](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4123) · [[Transkript 127#Minute 68|im Transkript]]
+
+> … mit dem Fall. Es sind zweieinhalb Jahre, nur mal zum Vergleich. Im Wirecard-Skandal hat die Staatsanwaltschaft anderthalb Jahre ermittelt oder ein Dreivierteljahre, bis sie dann die erste Anklage vorgelegt hat. Ja, und Claassen sitzt …
+>
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:14:00](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4440) · [[Transkript 127#Minute 74|im Transkript]]
 
 > … geht's los mit der Crime-Folge. Er gilt als der heimliche Strippenzieher im Wirecard-Skandal. James Henry O'Sullivan. Als externer Berater fädelte er insbesondere in Asien viele Deals für den Zahlungsanbieter ein und feierte viele Nächte …
 >
@@ -597,13 +601,9 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131]], [Minute 8:41](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=521) · [[Transkript 131#Minute 8|im Transkript]]
 
-> Fast sechs Jahre ist der Absturz von Wirecard jetzt her. Aber wie sind eigentlich die letzten 48 Stunden davor abgelaufen? Ich bin Solveig Ode. Und ich bin Ina Karabasz. Wir …
+> Fast sechs Jahre ist der Absturz von Wirecard jetzt her. Aber wie sind eigentlich die letzten 48 Stunden davor abgelaufen? Ich bin Solveig Gode. Und ich bin Ina Karabasz. Wir sind …
 >
 > — [[136 Neue Crime Live-Show Termine im Februar 2026 Die letzten 48 Stunden von Wirecard|#136]], [Minute 0:00](https://open.spotify.com/episode/3zjSMeUP8mUMfd7ATk89DR?t=0) · [[Transkript 136#Minute 0|im Transkript]]
-
-> … Wunsch erhört. Wir bringen die letzten 48 Stunden vor dem Zusammenbruch von Wirecard auf die Bühne. Also, welche Chat-Nachrichten Jan Marsalek und Markus Braun noch kurz vorher ausgetauscht haben. Und warum die Assistentinnen von …
->
-> — [[134 Familienunternehmer Der falsche Baron von Krupp|#134]], [Minute 3:10](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=190) · [[Transkript 134#Minute 3|im Transkript]]
 
 > … damals verbieten, ein Foto von ihm zu zeigen im Zusammenhang mit der Wirecard-Berichterstattung. Wohlgemerkt, EY hatte über Jahre die Abschlüsse von Wirecard geprüft und ja auch testiert. Jetzt geht natürlich beim Thema Wirecard auch …
 >
@@ -612,10 +612,6 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 > … anderen Fall vor Gericht, gerade aktuell, da geht es um eine ehemalige Wirecard-Managerin, die verhaftet wurde im Zusammenhang mit einem groß angelegten internationalen Ermittlungsverfahren. Darüber haben wir berichtet im Handelsblatt und diese Managerin war …
 >
 > — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 13:31](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=811) · [[Transkript 135#Minute 13|im Transkript]]
-
-> … sagen, ein ereignisreiches Jahr. Ja, denn Sönke, was steht vor allem an? Markus Braun, die Verurteilung voraussichtlich oder das Gerichtsurteil steht an? Genau, die Ära Wirecard kommt jetzt langsam zum Ende, jedenfalls was die …
->
-> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 3:53](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=233) · [[Transkript 137#Minute 3|im Transkript]]
 
 > … Unser Thema ist das Protokoll des Untergangs, die letzten 48 Stunden von Wirecard. Erleben Sie nochmal, Markus Braun, Jan Marsalek und Konsorten, die ganze Panik, die ganze Kälte rekonstruiert anhand originaler Dokumente, viele davon …
 >
@@ -641,21 +637,13 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146]], [Minute 0:12](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=12) · [[Transkript 146#Minute 0|im Transkript]]
 
-> … Bild auf die wirklich eine und jahrelange Urhaft von unter anderem z.B. Markus Braun, wer da sehr lange jetzt gesessen hat, wobei ich nicht weiß wie da die Verhältnisse sind. Aber finde ich super …
+> … Bild auf die wirklich eine und jahrelange U-Haft von unter anderem z.B. Markus Braun, wer da sehr lange jetzt gesessen hat, wobei ich nicht weiß wie da die Verhältnisse sind. Aber finde ich super …
 >
 > — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 41:06](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2466) · [[Transkript 147#Minute 41|im Transkript]]
 
 > … und Frankfurt. Und wir haben nicht nur die letzten achtundvierzig Stunden von Wirecard dabei sondern wir sprechen auch über die allerneuste Recherche unserer Kollegen Sönke Iwersen und Volker Wotsmayer zum Thema Cum-Ex denn die haben …
 >
 > — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 52:42](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=3162) · [[Transkript 147#Minute 52|im Transkript]]
-
-> … das nicht aufgedeckt. Das erinnert uns schon ein bisschen an den Fall Wirecard. Ja, da ist ja auch vieles erst möglich geworden, weil der Aufsichtsrat fleißig gepennt hat. Und in diesem Verdacht steht auch …
->
-> — [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148]], [Minute 33:06](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=1986) · [[Transkript 148#Minute 33|im Transkript]]
-
-> … sich auch nicht gerichtet. Das ist wieder mal so eine Parallele zur Wirecard, ja. Obwohl sie also die Bilanzdaten jahrelang geprüft haben, waren sie auch nicht diejenigen, die den Skandal aufgedeckt haben. Deshalb verklagt …
->
-> — [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148]], [Minute 38:26](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2306) · [[Transkript 148#Minute 38|im Transkript]]
 
 > … von mehr als 300 Millionen Euro. Um große Zahlungsdienstleister wie Unzer, Payone, Concardis und auch Wirecard. Und natürlich, ihr ahnt es vielleicht schon, es geht natürlich auch mal wieder um Jan Marsalek. Über all dies spreche ich …
 >
@@ -697,7 +685,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 38:37](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2317) · [[Transkript 162#Minute 38|im Transkript]]
 
-## In diesen Folgen (36)
+## In diesen Folgen (34)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes · Minute [0:22](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=22), [2:44](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=164), [4:23](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=263), [6:53](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=413)
 - [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes · Minute [0:50](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=50), [3:11](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=191), [4:53](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=293), [6:34](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=394)
@@ -709,11 +697,11 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 - [[050 Was hat es mit dem Brief von Jan Marsalek auf sich|#50 – Was hat es mit dem Brief von Jan Marsalek auf sich?]] (2023-07-20) — Shownotes · Minute [0:08](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=8), [2:16](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=136), [3:48](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=228), [5:37](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=337)
 - [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes · Minute [0:08](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=8), [4:42](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=282), [7:01](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=421), [8:32](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=512)
 - [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes · Minute [0:53](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=53), [22:55](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1375), [24:50](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1490), [27:07](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1627)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [27:13](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1633), [1:04:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3862), [1:07:38](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4058), [1:09:34](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4174)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [27:13](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1633), [1:04:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3862), [1:06:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3982), [1:09:34](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4174)
 - [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Shownotes · Minute [0:11](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=11), [3:31](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=211), [5:11](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=311), [7:07](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=427)
 - [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:07](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=7), [1:52](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=112), [3:46](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=226), [9:42](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=582)
 - [[073 Meet the Team René Bender|#73 – Meet the Team: René Bender]] (2024-04-20) — Shownotes · Minute [0:45](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=45), [5:08](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=308), [7:54](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=474)
-- [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79 – Meet the Team: Investigativ-Redakteur Michael Verfürden]] (2024-05-18) — Shownotes · Minute [9:39](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=579)
+- [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79 – Meet the Team: Investigativ-Redakteur Michael Verfürden]] (2024-05-18) — Shownotes · Minute [4:30](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=270), [9:39](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=579)
 - [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Minute [1:33](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=93), [1:02:17](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3737), [1:03:57](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3837), [1:05:43](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3943)
 - [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Shownotes · Minute [0:29](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=29), [2:00](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=120), [4:10](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=250), [6:43](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=403)
 - [[092 Meet the Team Volker Votsmeier|#92 – Meet the Team: Volker Votsmeier]] (2024-07-28) — Minute [0:56](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o?t=56), [8:09](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o?t=489), [11:50](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o?t=710), [15:31](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o?t=931)
@@ -725,20 +713,17 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 - [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes · Minute [1:17](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=77), [3:44](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=224), [16:00](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=960), [35:17](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2117)
 - [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Minute [0:08](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=8), [2:24](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=144), [4:40](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=280), [27:46](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=1666)
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Minute [0:17](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=17), [3:59](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=239), [8:22](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=502), [43:20](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2600)
-- [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes · Minute [0:46](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=46), [11:50](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=710), [16:51](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1011), [18:29](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1109)
+- [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes · Minute [0:46](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=46), [11:50](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=710), [16:51](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1011), [18:28](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1108)
 - [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Shownotes · Minute [21:46](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1306), [23:50](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1430), [26:12](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1572), [30:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1848)
 - [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131 – Henry O’Sullivan: Der Schattenmann im Wirecard-Skandal]] (2025-11-30) — Shownotes · Minute [1:27](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=87), [3:14](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=194), [6:47](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=407), [8:41](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=521)
 - [[136 Neue Crime Live-Show Termine im Februar 2026 Die letzten 48 Stunden von Wirecard|#136 – Neue Crime Live-Show Termine im Februar 2026: Die letzten 48 Stunden von Wirecard]] (2025-12-11) — Shownotes · Minute [0:00](https://open.spotify.com/episode/3zjSMeUP8mUMfd7ATk89DR?t=0)
 - [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135 – Abmahnungen, Klagen, Grauzonen: Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwälten]] (2025-12-28) — Shownotes · Minute [10:17](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=617), [13:31](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=811)
-- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes · Minute [3:53](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=233)
 - [[145 Neue Crime Live-Show Termine im Juni 2026 Die letzten 48 Stunden von Wirecard|#145 – Neue Crime Live-Show Termine im Juni 2026: Die letzten 48 Stunden von Wirecard]] (2026-04-21) — Shownotes · Minute [0:00](https://open.spotify.com/episode/4d7PX76IOZXvxgMR6K5ew9?t=0)
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes · Minute [41:06](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2466), [52:42](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=3162)
-- [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes · Minute [33:06](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=1986), [38:26](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2306)
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [1:41](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=101), [7:07](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=427), [9:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=580), [21:17](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1277)
 
-## Kurz erwähnt (24)
+## Kurz erwähnt (22)
 
-- [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Minute [21:31](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1291), [52:12](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=3132)
 - [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Minute [22:25](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1345), [32:39](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=1959)
 - [[017 Dieselgate (Teil 1) Wie Volkswagen in die Existenzkrise gerät|#17 – Dieselgate (Teil 1): Wie Volkswagen in die Existenzkrise gerät]] (2022-07-03) — Minute [36:19](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=2179)
 - [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18 – Dieselgate (Teil 2): „Voll schiefgelaufen!“]] (2022-07-17) — Minute [13:46](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=826), [40:24](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=2424)
@@ -748,14 +733,13 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 - [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Minute [13:18](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=798), [17:15](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=1035)
 - [[055 Christian Olearius vor Gericht|#55 – Christian Olearius vor Gericht]] (2023-09-18) — Minute [7:57](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=477)
 - [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Minute [56:05](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=3365)
-- [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Minute [56:24](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3384), [1:03:48](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3828)
+- [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Minute [56:23](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3383), [1:03:48](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3828)
 - [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76 – Der Mann mit der Maske: Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank]] (2024-05-04) — Minute [15:00](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=900)
 - [[080 Der Bankenmanager und der Staatstrojaner|#80 – Der Bankenmanager und der Staatstrojaner]] (2024-06-01) — Minute [3:53](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=233), [50:09](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3009)
-- [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Minute [0:19](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=19), [11:00](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=660)
-- [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Minute [13:44](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=824)
+- [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Minute [0:19](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=19), [10:59](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=659)
 - [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Minute [2:39](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=159), [21:25](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1285)
-- [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Minute [19:43](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1183), [22:12](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1332), [53:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=3190)
-- [[134 Familienunternehmer Der falsche Baron von Krupp|#134 – Familienunternehmer: Der falsche Baron von Krupp]] (2025-12-14) — Minute [3:10](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7?t=190)
+- [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Minute [19:43](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1183), [22:12](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1332), [23:50](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1430), [53:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=3190)
+- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Minute [1:08:43](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4123), [1:14:00](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4440)
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [3:37](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=217), [50:10](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3010), [1:15:53](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=4553)
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Minute [0:12](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=12)
 - [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146 – Diesel-Skandal bei Continental: Wer zahlt die Kosten von 300 Millionen Euro?]] (2026-05-03) — Minute [0:12](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=12)

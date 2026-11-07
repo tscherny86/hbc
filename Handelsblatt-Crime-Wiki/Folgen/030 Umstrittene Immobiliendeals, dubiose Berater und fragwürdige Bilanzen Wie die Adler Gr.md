@@ -18,11 +18,11 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-12-04 |
 | **Dauer** | 55:23 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5) · [MP3](https://audio.podigee-cdn.net/918184-m-72ce4219aea71915664af9f1f87916a1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/30-neue-episode) |
-| **Transkript** | [[Transkript 030]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 030]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Adler Group]] |
 | **Themen** | [[Betrug]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]] |
 | **Unternehmen** | [[KPMG]], [[BaFin]] |
-| **Personen** | [[Ina Karabasz]], [[Stefan Kirsten]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Stefan Kirsten]], [[Cevdet Caner]], [[Fraser Perring]] |
 | **Kurz erwähnt** | [[Wirecard]], [[Markus Braun]], [[Insolvenz]] |
 
 ## Shownotes

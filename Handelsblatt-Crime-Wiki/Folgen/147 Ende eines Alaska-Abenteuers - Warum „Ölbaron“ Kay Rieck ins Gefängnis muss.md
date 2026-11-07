@@ -20,10 +20,10 @@ tags: [folge, jahr-2026, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL) · [MP3](https://audio.podigee-cdn.net/2453088-m-a787bf6ffab7e33ecdd0ca0967d17894.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/147-ende-eines-alaska-abenteuers-warum-olbaron-kay-rieck-ins-gefangnis-muss) |
 | **Transkript** | [[Transkript 147]] (Wort-genau mit Zeitstempeln, mit dem offiziellen Transkript abgeglichen) |
 | **Fälle** | [[Wirecard]], [[Alaska-Ölbohrungen (Kay Rieck)]] |
-| **Themen** | [[Insolvenz]], [[Bankrott und Vermögensverschleierung]] |
+| **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Bankrott und Vermögensverschleierung]], [[Untersuchungshaft]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Kay Rieck]] |
-| **Kurz erwähnt** | [[Betrug]], [[Schneeballsystem]], [[Insolvenzverschleppung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Lars-Marten Nagel]], [[Kay Rieck]] |
+| **Kurz erwähnt** | [[Betrug]], [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 
 ## Shownotes
 

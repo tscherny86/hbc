@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-09-13 |
 | **Dauer** | 40:24 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77) · [MP3](https://audio.podigee-cdn.net/869595-m-ff4828500f87e4baafea863730fe0d1a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/26-neue-episode) |
-| **Transkript** | [[Transkript 026]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]], [[Kai-Uwe Steck]] |
-| **Kurz erwähnt** | [[Goldanlage]], [[Handelsblatt]] |
+| **Transkript** | [[Transkript 026]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]], [[Anne Brorhilker]], [[Kai-Uwe Steck]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 

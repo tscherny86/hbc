@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-10-23 |
 | **Dauer** | 1:07:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU) · [MP3](https://audio.podigee-cdn.net/872360-m-3b180a218399974bc4124a6881e61676.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/27-neue-episode) |
-| **Transkript** | [[Transkript 027]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[Landgericht Bonn]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Kai-Uwe Steck]] |
-| **Kurz erwähnt** | [[Insolvenz]], [[Goldanlage]], [[Handelsblatt]] |
+| **Transkript** | [[Transkript 027]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Anne Brorhilker]], [[Kai-Uwe Steck]] |
+| **Kurz erwähnt** | [[Insolvenz]], [[Goldanlage]] |
 
 ## Shownotes
 
@@ -54,7 +54,7 @@ Raubritter mit beschränkter Haftung
 
 - [0:03](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3) – Es geht um den Cum-Ex-Skandal, den wohl größten Steuerskandal in der Geschichte der Bundesrepublik. Damit ließen sich Investoren … ([[Transkript 027#Minute 0|Transkript]])
 - [2:05](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=125) – Der Beziehung zwischen Frey und Berger tat dies keinen Abbruch. Trotzdem kam es dann zum Bruch. Und genau … ([[Transkript 027#Minute 2|Transkript]])
-- [4:05](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=245) – Am Anfang Dewey Ballantyne, dann Dewey und Leboeuf. Und der hat sein Team sehr schnell hochgezogen. Am Anfang … ([[Transkript 027#Minute 4|Transkript]])
+- [4:05](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=245) – Am Anfang Dewey Ballantine, dann Dewey & LeBoeuf. Und der hat sein Team sehr schnell hochgezogen. Am Anfang … ([[Transkript 027#Minute 4|Transkript]])
 - [6:09](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=369) – Und das hat sich natürlich auch wieder gespiegelt. Am Anfang ist er noch relativ bescheiden einquartiert worden in … ([[Transkript 027#Minute 6|Transkript]])
 - [8:12](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=492) – Also wir haben ja gehört, das fing bei Berger so 2005 an, 2006, 2007. Er hat es eigentlich … ([[Transkript 027#Minute 8|Transkript]])
 - [10:16](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=616) – Denn wenn er nachts mal aufwachte oder eine zündende Idee hatte, ob jetzt im Wachtraum oder im Schlaftraum, … ([[Transkript 027#Minute 10|Transkript]])
@@ -63,12 +63,12 @@ Raubritter mit beschränkter Haftung
 - [16:26](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=986) – Also ganz allgemein gesprochen. Also die bösgläubigen Investoren, die wussten, wie das funktioniert. Und deshalb ermittelt die Staatsanwaltschaft … ([[Transkript 027#Minute 16|Transkript]])
 - [18:31](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1111) – Auf der anderen Seite würden Sie dieses Geld jemandem geben, 90 Tage lang, ohne zu fragen, was er … ([[Transkript 027#Minute 18|Transkript]])
 - [20:37](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1237) – Das ist halt so ein althergebrachter Jurasatz, dass ein Anwalt nicht nur einfach die Stur, die Interessen der … ([[Transkript 027#Minute 20|Transkript]])
-- [22:42](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1362) – Aber dieser Mann, der hat halt auch zu Berger und frei gesagt, ich verdiene hier viel zu wenig … ([[Transkript 027#Minute 22|Transkript]])
+- [22:42](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1362) – Aber dieser Mann, der hat halt auch zu Berger und Frey gesagt, ich verdiene hier viel zu wenig … ([[Transkript 027#Minute 22|Transkript]])
 - [24:45](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1485) – Ja, das ist auf jeden Fall ein guter Punkt. Es gibt ja viele Verhaltensweisen, sag ich mal, von … ([[Transkript 027#Minute 24|Transkript]])
 - [26:48](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1608) – Und plötzlich war die Polizei im Haus. Das war dramatisch. Und für eine Kanzlei, das hat Frey später … ([[Transkript 027#Minute 26|Transkript]])
 - [28:50](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1730) – Und er hat ihn also selbst gesprochen auch während dieser Durchsuchung und hat dann gesagt, Herr Dr. Berger, … ([[Transkript 027#Minute 28|Transkript]])
 - [31:00](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1860) – Das waren Verpflichtungen, denen konnte man sich auch nicht so einfach entziehen. Und vielleicht hat man sich damals … ([[Transkript 027#Minute 31|Transkript]])
-- [33:11](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1991) – Insgesamt werden acht Anwälte zu Heuking, Kühn, Lühr, Woitek wechseln. Die vier Partner bringen neben dem Salaried Partner … ([[Transkript 027#Minute 33|Transkript]])
+- [33:11](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1991) – Insgesamt werden acht Anwälte zu Heuking, Kühn Lüer Wojtek wechseln. Die vier Partner bringen neben dem Salaried Partner … ([[Transkript 027#Minute 33|Transkript]])
 - [35:14](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2114) – Ja, und sowas schafft natürlich Unruhe in einer Kanzlei. Das haben wir eben schon gehört bei der Kanzlei … ([[Transkript 027#Minute 35|Transkript]])
 - [37:17](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2237) – Deshalb hat man sich dann getrennt, auf wessen Initiative das letztendlich zurückzuführen ist, das kann man nicht genau … ([[Transkript 027#Minute 37|Transkript]])
 - [39:26](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2366) – Natürlich und das vielleicht auch als kleine Warnung an alle, die sich jetzt überlegen sollten, solche Geschäfte oder … ([[Transkript 027#Minute 39|Transkript]])
@@ -76,9 +76,9 @@ Raubritter mit beschränkter Haftung
 - [44:24](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2664) – Ja, bei Steuerberater und sein Job war es natürlich, reiche Leute zu beraten und weil er seinen Job … ([[Transkript 027#Minute 44|Transkript]])
 - [46:33](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2793) – Ja, du hast das richtige Wort schon gesagt, vermeintlich unabhängige Dritte. Er hat also Aufsätze bestellt, um dann … ([[Transkript 027#Minute 46|Transkript]])
 - [48:40](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=2920) – Und diese Gutachten waren dann im Kampf gegen die Staatsanwaltschaft praktisch das Florett von dem Herrn Dr. Berger. … ([[Transkript 027#Minute 48|Transkript]])
-- [50:47](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3047) – Ja, vielleicht nicht sofort, aber nach der Aussage von dem Anwalt von dem frei war klar, dass das … ([[Transkript 027#Minute 50|Transkript]])
+- [50:47](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3047) – Ja, vielleicht nicht sofort, aber nach der Aussage von dem Anwalt von dem Frey war klar, dass das … ([[Transkript 027#Minute 50|Transkript]])
 - [52:56](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3176) – Ja, genau. Also er hat seit Ende 2016 unzählige Male ausgesagt bei der Staatsanwaltschaft in Köln oder beim … ([[Transkript 027#Minute 52|Transkript]])
-- [54:58](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3298) – Berger hat ja durchaus mal durchgetauscht zwischendurch. Ja, das sind dieselben. Also am Anfang hatte Freie andere, die … ([[Transkript 027#Minute 54|Transkript]])
+- [54:58](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3298) – Berger hat ja durchaus mal durchgetauscht zwischendurch. Ja, das sind dieselben. Also am Anfang hatte Frey andere, die … ([[Transkript 027#Minute 54|Transkript]])
 - [57:10](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3430) – Eine Protokollführerin, zwei Anwälte und meine Wenigkeit. Da wird die Luft schon eng bei acht Quadratmetern. Wenn ich … ([[Transkript 027#Minute 57|Transkript]])
 - [59:20](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3560) – Der Richter verlangt, dass der Schaden wieder gut gemacht wird. Und auf der Seite hat Berger natürlich relativ … ([[Transkript 027#Minute 59|Transkript]])
 - [1:01:24](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=3684) – Abgesehen davon gab es vorher schon, also in den Jahren davor diese Taten und insgesamt ist Berger ja … ([[Transkript 027#Minute 61|Transkript]])

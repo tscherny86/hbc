@@ -26,9 +26,21 @@ Am 26. März 2026 rückten in sechs Ländern mehr als 400 Beamte aus und durchsu
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:12](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=72) · [[Transkript 144#Minute 1|im Transkript]]
 
+> … diesen großen Artikel im Handelsblatt veröffentlicht, für die ihr wirklich monatelang in Reppegathers Umfeld recherchiert habt. Und klar, da sprechen wir gleich natürlich nochmal genau drüber. Aber jetzt sind wir eben an diesem Punkt …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 3:04](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=184) · [[Transkript 144#Minute 3|im Transkript]]
+
+> … schon die erste offizielle Pressemitteilung der Staatsanwaltschaft Düsseldorf. Da war nicht von Reppegather die Rede, sondern von einem Düsseldorfer Immobilienentwickler und weiteren Personen. Klar, machen Sie ja immer erstmal irgendwie, das müssen Sie auch …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 9:06](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=546) · [[Transkript 144#Minute 9|im Transkript]]
+
+> … Gröner immer noch mit der Insolvenz kämpft, Benko sitzt im Gefängnis, hat Reppegather und seine Centrum-Gruppe, die haben diese Pleite halt vergleichsweise schnell hinter sich gelassen. Und ehrlich gesagt kaum Federn gelassen. Und als …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 11:08](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=668) · [[Transkript 144#Minute 11|im Transkript]]
+
 ## In diesen Folgen (1)
 
-- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes · Minute [1:12](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=72)
+- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes · Minute [1:12](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=72), [3:04](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=184), [9:06](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=546), [11:08](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=668)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

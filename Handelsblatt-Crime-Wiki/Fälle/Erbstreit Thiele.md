@@ -35,7 +35,7 @@ Der Fall zeigt, wie Nachfolgeregelungen in Milliardenvermögen scheitern, wenn P
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 3:52](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=232) · [[Transkript 038#Minute 3|im Transkript]]
 
-> … der Eigentümer, der hieß damals Jens von Bandimmer. Und der hat dem Thiele gesagt, Herr Thiele, ich habe jetzt eine Sonderaufgabe für Sie, bitte verkaufen Sie das Unternehmen. Und ja, damit war, wer immer …
+> … der Eigentümer, der hieß damals Jens von Bandemer. Und der hat dem Thiele gesagt, Herr Thiele, ich habe jetzt eine Sonderaufgabe für Sie, bitte verkaufen Sie das Unternehmen. Und ja, damit war, wer immer …
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 5:52](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=352) · [[Transkript 038#Minute 5|im Transkript]]
 
@@ -47,13 +47,17 @@ Der Fall zeigt, wie Nachfolgeregelungen in Milliardenvermögen scheitern, wenn P
 >
 > — [[041 Streit um das Erbe von Peter Dussmann|#41]], [Minute 8:28](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=508) · [[Transkript 041#Minute 8|im Transkript]]
 
+> … das Phänomen Schwiegertochter und Witwe, die sich streiten, so wie bei den Thieles, sondern hier sind es tatsächlich Mutter und leibliche Tochter. Und es gibt ein Testament aus 1981. Also das wurde dann verfasst …
+>
+> — [[041 Streit um das Erbe von Peter Dussmann|#41]], [Minute 16:30](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=990) · [[Transkript 041#Minute 16|im Transkript]]
+
 ## In diesen Folgen (1)
 
 - [[038 Streit um das Milliarden-Erbe von Thiele|#38 – Streit um das Milliarden-Erbe von Thiele]] (2023-02-26) — Shownotes · Minute [0:14](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=14), [2:04](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=124), [3:52](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=232), [5:52](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=352)
 
 ## Kurz erwähnt (1)
 
-- [[041 Streit um das Erbe von Peter Dussmann|#41 – Streit um das Erbe von Peter Dussmann]] (2023-04-09) — Minute [1:25](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=85), [8:28](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=508)
+- [[041 Streit um das Erbe von Peter Dussmann|#41 – Streit um das Erbe von Peter Dussmann]] (2023-04-09) — Minute [1:25](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=85), [8:28](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=508), [16:30](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=990)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-07-13 |
 | **Dauer** | 1:05:27 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1) · [MP3](https://audio.podigee-cdn.net/1482076-m-c3742b6f7e14c5d4feb88c1d951957ab.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/86-neue-episode) |
-| **Transkript** | [[Transkript 086]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 086]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Thomas Lloyd]] |
-| **Themen** | [[Wirtschaftsprüfung]] |
+| **Themen** | – |
 | **Unternehmen** | [[ThomasLloyd]] |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[Michael Verfürden]] |
-| **Kurz erwähnt** | [[Genossenschaftsbanken]], [[Handelsblatt]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 
@@ -53,7 +53,7 @@ ThomasLloyd stoppt Zahlungen – Anleger sind alarmiert
 - [6:17](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=377) – Das wäre nach der Definition in Deutschland eine mittelgroße Stadt. Sowas wie Bad Kissingen oder Herzogenaurach. Oder es … ([[Transkript 086#Minute 6|Transkript]])
 - [8:23](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=503) – Those are the real action heroes. Your company helps empower those heroes. I can tell you that you … ([[Transkript 086#Minute 8|Transkript]])
 - [10:29](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=629) – Es sind Grundvoraussetzungen für jemanden, der einer der wichtigsten Staatsmänner dieser Welt werden möchte, nämlich der Präsident der … ([[Transkript 086#Minute 10|Transkript]])
-- [12:36](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=756) – Also in seinen Prospekten dieser Fonds hat Thomas Leuth also auch geschrieben, dass sie da irgendwie 18 Prozent … ([[Transkript 086#Minute 12|Transkript]])
+- [12:36](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=756) – Also in seinen Prospekten dieser Fonds hat Thomas Lloyd also auch geschrieben, dass sie da irgendwie 18 Prozent … ([[Transkript 086#Minute 12|Transkript]])
 - [14:39](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=879) – Ja, wenn man das jetzt so hört, wie die für sich werben, diese sphärischen Klänge da im Hintergrund … ([[Transkript 086#Minute 14|Transkript]])
 - [16:45](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=1005) – Dann mit meinen kompletten Ersparnissen zu dem Zeitpunkt von 100.000 Euro. Und die Zinszahlungen kamen zunächst sehr pünktlich … ([[Transkript 086#Minute 16|Transkript]])
 - [18:48](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=1128) – Dann ist doch eigentlich alles gut. Also warum hebt sie jetzt so hervor, dass sie nichts oder wenig … ([[Transkript 086#Minute 18|Transkript]])
@@ -66,17 +66,17 @@ ThomasLloyd stoppt Zahlungen – Anleger sind alarmiert
 - [33:21](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2001) – Wie sieht es denn seitdem aus? Ja, und das ist halt der nächste Punkt, der viele Beobachter von … ([[Transkript 086#Minute 33|Transkript]])
 - [35:30](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2130) – Und jetzt stelle man sich mal vor, seine Hausbank lässt das bei der Transparenz so schleifen. Ja, da … ([[Transkript 086#Minute 35|Transkript]])
 - [37:43](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2263) – Ich habe mehrmals jede Woche dann auf meinem Konto geschaut. Ich habe auch mit meinem Banker einmal Kontakt … ([[Transkript 086#Minute 37|Transkript]])
-- [39:53](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2393) – Nun ist aber auch so, dass der Herr Klein uns gegenüber gesagt hat, man wolle aus Kulanz gründen, … ([[Transkript 086#Minute 39|Transkript]])
-- [42:06](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2526) – Aber wie soll ich sagen, bei Thomas Leuth, es gibt da diese Farbe von dem Jungen, der immer … ([[Transkript 086#Minute 42|Transkript]])
+- [39:53](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2393) – Nun ist aber auch so, dass der Herr Klein uns gegenüber gesagt hat, man wolle aus Kulanzgründen, die … ([[Transkript 086#Minute 39|Transkript]])
+- [42:06](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2526) – Aber wie soll ich sagen, bei Thomas Lloyd, es gibt da diese Fabel von dem Jungen, der immer … ([[Transkript 086#Minute 42|Transkript]])
 - [44:14](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2654) – Und das ist also... Nimm uns mal mit. Ja, das ist wirklich so, da ist die Kirche und … ([[Transkript 086#Minute 44|Transkript]])
 - [46:38](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2798) – Und dann nochmal, also diese beiden Endpunkte zwischen Singapur und Emsland, das ist schon, das ist schon skurril, … ([[Transkript 086#Minute 46|Transkript]])
 - [48:44](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2924) – Das sollte doch in Asien sein, oder? Stimmt, jetzt habe ich mich schon irgendwie im Firmengeflecht von Thomas … ([[Transkript 086#Minute 48|Transkript]])
 - [50:49](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3049) – Das heißt, die haben für den ganzen Trust den Job gemacht, das Portfolio Management zu steuern und sozusagen … ([[Transkript 086#Minute 50|Transkript]])
 - [52:50](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3170) – Ja, das hat es richtig geknallt offenbar. Und wir können heute nicht mehr abschließend bewerten, wer in diesem … ([[Transkript 086#Minute 52|Transkript]])
 - [54:51](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3291) – Großformatige Fotos der Solaranlagen, die tollen Energiewerte in Asien, die uns die ganz dicken Renditen bescheren werden. Und … ([[Transkript 086#Minute 54|Transkript]])
-- [56:55](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3415) – Also Anleger wie Charles de Verbrannt, die werden halt vertröstet. Aber das Management beschwört jetzt immer weiter, dass … ([[Transkript 086#Minute 56|Transkript]])
+- [56:55](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3415) – Also Anleger wie Charlotte de Brabandt, die werden halt vertröstet. Aber das Management beschwört jetzt immer weiter, dass … ([[Transkript 086#Minute 56|Transkript]])
 - [58:59](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3539) – Das ist eine ganz schwere Frage. Das fragt sich ja der ein oder andere jetzt von denen und … ([[Transkript 086#Minute 58|Transkript]])
-- [1:01:00](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3660) – Gibt es da nicht so Gruppen oder so? Ja, das ist total interessant bei Thomas Leuth. Also in … ([[Transkript 086#Minute 61|Transkript]])
+- [1:01:00](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3660) – Gibt es da nicht so Gruppen oder so? Ja, das ist total interessant bei Thomas Lloyd. Also in … ([[Transkript 086#Minute 61|Transkript]])
 - [1:03:02](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3782) – Also wenn man das so hört, dann gibt es bei denen, bei Thomas Lloyd aktuell ja eigentlich gar … ([[Transkript 086#Minute 63|Transkript]])
 - [1:05:04](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=3904) – Ja, nachdenkliche Worte. Wir können noch nicht sagen, wie es ausgeht, aber ich bin mir sicher, du wirst … ([[Transkript 086#Minute 65|Transkript]])
 - [1:07:06](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=4026) – Setzen Sie ein klares Zeichen. Stärken Sie Ihre Arbeitgebermarke und geben Sie Bewerberinnen und Bewerbern die Orientierung, die … ([[Transkript 086#Minute 67|Transkript]])

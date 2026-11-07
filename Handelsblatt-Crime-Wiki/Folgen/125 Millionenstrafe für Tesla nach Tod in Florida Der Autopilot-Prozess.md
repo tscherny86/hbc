@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-09-07 |
 | **Dauer** | 50:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc) · [MP3](https://audio.podigee-cdn.net/2028188-m-f7ff786024ca10fb96cf706a278b945b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/125-tesla-autopilot-urteil) |
-| **Transkript** | [[Transkript 125]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 125]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]], [[Tesla-Autopilot-Prozess (Benavides)]] |
 | **Themen** | [[Autonomes Fahren]], [[Betriebsrat und Mitbestimmung]] |
 | **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Elon Musk]] |
-| **Kurz erwähnt** | [[Tesla-Betriebsratswahl Grünheide]], [[Tesla-Experiment (autonomes Fahren)]], [[Cyberangriff und Ransomware]] |
+| **Kurz erwähnt** | [[Tesla-Experiment (autonomes Fahren)]] |
 
 ## Shownotes
 
@@ -41,7 +41,7 @@ Feedback oder Fragen? Schreiben Sie uns an crime@handelsblatt.com
 ## Zeitmarken
 
 - [0:05](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=5) – In NHTSA and the National Transportation Safety Board, the two federal agencies that look at these things had … ([[Transkript 125#Minute 0|Transkript]])
-- [2:07](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=127) – Dabei gibt es die Zweifel am Autopiloten schon seit Jahren. Heute bei mir im Studio sind Sönke Iverson … ([[Transkript 125#Minute 2|Transkript]])
+- [2:07](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=127) – Dabei gibt es die Zweifel am Autopiloten schon seit Jahren. Heute bei mir im Studio sind Sönke Iwersen … ([[Transkript 125#Minute 2|Transkript]])
 - [4:10](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=250) – Und wir würden uns natürlich freuen, wenn auch einige Hörer kommen und Fragen stellen und uns einfach zuhören, … ([[Transkript 125#Minute 4|Transkript]])
 - [6:12](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=372) – Na, Vodafone Business. Stimmt, wir haben die passenden Services für jedes Unternehmen. Von IT-Sicherheit über KI-Tools bis zum … ([[Transkript 125#Minute 6|Transkript]])
 - [8:17](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=497) – Genau, das ist der Wagen von einem Mann namens George McGee. Der ist 42 Jahre alt, Finanzmanager und … ([[Transkript 125#Minute 8|Transkript]])
@@ -59,7 +59,7 @@ Feedback oder Fragen? Schreiben Sie uns an crime@handelsblatt.com
 - [33:16](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=1996) – Wir glauben, ihr habt grob fahrlässig gehandelt und damit das nicht wieder passiert ist, müssen wir euch jetzt … ([[Transkript 125#Minute 33|Transkript]])
 - [35:22](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2122) – Dieser ganze Prozess hatte überhaupt nichts mit dem Autopiloten zu tun und tatsächlich wie angekündigt, also jetzt vor … ([[Transkript 125#Minute 35|Transkript]])
 - [37:35](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2255) – Ja und ich habe das jetzt geahnt, sage ich mal, dass Tesla nicht einfach sagt, hier habt ihr … ([[Transkript 125#Minute 37|Transkript]])
-- [39:38](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2378) – Genau, also das hat Thorpe mir auch nochmal gesagt, also nicht nur wie wichtig das Urteil ist, seine … ([[Transkript 125#Minute 39|Transkript]])
+- [39:38](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2378) – Genau, also das hat Todd mir auch nochmal gesagt, also nicht nur wie wichtig das Urteil ist, seine … ([[Transkript 125#Minute 39|Transkript]])
 - [41:40](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2500) – Da in dieser Giga Factory, da kann man sagen, hängt der Haussegen schief. Wie läuft's da? Kannst du … ([[Transkript 125#Minute 41|Transkript]])
 - [44:41](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2681) – Seite der anderen vor dass sie nicht im Sinne der Beschäftigten handelt und deshalb gibt es da diesen … ([[Transkript 125#Minute 44|Transkript]])
 - [47:41](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=2861) – mich jemand und winken dann eben doch ab und ein Mitarbeiter war etwas offener und hat mir tatsächlich … ([[Transkript 125#Minute 47|Transkript]])

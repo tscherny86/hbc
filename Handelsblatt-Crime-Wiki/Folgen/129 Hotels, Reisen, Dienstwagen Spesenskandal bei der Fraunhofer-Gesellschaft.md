@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-11-02 |
 | **Dauer** | 59:19 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj) · [MP3](https://audio.podigee-cdn.net/2145579-m-ff3ad00d532f4c47601b8ffc0b94ff35.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/129-hotels-reisen-dienstwagen-spesenskandal-bei-der-fraunhofer-gesellschaft) |
-| **Transkript** | [[Transkript 129]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 129]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fraunhofer-Spesenaffäre]] |
 | **Themen** | [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]] |
-| **Unternehmen** | [[Audi]], [[Fraunhofer-Gesellschaft]] |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
-| **Kurz erwähnt** | [[Audi-Dieselskandal]], [[Tesla-Files]], [[Tesla]], [[Handelsblatt]] |
+| **Unternehmen** | [[Fraunhofer-Gesellschaft]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Lars-Marten Nagel]] |
+| **Kurz erwähnt** | [[Tesla-Files]], [[Continental-Dieselskandal]], [[Tesla]] |
 
 ## Shownotes
 
@@ -52,7 +52,7 @@ Produziert von Migo Fecke
 - [4:06](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=246) – Also wenn Sie das interessiert, dann kommen Sie nach München, kommen Sie ins Bergson, seien Sie live dabei … ([[Transkript 129#Minute 4|Transkript]])
 - [6:08](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=368) – Da gab es die Fraunhofer-Gesellschaft, die hat glaube ich 60, 70 Institute und eins ist das SIT, das … ([[Transkript 129#Minute 6|Transkript]])
 - [8:09](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=489) – Aber man braucht eine lange Zeit, um so einen Ruf aufzubauen. Und diese Zeit existiert auch die Fraunhofer-Gesellschaft. … ([[Transkript 129#Minute 8|Transkript]])
-- [10:15](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=615) – Da kann man nennen, Sotlarzellen, 3D-Druck, Lasertechnik, Medizintechnik. Also viele Technologien, die heute in Autos, in Smartphones oder … ([[Transkript 129#Minute 10|Transkript]])
+- [10:15](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=615) – Da kann man nennen, Solarzellen, 3D-Druck, Lasertechnik, Medizintechnik. Also viele Technologien, die heute in Autos, in Smartphones oder … ([[Transkript 129#Minute 10|Transkript]])
 - [12:18](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=738) – Es geht halt nicht nur um ein paar fragwürdige Belege, sondern im Grunde um die Frage, ob hier … ([[Transkript 129#Minute 12|Transkript]])
 - [14:34](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=874) – Und wenn man sich, wenn sie sich die Prüfer halt fragten, wie konnten die passieren, haben die geguckt, … ([[Transkript 129#Minute 14|Transkript]])
 - [16:42](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=1002) – Also jemand, der sich erstmal selbst alles beigebracht hat, der selbst viel Praxiserfahrung auch hat. Und sein Thema … ([[Transkript 129#Minute 16|Transkript]])
@@ -67,11 +67,11 @@ Produziert von Migo Fecke
 - [35:18](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2118) – Und naja, dann reißt halt ein, wenn der Chef das so macht, dann warum sollten die anderen das … ([[Transkript 129#Minute 35|Transkript]])
 - [37:27](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2247) – Also jedenfalls aus Sicht der Rechnungsprüfer waren das überhaupt gar keine akzeptablen Gründe. Naja, dass es mal eine … ([[Transkript 129#Minute 37|Transkript]])
 - [39:35](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2375) – Aus den Aufzeichnungen war einfach nicht ersichtlich, ob da auch Externe aus der Industrie oder von woanders her … ([[Transkript 129#Minute 39|Transkript]])
-- [41:42](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2502) – Also das hat im Himmel ja stattgefunden und das muss wahrscheinlich auch stattfinden. Aber es ist natürlich auch … ([[Transkript 129#Minute 41|Transkript]])
-- [43:46](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2626) – Da ging es ja auch um teure Dienstwegen. Das war hier doch auch der Fall, oder? Vielleicht noch … ([[Transkript 129#Minute 43|Transkript]])
+- [41:42](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2502) – Also das hat immer ja stattgefunden und das muss wahrscheinlich auch stattfinden. Aber es ist natürlich auch immer … ([[Transkript 129#Minute 41|Transkript]])
+- [43:46](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2626) – Da ging es ja auch um teure Dienstwagen. Das war hier doch auch der Fall, oder? Vielleicht noch … ([[Transkript 129#Minute 43|Transkript]])
 - [45:52](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2752) – Diese Details halt, das Bogenschießen und wirklich ein bisschen grotesk aus der Sicht der Öffentlichkeit. Und wahrscheinlich auch … ([[Transkript 129#Minute 45|Transkript]])
 - [47:54](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2874) – Also es gibt eine Ermittlung gegen eine vierte Person aus diesem Fraunhofer Führungskreis. Und die finden wir insofern … ([[Transkript 129#Minute 47|Transkript]])
-- [49:56](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2996) – Also Reisen, Spesen, Dienstwagen, alles viel in ihren Verantwortungsbereich. Ja, und trotzdem danach eben die Beförderung. Was sagt … ([[Transkript 129#Minute 49|Transkript]])
+- [49:56](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2996) – Also Reisen, Spesen, Dienstwagen, alles fiel in ihren Verantwortungsbereich. Ja, und trotzdem danach eben die Beförderung. Was sagt … ([[Transkript 129#Minute 49|Transkript]])
 - [51:57](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=3117) – Aber wenn wir jetzt mal zusammenfassen, was hat denn der Spesen-Skandal die Fraunhofer-Gesellschaft jetzt insgesamt gekostet? Ja, das … ([[Transkript 129#Minute 51|Transkript]])
 - [54:06](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=3246) – Also schon mal doppelt so viel oder fast doppelt so viel wie der eigentliche Schaden, den man bei … ([[Transkript 129#Minute 54|Transkript]])
 - [56:06](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=3366) – Das heißt, für jeden Euro Steuern, den du nachzahlen musst, gibst du bei der Fraunhofer-Gesellschaft 26 Euro, glaube … ([[Transkript 129#Minute 56|Transkript]])

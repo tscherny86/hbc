@@ -6,11 +6,11 @@
    "\\bCum[- ]?Ex\\b",
    "\\bKapitalertrag(s)?steuer\\w*",
    "\\bAktienkreisgeschäft\\w*",
-   "\\bDividendenstichtag\\w*",
-   "\\bLeerverk[aä]uf\\w*"
+   "\\bDividendenstichtag\\w*"
   ],
   "summary": "Aktiendeals um den Dividendenstichtag, bei denen nie gezahlte Kapitalertragsteuer mehrfach erstattet wurde.",
-  "body": "**Cum-Ex-Geschäfte** sind Aktientransaktionen rund um den Dividendenstichtag: Aktien werden kurz vor der Ausschüttung mit (lateinisch *cum*) Dividendenanspruch verkauft, aber erst danach ohne (*ex*) Dividende geliefert. Durch das Zusammenspiel von Leerverkäufer, Käufer und Depotbank entstanden mehrere Bescheinigungen über eine nur einmal abgeführte Kapitalertragsteuer. Diese ließen sich die Beteiligten vom Finanzamt erstatten – teils doppelt oder mehrfach.\n\nDie Geschäfte liefen etwa von 2001 bis 2012, als der Gesetzgeber die Lücke schloss. Der Schaden für den deutschen Fiskus wird auf mindestens zehn bis zwölf Milliarden Euro geschätzt; europaweit ist von deutlich mehr die Rede. Beteiligt waren Großbanken, Landesbanken, Privatbanken, Fonds, Steueranwälte und vermögende Privatinvestoren.\n\n**Rechtslage:** Der Bundesgerichtshof entschied 2021, dass Cum-Ex-Geschäfte strafbare Steuerhinterziehung nach § 370 Abgabenordnung sind. In besonders schweren Fällen (ab 50.000 Euro Schaden) drohen sechs Monate bis zehn Jahre Haft. Gewinne können nach §§ 73 ff. StGB eingezogen werden, auch bei Banken.\n\n**Aufarbeitung:** Zentrale Ermittlungsbehörde ist die Staatsanwaltschaft Köln mit mehr als 120 Verfahren und über 1.700 Beschuldigten. Die ersten Urteile fielen 2020 am Landgericht Bonn. Prominente Verurteilte sind der Steueranwalt Hanno Berger und ehemalige Banker der Warburg-Gruppe."
+  "body": "**Cum-Ex-Geschäfte** sind Aktientransaktionen rund um den Dividendenstichtag: Aktien werden kurz vor der Ausschüttung mit (lateinisch *cum*) Dividendenanspruch verkauft, aber erst danach ohne (*ex*) Dividende geliefert. Durch das Zusammenspiel von Leerverkäufer, Käufer und Depotbank entstanden mehrere Bescheinigungen über eine nur einmal abgeführte Kapitalertragsteuer. Diese ließen sich die Beteiligten vom Finanzamt erstatten – teils doppelt oder mehrfach.\n\nDie Geschäfte liefen etwa von 2001 bis 2012, als der Gesetzgeber die Lücke schloss. Der Schaden für den deutschen Fiskus wird auf mindestens zehn bis zwölf Milliarden Euro geschätzt; europaweit ist von deutlich mehr die Rede. Beteiligt waren Großbanken, Landesbanken, Privatbanken, Fonds, Steueranwälte und vermögende Privatinvestoren.\n\n**Rechtslage:** Der Bundesgerichtshof entschied 2021, dass Cum-Ex-Geschäfte strafbare Steuerhinterziehung nach § 370 Abgabenordnung sind. In besonders schweren Fällen (ab 50.000 Euro Schaden) drohen sechs Monate bis zehn Jahre Haft. Gewinne können nach §§ 73 ff. StGB eingezogen werden, auch bei Banken.\n\n**Aufarbeitung:** Zentrale Ermittlungsbehörde ist die Staatsanwaltschaft Köln mit mehr als 120 Verfahren und über 1.700 Beschuldigten. Die ersten Urteile fielen 2020 am Landgericht Bonn. Prominente Verurteilte sind der Steueranwalt Hanno Berger und ehemalige Banker der Warburg-Gruppe.",
+  "min": 6
  },
  {
   "name": "Cum-Cum-Geschäfte",
@@ -85,12 +85,11 @@
   "patterns": [
    "\\bInsolvenzverwalter\\w*",
    "\\bSachwalter\\w*",
-   "\\bGläubigerversammlung\\w*",
-   "\\bInsolvenzmasse\\b",
-   "\\bGläubigerausschuss\\w*"
+   "\\bInsolvenzmasse\\b"
   ],
   "summary": "Vom Gericht eingesetzter Treuhänder, der das Vermögen eines insolventen Unternehmens sichert und verwertet.",
-  "body": "Der **Insolvenzverwalter** wird vom Insolvenzgericht bestellt (§ 56 InsO) und übernimmt mit Eröffnung des Verfahrens die Verwaltungs- und Verfügungsbefugnis über das Vermögen des Schuldners. Meist handelt es sich um spezialisierte Rechtsanwälte aus Kanzleien, die auf Restrukturierung und Insolvenzrecht ausgerichtet sind.\n\n**Aufgaben:**\n- Sicherung und Verwertung der Insolvenzmasse\n- Prüfung der Gläubigerforderungen und Verteilung der Quote\n- Fortführung oder Verkauf des Geschäftsbetriebs\n- **Anfechtung** von Zahlungen, die kurz vor der Insolvenz an einzelne Gläubiger oder nahestehende Personen flossen (§§ 129 ff. InsO)\n- Geltendmachung von Schadensersatz gegen frühere Vorstände, Aufsichtsräte und Wirtschaftsprüfer\n\nGerade die Haftungsklagen machen Insolvenzverwalter zu wichtigen Akteuren bei der Aufarbeitung von Wirtschaftsskandalen: Sie fordern Milliardenbeträge von Prüfgesellschaften oder verklagen Ex-Manager, deren D&O-Versicherungen dann oft die Zahlung verweigern. Ihre Gutachten für das Gericht enthalten häufig die erste unabhängige Analyse dessen, was in einem Unternehmen wirklich geschah.\n\nIn der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschäftsführung nur überwacht. Die Vergütung des Verwalters richtet sich nach der Masse und kann bei Großverfahren Millionen betragen, was regelmäßig Kritik auslöst."
+  "body": "Der **Insolvenzverwalter** wird vom Insolvenzgericht bestellt (§ 56 InsO) und übernimmt mit Eröffnung des Verfahrens die Verwaltungs- und Verfügungsbefugnis über das Vermögen des Schuldners. Meist handelt es sich um spezialisierte Rechtsanwälte aus Kanzleien, die auf Restrukturierung und Insolvenzrecht ausgerichtet sind.\n\n**Aufgaben:**\n- Sicherung und Verwertung der Insolvenzmasse\n- Prüfung der Gläubigerforderungen und Verteilung der Quote\n- Fortführung oder Verkauf des Geschäftsbetriebs\n- **Anfechtung** von Zahlungen, die kurz vor der Insolvenz an einzelne Gläubiger oder nahestehende Personen flossen (§§ 129 ff. InsO)\n- Geltendmachung von Schadensersatz gegen frühere Vorstände, Aufsichtsräte und Wirtschaftsprüfer\n\nGerade die Haftungsklagen machen Insolvenzverwalter zu wichtigen Akteuren bei der Aufarbeitung von Wirtschaftsskandalen: Sie fordern Milliardenbeträge von Prüfgesellschaften oder verklagen Ex-Manager, deren D&O-Versicherungen dann oft die Zahlung verweigern. Ihre Gutachten für das Gericht enthalten häufig die erste unabhängige Analyse dessen, was in einem Unternehmen wirklich geschah.\n\nIn der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschäftsführung nur überwacht. Die Vergütung des Verwalters richtet sich nach der Masse und kann bei Großverfahren Millionen betragen, was regelmäßig Kritik auslöst.",
+  "min": 6
  },
  {
   "name": "Insolvenzverschleppung",
@@ -99,10 +98,11 @@
    "\\bInsolvenzverschleppung\\w*",
    "\\bVerschleppung von Insolvenz\\w*",
    "\\bInsolvenzantragspflicht\\w*",
-   "\\bverschleppt\\w*"
+   "\\bInsolvenz\\w* verschleppt\\w*"
   ],
   "summary": "Strafbares Verzögern des Insolvenzantrags trotz Zahlungsunfähigkeit oder Überschuldung (§ 15a InsO).",
-  "body": "**Insolvenzverschleppung** begeht, wer als Geschäftsführer oder Vorstand einer Kapitalgesellschaft den Insolvenzantrag nicht, nicht richtig oder nicht rechtzeitig stellt. Nach § 15a InsO muss der Antrag ohne schuldhaftes Zögern, spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit (bei Überschuldung sechs Wochen) gestellt werden.\n\n**Strafrahmen:** Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei Fahrlässigkeit bis zu einem Jahr. Häufig kommt es in Kombination mit Betrug vor, etwa wenn Kunden Vorkasse leisten oder Anleger Geld geben, obwohl das Unternehmen längst zahlungsunfähig ist (Eingehungsbetrug). Auch das Nichtabführen von Sozialversicherungsbeiträgen (§ 266a StGB) begleitet solche Fälle oft.\n\n**Warum es so häufig vorkommt:** Unternehmer hoffen auf Rettung durch neue Investoren, scheuen den Reputationsverlust oder wollen Zeit gewinnen, um Vermögen zu sichern. Je länger der Antrag hinausgezögert wird, desto größer wird in der Regel der Schaden für Gläubiger, Beschäftigte und Kunden.\n\n**Zivilrechtlich** haften Geschäftsführer persönlich für Zahlungen, die nach Insolvenzreife geleistet wurden, und können für mehrere Jahre von der Geschäftsführung ausgeschlossen werden. Für den Nachweis ist entscheidend, wann die Insolvenzreife objektiv eingetreten war – meist eine Frage für Sachverständige und Insolvenzverwalter."
+  "body": "**Insolvenzverschleppung** begeht, wer als Geschäftsführer oder Vorstand einer Kapitalgesellschaft den Insolvenzantrag nicht, nicht richtig oder nicht rechtzeitig stellt. Nach § 15a InsO muss der Antrag ohne schuldhaftes Zögern, spätestens drei Wochen nach Eintritt der Zahlungsunfähigkeit (bei Überschuldung sechs Wochen) gestellt werden.\n\n**Strafrahmen:** Freiheitsstrafe bis zu drei Jahren oder Geldstrafe; bei Fahrlässigkeit bis zu einem Jahr. Häufig kommt es in Kombination mit Betrug vor, etwa wenn Kunden Vorkasse leisten oder Anleger Geld geben, obwohl das Unternehmen längst zahlungsunfähig ist (Eingehungsbetrug). Auch das Nichtabführen von Sozialversicherungsbeiträgen (§ 266a StGB) begleitet solche Fälle oft.\n\n**Warum es so häufig vorkommt:** Unternehmer hoffen auf Rettung durch neue Investoren, scheuen den Reputationsverlust oder wollen Zeit gewinnen, um Vermögen zu sichern. Je länger der Antrag hinausgezögert wird, desto größer wird in der Regel der Schaden für Gläubiger, Beschäftigte und Kunden.\n\n**Zivilrechtlich** haften Geschäftsführer persönlich für Zahlungen, die nach Insolvenzreife geleistet wurden, und können für mehrere Jahre von der Geschäftsführung ausgeschlossen werden. Für den Nachweis ist entscheidend, wann die Insolvenzreife objektiv eingetreten war – meist eine Frage für Sachverständige und Insolvenzverwalter.",
+  "min": 3
  },
  {
   "name": "Bankrott und Vermögensverschleierung",
@@ -128,7 +128,8 @@
    "\\bVermögensbetreuungspflicht\\w*"
   ],
   "summary": "Pflichtwidriger Umgang mit fremdem Vermögen, das einem anvertraut wurde (§ 266 StGB).",
-  "body": "**Untreue** nach § 266 StGB begeht, wer eine ihm eingeräumte Befugnis über fremdes Vermögen missbraucht oder eine Vermögensbetreuungspflicht verletzt und dem Vermögensinhaber dadurch einen Nachteil zufügt. Anders als beim Betrug ist keine Täuschung erforderlich – der Täter handelt von innen heraus, etwa als Vorstand, Geschäftsführer, Bankvorstand, Verwalter oder Treuhänder.\n\n**Strafrahmen:** Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe; in besonders schweren Fällen (hoher Schaden, Gewerbsmäßigkeit) bis zu zehn Jahren. Eine Sonderform ist das **Vorenthalten von Arbeitsentgelt** (§ 266a StGB), wenn Sozialversicherungsbeiträge nicht abgeführt werden.\n\n**Typische Konstellationen:**\n- Kredite ohne ausreichende Sicherheiten an befreundete Unternehmer\n- Geschäfte zugunsten von Angehörigen oder eigenen Firmen\n- Spesen- und Reisekostenmissbrauch durch Führungskräfte\n- Zahlungen aus Anlegergeldern für private Zwecke\n- Zahlungen an Berater ohne erkennbare Gegenleistung\n\nDas Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konkret beziffert wird; Gerichte müssen deshalb genau prüfen, ob eine riskante unternehmerische Entscheidung noch vom Ermessen gedeckt war („Business Judgement Rule“, § 93 AktG) oder bereits pflichtwidrig. Untreue ist deshalb ein Delikt, das Verteidiger häufig erfolgreich bestreiten – und das trotzdem in fast jedem großen Wirtschaftsstrafverfahren auftaucht."
+  "body": "**Untreue** nach § 266 StGB begeht, wer eine ihm eingeräumte Befugnis über fremdes Vermögen missbraucht oder eine Vermögensbetreuungspflicht verletzt und dem Vermögensinhaber dadurch einen Nachteil zufügt. Anders als beim Betrug ist keine Täuschung erforderlich – der Täter handelt von innen heraus, etwa als Vorstand, Geschäftsführer, Bankvorstand, Verwalter oder Treuhänder.\n\n**Strafrahmen:** Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe; in besonders schweren Fällen (hoher Schaden, Gewerbsmäßigkeit) bis zu zehn Jahren. Eine Sonderform ist das **Vorenthalten von Arbeitsentgelt** (§ 266a StGB), wenn Sozialversicherungsbeiträge nicht abgeführt werden.\n\n**Typische Konstellationen:**\n- Kredite ohne ausreichende Sicherheiten an befreundete Unternehmer\n- Geschäfte zugunsten von Angehörigen oder eigenen Firmen\n- Spesen- und Reisekostenmissbrauch durch Führungskräfte\n- Zahlungen aus Anlegergeldern für private Zwecke\n- Zahlungen an Berater ohne erkennbare Gegenleistung\n\nDas Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konkret beziffert wird; Gerichte müssen deshalb genau prüfen, ob eine riskante unternehmerische Entscheidung noch vom Ermessen gedeckt war („Business Judgement Rule“, § 93 AktG) oder bereits pflichtwidrig. Untreue ist deshalb ein Delikt, das Verteidiger häufig erfolgreich bestreiten – und das trotzdem in fast jedem großen Wirtschaftsstrafverfahren auftaucht.",
+  "min": 6
  },
  {
   "name": "Korruption und Bestechung",
@@ -164,27 +165,24 @@
   "folder": "Themen",
   "patterns": [
    "\\bSteuerfahnd\\w+",
-   "\\bFinanzamt\\b",
-   "\\bFinanzämter\\w*",
    "\\bSelbstanzeige\\w*",
-   "\\bBetriebsprüf\\w+",
-   "\\bFinanzverwaltung\\b"
+   "\\bBetriebsprüf\\w+"
   ],
   "summary": "Ermittlungsbehörde der Länderfinanzverwaltung mit polizeilichen Befugnissen bei Steuerstraftaten.",
-  "body": "Die **Steuerfahndung** ist eine Abteilung der Finanzämter der Bundesländer, die Steuerstraftaten und -ordnungswidrigkeiten aufdeckt. Sie hat nach § 404 AO die Befugnisse der Polizei im Ermittlungsverfahren: Steuerfahnder dürfen Durchsuchungen durchführen, Beweismittel beschlagnahmen, Zeugen vernehmen und – in Zusammenarbeit mit der Staatsanwaltschaft – Haftbefehle beantragen. Gleichzeitig bleiben sie Teil der Finanzverwaltung und ermitteln die Besteuerungsgrundlagen.\n\nIn größeren Fällen arbeitet die Steuerfahndung mit spezialisierten Staatsanwaltschaften und den **Bußgeld- und Strafsachenstellen** der Finanzämter zusammen. Typische Auslöser sind Kontrollmitteilungen aus Betriebsprüfungen, Anzeigen, angekaufte Datenträger (etwa Steuer-CDs aus der Schweiz oder Liechtenstein) und Hinweise von Whistleblowern, die nach einem Vorbild aus den USA inzwischen auch belohnt werden können.\n\nBerichte der Steuerfahndung sind für die Aufarbeitung großer Skandale oft entscheidend: Sie rekonstruieren Geldflüsse, bewerten Ertragssprünge und benennen Verantwortliche – auch wenn Staatsanwaltschaften später nur einen Teil der Beschuldigten anklagen.\n\nKritiker bemängeln seit Jahren Personalmangel, Zuständigkeitsstreit zwischen Ländern und politische Einflussnahme auf Fahndungsstellen, etwa in Hessen und Nordrhein-Westfalen in den 2000er-Jahren."
+  "body": "Die **Steuerfahndung** ist eine Abteilung der Finanzämter der Bundesländer, die Steuerstraftaten und -ordnungswidrigkeiten aufdeckt. Sie hat nach § 404 AO die Befugnisse der Polizei im Ermittlungsverfahren: Steuerfahnder dürfen Durchsuchungen durchführen, Beweismittel beschlagnahmen, Zeugen vernehmen und – in Zusammenarbeit mit der Staatsanwaltschaft – Haftbefehle beantragen. Gleichzeitig bleiben sie Teil der Finanzverwaltung und ermitteln die Besteuerungsgrundlagen.\n\nIn größeren Fällen arbeitet die Steuerfahndung mit spezialisierten Staatsanwaltschaften und den **Bußgeld- und Strafsachenstellen** der Finanzämter zusammen. Typische Auslöser sind Kontrollmitteilungen aus Betriebsprüfungen, Anzeigen, angekaufte Datenträger (etwa Steuer-CDs aus der Schweiz oder Liechtenstein) und Hinweise von Whistleblowern, die nach einem Vorbild aus den USA inzwischen auch belohnt werden können.\n\nBerichte der Steuerfahndung sind für die Aufarbeitung großer Skandale oft entscheidend: Sie rekonstruieren Geldflüsse, bewerten Ertragssprünge und benennen Verantwortliche – auch wenn Staatsanwaltschaften später nur einen Teil der Beschuldigten anklagen.\n\nKritiker bemängeln seit Jahren Personalmangel, Zuständigkeitsstreit zwischen Ländern und politische Einflussnahme auf Fahndungsstellen, etwa in Hessen und Nordrhein-Westfalen in den 2000er-Jahren.",
+  "min": 6
  },
  {
   "name": "Geldwäsche",
   "folder": "Themen",
   "patterns": [
    "\\bGeldwäsche\\w*",
-   "\\bBriefkastenfirm\\w+",
    "\\bScheinfirm\\w+",
-   "\\bOffshore\\w*",
    "\\bSteueroase\\w*"
   ],
   "summary": "Einschleusen illegal erworbener Vermögenswerte in den legalen Wirtschaftskreislauf (§ 261 StGB).",
-  "body": "**Geldwäsche** ist das Verschleiern der Herkunft von Vermögenswerten aus Straftaten, um sie als legales Einkommen nutzen zu können. Seit der Reform 2021 ist nach § 261 StGB jede Straftat als Vortat ausreichend („All-crimes-Ansatz“); zuvor galt ein Katalog schwerer Delikte. Der Strafrahmen reicht bis zu fünf Jahren, in schweren Fällen bis zu zehn Jahren Haft.\n\n**Die drei klassischen Phasen:**\n- **Placement** – Einspeisen von Bargeld, etwa über Gastronomie, Autohandel, Gold oder Immobilien\n- **Layering** – Verschleiern über Briefkastenfirmen, Treuhänder, Offshore-Konten und Kettenüberweisungen\n- **Integration** – Rückführung als scheinbar legales Vermögen, etwa durch Immobilienkäufe\n\n**Prävention:** Das Geldwäschegesetz (GwG) verpflichtet Banken, Notare, Immobilienmakler, Goldhändler und andere zur Identifizierung ihrer Kunden und zur Meldung verdächtiger Transaktionen an die **Financial Intelligence Unit (FIU)** beim Zoll. Deutschland galt lange als Geldwäsche-Paradies, vor allem wegen des Bargeldverkehrs und des Immobilienmarkts; 2022 kritisierte die internationale Arbeitsgruppe FATF Vollzugsdefizite. 2024 beschloss die Bundesregierung ein Bundesamt zur Bekämpfung von Finanzkriminalität.\n\nIn Wirtschaftsstrafverfahren taucht Geldwäsche oft als Begleitvorwurf auf, wenn Gewinne aus Betrug, Steuerhinterziehung oder Korruption über Auslandsgesellschaften, Goldraffinerien oder Zahlungsdienstleister bewegt wurden."
+  "body": "**Geldwäsche** ist das Verschleiern der Herkunft von Vermögenswerten aus Straftaten, um sie als legales Einkommen nutzen zu können. Seit der Reform 2021 ist nach § 261 StGB jede Straftat als Vortat ausreichend („All-crimes-Ansatz“); zuvor galt ein Katalog schwerer Delikte. Der Strafrahmen reicht bis zu fünf Jahren, in schweren Fällen bis zu zehn Jahren Haft.\n\n**Die drei klassischen Phasen:**\n- **Placement** – Einspeisen von Bargeld, etwa über Gastronomie, Autohandel, Gold oder Immobilien\n- **Layering** – Verschleiern über Briefkastenfirmen, Treuhänder, Offshore-Konten und Kettenüberweisungen\n- **Integration** – Rückführung als scheinbar legales Vermögen, etwa durch Immobilienkäufe\n\n**Prävention:** Das Geldwäschegesetz (GwG) verpflichtet Banken, Notare, Immobilienmakler, Goldhändler und andere zur Identifizierung ihrer Kunden und zur Meldung verdächtiger Transaktionen an die **Financial Intelligence Unit (FIU)** beim Zoll. Deutschland galt lange als Geldwäsche-Paradies, vor allem wegen des Bargeldverkehrs und des Immobilienmarkts; 2022 kritisierte die internationale Arbeitsgruppe FATF Vollzugsdefizite. 2024 beschloss die Bundesregierung ein Bundesamt zur Bekämpfung von Finanzkriminalität.\n\nIn Wirtschaftsstrafverfahren taucht Geldwäsche oft als Begleitvorwurf auf, wenn Gewinne aus Betrug, Steuerhinterziehung oder Korruption über Auslandsgesellschaften, Goldraffinerien oder Zahlungsdienstleister bewegt wurden.",
+  "min": 6
  },
  {
   "name": "Bilanzfälschung",
@@ -233,13 +231,13 @@
   "patterns": [
    "\\bUntersuchungshaft\\b",
    "\\bU-Haft\\b",
-   "\\bHaftbefehl\\w*",
    "\\bFluchtgefahr\\b",
    "\\bVerdunkelungsgefahr\\b",
    "\\bHaftverschonung\\w*"
   ],
   "summary": "Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verdunkelungsgefahr (§ 112 StPO).",
-  "body": "**Untersuchungshaft** (U-Haft) ist die Inhaftierung eines Beschuldigten vor einem rechtskräftigen Urteil. Sie setzt nach **§ 112 StPO** einen dringenden Tatverdacht und einen Haftgrund voraus: Flucht, **Fluchtgefahr**, **Verdunkelungsgefahr** (Beweismittel vernichten, Zeugen beeinflussen) oder bei bestimmten Delikten Wiederholungsgefahr. Den Haftbefehl erlässt ein Richter auf Antrag der Staatsanwaltschaft; er muss verhältnismäßig sein.\n\n**Dauer:** Grundsätzlich bis zu sechs Monate, darüber hinaus nur, wenn das Oberlandesgericht besondere Schwierigkeit oder Umfang der Ermittlungen bestätigt (§ 121 StPO). In großen Wirtschaftsverfahren saßen Angeklagte vor Prozessbeginn bereits zweieinhalb Jahre und länger in U-Haft. Die Zeit wird auf eine spätere Strafe angerechnet.\n\n**Alternativen:** Haftverschonung gegen Kaution, Meldeauflagen, Abgabe des Passes oder Kontaktverbote (§ 116 StPO). Im Ausland – etwa in den USA – sind Millionenkautionen üblich, bei denen Dritte bürgen.\n\n**Wirtschaftsstrafverfahren:** Fluchtgefahr wird bei vermögenden Beschuldigten mit Auslandskontakten häufig bejaht, was Verteidiger als „Apokryphen Haftgrund“ kritisieren: Die Haft diene faktisch dazu, Geständnisse zu erzwingen. Bekannte Haftanstalten für solche Fälle sind München-Stadelheim, Frankfurt-Preungesheim und die JVA Köln. Ein Hochsicherheitssaal auf dem Gelände von Stadelheim wurde eigens für einen Bilanzskandal-Prozess gebaut."
+  "body": "**Untersuchungshaft** (U-Haft) ist die Inhaftierung eines Beschuldigten vor einem rechtskräftigen Urteil. Sie setzt nach **§ 112 StPO** einen dringenden Tatverdacht und einen Haftgrund voraus: Flucht, **Fluchtgefahr**, **Verdunkelungsgefahr** (Beweismittel vernichten, Zeugen beeinflussen) oder bei bestimmten Delikten Wiederholungsgefahr. Den Haftbefehl erlässt ein Richter auf Antrag der Staatsanwaltschaft; er muss verhältnismäßig sein.\n\n**Dauer:** Grundsätzlich bis zu sechs Monate, darüber hinaus nur, wenn das Oberlandesgericht besondere Schwierigkeit oder Umfang der Ermittlungen bestätigt (§ 121 StPO). In großen Wirtschaftsverfahren saßen Angeklagte vor Prozessbeginn bereits zweieinhalb Jahre und länger in U-Haft. Die Zeit wird auf eine spätere Strafe angerechnet.\n\n**Alternativen:** Haftverschonung gegen Kaution, Meldeauflagen, Abgabe des Passes oder Kontaktverbote (§ 116 StPO). Im Ausland – etwa in den USA – sind Millionenkautionen üblich, bei denen Dritte bürgen.\n\n**Wirtschaftsstrafverfahren:** Fluchtgefahr wird bei vermögenden Beschuldigten mit Auslandskontakten häufig bejaht, was Verteidiger als „Apokryphen Haftgrund“ kritisieren: Die Haft diene faktisch dazu, Geständnisse zu erzwingen. Bekannte Haftanstalten für solche Fälle sind München-Stadelheim, Frankfurt-Preungesheim und die JVA Köln. Ein Hochsicherheitssaal auf dem Gelände von Stadelheim wurde eigens für einen Bilanzskandal-Prozess gebaut.",
+  "min": 4
  },
  {
   "name": "Whistleblower",
@@ -247,12 +245,11 @@
   "patterns": [
    "\\bWhistleblower\\w*",
    "\\bHinweisgeber\\w*",
-   "\\bInformant(en|in|innen)?\\b",
-   "\\bzugespielt\\w*",
    "\\bHinweisgeberschutz\\w*"
   ],
   "summary": "Insider, die Missstände aus Unternehmen oder Behörden an Aufsicht, Justiz oder Medien melden.",
-  "body": "**Whistleblower** (Hinweisgeber) sind Personen, die aus dem Inneren einer Organisation heraus Rechtsverstöße, Gefahren oder Fehlverhalten aufdecken – gegenüber internen Meldestellen, Behörden oder der Öffentlichkeit. Viele der größten Wirtschaftsskandale wurden erst durch sie bekannt: Datensätze zu Steuerhinterziehung, interne Dokumente zu Bilanzfälschungen oder Gigabyte an Unternehmensdaten, die Journalisten zugespielt wurden.\n\n**Rechtlicher Schutz:** Seit Juli 2023 gilt in Deutschland das **Hinweisgeberschutzgesetz (HinSchG)**, das die EU-Whistleblower-Richtlinie umsetzt. Unternehmen ab 50 Beschäftigten müssen interne Meldestellen einrichten; Hinweisgeber sind vor Kündigung, Mobbing und anderen Repressalien geschützt, wenn sie hinreichenden Grund zur Annahme eines Verstoßes hatten. Das Bundesamt für Justiz betreibt eine externe Meldestelle, die BaFin eine eigene für den Finanzsektor.\n\n**Grenzen und Risiken:**\n- Geschäftsgeheimnisse, Datenschutz und Strafbarkeit wegen Geheimnisverrats bleiben Konfliktfelder\n- Unternehmen setzen Anwälte, Privatermittler oder Überwachungssoftware gegen Hinweisgeber ein\n- Der Gang an die Presse ist nur geschützt, wenn interne und behördliche Wege aussichtslos sind\n- Im Ausland (USA, Norwegen) gelten andere Regeln, teils mit finanziellen Belohnungen\n\nFür Investigativredaktionen sind Whistleblower die wichtigste Quelle; der Quellenschutz ist durch die Pressefreiheit (Art. 5 GG) und das Zeugnisverweigerungsrecht von Journalisten abgesichert."
+  "body": "**Whistleblower** (Hinweisgeber) sind Personen, die aus dem Inneren einer Organisation heraus Rechtsverstöße, Gefahren oder Fehlverhalten aufdecken – gegenüber internen Meldestellen, Behörden oder der Öffentlichkeit. Viele der größten Wirtschaftsskandale wurden erst durch sie bekannt: Datensätze zu Steuerhinterziehung, interne Dokumente zu Bilanzfälschungen oder Gigabyte an Unternehmensdaten, die Journalisten zugespielt wurden.\n\n**Rechtlicher Schutz:** Seit Juli 2023 gilt in Deutschland das **Hinweisgeberschutzgesetz (HinSchG)**, das die EU-Whistleblower-Richtlinie umsetzt. Unternehmen ab 50 Beschäftigten müssen interne Meldestellen einrichten; Hinweisgeber sind vor Kündigung, Mobbing und anderen Repressalien geschützt, wenn sie hinreichenden Grund zur Annahme eines Verstoßes hatten. Das Bundesamt für Justiz betreibt eine externe Meldestelle, die BaFin eine eigene für den Finanzsektor.\n\n**Grenzen und Risiken:**\n- Geschäftsgeheimnisse, Datenschutz und Strafbarkeit wegen Geheimnisverrats bleiben Konfliktfelder\n- Unternehmen setzen Anwälte, Privatermittler oder Überwachungssoftware gegen Hinweisgeber ein\n- Der Gang an die Presse ist nur geschützt, wenn interne und behördliche Wege aussichtslos sind\n- Im Ausland (USA, Norwegen) gelten andere Regeln, teils mit finanziellen Belohnungen\n\nFür Investigativredaktionen sind Whistleblower die wichtigste Quelle; der Quellenschutz ist durch die Pressefreiheit (Art. 5 GG) und das Zeugnisverweigerungsrecht von Journalisten abgesichert.",
+  "min": 4
  },
  {
   "name": "Wirtschaftsprüfung",
@@ -262,11 +259,10 @@
    "\\bAbschlussprüf\\w+",
    "\\bTestat\\w*",
    "\\btestier\\w+",
-   "\\bJahresabschl\\w+",
    "\\bAPAS\\b"
   ],
   "summary": "Gesetzliche Prüfung von Jahresabschlüssen durch unabhängige Prüfer – und ihr Versagen in Skandalen.",
-  "min": 6,
+  "min": 8,
   "body": "**Wirtschaftsprüfer** prüfen nach §§ 316 ff. HGB die Jahres- und Konzernabschlüsse mittelgroßer und großer Kapitalgesellschaften und erteilen einen **Bestätigungsvermerk (Testat)**. Er bescheinigt, dass der Abschluss ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt – er ist aber keine Garantie gegen Betrug. Prüfer müssen Unregelmäßigkeiten mit „kritischer Grundhaltung“ nachgehen, Stichproben ziehen und bei Bankguthaben Saldenbestätigungen direkt bei den Banken einholen.\n\nDer Markt wird von den **Big Four** dominiert: EY, KPMG, PwC und Deloitte. Sie prüfen fast alle DAX-Konzerne und verdienen zugleich mit Beratung – ein Interessenkonflikt, den die EU-Abschlussprüferreform von 2016 durch Rotationspflichten und Beratungsverbote eindämmen sollte.\n\n**Aufsicht und Haftung:** Die **Abschlussprüferaufsichtsstelle (APAS)** beim Bundesamt für Wirtschaft und Ausfuhrkontrolle kann Geldbußen verhängen und Prüfer von Mandaten ausschließen. Nach dem größten deutschen Bilanzskandal verschärfte das Finanzmarktintegritätsstärkungsgesetz (FISG) 2021 die Haftung: Für Unternehmen von öffentlichem Interesse haften Prüfer bei grober Fahrlässigkeit bis zu 16 Millionen Euro, bei Vorsatz unbegrenzt. Insolvenzverwalter und Anleger klagen inzwischen auf Milliardenbeträge.\n\nKritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspartner, fehlende Belege, exotische Treuhandkonten – jahrelang ignorierten und dennoch uneingeschränkte Testate erteilten."
  },
  {
@@ -275,13 +271,12 @@
   "patterns": [
    "\\bSpionage\\w*",
    "\\bSpion(e|in|innen|en)?\\b",
-   "\\bAgent(en|in|innen)?\\b",
-   "\\bGeheimdienst\\w*",
-   "\\bNachrichtendienst\\w*",
-   "\\bLandesverrat\\w*"
+   "\\bLandesverrat\\w*",
+   "\\bAgentenführer\\w*"
   ],
   "summary": "Geheime Beschaffung von Informationen für fremde Staaten – von Wirtschaftsspionage bis Landesverrat.",
-  "body": "**Spionage** ist die verdeckte Beschaffung geheimer Informationen im Auftrag eines fremden Staates oder Konkurrenten. Das deutsche Strafrecht unterscheidet **Landesverrat** (§ 94 StGB, Verrat von Staatsgeheimnissen; Strafrahmen ein bis 15 Jahre, in schweren Fällen lebenslang) und **geheimdienstliche Agententätigkeit** (§ 99 StGB, bis zu fünf, in schweren Fällen bis zu zehn Jahre). Wirtschaftsspionage durch staatliche Dienste und Konkurrenzausspähung durch Unternehmen fallen zusätzlich unter das Geschäftsgeheimnisgesetz.\n\n**Akteure:** Zuständig für die Abwehr ist das Bundesamt für Verfassungsschutz, für die Auslandsaufklärung der Bundesnachrichtendienst (BND). Verfahren wegen Landesverrats führt der Generalbundesanwalt vor den Staatsschutzsenaten der Oberlandesgerichte.\n\n**Russland und China** gelten als aktivste Dienste gegen Deutschland. Seit dem Angriff auf die Ukraine 2022 häufen sich Fälle: Maulwürfe in Sicherheitsbehörden, Sabotagepläne, Anwerbung über Mittelsmänner und Chats, Beobachtung von Dissidenten und Journalisten. Spektakulär wurde die Verbindung eines flüchtigen Ex-Vorstands eines deutschen Zahlungsdienstleisters zu russischen Nachrichtendiensten, der aus Moskau heraus eine Agentenzelle in Großbritannien angeleitet haben soll.\n\n**Staatstrojaner** wie die Software Pegasus der israelischen NSO Group zeigen die technische Seite: Einmal installiert, lesen sie Nachrichten mit und aktivieren Kamera und Mikrofon – eingesetzt von Staaten gegen Journalisten, Anwälte und Manager."
+  "body": "**Spionage** ist die verdeckte Beschaffung geheimer Informationen im Auftrag eines fremden Staates oder Konkurrenten. Das deutsche Strafrecht unterscheidet **Landesverrat** (§ 94 StGB, Verrat von Staatsgeheimnissen; Strafrahmen ein bis 15 Jahre, in schweren Fällen lebenslang) und **geheimdienstliche Agententätigkeit** (§ 99 StGB, bis zu fünf, in schweren Fällen bis zu zehn Jahre). Wirtschaftsspionage durch staatliche Dienste und Konkurrenzausspähung durch Unternehmen fallen zusätzlich unter das Geschäftsgeheimnisgesetz.\n\n**Akteure:** Zuständig für die Abwehr ist das Bundesamt für Verfassungsschutz, für die Auslandsaufklärung der Bundesnachrichtendienst (BND). Verfahren wegen Landesverrats führt der Generalbundesanwalt vor den Staatsschutzsenaten der Oberlandesgerichte.\n\n**Russland und China** gelten als aktivste Dienste gegen Deutschland. Seit dem Angriff auf die Ukraine 2022 häufen sich Fälle: Maulwürfe in Sicherheitsbehörden, Sabotagepläne, Anwerbung über Mittelsmänner und Chats, Beobachtung von Dissidenten und Journalisten. Spektakulär wurde die Verbindung eines flüchtigen Ex-Vorstands eines deutschen Zahlungsdienstleisters zu russischen Nachrichtendiensten, der aus Moskau heraus eine Agentenzelle in Großbritannien angeleitet haben soll.\n\n**Staatstrojaner** wie die Software Pegasus der israelischen NSO Group zeigen die technische Seite: Einmal installiert, lesen sie Nachrichten mit und aktivieren Kamera und Mikrofon – eingesetzt von Staaten gegen Journalisten, Anwälte und Manager.",
+  "min": 6
  },
  {
   "name": "Sanktionen",
@@ -304,40 +299,38 @@
    "\\bCyberangriff\\w*",
    "\\bCyberattack\\w*",
    "\\bHackerangriff\\w*",
-   "\\bHacker(n|s|in|innen)?\\b",
    "\\bRansomware\\b",
-   "\\bDarknet\\b"
+   "\\bErpressungstrojaner\\w*"
   ],
   "summary": "Digitale Angriffe auf Unternehmen und Infrastruktur – oft mit Datendiebstahl und Lösegelderpressung.",
-  "body": "**Cyberangriffe** sind Attacken auf IT-Systeme, um Daten zu stehlen, Systeme lahmzulegen oder Geld zu erpressen. Die häufigste und teuerste Form ist **Ransomware**: Angreifer dringen – meist über Phishing-Mails, gestohlene Zugangsdaten oder ungepatchte Software – in ein Netzwerk ein, kopieren wochenlang unbemerkt Daten, verschlüsseln dann die Systeme und fordern Lösegeld. Bei der „doppelten Erpressung“ drohen sie zusätzlich mit der Veröffentlichung oder dem Verkauf der Daten im Darknet.\n\n**Täter:** Professionell organisierte Gruppen wie LockBit, Conti oder BlackCat arbeiten arbeitsteilig („Ransomware as a Service“), sitzen oft in Russland oder anderen Staaten ohne Auslieferung und verhandeln über eigene Leak-Seiten. Daneben agieren staatliche Akteure – etwa russische Militärhacker gegen Energie- und Kommunikationsinfrastruktur – und politisch motivierte Kollektive.\n\n**Strafrecht:** Ausspähen von Daten (§ 202a StGB), Computersabotage (§ 303b, bis zu zehn Jahre in schweren Fällen), Erpressung (§ 253) und Datenhehlerei (§ 202d). Die Aufklärungsquote ist gering; Behörden können Opfer meist nur beraten.\n\n**Abwehr:** Das Bundesamt für Sicherheit in der Informationstechnik (BSI) warnt, berät und zertifiziert; Betreiber kritischer Infrastrukturen sind meldepflichtig. Nach BSI-Lagebild gehören Ransomware-Angriffe auf Mittelstand, Kommunen und Krankenhäuser zur größten Bedrohung. Der Gesamtschaden durch Cyberkriminalität wird für die deutsche Wirtschaft auf mehr als 200 Milliarden Euro jährlich geschätzt."
+  "body": "**Cyberangriffe** sind Attacken auf IT-Systeme, um Daten zu stehlen, Systeme lahmzulegen oder Geld zu erpressen. Die häufigste und teuerste Form ist **Ransomware**: Angreifer dringen – meist über Phishing-Mails, gestohlene Zugangsdaten oder ungepatchte Software – in ein Netzwerk ein, kopieren wochenlang unbemerkt Daten, verschlüsseln dann die Systeme und fordern Lösegeld. Bei der „doppelten Erpressung“ drohen sie zusätzlich mit der Veröffentlichung oder dem Verkauf der Daten im Darknet.\n\n**Täter:** Professionell organisierte Gruppen wie LockBit, Conti oder BlackCat arbeiten arbeitsteilig („Ransomware as a Service“), sitzen oft in Russland oder anderen Staaten ohne Auslieferung und verhandeln über eigene Leak-Seiten. Daneben agieren staatliche Akteure – etwa russische Militärhacker gegen Energie- und Kommunikationsinfrastruktur – und politisch motivierte Kollektive.\n\n**Strafrecht:** Ausspähen von Daten (§ 202a StGB), Computersabotage (§ 303b, bis zu zehn Jahre in schweren Fällen), Erpressung (§ 253) und Datenhehlerei (§ 202d). Die Aufklärungsquote ist gering; Behörden können Opfer meist nur beraten.\n\n**Abwehr:** Das Bundesamt für Sicherheit in der Informationstechnik (BSI) warnt, berät und zertifiziert; Betreiber kritischer Infrastrukturen sind meldepflichtig. Nach BSI-Lagebild gehören Ransomware-Angriffe auf Mittelstand, Kommunen und Krankenhäuser zur größten Bedrohung. Der Gesamtschaden durch Cyberkriminalität wird für die deutsche Wirtschaft auf mehr als 200 Milliarden Euro jährlich geschätzt.",
+  "min": 4
  },
  {
   "name": "Datenleck",
   "folder": "Themen",
   "patterns": [
    "\\bDatenleck\\w*",
-   "\\bDatenschutz\\w*",
    "\\bDatendieb\\w+",
    "\\bDatenklau\\b",
-   "\\bTesla[- ]?Files\\b",
-   "\\bDSGVO\\b"
+   "\\bTesla[- ]?Files\\b"
   ],
   "summary": "Unbefugter Abfluss vertraulicher Daten – ob durch Hacker, Insider oder nachlässigen Datenschutz.",
-  "body": "Ein **Datenleck** liegt vor, wenn vertrauliche Daten unbefugt nach außen gelangen – durch Hackerangriffe, Insider, verlorene Datenträger oder schlicht fehlende Zugriffskontrollen. Betroffen können Kundendaten, Gesundheitsinformationen, Gehälter, Adressen, Geschäftsgeheimnisse oder interne Berichte sein.\n\n**Rechtlicher Rahmen:** Die **Datenschutz-Grundverordnung (DSGVO)** verpflichtet Unternehmen, personenbezogene Daten durch angemessene technische und organisatorische Maßnahmen zu schützen (Art. 32) und Verletzungen binnen 72 Stunden der Aufsichtsbehörde zu melden (Art. 33). Bußgelder können bis zu vier Prozent des weltweiten Jahresumsatzes betragen. Zuständig sind die Datenschutzbehörden der Länder, in Brandenburg etwa für ein großes Autowerk. Betroffene können Schadensersatz verlangen; in den USA sind die Generalstaatsanwälte der Bundesstaaten für Datenschutzverstöße zuständig.\n\n**Journalistische Dimension:** Große Datensätze, die Whistleblower Redaktionen zuspielen – wie die Panama Papers oder 100 Gigabyte interne Unterlagen eines Elektroautoherstellers –, sind zugleich Datenleck und Recherchegrundlage. Redaktionen müssen Echtheit prüfen, Betroffene schützen, Quellen anonymisieren und abwägen, welche Informationen von öffentlichem Interesse sind. Unternehmen reagieren oft mit dem Vorwurf des Datendiebstahls, Strafanzeigen und zivilrechtlichen Schritten gegen Hinweisgeber.\n\nDass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.000 Beschäftigten in Excel-Listen zugänglich waren, zeigt, wie nachlässig selbst Technologiekonzerne mit Daten umgehen können."
+  "body": "Ein **Datenleck** liegt vor, wenn vertrauliche Daten unbefugt nach außen gelangen – durch Hackerangriffe, Insider, verlorene Datenträger oder schlicht fehlende Zugriffskontrollen. Betroffen können Kundendaten, Gesundheitsinformationen, Gehälter, Adressen, Geschäftsgeheimnisse oder interne Berichte sein.\n\n**Rechtlicher Rahmen:** Die **Datenschutz-Grundverordnung (DSGVO)** verpflichtet Unternehmen, personenbezogene Daten durch angemessene technische und organisatorische Maßnahmen zu schützen (Art. 32) und Verletzungen binnen 72 Stunden der Aufsichtsbehörde zu melden (Art. 33). Bußgelder können bis zu vier Prozent des weltweiten Jahresumsatzes betragen. Zuständig sind die Datenschutzbehörden der Länder, in Brandenburg etwa für ein großes Autowerk. Betroffene können Schadensersatz verlangen; in den USA sind die Generalstaatsanwälte der Bundesstaaten für Datenschutzverstöße zuständig.\n\n**Journalistische Dimension:** Große Datensätze, die Whistleblower Redaktionen zuspielen – wie die Panama Papers oder 100 Gigabyte interne Unterlagen eines Elektroautoherstellers –, sind zugleich Datenleck und Recherchegrundlage. Redaktionen müssen Echtheit prüfen, Betroffene schützen, Quellen anonymisieren und abwägen, welche Informationen von öffentlichem Interesse sind. Unternehmen reagieren oft mit dem Vorwurf des Datendiebstahls, Strafanzeigen und zivilrechtlichen Schritten gegen Hinweisgeber.\n\nDass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.000 Beschäftigten in Excel-Listen zugänglich waren, zeigt, wie nachlässig selbst Technologiekonzerne mit Daten umgehen können.",
+  "min": 4
  },
  {
   "name": "Immobilienkrise",
   "folder": "Themen",
   "patterns": [
    "\\bImmobilienkrise\\b",
-   "\\bImmobilienkonzern\\w*",
-   "\\bProjektentwickler\\w*",
-   "\\bImmobiliengruppe\\b",
    "\\bBaukrise\\b",
-   "\\bZinswende\\b"
+   "\\bZinswende\\b",
+   "\\bImmobilienpleite\\w*",
+   "\\bKrise am Immobilienmarkt\\b"
   ],
   "summary": "Der Absturz des deutschen Immobilienmarkts nach der Zinswende 2022 und die Pleitewelle bei Projektentwicklern.",
-  "min": 8,
+  "min": 4,
   "body": "Die **Immobilienkrise** ab 2022 beendete einen mehr als zehnjährigen Boom. Niedrigzinsen hatten Preise für Wohnungen und Gewerbeimmobilien in deutschen Großstädten verdoppelt und Projektentwickler zu immer größeren, fremdfinanzierten Vorhaben verleitet. Mit der **Zinswende** der Europäischen Zentralbank – von null auf vier Prozent binnen eines Jahres – verteuerten sich Kredite drastisch, während Baukosten durch Energiepreise und Lieferengpässe nach dem Ukraine-Krieg stiegen. Käufer verschwanden, Bewertungen sanken, Banken verlängerten Kredite nicht mehr.\n\n**Folgen:**\n- Pleitewelle bei Projektentwicklern und Immobiliengruppen, von Berlin über Hannover bis Düsseldorf, mit Milliardenforderungen der Gläubiger\n- Baustopps bei Prestigeprojekten, halbfertige Rohbauten in Hamburg, Stuttgart oder München\n- Verluste für Privatanleger, die über Nachrangdarlehen, Anleihen oder Fonds Bauvorhaben finanziert hatten\n- Druck auf Banken, Versorgungswerke und Pensionskassen mit hohen Immobilienquoten\n\n**Strafrechtliche Dimension:** Die Krise legte Geschäftsmodelle offen, die nur bei steigenden Preisen funktionierten – und manche, die auch ohne Zinswende nicht tragfähig waren. Staatsanwaltschaften ermitteln wegen Insolvenzverschleppung, Bankrott, Untreue, Bilanzfälschung und Betrug an Anlegern; Insolvenzverwalter fechten Zahlungen an Gründer und deren Familien an.\n\nSeit 2024 stabilisieren sich die Preise, der Markt für Projektentwicklungen bleibt aber schwach."
  },
  {
@@ -376,7 +369,6 @@
    "\\bVerteidiger(in|innen|s|n)?\\b",
    "\\bWahlverteidiger\\w*",
    "\\bPflichtverteidiger\\w*",
-   "\\bMandat(s|e|en)?\\b",
    "\\bBefangenheit\\w*"
   ],
   "summary": "Die Rolle der Anwälte, die Beschuldigte in Wirtschaftsstrafverfahren vertreten – zwischen Recht und PR.",
@@ -389,13 +381,13 @@
   "patterns": [
    "\\bPressefreiheit\\b",
    "\\bPresserecht\\w*",
-   "\\bAbmahnung\\w*",
-   "\\babgemahnt\\b",
    "\\bGegendarstellung\\w*",
-   "\\bUnterlassung(s\\w*)?\\b"
+   "\\bUnterlassungs(erklärung|klage|anspruch)\\w*",
+   "\\b(Medien|Presse)anwält\\w*"
   ],
   "summary": "Wie Medien recherchieren dürfen – und wie Betroffene mit Abmahnungen, Klagen und Gegendarstellungen reagieren.",
-  "body": "Die **Pressefreiheit** ist in Art. 5 Grundgesetz garantiert und schützt Recherche, Quellen und Veröffentlichung. Sie findet ihre Grenzen im allgemeinen **Persönlichkeitsrecht** (Art. 2 GG), im Schutz von Geschäftsgeheimnissen und in den Strafgesetzen. Gerichte wägen im Einzelfall ab: Je größer das öffentliche Interesse – etwa bei Wirtschaftskriminalität von Managern und Konzernen –, desto mehr muss ein Betroffener hinnehmen.\n\n**Instrumente der Betroffenen:**\n- **Abmahnung**: anwaltliche Aufforderung, eine Behauptung zu unterlassen, oft schon vor Veröffentlichung („presserechtliches Informationsschreiben“)\n- **Einstweilige Verfügung**: schnelles Verbot durch ein Landgericht, häufig in Hamburg oder Berlin, wo Pressekammern als klägerfreundlich gelten („fliegender Gerichtsstand“)\n- **Gegendarstellung**: Anspruch nach den Landespressegesetzen, die eigene Sicht an gleicher Stelle zu veröffentlichen – unabhängig von der Wahrheit\n- Unterlassungs-, Widerrufs- und Schadensersatzklagen\n\n**Verdachtsberichterstattung** ist zulässig, wenn ein Mindestbestand an Beweistatsachen vorliegt, der Betroffene angehört wurde und die Darstellung ausgewogen ist. Zitate aus Ermittlungsakten vor der Hauptverhandlung können nach § 353d StGB strafbar sein.\n\nRedaktionen beschäftigen deshalb **Justiziare**, die Texte und Podcasts vor Veröffentlichung prüfen und Klagen abwehren. Millionenklagen mächtiger Manager und Unternehmen (SLAPP) sollen Journalisten einschüchtern; die EU hat 2024 eine Anti-SLAPP-Richtlinie erlassen."
+  "body": "Die **Pressefreiheit** ist in Art. 5 Grundgesetz garantiert und schützt Recherche, Quellen und Veröffentlichung. Sie findet ihre Grenzen im allgemeinen **Persönlichkeitsrecht** (Art. 2 GG), im Schutz von Geschäftsgeheimnissen und in den Strafgesetzen. Gerichte wägen im Einzelfall ab: Je größer das öffentliche Interesse – etwa bei Wirtschaftskriminalität von Managern und Konzernen –, desto mehr muss ein Betroffener hinnehmen.\n\n**Instrumente der Betroffenen:**\n- **Abmahnung**: anwaltliche Aufforderung, eine Behauptung zu unterlassen, oft schon vor Veröffentlichung („presserechtliches Informationsschreiben“)\n- **Einstweilige Verfügung**: schnelles Verbot durch ein Landgericht, häufig in Hamburg oder Berlin, wo Pressekammern als klägerfreundlich gelten („fliegender Gerichtsstand“)\n- **Gegendarstellung**: Anspruch nach den Landespressegesetzen, die eigene Sicht an gleicher Stelle zu veröffentlichen – unabhängig von der Wahrheit\n- Unterlassungs-, Widerrufs- und Schadensersatzklagen\n\n**Verdachtsberichterstattung** ist zulässig, wenn ein Mindestbestand an Beweistatsachen vorliegt, der Betroffene angehört wurde und die Darstellung ausgewogen ist. Zitate aus Ermittlungsakten vor der Hauptverhandlung können nach § 353d StGB strafbar sein.\n\nRedaktionen beschäftigen deshalb **Justiziare**, die Texte und Podcasts vor Veröffentlichung prüfen und Klagen abwehren. Millionenklagen mächtiger Manager und Unternehmen (SLAPP) sollen Journalisten einschüchtern; die EU hat 2024 eine Anti-SLAPP-Richtlinie erlassen.",
+  "min": 4
  },
  {
   "name": "Erbstreit",
@@ -445,14 +437,14 @@
   "folder": "Themen",
   "patterns": [
    "\\bGenossenschaftsbank\\w*",
-   "\\bVolksbank\\w*",
-   "\\bRaiffeisenbank\\w*",
-   "\\bVR[- ]?Bank\\w*",
+   "\\bGenossenschaftlich\\w*",
    "\\bSicherungseinrichtung\\b",
-   "\\bGenossenschaft(en|s\\w*)?\\b"
+   "\\bBVR\\b",
+   "\\bGenossenschaftsverband\\w*"
   ],
   "summary": "Regionale, mitgliedergetragene Banken des Volks- und Raiffeisensektors – und ihre jüngsten Skandale.",
-  "body": "**Genossenschaftsbanken** – Volksbanken, Raiffeisenbanken, Sparda- und PSD-Banken – gehören ihren Mitgliedern. Jedes Mitglied hat in der Generalversammlung eine Stimme, unabhängig von der Höhe seiner Anteile. Es gibt in Deutschland rund 650 solcher Institute mit zusammen etwa 1,2 Billionen Euro Bilanzsumme; Spitzeninstitut ist die DZ Bank, Dachverband der Bundesverband der Deutschen Volksbanken und Raiffeisenbanken (BVR).\n\n**Prinzipien:** regionale Verankerung, Förderauftrag für die Mitglieder, konservatives Kreditgeschäft. Die **Sicherungseinrichtung des BVR** schützt alle Einlagen und stützt angeschlagene Banken – eine Art Solidarhaftung, die seit den 1930er-Jahren keine Insolvenz einer Mitgliedsbank zuließ.\n\n**Kontrolle:** Vorstand und Aufsichtsrat werden von den Mitgliedern gewählt; der Aufsichtsrat besteht oft aus regionalen Unternehmern und Honoratioren ohne Bankerfahrung. Der genossenschaftliche Prüfungsverband prüft jährlich, die BaFin und die Bundesbank beaufsichtigen.\n\n**Skandale der letzten Jahre** zeigen Schwächen dieses Modells: langjährige Vorstandschefs, die sich mit Beteiligungen an Restaurants, Fitnessstudios, Immobilien oder Rotlichtobjekten verspekulierten; Kredite an zweifelhafte Großkunden; Aufsichtsräte, die zu spät eingriffen oder zurücktraten. Die BaFin entsandte erstmals Sonderbeauftragte, um Vorstände abzusetzen, und die Sicherungseinrichtung musste mit Millionenbeträgen stützen. Die Branche diskutiert seither über strengere Governance."
+  "body": "**Genossenschaftsbanken** – Volksbanken, Raiffeisenbanken, Sparda- und PSD-Banken – gehören ihren Mitgliedern. Jedes Mitglied hat in der Generalversammlung eine Stimme, unabhängig von der Höhe seiner Anteile. Es gibt in Deutschland rund 650 solcher Institute mit zusammen etwa 1,2 Billionen Euro Bilanzsumme; Spitzeninstitut ist die DZ Bank, Dachverband der Bundesverband der Deutschen Volksbanken und Raiffeisenbanken (BVR).\n\n**Prinzipien:** regionale Verankerung, Förderauftrag für die Mitglieder, konservatives Kreditgeschäft. Die **Sicherungseinrichtung des BVR** schützt alle Einlagen und stützt angeschlagene Banken – eine Art Solidarhaftung, die seit den 1930er-Jahren keine Insolvenz einer Mitgliedsbank zuließ.\n\n**Kontrolle:** Vorstand und Aufsichtsrat werden von den Mitgliedern gewählt; der Aufsichtsrat besteht oft aus regionalen Unternehmern und Honoratioren ohne Bankerfahrung. Der genossenschaftliche Prüfungsverband prüft jährlich, die BaFin und die Bundesbank beaufsichtigen.\n\n**Skandale der letzten Jahre** zeigen Schwächen dieses Modells: langjährige Vorstandschefs, die sich mit Beteiligungen an Restaurants, Fitnessstudios, Immobilien oder Rotlichtobjekten verspekulierten; Kredite an zweifelhafte Großkunden; Aufsichtsräte, die zu spät eingriffen oder zurücktraten. Die BaFin entsandte erstmals Sonderbeauftragte, um Vorstände abzusetzen, und die Sicherungseinrichtung musste mit Millionenbeträgen stützen. Die Branche diskutiert seither über strengere Governance.",
+  "min": 4
  },
  {
   "name": "Landesbanken",
@@ -488,40 +480,36 @@
    "\\bFalschaussage\\w*",
    "\\buneidlich\\w*",
    "\\bMeineid\\w*",
-   "\\beidesstattlich\\w*",
-   "\\bwider besseres Wissen\\b",
-   "\\bgelogen\\b"
+   "\\bwider besseres Wissen\\b"
   ],
   "summary": "Strafbare Unwahrheit vor Gericht, Untersuchungsausschuss oder an Eides statt (§§ 153 ff. StGB).",
-  "body": "Eine **Falschaussage** ist die vorsätzlich unwahre Aussage eines Zeugen oder Sachverständigen vor einer zur Vernehmung zuständigen Stelle. Das Strafgesetzbuch unterscheidet:\n\n- **Uneidliche Falschaussage** (§ 153 StGB): drei Monate bis fünf Jahre Haft\n- **Meineid** (§ 154 StGB): mindestens ein Jahr, ein Verbrechen\n- **Falsche Versicherung an Eides statt** (§ 156 StGB): bis zu drei Jahre, etwa bei Vermögensauskünften oder im Zivilprozess\n- Fahrlässiger Falscheid (§ 161) und Verleitung zur Falschaussage (§ 160)\n\n**Beschuldigte und Angeklagte** dürfen in eigener Sache lügen – sie sind keine Zeugen. Zeugen dürfen die Aussage verweigern, wenn sie sich selbst belasten würden (§ 55 StPO), aber nicht lügen.\n\n**Untersuchungsausschüsse** des Bundestags und der Landtage haben die Rechte eines Strafgerichts; wer dort „wider besseres Wissen“ falsch aussagt, macht sich nach § 153 StGB strafbar. Fälle gegen Minister wegen Aussagen zu gescheiterten Projekten sind selten, aber möglich und politisch hochbrisant.\n\n**Kronzeugen und Falschaussagen:** Wenn Kronzeugen in Strafprozessen nachweislich die Unwahrheit sagen – etwa über die Rückzahlung ihrer Gewinne –, gefährdet das nicht nur ihre Strafmilderung, sondern auch die Glaubwürdigkeit ganzer Verfahren. Auch gefälschte Rechnungen und erlogene eidesstattliche Versicherungen bei Vermögensangaben sind in Wirtschaftsstrafverfahren häufig."
+  "body": "Eine **Falschaussage** ist die vorsätzlich unwahre Aussage eines Zeugen oder Sachverständigen vor einer zur Vernehmung zuständigen Stelle. Das Strafgesetzbuch unterscheidet:\n\n- **Uneidliche Falschaussage** (§ 153 StGB): drei Monate bis fünf Jahre Haft\n- **Meineid** (§ 154 StGB): mindestens ein Jahr, ein Verbrechen\n- **Falsche Versicherung an Eides statt** (§ 156 StGB): bis zu drei Jahre, etwa bei Vermögensauskünften oder im Zivilprozess\n- Fahrlässiger Falscheid (§ 161) und Verleitung zur Falschaussage (§ 160)\n\n**Beschuldigte und Angeklagte** dürfen in eigener Sache lügen – sie sind keine Zeugen. Zeugen dürfen die Aussage verweigern, wenn sie sich selbst belasten würden (§ 55 StPO), aber nicht lügen.\n\n**Untersuchungsausschüsse** des Bundestags und der Landtage haben die Rechte eines Strafgerichts; wer dort „wider besseres Wissen“ falsch aussagt, macht sich nach § 153 StGB strafbar. Fälle gegen Minister wegen Aussagen zu gescheiterten Projekten sind selten, aber möglich und politisch hochbrisant.\n\n**Kronzeugen und Falschaussagen:** Wenn Kronzeugen in Strafprozessen nachweislich die Unwahrheit sagen – etwa über die Rückzahlung ihrer Gewinne –, gefährdet das nicht nur ihre Strafmilderung, sondern auch die Glaubwürdigkeit ganzer Verfahren. Auch gefälschte Rechnungen und erlogene eidesstattliche Versicherungen bei Vermögensangaben sind in Wirtschaftsstrafverfahren häufig.",
+  "min": 3
  },
  {
   "name": "Rüstungsexporte und Provisionen",
   "folder": "Themen",
   "patterns": [
-   "\\bRüstungs\\w+",
+   "\\bRüstungs(export|geschäft|konzern|industrie|deal|firma|unternehmen)\\w*",
    "\\bWaffen(handel|geschäft|export|deal|lieferung)\\w*",
-   "\\bProvision(en|s\\w*)?\\b",
    "\\bLeopard\\b",
    "\\bPanzer\\w*",
    "\\bKriegswaffen\\w*"
   ],
   "summary": "Waffengeschäfte mit dem Ausland, ihre Genehmigung – und die Vermittler, die daran Millionen verdienen.",
-  "min": 6,
+  "min": 8,
   "body": "**Rüstungsexporte** unterliegen in Deutschland dem Kriegswaffenkontrollgesetz und dem Außenwirtschaftsgesetz. Jede Ausfuhr von Kriegswaffen braucht eine Genehmigung der Bundesregierung; über große oder heikle Geschäfte entscheidet der **Bundessicherheitsrat**, ein geheim tagender Kabinettsausschuss. Politische Grundsätze von 2000 und 2019 verlangen Zurückhaltung bei Lieferungen in Spannungsgebiete und an Staaten mit Menschenrechtsverletzungen – in der Praxis wurden Panzer, Fregatten und U-Boote dennoch an Golfstaaten wie Saudi-Arabien, Katar und die Emirate geliefert.\n\n**Provisionen und Vermittler:** Bei Milliardendeals im Nahen Osten sind lokale Agenten und Berater üblich, die Kontakte zu Herrscherfamilien, Militär und Geheimdiensten herstellen. Ihre Honorare – oft ein Prozentsatz des Auftragswerts, gezahlt an Offshore-Gesellschaften – werfen regelmäßig Fragen auf: Handelt es sich um Beratung oder um verschleierte Bestechung von Entscheidungsträgern? Nach § 335a StGB ist die Bestechung ausländischer Amtsträger strafbar, Zahlungen an Angehörige und Mittelsmänner sind jedoch schwer nachzuweisen. Rüstungskonzerne kämpften in der Vergangenheit vor Gericht über Jahre mit ehemaligen Beratern um Provisionen.\n\n**Wirtschaftliche Bedeutung:** Deutschland gehört zu den fünf größten Waffenexporteuren der Welt. Seit dem Ukraine-Krieg steigen Umsätze und Börsenpläne der Branche – und damit das öffentliche Interesse an alten Geschäften und ihren Nebenabreden."
  },
  {
   "name": "Goldanlage",
   "folder": "Themen",
   "patterns": [
-   "\\bGold(händler|anlage|barren|kauf|preis|raffinerie|sparplan|depot)\\w*",
+   "\\bGold(händler|anlage|barren|kauf|raffinerie|sparplan|depot)\\w*",
    "\\bEdelmetall\\w*",
-   "\\bTonnen Gold\\b",
-   "\\bGold\\b",
-   "\\bTresor\\w*"
+   "\\bTonnen Gold\\b"
   ],
   "summary": "Gold als „sicherer Hafen“ – und die Betrugsmaschen, die mit dem Vertrauen in das Edelmetall spielen.",
-  "min": 8,
+  "min": 6,
   "body": "**Gold** gilt als sicherer Hafen in Krisenzeiten: Es trägt keine Zinsen, aber auch kein Ausfallrisiko eines Schuldners, und sein Preis stieg in den 2020er-Jahren auf Rekordstände. Privatanleger kaufen Barren und Münzen bei Banken und Edelmetallhändlern, lagern sie zu Hause, in Bankschließfächern oder bei Anbietern mit eigenen Hochsicherheitstresoren; daneben gibt es Goldsparpläne, börsengehandelte Produkte wie Xetra-Gold und Goldfonds. Ab einer Haltedauer von einem Jahr sind Kursgewinne auf physisches Gold steuerfrei.\n\n**Betrugsanfällig** ist das Geschäft, weil Anleger das Gold meist nicht sehen: Sie vertrauen auf Lagerbestätigungen und Depotauszüge. Typische Maschen:\n- **Rabatte oder Boni** von 20 bis über 70 Prozent, wenn der Kunde Jahre auf die Auslieferung wartet – wirtschaftlich nur darstellbar, wenn neue Kunden alte bezahlen\n- Gold, das angeblich im Tresor liegt, aber nie gekauft oder längst verkauft wurde\n- Verlagerung von Beständen oder Erlösen über Raffinerien im Ausland\n- Unternehmen in Liechtenstein oder der Schweiz, die der deutschen Aufsicht entgehen\n\n**Aufsicht:** Goldhandel ist in Deutschland kein Bankgeschäft, die BaFin greift nur bei unerlaubten Einlagen- oder Finanzgeschäften ein. Goldhändler unterliegen dem Geldwäschegesetz; Barzahlungen über 2.000 Euro sind meldepflichtig. Nach einem Fall, in dem fast drei Tonnen Gold eines Händlers bei Frankfurt verschwanden, mahnen Verbraucherschützer, nur bei etablierten Anbietern zu kaufen und sich Gold ausliefern zu lassen."
  },
  {
@@ -531,12 +519,11 @@
    "\\bWindpark\\w*",
    "\\bWindkraft\\w*",
    "\\bWindenergie\\w*",
-   "\\bWindr[aä]d\\w*",
-   "\\bEnergiekonzern\\w*",
    "\\bProjektrecht\\w*"
   ],
   "summary": "Wie Windparks geplant und an Energiekonzerne verkauft werden – und warum sich damit Betrug inszenieren ließ.",
-  "body": "**Windkraft-Projektentwickler** sichern sich Flächen, verhandeln mit Grundeigentümern und Gemeinden, beantragen Genehmigungen nach dem Bundes-Immissionsschutzgesetz und holen Gutachten zu Wind, Schall, Artenschutz und Netzanschluss ein. Ein genehmigtes Projekt mit Pacht- und Netzverträgen ist Millionen wert, noch bevor das erste Windrad steht. Energiekonzerne, Stadtwerke und Fonds kaufen solche **Projektrechte**, um ihre Ökostromziele zu erreichen – gerade Energiekonzerne aus Frankreich, Italien oder Skandinavien zahlen hohe Preise und oft Vorschüsse.\n\n**Betrugsanfälligkeit:** Die Wertschöpfung besteht aus Papier – Verträge, Gutachten, Genehmigungsbescheide. Wer diese fälscht, kann Windparks verkaufen, die es nie gab. Ein Entwickler aus dem Emsland erfand ganze Projekte, fälschte Tausende Dokumente und kassierte so Millionen von europäischen Energiekonzernen, bis die Polizei einen weiteren dreistelligen Millionen-Deal verhinderte. Konzerne, die unter Druck standen, Erneuerbaren-Kapazitäten aufzubauen, prüften die Unterlagen nur oberflächlich.\n\n**Markt:** Deutschland hat rund 30.000 Windräder an Land und ehrgeizige Ausbauziele (115 Gigawatt bis 2030). Genehmigungen dauern Jahre, Flächen sind knapp – das treibt die Preise für fertige Projekte und schafft Anreize für Abkürzungen. Energieanbieter mit Vorkasse-Modellen, die ihre Kunden mit Prominenten und Sponsoring ködern, zeigen die andere Seite der Branche: Wachstum auf Pump, bis die Insolvenz Hunderttausende trifft."
+  "body": "**Windkraft-Projektentwickler** sichern sich Flächen, verhandeln mit Grundeigentümern und Gemeinden, beantragen Genehmigungen nach dem Bundes-Immissionsschutzgesetz und holen Gutachten zu Wind, Schall, Artenschutz und Netzanschluss ein. Ein genehmigtes Projekt mit Pacht- und Netzverträgen ist Millionen wert, noch bevor das erste Windrad steht. Energiekonzerne, Stadtwerke und Fonds kaufen solche **Projektrechte**, um ihre Ökostromziele zu erreichen – gerade Energiekonzerne aus Frankreich, Italien oder Skandinavien zahlen hohe Preise und oft Vorschüsse.\n\n**Betrugsanfälligkeit:** Die Wertschöpfung besteht aus Papier – Verträge, Gutachten, Genehmigungsbescheide. Wer diese fälscht, kann Windparks verkaufen, die es nie gab. Ein Entwickler aus dem Emsland erfand ganze Projekte, fälschte Tausende Dokumente und kassierte so Millionen von europäischen Energiekonzernen, bis die Polizei einen weiteren dreistelligen Millionen-Deal verhinderte. Konzerne, die unter Druck standen, Erneuerbaren-Kapazitäten aufzubauen, prüften die Unterlagen nur oberflächlich.\n\n**Markt:** Deutschland hat rund 30.000 Windräder an Land und ehrgeizige Ausbauziele (115 Gigawatt bis 2030). Genehmigungen dauern Jahre, Flächen sind knapp – das treibt die Preise für fertige Projekte und schafft Anreize für Abkürzungen. Energieanbieter mit Vorkasse-Modellen, die ihre Kunden mit Prominenten und Sponsoring ködern, zeigen die andere Seite der Branche: Wachstum auf Pump, bis die Insolvenz Hunderttausende trifft.",
+  "min": 6
  },
  {
   "name": "Hochstapler",
@@ -557,14 +544,12 @@
   "folder": "Themen",
   "patterns": [
    "\\bCompliance\\w*",
-   "\\bRegelverst(oß|öße|ößen)\\w*",
    "\\binterne[nr]? Untersuchung\\w*",
-   "\\bSonderuntersuchung\\w*",
-   "\\bSonderprüf\\w+",
-   "\\bKontrollmechanism\\w+"
+   "\\bSonderuntersuchung\\w*"
   ],
   "summary": "Regelwerke und Abteilungen, die Rechtsverstöße in Unternehmen verhindern sollen – und oft versagen.",
-  "body": "**Compliance** bezeichnet alle Maßnahmen, mit denen Unternehmen sicherstellen, dass Gesetze, interne Regeln und ethische Standards eingehalten werden: Verhaltenskodizes, Schulungen, Hinweisgebersysteme, Geschenke- und Spesenrichtlinien, Vier-Augen-Prinzip, Kontrollen bei Zahlungen und Geschäftspartnern. Große Konzerne beschäftigen Hunderte Compliance-Mitarbeiter; Vorstände haften persönlich, wenn sie kein angemessenes System einrichten (§ 93 AktG, § 130 OWiG).\n\n**Entstehung:** Die Siemens-Korruptionsaffäre 2006 bis 2008 mit Bußgeldern von mehr als 2,5 Milliarden Dollar in den USA und Deutschland machte Compliance zum Standard. Der US-Foreign Corrupt Practices Act, das britische Bribery Act und seit 2023 das Hinweisgeberschutzgesetz prägen die Anforderungen. Ein Verbandssanktionengesetz mit höheren Unternehmensstrafen scheiterte 2021 im Bundestag.\n\n**Interne Untersuchungen:** Bei Verdachtsfällen beauftragen Unternehmen Kanzleien oder Prüfgesellschaften mit Sonderuntersuchungen. Die Ergebnisse dienen der Verteidigung gegenüber Behörden, werden aber oft unter Verschluss gehalten – und die Anwaltshonorare übersteigen zuweilen den aufgedeckten Schaden. Streit entsteht, wenn Konzerne später Kosten von ihren Kanzleien zurückfordern.\n\n**Grenzen:** Kein System verhindert Fehlverhalten von Vorständen, die es umgehen. In mehreren Skandalen – Abgasmanipulation, Bilanzfälschung, Spesenaffären in Forschungsorganisationen – existierten umfangreiche Regelwerke, ohne dass sie griffen. Compliance wird dann zur Fassade, die vor allem die Unternehmensspitze entlasten soll."
+  "body": "**Compliance** bezeichnet alle Maßnahmen, mit denen Unternehmen sicherstellen, dass Gesetze, interne Regeln und ethische Standards eingehalten werden: Verhaltenskodizes, Schulungen, Hinweisgebersysteme, Geschenke- und Spesenrichtlinien, Vier-Augen-Prinzip, Kontrollen bei Zahlungen und Geschäftspartnern. Große Konzerne beschäftigen Hunderte Compliance-Mitarbeiter; Vorstände haften persönlich, wenn sie kein angemessenes System einrichten (§ 93 AktG, § 130 OWiG).\n\n**Entstehung:** Die Siemens-Korruptionsaffäre 2006 bis 2008 mit Bußgeldern von mehr als 2,5 Milliarden Dollar in den USA und Deutschland machte Compliance zum Standard. Der US-Foreign Corrupt Practices Act, das britische Bribery Act und seit 2023 das Hinweisgeberschutzgesetz prägen die Anforderungen. Ein Verbandssanktionengesetz mit höheren Unternehmensstrafen scheiterte 2021 im Bundestag.\n\n**Interne Untersuchungen:** Bei Verdachtsfällen beauftragen Unternehmen Kanzleien oder Prüfgesellschaften mit Sonderuntersuchungen. Die Ergebnisse dienen der Verteidigung gegenüber Behörden, werden aber oft unter Verschluss gehalten – und die Anwaltshonorare übersteigen zuweilen den aufgedeckten Schaden. Streit entsteht, wenn Konzerne später Kosten von ihren Kanzleien zurückfordern.\n\n**Grenzen:** Kein System verhindert Fehlverhalten von Vorständen, die es umgehen. In mehreren Skandalen – Abgasmanipulation, Bilanzfälschung, Spesenaffären in Forschungsorganisationen – existierten umfangreiche Regelwerke, ohne dass sie griffen. Compliance wird dann zur Fassade, die vor allem die Unternehmensspitze entlasten soll.",
+  "min": 6
  },
  {
   "name": "Vergleich und Bußgeld",
@@ -587,12 +572,11 @@
   "patterns": [
    "\\bBetriebsr[aä]t\\w*",
    "\\bBetriebsratswahl\\w*",
-   "\\bIG Metall\\b",
-   "\\bGewerkschaft\\w*",
    "\\bMitbestimmung\\w*",
    "\\bWahlanfechtung\\w*"
   ],
   "summary": "Wie Beschäftigte über Betriebsräte mitbestimmen – und was passiert, wenn Unternehmen Wahlen beeinflussen.",
-  "body": "Der **Betriebsrat** ist nach dem Betriebsverfassungsgesetz (BetrVG) die gewählte Vertretung der Beschäftigten in Betrieben ab fünf Arbeitnehmern. Er hat Mitbestimmungsrechte bei Arbeitszeit, Urlaubsplanung, Überwachung, Entlohnungsgrundsätzen und Kündigungen; ohne seine Zustimmung sind viele Maßnahmen des Arbeitgebers unwirksam. In größeren Unternehmen kommt die Mitbestimmung im Aufsichtsrat hinzu (Drittelbeteiligungs- und Mitbestimmungsgesetz).\n\n**Betriebsratswahlen** finden alle vier Jahre statt, zuletzt 2022 und 2026. Listen können von Gewerkschaften wie der IG Metall oder von unabhängigen Beschäftigten aufgestellt werden. Nach § 20 BetrVG darf niemand die Wahl behindern oder durch Zufügen oder Androhen von Nachteilen beeinflussen; Verstöße sind nach § 119 BetrVG strafbar (bis zu einem Jahr Haft). Eine **Wahlanfechtung** beim Arbeitsgericht ist binnen zwei Wochen möglich, wenn wesentliche Vorschriften verletzt wurden.\n\n**Konflikte mit US-Unternehmenskultur:** Amerikanische Konzerne, die Gewerkschaften als Störfaktor sehen, tun sich mit deutscher Mitbestimmung schwer. Am Werk eines Elektroautoherstellers in Brandenburg eskalierte die Wahl 2026: managementnahe Listen, Polizeieinsatz wegen einer angeblich heimlichen Aufnahme, ein Konzernchef, der mit dem Stopp des Ausbaus drohte, falls die Gewerkschaft gewinne. Arbeitsrechtler sehen darin einen Test für die Grenzen des § 20 BetrVG.\n\nAuch Tarifbindung, Krankenstände und Arbeitssicherheit sind in solchen Betrieben regelmäßig Gegenstand von Berichten und Gewerkschaftskampagnen."
+  "body": "Der **Betriebsrat** ist nach dem Betriebsverfassungsgesetz (BetrVG) die gewählte Vertretung der Beschäftigten in Betrieben ab fünf Arbeitnehmern. Er hat Mitbestimmungsrechte bei Arbeitszeit, Urlaubsplanung, Überwachung, Entlohnungsgrundsätzen und Kündigungen; ohne seine Zustimmung sind viele Maßnahmen des Arbeitgebers unwirksam. In größeren Unternehmen kommt die Mitbestimmung im Aufsichtsrat hinzu (Drittelbeteiligungs- und Mitbestimmungsgesetz).\n\n**Betriebsratswahlen** finden alle vier Jahre statt, zuletzt 2022 und 2026. Listen können von Gewerkschaften wie der IG Metall oder von unabhängigen Beschäftigten aufgestellt werden. Nach § 20 BetrVG darf niemand die Wahl behindern oder durch Zufügen oder Androhen von Nachteilen beeinflussen; Verstöße sind nach § 119 BetrVG strafbar (bis zu einem Jahr Haft). Eine **Wahlanfechtung** beim Arbeitsgericht ist binnen zwei Wochen möglich, wenn wesentliche Vorschriften verletzt wurden.\n\n**Konflikte mit US-Unternehmenskultur:** Amerikanische Konzerne, die Gewerkschaften als Störfaktor sehen, tun sich mit deutscher Mitbestimmung schwer. Am Werk eines Elektroautoherstellers in Brandenburg eskalierte die Wahl 2026: managementnahe Listen, Polizeieinsatz wegen einer angeblich heimlichen Aufnahme, ein Konzernchef, der mit dem Stopp des Ausbaus drohte, falls die Gewerkschaft gewinne. Arbeitsrechtler sehen darin einen Test für die Grenzen des § 20 BetrVG.\n\nAuch Tarifbindung, Krankenstände und Arbeitssicherheit sind in solchen Betrieben regelmäßig Gegenstand von Berichten und Gewerkschaftskampagnen.",
+  "min": 6
  }
 ]

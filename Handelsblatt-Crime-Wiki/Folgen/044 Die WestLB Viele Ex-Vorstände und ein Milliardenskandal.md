@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-05-21 |
 | **Dauer** | 44:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq) · [MP3](https://audio.podigee-cdn.net/1084819-m-409796edd0b5e7d8415a932c724e07ca.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/44-new-episode) |
-| **Transkript** | [[Transkript 044]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]], [[Warburg Bank und Christian Olearius]] |
+| **Transkript** | [[Transkript 044]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]] |
-| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Dieselgate (Volkswagen)]], [[Benjamin Limbach]], [[Strafverteidigung]], [[Rüstungsexporte und Provisionen]], [[Volkswagen]], [[HSH Nordbank]], [[Handelsblatt]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Sönke Iwersen]] |
+| **Kurz erwähnt** | [[Benjamin Limbach]], [[Strafverteidigung]], [[HSH Nordbank]] |
 
 ## Shownotes
 
@@ -51,17 +51,17 @@ Schäden in Milliardenhöhe: Landesbanken versinken in Cum-Ex-Affäre
 
 - [0:05](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=5) – Der Cum-Ex-Skandal, das ist in der deutschen Wirtschaftsgeschichte das sprichwörtliche Fass ohne Boden. Wir wollen heute über einen … ([[Transkript 044#Minute 0|Transkript]])
 - [2:09](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=129) – Ja, das ist eine lange Vorgeschichte. Zehn Jahre, genau länger als zehn Jahre sind die schon nicht mehr … ([[Transkript 044#Minute 2|Transkript]])
-- [4:11](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=251) – Macquarie war dabei aus Australien und amerikanische und britische, japanische, aber eben halt auch die West-LB direkt in … ([[Transkript 044#Minute 4|Transkript]])
+- [4:11](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=251) – Macquarie war dabei aus Australien und amerikanische und britische, japanische, aber eben halt auch die WestLB direkt in … ([[Transkript 044#Minute 4|Transkript]])
 - [6:13](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=373) – Aber er ist natürlich auch ein hohes Risiko gegangen. Und deswegen hat er gesagt, okay, also der Staat … ([[Transkript 044#Minute 6|Transkript]])
 - [8:14](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=494) – Und deswegen hat der NRW auch diesen Ruf. Und deswegen ist Paul Smith eben auch nach Wuppertal gegangen, … ([[Transkript 044#Minute 8|Transkript]])
-- [10:15](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=615) – Ich glaube, sogar Steuerfahnder. Also darauf hat er dann aufgestanden. Also bei allem Gutmenschentum hing es dann halt … ([[Transkript 044#Minute 10|Transkript]])
-- [12:26](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=746) – Also das reicht von der Deutschen Bank, Commerzbank, DZ Bank, Helaba, West-LB. Also das ist eine sehr, sehr, … ([[Transkript 044#Minute 12|Transkript]])
+- [10:15](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=615) – Ich glaube, sogar steuerfrei. Also darauf hat er dann bestanden. Also bei allem Gutmenschentum hing es dann halt … ([[Transkript 044#Minute 10|Transkript]])
+- [12:26](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=746) – Also das reicht von der Deutschen Bank, Commerzbank, DZ Bank, Helaba, WestLB. Also das ist eine sehr, sehr, … ([[Transkript 044#Minute 12|Transkript]])
 - [14:29](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=869) – Und dann hat der seinerseits angefangen, Banken anzurufen, anzuschreiben, der kannte sich sehr gut, der war sehr gut … ([[Transkript 044#Minute 14|Transkript]])
 - [16:29](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=989) – Wir haben ja auch schon oft darüber gesprochen, wie gut man damit verdiente, also zweistellige Renditen innerhalb von … ([[Transkript 044#Minute 16|Transkript]])
 - [18:30](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1110) – Noch länger. Also richtig abstreiten konnten sie es eigentlich erst dann nicht mehr. Aber andererseits dann auch schon … ([[Transkript 044#Minute 18|Transkript]])
 - [20:31](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1231) – Da gab es schon, weiß ich nicht, zu der Zeit 50 Ermittlungskomplexe. Und es gibt natürlich immer auch … ([[Transkript 044#Minute 20|Transkript]])
 - [22:43](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1363) – Und die Nachfolgegesellschaft, die Portigon, die dann einstehen musste dafür, wird es zahlen müssen. Mit anderen Worten, wer … ([[Transkript 044#Minute 22|Transkript]])
-- [24:46](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1486) – Da gibt es zum Beispiel so eine Bank wie die Santander, die spanische Großbank. Oder McQuarrie oder Barclays. … ([[Transkript 044#Minute 24|Transkript]])
+- [24:46](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1486) – Da gibt es zum Beispiel so eine Bank wie die Santander, die spanische Großbank. Oder Macquarie oder Barclays. … ([[Transkript 044#Minute 24|Transkript]])
 - [26:46](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1606) – Und da sind auch immer gleich die Top. Also es gibt allein vier ehemalige Vorstandsvorsitzende, die, ob die … ([[Transkript 044#Minute 26|Transkript]])
 - [28:50](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1730) – Und ja, so da sind wir halt bei mehreren Dutzend Beschuldigten. Vier Vorstands - oder ehemaligen Vorstandsvorsitzenden der … ([[Transkript 044#Minute 28|Transkript]])
 - [30:51](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1851) – Was haben sie denn geantwortet? Ja, natürlich fragen wir jeden, über den wir schreiben, was er zu dem … ([[Transkript 044#Minute 30|Transkript]])

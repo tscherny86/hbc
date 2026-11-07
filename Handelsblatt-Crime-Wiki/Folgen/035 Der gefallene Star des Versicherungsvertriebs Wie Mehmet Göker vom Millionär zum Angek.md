@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-01-29 |
 | **Dauer** | 1:01:08 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa) · [MP3](https://audio.podigee-cdn.net/960913-m-b8df4d6a8dd7005ccdf7a38cce205ead.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/35-neue-episode) |
-| **Transkript** | [[Transkript 035]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 035]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Mehmet Göker]] |
-| **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Untreue]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Rüstungsexporte und Provisionen]] |
-| **Unternehmen** | [[Porsche]] |
-| **Personen** | [[Sönke Iwersen]], [[Mehmet Göker]] |
-| **Kurz erwähnt** | [[Porsche-Ikone vor Gericht]], [[Insolvenzverwalter]] |
+| **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Unternehmen** | – |
+| **Personen** | [[Mehmet Göker]] |
+| **Kurz erwähnt** | [[Insolvenzverwalter]] |
 
 ## Shownotes
 
@@ -46,7 +46,7 @@ Jagd auf den König der Provisionen
 
 - [0:07](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=7) – Ich habe Ziele, realistische Ziele. Das realistische Ziel ist es, den größten Finanzvertrieb der Welt zu haben. Möchtest … ([[Transkript 035#Minute 0|Transkript]])
 - [2:12](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=132) – Ja und ein Jahr später, da war MEG schon der zweitgrößte Vermittler von privaten Krankenversicherungen in Deutschland. Es … ([[Transkript 035#Minute 2|Transkript]])
-- [4:20](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=260) – Mein Name ist Lena Jesberg und damit herzlich willkommen zu Handelsblatt Crime. Ja Orsan und damit herzlich willkommen. … ([[Transkript 035#Minute 4|Transkript]])
+- [4:20](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=260) – Mein Name ist Lena Jesberg und damit herzlich willkommen zu Handelsblatt Crime. Ja Ozan und damit herzlich willkommen. … ([[Transkript 035#Minute 4|Transkript]])
 - [6:22](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=382) – Denn eine Versicherung muss ja regelmäßig auch für Schäden zahlen, für Todesfälle, für Krankheitsfälle. Und um auch bei … ([[Transkript 035#Minute 6|Transkript]])
 - [8:28](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=508) – Und damit ist Göker auch Opfer von dieser Struktur im Vertrieb geworden, in denen auch lange nicht wirklich … ([[Transkript 035#Minute 8|Transkript]])
 - [10:35](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=635) – Und in der Tat schreibt er in seiner Biografie, die Polizei konnte bei ihm nichts holen. Das ist … ([[Transkript 035#Minute 10|Transkript]])
@@ -62,9 +62,9 @@ Jagd auf den König der Provisionen
 - [31:26](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=1886) – Das wurde dann in der Bilanz als Investition in den Fuhrpark des Unternehmens abgerechnet. Und das kann man … ([[Transkript 035#Minute 31|Transkript]])
 - [33:28](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2008) – Hey, wollen wir Geld machen oder wollen wir Geld machen? Ja, das war ja jetzt nicht nur für … ([[Transkript 035#Minute 33|Transkript]])
 - [35:34](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2134) – Und was auch offensichtlich wird, er hat keine Ahnung von Bilanzierung. Denn diese Provisionszusagen, die hat er in … ([[Transkript 035#Minute 35|Transkript]])
-- [37:34](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2254) – Goeckers Erfolg ist auch sein Erfolg. Die Versicherer haben Goecker machen lassen und Geld verdient. Augen zu und … ([[Transkript 035#Minute 37|Transkript]])
-- [39:43](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2383) – Überleg mal, Lena, wenn du jetzt über Goecker eine private Krankenversicherung abschließt, mit sagen wir mal 500 Euro … ([[Transkript 035#Minute 39|Transkript]])
-- [41:49](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2509) – Also es gibt zwei große Änderungen. Oder zunächst muss man sagen, diese Fälle wie Goecker, es gibt auch … ([[Transkript 035#Minute 41|Transkript]])
+- [37:34](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2254) – Gökers Erfolg ist auch sein Erfolg. Die Versicherer haben Göker machen lassen und Geld verdient. Augen zu und … ([[Transkript 035#Minute 37|Transkript]])
+- [39:43](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2383) – Überleg mal, Lena, wenn du jetzt über Göker eine private Krankenversicherung abschließt, mit sagen wir mal 500 Euro … ([[Transkript 035#Minute 39|Transkript]])
+- [41:49](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2509) – Also es gibt zwei große Änderungen. Oder zunächst muss man sagen, diese Fälle wie Göker, es gibt auch … ([[Transkript 035#Minute 41|Transkript]])
 - [43:49](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2629) – Und dann haben sie zu Göker gesagt, bitte, lieber Mehmet Göker, verkaufe vor allem Policen von unserer Versicherung … ([[Transkript 035#Minute 43|Transkript]])
 - [45:53](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2753) – Das war bereits im Sommer 2006. Also mitten in diesem Goldrausch quasi. Denn da zeigt sein persönliches Konto … ([[Transkript 035#Minute 45|Transkript]])
 - [47:55](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2875) – Wir hören auch da mal rein. Ja, und im April 2007 stand dann ja zum ersten Mal die … ([[Transkript 035#Minute 47|Transkript]])

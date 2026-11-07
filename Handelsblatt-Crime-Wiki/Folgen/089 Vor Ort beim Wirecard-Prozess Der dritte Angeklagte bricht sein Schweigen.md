@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-07-28 |
 | **Dauer** | 59:14 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC) · [MP3](https://audio.podigee-cdn.net/1520148-m-0c1ccee85af16608d25859ded0cca31b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/89-wirecard-von-erffa) |
-| **Transkript** | [[Transkript 089]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]] |
-| **Themen** | [[Betrug]], [[Kronzeuge]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
+| **Transkript** | [[Transkript 089]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
+| **Themen** | [[Betrug]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | [[EY (Ernst & Young)]], [[Landgericht München]] |
-| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Stephan von Erffa]] |
-| **Kurz erwähnt** | [[Insolvenzverwalter]], [[Untersuchungshaft]], [[Handelsblatt]] |
+| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Stephan von Erffa]], [[Markus Födisch]] |
+| **Kurz erwähnt** | [[Insolvenzverwalter]], [[Bilanzfälschung]], [[Untersuchungshaft]], [[Wirtschaftsprüfung]] |
 
 ## Shownotes
 
@@ -58,16 +58,16 @@ Im Podcast spricht Host Solveig Gode mit den Investigativ-Reportern Michel Verf�
 - [32:49](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1969) – Wirklich über lange Zeiträume auch nur deshalb, um zu betonen, dass er in dieser oder jener Mail nicht … ([[Transkript 089#Minute 32|Transkript]])
 - [34:53](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2093) – Es waren in meinem Eindruck nach kaum noch Leute da, die privat das beobachtet haben. Das war am … ([[Transkript 089#Minute 34|Transkript]])
 - [36:57](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2217) – Er wird den Prozess weiter interessiert verfolgen und beobachten. Also für Jan Marsalek, beziehungsweise die Verteidiger ist da … ([[Transkript 089#Minute 36|Transkript]])
-- [39:00](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2340) – Und EY sowie vom Insolvenzverwalter Jaffe. Also die habe ich auf jeden Fall gesehen. Da gibt es keine … ([[Transkript 089#Minute 39|Transkript]])
+- [39:00](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2340) – Und EY sowie vom Insolvenzverwalter Jaffé. Also die habe ich auf jeden Fall gesehen. Da gibt es keine … ([[Transkript 089#Minute 39|Transkript]])
 - [41:02](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2462) – Können wir auch noch mal reinhören. Okay, Michael. Ich war ja heute Morgen noch nicht beim Prozess dabei. … ([[Transkript 089#Minute 41|Transkript]])
 - [43:04](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2584) – Und das sei jetzt ein Problem gewesen. Und er hat das jetzt von Marsalek als eine Anordnung seines … ([[Transkript 089#Minute 43|Transkript]])
 - [45:07](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2707) – Ja, genau. Also ich muss jetzt auch sagen, das ist sozusagen ein kleiner Disclaimer. Wir haben dieses Postfach … ([[Transkript 089#Minute 45|Transkript]])
 - [47:11](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2831) – Und daran dafür hatte oder vielmehr für den Umgang mit dieser Tatsache hatte der Richter absolut kein Verständnis. … ([[Transkript 089#Minute 47|Transkript]])
 - [49:13](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2953) – Aber wir haben danach ja dann über dieses Gespräch da draußen gesprochen. Der hat ja durchblicken lassen, dass … ([[Transkript 089#Minute 49|Transkript]])
-- [51:14](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3074) – Das aber nur nebenbei. Ja, also von Erfa hat die Aussage dann beendet und hat nochmal gegen Bellenhaus … ([[Transkript 089#Minute 51|Transkript]])
+- [51:14](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3074) – Das aber nur nebenbei. Ja, also von Erffa hat die Aussage dann beendet und hat nochmal gegen Bellenhaus … ([[Transkript 089#Minute 51|Transkript]])
 - [53:16](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3196) – Oktober 2016. Da wurde der vorläufige Geschäftsbericht für das dritte Quartal des Jahres vorgelegt. Und diese Drittpartnerfirmen haben … ([[Transkript 089#Minute 53|Transkript]])
 - [55:17](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3317) – Also es gab sogar ein Gutachten, was er vorgelegt hat. Und dann hat das Gericht Gutachter bestellt und … ([[Transkript 089#Minute 55|Transkript]])
-- [57:23](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3443) – Und ein zentraler Zeuge, der ist noch gar nicht geladen, das wird Michael Jaffe sein, Insolvenzverwalter. Da weiß … ([[Transkript 089#Minute 57|Transkript]])
+- [57:23](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3443) – Und ein zentraler Zeuge, der ist noch gar nicht geladen, das wird Michael Jaffé sein, Insolvenzverwalter. Da weiß … ([[Transkript 089#Minute 57|Transkript]])
 - [59:24](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3564) – Und das wird uns hier bei Handelsblatt Crime auf jeden Fall noch länger beschäftigen. Vielleicht hören Sie uns … ([[Transkript 089#Minute 59|Transkript]])
 
 ---

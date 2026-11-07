@@ -69,27 +69,27 @@ Verfahren laufen vor Nachlass- und Landgerichten über Jahre und Instanzen; para
 >
 > — [[043 Alarm bei Aldi Ist ein Familienstreit Schuld an den Problemen|#43]], [Minute 26:27](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1587) · [[Transkript 043#Minute 26|im Transkript]]
 
-> … reichsten Brauerei-Dynastien Deutschlands. Und das Feldins-Imperium, das wird gerade von einem heftigen Erbstreit erschüttert. Moment, Moment, Moment. Ihr habt die Stimme wahrscheinlich erkannt, aber wahrscheinlich aus einem anderen Zusammenhang. Wir begrüßen ganz herzlich bei …
+> … reichsten Brauerei-Dynastien Deutschlands. Und das Veltins-Imperium, das wird gerade von einem heftigen Erbstreit erschüttert. Moment, Moment, Moment. Ihr habt die Stimme wahrscheinlich erkannt, aber wahrscheinlich aus einem anderen Zusammenhang. Wir begrüßen ganz herzlich bei …
 >
 > — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 0:55](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=55) · [[Transkript 071#Minute 0|im Transkript]]
 
-> … wird, so abrutschen wie Karl Clemens Feldins? Und wie wirkt sich dieser Erbstreit jetzt eigentlich auf das Unternehmen Feldins aus? All dem gehen wir heute auf den Grund. Und zwar gemeinsam mit Handelsblatt-Investigativchef Sönke Iwersen …
+> … hineingeboren wird, so abrutschen wie Carl-Clemens Veltins? Und wie wirkt sich dieser Erbstreit jetzt eigentlich auf das Unternehmen Veltins aus? All dem gehen wir heute auf den Grund. Und zwar gemeinsam mit Handelsblatt-Investigativchef Sönke Iwersen …
 >
 > — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 3:04](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=184) · [[Transkript 071#Minute 3|im Transkript]]
 
-> … hier gerade gehört haben, der kam in ihrem letzten Willen, in ihrem Testament gar nicht vor. Und wir haben jetzt herausgefunden, dass Karl Clemens Feldins schon seit vielen Jahren versucht, seine Ansprüche als Erbe …
+> … hier gerade gehört haben, der kam in ihrem letzten Willen, in ihrem Testament gar nicht vor. Und wir haben jetzt herausgefunden, dass Carl-Clemens Veltins schon seit vielen Jahren versucht, seine Ansprüche als Erbe durchzusetzen. …
 >
 > — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 5:47](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=347) · [[Transkript 071#Minute 5|im Transkript]]
 
-> … auch anders regeln können, weil seine Schwestern, die haben ja so einen Pflichtteilsverzicht offenbar nicht unterschrieben. Ja, also er hat jedenfalls auf seinen Pflichtteil verzichtet und das hatte natürlich weitreichende Konsequenzen für ihn. Was …
+> … getroffen. Und ja, dann ging das sehr schnell. Da habe ich einen Pflichtteilsverzicht unterschrieben. DIN A5-Blättchen übrigens. Wo mir nicht wirklich erklärt wurde, was das sollte. Was hat Ihre Mutter Ihnen gesagt, was Sie …
 >
-> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 10:45](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=645) · [[Transkript 071#Minute 10|im Transkript]]
+> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 8:39](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=519) · [[Transkript 071#Minute 8|im Transkript]]
 
 > … Wirtschaft gesprochen haben, wo ich auch Dokumente einsehen konnte, unter anderem das Testament von dem verstorbenen Senior Albrecht und ja, das haben wir dann auch als Podcast-Folge auch mal aufbereitet und ja, das war …
 >
 > — [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72]], [Minute 1:04](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=64) · [[Transkript 072#Minute 1|im Transkript]]
 
-> … kurzem ein Interview gehabt, gestern. Und da hat mich tatsächlich... Mit dem Felddienst-Erben spannende Folgen, die ihr da aufgenommen habt. Ja, das ist ja die erste Folge, die wir jetzt machen. Felddienst-Nicht-Erben, muss man …
+> … kurzem ein Interview gehabt, gestern. Und da hat mich tatsächlich... Mit dem Veltins-Erben spannende Folgen, die ihr da aufgenommen habt. Ja, das ist ja die erste Folge, die wir jetzt machen. Veltins-Nicht-Erben, muss man …
 >
 > — [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72]], [Minute 2:55](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=175) · [[Transkript 072#Minute 2|im Transkript]]
 
@@ -97,7 +97,7 @@ Verfahren laufen vor Nachlass- und Landgerichten über Jahre und Instanzen; para
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 29:58](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1798) · [[Transkript 104#Minute 29|im Transkript]]
 
-> … hat ein ganz klares Anliegen. Ja genau, er fühlt sich um sein Erbe betrogen und das ist natürlich ein Riesenunternehmen mittlerweile. Also die Feltinsbrauerei aus dem Sauerland in Grevenstein war mal relativ klein, ist …
+> … hat ein ganz klares Anliegen. Ja genau, er fühlt sich um sein Erbe betrogen und das ist natürlich ein Riesenunternehmen mittlerweile. Also die Veltins-Brauerei aus dem Sauerland in Grevenstein war mal relativ klein, ist …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 31:40](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1900) · [[Transkript 104#Minute 31|im Transkript]]
 
@@ -106,7 +106,7 @@ Verfahren laufen vor Nachlass- und Landgerichten über Jahre und Instanzen; para
 - [[038 Streit um das Milliarden-Erbe von Thiele|#38 – Streit um das Milliarden-Erbe von Thiele]] (2023-02-26) — Shownotes · Minute [0:43](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=43), [16:17](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=977), [18:30](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1110), [20:04](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1204)
 - [[041 Streit um das Erbe von Peter Dussmann|#41 – Streit um das Erbe von Peter Dussmann]] (2023-04-09) — Shownotes · Minute [1:42](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=102), [16:36](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=996), [18:17](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=1097), [20:11](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=1211)
 - [[043 Alarm bei Aldi Ist ein Familienstreit Schuld an den Problemen|#43 – Alarm bei Aldi: Ist ein Familienstreit Schuld an den Problemen?]] (2023-05-07) — Shownotes · Minute [1:40](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=100), [24:33](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1473), [26:27](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5?t=1587)
-- [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71 – Drogen, Waffen, Gefängnis: Carl-Clemens Veltins war kriminell – jetzt streitet er um das Millionen-Erbe]] (2024-04-07) — Shownotes · Minute [0:55](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=55), [3:04](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=184), [5:47](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=347), [10:45](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=645)
+- [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71 – Drogen, Waffen, Gefängnis: Carl-Clemens Veltins war kriminell – jetzt streitet er um das Millionen-Erbe]] (2024-04-07) — Shownotes · Minute [0:55](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=55), [3:04](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=184), [5:47](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=347), [8:39](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=519)
 
 ## Kurz erwähnt (2)
 

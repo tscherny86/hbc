@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 2
+folgen: 1
 tags: [unternehmen]
 ---
 # Volksbank Köln Bonn
@@ -20,14 +20,6 @@ Der Fall führte zu Verwerfungen in Vorstand und Aufsichtsrat: Vier Aufsichtsrä
 
 ## Was im Podcast gesagt wird
 
-> … sich die getroffen. Und da wurde der Bericht des Handelsplatzes über die Bordellimmobilien als Lüge, Hetze, Manipulation, sowas in der Art waren da die Schlagwörter. Und generell haben offenbar ganz viele Mitglieder der Bank …
->
-> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 12:22](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=742) · [[Transkript 070#Minute 12|im Transkript]]
-
-> … eingestiegen. Wir hatten ein paar exklusive Geschichten. Also das mit den Oberhausener Bordellimmobilien, das war öffentlich noch nicht bekannt. Das haben wir sozusagen herausgefunden. Auch mit dem Arbeitsgerichtsstreit Effenberg, darüber haben wir berichtet. Und …
->
-> — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 13:58](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=838) · [[Transkript 070#Minute 13|im Transkript]]
-
 > … Volksbank und eine große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstandsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 0:17](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=17) · [[Transkript 157#Minute 0|im Transkript]]
@@ -44,9 +36,8 @@ Der Fall führte zu Verwerfungen in Vorstand und Aufsichtsrat: Vier Aufsichtsrä
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 5:20](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=320) · [[Transkript 157#Minute 5|im Transkript]]
 
-## In diesen Folgen (2)
+## In diesen Folgen (1)
 
-- [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes · Minute [12:22](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=742), [13:58](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=838)
 - [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Shownotes · Minute [0:17](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=17), [2:01](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=121), [3:44](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=224), [5:20](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=320)
 
 ---

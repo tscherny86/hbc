@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-05-18 |
 | **Dauer** | 1:00:54 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE) · [MP3](https://audio.podigee-cdn.net/1895584-m-6e40222c9cca5ffb983f0f8641ec37c3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/114-skandal-um-die-greensill-bank) |
-| **Transkript** | [[Transkript 114]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]] |
+| **Transkript** | [[Transkript 114]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[Greensill Bank]] |
 | **Themen** | [[Insolvenz]], [[Insolvenzverwalter]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[Greensill Bank]], [[BaFin]] |
+| **Unternehmen** | [[BaFin]] |
 | **Personen** | [[Ina Karabasz]], [[Lex Greensill]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Freshfields und Cum-Ex]], [[EY im Wirecard-Skandal]], [[Effenberg-Bank]], [[Betrug]], [[Bankrott und Vermögensverschleierung]], [[Bilanzfälschung]], [[Compliance]], [[EY (Ernst & Young)]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[EY im Wirecard-Skandal]], [[Effenberg-Bank]], [[Betrug]], [[Bankrott und Vermögensverschleierung]], [[Bilanzfälschung]], [[EY (Ernst & Young)]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
 
 ## Shownotes
 
@@ -61,7 +61,7 @@ Jetzt mehr erfahren unter handelsblatt.com/79.
 - [12:51](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=771) – Also die Argumentation war nicht grundlegend falsch. Genau, genau. Aber da spielte halt so ein Stück weit auch … ([[Transkript 114#Minute 12|Transkript]])
 - [14:56](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=896) – Er ist doch eigentlich prädestiniert, da genau hinzuschauen. Und na ja, wir wollten halt Herrn Kieser auch dazu … ([[Transkript 114#Minute 14|Transkript]])
 - [17:01](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1021) – Aber, wie wir wissen, dazu kam es nicht. Und dann in Deutschland, das ging innerhalb von Tagen, hat … ([[Transkript 114#Minute 17|Transkript]])
-- [19:04](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1144) – Aber des Pudels, Kern der Finanzkrise 2829. Genau, genau. Und ja, die deutsche Tochter, die ist dann halt … ([[Transkript 114#Minute 19|Transkript]])
+- [19:04](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1144) – Aber des Pudels, Kern der Finanzkrise 2008/2009. Genau, genau. Und ja, die deutsche Tochter, die ist dann halt … ([[Transkript 114#Minute 19|Transkript]])
 - [21:15](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1275) – Das ist ja jetzt nicht mehr so lange. Genau. Der Abschluss der Ermittlungen steht bevor. Also ist ebenfalls … ([[Transkript 114#Minute 21|Transkript]])
 - [23:18](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1398) – Die Schadensersatzklagen gegen die Vorstände und Aufsichtsräte. Insgesamt sechs Personen sind da beklagt. Und auch der Gupta spielt … ([[Transkript 114#Minute 23|Transkript]])
 - [25:19](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1519) – Und dass er natürlich die volle Verantwortung für den Kollaps übernehme. Aber volle Verantwortung, aber keine Schuld. Den … ([[Transkript 114#Minute 25|Transkript]])
@@ -76,7 +76,7 @@ Jetzt mehr erfahren unter handelsblatt.com/79.
 - [44:03](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2643) – Und eben mit den Vorgängen vertrauten Kreisen, wie man so schön sagt, da sickert schon durch, dass sich … ([[Transkript 114#Minute 44|Transkript]])
 - [46:08](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2768) – Also was jetzt genau von diesen 2 ,18 Milliarden? Aber es gibt auf jeden Fall Indizien, die darauf … ([[Transkript 114#Minute 46|Transkript]])
 - [48:13](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2893) – Es sind da 13 Beschuldigte und er sagte auch, vor allem Vorstände. Also man muss dazu sagen, die … ([[Transkript 114#Minute 48|Transkript]])
-- [50:16](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3016) – Jedenfalls ist klar, dass das Verfahren im vergangenen Jahr vor dem Ausstand hintergrund war ein Vergleichsangebot. Also da … ([[Transkript 114#Minute 50|Transkript]])
+- [50:16](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3016) – Jedenfalls ist klar, dass das Verfahren im vergangenen Jahr vor dem Aus stand, Hintergrund war ein Vergleichsangebot. Also … ([[Transkript 114#Minute 50|Transkript]])
 - [52:20](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3140) – Ja, da gibt es Parallelen. Es gibt aber auch Unterschiede. Einer ist, dass unseres Wissens gehören die Wirtschaftsprüfer … ([[Transkript 114#Minute 52|Transkript]])
 - [54:21](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3261) – Damit bestätigt man letztlich, dass das Zahlen - und Berichtswerk im Einklang mit den gesetzlichen Regeln ausgestellt wurde … ([[Transkript 114#Minute 54|Transkript]])
 - [56:26](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3386) – Ja, genau. Also es gibt zumindest Kommunen, die sich eben auch darüber mokieren, dass man sich eigentlich darauf … ([[Transkript 114#Minute 56|Transkript]])

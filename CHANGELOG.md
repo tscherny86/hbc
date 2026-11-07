@@ -4,6 +4,13 @@ Neueste Version oben. Jede ausgelieferte Version bekommt hier einen Eintrag und 
 (legt `.github/workflows/release.yml` automatisch an). Uhrzeiten in MEZ.
 Neue Transkripte (Commits „Transkript NNN“) sind Inhalt, keine eigene Version.
 
+## 1.0.0 – 07.11.2026
+- **Alle 160 Folgen transkribiert** (faster-whisper `large-v3-turbo` auf der GPU, zwei Prozesse parallel, 1,23 Mio. Wörter) und **vollständig geprüft**: 156 Folgen von 33 Helfergruppen Zeile für Zeile Korrektur gelesen, 4 Folgen mit dem offiziellen Podigee-Transkript abgeglichen (Übereinstimmung 62–87 %). **4.469 Korrekturregeln, 9.117 Korrekturen** – vor allem Namen (Brorhilker in über 30 Hörvarianten, Marsalek, Olearius, Iwersen, Karabasz, Votsmeier, Signa, Veltins, Erffa), Firmen und Alltagswörter.
+- **Artikel:** 81 Fälle, 43 Themen, 45 Unternehmen, 89 Personen (Hosts, Investigativ-Team, Protagonisten); neu die Fälle **Greensill Bank** und **Gröner Group**. Über 5.400 Zitate mit Link zur Minute.
+- **Zuordnung geprüft:** 2.297 Zuordnungen Folge → Artikel mit Belegen kontrolliert, **294 Fehlzuordnungen** entfernt, 62 Suchmuster geschärft (z. B. „ey“ ist nicht EY, „Barth“ nicht nur Jürgen Barth, „Volkswagen-Stiftung“ nicht Volkswagen, „Mandat“ nicht Strafverteidigung, „unter den Nagel reißen“ nicht Lars-Marten Nagel).
+- **Korrektur-Engine:** schneller (Bau 2 statt 5 Minuten), korrigiert jetzt auch Teile von Bindestrich-Wörtern („Krum-Ex-Verfahren“ → Cum-Ex-Verfahren, „Porsche-Pierch“ → Porsche-Piëch) ohne Doppelungen; Whisper-Phantomsätze („Untertitelung des ZDF …“) werden entfernt; globale Regeln, die echte Wörter treffen würden, gelten nur in ihrer Folge.
+- **Website:** geprüft bei 320, 360, 390, 800, 960, 1024, 1100 und 1440 px auf allen 418 Seiten ohne Überlauf. Behoben: Logo und Minuten-Chips teilten sich CSS-Klassen (helle Pille ums Logo), Menü auf Tablet und kleinen Handys („Firmen“ statt „Unternehmen“ unter 380 px), große Überschrift bricht nicht mehr mitten im Wort, lange Links in Shownotes werden zu kurzen Links („handelsblatt.com/…“), lange Komposita umbrechen.
+
 ## 0.1.0 – 07.11.2026
 - **Grundgerüst nach dem Konzept der Schwesterprojekte** (ABC Podcast Fanwiki, Real Exam English Fanwiki): RSS-Feed von
   Podigee (160 Folgen, Dezember 2021 bis November 2026, 128 h Audio), Spotify-Episoden-IDs für alle 160 Folgen (von der

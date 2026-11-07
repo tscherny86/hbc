@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-10-21 |
 | **Dauer** | 40:58 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap) · [MP3](https://audio.podigee-cdn.net/1229876-m-5404640b9ce14ff87e580e334d0ddc49.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/57-neue-episode) |
-| **Transkript** | [[Transkript 057]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 057]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[KPMG]], [[M.M. Warburg]], [[Staatsanwaltschaft Köln]] |
-| **Personen** | [[Jan Marsalek]], [[Markus Braun]], [[Hanno Berger]], [[Benjamin Limbach]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek-Brief]], [[Spionageprozess London (Marsaleks Agenten)]], [[Henry O’Sullivan]], [[Oliver Bellenhaus]], [[Henry O'Sullivan]], [[Insolvenz]], [[Strafverteidigung]], [[Compliance]] |
+| **Personen** | [[Ina Karabasz]], [[Jan Marsalek]], [[Markus Braun]], [[Anne Brorhilker]], [[Christian Olearius]], [[Benjamin Limbach]] |
+| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Spionageprozess London (Marsaleks Agenten)]], [[Henry O’Sullivan]], [[Oliver Bellenhaus]], [[Henry O'Sullivan]], [[Hanno Berger]], [[Insolvenz]], [[Strafverteidigung]] |
 
 ## Shownotes
 
@@ -65,7 +65,7 @@ Ex-Wirecard-Vorstand Marsalek gerät unter Spionageverdacht
 - [10:36](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=636) – Also der hätte sich in diese Materie vollkommen neu einarbeiten müssen. Man muss, glaube ich, auch an der … ([[Transkript 057#Minute 10|Transkript]])
 - [12:38](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=758) – Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz. Alles aus einer Hand. Zusammen für Ihr Business. Vodafone. Apropos … ([[Transkript 057#Minute 12|Transkript]])
 - [14:40](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=880) – Und ja, in diese Richtung ging es jetzt auch noch mal. Also letztlich Vorwürfe, er würde vorverurteilt, er … ([[Transkript 057#Minute 14|Transkript]])
-- [16:46](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1006) – Und dieses Berger-Modell war eben genau dieses Cum-Ex-Modell. Und ja, wie gesagt, Oliarius sagt halt, er wusste nichts … ([[Transkript 057#Minute 16|Transkript]])
+- [16:46](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1006) – Und dieses Berger-Modell war eben genau dieses Cum-Ex-Modell. Und ja, wie gesagt, Olearius sagt halt, er wusste nichts … ([[Transkript 057#Minute 16|Transkript]])
 - [18:54](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1134) – Und die, die halt knallhart auf Konfrontation gesetzt haben, die sind relativ schlecht dabei weggekommen. Und einer von … ([[Transkript 057#Minute 18|Transkript]])
 - [21:03](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1263) – Und ja, er hat es schon gesagt, viele denken, es sieht nicht gut aus. Man kann das fast … ([[Transkript 057#Minute 21|Transkript]])
 - [23:10](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=1390) – Da kennen Sie auch alles. Für den Fall, dass Sie auch da noch mal ein bisschen was nachhören … ([[Transkript 057#Minute 23|Transkript]])

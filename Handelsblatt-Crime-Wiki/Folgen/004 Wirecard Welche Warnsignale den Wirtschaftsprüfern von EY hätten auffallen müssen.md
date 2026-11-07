@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-01-16 |
 | **Dauer** | 48:39 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ) · [MP3](https://audio.podigee-cdn.net/631459-m-0cd1540a96fae39adfcc9190398459c9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/4-neue-episode) |
-| **Transkript** | [[Transkript 004]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Marsalek und das russische Spionagenetzwerk]] |
-| **Themen** | [[Wirtschaftsprüfung]], [[Compliance]] |
-| **Unternehmen** | [[EY (Ernst & Young)]], [[Handelsblatt]] |
+| **Transkript** | [[Transkript 004]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
+| **Themen** | [[Wirtschaftsprüfung]] |
+| **Unternehmen** | [[EY (Ernst & Young)]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Bert Fröndhoff]], [[Jan Marsalek]], [[Markus Braun]] |
-| **Kurz erwähnt** | [[Fall Edward Snowden]], [[Edward Snowden]], [[Peter Koppe]], [[Betrug]], [[Insolvenz]], [[Bilanzfälschung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[KPMG]] |
+| **Kurz erwähnt** | [[Peter Koppe]], [[Betrug]], [[Insolvenz]], [[Bilanzfälschung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[KPMG]] |
 
 ## Shownotes
 
@@ -65,13 +65,13 @@ Jetzt spricht Wirecard-Sonderprüfer Martin Wambach
 - [25:03](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1503) – Und das sehen wir eben auch im Fall Wirecard, wo ganz viele der Big Four-Gesellschaften, also der vier … ([[Transkript 004#Minute 25|Transkript]])
 - [27:05](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1625) – Die Wambach-Leute haben sich halt, wie Felix eingangs gesagt hat, ganz stupide an die Regeln gehalten. Die haben … ([[Transkript 004#Minute 27|Transkript]])
 - [29:11](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1751) – Er hat ja kein Abitur gemacht, keine Matura, hat gut programmiert und er hat sich früh zum Beispiel … ([[Transkript 004#Minute 29|Transkript]])
-- [31:12](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1872) – Und das ist eben auch ein Riesenproblem, offensichtlich auch aus Sicht der Sonderprüfer um Martin Warnbach. Nach einer … ([[Transkript 004#Minute 31|Transkript]])
-- [33:16](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1996) – Wie genau, darüber habe ich mit meinem Kollegen, unserem Wirtschaftsprüfe-Experten Bert Fröndhoff gesprochen. Hallo Bert, sag mal ganz … ([[Transkript 004#Minute 33|Transkript]])
+- [31:12](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1872) – Und das ist eben auch ein Riesenproblem, offensichtlich auch aus Sicht der Sonderprüfer um Martin Wambach. Nach einer … ([[Transkript 004#Minute 31|Transkript]])
+- [33:16](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1996) – Wie genau, darüber habe ich mit meinem Kollegen, unserem Wirtschaftsprüfer-Experten Bert Fröndhoff gesprochen. Hallo Bert, sag mal ganz … ([[Transkript 004#Minute 33|Transkript]])
 - [35:20](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2120) – Es gibt so erste Zahlen im Transparenzbericht. Die sehen nicht schlechter aus oder nicht besser als bei den … ([[Transkript 004#Minute 35|Transkript]])
-- [37:27](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2247) – Also schwierige Gemengenlage, sodass man im Miteffekt wahrscheinlich im Aufsichtsrat zum Schluss gekommen ist, wir müssen EY einfach … ([[Transkript 004#Minute 37|Transkript]])
+- [37:27](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2247) – Also schwierige Gemengelage, sodass man im Endeffekt wahrscheinlich im Aufsichtsrat zum Schluss gekommen ist, wir müssen EY einfach … ([[Transkript 004#Minute 37|Transkript]])
 - [39:28](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2368) – Wir beobachten das natürlich weiter. Danke dir, Bert. Danke dir. Ja, Felix und Sönke, lass uns ganz zum … ([[Transkript 004#Minute 39|Transkript]])
-- [41:36](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2496) – So und der Jaffe ist deren Vertreter, deren Fürsprecher und all sein Tun ist darauf ausgerichtet, Geld zu … ([[Transkript 004#Minute 41|Transkript]])
-- [43:41](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2621) – Und der Prozess selber, der kann natürlich dauern. Das kann eine dreistellige Anzahl, 100 oder mehr Prozesttage dauern. … ([[Transkript 004#Minute 43|Transkript]])
+- [41:36](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2496) – So und der Jaffé ist deren Vertreter, deren Fürsprecher und all sein Tun ist darauf ausgerichtet, Geld zu … ([[Transkript 004#Minute 41|Transkript]])
+- [43:41](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2621) – Und der Prozess selber, der kann natürlich dauern. Das kann eine dreistellige Anzahl, 100 oder mehr Prozesstage dauern. … ([[Transkript 004#Minute 43|Transkript]])
 - [46:13](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2773) – Das ist schon ein dickes Brett, das da gebohrt wird. Jetzt ist es natürlich so, dass Jan Marsalek … ([[Transkript 004#Minute 46|Transkript]])
 - [48:19](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2899) – Ja, super spannend. Und da bleiben wir natürlich auf jeden Fall dran. Dann bleibt es mir an der … ([[Transkript 004#Minute 48|Transkript]])
 

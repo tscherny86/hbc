@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 5
+folgen: 4
 tags: [themen]
 ---
 # Pressefreiheit und Presserecht
@@ -26,51 +26,15 @@ Redaktionen beschäftigen deshalb **Justiziare**, die Texte und Podcasts vor Ver
 
 ## Was im Podcast gesagt wird
 
-> … das Stichwort, wir haben nochmal nachgeguckt, wenn man jetzt nach dem Stichwort Abmahnungen sucht in dieser Liste, dann kriegt man tatsächlich 1300 Treffer. Und das sind dann zum Teil Dateien, da kann man vermuten, …
+> … Wie kommt es? Und das kurz vor Pfingsten, was hat er gesagt? Ja, erstmal nichts. Presserechtler hat er antwortet. Mehr oder weniger ist ein Missverständnis, Finanzamt, konnten wir das am Freitag nicht mehr nachprüfen. Vor Pfingsten, Behörden, …
 >
-> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 31:55](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=1915) · [[Transkript 034#Minute 31|im Transkript]]
+> — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 21:58](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1318) · [[Transkript 090#Minute 21|im Transkript]]
 
-> … es, das stimmt schon. Aber jetzt für den Mitarbeiter, da ist eine Abmahnung da jetzt im Netz gelandet, im Darknet. Oder jetzt gibt es diese Liste und der Mitarbeiter sieht jetzt meine Abmahnung mit …
+> … Und Gröner selber geriert sich sonst ja auch sehr als Freund der Pressefreiheit. Er hat das schon sehr oft betont, wie wichtig ihm das sei. Auch uns gegenüber. Auch uns gegenüber. Und jetzt sage …
 >
-> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 44:32](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2672) · [[Transkript 034#Minute 44|im Transkript]]
+> — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 31:13](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1873) · [[Transkript 090#Minute 31|im Transkript]]
 
-> … persönliche Rechte und Freiheiten? Gilt da so ein Klarname und Grund von Abmahnung schon oder was muss das sein? Tja, das ist wahrscheinlich Auslegungssache. Wir haben bei der Datenschutzbehörde angefragt, die sagen, die stehen …
->
-> — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 48:55](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2935) · [[Transkript 034#Minute 48|im Transkript]]
-
-> … sei nicht der richtige Weg. Okay. Und dann bekommt er seine erste Abmahnung. Genau. Also nochmal, er wird von Elon Musk dazu aufgefordert, zu melden, was richtig und was falsch läuft. Und dann macht …
->
-> — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 27:31](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=1651) · [[Transkript 058#Minute 27|im Transkript]]
-
-> … sechs Tage später kommt, wenn nicht die zweite, dann doch die erste Abmahnung, wo ihm dann Fehlverhalten, schlechtes Arbeiten und mangelndes Zeitverständnis oder Zeitmanagement, glaube ich, vorgeworfen wird. Also es ist so ein Vor-Zurück, …
->
-> — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 29:02](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=1742) · [[Transkript 058#Minute 29|im Transkript]]
-
-> … die Dinge verschlechtern sich, verschlechtern sich immer mehr. Sie bekommen eine Art Abmahnung, sie werden versetzt in eine andere Abteilung, bekommen schlechte Bewertungen, das ist alles dokumentiert. Und es endet schließlich damit, dass Tesla …
->
-> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 18:28](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1108) · [[Transkript 063#Minute 18|im Transkript]]
-
-> … darum, mich zum Kündigen zu bringen. Nach einem Monat habe ich eine Abmahnung bekommen, die voller Lügen war. Und dann wurde das alles wieder zurückgezogen, als sie mich Whistleblower genannt haben. Sie haben die …
->
-> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 20:58](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1258) · [[Transkript 063#Minute 20|im Transkript]]
-
-> … bisschen Stasi-Gefühl. Oft war dann so eine Kontrolle auch gleich mit einer Abmahnung verbunden, um die Leute erstmal zu schocken und das sind wahnsinnige Geschichten, die wir da gehört haben, dass die Leute reinkommen …
->
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 29:50](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1790) · [[Transkript 082#Minute 29|im Transkript]]
-
-> … dann danach passiert? In der Regel waren diese Testkäufe dazu da, um Abmahnung zu schreiben. Ziel war dann offenbar, Mitarbeiterinnen klein zu halten, in ständige Angst zu halten, immer Angst, Fehler zu machen, kontrolliert …
->
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 31:24](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1884) · [[Transkript 082#Minute 31|im Transkript]]
-
-> … muss gemacht werden, sie gehen hier nicht weg oder es gibt eine Abmahnung und einer ihrer bekanntesten Sprüche war, Mitarbeiter sind wie möglich, wenn sie einem lästig werden, wirft man sie einfach raus. Man …
->
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 41:04](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2464) · [[Transkript 082#Minute 41|im Transkript]]
-
-> … Maßnahmen ergriffen und wird dies auch weiterhin tun, einschließlich mündlicher Verwarnungen, schriftlicher Abmahnungen und gegebenenfalls Entlassungen. Also wir haben das echt als Bestätigung dafür gesehen, dass diese Szene in Zürs kein Einzelfall war. Und …
->
-> — [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101]], [Minute 45:51](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=2751) · [[Transkript 101#Minute 45|im Transkript]]
-
-> … gibt oder noch kein Urteil gesprochen wurde. Und das sagt auch das Presserecht. Ganz klar, keine Vorverurteilung. Aber Mauri Schad, dem war das offenbar ziemlich egal. Da gibt es auch ein Interview von 2015. …
+> … gibt oder noch kein Urteil gesprochen wurde. Und das sagt auch das Presserecht. Ganz klar, keine Vorverurteilung. Aber Maurischat, dem war das offenbar ziemlich egal. Da gibt es auch ein Interview von 2015. Und …
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 15:30](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=930) · [[Transkript 115#Minute 15|im Transkript]]
 
@@ -90,39 +54,48 @@ Redaktionen beschäftigen deshalb **Justiziare**, die Texte und Podcasts vor Ver
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 2:27](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=147) · [[Transkript 116#Minute 2|im Transkript]]
 
-> … sind da sehr oldschool, ja, die lieben Faxe. Also tatsächlich die klassische Abmahnung, also dieses Schreiben, was ein Anwalt schickt, um uns zu sagen, ihr habt da was falsch gemacht, kommt am häufigsten tatsächlich …
+> … Nach Ablauf der vorgenannten Frist werden wir unserer Mandantin dringend empfehlen, ihren Unterlassungsanspruch gerichtlich geltend zu machen. Also eben die Drohung, das macht so ein Schreiben zu einer Abmahnung, dass man sagt, entweder ihr …
 >
-> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 4:19](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=259) · [[Transkript 116#Minute 4|im Transkript]]
+> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 16:08](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=968) · [[Transkript 116#Minute 16|im Transkript]]
 
-> … ihr vermutlich nicht gefallen. Genau, so war es. Wir haben tatsächlich eine Abmahnung von ihrem Anwalt gekriegt, auch wieder ein bekannter Promi-Anwalt. Übrigens per Fax natürlich. Und zwar im Ergebnis für dieses eine Wort, …
+> … haben, du mahnst uns ab. Das ist also etwas, was du im Presserecht, auch in anderen Rechtsgebieten immer machen kannst. Wenn eine Abmahnung kommt, kannst du vor Gericht gehen und sagen, ich möchte festgestellt …
 >
-> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 14:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=888) · [[Transkript 116#Minute 14|im Transkript]]
+> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 19:12](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1152) · [[Transkript 116#Minute 19|im Transkript]]
 
-> … aber wir gehen vor Gericht. Was machst du dann, wenn so eine Abmahnung auf deinem Tisch landet? Üblicherweise leite ich das erstmal weiter an die Autorinnen, Autoren, die den Text geschrieben haben mit der …
+> … glaube ich, auch bisher nur ein Teilgeständnis, noch kein vollständiges. Also im Presserecht wird immer viel abgewogen. Klingt dann ganz schön hin und her für mich jetzt. Absolut. Wir haben es dann schlicht akzeptiert, …
 >
-> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 16:20](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=980) · [[Transkript 116#Minute 16|im Transkript]]
+> — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 27:42](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1662) · [[Transkript 116#Minute 27|im Transkript]]
 
-> … Jahr Handelsblatt Crime und zwar aus Perspektive der Rechtsabteilung. Wir blicken auf Abmahnungen, auf Klagen, auf Grauzonen und auf die juristischen Entscheidungen, die unsere Recherchen überhaupt erst möglich gemacht haben. Dafür sind in dieser …
+> … haben wir auch so in der Rechtsabteilung, das ist so. Aber beim Presserecht würde ich das nicht sagen. Ihr berichtet ja wirklich irgendwie 24-7 das ganze Jahr über. Insofern ist es eigentlich jetzt nicht …
 >
-> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 0:17](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=17) · [[Transkript 135#Minute 0|im Transkript]]
+> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 4:36](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=276) · [[Transkript 135#Minute 4|im Transkript]]
 
-> … letzten Monaten wirklich nochmal mehr geworden. Es hat zugenommen, es kommen viele Abmahnungen rein. Wirklich auch in den letzten Monaten gehäuft. Beschwerden von Unternehmen, von prominenten Politikern. Natürlich versuchen wir viel ohne Gericht zu …
+> … Rolle, welche Funktion hat eine Person im Unternehmen. Und dann kommen die Medienanwälte sehr, sehr häufig, also die Anwälte dieser Wirtschaftsgrößen, ja und das war gerade in 2025 wirklich häufig bei uns der Fall, …
 >
-> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 4:00](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=240) · [[Transkript 135#Minute 4|im Transkript]]
+> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 11:42](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=702) · [[Transkript 135#Minute 11|im Transkript]]
 
-## In diesen Folgen (5)
+> … uns einfach gar kein Foto von sich zur Verfügung stellen. Neben der presserechtlichen Seite muss man nämlich auch immer das Urheberrecht beachten. Und ja, er ist zwar mit uns, kann ich glaube ich schon …
+>
+> — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 25:53](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=1553) · [[Transkript 135#Minute 25|im Transkript]]
 
-- [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34 – Cyberangriff auf Continental: So lief der spektakuläre Datendiebstahl bei dem Dax-Konzern ab]] (2023-01-15) — Minute [31:55](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=1915), [44:32](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2672), [48:55](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2935)
-- [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101 – Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds]] (2024-11-22) — Shownotes · Minute [45:51](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3?t=2751)
+> … nicht persönlich. Aber wir können an der Stelle einspielen, was uns sein Presserechtler zu seiner Rolle bei der Degag 2.0 mitgeteilt hat. Die Behauptung, unser Mandant habe als eine Art faktischer Vorstand der Degag-Gruppe …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 33:22](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=2002) · [[Transkript 139#Minute 33|im Transkript]]
+
+> … ganz sicher. Naja, jedenfalls, Dehne kriegt es und er leitet das einem Presserechtler weiter, einem Juristen und schreibt dazu, ich zitiere mal wortwörtlich, for your information, also FYI, und bitte um Rücksprache, ich würde …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 43:40](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=2620) · [[Transkript 139#Minute 43|im Transkript]]
+
+## In diesen Folgen (4)
+
+- [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Minute [21:58](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1318), [31:13](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1873)
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes · Minute [15:30](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=930), [38:23](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2303), [42:05](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2525), [46:47](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2807)
-- [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Shownotes · Minute [2:27](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=147), [4:19](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=259), [14:48](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=888), [16:20](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=980)
-- [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135 – Abmahnungen, Klagen, Grauzonen: Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwälten]] (2025-12-28) — Shownotes · Minute [0:17](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=17), [4:00](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=240)
+- [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Shownotes · Minute [2:27](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=147), [16:08](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=968), [19:12](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1152), [27:42](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1662)
+- [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135 – Abmahnungen, Klagen, Grauzonen: Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwälten]] (2025-12-28) — Shownotes · Minute [4:36](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=276), [11:42](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=702), [25:53](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=1553)
 
-## Kurz erwähnt (3)
+## Kurz erwähnt (1)
 
-- [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Minute [27:31](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=1651), [29:02](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=1742)
-- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Minute [18:28](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1108), [20:58](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=1258)
-- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Minute [29:50](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1790), [31:24](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1884), [41:04](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2464)
+- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Minute [33:22](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=2002), [43:40](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=2620)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

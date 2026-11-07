@@ -20,7 +20,7 @@ _Handelsblatt-Redakteur (Unternehmen, Chemie und Pharma); im Podcast bei Wirecar
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 2:26](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=146) · [[Transkript 004#Minute 2|im Transkript]]
 
-> … hat. Wie genau, darüber habe ich mit meinem Kollegen, unserem Wirtschaftsprüfe-Experten Bert Fröndhoff gesprochen. Hallo Bert, sag mal ganz kurz, warum hat EY so reagiert? Ja, EY hat ja vorher mit dem Bundestagsuntersuchungsausschuss, mit …
+> … hat. Wie genau, darüber habe ich mit meinem Kollegen, unserem Wirtschaftsprüfer-Experten Bert Fröndhoff gesprochen. Hallo Bert, sag mal ganz kurz, warum hat EY so reagiert? Ja, EY hat ja vorher mit dem Bundestagsuntersuchungsausschuss, mit …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 33:17](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1997) · [[Transkript 004#Minute 33|im Transkript]]
 

@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-11-16 |
 | **Dauer** | 1:22:40 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk) · [MP3](https://audio.podigee-cdn.net/2175146-m-4ac4f5f9031c593f822f82da2cede671.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/130-fruhere-cum-ex-chefermittlerin-anne-brorhilker-die-finanzbranche-leistet-sich-einen-unglaublichen-lobbyapparat) |
-| **Transkript** | [[Transkript 130]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[HSH Nordbank]], [[Staatsanwaltschaft Köln]] |
-| **Personen** | [[Sönke Iwersen]], [[Lars-Marten Nagel]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Peter Biesenbach]] |
-| **Kurz erwähnt** | [[Kronzeuge Benjamin Frey]], [[WestLB]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]], [[LBBW-Cum-Ex]], [[Kronzeuge]], [[M.M. Warburg]], [[LBBW]], [[Fraunhofer-Gesellschaft]], [[Handelsblatt]] |
+| **Transkript** | [[Transkript 130]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
+| **Unternehmen** | [[M.M. Warburg]], [[HSH Nordbank]], [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Peter Biesenbach]] |
+| **Kurz erwähnt** | [[WestLB]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]], [[LBBW-Cum-Ex]], [[Hanno Berger]], [[Christian Olearius]], [[Steuerfahndung]], [[Geldwäsche]], [[Kronzeuge]], [[LBBW]] |
 
 ## Shownotes
 
@@ -47,7 +47,7 @@ Dieses Aktionsangebot finden Sie nur bis zum 8. Dezember unter handelsblatt.com/
 
 ## Zeitmarken
 
-- [0:41](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=41) – Liebe Hörer, Sie merken es schon an meiner Stimme, ich bin nicht Solvay Gohle. Ausnahmsweise moderiere ich diese … ([[Transkript 130#Minute 0|Transkript]])
+- [0:41](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=41) – Liebe Hörer, Sie merken es schon an meiner Stimme, ich bin nicht Solveig Gode. Ausnahmsweise moderiere ich diese … ([[Transkript 130#Minute 0|Transkript]])
 - [2:47](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=167) – Über allem schwebt die Frage, warum ließ sich der deutsche Staat diese Wirtschaftskriminalität so lange gefallen? Und was … ([[Transkript 130#Minute 2|Transkript]])
 - [5:01](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=301) – Denn ohne Unterstützung und politische Rückendeckung kann man solche komplexen, langwierigen Verfahren mit solchen wehrhaften Gegnern eben schlecht … ([[Transkript 130#Minute 5|Transkript]])
 - [7:03](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=423) – Das machen die Ermittlungen natürlich unglaublich zäh. Und das Zweite ist, selbst wenn man jetzt, sagen wir mal, … ([[Transkript 130#Minute 7|Transkript]])
@@ -77,13 +77,13 @@ Dieses Aktionsangebot finden Sie nur bis zum 8. Dezember unter handelsblatt.com/
 - [57:05](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3425) – Aber das sind natürlich keine harten Fakten oft gewesen. Also es ist nichts, was man so als Ermittler … ([[Transkript 130#Minute 57|Transkript]])
 - [59:15](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3555) – Und dann legt jemand einen Briefumschlag auf den Tisch, in dem es sind 20.000 Euro oder 20.000 Franken … ([[Transkript 130#Minute 59|Transkript]])
 - [1:01:17](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3677) – Also, das sind nicht die Honorare, die die beiden bekommen haben für das, was sie ja offiziell gemacht … ([[Transkript 130#Minute 61|Transkript]])
-- [1:03:32](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3812) – Wobei Arno Berger ist ja aus dem Pfarrershaushalt. Ja, aber ich kenne ihn viel zu wenig, als dass … ([[Transkript 130#Minute 63|Transkript]])
-- [1:05:35](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3935) – Wir haben in Deutschland ein Legalitätsprinzip. Das heißt, wir müssen beim Anfangsverdachtenverfahren einleiten. Da haben wir keinen Spielraum. … ([[Transkript 130#Minute 65|Transkript]])
+- [1:03:32](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3812) – Wobei Hanno Berger ist ja aus dem Pfarrershaushalt. Ja, aber ich kenne ihn viel zu wenig, als dass … ([[Transkript 130#Minute 63|Transkript]])
+- [1:05:35](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=3935) – Wir haben in Deutschland ein Legalitätsprinzip. Das heißt, wir müssen beim Anfangsverdacht ein Verfahren einleiten. Da haben wir … ([[Transkript 130#Minute 65|Transkript]])
 - [1:07:39](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4059) – Das war einfach so. Also die Realität, das hat mich ehrlich gesagt auch verstört. Es hat mich auch … ([[Transkript 130#Minute 67|Transkript]])
 - [1:09:39](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4179) – Man kann sich einfach sein eigenes Fehlverhalten wunderbar schönreden. Das klappt echt erstaunlich gut. Das kennen wir vielleicht … ([[Transkript 130#Minute 69|Transkript]])
 - [1:11:42](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4302) – Also das war rechtskonform. Wir mussten es einleiten, aber wir haben dann eben Schwerpunkte gesetzt und nach strategischen … ([[Transkript 130#Minute 71|Transkript]])
 - [1:13:45](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4425) – oder 13. Jahr der Ermittlung. Wenn Sie jetzt sagen wir 2035, wie viele Urteile, meinen Sie, wird es … ([[Transkript 130#Minute 73|Transkript]])
-- [1:15:47](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4547) – Deswegen ist ja mein Bestreben, das zu ändern und das auch in die Öffentlichkeit, uns öffentliche Bewusstsein zu … ([[Transkript 130#Minute 75|Transkript]])
+- [1:15:47](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4547) – Deswegen ist ja mein Bestreben, das zu ändern und das auch in die Öffentlichkeit, ins öffentliche Bewusstsein zu … ([[Transkript 130#Minute 75|Transkript]])
 - [1:17:50](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4670) – Ich meine nur, ich will jetzt auch nicht zu optimistisch klingen, aber wenn nach, also der Bundestagsuntersuchungsausschuss, der … ([[Transkript 130#Minute 77|Transkript]])
 - [1:19:52](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4792) – Also das war wirklich ein schwerer Rückschritt und das hat der Bundesrechnungshof auch genauso genannt. Ja, das ist … ([[Transkript 130#Minute 79|Transkript]])
 - [1:21:59](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=4919) – Und das nicht sozusagen in den ganzen Landessystemen, die alle wenig Personal haben, die noch zahlreiche andere Aufgaben … ([[Transkript 130#Minute 81|Transkript]])

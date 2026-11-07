@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-03-27 |
 | **Dauer** | 36:38 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg) · [MP3](https://audio.podigee-cdn.net/704283-m-b70685b84c47243d97c6557aa2f64e64.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/10-neue-episode) |
-| **Transkript** | [[Transkript 010]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 010]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Russische Oligarchen und Sanktionen]], [[Megajachten-Sanktionen]] |
 | **Themen** | [[Korruption und Bestechung]], [[Sanktionen]] |
-| **Unternehmen** | [[Handelsblatt]] |
-| **Personen** | [[Lars-Marten Nagel]], [[Martin Murphy]] |
-| **Kurz erwähnt** | [[Geldwäsche]] |
+| **Unternehmen** | – |
+| **Personen** | [[Martin Murphy]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 

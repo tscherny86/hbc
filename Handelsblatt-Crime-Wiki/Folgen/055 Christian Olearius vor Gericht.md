@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-09-18 |
 | **Dauer** | 21:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5) · [MP3](https://audio.podigee-cdn.net/1219637-m-05ef8834224477ad558abb371d1c43d0.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/55-neue-episode) |
-| **Transkript** | [[Transkript 055]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Transkript** | [[Transkript 055]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[M.M. Warburg]], [[Landgericht Bonn]] |
-| **Personen** | [[Ina Karabasz]], [[René Bender]], [[Christian Olearius]], [[Olaf Scholz]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Wirecard]], [[Hanno Berger]], [[Strafverteidigung]] |
+| **Personen** | [[Ina Karabasz]], [[René Bender]], [[Hanno Berger]], [[Christian Olearius]], [[Olaf Scholz]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Strafverteidigung]] |
 
 ## Shownotes
 
@@ -60,7 +60,7 @@ Ermittlungen gegen 14 ehemalige WestLB-Vorstände
 - [14:43](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=883) – Ja, bis jetzt hat man noch kein Statement gehört von Gauweiler und auch nicht von den anderen Anwälten. … ([[Transkript 055#Minute 14|Transkript]])
 - [16:54](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1014) – Ja, es geht bei Herrn Olearius auch um das sogenannte Nachtatverhalten. Also wir haben einmal die Steuerhinterziehung, die … ([[Transkript 055#Minute 16|Transkript]])
 - [18:56](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1136) – Zum einen wird uns ein alter Bekannter wieder begegnen, und zwar der Kronzeuge. Ja, das wird aber nicht … ([[Transkript 055#Minute 18|Transkript]])
-- [20:59](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1259) – Bleiben Sie dran. Deal ist die All-in-One-Plattform für globale Teams. HR, IT und Payroll kommen hier mühelos zusammen, … ([[Transkript 055#Minute 20|Transkript]])
+- [20:59](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1259) – Bleiben Sie dran. Deel ist die All-in-One-Plattform für globale Teams. HR, IT und Payroll kommen hier mühelos zusammen, … ([[Transkript 055#Minute 20|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

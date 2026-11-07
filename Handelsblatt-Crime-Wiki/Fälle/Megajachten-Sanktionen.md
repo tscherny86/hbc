@@ -30,11 +30,11 @@ Die Recherche des Handelsblatts zeigt, dass die Sanktionen symbolpolitisch wirkt
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 25:27](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=1527) · [[Transkript 010#Minute 25|im Transkript]]
 
-> … oder besser, die liegen erstmal da. Das sind vor allen Dingen drei Mega-Yachten. Das muss man sich vorstellen, das sind kleine Kreuzfahrtschiffe. Die sind in Hamburg bei Blom und Voss, gute Traditionswerft, zur Wartung …
+> … oder besser, die liegen erstmal da. Das sind vor allen Dingen drei Mega-Yachten. Das muss man sich vorstellen, das sind kleine Kreuzfahrtschiffe. Die sind in Hamburg bei Blohm + Voss, gute Traditionswerft, zur Wartung eingebracht worden …
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 28:44](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=1724) · [[Transkript 010#Minute 28|im Transkript]]
 
-> … Naja, es gibt auch ein Schiff von Putin, der hat auch eine Megajacht. Also angeblich hat er ja nichts, aber de facto hat er eine Megajacht. Und die war auch in Blum und Voss …
+> … Naja, es gibt auch ein Schiff von Putin, der hat auch eine Megajacht. Also angeblich hat er ja nichts, aber de facto hat er eine Megajacht. Und die war auch in Blohm + Voss zur Wartung. …
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 30:56](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=1856) · [[Transkript 010#Minute 30|im Transkript]]
 
@@ -46,11 +46,11 @@ Die Recherche des Handelsblatts zeigt, dass die Sanktionen symbolpolitisch wirkt
 >
 > — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 9:45](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=585) · [[Transkript 126#Minute 9|im Transkript]]
 
-> … diese Kausalität ein Stück weit sehen kann. Zum einen ist da die Amadea, die in den USA verkauft werden soll und für die juristischen Hürden steht. Dann gibt es die Dilba, die bei Bremen …
+> … diese Kausalität ein Stück weit sehen kann. Zum einen ist da die Amadea, die in den USA verkauft werden soll und für die juristischen Hürden steht. Dann gibt es die Dilbar, die bei Bremen …
 >
 > — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 12:03](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=723) · [[Transkript 126#Minute 12|im Transkript]]
 
-> … wenn wir mal zurückspringen in das Jahr des Überfalls, auch bei der Amadea hat es so einen öffentlichkeitswirksamen Auftritt gegeben. Da sind dann amerikanische Agenten so in dunklen Anzügen aufs Stift gestürmt im Mai …
+> … wenn wir mal zurückspringen in das Jahr des Überfalls, auch bei der Amadea hat es so einen öffentlichkeitswirksamen Auftritt gegeben. Da sind dann amerikanische Agenten so in dunklen Anzügen aufs Schiff gestürmt im Mai 2022. …
 >
 > — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 14:47](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=887) · [[Transkript 126#Minute 14|im Transkript]]
 

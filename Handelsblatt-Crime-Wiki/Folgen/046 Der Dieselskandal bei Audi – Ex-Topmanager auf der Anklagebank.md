@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-06-17 |
 | **Dauer** | 49:47 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE) · [MP3](https://audio.podigee-cdn.net/1133679-m-f15359913bc3781fccb24ac7da832bd1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/46-new-episode) |
-| **Transkript** | [[Transkript 046]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 046]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
 | **Themen** | [[Kronzeuge]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]] |
 | **Unternehmen** | [[Volkswagen]], [[Audi]] |
 | **Personen** | [[Martin Winterkorn]], [[Rupert Stadler]], [[Wolfgang Hatz]] |
-| **Kurz erwähnt** | [[Porsche-Ikone vor Gericht]], [[Betrug]], [[Strafverteidigung]], [[Porsche]] |
+| **Kurz erwähnt** | [[Betrug]], [[Strafverteidigung]], [[Porsche]] |
 
 ## Shownotes
 
@@ -58,10 +58,10 @@ https://cmk.handelsblatt.com/cms/articles/14967/anzeige/xx/hier-gibt-s-weitere-i
 - [4:21](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=261) – Und Giovanni Pamio hat der Staatsanwalt Niko Petzka eine Haft von zwei Jahren ausgesetzt zur Bewährung gefordert. Außerdem … ([[Transkript 046#Minute 4|Transkript]])
 - [6:25](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=385) – Das liegt halt daran, dass in seiner Zeit oder unter seiner Ägide 95.000 Autos manipuliert wurden. Ein Großteil … ([[Transkript 046#Minute 6|Transkript]])
 - [8:29](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=509) – Das ging dann am Ende bis zum Bundesverfassungsgericht und dann wurde es, glaube ich, Sommer 2018 bis klar … ([[Transkript 046#Minute 8|Transkript]])
-- [10:30](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=630) – Auf der anderen Seite stehen eben Wolfgang Katz, der ehemalige Motorenchef bei Audi. Der war später auch Porsche-Vorstand. … ([[Transkript 046#Minute 10|Transkript]])
+- [10:30](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=630) – Auf der anderen Seite stehen eben Wolfgang Hatz, der ehemalige Motorenchef bei Audi. Der war später auch Porsche-Vorstand. … ([[Transkript 046#Minute 10|Transkript]])
 - [12:30](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=750) – Und dann ist man halt zu dem Ergebnis gekommen, wenn man an der Software Änderungen vornimmt, dann unterdrückt … ([[Transkript 046#Minute 12|Transkript]])
 - [14:32](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=872) – Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz. Alles aus einer Hand. Zusammen für Ihr Business. Vodafone. Was … ([[Transkript 046#Minute 14|Transkript]])
-- [16:42](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1002) – Denn zum einen hat er sich damals beim VW-Chef Winterkorn dafür verbirgt, dass dieses Clean-Diesel-Projekt fliegt und dass … ([[Transkript 046#Minute 16|Transkript]])
+- [16:42](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1002) – Denn zum einen hat er sich damals beim VW-Chef Winterkorn dafür verbürgt, dass dieses Clean-Diesel-Projekt fliegt und dass … ([[Transkript 046#Minute 16|Transkript]])
 - [19:32](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1172) – René, du hast den Prozess ja auch eng begleitet, was hast du so für einen Eindruck bekommen davon, … ([[Transkript 046#Minute 19|Transkript]])
 - [22:32](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1352) – mir in der Schlange, hat auch auf Einlass gewartet und ja, die war etwas nervöser. Die hat auch … ([[Transkript 046#Minute 22|Transkript]])
 - [24:37](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1477) – Ja, also das war unheimlich zäh alles, also wir haben ja auch schon gesagt, das hat insgesamt 170 … ([[Transkript 046#Minute 24|Transkript]])

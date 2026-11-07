@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-01-02 |
 | **Dauer** | 53:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp) · [MP3](https://audio.podigee-cdn.net/616709-m-8f54606c86074e2162ff69a33c2d1398.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/3-hanno-berger-cum-ex-strippenzieher-und-staatsfeind-nr-1) |
-| **Transkript** | [[Transkript 003]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 003]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Betrug]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]], [[Wolfgang Kubicki]] |
-| **Kurz erwähnt** | [[WestLB]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]], [[Wirecard]], [[Erpressung]], [[Goldanlage]], [[M.M. Warburg]], [[HSH Nordbank]], [[Freshfields]], [[Staatsanwaltschaft Köln]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Betrug]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]], [[Wolfgang Kubicki]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]], [[Landesbanken]], [[Erpressung]], [[M.M. Warburg]], [[HSH Nordbank]], [[Freshfields]] |
 
 ## Shownotes
 
@@ -63,9 +63,9 @@ Warum Wolfgang Kubicki einen Cum-Ex-Angeklagten vertritt
 - [12:25](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=745) – Und die Staatsanwaltschaften und die Steuerbehörden das Spiel nicht mehr mitgespielt haben. Okay, dann lasst uns an der … ([[Transkript 003#Minute 12|Transkript]])
 - [14:29](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=869) – Es gab eine Schlüsselszene 2005, so wird das beschrieben, von Insidern. Und zwar gab es da ein Gutachten … ([[Transkript 003#Minute 14|Transkript]])
 - [16:33](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=993) – Berger hat sich halt immer darauf berufen, das steht aber nicht schwarz auf weiß im Gesetz. Genau. Und … ([[Transkript 003#Minute 16|Transkript]])
-- [18:35](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1115) – Und der Berger war halt wirklich, wirklich angesehen. Und wenn der dem Raphael Roth sagt, verlassen Sie sich … ([[Transkript 003#Minute 18|Transkript]])
+- [18:35](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1115) – Und der Berger war halt wirklich, wirklich angesehen. Und wenn der dem Rafael Roth sagt, verlassen Sie sich … ([[Transkript 003#Minute 18|Transkript]])
 - [20:51](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1251) – Und denen wurden halt Renditen versprochen von teilweise 20 Prozent innerhalb von drei, vier Monaten. Das war für … ([[Transkript 003#Minute 20|Transkript]])
-- [22:52](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1372) – Wie können wir ihn da einordnen? Tja, der wollte halt was Geiles und hat was Geiles bekommen. Reit … ([[Transkript 003#Minute 22|Transkript]])
+- [22:52](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1372) – Wie können wir ihn da einordnen? Tja, der wollte halt was Geiles und hat was Geiles bekommen. Reiht … ([[Transkript 003#Minute 22|Transkript]])
 - [24:54](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1494) – Da gibt es einige, die auf den beschuldigten Listen der Ermittler stehen. Okay, und wenn wir jetzt schon … ([[Transkript 003#Minute 24|Transkript]])
 - [26:57](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1617) – Ja, gut, das liegt in der Natur von unserem Ressort, dass wir halt die Kriminalfälle, es sind ja … ([[Transkript 003#Minute 26|Transkript]])
 - [29:08](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1748) – Und um nochmal einen draufzusetzen, Volker, du hast, wir haben im Vorfeld über eine Mail gesprochen, über einen … ([[Transkript 003#Minute 29|Transkript]])

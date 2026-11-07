@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam
 
-Folge: [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] · automatisch transkribiert, vollständig Korrektur gelesen (102 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] · automatisch transkribiert, vollständig Korrektur gelesen (103 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0
@@ -262,7 +262,7 @@ Ja, das Ende war auch bitter, weil im Juni 2016 hat das Gericht eigentlich fast 
 
 ### Minute 66
 [▶ 1:06:39](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3999)  
-Das ist irgendwie ganz bezeichnend. Herr Bath, Sie werden beschuldigt, mehrere hunderttausend Gläubiger hinterlassen zu haben mit der Telderfax-Pleite. Muss ich dem hier zustimmen, was Sie gerade machen? Sie wollen sich dazu nicht äußern. 700.000 Gläubiger. Sind Sie einer der größten Betrüger der deutschen Wirtschaftsgeschichte? Das wird Ihnen vorgeworfen von der Staatsanwaltschaft? Das wird die Staatsanwaltschaft sicherlich klären. Sie wussten schon seit zwei Jahren, dass Ihr Unternehmen pleite war? Nein, wusste ich nicht. Trotzdem noch hunderttausende Kunden? Wusste ich nicht. Sie wussten es? Sie haben einen Brief geschrieben im Juni 2009 an Ihren Vorstand, an Ihren Aufsichtsrat, Entschuldigung. Der hat doch einen völlig anderen Hintergrund gehabt. Nämlich, dass Sie zahlungsunfähig waren. Ja. Wie fühlt man sich, 700.000 Gläubiger zu hinterlassen? Herr Bath, können Sie noch ruhig schlafen? Ja, sicherlich. Okay, also wenigstens er kann noch ruhig schlafen, die Gläubiger vermutlich nicht. Sönke Jürgen, wenn wir jetzt diese Geschichte hier mal zusammenziehen am Ende, das waren hunderttausende Kunden, 750.000 Gläubiger waren es am Ende.
+Das ist irgendwie ganz bezeichnend. Herr Bath, Sie werden beschuldigt, mehrere hunderttausend Gläubiger hinterlassen zu haben mit der Teldafax-Pleite. Muss ich dem hier zustimmen, was Sie gerade machen? Sie wollen sich dazu nicht äußern. 700.000 Gläubiger. Sind Sie einer der größten Betrüger der deutschen Wirtschaftsgeschichte? Das wird Ihnen vorgeworfen von der Staatsanwaltschaft? Das wird die Staatsanwaltschaft sicherlich klären. Sie wussten schon seit zwei Jahren, dass Ihr Unternehmen pleite war? Nein, wusste ich nicht. Trotzdem noch hunderttausende Kunden? Wusste ich nicht. Sie wussten es? Sie haben einen Brief geschrieben im Juni 2009 an Ihren Vorstand, an Ihren Aufsichtsrat, Entschuldigung. Der hat doch einen völlig anderen Hintergrund gehabt. Nämlich, dass Sie zahlungsunfähig waren. Ja. Wie fühlt man sich, 700.000 Gläubiger zu hinterlassen? Herr Bath, können Sie noch ruhig schlafen? Ja, sicherlich. Okay, also wenigstens er kann noch ruhig schlafen, die Gläubiger vermutlich nicht. Sönke Jürgen, wenn wir jetzt diese Geschichte hier mal zusammenziehen am Ende, das waren hunderttausende Kunden, 750.000 Gläubiger waren es am Ende.
 
 ### Minute 67
 [▶ 1:07:44](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4064)  

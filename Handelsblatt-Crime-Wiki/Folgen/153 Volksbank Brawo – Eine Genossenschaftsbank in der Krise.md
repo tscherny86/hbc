@@ -21,9 +21,9 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | [[Transkript 153]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Effenberg-Bank]], [[Buchhalterin und Volksbank Düsseldorf Neuss]], [[Volksbank Brawo]] |
 | **Themen** | [[Insolvenz]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
-| **Unternehmen** | [[Volkswagen]], [[Volksbank Düsseldorf Neuss]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
-| **Personen** | [[Solveig Gode]], [[Stefan Effenberg]], [[Jürgen Brinkmann]] |
-| **Kurz erwähnt** | [[Betrug]], [[BaFin]] |
+| **Unternehmen** | [[Volksbank Düsseldorf Neuss]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
+| **Personen** | [[Solveig Gode]], [[Jürgen Brinkmann]] |
+| **Kurz erwähnt** | [[Betrug]], [[Volkswagen]], [[BaFin]] |
 
 ## Shownotes
 

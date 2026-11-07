@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-05-07 |
 | **Dauer** | 48:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/19FmurijvgBjmdfdWcxGf5) · [MP3](https://audio.podigee-cdn.net/1044833-m-23da680f17f412aa30bdd184c408298b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/43-neue-episode) |
-| **Transkript** | [[Transkript 043]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 043]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Aldi-Familienstreit]] |
 | **Themen** | [[Erbstreit]] |
 | **Unternehmen** | [[Aldi]] |
 | **Personen** | [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Elon Musk]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 

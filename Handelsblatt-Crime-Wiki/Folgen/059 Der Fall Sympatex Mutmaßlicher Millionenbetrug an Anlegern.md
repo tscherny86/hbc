@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-11-18 |
 | **Dauer** | 40:31 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/667FJEbljRO5gV8X7OckSO) · [MP3](https://audio.podigee-cdn.net/1261814-m-5590906684eec4046c7653a937a9427d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/59-neue-episode) |
-| **Transkript** | [[Transkript 059]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 059]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Sympatex-Betrug]] |
-| **Themen** | [[Betrug]], [[Insolvenz]], [[Insolvenzverwalter]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Sympatex]] |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
-| **Kurz erwähnt** | [[Stephan Goetz]], [[Strafverteidigung]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Stephan Goetz]] |
+| **Kurz erwähnt** | [[Stefan Sanktjohanser]], [[Strafverteidigung]] |
 
 ## Shownotes
 

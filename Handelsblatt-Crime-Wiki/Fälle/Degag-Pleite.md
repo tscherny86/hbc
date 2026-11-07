@@ -28,13 +28,13 @@ Der letzte Vorstand Bernd Klein brach 2026 das Schweigen: Dehne habe die Gruppe 
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 4:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=242) · [[Transkript 139#Minute 4|im Transkript]]
 
-> … uns jetzt mal an, denn du hast eine Aufnahme des DGAG-Gründers Bürger Dehne mitgebracht, wo er eben dieses Geschäftsprinzip in einem Videocall von Mitarbeitern erläutert. Hören wir mal rein. Warum können auch die Medien …
+> … unbedingt nach einem Ort, wo Menschen gern leben. Lass uns über die Degag sprechen. Die hatte kurz vor der Pleite ungefähr 5000 Wohnungen und 1000 Garagen auch noch im Portfolio. Und der regionale Schwerpunkt, …
 >
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 8:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=482) · [[Transkript 139#Minute 8|im Transkript]]
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 6:16](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=376) · [[Transkript 139#Minute 6|im Transkript]]
 
-> … der Teil des Zykluses, bis wir die Wohnung saniert haben. Und wenn Dehne seine Geschichte jetzt selbst erzählt, also wie er die DGAG sozusagen groß gemacht hat, dann kommt er immer zu einem Punkt, …
+> … hören wir uns jetzt mal an, denn du hast eine Aufnahme des Degag-Gründers Birger Dehne mitgebracht, wo er eben dieses Geschäftsprinzip in einem Videocall von Mitarbeitern erläutert. Hören wir mal rein. Warum können auch die …
 >
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 9:41](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=581) · [[Transkript 139#Minute 9|im Transkript]]
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 8:01](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=481) · [[Transkript 139#Minute 8|im Transkript]]
 
 > … jetzt geht's los mit der Folge. Viel Spaß. Ja, mein Name ist Bernd Klein. Lange für die Degag-Gruppe tätig gewesen. Studierter Betriebswirt. Über zehn Jahre im Grunde CEO bei einer Hotelbetriebsgesellschaft. Später dann bei …
 >
@@ -48,13 +48,13 @@ Der letzte Vorstand Bernd Klein brach 2026 das Schweigen: Dehne habe die Gruppe 
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 4:15](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=255) · [[Transkript 140#Minute 4|im Transkript]]
 
-> … er fühlt sich da auch durchaus alleingelassen von anderen wichtigen Akteuren der Degag und im Umfeld der Degag. Über den Berater und einstigen Gründer Birger Dehner haben wir ja in der letzten Folge auch …
+> … er fühlt sich da auch durchaus alleingelassen von anderen wichtigen Akteuren der Degag und im Umfeld der Degag. Über den Berater und einstigen Gründer Birger Dehne haben wir ja in der letzten Folge auch …
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 6:03](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=363) · [[Transkript 140#Minute 6|im Transkript]]
 
 ## In diesen Folgen (2)
 
-- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes · Minute [1:45](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=105), [4:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=242), [8:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=482), [9:41](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=581)
+- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes · Minute [1:45](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=105), [4:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=242), [6:16](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=376), [8:01](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=481)
 - [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes · Minute [0:37](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=37), [2:44](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=164), [4:15](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=255), [6:03](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=363)
 
 ---

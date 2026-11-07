@@ -1,6 +1,6 @@
 ---
 type: faelle
-folgen: 2
+folgen: 3
 tags: [faelle]
 ---
 # Spionageprozess London (Marsaleks Agenten)
@@ -26,23 +26,47 @@ Der Prozess machte deutlich, wie eng Marsalek inzwischen mit russischen Diensten
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 35:19](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2119) · [[Transkript 057#Minute 35|im Transkript]]
 
+> … der nächsten Stufe der Pyramide steht dann eben ein Mann, der heißt Orlin Roussev. Können wir gleich auch nochmal drüber sprechen. Der soll sozusagen Marsaleks direkter Kontakt in UK, in Großbritannien gewesen sein. Und hat …
+>
+> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 5:42](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=342) · [[Transkript 069#Minute 5|im Transkript]]
+
+> … auch schon kennt. Genau, ich habe es gerade schon kurz angedeutet, den Orlin Roussev, der sozusagen die direkte Kontaktperson von Marsalek gewesen sein soll aus diesem Spionagering, der taucht tatsächlich in Unterlagen auf, die uns …
+>
+> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 9:24](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=564) · [[Transkript 069#Minute 9|im Transkript]]
+
 > … Was man aber auch noch sagen kann, die Behörden haben bei diesen Bulgaren eben jede Menge Spionageausrüstung gefunden. Also technische Ausstattung, gefälschte Pässe, kommen wir später auch noch zu. Unter anderem auch falsche Presseausweise, …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 13:12](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=792) · [[Transkript 069#Minute 13|im Transkript]]
 
-> … dass jemand in Moskau gesagt hat, hey Jan, aktivier mal bitte deine Bulgaren in Großbritannien, die für Russland spionieren und nimm da irgendwie unsere Feinde in Visier oder hat er da vielleicht auch auf …
+> … vorhin von seinem Postfach erzählt, da gibt es nicht nur die Mails von dem Roussev, über die ich vorhin gesprochen habe. Da gibt es auch noch andere Leute, wo es dann darum geht, hey, ich habe …
 >
-> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 1:06:22](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3982) · [[Transkript 069#Minute 66|im Transkript]]
+> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 16:13](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=973) · [[Transkript 069#Minute 16|im Transkript]]
 
-> … die soll halt schon sehr lange in Großbritannien leben. Sind, wie gesagt, Bulgaren. Einfach mal so ein bisschen, damit man Eindruck kriegt. Die, da ist also ein so Martial-Arts-Kämpfer dabei. Ein extrem bulliger Typ. …
+> … Anklageschrift den Namen Jan Marsalek x-mal genannt. Der soll unter einem Decknamen, Rupert Ticz, würde ich das jetzt betonen, also geschrieben T-I-C-Z, unter diesem Decknamen soll er den Kopf dieser Bande sozusagen geführt haben über …
 >
-> — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 7:00](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=420) · [[Transkript 102#Minute 7|im Transkript]]
+> — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 6:17](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=377) · [[Transkript 102#Minute 6|im Transkript]]
+
+> … vielleicht nachher auch noch drauf. Wir sind uns ziemlich sicher, dass Marsalek Roussev deutlich länger kannte. Und es gibt ja auch sehr, sehr, sehr viele Hinweise, dass der möglicherweise in seiner Zeit als Wirecard-Vorstand …
+>
+> — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 8:50](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=530) · [[Transkript 102#Minute 8|im Transkript]]
+
+> … sind. Dafür spricht auch, dass es ja gar keine russischen Staatsbürger sind, sondern Bulgaren. Sie hat jetzt keine Summen genannt, aber sie spricht von erheblichen Geldbeträgen, die geflossen sind. Sehr wahrscheinlich ist das sehr, sehr …
+>
+> — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 32:35](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1955) · [[Transkript 102#Minute 32|im Transkript]]
+
+> … fürchte fast, man muss davon ausgehen, dass es ähnliche Zellen wie diese Bulgaren-Gruppe in Europa noch mehrere geben wird. Und vielleicht eine letzte Anmerkung sozusagen zu Marsalek. Du hast das vorhin angesprochen. Der passt …
+>
+> — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 43:21](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2601) · [[Transkript 102#Minute 43|im Transkript]]
+
+> … kommt irgendwie die nächste überraschende Wendung. Da sitzen jetzt also eine Gruppe Bulgaren im Old Bailey in der Innenstadt von London. Das ist das Strafgericht da, ein sehr altehrwürdiges Gericht. Da sitzen sie jetzt …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 24:37](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1477) · [[Transkript 104#Minute 24|im Transkript]]
 
 > … der spektakulärsten Spionageprozesse unserer Zeit, der seit Ende November im Londoner Strafgericht Old Bailey verhandelt wurde. Die britischen Behörden verfolgten sechs Bulgaren, vier Männer und zwei Frauen, weil diese für russische Nachrichtendienste spioniert und …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 0:58](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=58) · [[Transkript 111#Minute 0|im Transkript]]
 
-> … Hallo Ina auch von mir. Also wir hatten schon darüber gesprochen, den Spionageprozess, über den wir bereits berichtet haben, als es losging. Von den, ja muss man sagen, von Jan Marzalek gesteuerten Russland-Agenten. Da …
+> … Hallo Ina auch von mir. Also wir hatten schon darüber gesprochen, den Spionageprozess, über den wir bereits berichtet haben, als es losging. Von den, ja muss man sagen, von Jan Marsalek gesteuerten Russland-Agenten. Da …
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 3:09](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=189) · [[Transkript 111#Minute 3|im Transkript]]
 
@@ -50,19 +74,20 @@ Der Prozess machte deutlich, wie eng Marsalek inzwischen mit russischen Diensten
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 5:11](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=311) · [[Transkript 111#Minute 5|im Transkript]]
 
-> … nur als kurzer Exkurs. Also Lars, was hat Marsalek denn von den Bulgaren genau gefordert? Wenn man sich diese Chat-Nachrichten anschaut, was sollten die genau für ihn machen? Ja, bekannt sind sechs Geheimdienstoperationen und …
+> … darüber, wir hatten schon darüber gesprochen. Der Kopf der Bande, der heißt Orlin Roussev und er war ja auch derjenige, der mit Marsalek in Kontakt stand. Und so wie du ihn ja auch beschrieben hast, …
 >
-> — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 16:45](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=1005) · [[Transkript 111#Minute 16|im Transkript]]
+> — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 9:51](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=591) · [[Transkript 111#Minute 9|im Transkript]]
 
-## In diesen Folgen (2)
+## In diesen Folgen (3)
 
-- [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102 – Vom Dax-Vorstand zum Agentenführer: Was ein Spionageprozess in London über das neue Leben von Jan Marsalek verrät]] (2024-12-01) — Shownotes · Minute [7:00](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=420)
-- [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes · Minute [0:58](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=58), [3:09](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=189), [5:11](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=311), [16:45](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=1005)
+- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Minute [5:42](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=342), [9:24](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=564), [13:12](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=792), [16:13](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=973)
+- [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102 – Vom Dax-Vorstand zum Agentenführer: Was ein Spionageprozess in London über das neue Leben von Jan Marsalek verrät]] (2024-12-01) — Shownotes · Minute [6:17](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=377), [8:50](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=530), [32:35](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1955), [43:21](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2601)
+- [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes · Minute [0:58](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=58), [3:09](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=189), [5:11](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=311), [9:51](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=591)
 
 ## Kurz erwähnt (2)
 
 - [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Minute [35:19](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2119)
-- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Minute [13:12](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=792), [1:06:22](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3982)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [24:37](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1477)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 15
+folgen: 10
 tags: [themen]
 ---
 # Wirtschaftsprüfung
@@ -42,7 +42,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 8:24](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=504) · [[Transkript 007#Minute 8|im Transkript]]
 
-> … dann? Kurz nachdem der Fonds sozusagen aufgesetzt wurde, gibt er bei der Wirtschaftsprüfgesellschaft KPMG Indien die Prüfung, also die Due Diligence Prüfung des Hermes Geschäfts in Auftrag. Genau, Due Diligence müssen wir vielleicht für …
+> … dann? Kurz nachdem der Fonds sozusagen aufgesetzt wurde, gibt er bei der Wirtschaftsprüfungsgesellschaft KPMG Indien die Prüfung, also die Due Diligence Prüfung des Hermes Geschäfts in Auftrag. Genau, Due Diligence müssen wir vielleicht für …
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 16:43](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1003) · [[Transkript 007#Minute 16|im Transkript]]
 
@@ -62,13 +62,13 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 42:17](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2537) · [[Transkript 011#Minute 42|im Transkript]]
 
-> … Lehrverkaufsgeschäfte aus dem Jahr 2007 aufmerksam gemacht worden. Gemeinsam mit einem externen Wirtschaftsprüfer und in enger Kooperation mit den zuständigen Behörden werden alle in Frage kommenden Geschäfte untersucht. Okay, spannend. Und was ist dann …
+> … Leerverkaufsgeschäfte aus dem Jahr 2007 aufmerksam gemacht worden. Gemeinsam mit einem externen Wirtschaftsprüfer und in enger Kooperation mit den zuständigen Behörden werden alle in Frage kommenden Geschäfte untersucht. Okay, spannend. Und was ist dann …
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 5:45](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=345) · [[Transkript 021#Minute 5|im Transkript]]
 
-> … durch den Bereich Compliance überwacht und im Zusammenhang mit der Aufstellung der Jahresabschlüsse regelmäßig durch externe Wirtschaftsprüfer geprüft. Die steuerliche Betriebsprüfung der West-LB für den Zeitraum bis Ende 2008 ist von den Finanzbehörden bereits …
+> … überwacht und im Zusammenhang mit der Aufstellung der Jahresabschlüsse regelmäßig durch externe Wirtschaftsprüfer geprüft. Die steuerliche Betriebsprüfung der WestLB für den Zeitraum bis Ende 2008 ist von den Finanzbehörden bereits Mitte 2014 abgeschlossen worden. …
 >
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 15:50](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=950) · [[Transkript 021#Minute 15|im Transkript]]
+> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 15:52](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=952) · [[Transkript 021#Minute 15|im Transkript]]
 
 > … lassen. Da war dann Compliance dran, da war die Konzernrevision, da waren Wirtschaftsprüfer, Steuerbehörden und was halt eben noch nicht so alles über so Bilanzen von so einem Unternehmen oder von der Bank schaut. …
 >
@@ -86,7 +86,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 33:58](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=2038) · [[Transkript 025#Minute 33|im Transkript]]
 
-> … in einigen Punkten entlasten. An vielen Stellen bleiben Zweifel. Darüber hinaus bemängelten Wirtschaftsprüfer. Adler habe den Zugang zu hunderttausenden E-Mails verweigert. Sie versagten dem Konzern schließlich sogar das wichtige Testtat und legten ihr Mandat …
+> … in einigen Punkten entlasten. An vielen Stellen bleiben Zweifel. Darüber hinaus bemängelten Wirtschaftsprüfer. Adler habe den Zugang zu hunderttausenden E-Mails verweigert. Sie versagten dem Konzern schließlich sogar das wichtige Testat und legten ihr Mandat …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 1:14](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=74) · [[Transkript 029#Minute 1|im Transkript]]
 
@@ -98,9 +98,9 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 22:52](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1372) · [[Transkript 029#Minute 22|im Transkript]]
 
-> … gewesen sein. Und das ist so, die BaFin nimmt sich also die Jahresabschlüsse des Unternehmens in die Hand und guckt, ob da alles sozusagen aus Behörden, aus Aufsichtssicht richtig gelaufen ist. Und jetzt prüft …
+> … ein Beispiel ist dafür, dass die Sonderuntersuchung dieser Perring-Vorwürfe, die Forensikabteilung der Wirtschaftsprüfer von KPMG aus Deutschland heraus geführt, der verzögert sich Anfang 2022. Und der verzögert sich so, dass Adler dann plötzlich ankündigt, …
 >
-> — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 33:12](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1992) · [[Transkript 029#Minute 33|im Transkript]]
+> — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 43:57](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2637) · [[Transkript 029#Minute 43|im Transkript]]
 
 > … geht, da wurde am Anfang, am 22. April, dieser Sonderuntersuchungsbericht von den Wirtschaftsprüfern KPMG veröffentlicht. Da hat Adler auch sehr transparent den Bericht ins Internet gestellt, denn Adler war schon daran gelegen, dass jetzt …
 >
@@ -114,9 +114,9 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 15:14](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=914) · [[Transkript 030#Minute 15|im Transkript]]
 
-> … man so sehen, weil auch in der Begründung, warum Sie jetzt diesen Jahresabschluss nicht testieren, Sie ganz klar gesagt haben, uns wurden Dokumente nicht vorgelegt. Wir haben bestimmte Korrespondenz nicht sehen können und wir …
+> … sehen, weil auch in der Begründung, warum Sie jetzt diesen Jahresabschluss nicht testieren, Sie ganz klar gesagt haben, uns wurden Dokumente nicht vorgelegt. Wir haben bestimmte Korrespondenz nicht sehen können und wir können deshalb …
 >
-> — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 16:53](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=1013) · [[Transkript 030#Minute 16|im Transkript]]
+> — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 16:54](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=1014) · [[Transkript 030#Minute 16|im Transkript]]
 
 > … 2020, haben fast täglich auf die Bilanz von Wirecard gewartet und die Wirtschaftsprüfer haben darauf gewartet. Und der Grund, warum man so lange warten musste, sagt Bellenhaus, war, dass er noch nicht fertig mit …
 >
@@ -134,9 +134,9 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 0:50](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=50) · [[Transkript 042#Minute 0|im Transkript]]
 
-> … eigentlich Ende dieses Monats, also im Prinzip in einer Woche, einen geprüften Jahresabschluss für das Jahr 2022 vorlegen. Nun wissen wir ja schon seit einiger Zeit, dass es dazu nicht kommen wird, weil Adler …
+> … seit einiger Zeit, dass es dazu nicht kommen wird, weil Adler seine Wirtschaftsprüfer verloren hat und zurzeit jedenfalls noch keinen Nachfolger gefunden hat. Und das hieße tatsächlich bei einem Verstoß gegen diese Vertragsvereinbarung könnten …
 >
-> — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 13:30](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=810) · [[Transkript 042#Minute 13|im Transkript]]
+> — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 13:40](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=820) · [[Transkript 042#Minute 13|im Transkript]]
 
 > … Wir haben ja eben das schon mal angedeutet, Adler braucht dringend einen Wirtschaftsprüfer, nachdem KPMG im letzten Jahr gesagt hat, wir wollen das nicht mehr machen. Die haben das begründet, weil sie sich von …
 >
@@ -146,7 +146,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 21:02](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1262) · [[Transkript 042#Minute 21|im Transkript]]
 
-> … dass sie nach monatelanger Suche zumindest für ihre Berliner Tochter endlich einen Wirtschaftsprüfer gefunden hat. Verwaltungsgrad-Chef Stefan Kirsten lobte schon, Adler sei auf dem Weg in eine neue Normalität. Bei mir sind heute Gene …
+> … dass sie nach monatelanger Suche zumindest für ihre Berliner Tochter endlich einen Wirtschaftsprüfer gefunden hat. Verwaltungsrats-Chef Stefan Kirsten lobte schon, Adler sei auf dem Weg in eine neue Normalität. Bei mir sind heute René Bender …
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 0:59](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=59) · [[Transkript 051#Minute 0|im Transkript]]
 
@@ -154,23 +154,19 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 12:40](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=760) · [[Transkript 051#Minute 12|im Transkript]]
 
-> … dass sich die Prüfgesellschaft Rödel und Partner bereit dazu erklärt hat, den Jahresabschluss 22 der Berliner Adler doch der Adler Real Estate zu prüfen. Was, glaube ich, in jedem anderen Fall keine bahnbrechende Meldung …
+> … die Adler Group stand jetzt mehr als ein Jahr lang komplett ohne Wirtschaftsprüfer da, weil sich das Unternehmen im Mai 2022 mit KPMG zerstritten hat. KPMG hat sich damals von Adler in seiner Arbeit …
 >
-> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 16:36](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=996) · [[Transkript 051#Minute 16|im Transkript]]
+> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 16:54](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=1014) · [[Transkript 051#Minute 16|im Transkript]]
 
-> … mal. Aggregate hat tatsächlich einen Tag vor der Razzia bei Adler seinen Jahresabschluss für 2022 veröffentlicht und der hielt, sage ich mal, gleich mehrere Überraschungen bereit. Das Unternehmen musste nämlich genauso wie Adler seine …
+> … der Verlust noch bei 469 Millionen. Und diese Zahlen waren auch nicht testiert. Caner selbst hat im Vorwort des Jahresbericht erläutert, dass die Prüfer nämlich Zweifel an der Fortführungsprognose des Unternehmens angemeldet haben. Er …
 >
-> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 29:50](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=1790) · [[Transkript 051#Minute 29|im Transkript]]
+> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 30:13](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=1813) · [[Transkript 051#Minute 30|im Transkript]]
 
 > … ermittelt weiter. Adler hat Adler, immerhin hat das Unternehmen seither wieder einen Abschlussprüfer gefunden, auch auf der Holding-Ebene. Vielleicht nochmal als kleinen Rückblick. Die früheren Abschlussprüfer, Wirtschaftsprüfer haben ja das Mandat niedergelegt, weil sie …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 11:27](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=687) · [[Transkript 064#Minute 11|im Transkript]]
 
-> … auf jeden Fall total spannend und ich finde natürlich ist auch ein Jahresabschluss ein guter Moment, um über sowas mal zu sprechen, weil das kommt natürlich unseren normalen Folgen nicht vor. Da geht es …
->
-> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 44:59](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2699) · [[Transkript 064#Minute 44|im Transkript]]
-
-> Für die Wirtschaftsprüfungsgesellschaft EY kam es kurz vor dem Jahreswechsel knüppel dick. Der Insolvenzverwalter von Wirecard fordert 1 ,5 Milliarden Euro Schadenersatz. Die Schutzvereinigung …
+> Für die Wirtschaftsprüfungsgesellschaft EY kam es kurz vor dem Jahreswechsel knüppeldick. Der Insolvenzverwalter von Wirecard fordert 1 ,5 Milliarden Euro Schadenersatz. Die Schutzvereinigung für …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 0:04](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=4) · [[Transkript 065#Minute 0|im Transkript]]
 
@@ -182,9 +178,9 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 4:52](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=292) · [[Transkript 065#Minute 4|im Transkript]]
 
-> … haben sie im April dann tatsächlich mitgeteilt, dass sie eben für verschiedene Jahresabschlüsse von Wirecard bei der Prüfung Berufspflichtverletzungen als erwiesen ansehen und haben die aber nicht näher beziffert oder beziehungsweise nicht näher beschrieben. …
+> … Jahresende zustellen möchte, aber war es nicht so, dass die Entscheidung der APAS ja eigentlich schon seit April fest stand? Und trotzdem hat ja nicht nur die EY gespannt auf den Bescheid gewartet. Wo …
 >
-> — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 7:05](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=425) · [[Transkript 065#Minute 7|im Transkript]]
+> — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 6:31](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=391) · [[Transkript 065#Minute 6|im Transkript]]
 
 > … bisschen Renommee. Das ist also nicht nur ein Treuhänder gewesen, sondern ein Wirtschaftsprüfer hier in Berlin. Und der war zu allem auch noch 17 Jahre beisitzender Richter am Landgericht in Berlin. Und da sind …
 >
@@ -206,23 +202,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 55:55](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3355) · [[Transkript 069#Minute 55|im Transkript]]
 
-> … waren deshalb ganz lautstark davor, dass Thomas Leuth hat diesen Veröffentlichungspflichten seiner Jahresabschlüsse nicht nachkommt. Dann gibt es beispielsweise hier in Berlin die Kerstin Kondert, die ist beim Aktionsbund aktiver Anlegerschutz. Anlegerschutz. Und ich …
->
-> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 33:45](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2025) · [[Transkript 086#Minute 33|im Transkript]]
-
-> … Prüfungsaufwand. Insofern können aufgrund der Struktur der mittelbaren Investitionen und Finanzierungen die Jahresabschlüsse der CTI-Beteiligungsgesellschaften erst nach Fertigstellung des Jahresabschlusses der Zielgesellschaft erstellt werden. Durch den tonusmäßigen Wechsel des Wirtschaftsprüfers im Rahmen der maßgeblichen …
->
-> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 36:23](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2183) · [[Transkript 086#Minute 36|im Transkript]]
-
-> … frühestmöglich abwickeln. Und Herr Klein sagt, es fehlt halt nur der entscheidende Jahresabschluss, auf dessen Basis die Abfindung berechnet wird, wie viel Geld sie zurückkriegt. Und jetzt, wir haben ja über die Jahresabschlüsse gesprochen, …
->
-> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 40:02](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2402) · [[Transkript 086#Minute 40|im Transkript]]
-
-> … es jetzt, ja man sei jetzt mit den notwendigen Arbeiten an den Jahresabschlüssen soweit, dass man also in den kommenden Wochen ihr Abfindungsgut haben mitteilen möchte. Aber wie soll ich sagen, bei Thomas Leuth, …
->
-> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 41:56](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2516) · [[Transkript 086#Minute 41|im Transkript]]
-
-> … Mailadresse aus zu verschicken, konzernintern. Und das Ziel sei dabei gewesen, den Wirtschaftsprüfern eben vorzugaukeln, dass Wirecard über ein Vermögen auf Treuhand konnten, verfügte, die es in Wirklichkeit nicht gab. Da fehlten dann am …
+> … Mailadresse aus zu verschicken, konzernintern. Und das Ziel sei dabei gewesen, den Wirtschaftsprüfern eben vorzugaukeln, dass Wirecard über ein Vermögen auf Treuhandkonten, verfügte, die es in Wirklichkeit nicht gab. Da fehlten dann am Ende …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 9:37](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=577) · [[Transkript 089#Minute 9|im Transkript]]
 
@@ -234,7 +214,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 37:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2251) · [[Transkript 089#Minute 37|im Transkript]]
 
-> … von diesem Mail-Konto wurden eben gefälschte Dokumente verschickt, mit dem Ziel, die Wirtschaftsprüfer glauben zu lassen, dass es dieses Geschäft und auch Vermögen auf den Treuhandkonten gab. Und von Erfa, was hat er jetzt …
+> … von diesem Mail-Konto wurden eben gefälschte Dokumente verschickt, mit dem Ziel, die Wirtschaftsprüfer glauben zu lassen, dass es dieses Geschäft und auch Vermögen auf den Treuhandkonten gab. Und von Erffa, was hat er jetzt dazu …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 42:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2551) · [[Transkript 089#Minute 42|im Transkript]]
 
@@ -246,7 +226,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 12:54](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=774) · [[Transkript 093#Minute 12|im Transkript]]
 
-> … um nichts Kriminelles, sondern das war einfach eine Kundenliste, die für die Wirtschaftsprüfer von KPMG und IWAI vorgesehen war, weil die deutsche Prüfstelle für Rechnungslegungen die angefordert hatte. Also sehr viele unterschiedliche Argumentationslinien, aber …
+> … um nichts Kriminelles, sondern das war einfach eine Kundenliste, die für die Wirtschaftsprüfer von KPMG und EY vorgesehen war, weil die deutsche Prüfstelle für Rechnungslegungen die angefordert hatte. Also sehr viele unterschiedliche Argumentationslinien, aber …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 19:00](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1140) · [[Transkript 093#Minute 19|im Transkript]]
 
@@ -266,11 +246,11 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 9:41](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=581) · [[Transkript 113#Minute 9|im Transkript]]
 
-> … anderen Fällen gerade alles, was sich mit Finanzen, Banken jetzt so beschäftigt, Wirtschaftsprüfer teilweise auch immer ein etwas undurchsichtiges dickigt, sage ich jetzt mal. Und das werden wir natürlich versuchen, auch jetzt in diesem …
+> … anderen Fällen gerade alles, was sich mit Finanzen, Banken jetzt so beschäftigt, Wirtschaftsprüfer teilweise auch immer ein etwas undurchsichtiges Dickicht, sage ich jetzt mal. Und das werden wir natürlich versuchen, auch jetzt in diesem …
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 14:54](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=894) · [[Transkript 113#Minute 14|im Transkript]]
 
-> … gut aussieht oder zumindest Fragen aufwirft. Und das ist die des Kölner Wirtschaftsprüfers und Steuerberaters, Eberhard Kieser. Der war 25 Jahre lang eben bei jenem Prüfungsverband der Banken davor stand und damit auch zuständig …
+> … gut aussieht oder zumindest Fragen aufwirft. Und das ist die des Kölner Wirtschaftsprüfers und Steuerberaters, Eberhard Kieser. Der war 25 Jahre lang eben bei jenem Prüfungsverband der Banken Vorstand und damit auch zuständig für Prüfungen …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 13:22](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=802) · [[Transkript 114#Minute 13|im Transkript]]
 
@@ -286,19 +266,19 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 56:04](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3364) · [[Transkript 114#Minute 56|im Transkript]]
 
-> … sagen, okay, so und so ist die Situation. Schauen Sie mal hier, Wirtschaftsprüfer XY hat das geprüft. Und so ist es auch im Fall Symbatex gekommen. Die haben dann auch ein Gutachten vorgelegt, was …
+> … sagen, okay, so und so ist die Situation. Schauen Sie mal hier, Wirtschaftsprüfer XY hat das geprüft. Und so ist es auch im Fall Sympatex gekommen. Die haben dann auch ein Gutachten vorgelegt, was …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 19:45](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1185) · [[Transkript 119#Minute 19|im Transkript]]
 
-> … sozusagen der Gutachtenkrieg. Man muss sagen, die Münchner Staatsanwaltschaft hat hier die Wirtschaftsprüfer jetzt von Rödel und Partner beauftragt. Diese Wertpapiere mal zu analysieren. Rödel und Partner, wer jetzt unsere Wirecard-Berichterstattung verfolgt, weiß, das …
+> … sozusagen der Gutachtenkrieg. Man muss sagen, die Münchner Staatsanwaltschaft hat hier die Wirtschaftsprüfer jetzt von Rödl und Partner beauftragt. Diese Wertpapiere mal zu analysieren. Rödl und Partner, wer jetzt unsere Wirecard-Berichterstattung verfolgt, weiß, das …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 21:18](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1278) · [[Transkript 119#Minute 21|im Transkript]]
 
-> … zugewandt. Ja, also die Staatsanwaltschaft beruft sich ja auf ein Gutachten der Wirtschaftsprüfer von Rödel und Partner. Da steht auf Seite 53 drin, dass die Anleger eigentlich hätten mehr als 10 Prozent für diese …
+> … zugewandt. Ja, also die Staatsanwaltschaft beruft sich ja auf ein Gutachten der Wirtschaftsprüfer von Rödl und Partner. Da steht auf Seite 53 drin, dass die Anleger eigentlich hätten mehr als 10 Prozent für diese …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 30:41](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1841) · [[Transkript 119#Minute 30|im Transkript]]
 
-> … dass sie dagegen vorgehen. Dieses Gutachten von Rödel und Partners, dieser anderen Wirtschaftsprüfungskanzlei, kann man das vorher einsehen? Oder ist das irgendwie Teil der Anklageschrift? Das Gutachten an sich ist kein Teil der Anklageschrift. …
+> … fußt, dass sie dagegen vorgehen. Dieses Gutachten von Rödl und Partner, dieser anderen Wirtschaftsprüfungskanzlei, kann man das vorher einsehen? Oder ist das irgendwie Teil der Anklageschrift? Das Gutachten an sich ist kein Teil der Anklageschrift. …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 33:33](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2013) · [[Transkript 119#Minute 33|im Transkript]]
 
@@ -306,17 +286,13 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131]], [Minute 27:59](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1679) · [[Transkript 131#Minute 27|im Transkript]]
 
-> … dem Zusammenbruch von Wirecard, ist das Unternehmen stark unter Druck geraten. Denn Wirtschaftsprüfer von Ivo Wey und Byrne Curtin Kelly, die forderten damals schon Bestätigungen eben über die Gelder aus dem Drittpartnergeschäft, die ja …
+> … dem Zusammenbruch von Wirecard, ist das Unternehmen stark unter Druck geraten. Denn Wirtschaftsprüfer von EY und Byrne Curtin Kelly, die forderten damals schon Bestätigungen eben über die Gelder aus dem Drittpartnergeschäft, die ja angeblich …
 >
 > — [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131]], [Minute 32:31](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1951) · [[Transkript 131#Minute 32|im Transkript]]
 
-> … Also es gibt ganz viele Nachrichten, wo man sieht, jetzt sind die Wirtschaftsprüfer bei Scharen vorstellig geworden und haben irgendwelche Fragen an denen. Und er sucht dann wieder, also er schreibt dann O'Sullivan und …
+> … Also es gibt ganz viele Nachrichten, wo man sieht, jetzt sind die Wirtschaftsprüfer bei Shan vorstellig geworden und haben irgendwelche Fragen an denen. Und er sucht dann wieder, also er schreibt dann O'Sullivan und …
 >
 > — [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131]], [Minute 35:15](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2115) · [[Transkript 131#Minute 35|im Transkript]]
-
-> … aber nicht, wie wir inzwischen wissen. Kurz vor den Wahlen wurde der Jahresabschluss 2024 öffentlich. Das dauert immer eine Zeit, bis dieser Jahresabschluss im Bundesanzeiger veröffentlicht wird. Das dauert also locker ein Jahr Verspätung. …
->
-> — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 1:07:46](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4066) · [[Transkript 142#Minute 67|im Transkript]]
 
 > … das müsste sich ja eigentlich jetzt prüfen und dokumentieren lassen. Beispielsweise von Wirtschaftsprüfern oder so. Aber wie gesagt, auf unsere Fragen hin sind wir da nicht viel weitergekommen. Ja, was auch merkwürdig ist, ist, …
 >
@@ -354,25 +330,21 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 24:58](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1498) · [[Transkript 150#Minute 24|im Transkript]]
 
-> … Finanzvorstand sagte er, dass man eben eine Rückstellung über 127 Millionen im Jahresabschluss 2013 gebildet habe, das waren eben die Steuern von 112 Millionen plus 15 Millionen Zinsen und das Geld wurde dann tatsächlich …
->
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 31:27](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1887) · [[Transkript 150#Minute 31|im Transkript]]
-
 > … begleitet. Dabei sind sie auf verschachtelte Fondskonstruktionen, hohe Verluste und Zweifel von Wirtschaftsprüfern gestoßen, ob bestimmte Fonds fortgeführt werden können. Selbst die Staatsanwaltschaft München interessiert sich inzwischen für den Fall. Und über all das wollen wir in dieser Folge …
 >
 > — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 1:37](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=97) · [[Transkript 152#Minute 1|im Transkript]]
-
-> … erklären. Also die Fonds sind letztlich ja auch in Unternehmen strukturiert, die Jahresabschlüsse vorlegen müssen, wie alle anderen Unternehmen auch. Und hier ist es jetzt bei der deutschen Finance so, dass diese mehr als …
->
-> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 17:16](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1036) · [[Transkript 152#Minute 17|im Transkript]]
 
 > … nicht alle Geschäftsberichte erstellt werden, da ausländische Beteiligungen noch auf die finalen Testate waren. Ja, und man stehe halt in engem Austausch mit den jeweiligen Wirtschaftsprüfern und erwarte eine zeitnahe Fertigstellung. So, jetzt haben …
 >
 > — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 18:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1137) · [[Transkript 152#Minute 18|im Transkript]]
 
-> … nochmal auch eben angesprochen. Ihr habt ja vorhin viel über die fehlenden Jahresabschlüsse und über die mangelnde Transparenz gesprochen. Jetzt interessiert uns und die Hörerinnen und Hörer wahrscheinlich auch natürlich, könnt ihr sagen, ob …
+> … ,4 Millionen Euro. Ja, aber es kommt noch dicker. Und zwar die Wirtschaftsprüfer von KPMG, die sehen eine wesentliche Unsicherheit im Zusammenhang mit der Fortführung der Unternehmenstätigkeit. Und ja, das Ganze betreffe insbesondere eine …
 >
-> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 39:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2397) · [[Transkript 152#Minute 39|im Transkript]]
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 47:59](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2879) · [[Transkript 152#Minute 47|im Transkript]]
+
+> … 30 Millionen Euro Verlust gemacht. Und auch bei diesem Fonds haben die Wirtschaftsprüfer Zweifel angemeldet. Diesmal sind die Prüfer von EY und die haben in ihr Testat, sie haben ein Testat erteilt, muss man …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 51:23](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3083) · [[Transkript 152#Minute 51|im Transkript]]
 
 > … Josten kommt aus Wuppertal, ist 1953 geboren, wurde dann Steuerberater und später Wirtschaftsprüfer. Und auch wie viele andere ging er nach der Wende nach Sachsen-Anhalt. Also nach der Wende 1990, da haben sich ganz …
 >
@@ -382,52 +354,37 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 36:10](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2170) · [[Transkript 156#Minute 36|im Transkript]]
 
-> … Hatte das irgendwelche Konsequenzen? Ja, durchaus. Das kann man dann direkt im Jahresabschluss von KNDS, also von der Holding KNDS für 2025 nachlesen. Der ist im niederländischen Handelsregister hinterlegt. Und da steht drin, offenbar …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 54:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3289) · [[Transkript 161#Minute 54|im Transkript]]
-
-> … sind auch namhafte Kanzleien. Also das ist Freshfields ist dabei und die Wirtschaftsprüfer von EY. Und die hätten im Mai 26 einen vorläufigen Bericht vorgelegt. Und da können wir kurz reinhören, was da drin …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 56:22](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3382) · [[Transkript 161#Minute 56|im Transkript]]
-
-> … kennen. Es könnten neue Fakten ans Licht kommen, die Auswirkungen auf den Jahresabschluss haben könnten, um nun Geldbußen oder Einziehungen oder Ausschluss von öffentlichen Ausschreibungen, Entzug von Betriebserlaubnissen ist möglich oder sonstige Schäden für …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 58:17](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3497) · [[Transkript 161#Minute 58|im Transkript]]
-
-## In diesen Folgen (15)
+## In diesen Folgen (10)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes · Minute [1:09](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=69), [3:57](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=237), [6:26](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=386), [8:24](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=504)
 - [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes · Minute [8:24](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=504), [16:43](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1003), [18:16](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1096), [43:57](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=2637)
-- [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Minute [5:45](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=345), [15:50](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=950), [19:28](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1168), [28:05](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1685)
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [5:12](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=312), [33:58](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=2038)
-- [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes · Minute [1:14](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=74), [5:47](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=347), [22:52](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1372), [33:12](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1992)
-- [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group aus der Krise will (Teil 2)]] (2022-12-04) — Shownotes · Minute [3:45](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=225), [9:24](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=564), [15:14](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=914), [16:53](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=1013)
-- [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes · Minute [0:50](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=50), [13:30](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=810), [19:13](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1153), [21:02](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1262)
-- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes · Minute [0:59](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=59), [12:40](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=760), [16:36](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=996), [29:50](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=1790)
-- [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Shownotes · Minute [0:04](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=4), [3:04](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=184), [4:52](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=292), [7:05](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=425)
-- [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes · Minute [33:45](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2025), [36:23](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2183), [40:02](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2402), [41:56](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=2516)
-- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Minute [9:37](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=577), [20:29](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1229), [37:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2251), [42:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2551)
+- [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes · Minute [1:14](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=74), [5:47](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=347), [22:52](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1372), [43:57](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2637)
+- [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group aus der Krise will (Teil 2)]] (2022-12-04) — Shownotes · Minute [3:45](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=225), [9:24](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=564), [15:14](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=914), [16:54](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=1014)
+- [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes · Minute [0:50](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=50), [13:40](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=820), [19:13](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1153), [21:02](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1262)
+- [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Shownotes · Minute [0:04](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=4), [3:04](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=184), [4:52](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=292), [6:31](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=391)
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes · Minute [13:22](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=802), [51:58](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3118), [53:39](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3219), [56:04](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=3364)
 - [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Minute [38:14](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2294), [41:42](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2502), [44:28](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2668), [53:59](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3239)
-- [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Minute [10:25](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=625), [22:36](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1356), [24:58](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1498), [31:27](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1887)
-- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [1:37](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=97), [17:16](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1036), [18:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1137), [39:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2397)
+- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [1:37](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=97), [18:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1137), [47:59](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2879), [51:23](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3083)
 
-## Kurz erwähnt (14)
+## Kurz erwähnt (16)
 
 - [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Minute [29:33](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1773), [42:17](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2537)
+- [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Minute [5:45](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=345), [15:52](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=952), [19:28](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1168), [28:05](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=1685)
 - [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Minute [19:11](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1151), [31:11](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1871), [54:30](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3270)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [11:27](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=687), [44:59](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2699)
+- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Minute [0:59](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=59), [12:40](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=760), [16:54](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=1014), [30:13](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=1813)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [11:27](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=687)
 - [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Minute [23:02](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=1382), [30:51](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=1851)
 - [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Minute [25:35](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1535), [39:31](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2371), [55:55](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3355)
+- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Minute [9:37](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=577), [20:29](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=1229), [37:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2251), [42:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2551)
 - [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Minute [9:46](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=586), [12:54](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=774), [19:00](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1140)
 - [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Minute [37:19](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=2239), [40:14](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=2414)
 - [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Minute [0:18](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=18), [9:41](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=581), [14:54](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=894)
 - [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Minute [19:45](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1185), [21:18](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1278), [30:41](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1841), [33:33](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2013)
 - [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131 – Henry O’Sullivan: Der Schattenmann im Wirecard-Skandal]] (2025-11-30) — Minute [27:59](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1679), [32:31](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1951), [35:15](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2115)
-- [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Minute [1:07:46](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4066)
 - [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — Minute [12:03](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=723), [59:23](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3563)
+- [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Minute [10:25](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=625), [22:36](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1356), [24:58](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1498)
 - [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [9:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=569), [36:10](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2170)
-- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Minute [54:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3289), [56:22](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3382), [58:17](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3497)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

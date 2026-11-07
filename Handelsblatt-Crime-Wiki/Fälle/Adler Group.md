@@ -37,11 +37,11 @@ Um die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 3:19](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=199) · [[Transkript 029#Minute 3|im Transkript]]
 
-> … in Luxemburg hat, obwohl das meiste sich eigentlich in Berlin abspielt, wo Adler auch sein, wo das Hauptquartier steht. Adler ist im Estax notiert, hat vor einem Jahr etwa 1600 Mitarbeiter beschäftigt und hatte …
+> … in Luxemburg hat, obwohl das meiste sich eigentlich in Berlin abspielt, wo Adler auch sein, wo das Hauptquartier steht. Adler ist im SDax notiert, hat vor einem Jahr etwa 1600 Mitarbeiter beschäftigt und hatte …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 4:53](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=293) · [[Transkript 029#Minute 4|im Transkript]]
 
-> … Dossier ist eine Aneinanderreihung von massiven Vorwürfen, die alle darauf zielen, dass Adler sehr unsauber die Geschäfte führt. Einer der Kernvorwürfe in Perings Dossier ist, dass der Konzern sich einfach viel zu viel Geld …
+> … Dossier ist eine Aneinanderreihung von massiven Vorwürfen, die alle darauf zielen, dass Adler sehr unsauber die Geschäfte führt. Einer der Kernvorwürfe in Perrings Dossier ist, dass der Konzern sich einfach viel zu viel Geld …
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 0:09](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=9) · [[Transkript 030#Minute 0|im Transkript]]
 
@@ -53,7 +53,7 @@ Um die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 3:49](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=229) · [[Transkript 030#Minute 3|im Transkript]]
 
-> … die Adler nicht reißen darf. Und Pairing hatte eben fälschlicherweise behauptet, dass Adler durch Bilanztricks gezielt verschleiert hat, dass das Unternehmen diese Hürde schon einmal gerissen hat. Okay Lars, aber heißt das jetzt, Pairing …
+> … die Adler nicht reißen darf. Und Perring hatte eben fälschlicherweise behauptet, dass Adler durch Bilanztricks gezielt verschleiert hat, dass das Unternehmen diese Hürde schon einmal gerissen hat. Okay Lars, aber heißt das jetzt, Perring …
 >
 > — [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30]], [Minute 5:21](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=321) · [[Transkript 030#Minute 5|im Transkript]]
 
@@ -65,7 +65,7 @@ Um die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit
 >
 > — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 2:28](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=148) · [[Transkript 042#Minute 2|im Transkript]]
 
-> … diesen Willen der Minderheitsgläubige kann dieser Plan durchgesetzt werden. Und deswegen ist Adler am Ende des Tages nach London gegangen und hat dort argumentiert, wenn der Plan nicht genehmigt wird, dann ist das, was …
+> … gegen diesen Willen der Minderheitsgläubiger kann dieser Plan durchgesetzt werden. Und deswegen ist Adler am Ende des Tages nach London gegangen und hat dort argumentiert, wenn der Plan nicht genehmigt wird, dann ist das, was …
 >
 > — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 4:21](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=261) · [[Transkript 042#Minute 4|im Transkript]]
 
@@ -81,9 +81,9 @@ Um die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 2:10](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=130) · [[Transkript 051#Minute 2|im Transkript]]
 
-> … Mai 2022 haben wir erstmals darüber berichtet, dass auch die Frankfurter Staatsanwaltschaft Adler ins Visier genommen hat. Und ja, dann hat man aber nichts mehr gehört. Wir haben auch immer wieder bei der Staatsanwaltschaft …
+> … Ein Short-Seller hat damals Manipulationsvorwürfe erhoben. Konkreter gesagt war das der Brite Fraser Perring, auch bekannt als jemand, der damals auch schon vor Wirecard gewarnt hatte. Und ja, es war im Oktober 2021. Dann begann …
 >
-> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 4:01](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=241) · [[Transkript 051#Minute 4|im Transkript]]
+> — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 3:41](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=221) · [[Transkript 051#Minute 3|im Transkript]]
 
 > … Folgen schon öfters drüber gesprochen, aber das ist jetzt wichtig zu wissen, Adler hat auch, wenn die Wohnungen und die wichtigen Projekte des Unternehmens eigentlich alle in Deutschland liegen, seinen formalen Hauptsitz in Luxemburg. …
 >
@@ -121,23 +121,33 @@ Um die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit
 >
 > — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 9:11](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=551) · [[Transkript 090#Minute 9|im Transkript]]
 
-> … so weiter. Benko-Signer-Gruppe ist in die Insolvenz gerutscht. Andere Entwickler sind gekippt. Adler macht Schlagzeilen mit stillstehenden Projekten. Auch bei ihm gibt es bei Baustellen Schwierigkeiten. Und ja, dann lag bis April der Jahresabschluss …
+> … so weiter. Benko-Signa-Gruppe ist in die Insolvenz gerutscht. Andere Entwickler sind gekippt. Adler macht Schlagzeilen mit stillstehenden Projekten. Auch bei ihm gibt es bei Baustellen Schwierigkeiten. Und ja, dann lag bis April der Jahresabschluss …
 >
 > — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 17:39](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1059) · [[Transkript 090#Minute 17|im Transkript]]
+
+> … die Vorstände. Da gab es dann noch diesen anderen Fall. Chef mit Caner und Adler. Genau, da hatten wir zwei auch schon das Vergnügen. Also vielleicht auch da wieder ein bisschen täglich grüßt das Murmeltier. Jetzt …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 32:57](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1977) · [[Transkript 139#Minute 32|im Transkript]]
+
+> … sagen, über Pleiten von Immobilienunternehmern berichtet. Also, wir hatten wir Christoph Gröner, Cevdet Caner, René Benko, last but not least. Unterscheidet sich dieser Fall jetzt irgendwie elementar von den anderen? Ich würde sagen, ja, weil, …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 10:36](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=636) · [[Transkript 144#Minute 10|im Transkript]]
 
 ## In diesen Folgen (5)
 
 - [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes · Minute [0:05](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=5), [1:47](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=107), [3:19](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=199), [4:53](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=293)
 - [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group aus der Krise will (Teil 2)]] (2022-12-04) — Shownotes · Minute [0:09](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=9), [2:08](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=128), [3:49](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=229), [5:21](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=321)
 - [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes · Minute [0:08](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=8), [2:28](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=148), [4:21](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=261), [7:24](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=444)
-- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes · Minute [0:37](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=37), [2:10](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=130), [4:01](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=241), [5:58](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=358)
+- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes · Minute [0:37](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=37), [2:10](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=130), [3:41](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=221), [5:58](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=358)
 - [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Shownotes · Minute [8:34](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=514), [10:28](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=628), [12:39](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=759), [41:07](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2467)
 
-## Kurz erwähnt (3)
+## Kurz erwähnt (5)
 
 - [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Minute [26:20](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=1580), [58:26](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=3506)
 - [[088 Meet the Team Lars-Marten Nagel|#88 – Meet the Team: Lars-Marten Nagel]] (2024-07-13) — Minute [7:56](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=476)
 - [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Minute [9:11](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=551), [17:39](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1059)
+- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Minute [32:57](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1977)
+- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Minute [10:36](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=636)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

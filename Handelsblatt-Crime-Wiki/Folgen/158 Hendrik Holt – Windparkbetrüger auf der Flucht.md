@@ -20,10 +20,10 @@ tags: [folge, jahr-2026, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX) · [MP3](https://audio.podigee-cdn.net/2562634-m-db78e778220c724b2dc4fdcfe755fa5f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/158-hendrik-holt-windparkbetruger-auf-der-flucht) |
 | **Transkript** | [[Transkript 158]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Hendrik Holt]] |
-| **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Windkraft-Projektentwicklung]], [[Hochstapler]] |
+| **Themen** | [[Betrug]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Windkraft-Projektentwicklung]], [[Hochstapler]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Lars-Marten Nagel]], [[Michael Verfürden]], [[Hendrik Holt]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Insolvenz]], [[Insolvenzverwalter]], [[Geldwäsche]], [[Untersuchungshaft]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Insolvenz]], [[Insolvenzverwalter]] |
 
 ## Shownotes
 

@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-07-29 |
 | **Dauer** | 1:00:57 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4) · [MP3](https://audio.podigee-cdn.net/1153976-m-e037ea95bcb857afa50036146e68e75a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/49-new-episode) |
-| **Transkript** | [[Transkript 049]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]] |
-| **Themen** | [[Betrug]], [[Insolvenzverwalter]], [[Bilanzfälschung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[Compliance]] |
+| **Transkript** | [[Transkript 049]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[Marsalek-Brief]] |
+| **Themen** | [[Betrug]], [[Insolvenzverwalter]], [[Bilanzfälschung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | [[Landgericht München]] |
 | **Personen** | [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Henry O'Sullivan]], [[Stephan von Erffa]], [[Markus Födisch]], [[Alfred Dierlamm]] |
-| **Kurz erwähnt** | [[Hermes-Deal (Wirecard in Indien)]], [[Henry O’Sullivan]], [[Untreue]], [[Kronzeuge]], [[KPMG]] |
+| **Kurz erwähnt** | [[Henry O’Sullivan]], [[Untreue]], [[Kronzeuge]], [[Untersuchungshaft]], [[Compliance]], [[KPMG]] |
 
 ## Shownotes
 
@@ -48,7 +48,7 @@ Die Investigativ-Reporter René Bender und Michael Verfürden recherchieren seit
 - [19:10](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1150) – Man muss tatsächlich auch sagen, auf dessen Aussagen im Wesentlichen eigentlich die Anklage der Staatsanwaltschaft beruht. Und der … ([[Transkript 049#Minute 19|Transkript]])
 - [21:19](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1279) – Die sind aber bis heute unauffindbar und die Staatsanwaltschaft und die Insolvenzverwalter eben gehen davon aus, dass es … ([[Transkript 049#Minute 21|Transkript]])
 - [23:22](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1402) – Marsalek sagt, das Geschäft hat auch über die Insolvenz hinaus funktioniert und sei weiter betrieben worden. Und das … ([[Transkript 049#Minute 23|Transkript]])
-- [25:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1525) – Ja, der Richter, Vorsitzender Richter Markus Vödesch meinte dann allerdings, dass er kaum Möglichkeiten sehen würde, das Schreiben … ([[Transkript 049#Minute 25|Transkript]])
+- [25:25](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1525) – Ja, der Richter, Vorsitzender Richter Markus Födisch meinte dann allerdings, dass er kaum Möglichkeiten sehen würde, das Schreiben … ([[Transkript 049#Minute 25|Transkript]])
 - [27:36](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1656) – Also Geheimniskrämerei sieht meiner Meinung nach anders aus. Warum wollte denn der Richter das Schreiben nicht einfach vorlesen … ([[Transkript 049#Minute 27|Transkript]])
 - [29:43](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1783) – Nun ist ja trotzdem viel Aussage gegen Aussage, deswegen hake ich nochmal nach. Wie seht ihr das Ganze … ([[Transkript 049#Minute 29|Transkript]])
 - [31:44](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1904) – Also warum wundert ihr euch überhaupt? Es wäre jetzt ja dann total leicht für ihn gewesen zu sagen, … ([[Transkript 049#Minute 31|Transkript]])
@@ -60,10 +60,10 @@ Die Investigativ-Reporter René Bender und Michael Verfürden recherchieren seit
 - [44:06](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2646) – Eben, weil es schon damals erhebliche Zweifel an den Geschäften von Wirecard gab. Genau. Und dieser Prüfer, der … ([[Transkript 049#Minute 44|Transkript]])
 - [46:11](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2771) – Und hinzu kommt ja auch, dass auch andere Zeugenaussagen nicht so wirklich ein gutes Licht auf Braun werfen. … ([[Transkript 049#Minute 46|Transkript]])
 - [48:16](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2896) – Man muss auch nicht um den Globus reisen, um sie zu finden. Also das ist schon starker Tobak. … ([[Transkript 049#Minute 48|Transkript]])
-- [50:19](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3019) – Also vielleicht ganz kurz zum Hintergrund. Manager-Haftpflichtversicherungen, die werden auch DNO-Versicherungen genannt. Und die sind dafür da, damit … ([[Transkript 049#Minute 50|Transkript]])
+- [50:19](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3019) – Also vielleicht ganz kurz zum Hintergrund. Manager-Haftpflichtversicherungen, die werden auch D&O-Versicherungen genannt. Und die sind dafür da, damit … ([[Transkript 049#Minute 50|Transkript]])
 - [52:21](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3141) – Aber damals habe hier Braun bei der Swiss Re noch gar keinen Versicherungsschutz gehabt. Mit dem Versicherer Swiss … ([[Transkript 049#Minute 52|Transkript]])
 - [54:32](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3272) – Also auch der ist sicherlich nicht Teil dieses Betrugs an sich gewesen, aber muss sich zumindest, glaube ich, … ([[Transkript 049#Minute 54|Transkript]])
-- [56:38](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3398) – Und das Gericht hat auch Gutachter bestellt. Und ja, die fragen auch immer wieder. Zeugen, wie von Erfa … ([[Transkript 049#Minute 56|Transkript]])
+- [56:38](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3398) – Und das Gericht hat auch Gutachter bestellt. Und ja, die fragen auch immer wieder. Zeugen, wie von Erffa … ([[Transkript 049#Minute 56|Transkript]])
 - [58:43](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3523) – Ja, spannend wird zum Beispiel in Singapur. Da soll nämlich jetzt Ende Juli der Prozess gegen den britischen … ([[Transkript 049#Minute 58|Transkript]])
 - [1:00:44](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3644) – Er hat auch blicken lassen, dass er sich möglicherweise noch mal äußern möchte, wenn er das für nötig … ([[Transkript 049#Minute 60|Transkript]])
 - [1:02:47](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=3767) – Durch die Fenster Konzept22.de. Vielen Dank. … ([[Transkript 049#Minute 62|Transkript]])

@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-03-08 |
 | **Dauer** | 1:03:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd) · [MP3](https://audio.podigee-cdn.net/2353884-m-f45ca41bbae41e0d98759d09453a1781.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/141-neue-episode) |
-| **Transkript** | [[Transkript 141]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 141]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Jens Lehmann]] |
 | **Themen** | [[Betrug]], [[Steuerhinterziehung]], [[Steuerfahndung]] |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Jens Lehmann]] |
-| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Jens Lehmann]] |
+| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 
@@ -66,7 +66,7 @@ Denn was bisher nicht bekannt war: Lehmann ist nicht nur wegen versuchten Betrug
 - [57:32](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=3452) – Und zwar nicht nur einmal, sondern zweimal. Januar 2021 Parkgebühr von 159 Euro und nochmal im September 2022 … ([[Transkript 141#Minute 57|Transkript]])
 - [59:37](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=3577) – Also Lehmann wurde wegen Sachbeschädigung und versuchten Betrugs zunächst zu einer Geldstrafe von 210 Tagessätzen aje 2.000 Euro … ([[Transkript 141#Minute 59|Transkript]])
 - [1:01:40](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=3700) – Die Antwort gibt man teilweise selbst, genau. Und da schreibt er, in den entscheidenden Jahren, in denen eine … ([[Transkript 141#Minute 61|Transkript]])
-- [1:03:47](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=3827) – Wir werden auf jeden Fall dranbleiben bei Handelsblatt Crime. Vielen Dank, René. Danke dir, Solvay. Und auch vielen … ([[Transkript 141#Minute 63|Transkript]])
+- [1:03:47](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=3827) – Wir werden auf jeden Fall dranbleiben bei Handelsblatt Crime. Vielen Dank, René. Danke dir, Solveig. Und auch vielen … ([[Transkript 141#Minute 63|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

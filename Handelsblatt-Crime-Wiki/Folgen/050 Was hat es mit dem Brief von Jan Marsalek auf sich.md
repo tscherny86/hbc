@@ -18,11 +18,11 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-07-20 |
 | **Dauer** | 17:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an) · [MP3](https://audio.podigee-cdn.net/1168241-m-0b7ae22946b032c68846d7144ca1883c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/50-neue-episode) |
-| **Transkript** | [[Transkript 050]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Transkript** | [[Transkript 050]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[Marsalek-Brief]] |
 | **Themen** | [[Insolvenzverwalter]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Jan Marsalek]], [[Markus Braun]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Jan Marsalek]], [[Markus Braun]] |
 | **Kurz erwähnt** | [[Untreue]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
@@ -41,7 +41,7 @@ Noch dauern die Recherchen des Handelsblatt-Investigativteams an. Doch weil mit 
 - [8:55](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=535) – Das heißt, so weit außerhalb kann das Geschäft gar nicht gelaufen sein, dachte ich. Ja, ganz genau. Das … ([[Transkript 050#Minute 8|Transkript]])
 - [11:03](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=663) – Also wir wissen, dass die zurückgeht bis auf eine Zeit kurz vor der großen Wirecard-Krise im Jahr 2020. … ([[Transkript 050#Minute 11|Transkript]])
 - [13:04](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=784) – Andere Leute sagen, wer weiß, ob das überhaupt stimmt. Nicht, dass er noch irgendwo in einem dritten Land … ([[Transkript 050#Minute 13|Transkript]])
-- [15:08](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=908) – Die Frage ist nur, ob Marsalek sich dann damit einen Gefallen tut, wenn er die Verteilungslinie von Braun … ([[Transkript 050#Minute 15|Transkript]])
+- [15:08](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=908) – Die Frage ist nur, ob Marsalek sich dann damit einen Gefallen tut, wenn er die Verteidigungslinie von Braun … ([[Transkript 050#Minute 15|Transkript]])
 - [17:10](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an?t=1030) – Und hat also so insinuiert, dass das vielleicht in der Schublade verschwinden sollte. Andererseits, der Richter hat ihm … ([[Transkript 050#Minute 17|Transkript]])
 
 ---

@@ -20,13 +20,25 @@ Am 26. März 2026 durchsuchten mehr als 400 Beamte in sechs Ländern 49 Objekte,
 
 ## Was im Podcast gesagt wird
 
-> … der spanischen Polizei nehmen ihn zeitgleich auf Ibiza fest. Manche nennen ihn König der Kö oder Wolf of High Street. Er hat sich vom Hauptschüler zu einem der mächtigsten Player in der Immobilienbranche hochgearbeitet. …
+> … Segeljacht. Im Düsseldorfer Medienhafen sichern Beamte ein Bürogebäude, die Zentrale des Projektentwicklers Centrum. Denn im Mittelpunkt der Razzien steht der Chef von Centrum. Spezialkräfte der spanischen Polizei nehmen ihn zeitgleich auf Ibiza fest. Manche …
 >
-> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:10](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=70) · [[Transkript 144#Minute 1|im Transkript]]
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:00](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=60) · [[Transkript 144#Minute 1|im Transkript]]
+
+> … Und ich habe dann kurz überlegt und das ist, ne, also die Centrum-Zentrale ist in Düsseldorf im Medienhafen, das ist nicht so wahnsinnig weit, aber ich war zu Fuß, habe dann kurz überlegt und …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 3:55](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=235) · [[Transkript 144#Minute 3|im Transkript]]
+
+> … raus. Die habe ich natürlich gefragt, ey, kommen Sie gerade von der Centrum, ja, durchsuchen Sie da gerade? Haben Sie jemanden mitgenommen? Was sind denn die Vorwürfe? Und das bringt aber nichts, weil die …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 7:01](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=421) · [[Transkript 144#Minute 7|im Transkript]]
+
+> … schon die erste offizielle Pressemitteilung der Staatsanwaltschaft Düsseldorf. Da war nicht von Reppegather die Rede, sondern von einem Düsseldorfer Immobilienentwickler und weiteren Personen. Klar, machen Sie ja immer erstmal irgendwie, das müssen Sie auch …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 9:06](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=546) · [[Transkript 144#Minute 9|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes · Minute [1:10](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=70)
+- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes · Minute [1:00](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=60), [3:55](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=235), [7:01](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=421), [9:06](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=546)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

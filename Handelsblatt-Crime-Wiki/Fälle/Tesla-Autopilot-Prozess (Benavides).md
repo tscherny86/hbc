@@ -30,9 +30,9 @@ Das Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Na
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 4:43](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=283) · [[Transkript 125#Minute 4|im Transkript]]
 
-> … Tesla heran. Genau, das ist der Wagen von einem Mann namens George McGee. Der ist 42 Jahre alt, Finanzmanager und fährt diese Strecke öfter, weil er Pendler ist. Also der kennt die eigentlich gut, …
+> … im Auto unterwegs. Es war abends gegen 9 Uhr ungefähr, ja. In Key Largo war die Sonne schon seit zwei Stunden untergegangen. Und die beiden waren auf so einer Landstraße unterwegs und haben sich dann …
 >
-> — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 8:17](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=497) · [[Transkript 125#Minute 8|im Transkript]]
+> — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 7:38](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=458) · [[Transkript 125#Minute 7|im Transkript]]
 
 > … genau diese Fahrt da an ihrem tragischen Abend denkbar schlechte Voraussetzungen für McGee und für seinen Tesla. Und darf ich jetzt, darf ich eine Zwischenfrage stellen, warum, oder erkennt das System das dann nicht, …
 >
@@ -48,7 +48,7 @@ Das Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Na
 
 ## In diesen Folgen (2)
 
-- [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes · Minute [0:57](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=57), [4:43](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=283), [8:17](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=497), [11:15](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=675)
+- [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes · Minute [0:57](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=57), [4:43](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=283), [7:38](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=458), [11:15](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=675)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [21:11](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1271), [29:23](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1763)
 
 ---

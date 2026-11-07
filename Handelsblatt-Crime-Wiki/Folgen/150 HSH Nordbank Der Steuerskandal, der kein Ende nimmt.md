@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-06-14 |
 | **Dauer** | 52:50 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E) · [MP3](https://audio.podigee-cdn.net/2505521-m-c1fcaffbac96305a9a3dc39dff8896a7.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/150-hsh-nordbank) |
-| **Transkript** | [[Transkript 150]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[M.M. Warburg]], [[HSH Nordbank]], [[Staatsanwaltschaft Köln]] |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Olaf Scholz]], [[Wolfgang Kubicki]] |
-| **Kurz erwähnt** | [[Landgericht Bonn]] |
+| **Transkript** | [[Transkript 150]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[HSH Nordbank und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
+| **Unternehmen** | [[HSH Nordbank]], [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Anne Brorhilker]], [[Wolfgang Kubicki]] |
+| **Kurz erwähnt** | [[Wirtschaftsprüfung]], [[Landgericht Bonn]] |
 
 ## Shownotes
 
@@ -49,8 +49,8 @@ Moderiert von Solveig Gode
 
 ## Zeitmarken
 
-- [0:06](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=6) – Der Start, eine rauschende Party. 2003 vor Tausenden Gästen in der Hamburger Kollerlein-Arena. Auf das Glück der neuen … ([[Transkript 150#Minute 0|Transkript]])
-- [2:10](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=130) – Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Zorwey … ([[Transkript 150#Minute 2|Transkript]])
+- [0:06](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=6) – Der Start, eine rauschende Party. 2003 vor Tausenden Gästen in der Hamburger Color-Line-Arena. Auf das Glück der neuen … ([[Transkript 150#Minute 0|Transkript]])
+- [2:10](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=130) – Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Solveig … ([[Transkript 150#Minute 2|Transkript]])
 - [4:14](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=254) – Dann haben sie Anfang 2013 eine externe Kanzlei, Clifford Chance damals, beauftragt. Die hat dann ein Jahr lang … ([[Transkript 150#Minute 4|Transkript]])
 - [6:31](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=391) – Aber gut, 2012 hat man dann den Schritt gemacht und angefangen zu ermitteln. Volker, bevor wir jetzt tiefer … ([[Transkript 150#Minute 6|Transkript]])
 - [8:32](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=512) – Bleiben Sie dran. Cyber Security, KI und dann wollen auch noch alle remote arbeiten. Wie soll ich mich … ([[Transkript 150#Minute 8|Transkript]])
@@ -68,7 +68,7 @@ Moderiert von Solveig Gode
 - [34:06](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2046) – Ja, also, das sagt Kubicki aber nicht nur als Politiker, sondern auch als Anwalt. Sogar als Anwalt mit … ([[Transkript 150#Minute 34|Transkript]])
 - [36:08](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2168) – Wir wissen ja, dass das alles auch sehr eng miteinander verknüpft ist und die verschiedenen Spieler, Verkäufer, Käufer, … ([[Transkript 150#Minute 36|Transkript]])
 - [38:21](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2301) – Aber gut, sie hat also gekündigt im April 2024 nach gut zehn Jahren Ermittlungsarbeit. Das allein sagt natürlich … ([[Transkript 150#Minute 38|Transkript]])
-- [40:21](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2421) – Die Brohelger waren ja tatsächlich bei den Durchsuchungen oft dabei die hat selbst in den Akten gearbeitet die … ([[Transkript 150#Minute 40|Transkript]])
+- [40:21](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2421) – Die Brorhilker waren ja tatsächlich bei den Durchsuchungen oft dabei die hat selbst in den Akten gearbeitet die … ([[Transkript 150#Minute 40|Transkript]])
 - [43:22](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2602) – wir wissen natürlich durch unsere Recherchen dass es sich hier um die HSH Nordbank handelt ok und was … ([[Transkript 150#Minute 43|Transkript]])
 - [46:22](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2782) – Bußen haben die aber nicht gezahlt also wir haben ja vorhin gehört also das ist ja eine Straftat … ([[Transkript 150#Minute 46|Transkript]])
 - [49:22](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=2962) – Akte kommt da jetzt wirklich nach Hamburg was hört ihr so von euren Quellen was liegt dann da … ([[Transkript 150#Minute 49|Transkript]])

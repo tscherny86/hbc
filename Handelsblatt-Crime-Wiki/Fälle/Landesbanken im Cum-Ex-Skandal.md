@@ -1,6 +1,6 @@
 ---
 type: faelle
-folgen: 9
+folgen: 10
 tags: [faelle]
 ---
 # Landesbanken im Cum-Ex-Skandal
@@ -25,45 +25,53 @@ Das Handelsblatt beschrieb die Chefetagen der Landesbanken deshalb als „justiz
 
 ## Was im Podcast gesagt wird
 
-> … ja jetzt nicht nur ausländische Edelbanken, oder? Da waren ja auch durchaus Landesbanken beteiligt. Genau. Das ist das vielleicht, was Frau Borger noch ein bisschen mehr Gegenwehr gebracht hat. Die West-LB, das haben wir …
+> … innerhalb von wenigen Tagen. Ich habe mal einen ehemaligen Händler bei der WestLB, die inzwischen auch untergegangen ist, gesprochen und gesagt, wusste denn ihr Chef, also ihnen wird das jetzt vorgeworfen, aber ihr Chef …
 >
-> — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 21:09](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1269) · [[Transkript 008#Minute 21|im Transkript]]
+> — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 44:55](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=2695) · [[Transkript 003#Minute 44|im Transkript]]
 
-> … genau auch keine kleine Summe, auch nicht für eine Landesbank oder eine Ex-Landesbank. Das Irre bei Landesbanken, man kann ja sagen, eine Bank ist wie die andere, aber so eine Landesbank gehört halt dem …
+> … das vielleicht, was Frau Brorhilker noch ein bisschen mehr Gegenwehr gebracht hat. Die WestLB, das haben wir früh herausgefunden, dass die WestLB auch ihrerseits sehr stark... Die WestLB, für diejenigen, die es nicht mehr kennen, …
 >
-> — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 22:39](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1359) · [[Transkript 008#Minute 22|im Transkript]]
+> — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 21:16](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1276) · [[Transkript 008#Minute 21|im Transkript]]
 
-> … Ermittler aus Nordrhein-Westfalen mit einem Durchsuchungsbeschluss vor der Tür der früheren Hamburger Landesbank. Nach Informationen von NDR, WDR und Süddeutscher Zeitung dauert die Razzia in den Geschäftsräumen der inzwischen privatisierten Hamburg Commercial Bank AG …
+> … sagen wir mal, ein Stück weit frustrierend. Sie sitzt in Köln, die WestLB in Düsseldorf. Beide werden vom Staat bezahlt und der eine nimmt raus und die andere versucht, sich dagegen zu wehren. Es …
 >
-> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 0:08](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=8) · [[Transkript 020#Minute 0|im Transkript]]
+> — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 23:26](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1406) · [[Transkript 008#Minute 23|im Transkript]]
 
-> … ihre eigenen Eigentümer. Das scheint irrwitzig, ist aber sehr real. Gemeint sind Landesbanken und nicht nur eine. Die LBBW in Baden-Württemberg, die HSH Nordbank in Hamburg und Schleswig-Holstein, die Landesbank Berlin, die Helaba in …
+> … ist aber sehr real. Gemeint sind Landesbanken und nicht nur eine. Die LBBW in Baden-Württemberg, die HSH Nordbank in Hamburg und Schleswig-Holstein, die Landesbank Berlin, die Helaba in Hessen und die WestLB in Nordrhein-Westfalen. …
 >
-> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 1:44](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=104) · [[Transkript 020#Minute 1|im Transkript]]
+> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 1:47](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=107) · [[Transkript 020#Minute 1|im Transkript]]
 
 > … da seid. Hallo Ina. Hallo Ina. Bevor wir gleich über das Thema Landesbanken sprechen, sprechen wir natürlich nochmal über Hanno Berger. Ja, und zwar aus aktuellem Anlass. Er gilt ja als Mastermind hinter Cum-Ex, …
 >
 > — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 3:58](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=238) · [[Transkript 020#Minute 3|im Transkript]]
 
-> … finden. Lass uns noch einmal ganz kurz, bevor wir gleich zu den Landesbanken kommen, in die Zukunft blicken. Was bringt Berger jetzt dieses Geständnis? Ja, das ist relativ klar. Als der Anwalt von Herrn …
+> … einer Hand. Zusammen für Ihr Business. Vodafone. Kommen wir nun zu den Landesbanken. Wir haben ja im Vorspann schon ein bisschen was dazu hören können. Und man kann wirklich sagen, der Cum-Ex-Skandal ist schon …
 >
-> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 9:59](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=599) · [[Transkript 020#Minute 9|im Transkript]]
+> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 12:09](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=729) · [[Transkript 020#Minute 12|im Transkript]]
 
-> … Ermittler aus Nordrhein-Westfalen mit einem Durchsuchungsbeschluss vor der Tür der früheren Hamburger Landesbank. Nach Informationen von NDR, WDR und Süddeutscher Zeitung dauert die Razzia in den Geschäftsräumen der inzwischen privatisierten Hamburg Commercial Bank AG …
+> … ein bisschen dröge, ein bisschen langweilig, aber ist es überhaupt nicht. Die Landesbanken, die hattet ihr auch gerade erst in einem großen Artikel, ihr habt dazu ganz frisch quasi berichtet, die waren sehr stark …
 >
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 0:08](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=8) · [[Transkript 021#Minute 0|im Transkript]]
+> — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 21:11](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=1271) · [[Transkript 020#Minute 21|im Transkript]]
 
 > … Hamburg gestöbert. Auch in Stuttgart gab es Cum-Ex-Geschäfte einer öffentlichen Bank. Die LBBW zahlte 200 Millionen Euro zurück. Dort sah sich die Staatsanwaltschaft genötigt, tatsächlich zu ermitteln. Aber seit neun Jahren ist nur ein …
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 2:06](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=126) · [[Transkript 021#Minute 2|im Transkript]]
 
-> … das stimmt wirklich. Vor gut sechs Jahren sind die Geschäfte der Berliner Landesbank bekannt geworden. Und dazu gab es auch eine politische Diskussion. Und die Linken im Berliner Abgeordnetenhaus haben dazu im Dezember 2016 …
+> … heute ist nicht bekannt, um wie viel Geld es sich bei der Landesbank Berlin überhaupt handelt. Und wie viel Geld dem Steuerzahler im Endeffekt verloren gegangen ist. Eines ist aber klar. Bei Cum-Ex-Geschäften geht …
 >
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 5:05](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=305) · [[Transkript 021#Minute 5|im Transkript]]
+> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 6:02](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=362) · [[Transkript 021#Minute 6|im Transkript]]
 
-> … rausgekommen, dass die MM Warburg bei ihren ersten Cum-Ex-Geschäften ausgerechnet mit der Landesbank Berlin kooperiert hat. Die Hamburger waren damals noch, also wir sprechen da über 2006 so ungefähr, waren noch unerfahren mit der …
+> … Bankenskandal. Da ging es um Immobiliengeschäfte und ja, du hast recht, die Landesbank brauchte damals unter Vetter Milliardenhilfe vom Steuerzahler. Und unter Vetter wurden dann auch die Cum-Ex-Geschäfte gemacht, auf Kosten der Steuerzahler. Also …
 >
-> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 9:36](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=576) · [[Transkript 021#Minute 9|im Transkript]]
+> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 10:33](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=633) · [[Transkript 021#Minute 10|im Transkript]]
+
+> … Anfang. Also die größten Themen haben wir noch vor uns, oder? Die WestLB hatten wir schon angekündigt, auch in der Anmoderation. Über die müssen wir noch sprechen. Ja, über die sollen wir dringend sprechen, …
+>
+> — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 12:22](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=742) · [[Transkript 021#Minute 12|im Transkript]]
+
+> … sich nämlich der Freshfields-Anwalt Thomas Wiesenbart und Ulf Johannemann über Cum-Ex-Geschäfte der WestLB. Thomas Wiesenbart? Unsere Cum-Ex-Freunde von der WestLB haben einen Tag vor der HV ordentlich zugeschlagen. Antwort Ulf Johannemann? Die ersten Short-Seller …
+>
+> — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 29:28](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1768) · [[Transkript 032#Minute 29|im Transkript]]
 
 > … jedenfalls. Also in Stuttgart, die haben einen einzigen Fall, den Fall der Landesbank LBBW. Und die sitzen seit zehn Jahren, also seit 2013 läuft diese Ermittlung gegen die LBBW, auch wegen Cum-Ex. Und seit …
 >
@@ -73,93 +81,73 @@ Das Handelsblatt beschrieb die Chefetagen der Landesbanken deshalb als „justiz
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 40:29](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2429) · [[Transkript 040#Minute 40|im Transkript]]
 
-> … nicht mehr erinnern können, die West-LB war einmal eine riesige Bank, die Landesbank von NRW nämlich. Dann reihte sich in den 2000er Jahren ein Skandal an den anderen. Die West-LB ging daran zugrunde und …
+> … wir uns auch einen Fall nochmal besonders genau angucken, den Fall der WestLB. Und da hat er schon auch erkannt, dass es da Handlungsbedarf gibt. Also er sagt jetzt für diesen Fall der WestLB, …
 >
-> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 0:24](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=24) · [[Transkript 044#Minute 0|im Transkript]]
+> — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 43:00](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2580) · [[Transkript 040#Minute 43|im Transkript]]
 
-> … wie Sönke eben schon sagt, das waren im Grunde deutsche Banken, Privatbanken, Landesbanken, auch internationale Institute. Also das reicht von der Deutschen Bank, Commerzbank, DZ Bank, Helaba, West-LB. Also das ist eine sehr, sehr, …
+> … die haben schließlich für 5 Millionen auch gekauft. Da stand der Name WestLB wieder drauf. Dann haben wir wieder gefragt, haben die wieder gesagt, nee, ist nichts. Also ich weiß nicht, was ihr wollt. …
 >
-> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 12:20](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=740) · [[Transkript 044#Minute 12|im Transkript]]
+> — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 45:04](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2704) · [[Transkript 040#Minute 45|im Transkript]]
 
-> … für einen Fall, wo es ja gerade darum ging, dass es eine Landesbank, also eine Landesbank, die uns allen gehört, dass die den Steuerzahler so dreist in die Tasche gegriffen hat. Das ist ja …
+> … über einen besonderen Fall in dieser Steueraffäre sprechen. Es geht um die WestLB. Und falls die jüngeren Zuhörerinnen und Zuhörer unter Ihnen sich nicht mehr erinnern können, die WestLB war einmal eine riesige Bank, …
 >
-> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 21:34](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1294) · [[Transkript 044#Minute 21|im Transkript]]
+> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 0:14](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=14) · [[Transkript 044#Minute 0|im Transkript]]
 
-> … der gesamte Schaden ist. Aber genannt sei zum Beispiel das Beispiel der LBBW. Die haben 150 Millionen Euro Steuern zurückgezahlt aus diesen Cum-Ex-Geschäften. Oder die Hamburger Landesbank, Hamburger Schleswig-Holsteinische Landesbank, die gibt es mittlerweile …
+> … ihr euch mehr als zehn Jahre nach dem Aus nochmal mit der WestLB? Ja, das ist eine lange Vorgeschichte. Zehn Jahre, genau länger als zehn Jahre sind die schon nicht mehr da, die Landesbanker. …
 >
-> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 23:59](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1439) · [[Transkript 044#Minute 23|im Transkript]]
+> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 2:04](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=124) · [[Transkript 044#Minute 2|im Transkript]]
+
+> … Jedenfalls sagte der, er hätte Informationen über Cum-Ex-Geschäfte, nicht nur über die WestLB, die WestLB hat der Mann gar nicht erwähnt. Der hat nur gesagt, dass er einen riesigen Datenstick hat. Ich weiß gar …
+>
+> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 3:42](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=222) · [[Transkript 044#Minute 3|im Transkript]]
+
+> … Institute. Also das reicht von der Deutschen Bank, Commerzbank, DZ Bank, Helaba, WestLB. Also das ist eine sehr, sehr, sehr lange Liste. 129 Institute waren das insgesamt und da ist im Grunde alles dabei, …
+>
+> — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 12:29](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=749) · [[Transkript 044#Minute 12|im Transkript]]
 
 > … mal, wenn wir nach Stuttgart gucken, da gibt es den Fall der LBBW, auch ein riesen Cum-Ex-Fall. Da ermittelt seit zehn Jahren eine einzige Beamtin oder ein einziger Beamter auf dem Fall. In München …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 22:50](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1370) · [[Transkript 056#Minute 22|im Transkript]]
 
-> … namhafte Banken dabei, die Deutsche Bank, auch Internationale, Barclays, McCrory, JP Morgan, Landesbank, HSH Nordbank, West LB, um jetzt nur einige zu nennen, aber das sind natürlich alles Banken, die sich juristisch mit allem …
+> … die Deutsche Bank, auch Internationale, Barclays, Macquarie, JP Morgan, Landesbank, HSH Nordbank, WestLB, um jetzt nur einige zu nennen, aber das sind natürlich alles Banken, die sich juristisch mit allem wappnen, was man halt …
 >
-> — [[056 Eklat in der NRW-Justiz|#56]], [Minute 38:37](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2317) · [[Transkript 056#Minute 38|im Transkript]]
+> — [[056 Eklat in der NRW-Justiz|#56]], [Minute 38:39](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2319) · [[Transkript 056#Minute 38|im Transkript]]
 
-> … Geldgebern zählen. Darunter auch gute Adressen, wie die zur Sparkassengruppe zählende, hessisch-thürische Landesbank Helaba, sowie die NordLB. Unter deutschen Instituten ist Finanzkreisen zufolge die Landesbank Hessen-Thüringen mit einem mittleren dreistelligen Millionenbetrag engagiert. Die NordLB …
+> … da geht es um die Commerzbank, da geht es um die Landesbanken, WestLB, LBBW, HSH Nordbank, da geht es um internationale Finanzriesen wie JP Morgan, Barclays oder Macquarie, um nur einige zu nennen. Also …
 >
-> — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 40:27](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=2427) · [[Transkript 062#Minute 40|im Transkript]]
-
-> … Bank, da geht es um die Commerzbank, da geht es um die Landesbanken, West-LB, LBBW, HSH Nordbank, da geht es um internationale Finanzriesen wie JP Morgan, Barclays oder McQuarrie, um nur einige zu nennen. …
->
-> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 53:31](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3211) · [[Transkript 064#Minute 53|im Transkript]]
-
-> … einen tauglichen Finanzierer fragen müssen. Also die Bank, das war die Hessische Landesbank, die gesagt hat, ist alles in Ordnung. Da hätte man selber in die Mietverträge reingucken müssen, meiner Meinung nach, und nicht …
->
-> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 22:03](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1323) · [[Transkript 067#Minute 22|im Transkript]]
-
-> … Das ist nämlich die Hamburg Commercial Bank, Nachfolgerin der HSH Nordbank, ehemalige Landesbank von Hamburg und Schleswig-Holstein. Das ist das, was Herr Schreiber eben auch schon angesprochen hatte. Und der oder die Crime-Hörerin kennt …
->
-> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 26:40](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1600) · [[Transkript 067#Minute 26|im Transkript]]
-
-> … den tauglichen Finanzierer verlassen, der schließlich gar nicht finanziert hat. Die hessisch-thüringische Landesbank Helabar. Aber ja, die Mietverträge kennt die Helabar und im Grunde die Vertragspartner eben die Elb-Tower-Gesellschaft und die Hamburg Commercial Bank. …
->
-> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 28:38](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1718) · [[Transkript 067#Minute 28|im Transkript]]
-
-> … die Finanzierung ist eigentlich gar nicht zustande gekommen. Also ursprünglich hatte die Helaba zwar zugesagt, für ein Konsortium zu sorgen, was insgesamt 750 Millionen Euro Fremdkapital zur Verfügung stellt. Genau die Summe, die es …
->
-> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 33:26](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=2006) · [[Transkript 067#Minute 33|im Transkript]]
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 53:32](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3212) · [[Transkript 064#Minute 53|im Transkript]]
 
 > … Ja, richtig. Also die bemühen auch immer wieder den Vergleich zu den Landesbanken. Die sagen, das sind Landesbanken, die sich einen großen Stil an den Cum-Ex-Geschäften bereichert haben. Das ist auch richtig. Und ja, …
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 13:15](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=795) · [[Transkript 087#Minute 13|im Transkript]]
 
-> … habe die Liste gestern nochmal angeguckt. Die Deutsche Bank, die Dresdner Bank, Landesbanken. Hoch und runter, Bayerische Landesbank, Baden-Württemberg, West-LB, Nordbank in Lissi-Holstein. Dann hast du aber auch größere, sagen ich, Spieler. Barclays aus …
->
-> — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 46:43](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2803) · [[Transkript 094#Minute 46|im Transkript]]
-
 > … hinterzogen hatte. Und ja, das war in Hamburg. In Stuttgart hat die Landesbank Baden-Württemberg, die berühmte LBBW, eigentlich ganz angesehen, auch Cum-Ex-Geschäfte gemacht. Nochmal mehr, da ging es allein in den Jahren 2007 bis …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 6:41](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=401) · [[Transkript 095#Minute 6|im Transkript]]
 
-> … Stuttgart, da gelten offenbar andere Maßstäbe. Warum auch immer, es ist eine Landesbank. Es gibt natürlich auch Leute, die sagen, da werden Personen geschützt. Also wir wissen das nicht. Das Einzige, was wir machen …
+> … uns quasi. Und beschäftigen uns da einmal nochmal ganz kurz mit der WestLB. Das ist ja wie die LBBW eine Landesbank gewesen, muss man sagen. Die WestLB gibt es in der Form heute nicht …
 >
-> — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 8:32](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=512) · [[Transkript 095#Minute 8|im Transkript]]
+> — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 12:11](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=731) · [[Transkript 095#Minute 12|im Transkript]]
 
-> … einmal nochmal ganz kurz mit der West-LB. Das ist ja wie die LBBW eine Landesbank gewesen, muss man sagen. Die West-LB gibt es in der Form heute nicht mehr. Und auch da habt ihr, …
+> … uns vielleicht einfach mal anhören. Der Landesregierung ist nicht bekannt, dass die WestLB AG Cum-Ex-Geschäfte durchgeführt hat. Ja, man muss natürlich sagen, war das jetzt dann das Ende? Norbert Walter-Borjans ist ja schon länger …
 >
-> — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 12:13](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=733) · [[Transkript 095#Minute 12|im Transkript]]
+> — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 13:42](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=822) · [[Transkript 095#Minute 13|im Transkript]]
 
-> … so durchgehen, da ist also im Juni 2022 gibt es die Hessische Landesbank Helaba und die sagt, okay, wir machen eine Seniorfinanzierung, also wir gehen da rein mit 80 Millionen Euro und finanzieren euch …
+> … dazu sagen, Herr Walter-Borjans saß ja ab 2010 selbst im Aufsichtsrat der WestLB. Die ist 2012 untergegangen. Also da gab es noch diverse andere Skandale. Das war nicht nur Cum-Ex, also der Auslöser jedenfalls. …
 >
-> — [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97]], [Minute 54:02](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=3242) · [[Transkript 097#Minute 54|im Transkript]]
+> — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 15:56](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=956) · [[Transkript 095#Minute 15|im Transkript]]
 
-> … Fall M.M. Warburg, der allseit bekannt ist, aber auch der Fall der Landesbank, HSH Nordbank. Dann noch der Fall der Warengoldbank und dann noch der Fall der HI. Das sind alles Fälle, die öffentlich …
+> … Fälle, die öffentlich bekannt sind. In Stuttgart haben wir den Fall der LBBW, wo eigentlich schon seit, ich glaube, 2013 klar ist, dass da 166 Millionen Euro hinterzogen wurden. Also die Bank hat ja …
 >
-> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 36:33](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2193) · [[Transkript 130#Minute 36|im Transkript]]
+> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 36:44](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2204) · [[Transkript 130#Minute 36|im Transkript]]
 
-> … Szene und aus den Recherchen, die wir gemacht haben, dass gerade die Landesbanken oder die ehemaligen Landesbanken sehr große Player waren in diesem Geschäft und die West-LB hat, glaube ich, schon 500 Millionen Euro …
+> … die ehemaligen Landesbanken sehr große Player waren in diesem Geschäft und die WestLB hat, glaube ich, schon 500 Millionen Euro zurückgezahlt, die HSH Nordbank hat 125 Millionen zurückgezahlt, LBBW, wie schon erwähnt, 166 Millionen …
 >
-> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 40:39](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2439) · [[Transkript 130#Minute 40|im Transkript]]
+> — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 40:45](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2445) · [[Transkript 130#Minute 40|im Transkript]]
 
-> Stuttgart, der 25. Februar 2008. Es ist früher Nachmittag. Ein Aktienhändler der Landesbank Baden-Württemberg sitzt an seinem Schreibtisch. Vor ihm mehrere Bildschirme, Kurse, Charts und ein Bloomberg-Terminal. Auf dem Bildschirm läuft ein Chat mit …
+> … viele nicht genau hinsehen wollten. In dieser Folge geht es um die LBBW, die dabei mitmachte. LBBW, das steht für Landesbank Baden-Württemberg. Eine Bank, die also dem Staat gehört und dem Staat trotzdem schadete. …
 >
-> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 0:10](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=10) · [[Transkript 138#Minute 0|im Transkript]]
-
-> … wollten. In dieser Folge geht es um die LBBW, die dabei mitmachte. LBBW, das steht für Landesbank Baden-Württemberg. Eine Bank, die also dem Staat gehört und dem Staat trotzdem schadete. Und das ist noch …
->
-> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 1:41](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=101) · [[Transkript 138#Minute 1|im Transkript]]
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 1:38](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=98) · [[Transkript 138#Minute 1|im Transkript]]
 
 > … irgendwie ein heftiger Fall ist. Aber bevor wir jetzt tief in den LBBW-Komplex einsteigen, ein ganz kurzer Hinweis. Sie wissen, Sie haben es vielleicht schon gehört, Handelsblatt Crime geht wieder auf Tour. Unser Thema …
 >
@@ -169,43 +157,28 @@ Das Handelsblatt beschrieb die Chefetagen der Landesbanken deshalb als „justiz
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 5:29](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=329) · [[Transkript 138#Minute 5|im Transkript]]
 
-> … U.a. mit den illegalen Cum-Ex-Geschäften. Zwischen 2006 und 2011 soll die Gemeinsame Landesbank von Hamburg und Schleswig-Holstein mehr als 110 Mio. Euro Steuern hinterzogen haben. Manchmal liegt die Wahrheit schwarz auf weiß auf dem …
+> … mal richtig reinzugucken. Deshalb diese Folge. Also seit wann wird ermittelt? Die LBBW hat 2013 selbst eingeräumt, dass es da ein Problem gibt, sage ich mal, mit steuergetriebenen Geschäften. Die haben den Begriff Cum-Ex …
 >
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 0:42](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=42) · [[Transkript 150#Minute 0|im Transkript]]
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 7:11](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=431) · [[Transkript 138#Minute 7|im Transkript]]
 
-> … jeden Fall eine Rolle. Also die gibt es ja nicht mehr als Landesbank. Die ist dann privatisiert worden und es sind halt so Private Equity Fonds, die dann sozusagen die profitablen Reste der Bank …
->
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 3:02](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=182) · [[Transkript 150#Minute 3|im Transkript]]
+## In diesen Folgen (10)
 
-> … Ja, wie Volker vorhin gesagt hat, die HSH Nordbank war natürlich eine Landesbank. Und eine Landesbank, das liegt ja im Namen, gehört dem Land, in diesem Fall sogar zwei Länder, nach Schleswig-Holstein und Hamburg, …
->
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 5:39](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=339) · [[Transkript 150#Minute 5|im Transkript]]
+- [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Minute [21:16](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1276), [23:26](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1406)
+- [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20 – Landesbanken im Cum-Ex-Skandal: Chefetagen als justizfreie Zone]] (2022-08-14) — Shownotes · Minute [1:47](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=107), [3:58](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=238), [12:09](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=729), [21:11](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=1271)
+- [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Shownotes · Minute [2:06](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=126), [6:02](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=362), [10:33](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=633), [12:22](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=742)
+- [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — Shownotes · Minute [29:28](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1768)
+- [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40 – Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?]] (2023-03-26) — Shownotes · Minute [38:50](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2330), [40:29](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2429), [43:00](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2580), [45:04](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2704)
+- [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44 – Die WestLB: Viele Ex-Vorstände und ein Milliardenskandal]] (2023-05-21) — Shownotes · Minute [0:14](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=14), [2:04](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=124), [3:42](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=222), [12:29](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=749)
+- [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Shownotes · Minute [22:50](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1370), [38:39](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2319)
+- [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Minute [6:41](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=401), [12:11](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=731), [13:42](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=822), [15:56](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=956)
+- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Minute [36:44](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2204), [40:45](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2445)
+- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes · Minute [1:38](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=98), [3:26](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=206), [5:29](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=329), [7:11](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=431)
 
-> … wir können ja nicht in die Steuerkasse greifen, wir gehören doch als Landesbank selbst den Steuern zahlern. Ja, genau. Also wie gesagt, es war so ein Bereichsleiter, der über den Tisch musste dieser Test-Deal …
->
-> — [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150]], [Minute 17:26](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1046) · [[Transkript 150#Minute 17|im Transkript]]
+## Kurz erwähnt (3)
 
-## In diesen Folgen (9)
-
-- [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Minute [21:09](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1269), [22:39](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=1359)
-- [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20 – Landesbanken im Cum-Ex-Skandal: Chefetagen als justizfreie Zone]] (2022-08-14) — Shownotes · Minute [0:08](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=8), [1:44](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=104), [3:58](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=238), [9:59](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=599)
-- [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21 – Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren]] (2022-08-28) — Shownotes · Minute [0:08](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=8), [2:06](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=126), [5:05](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=305), [9:36](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=576)
-- [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44 – Die WestLB: Viele Ex-Vorstände und ein Milliardenskandal]] (2023-05-21) — Shownotes · Minute [0:24](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=24), [12:20](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=740), [21:34](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1294), [23:59](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1439)
-- [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67 – Der Elbtower in Hamburg: Desaster mit Ansage]] (2024-02-10) — Shownotes · Minute [22:03](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1323), [26:40](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1600), [28:38](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1718), [33:26](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=2006)
-- [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes · Minute [6:41](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=401), [8:32](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=512), [12:13](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=733)
-- [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Minute [36:33](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2193), [40:39](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=2439)
-- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes · Minute [0:10](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=10), [1:41](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=101), [3:26](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=206), [5:29](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=329)
-- [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes · Minute [0:42](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=42), [3:02](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=182), [5:39](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=339), [17:26](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E?t=1046)
-
-## Kurz erwähnt (7)
-
-- [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40 – Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?]] (2023-03-26) — Minute [38:50](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2330), [40:29](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2429)
-- [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Minute [22:50](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1370), [38:37](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=2317)
-- [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62 – Nächste Insolvenzen, neue Vorwürfe: Weitere Turbulenzen im Benko-Imperium]] (2023-12-16) — Minute [40:27](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=2427)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [53:31](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3211)
+- [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Minute [44:55](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=2695)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [53:32](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3212)
 - [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87 – Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab]] (2024-06-26) — Minute [13:15](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=795)
-- [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Minute [46:43](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=2803)
-- [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97 – 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen der Soravia-Gruppe zahlen müssen]] (2024-10-06) — Minute [54:02](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=3242)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-04-10 |
 | **Dauer** | 43:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE) · [MP3](https://audio.podigee-cdn.net/704284-m-bd9a417197a6a91e104dc12d6a4797bc.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/11-neue-episode) |
-| **Transkript** | [[Transkript 011]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Wirecard]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek und das russische Spionagenetzwerk]], [[Henry O’Sullivan]] |
+| **Transkript** | [[Transkript 011]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Wirecard]], [[Henry O’Sullivan]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Geldwäsche]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[EY (Ernst & Young)]], [[Handelsblatt]] |
-| **Personen** | [[Sönke Iwersen]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Henry O'Sullivan]], [[Hanno Berger]] |
-| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Marsalek-Brief]], [[Betrug]], [[Steuerfahndung]], [[Untersuchungshaft]], [[Wirtschaftsprüfung]] |
+| **Unternehmen** | [[EY (Ernst & Young)]], [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Henry O'Sullivan]], [[Hanno Berger]], [[Anne Brorhilker]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[EY im Wirecard-Skandal]], [[Betrug]], [[Steuerfahndung]], [[Untersuchungshaft]], [[Wirtschaftsprüfung]] |
 
 ## Shownotes
 
@@ -54,7 +54,7 @@ Erste Anklage im Cum-Ex-Skandal erhoben – Hanno Berger im Fokus
 
 ## Zeitmarken
 
-- [0:11](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=11) – Hallo und herzlich willkommen zu dieser Folge von Handels but Crime, dem Podcast, bei dem wir alle zwei … ([[Transkript 011#Minute 0|Transkript]])
+- [0:11](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=11) – Hallo und herzlich willkommen zu dieser Folge von Handelsblatt Crime, dem Podcast, bei dem wir alle zwei Wochen … ([[Transkript 011#Minute 0|Transkript]])
 - [2:14](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=134) – Eigentlich alle, die beteiligt waren. Es sind tatsächlich viele Jahre, genau genommen 30. Man kann sagen, das hat … ([[Transkript 011#Minute 2|Transkript]])
 - [4:16](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=256) – Du hast ihn ja kennengelernt. Ich habe ihn besucht, 2014 in seinem Schweizer Exil. Also Hanno Berger ist … ([[Transkript 011#Minute 4|Transkript]])
 - [6:23](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=383) – Das ist unglaublich. Ja, wir hatten gutes Timing, kann man sagen. Aber es ist natürlich auch traurig, dass … ([[Transkript 011#Minute 6|Transkript]])
@@ -69,7 +69,7 @@ Erste Anklage im Cum-Ex-Skandal erhoben – Hanno Berger im Fokus
 - [24:56](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1496) – Aber ansonsten muss man sagen, würde jetzt auf der Straße uns einem nicht unbedingt auffallen. Was ist er … ([[Transkript 011#Minute 24|Transkript]])
 - [27:03](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1623) – Und er freundet sich an mit demjenigen, der im Konzern dafür sorgen soll, dass Geldwäsche bekämpft wird. Genau, … ([[Transkript 011#Minute 27|Transkript]])
 - [29:18](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1758) – Wahrscheinlich nicht wissentlich, aber der Bellenhaus hat ihm dann gesagt, bringen wir mal den Rechner mit, bringen wir … ([[Transkript 011#Minute 29|Transkript]])
-- [31:29](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1889) – Und Jan Masalik und Henry O'Sullivan waren wahrscheinlich die, die dieses Drittpartnergeschäft und die Erfindung des Drittpartnersgeschäfts als … ([[Transkript 011#Minute 31|Transkript]])
+- [31:29](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1889) – Und Jan Marsalek und Henry O'Sullivan waren wahrscheinlich die, die dieses Drittpartnergeschäft und die Erfindung des Drittpartnergeschäfts als … ([[Transkript 011#Minute 31|Transkript]])
 - [33:35](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2015) – Bellenhaus kam dann auch richtig ins Schwitzen, muss man sagen. Also er kam dann irgendwie, musste dann richtig … ([[Transkript 011#Minute 33|Transkript]])
 - [35:41](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2141) – Wie kam das zustande? Der Bellenhaus, wie gesagt, ist noch nicht so alt wie der Hanno Berger. Der … ([[Transkript 011#Minute 35|Transkript]])
 - [38:08](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2288) – Ich glaube, da würde man ihm nicht gerecht, wenn man das so formuliert, es gibt, es gibt schon … ([[Transkript 011#Minute 38|Transkript]])

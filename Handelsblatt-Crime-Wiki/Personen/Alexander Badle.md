@@ -22,25 +22,25 @@ Die Ermittlungen offenbarten, wie leicht fehlende Kontrolle in den Behörden es 
 
 ## Was im Podcast gesagt wird
 
-> … Sperriger Name, aber so war das. Nach vielen Jahren waren dann mit Badle verbunden so Begriffe wie Koryphäe oder Galleonsfigur in der Korruptionsbekämpfung. Und er war am Ende auch der bekannteste Staatsanwalt sicher in …
+> Alexander Badle hat sich einen Namen als einer der profiliertesten Korruptionsbekämpfer der Republik gemacht. Er war allerdings selbst in höchstem Maße korrupt. Der …
+>
+> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 0:01](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1) · [[Transkript 048#Minute 0|im Transkript]]
+
+> … stehen. Meine Kollegen René Bender und Volker Votsmeier aus unserem Investigativ-Team kennen Alexander Badle seit vielen Jahren. Sie hatten bei Recherchen immer wieder mit ihm zu tun. Mit den beiden werde ich darüber sprechen, wie …
+>
+> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 1:37](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=97) · [[Transkript 048#Minute 1|im Transkript]]
+
+> … Sperriger Name, aber so war das. Nach vielen Jahren waren dann mit Badle verbunden so Begriffe wie Koryphäe oder Galionsfigur in der Korruptionsbekämpfung. Und er war am Ende auch der bekannteste Staatsanwalt sicher in …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 4:15](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=255) · [[Transkript 048#Minute 4|im Transkript]]
 
-> … meditransparent. Transparent war da halt recht wenig, wie wir schon erfahren haben. Badle tauchte in den Unterlagen gar nicht auf. Nach außen war auch A am Anfang gar nicht unterwegs, sondern eine gemeinsame Geschäftspartnerin, …
+> … selbst beteiligt war. Und dann gab es sozusagen eine Beteiligung. Also Herr Badle hat sich dann sozusagen von den Honoraren, die an die externen Dienstleister geflossen sind, einen Teil für sich selbst vereinnahmen. Das …
 >
-> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 11:37](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=697) · [[Transkript 048#Minute 11|im Transkript]]
-
-> … die Bekämpfung von Vermögenstraftaten und Korruption im Gesundheitswesen entstanden. Die ZBVK. Und Badle hat sich dann beworben um die Leitung dieser Dienststelle und war eigentlich auch unumstritten, dass er da halt wirklich eine gute …
->
-> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 13:18](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=798) · [[Transkript 048#Minute 13|im Transkript]]
-
-> … also der Löwenanteil. 90 Prozent aller Aufträge kamen tatsächlich aus dieser Abteilung Badle oder wurden direkt von Badle beauftragt. Und das waren halt diese 12 ,5 Millionen Euro. Richtig kontrolliert hat das niemand. Also …
->
-> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 15:01](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=901) · [[Transkript 048#Minute 15|im Transkript]]
+> — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 6:24](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=384) · [[Transkript 048#Minute 6|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48 – Wie ein Korruptionsbekämpfer selbst korrupt wurde: Der tiefe Fall eines Oberstaatsanwalts]] (2023-07-15) — Shownotes · Minute [4:15](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=255), [11:37](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=697), [13:18](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=798), [15:01](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=901)
+- [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48 – Wie ein Korruptionsbekämpfer selbst korrupt wurde: Der tiefe Fall eines Oberstaatsanwalts]] (2023-07-15) — Shownotes · Minute [0:01](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1), [1:37](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=97), [4:15](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=255), [6:24](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=384)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

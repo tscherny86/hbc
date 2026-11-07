@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-03-22 |
 | **Dauer** | 1:19:14 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf) · [MP3](https://audio.podigee-cdn.net/2353885-m-e804aee86c99063a12e2f7c76912392c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/142-blaulicht-bei-tesla-wie-eine-betriebsratswahl-zur-schlammschlacht-wurde) |
-| **Transkript** | [[Transkript 142]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]] |
+| **Transkript** | [[Transkript 142]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Tesla-Betriebsratswahl Grünheide]] |
 | **Themen** | [[Betriebsrat und Mitbestimmung]] |
-| **Unternehmen** | [[Volkswagen]], [[Tesla]], [[Handelsblatt]] |
+| **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Elon Musk]] |
-| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Dieselgate (Volkswagen)]], [[Tesla-Experiment (autonomes Fahren)]], [[Wirtschaftsprüfung]], [[Datenleck]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 
@@ -61,7 +61,7 @@ In dieser Folge von Handelsblatt Crime sprechen Host Ina Karabasz und Investigat
 - [43:46](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=2626) – Ihre Liste ist stärker geworden, die IG Metall hat verloren und die kleineren Gruppen haben daran auch nichts … ([[Transkript 142#Minute 43|Transkript]])
 - [45:54](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=2754) – Und wenn du vor diesem, wenn du da, kann man sich vorstellen, wenn du vor der Wahlurne stehst … ([[Transkript 142#Minute 45|Transkript]])
 - [48:00](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=2880) – Und dann sagt tatsächlich der Vorgesetzte, dann marschieren die, jetzt nicht wie die, nicht im Gänsemarsch, aber dann … ([[Transkript 142#Minute 48|Transkript]])
-- [50:02](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=3002) – Jedenfalls, nachdem er dann fertig, nachdem Cool Savas, seine Rapstar gerappt hatte, kam wieder der Werksleiter auf die … ([[Transkript 142#Minute 50|Transkript]])
+- [50:02](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=3002) – Jedenfalls, nachdem er dann fertig, nachdem Kool Savas, seine Rapstar gerappt hatte, kam wieder der Werksleiter auf die … ([[Transkript 142#Minute 50|Transkript]])
 - [52:14](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=3134) – Das habe ich aber erst gar nicht so gemerkt. Wir haben einfach nur aufgeschrieben, da war halt der … ([[Transkript 142#Minute 52|Transkript]])
 - [54:18](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=3258) – Okay, das ist jetzt aber natürlich schon auch hart. Ja, aber die waren wirklich, auf Deutsch gesagt, die … ([[Transkript 142#Minute 54|Transkript]])
 - [56:20](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=3380) – Also was stellst du dir denn vor? Und nachdem vorher die Kommunikation wirklich sehr, sehr direkt war, er … ([[Transkript 142#Minute 56|Transkript]])
@@ -71,7 +71,7 @@ In dieser Folge von Handelsblatt Crime sprechen Host Ina Karabasz und Investigat
 - [1:05:04](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=3904) – Also da ist jetzt keine besonders kritische Note zu hören gewesen. Weil da auch mal meines Wissens nach, … ([[Transkript 142#Minute 65|Transkript]])
 - [1:07:08](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4028) – Genau, aber an der Stelle möchte ich natürlich ganz kurz einhaken, denn wir hatten es eben schon ganz … ([[Transkript 142#Minute 67|Transkript]])
 - [1:09:14](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4154) – Seien Sie dabei und sparen Sie 10% mit dem Code PODCAST27. Weitere Infos unter handelsblatt-govtech-gipfel.de Und jetzt muss … ([[Transkript 142#Minute 69|Transkript]])
-- [1:11:30](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4290) – Und auch der CDU-Fraktionschef im Landtag, der Jan Rehtmann, hat dann gesagt, also viele Mitarbeiter können ja jetzt … ([[Transkript 142#Minute 71|Transkript]])
+- [1:11:30](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4290) – Und auch der CDU-Fraktionschef im Landtag, der Jan Redmann, hat dann gesagt, also viele Mitarbeiter können ja jetzt … ([[Transkript 142#Minute 71|Transkript]])
 - [1:13:35](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4415) – 2000 hatten wir eben schon gesagt, wie gesagt weniger. Das ist ein Rückgang um etwa 14 Prozent. Sogar … ([[Transkript 142#Minute 73|Transkript]])
 - [1:15:40](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4540) – Geht dem denn jetzt eigentlich irgendjemand nach, ob das eine illegitime Einmischung in die Wahl war oder nicht? … ([[Transkript 142#Minute 75|Transkript]])
 - [1:17:48](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4668) – Ob das stimmt oder nicht, das wäre jedenfalls die Behauptung, die im Raum steht. Und das ist was, … ([[Transkript 142#Minute 77|Transkript]])

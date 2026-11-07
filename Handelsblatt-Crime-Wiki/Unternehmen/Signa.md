@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 12
+folgen: 9
 tags: [unternehmen]
 ---
 # Signa
@@ -20,63 +20,63 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 
 ## Was im Podcast gesagt wird
 
-> Die Signergruppe des Österreichers René Benko zählt zu den bedeutendsten Investoren am europäischen Gewerbeimmobilienmarkt. Und sie besitzt in Deutschland unter anderem den Warenhauskonzern Galeria Karstadt Kaufhof. Doch …
+> Die Signa-Gruppe des Österreichers René Benko zählt zu den bedeutendsten Investoren am europäischen Gewerbeimmobilienmarkt. Und sie besitzt in Deutschland unter anderem den Warenhauskonzern …
 >
-> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 0:09](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=9) · [[Transkript 060#Minute 0|im Transkript]]
+> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 0:06](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=6) · [[Transkript 060#Minute 0|im Transkript]]
 
-> … zum Milliardär mit gleichermaßen unkonventionellen wie auch skrupellosen Methoden. Und ja, René Benko verfügt über beste Kontakte in Wirtschafts - und Politkreise und hat jetzt innerhalb von kurzer Zeit einen atemberaubenden Absturz erlebt mit …
+> … einsteigen. Ich habe es in der Anmoderation ja schon gesagt. Sieg der Signa-Konzern, einer der größten Immobilieneigentümer Europas. In Deutschland haben wir schon häufiger davon gehört, eben auch, weil ihm der Warenhauskonzern Galeria gehört. …
 >
-> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 2:55](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=175) · [[Transkript 060#Minute 2|im Transkript]]
+> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 2:04](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=124) · [[Transkript 060#Minute 2|im Transkript]]
 
-> … jetzt ist der 1. Dezember und es hat sich einiges getan bei Benko und auch bei Signa. René, was genau denn? Ja, inzwischen hat auch der Mutterkonzern, die Signa Holding, Insolvenz angemeldet. In Wien …
+> … kann sich fast minütlich im Moment ändern, ist so, dass eigentlich die SIGNA Holding, also der Oberkonzern der ganzen Gruppe, darum ringt, Geld zu bekommen, womit Finanzierungen bedient werden können, womit auch laufende Ausgaben …
 >
-> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 4:42](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=282) · [[Transkript 060#Minute 4|im Transkript]]
+> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 3:39](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=219) · [[Transkript 060#Minute 3|im Transkript]]
 
-> … werfen. Da verfolgen wir natürlich auf jeden Schritt und Tritt, was bei Signa und auch bei Benko passiert. Und nun machen wir weiter mit der Folge. Es ist ja schon eigentlich unglaublich an sich. …
+> … klar ist, ob sich überhaupt ein Käufer findet. Aber die Muttergesellschaft, die Signa Retail, auch eine Tochter von Signa Holding, hat auch Gläubigerschutz beantragt, möchte sich liquidieren, wie sie selber geschrieben hat, und alle …
 >
-> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 6:33](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=393) · [[Transkript 060#Minute 6|im Transkript]]
+> — [[060 René Benko Er war der Mann der ganz großen Show|#60]], [Minute 5:45](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=345) · [[Transkript 060#Minute 5|im Transkript]]
 
-> … an dieser Stelle über den Aufstieg und Fall des österreichischen Unternehmers René Benko gesprochen. Aus dessen Handels - und Immobiliengruppe Signer, die zu den bedeutendsten Investoren am europäischen Gewerbeimmobilienmarkt gehört, hatte die Muttergesellschaft gerade …
+> … an dieser Stelle über den Aufstieg und Fall des österreichischen Unternehmers René Benko gesprochen. Aus dessen Handels - und Immobiliengruppe Signa, die zu den bedeutendsten Investoren am europäischen Gewerbeimmobilienmarkt gehört, hatte die Muttergesellschaft gerade …
 >
 > — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 0:07](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=7) · [[Transkript 062#Minute 0|im Transkript]]
 
-> … Wir haben es ja schon gehört, seit unserer ersten Folge zu René Benko und den Entwicklungen in dessen Signer-Konzern ist noch ganz, ganz viel passiert. Das war für mich Schlag auf Schlag. Jeden Tag …
+> … Wir haben es ja schon gehört, seit unserer ersten Folge zu René Benko und den Entwicklungen in dessen Signa-Konzern ist noch ganz, ganz viel passiert. Das war für mich Schlag auf Schlag. Jeden Tag …
 >
 > — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 2:02](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=122) · [[Transkript 062#Minute 2|im Transkript]]
 
-> … Bord bleibt, aber als Aufpasser einen Sanierungsverwalter an die Seite bekommt. Ob Benkos Signergruppe dabei am Ende als Ganzes erhalten bleibt oder ob die Immobilien einzeln verkauft werden müssen, um die Gläubigeransprüche zu befriedigen, …
+> … Bord bleibt, aber als Aufpasser einen Sanierungsverwalter an die Seite bekommt. Ob Benkos Signa-Gruppe dabei am Ende als Ganzes erhalten bleibt oder ob die Immobilien einzeln verkauft werden müssen, um die Gläubigeransprüche zu befriedigen, …
 >
 > — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 4:27](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=267) · [[Transkript 062#Minute 4|im Transkript]]
 
-> … war beispielsweise damit beschäftigt, Events zu organisieren, Privatflüge von Siegner Eigentümer Rene Benko oder auch das private Jagdgebiet der Siegner zu betreuen, was man sich eigentlich kaum vorstellen kann. Den meisten dieser Mitarbeiter wurde …
+> … stellen. Das scheine überwiegend wahrscheinlich, teilte Signa mit. Man muss dazu wissen, Signa Development ist nicht irgendein Teil des Konzerns. Das ist eine der wichtigsten Immobiliengesellschaften im Konzern. Sie hat große Immobilienentwicklungsprojekte in guten …
 >
-> — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 11:47](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=707) · [[Transkript 062#Minute 11|im Transkript]]
+> — [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62]], [Minute 5:57](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=357) · [[Transkript 062#Minute 5|im Transkript]]
 
 > … haben und bei dem es auch um einen prominenten Österreicher geht, René Benko. Da ist in den vergangenen Wochen wahnsinnig viel passiert. Seine Holdinggesellschaft musste Insolvenz anmelden, einige aus dem Firmengeflecht auch. Und da …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:07:51](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4071) · [[Transkript 064#Minute 67|im Transkript]]
 
-> … Beide sind gerade intensiv mit der Recherche über die Siegner und René Benko beschäftigt und können deswegen heute nicht dabei sein. Aber sie sind an der Stelle herzlich gegrüßt und gehören natürlich genauso mit …
+> … das Vinzenz Neumaier und Michael Verfürden. Beide sind gerade intensiv mit der Recherche über die Signa und René Benko beschäftigt und können deswegen heute nicht dabei sein. Aber sie sind an der Stelle herzlich gegrüßt und gehören …
 >
-> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:12:46](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4366) · [[Transkript 064#Minute 72|im Transkript]]
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:12:45](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4365) · [[Transkript 064#Minute 72|im Transkript]]
 
-> … überstrahlen sollte. Der Hamburger Elb-Tower war ein Projekt im Portfolio von René Benko, jenem Immobilienmagnat, dessen Immobilien - und auch Handelsimperium seit Anfang vergangenen Jahres zerbröselt und zuletzt in zunehmender Geschwindigkeit auch zerfällt. War …
+> … überstrahlen sollte. Der Hamburger Elbtower war ein Projekt im Portfolio von René Benko, jenem Immobilienmagnat, dessen Immobilien - und auch Handelsimperium seit Anfang vergangenen Jahres zerbröselt und zuletzt in zunehmender Geschwindigkeit auch zerfällt. War …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 1:02](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=62) · [[Transkript 067#Minute 1|im Transkript]]
+
+> … von René Benko, das Handels - und Immobilienimperium, gebündelt quasi in der Signa Holding, dass das zerbröselt und das ist jetzt quasi wie so ein Domino-Spiel, da fällt ein Stein nach dem anderen. Angefangen …
+>
+> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 2:32](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=152) · [[Transkript 067#Minute 2|im Transkript]]
 
 > … auch weit davon entfernt, fertig zu werden. Aber lass uns lieber bei Signa bleiben. Denn Signa hat nämlich diesen Zuschlag bekommen für dieses Prestigeobjekt. Das ist immer wirklich teuer, da musste wahnsinnig viel Geld …
 >
 > — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 6:08](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=368) · [[Transkript 067#Minute 6|im Transkript]]
 
-> … Ich würde sagen, man hätte damals auch schon erkennen können, dass René Benko als Chef von SIGNA nicht wirklich seriös gewesen ist. Denn er hatte ja da auch schon Vorwürfe oder auch schon Gerichtsverfahren …
+> … das so ist, hochkarätige Anwälte, die die Kaufverträge ausgearbeitet haben. Vertreter von Signa. Olaf Scholz saß nicht dabei, aber er hatte natürlich trotzdem eine wichtige Rolle, weil er eben als erster Bürgermeister der Stadt …
 >
-> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 13:01](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=781) · [[Transkript 067#Minute 13|im Transkript]]
+> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 8:36](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=516) · [[Transkript 067#Minute 8|im Transkript]]
 
-> … ja gesagt, die waren Ankermieter. Und was wir mittlerweile auch aus dem Benko-Immobilienreich wissen, ist da zumindest immer wieder der Verdacht, dass Geschmäckle, wie auch immer man das nennen möchte, hochkommt, dass da zu …
->
-> — [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67]], [Minute 28:06](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1686) · [[Transkript 067#Minute 28|im Transkript]]
-
-> Der österreichische Immobilieninvestor René Benko ist tief gefallen. Die wichtigsten Gesellschaften seines Signerreichs haben Insolvenz angemeldet. Genauso wie Benko als Privatmann. Gläubiger haben mittlerweile rund zwei …
+> Der österreichische Immobilieninvestor René Benko ist tief gefallen. Die wichtigsten Gesellschaften seines Signa-Reichs haben Insolvenz angemeldet. Genauso wie Benko als Privatmann. Gläubiger haben mittlerweile rund zwei …
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 0:06](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=6) · [[Transkript 078#Minute 0|im Transkript]]
 
@@ -92,29 +92,21 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 5:38](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=338) · [[Transkript 078#Minute 5|im Transkript]]
 
-> … stelle ich dich vor zwei Alternativen. Okay. Würdest du eher mit René Benko einen Kaffee trinken oder mit Jan Marsalek auf einer Yachtparty machen? Ich würde tatsächlich eher mit Marsalek Party machen gehen. Einfach, …
->
-> — [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79]], [Minute 4:13](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=253) · [[Transkript 079#Minute 4|im Transkript]]
-
-> … ja kein Geheimnis, dass die Branche unter Druck ist und so weiter. Benko-Signer-Gruppe ist in die Insolvenz gerutscht. Andere Entwickler sind gekippt. Adler macht Schlagzeilen mit stillstehenden Projekten. Auch bei ihm gibt es bei …
+> … ja kein Geheimnis, dass die Branche unter Druck ist und so weiter. Benko-Signa-Gruppe ist in die Insolvenz gerutscht. Andere Entwickler sind gekippt. Adler macht Schlagzeilen mit stillstehenden Projekten. Auch bei ihm gibt es bei …
 >
 > — [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90]], [Minute 17:34](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1054) · [[Transkript 090#Minute 17|im Transkript]]
-
-> … darauf reagiere, sondern wir werden eben durch diese Einschläge, pleite Impfer, pleite Benko, pleite dies, jeden Tag erneut herausgefordert, weil es trifft unsere Investoren, es trifft unsere Banken, es trifft unsere Kreditgeber. Und selbst …
->
-> — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 5:32](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=332) · [[Transkript 096#Minute 5|im Transkript]]
-
-> … und die kennen halt schwierige Zeiten. Sind Sie manchmal sauer auf René Benko? Das in der Öffentlichkeit zu sagen, zumal ich ihn persönlich kenne, ich bin auf den Menschen René Benko nicht sauer. Ich …
->
-> — [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96]], [Minute 27:50](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1670) · [[Transkript 096#Minute 27|im Transkript]]
 
 > … dieser Stelle kommt jetzt ein prominenter Name ins Spiel und zwar René Benko. Ja, also das ist, jetzt wird das zu einer Sache zwischen Österreichern. Der René Benko ist ja, wenn man so will, …
 >
 > — [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97]], [Minute 29:15](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=1755) · [[Transkript 097#Minute 29|im Transkript]]
 
-> … sind wieder Michael und René. Wir sprechen über die Platte von René Benko. Und Michael, warum Geheimniskrämer des Jahres? Naja, also diejenigen, die die Folge damals gehört haben, die werden sich erinnern, dass wir …
+> … gab es Adler, da gab es Gröner, was haben wir nicht? Ja, Signa. Wir haben im Handelsblatt über die DII geschrieben, über Project Immobilien, Preos, Publity, wie sie alle heißen. So und vielleicht muss …
 >
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 20:19](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1219) · [[Transkript 104#Minute 20|im Transkript]]
+> — [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97]], [Minute 1:08:58](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=4138) · [[Transkript 097#Minute 68|im Transkript]]
+
+> … Bei mir im Studio sind wieder Michael und René. Wir sprechen über die Pleite von René Benko. Und Michael, warum Geheimniskrämer des Jahres? Naja, also diejenigen, die die Folge damals gehört haben, die werden sich erinnern, dass wir eine Geschichte gemacht …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 20:18](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1218) · [[Transkript 104#Minute 20|im Transkript]]
 
 > … es sehr hart und sagt, die Mutter sei eben eine Strohfrau René Benkos und es sei ungeheuerlich, dass er eben all sein Protz und sein Reichtum weiter so lebt, als ob nie irgendwas geschehen …
 >
@@ -124,6 +116,10 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 23:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1429) · [[Transkript 104#Minute 23|im Transkript]]
 
+> … anders als jetzt Cum-Ex und Wirecard und auch die Effenberg Bank und Benko und diese vielen Themen, die wir hier haben und Tesla, Triton, jetzt keine weitergehende Geschichte. Die ist abgeschlossen. Das kann man …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 49:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2990) · [[Transkript 104#Minute 49|im Transkript]]
+
 > … diesem Donnerstag hat die Wiener Spezialstaatsanwaltschaft für Wirtschaftskriminalität den bekannten Bauunternehmer René Benko festgenommen. Und man kann das sagen, damit erreicht die strafrechtliche Aufarbeitung der Pleite seines Handels - und Immobilienkonzerns Signa eine neue …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 0:20](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=20) · [[Transkript 106#Minute 0|im Transkript]]
@@ -132,9 +128,9 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 1:57](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=117) · [[Transkript 106#Minute 1|im Transkript]]
 
-> … gehört, ist wie die Signer Holding, also die ehemalige Firma von René Benko, an der digitalen Bildungsplattform Ada beteiligt. Das heißt erstmal gar nichts. Das heißt nur, dass da beide beteiligt sind. Wir sind …
+> … Handelsblatt Media Group, zu der auch das Handelsblatt gehört, ist wie die Signa Holding, also die ehemalige Firma von René Benko, an der digitalen Bildungsplattform Ada beteiligt. Das heißt erstmal gar nichts. Das heißt …
 >
-> — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 3:47](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=227) · [[Transkript 106#Minute 3|im Transkript]]
+> — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 3:45](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=225) · [[Transkript 106#Minute 3|im Transkript]]
 
 > … Lass uns mal auf die Details schauen. Wo genau haben die Behörden Benko denn aufgegriffen? Es gab ja in den vergangenen Wochen immer wieder Spekulationen, wo er sich so aufhält. Ja, sie haben ihn …
 >
@@ -148,7 +144,7 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 1:40](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=100) · [[Transkript 120#Minute 1|im Transkript]]
 
-> … sich nur um einen kleinen Teilaspekt in diesem Geflecht an Vorwürfen gegen Benko. Insgesamt geht die Staatsanwaltschaft in Sachen Siegner bis jetzt, muss man sagen, gut einem Dutzend verschiedenen Sachverhaltssträngen nach. Und man kann …
+> … sich nur um einen kleinen Teilaspekt in diesem Geflecht an Vorwürfen gegen Benko. Insgesamt geht die Staatsanwaltschaft in Sachen Signa bis jetzt, muss man sagen, gut einem Dutzend verschiedenen Sachverhaltssträngen nach. Und man kann …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 3:52](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=232) · [[Transkript 120#Minute 3|im Transkript]]
 
@@ -160,6 +156,10 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 1:05](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=65) · [[Transkript 128#Minute 1|im Transkript]]
 
+> … war. Ich vermute mal, das war diesmal ein bisschen anders, oder? Der Benko-Prozess wurde ja schon ziemlich lange erwartet. Ja, also die österreichischen Medien haben vorher vom Prozess des Jahres gesprochen und so war …
+>
+> — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 3:32](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=212) · [[Transkript 128#Minute 3|im Transkript]]
+
 > … nur vermuten. Ein paar Aufnahmen haben die Kameraleute aber doch geschafft, von Benko zu machen. Ich glaube, es gab diese Woche kaum eine Zeitung oder ein Nachrichtenmedium, wo man das eben nicht gesehen hat. …
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 5:39](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=339) · [[Transkript 128#Minute 5|im Transkript]]
@@ -167,42 +167,6 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 > … mich, er stellt meine Position dar. Wenn man jetzt in diesem ganzen SIGNA und den ganzen Benko-Hintergründen nicht so tief drinsteckt, wie vielleicht unsere Hardcore-Handelsblatt-Crime-Fans, dann kommt einem dieses Urteil vielleicht ja erstmal ein …
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 9:29](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=569) · [[Transkript 128#Minute 9|im Transkript]]
-
-> … es zum Teil um hohe Millionensummen, aber in dieser ersten Anklage gegen Benko, da haben sie tatsächlich nur zwei Aspekte erstmal rausgegriffen und also das ist echt nur die Spitze des Eisbergs, wenn man …
->
-> — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 11:07](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=667) · [[Transkript 128#Minute 11|im Transkript]]
-
-> … schon seit Jahren in der Krise. Wir haben ja viel zu Gröna, Benko und Co. gemacht. Aber Dehne sah im Oktober 2024 schon noch eine Riesenchance für die DGAG, weil man eben nun die …
->
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 10:32](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=632) · [[Transkript 139#Minute 10|im Transkript]]
-
-> … schon mal gesagt, im Oktober 2024 überhaupt nicht golden war. Viele Projektentwickler, Benko und Co., wir hatten es gerade, waren da schon in der Pleite. Und der Markt, kann man so sagen, der litt …
->
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 13:34](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=814) · [[Transkript 139#Minute 13|im Transkript]]
-
-> … da klingelt bei mir auch ganz kurz im Zusammenhang der Name René Benko. Auch da hatten wir dieses, der Chef ist eigentlich keiner. Okay, aber jetzt die neuen Chefs, die stehen für Anlegerverwaltung und …
->
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 30:56](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1856) · [[Transkript 139#Minute 30|im Transkript]]
-
-> … mir wirklich, ich hatte es eben schon gesagt, diverse Änderungen an René Benko weiter außen vor. Das ist halt, die sind dann auf einmal Berater oder Beiräte, aber eigentlich einflussreicher als die Vorstände. Da …
->
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 32:47](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1967) · [[Transkript 139#Minute 32|im Transkript]]
-
-> … Immobilienunternehmern berichtet. Also, wir hatten wir Christoph Gröner, Chef Ted Karner, René Benko, last but not least. Unterscheidet sich dieser Fall jetzt irgendwie elementar von den anderen? Ich würde sagen, ja, weil, also auch …
->
-> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 10:37](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=637) · [[Transkript 144#Minute 10|im Transkript]]
-
-> … in dem Punkt erinnert die Geschichte auch so ein bisschen an René Benko, der Weggefährten sagen, der Replegata sei totaler Workaholic, unglaublich fleißig, sehr, sehr, sehr umtriebig. Da gibt es ganz, ganz viele unterschiedliche …
->
-> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 14:05](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=845) · [[Transkript 144#Minute 14|im Transkript]]
-
-> … Bekannten, weil über diese Luxusmeilen haben wir zum Beispiel auch im Fall Benko immer mal wieder gesprochen. Also liegt da natürlich die Frage nahe, dass sie sich doch eigentlich kennen müssten. Richtig. Und zwar …
->
-> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 18:37](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=1117) · [[Transkript 144#Minute 18|im Transkript]]
-
-> … einfach mal zusammenrechnen, was wir kennen da unterschiedliche die Mutter von René Benko, die Tochter und in vielen anderen Fällen sind da auf einmal Vermögen an sehr interessanten Stellen immer wieder aufgetaucht und wir …
->
-> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 48:00](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=2880) · [[Transkript 144#Minute 48|im Transkript]]
 
 > … die deutsche Finance, das ist ja jetzt eben nicht unbedingt wie das Benko-Portfolio zum Beispiel, was ja viele dann doch durchaus vorher kannten, sondern es ist eher wahrscheinlich noch nicht so vielen geläufig. Erklär …
 >
@@ -216,26 +180,22 @@ Benko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz w
 >
 > — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 2:11](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=131) · [[Transkript 159#Minute 2|im Transkript]]
 
-## In diesen Folgen (12)
+## In diesen Folgen (9)
 
-- [[060 René Benko Er war der Mann der ganz großen Show|#60 – René Benko: Er war der Mann der ganz großen Show]] (2023-12-02) — Shownotes · Minute [0:09](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=9), [2:55](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=175), [4:42](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=282), [6:33](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=393)
-- [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62 – Nächste Insolvenzen, neue Vorwürfe: Weitere Turbulenzen im Benko-Imperium]] (2023-12-16) — Shownotes · Minute [0:07](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=7), [2:02](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=122), [4:27](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=267), [11:47](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=707)
-- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Shownotes · Minute [1:07:51](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4071), [1:12:46](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4366)
-- [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67 – Der Elbtower in Hamburg: Desaster mit Ansage]] (2024-02-10) — Shownotes · Minute [1:02](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=62), [6:08](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=368), [13:01](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=781), [28:06](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=1686)
+- [[060 René Benko Er war der Mann der ganz großen Show|#60 – René Benko: Er war der Mann der ganz großen Show]] (2023-12-02) — Shownotes · Minute [0:06](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=6), [2:04](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=124), [3:39](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=219), [5:45](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L?t=345)
+- [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62 – Nächste Insolvenzen, neue Vorwürfe: Weitere Turbulenzen im Benko-Imperium]] (2023-12-16) — Shownotes · Minute [0:07](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=7), [2:02](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=122), [4:27](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=267), [5:57](https://open.spotify.com/episode/13jXvt8Lyl89F3asMvuOfE?t=357)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Shownotes · Minute [1:07:51](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4071), [1:12:45](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=4365)
+- [[067 Der Elbtower in Hamburg Desaster mit Ansage|#67 – Der Elbtower in Hamburg: Desaster mit Ansage]] (2024-02-10) — Shownotes · Minute [1:02](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=62), [2:32](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=152), [6:08](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=368), [8:36](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8?t=516)
 - [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78 – Das geheimnisvolle Immobilienportfolio der Familie Benko]] (2024-05-18) — Shownotes · Minute [0:06](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=6), [2:09](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=129), [4:06](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=246), [5:38](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=338)
-- [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96 – Interview mit Christoph Gröner: "Ich gehe den Weg konsequent zu Ende und ich ziehe alle Register"]] (2024-08-17) — Minute [5:32](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=332), [27:50](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw?t=1670)
-- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [20:19](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1219), [22:11](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1331), [23:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1429)
-- [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes · Minute [0:20](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=20), [1:57](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=117), [3:47](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=227), [5:29](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=329)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [20:18](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1218), [22:11](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1331), [23:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1429), [49:50](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2990)
+- [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes · Minute [0:20](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=20), [1:57](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=117), [3:45](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=225), [5:29](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=329)
 - [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Shownotes · Minute [0:06](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=6), [1:40](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=100), [3:52](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=232), [5:27](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=327)
-- [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128 – Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft?]] (2025-10-19) — Shownotes · Minute [1:05](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=65), [5:39](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=339), [9:29](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=569), [11:07](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=667)
-- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Minute [10:32](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=632), [13:34](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=814), [30:56](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1856), [32:47](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1967)
-- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Minute [10:37](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=637), [14:05](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=845), [18:37](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=1117), [48:00](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=2880)
+- [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128 – Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft?]] (2025-10-19) — Shownotes · Minute [1:05](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=65), [3:32](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=212), [5:39](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=339), [9:29](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=569)
 
-## Kurz erwähnt (5)
+## Kurz erwähnt (4)
 
-- [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79 – Meet the Team: Investigativ-Redakteur Michael Verfürden]] (2024-05-18) — Minute [4:13](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=253)
 - [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Minute [17:34](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy?t=1054)
-- [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97 – 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen der Soravia-Gruppe zahlen müssen]] (2024-10-06) — Minute [29:15](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=1755)
+- [[097 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen|#97 – 275 Millionen Euro verschwunden – warum wohl 11.000 Anleger für die Pannen-Baustellen der Soravia-Gruppe zahlen müssen]] (2024-10-06) — Minute [29:15](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=1755), [1:08:58](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4?t=4138)
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Minute [8:41](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=521), [42:27](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2547)
 - [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Minute [2:11](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=131)
 

@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-11-20 |
 | **Dauer** | 46:37 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ) · [MP3](https://audio.podigee-cdn.net/909329-m-acf5f78ec35606de857e51a7989c8657.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/29-neue-episode) |
-| **Transkript** | [[Transkript 029]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 029]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]], [[Adler Group]] |
-| **Themen** | [[Betrug]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[Compliance]] |
+| **Themen** | [[Betrug]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[KPMG]], [[BaFin]] |
-| **Personen** | [[Ina Karabasz]], [[Jan Marsalek]], [[Stefan Kirsten]], [[Fraser Perring]] |
-| **Kurz erwähnt** | [[Marsalek und das russische Spionagenetzwerk]], [[Cum-Ex-Geschäfte]], [[Insolvenz]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Stefan Kirsten]], [[Cevdet Caner]], [[Fraser Perring]] |
+| **Kurz erwähnt** | [[Insolvenz]], [[Compliance]] |
 
 ## Shownotes
 
@@ -60,10 +60,10 @@ Findet Adler niemanden, der KPMGs Rolle übernimmt, ohne droht ein ungeprüfter 
 - [34:56](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2096) – Wir hatten am Anfang gesagt, weil das Unternehmen in Luxemburg sitzt, fühlt sich die BaFin nicht zuständig. Jetzt … ([[Transkript 029#Minute 34|Transkript]])
 - [37:02](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2222) – Sie hat ziemlich überraschend eine neue Personalie verkündet, einen neuen Hoffnungsträger, der wie eine Art weißer Ritter präsentiert … ([[Transkript 029#Minute 37|Transkript]])
 - [39:05](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2345) – Ja, wir haben ja vorhin gesagt, dass wir bislang das Gefühl hatten, dass Adler mehr oder weniger auf … ([[Transkript 029#Minute 39|Transkript]])
-- [41:06](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2466) – Die Sonderuntersuchung von KPMG, die es auch bei Wirecard gab, Vorwürfe der Bilanzmanipulation. Wir haben wieder den Frazier … ([[Transkript 029#Minute 41|Transkript]])
+- [41:06](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2466) – Die Sonderuntersuchung von KPMG, die es auch bei Wirecard gab, Vorwürfe der Bilanzmanipulation. Wir haben wieder den Fraser … ([[Transkript 029#Minute 41|Transkript]])
 - [43:08](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2588) – Adler werde seinen Weg finden als Bestandshalter und Projektentwickler weiterzumachen. Und genau, er legte dann eben offen, dass … ([[Transkript 029#Minute 43|Transkript]])
 - [45:10](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2710) – KPMG hat dann am 11. März einen ersten zusammenfassenden Entwurf der Ergebnisse der Sonderuntersuchung vorgelegt. Und wir erinnern … ([[Transkript 029#Minute 45|Transkript]])
-- [47:15](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2835) – Wir freuen uns natürlich wie immer über Feedback. Schicken Sie uns gerne eine E-Mail an crime-handelsbad.com. Schicken Sie … ([[Transkript 029#Minute 47|Transkript]])
+- [47:15](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=2835) – Wir freuen uns natürlich wie immer über Feedback. Schicken Sie uns gerne eine E-Mail an crime@handelsblatt.com. Schicken Sie … ([[Transkript 029#Minute 47|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -30,7 +30,7 @@ Die Bafin entdeckte Fehlbuchungen in Millionenhöhe, eine Kapitalerhöhung stand
 >
 > — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 3:26](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=206) · [[Transkript 052#Minute 3|im Transkript]]
 
-> … ein Jahr länger bei der Hülle der Löwen dabei als der Herr Kofler und rühmt sich halt, dass er also über 100 Gründer dort schon irgendwie bei ihrem Weg geholfen hat und dass einige …
+> … er ist ein Jahr länger bei der Höhle der Löwen dabei als der Herr Kofler und rühmt sich halt, dass er also über 100 Gründer dort schon irgendwie bei ihrem Weg geholfen hat und dass einige …
 >
 > — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 5:25](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=325) · [[Transkript 052#Minute 5|im Transkript]]
 

@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 11
+folgen: 10
 tags: [unternehmen]
 ---
 # Tesla
@@ -42,11 +42,11 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 0:07](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=7) · [[Transkript 058#Minute 0|im Transkript]]
 
-> … das Wichtigste zu sagen, dass das kein Spion war. Das war kein Tesla-Feind oder Elon Musk-Hasser oder so, sondern Lukas Skrubski war ein wahnsinniger Fan, sowohl von Tesla als auch von Elon Musk. Wir …
+> … das Wichtigste zu sagen, dass das kein Spion war. Das war kein Tesla-Feind oder Elon Musk-Hasser oder so, sondern Lukasz Krupski war ein wahnsinniger Fan, sowohl von Tesla als auch von Elon Musk. Wir kennen …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 3:00](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=180) · [[Transkript 058#Minute 3|im Transkript]]
 
-> … Stadt heißt Lilistrom, eine Automesse stattgefunden. Und auf dieser Messe hat auch Tesla seine Autos vorgestellt. Unter anderem das damals in Europa neue Model 3 präsentiert. Und Krupski war da auch anwesend. Das war, …
+> … Stadt heißt Lillestrøm, eine Automesse stattgefunden. Und auf dieser Messe hat auch Tesla seine Autos vorgestellt. Unter anderem das damals in Europa neue Model 3 präsentiert. Und Krupski war da auch anwesend. Das war, …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 4:43](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=283) · [[Transkript 058#Minute 4|im Transkript]]
 
@@ -58,7 +58,7 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 0:13](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=13) · [[Transkript 061#Minute 0|im Transkript]]
 
-> … wie es schien, war ich eine Belastung. Ich habe da viel über Tesla-Kritiker gelesen, über die Sachen, die Christina Ballard, Martin Tripp und Karl Hansen passiert sind. Und ich merke, wie per Pfusch das …
+> … wie es schien, war ich eine Belastung. Ich habe da viel über Tesla-Kritiker gelesen, über die Sachen, die Cristina Balan, Martin Tripp und Karl Hansen passiert sind. Und ich merke, wie per Pfusch das alles …
 >
 > — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 2:06](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=126) · [[Transkript 061#Minute 2|im Transkript]]
 
@@ -70,7 +70,7 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 5:36](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=336) · [[Transkript 061#Minute 5|im Transkript]]
 
-> … lang blieb der Whistleblower im Verborgenen. Als das Handelsblatt Ende Mai die Tesla-Files veröffentlichte, beobachtete Lukas Krupski das Geschehen aus seiner sicheren Wohnung. So dachte er jedenfalls. Doch dann, am 1. Juni, hämmerten schwarz …
+> … lang blieb der Whistleblower im Verborgenen. Als das Handelsblatt Ende Mai die Tesla-Files veröffentlichte, beobachtete Lukasz Krupski das Geschehen aus seiner sicheren Wohnung. So dachte er jedenfalls. Doch dann, am 1. Juni, hämmerten schwarz gekleidete …
 >
 > — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 0:07](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=7) · [[Transkript 063#Minute 0|im Transkript]]
 
@@ -102,14 +102,6 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 26:41](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1601) · [[Transkript 064#Minute 26|im Transkript]]
 
-> … es war damals so, wie es heute mit, sagen wir mal mit Tesla ist. Da kannst du ja hinschreiben, den ganzen Tag, da kriegst du nie eine Antwort. Die Frau Lehmann, Stefanie Lehmann, hat …
->
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 25:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1538) · [[Transkript 082#Minute 25|im Transkript]]
-
-> … so, wie wenn du über Volkswagen oder die Deutsche Bank schreibst oder Tesla oder solche Unternehmen geben die Zahlen. Also da wird alles bekannt gegeben. Gut, da gibt es auch Mängel. Aber alle drei …
->
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 59:08](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3548) · [[Transkript 082#Minute 59|im Transkript]]
-
 > … noch einen anderen großen Fall? Ja, also wir sind ja jetzt diese Tesla-Files, sind glaube ich noch eine Nummer größer, auch vom Arbeitsaufwand. Das sind ja diese Gigabyte von Daten, die wir da ausgewertet …
 >
 > — [[088 Meet the Team Lars-Marten Nagel|#88]], [Minute 9:24](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=564) · [[Transkript 088#Minute 9|im Transkript]]
@@ -134,23 +126,11 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 54:32](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=3272) · [[Transkript 112#Minute 54|im Transkript]]
 
-> … das klingt jetzt alles ein bisschen wild, aber wir haben in der Tesla-Sache zum Beispiel, bei der Elon Musk-Sache, da gab es mal ein Interview von genau dem J.D. Vance, dass der gesagt hat, …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 38:35](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2315) · [[Transkript 123#Minute 38|im Transkript]]
-
-> … Düsseldorf und zwar im ZAK. Da stellen wir unser neues Buch, die Tesla-Files, Enthüllungen aus dem Reich von Elon Musk vor. Es geht los um 20 Uhr, Einlass ist um 19 Uhr und die …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 42:22](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2542) · [[Transkript 123#Minute 42|im Transkript]]
-
-> … Loomer. It may sound wild, but we've seen this before. Think of Tesla and Elon Musk when J.D. Vance suggested the US might reconsider NATO commitments if the EU pressed too hard. Law and …
->
-> — [[124 English Version Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel|#124]], [Minute 27:19](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=1639) · [[Transkript 124#Minute 27|im Transkript]]
-
 > … two federal agencies that look at these things had been writing to Tesla and telling Tesla for years before our accident that they have a problem. And so you have federal regulators, independent investigators …
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 0:11](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=11) · [[Transkript 125#Minute 0|im Transkript]]
 
-> … Freund Dylan überlebte, schwer verletzt. Eine Jury in Florida hat nun entschieden, Tesla muss für diesen Unfall 242 Millionen Dollar zahlen. Zum ersten Mal steht Tesla damit vor einer solch hohen Strafe. Dabei gibt …
+> … Freund Dillon überlebte, schwer verletzt. Eine Jury in Florida hat nun entschieden, Tesla muss für diesen Unfall 242 Millionen Dollar zahlen. Zum ersten Mal steht Tesla damit vor einer solch hohen Strafe. Dabei gibt …
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 1:55](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=115) · [[Transkript 125#Minute 1|im Transkript]]
 
@@ -162,7 +142,7 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 5:34](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=334) · [[Transkript 125#Minute 5|im Transkript]]
 
-> … dem Nägäßchen plaudern. Na, immer gerne doch. Ja, das führt zurück zu Tesla. Das ist ja ein Thema, das wir hier auch schon oft besprochen haben. Das ist jetzt fast drei Jahre her, als …
+> … dem Nähkästchen plaudern. Na, immer gerne doch. Ja, das führt zurück zu Tesla. Das ist ja ein Thema, das wir hier auch schon oft besprochen haben. Das ist jetzt fast drei Jahre her, als …
 >
 > — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 5:24](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=324) · [[Transkript 129#Minute 5|im Transkript]]
 
@@ -174,11 +154,11 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 1:48](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=108) · [[Transkript 142#Minute 1|im Transkript]]
 
-> … spreche ich mit Investigativchef Sonke Iverson, der sich wie kein anderer bei Tesla in Grünheide auskennt. In diesem Podcast sprechen wir alle zwei Wochen über die spektakulärsten Streitfälle der deutschen Wirtschaft. Wer dahinter steckt, …
+> … Folge spreche ich mit Investigativchef Sönke Iwersen, der sich wie kein anderer bei Tesla in Grünheide auskennt. In diesem Podcast sprechen wir alle zwei Wochen über die spektakulärsten Streitfälle der deutschen Wirtschaft. Wer dahinter steckt, …
 >
 > — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 3:30](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=210) · [[Transkript 142#Minute 3|im Transkript]]
 
-> … Wirtschaftsmedium ganz genau hingucken. Auf jeden Fall, denn wir hatten, also als Tesla damals in Grünheide in Brandenburg investiert hat, das war eine Riesengeschichte, das war ein großer Scoop, muss man auch sagen, für …
+> … Wirtschaftsmedium ganz genau hingucken. Auf jeden Fall, denn wir hatten, also als Tesla damals in Grünheide in Brandenburg investiert hat, das war eine Riesengeschichte, das war ein großer Coup, muss man auch sagen, für die …
 >
 > — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 5:15](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=315) · [[Transkript 142#Minute 5|im Transkript]]
 
@@ -214,7 +194,7 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 6:21](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=381) · [[Transkript 162#Minute 6|im Transkript]]
 
-## In diesen Folgen (11)
+## In diesen Folgen (10)
 
 - [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Shownotes · Minute [0:00](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=0), [1:32](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=92), [3:11](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=191), [4:56](https://open.spotify.com/episode/35oqJhOAkHLZib7wp20CHh?t=296)
 - [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Shownotes · Minute [0:07](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=7), [3:00](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=180), [4:43](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=283), [6:18](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=378)
@@ -222,18 +202,15 @@ In Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstä
 - [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:07](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=7), [3:21](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=201), [5:19](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=319), [7:58](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=478)
 - [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Shownotes · Minute [20:49](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1249), [22:51](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1371), [24:53](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1493), [26:41](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1601)
 - [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes · Minute [0:13](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=13), [1:45](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=105), [3:37](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=217), [5:29](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=329)
-- [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123 – Der Fall Daniel Starr: Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nicht, warum]] (2025-08-24) — Minute [38:35](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2315), [42:22](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=2542)
 - [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes · Minute [0:11](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=11), [1:55](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=115), [3:47](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=227), [5:34](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=334)
 - [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Shownotes · Minute [0:05](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=5), [1:48](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=108), [3:30](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=210), [5:15](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=315)
 - [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes · Minute [6:07](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=367), [8:33](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=513), [12:32](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=752), [20:01](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1201)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [0:40](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=40), [2:25](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=145), [4:05](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=245), [6:21](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=381)
 
-## Kurz erwähnt (5)
+## Kurz erwähnt (3)
 
-- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Minute [25:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=1538), [59:08](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3548)
 - [[088 Meet the Team Lars-Marten Nagel|#88 – Meet the Team: Lars-Marten Nagel]] (2024-07-13) — Minute [9:24](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=564)
 - [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Minute [54:32](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=3272)
-- [[124 English Version Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel|#124 – English Version: Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel Starr]] (2025-09-02) — Minute [27:19](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ?t=1639)
 - [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Minute [5:24](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=324)
 
 ---

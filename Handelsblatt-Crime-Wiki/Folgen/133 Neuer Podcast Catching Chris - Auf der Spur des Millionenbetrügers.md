@@ -18,7 +18,7 @@ tags: [folge, jahr-2025, hinweis]
 | **Datum** | 2025-11-12 |
 | **Dauer** | 1:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0PHsUSiMI4Iwvp70uXvs18) · [MP3](https://audio.podigee-cdn.net/2207244-m-cd6dde00b893a3592cd7c3765182715e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/133-neuer-podcast-catching-chris-auf-der-spur-des-millionenbetrugers) |
-| **Transkript** | [[Transkript 133]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 133]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | – |
 | **Themen** | [[Hochstapler]] |
 | **Unternehmen** | – |

@@ -24,7 +24,7 @@ _Investigativ-Redakteur; Autoindustrie, Dieselgate, Porsche und Volkswagen._
 >
 > — [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9]], [Minute 28:27](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=1707) · [[Transkript 009#Minute 28|im Transkript]]
 
-> … uns im Podcast. Matthias Brückmann, eben schon erwähnt, unser Russland-Experte. Außerdem Martin Murphy, Co-Investigativ-Chef und Carsten Volkeri, unser London-Korrespondent. In diesem Podcast sprechen wir alle zwei Wochen über die größten Wirtschaftskriminalfälle in Deutschland. In …
+> … uns im Podcast. Matthias Brüggmann, eben schon erwähnt, unser Russland-Experte. Außerdem Martin Murphy, Co-Investigativ-Chef und Carsten Volkery, unser London-Korrespondent. In diesem Podcast sprechen wir alle zwei Wochen über die größten Wirtschaftskriminalfälle in Deutschland. In …
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 2:22](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=142) · [[Transkript 010#Minute 2|im Transkript]]
 

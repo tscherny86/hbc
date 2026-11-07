@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 3
+folgen: 4
 tags: [personen]
 ---
 # Lukasz Krupski
@@ -26,21 +26,37 @@ Krupski entdeckte Mängel bei der Arbeitssicherheit und erhebliche Datenschutzpr
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 0:06](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=6) · [[Transkript 058#Minute 0|im Transkript]]
 
+> … lasst uns mal ganz vorne anfangen beim Namen des Whistleblowers. Er heißt Lukasz Krupski. Was ist das Erste, das man über ihn wissen sollte, wenn man sich mit dieser Geschichte beschäftigen möchte? Ja, darauf haben …
+>
+> — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 2:25](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=145) · [[Transkript 058#Minute 2|im Transkript]]
+
 > … vorgestellt. Unter anderem das damals in Europa neue Model 3 präsentiert. Und Krupski war da auch anwesend. Das war, man muss sich das vorstellen, das war so eine große Halle in der Mitte getrennt. …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 4:51](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=291) · [[Transkript 058#Minute 4|im Transkript]]
 
-> … es ist dieser Stromverstärker, der da eingebaut war, Battery Booster, nennt er Krupsky das immer, da hatte jemand falsch dran gearbeitet und deshalb hat er einfach Feuer gefangen. Aber natürlich, also stellen wir mal …
+> … es ist dieser Stromverstärker, der da eingebaut war, Battery Booster, nennt er Krupski das immer, da hatte jemand falsch dran gearbeitet und deshalb hat er einfach Feuer gefangen. Aber natürlich, also stellen wir mal …
 >
 > — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 6:41](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=401) · [[Transkript 058#Minute 6|im Transkript]]
 
-> … es sind nur wenige Stunden später, schreibt Musk dann eine E-Mail an Krupsky. Danke und herzlichen Glückwunsch zur Rettung des Tages. Diese Worte, die gehen runter wie Butter. War das etwas, was euch überrascht …
+> … Licht gebracht hat. Den Mann hinter den Tesla-Files. Zum allerersten Mal tritt Lukasz Krupski aus dem Schutz der Anonymität. Und zwar nicht nur vor das Podcast-Mikrofon, sondern auch vor die Kamera. Noch nie hat Lukasz Krupski …
 >
-> — [[058 Der Mann hinter den Tesla-Files|#58]], [Minute 8:25](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=505) · [[Transkript 058#Minute 8|im Transkript]]
+> — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 0:25](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=25) · [[Transkript 061#Minute 0|im Transkript]]
 
-> … im Verborgenen. Als das Handelsblatt Ende Mai die Tesla-Files veröffentlichte, beobachtete Lukas Krupski das Geschehen aus seiner sicheren Wohnung. So dachte er jedenfalls. Doch dann, am 1. Juni, hämmerten schwarz gekleidete Männer in schusssicheren …
+> … erlebt hat, und wie es dazu kam, dass eine ehemalige CIA-Agentin auf Krupski angesetzt wurde. Das und mehr hören und sehen Sie in unserem exklusiven Videopodcast von Handelsblatt Crime. Das Gespräch finden Sie in …
+>
+> — [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61]], [Minute 6:34](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=394) · [[Transkript 061#Minute 6|im Transkript]]
+
+> … Whistleblower im Verborgenen. Als das Handelsblatt Ende Mai die Tesla-Files veröffentlichte, beobachtete Lukasz Krupski das Geschehen aus seiner sicheren Wohnung. So dachte er jedenfalls. Doch dann, am 1. Juni, hämmerten schwarz gekleidete Männer in schusssicheren …
 >
 > — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 0:10](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=10) · [[Transkript 063#Minute 0|im Transkript]]
+
+> … warum? Warum sind Sie jetzt nicht mehr ein Whistleblower, sondern der Whistleblower Krupski? Eigentlich wollte ich anonym bleiben. Ich habe gehofft, dass sich das auflöst und dass ich anonym bleiben kann. Ich wollte mit …
+>
+> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 36:11](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=2171) · [[Transkript 063#Minute 36|im Transkript]]
+
+> … zu erkennen. Ja, liebe Hörerinnen, liebe Hörer, das war das Handelsblatt-Crime-Interview mit Lukasz Krupski, dem Whistleblower von Tesla. Natürlich ist es wie bei allen Interviews so, dass die Aussagen nur die Sicht aus einer Perspektive …
+>
+> — [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63]], [Minute 41:05](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=2465) · [[Transkript 063#Minute 41|im Transkript]]
 
 > … Und insofern, das ist der Grund, warum wir seinen vollen Namen, Lukasz Krupski, warum wir den nennen können und warum wir den jetzt auch zeigen können auf YouTube, auf Instagram und überall. Ja, danke …
 >
@@ -49,6 +65,10 @@ Krupski entdeckte Mängel bei der Arbeitssicherheit und erhebliche Datenschutzpr
 > … hilft, wenn was gut läuft und die Leute sehen, also wie bei Krupski, bei Tesla, und dann kriegt er einen Preis und inzwischen geht es ihm auch wieder besser. Bei Missständen ist es auch …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 39:54](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2394) · [[Transkript 064#Minute 39|im Transkript]]
+
+> … hat dann später auch nach vorne gekommen und hat seinen Namen gesagt, Lukasz Krupski. Wir haben ja auch eine Folge dazu hier in Handelsblatt Crime gemacht. Das war im Sommer 2023. Also Sie können hier im Feed …
+>
+> — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 31:56](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=1916) · [[Transkript 110#Minute 31|im Transkript]]
 
 > … der Fan. Die zentrale Figur bei den Tesla-Files ist euer Whistleblower, Lukasz Krupski. Und ohne ihn gäbe es tatsächlich natürlich weder die Tesla-Files noch diesen Film. Wir haben dazu, zu ihm auch schon einzelne …
 >
@@ -62,15 +82,17 @@ Krupski entdeckte Mängel bei der Arbeitssicherheit und erhebliche Datenschutzpr
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 11:57](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=717) · [[Transkript 162#Minute 11|im Transkript]]
 
-## In diesen Folgen (3)
+## In diesen Folgen (4)
 
-- [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Shownotes · Minute [0:06](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=6), [4:51](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=291), [6:41](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=401), [8:25](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=505)
-- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:10](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=10)
+- [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Shownotes · Minute [0:06](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=6), [2:25](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=145), [4:51](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=291), [6:41](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9?t=401)
+- [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61 – Crime-Investigativ: Jetzt spricht erstmals der Whistleblower über die Tesla-Files]] (2023-11-10) — Shownotes · Minute [0:25](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=25), [6:34](https://open.spotify.com/episode/7xdCCK3H4O46d7RABOH1Py?t=394)
+- [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes · Minute [0:10](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=10), [36:11](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=2171), [41:05](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN?t=2465)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Minute [7:56](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=476), [10:00](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=600), [11:57](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=717)
 
-## Kurz erwähnt (1)
+## Kurz erwähnt (2)
 
 - [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [32:20](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=1940), [39:54](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2394)
+- [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Minute [31:56](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=1916)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

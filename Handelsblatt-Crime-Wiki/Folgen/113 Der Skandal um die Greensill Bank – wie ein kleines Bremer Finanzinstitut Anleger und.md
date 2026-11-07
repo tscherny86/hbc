@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-05-04 |
 | **Dauer** | 58:20 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75) · [MP3](https://audio.podigee-cdn.net/1865503-m-be1f173ef6a1421441fa168903426433.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/113-skandal-um-die-greensill-bank) |
-| **Transkript** | [[Transkript 113]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]] |
+| **Transkript** | [[Transkript 113]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[Greensill Bank]] |
 | **Themen** | [[Insolvenz]], [[Insolvenzverwalter]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[Greensill Bank]], [[BaFin]] |
+| **Unternehmen** | [[BaFin]] |
 | **Personen** | [[Ina Karabasz]], [[Lex Greensill]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Falscher Baron von Krupp]], [[Markus Braun]], [[Wirtschaftsprüfung]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Markus Braun]], [[Cum-Ex-Geschäfte]], [[Wirtschaftsprüfung]] |
 
 ## Shownotes
 
@@ -66,7 +66,7 @@ Ein Hinweis für Hörerinnen und Hörer, die regelmäßig das Handelsblatt lesen
 - [35:22](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2122) – Ja, die Pläne sind dann aber nicht verwirklicht worden. Da dürfte auch der Kollaps von Greensill eine gewisse … ([[Transkript 113#Minute 35|Transkript]])
 - [37:24](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2244) – Also er hat sich ja scheinbar nicht nur verzockt. Nee, also es deutet doch einiges darauf hin, dass … ([[Transkript 113#Minute 37|Transkript]])
 - [39:25](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2365) – Wie wichtig, René, war denn eigentlich diese Bank in diesem größeren Geflecht, was Greensill aufgebaut hatte? Ja, schon … ([[Transkript 113#Minute 39|Transkript]])
-- [41:37](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2497) – Ja, mir fällt ad hoc spontan in der Reihe noch als Kölnerin Saal Oppenheim ein, die waren jetzt … ([[Transkript 113#Minute 41|Transkript]])
+- [41:37](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2497) – Ja, mir fällt ad hoc spontan in der Reihe noch als Kölnerin Sal. Oppenheim ein, die waren jetzt … ([[Transkript 113#Minute 41|Transkript]])
 - [43:40](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2620) – Da war dann wiederum eine Folge, dass Softbank sich zurückzog. Das ist aber eine ganze Zeit, ja, doch … ([[Transkript 113#Minute 43|Transkript]])
 - [45:43](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2743) – Also René, wie ging es dann weiter? Ja, im Zwischenzeitraum sind dann im Hintergrund noch viele Dinge passiert, … ([[Transkript 113#Minute 45|Transkript]])
 - [47:45](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=2865) – Er erklärt dann wenig später auf so einer Fintech-Konferenz, Covid hat unser Geschäft beschleunigt und die Mitarbeiterzahl verdoppelt. … ([[Transkript 113#Minute 47|Transkript]])

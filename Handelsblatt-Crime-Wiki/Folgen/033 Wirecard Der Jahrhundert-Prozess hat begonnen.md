@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-12-08 |
 | **Dauer** | 1:02:13 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A) · [MP3](https://audio.podigee-cdn.net/958043-m-3c782fccc96f31822306dd680fc82568.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/33-neue-episode) |
-| **Transkript** | [[Transkript 033]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 033]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]] |
-| **Themen** | [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]] |
+| **Themen** | [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Landgericht München]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Felix Holtermann]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Stephan von Erffa]], [[Alfred Dierlamm]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]], [[Audi-Dieselskandal]], [[Olaf Scholz]], [[Cum-Ex-Geschäfte]], [[Betrug]], [[Insolvenz]], [[Wirtschaftsprüfung]], [[Strafverteidigung]], [[Audi]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[EY im Wirecard-Skandal]], [[Olaf Scholz]], [[Cum-Ex-Geschäfte]], [[Betrug]], [[Insolvenz]], [[Wirtschaftsprüfung]], [[Strafverteidigung]], [[EY (Ernst & Young)]] |
 
 ## Shownotes
 
@@ -44,7 +44,7 @@ Die Akte Wirecard - Hier finden Sie alle Hintergründe zum Skandal
 
 ## Zeitmarken
 
-- [0:07](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=7) – Herzlich willkommen zu dieser Sonderfolge von Handelsbloodcrime, dem Podcast, bei dem wir normalerweise alle zwei Wochen über Deutschlands … ([[Transkript 033#Minute 0|Transkript]])
+- [0:07](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=7) – Herzlich willkommen zu dieser Sonderfolge von Handelsblatt Crime, dem Podcast, bei dem wir normalerweise alle zwei Wochen über … ([[Transkript 033#Minute 0|Transkript]])
 - [2:14](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=134) – Hallo Ina. Hallo Ina. Ich freue mich tatsächlich, euch zu sehen, zu hören. Auf diesen Tag haben wir, … ([[Transkript 033#Minute 2|Transkript]])
 - [4:19](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=259) – Er ist der Kronzeuge der Anklage und hat Markus Braun schwer belastet, sich selber auch, indem er gesagt … ([[Transkript 033#Minute 4|Transkript]])
 - [6:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=386) – Er sitzt ihm wirklich im Nacken. Und wie die aufeinander reagiert haben, Markus Braun, auch wie der wirkt, … ([[Transkript 033#Minute 6|Transkript]])
@@ -57,12 +57,12 @@ Die Akte Wirecard - Hier finden Sie alle Hintergründe zum Skandal
 - [21:05](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1265) – Wir haben den Bellenhaus ja in einem unserer großen Wochenendtitel sehr, sehr gründlich beschrieben und das ist schon … ([[Transkript 033#Minute 21|Transkript]])
 - [23:45](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1425) – Was aber festgehalten ist, ist eben ein Hin und Her und wie er ihn, diesen Mitarbeiter eben direkt … ([[Transkript 033#Minute 23|Transkript]])
 - [25:48](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1548) – Die Investoren, die Millionen mit Cum-Ex-Geschäften verdient haben, wussten überhaupt nicht, was das für Geschäfte waren, indem sie … ([[Transkript 033#Minute 25|Transkript]])
-- [27:49](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1669) – René? Ja, nach 20 Jahren wäre das Ganze verjährt und dann könnte Jan Marzalek tatsächlich demnach wieder nach … ([[Transkript 033#Minute 27|Transkript]])
+- [27:49](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1669) – René? Ja, nach 20 Jahren wäre das Ganze verjährt und dann könnte Jan Marsalek tatsächlich demnach wieder nach … ([[Transkript 033#Minute 27|Transkript]])
 - [29:51](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1791) – Und ja, wie wir wissen, war das Geld da nicht und diese philippinischen Banken haben niemals auch nur … ([[Transkript 033#Minute 29|Transkript]])
 - [31:58](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1918) – Du hast gerade schon die Sonderprüfung angesprochen. Da kommen wir sehr gut über auch zum nächsten Punkt, den … ([[Transkript 033#Minute 31|Transkript]])
 - [34:18](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2058) – Also aufgrund dieser Informationen, die Marsalek dann rüber geschoben hat und Braun weitergegeben hat an Japan, flossen dann … ([[Transkript 033#Minute 34|Transkript]])
-- [36:21](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2181) – Also Wirecard war ja immer wieder in in Rede, da stimmen Dinge nicht und der Rufer angekratzt. Ja, … ([[Transkript 033#Minute 36|Transkript]])
-- [38:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2306) – Das ist Stefan von Erfa. Er war Chefbuchhalter und hätte natürlich wahrscheinlich qua seiner Profession, seiner Position vor … ([[Transkript 033#Minute 38|Transkript]])
+- [36:21](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2181) – Also Wirecard war ja immer wieder in in Rede, da stimmen Dinge nicht und der Ruf war angekratzt. … ([[Transkript 033#Minute 36|Transkript]])
+- [38:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2306) – Das ist Stephan von Erffa. Er war Chefbuchhalter und hätte natürlich wahrscheinlich qua seiner Profession, seiner Position vor … ([[Transkript 033#Minute 38|Transkript]])
 - [40:30](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2430) – Andere Sachen hat er abgestritten oder mit Nichtwissen so bestritten. Wir wissen aber auch, dass 2019, als die … ([[Transkript 033#Minute 40|Transkript]])
 - [42:33](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2553) – So ist es, genau. Also, man kann letztlich davon ausgehen, dass es jetzt bis in den Nachmittag die … ([[Transkript 033#Minute 42|Transkript]])
 - [44:36](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2676) – Wir begleiten diesen Prozess natürlich sehr nah. Wir sind sehr daran interessiert, die Aufklärung mitzuverfolgen. Und wenn Sie … ([[Transkript 033#Minute 44|Transkript]])

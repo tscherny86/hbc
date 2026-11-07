@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-12-18 |
 | **Dauer** | 40:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD) · [MP3](https://audio.podigee-cdn.net/918185-m-32064f168da4d5a205e871e785dc1ee8.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/31-neue-episode) |
-| **Transkript** | [[Transkript 031]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 031]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Freshfields und Cum-Ex]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | [[Volkswagen]], [[Freshfields]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Unternehmen** | [[Freshfields]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Olaf Scholz]], [[Ulf Johannemann]] |
-| **Kurz erwähnt** | [[Warburg Bank und Christian Olearius]], [[Dieselgate (Volkswagen)]], [[Steuerfahndung]], [[M.M. Warburg]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Warburg Bank und Christian Olearius]], [[Dieselgate (Volkswagen)]], [[M.M. Warburg]] |
 
 ## Shownotes
 
@@ -74,7 +74,7 @@ Ab sofort sind wir bei WhatsApp, Signal und Telegram über folgende Nummer errei
 - [25:13](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=1513) – Die Banken haben ja erstmal gesagt, die haben das ja einfach runter raus abgestritten, solche Geschäfte überhaupt gemacht … ([[Transkript 031#Minute 25|Transkript]])
 - [27:16](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=1636) – Das steht uns allen noch bevor und das werden wir natürlich auch beobachten. Genau. Und deswegen wollen wir … ([[Transkript 031#Minute 27|Transkript]])
 - [29:18](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=1758) – Und wenn die sich alle gestützt haben auf Rechtsgutachten dieser Kanzlei, dann ist es relativ naheliegend, sich an … ([[Transkript 031#Minute 29|Transkript]])
-- [31:24](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=1884) – Das ist total spannend. Vielleicht sollten wir da ein bisschen genauer hinschauen. Du hast ja schon den Pfeil … ([[Transkript 031#Minute 31|Transkript]])
+- [31:24](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=1884) – Das ist total spannend. Vielleicht sollten wir da ein bisschen genauer hinschauen. Du hast ja schon den Fall … ([[Transkript 031#Minute 31|Transkript]])
 - [33:30](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=2010) – Also für die Kunden der Maple-Bank war das natürlich ein ziemlicher Bruch. Und es gibt keinen anderen Grund … ([[Transkript 031#Minute 33|Transkript]])
 - [35:42](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=2142) – Und dann haben die das aber gesehen. Und so ist ja auch der ganze Warburg-Fall hochgekommen. Und noch … ([[Transkript 031#Minute 35|Transkript]])
 - [37:45](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD?t=2265) – Ja gut, an so einem Thema kam es dann nicht vorbei. Also das ist dann gewaltig und das … ([[Transkript 031#Minute 37|Transkript]])

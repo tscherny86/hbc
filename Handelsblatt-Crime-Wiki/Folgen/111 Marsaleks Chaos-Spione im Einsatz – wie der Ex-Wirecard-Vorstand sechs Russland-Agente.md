@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-04-06 |
 | **Dauer** | 54:18 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ) · [MP3](https://audio.podigee-cdn.net/1791717-m-4fb6cff1327599a7fc0bebd27e05423d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/111-neue-episode) |
-| **Transkript** | [[Transkript 111]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 111]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
 | **Themen** | [[Spionage]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Jan Marsalek]], [[Markus Braun]], [[Stephan von Erffa]] |
-| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Lars-Marten Nagel]], [[Jan Marsalek]], [[Markus Braun]], [[Stephan von Erffa]] |
+| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 
@@ -52,7 +52,7 @@ Chefermittlerin im Wirecard-Prozess
 
 ## Zeitmarken
 
-- [0:05](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=5) – Ein ganz kurzer Einschub, bevor es losgeht. Und zwar gibt es eine Ankündigung. Das Hannes Bad Crime Team … ([[Transkript 111#Minute 0|Transkript]])
+- [0:05](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=5) – Ein ganz kurzer Einschub, bevor es losgeht. Und zwar gibt es eine Ankündigung. Das Handelsblatt Crime Team kommt … ([[Transkript 111#Minute 0|Transkript]])
 - [2:06](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=126) – Sie haben den Prozess verfolgt und, so viel kann ich schon vorwegnehmen, diese Bulgaren-Bande dürfte die Geschichte der … ([[Transkript 111#Minute 2|Transkript]])
 - [4:18](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=258) – Und die waren nicht nur in Großbritannien aktiv, sondern sind kreuz und quer durch Europa, haben unter anderem … ([[Transkript 111#Minute 4|Transkript]])
 - [6:19](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=379) – Grüner Teppich, ja, Holzwände, irgendwie so schon abgenutzte Schreibtische, die so ein bisschen wie in der Schule alle … ([[Transkript 111#Minute 6|Transkript]])
@@ -68,10 +68,10 @@ Chefermittlerin im Wirecard-Prozess
 - [27:31](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=1651) – Und da gibt es natürlich ein immanentes Interesse in Moskau, dass man den Kasachen suggeriert, hey, wir sind … ([[Transkript 111#Minute 27|Transkript]])
 - [29:32](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=1772) – Was genau ist denn mittlerweile zu diesen Aktionen publik? Ja, da gibt es einiges. Vielleicht sprechen wir über … ([[Transkript 111#Minute 29|Transkript]])
 - [31:38](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=1898) – Und das Ganze ist halt aufgeflogen, und der Skripal ist auch nicht gleich gestorben, das war halt alles … ([[Transkript 111#Minute 31|Transkript]])
-- [33:50](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2030) – Und ja, Grosev half eben auch den Mörder im Berliner Tiergarten als russischen Attentäter zu identifizieren, der eben … ([[Transkript 111#Minute 33|Transkript]])
-- [35:52](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2152) – Grosev selbst hat später also erzählt, dass ihn auch mal der Nawalny gewarnt hat und der hat ihn … ([[Transkript 111#Minute 35|Transkript]])
+- [33:50](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2030) – Und ja, Grozev half eben auch den Mörder im Berliner Tiergarten als russischen Attentäter zu identifizieren, der eben … ([[Transkript 111#Minute 33|Transkript]])
+- [35:52](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2152) – Grozev selbst hat später also erzählt, dass ihn auch mal der Nawalny gewarnt hat und der hat ihn … ([[Transkript 111#Minute 35|Transkript]])
 - [37:53](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2273) – Du hast es eben schon angesprochen, Lars hat es angesprochen, die Idee mit den Säureanschlägen zu den Mordplänen … ([[Transkript 111#Minute 37|Transkript]])
-- [40:17](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2417) – Und ja, allein für die Beschattung von Grossef auf einer Konferenz in Valencia waren wohl auch 47.000 Euro … ([[Transkript 111#Minute 40|Transkript]])
+- [40:17](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2417) – Und ja, allein für die Beschattung von Grozev auf einer Konferenz in Valencia waren wohl auch 47.000 Euro … ([[Transkript 111#Minute 40|Transkript]])
 - [42:23](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2543) – Weil das wird ja sozusagen ihre Ziele konterkarieren und untergraben. Und jetzt ist, dann entwickelt sich dann so … ([[Transkript 111#Minute 42|Transkript]])
 - [44:25](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2665) – Und, ach, da sind so wilde Sachen dabei, wo einer dann den beiden, oder einer der beiden Frauen … ([[Transkript 111#Minute 44|Transkript]])
 - [46:27](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=2787) – Also wenn die Entscheidung gefallen ist, ihm was anzutun, dann bringt das jetzt auch nichts aufzuhören und deswegen … ([[Transkript 111#Minute 46|Transkript]])

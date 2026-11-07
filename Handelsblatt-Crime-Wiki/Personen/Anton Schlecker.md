@@ -30,19 +30,19 @@ _Drogeriekönig aus Ehingen, dessen Imperium 2012 kollabierte; 2017 verurteilt, 
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=98) · [[Transkript 082#Minute 1|im Transkript]]
 
-> … muss sagen, also unser Hörer lag ja mit seinem Wunsch nach der Schlecker-Story wirklich goldrichtig, denn wir haben jahrelang nichts mehr gehört. Ich muss auch sagen, ich hatte das nicht mehr so präsent, das …
+> … auch schon hier bei uns, investigativ unterwegs. Und er hat monatelang in Sachen Schlecker recherchiert und sogar einen sehr renommierten Journalistenpreis gewonnen, 2013. Und ja, das war für ihn natürlich sowohl Ehre als auch Ansporn. …
 >
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 4:11](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=251) · [[Transkript 082#Minute 4|im Transkript]]
+> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 3:23](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=203) · [[Transkript 082#Minute 3|im Transkript]]
 
-> … ich glaube wahrscheinlich sogar alle, sind ja mittlerweile auch tatsächlich verschwunden. Aber Schlecker war ja nicht immer so ein Pleiteladen. Nee, überhaupt nicht. Das ist natürlich ein bisschen traurig, wenn man heute an Schlecker …
+> … der Insolvenz. Man sagt ja, 2010, vielleicht auch schon ab 2009 war Schlecker eigentlich kaum noch, also profitabel sowieso schon nicht mehr seit Jahren, aber kaum noch handlungsfähig und auch schon insolvenzgefährdet. Deshalb war …
 >
-> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 6:00](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=360) · [[Transkript 082#Minute 6|im Transkript]]
+> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 5:00](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=300) · [[Transkript 082#Minute 5|im Transkript]]
 
 > 45 Jahre nachdem ein Metzger namens Anton Schlecker seine erste Drogerie eröffnete, liegt das Imperium am Boden. In ganz Deutschland wurden gestern 2200 Schlecker-Filialen geschlossen. Im Zusammenhang mit …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 0:03](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3) · [[Transkript 084#Minute 0|im Transkript]]
 
-> … An dem viele sich gefragt haben, was eigentlich macht den Erfolg von Schlecker aus? Denn man muss sagen, zu diesem Zeitpunkt bereits fiel der Umsatz von Schlecker immer mehr hinter der Konkurrenz zurück. Die …
+> … An dem viele sich gefragt haben, was eigentlich macht den Erfolg von Schlecker aus? Denn man muss sagen, zu diesem Zeitpunkt bereits fiel der Umsatz von Schlecker immer mehr hinter der Konkurrenz zurück. DM …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 1:57](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=117) · [[Transkript 084#Minute 1|im Transkript]]
 
@@ -56,7 +56,7 @@ _Drogeriekönig aus Ehingen, dessen Imperium 2012 kollabierte; 2017 verurteilt, 
 
 ## In diesen Folgen (2)
 
-- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Shownotes · Minute [0:03](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3), [1:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=98), [4:11](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=251), [6:00](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=360)
+- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Shownotes · Minute [0:03](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3), [1:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=98), [3:23](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=203), [5:00](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=300)
 - [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84 – Der Fall Schlecker: Teil 2 – der Abstieg]] (2024-06-29) — Shownotes · Minute [0:03](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3), [1:57](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=117), [3:58](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=238), [5:31](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=331)
 
 ---

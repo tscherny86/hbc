@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-05-04 |
 | **Dauer** | 1:09:35 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw) · [MP3](https://audio.podigee-cdn.net/1439134-m-4540a62c766f64a540553e331842e37e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/76-cum-ex-kronzeuge) |
-| **Transkript** | [[Transkript 076]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 076]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
-| **Unternehmen** | [[Porsche]], [[M.M. Warburg]], [[Staatsanwaltschaft Köln]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]] |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Hanno Berger]], [[Kai-Uwe Steck]] |
-| **Kurz erwähnt** | [[Freshfields und Cum-Ex]], [[Wirecard]], [[Porsche-Ikone vor Gericht]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Strafverteidigung]], [[KPMG]] |
+| **Kurz erwähnt** | [[Freshfields und Cum-Ex]], [[Wirecard]], [[Steuerhinterziehung]], [[Strafverteidigung]], [[KPMG]] |
 
 ## Shownotes
 
@@ -70,16 +70,16 @@ In diesem Podcast spricht Moderatorin Solveig Gode mit den Handelsblatt-Investig
 - [29:10](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=1750) – Hier in diesem einen Konstrukt, das hier steht da, da ist was nicht ganz in Ordnung. Und das … ([[Transkript 076#Minute 29|Transkript]])
 - [31:15](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=1875) – Also der Berger und sein Team hatten halt Kontakt in die Finanzverwaltung, in die Finanzministerien, ins Bundeszentralamt für … ([[Transkript 076#Minute 31|Transkript]])
 - [33:33](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2013) – Oh, nette Dienstreise. Dienstreise, so sah es erstmal aus. Und in der Sitzordnung, da saß der Frey also … ([[Transkript 076#Minute 33|Transkript]])
-- [35:37](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2137) – Also nochmal in Erinnerung, das andere Alphatier von vorhin. Genau, aber er war halt bei Sherman war ja … ([[Transkript 076#Minute 35|Transkript]])
+- [35:37](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2137) – Also nochmal in Erinnerung, das andere Alphatier von vorhin. Genau, aber er war halt bei Shearman war ja … ([[Transkript 076#Minute 35|Transkript]])
 - [37:44](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2264) – Sie sind zusammen ein kongeniales Duo, eigentlich läuft alles super. Er verdient eine Million Euro. Wie kommen Sie … ([[Transkript 076#Minute 37|Transkript]])
 - [39:47](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2387) – Aber da gab es halt ein Gutachten zum Beispiel von Freshfields, die gesagt haben, das ist schon möglich. … ([[Transkript 076#Minute 39|Transkript]])
 - [41:49](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2509) – Das war aber nur ein Test-Deal, muss man sagen. Das war noch 2006 für die Warburg-Bank. Und dann … ([[Transkript 076#Minute 41|Transkript]])
 - [43:52](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2632) – Und deswegen war das alles nur Pseudo. Also das war im Grunde eine Briefkastenfirma, die gegründet wurde, um … ([[Transkript 076#Minute 43|Transkript]])
 - [45:53](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2753) – Irgendwie auch allen zu erzählen, dass sie anderen Idioten sind. Aber gleichzeitig hat er beschrieben, dass es zu … ([[Transkript 076#Minute 45|Transkript]])
 - [47:56](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=2876) – Einerseits halten sie sich für die Schlauen und die besten Anwälte. Und Anwälte sind ja Vertreter des Rechts, … ([[Transkript 076#Minute 47|Transkript]])
-- [50:02](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3002) – Und Frei hat dann darauf auch reagiert. Also er hat mehrere Geschäftspartner-Mails geschrieben, die relativ eindeutig waren. Zum … ([[Transkript 076#Minute 50|Transkript]])
+- [50:02](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3002) – Und Frey hat dann darauf auch reagiert. Also er hat mehrere Geschäftspartner-Mails geschrieben, die relativ eindeutig waren. Zum … ([[Transkript 076#Minute 50|Transkript]])
 - [52:04](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3124) – Da gehen jahrelang diese ganzen, ja dieses Steuerschlupfloch quasi, das geht gut. Und dann ist da auf einmal … ([[Transkript 076#Minute 52|Transkript]])
-- [54:07](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3247) – Richtig? Ja, Fake-Gutachten. Also im Grunde genommen ja. Ja, so beschreibt der Freie, also sein Bergers ehemaliger Protégé … ([[Transkript 076#Minute 54|Transkript]])
+- [54:07](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3247) – Richtig? Ja, Fake-Gutachten. Also im Grunde genommen ja. Ja, so beschreibt der Frey, also sein Bergers ehemaliger Protégé … ([[Transkript 076#Minute 54|Transkript]])
 - [56:09](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3369) – Und wie kam es da jetzt zum Bruch zwischen den beiden? Ja, das war ein langer Weg. Also … ([[Transkript 076#Minute 56|Transkript]])
 - [58:12](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3492) – Ich glaube, man muss auch dazu sagen, dass die zwar Seite an Seite waren, aber sie waren halt … ([[Transkript 076#Minute 58|Transkript]])
 - [1:00:14](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=3614) – Ja, das ist ganz schwer zu prognostizieren. Also was wir sagen können, er hat zurückgezahlt einen Betrag von … ([[Transkript 076#Minute 60|Transkript]])

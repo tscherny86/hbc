@@ -1,0 +1,32 @@
+# Musterprobleme aus den Prüfwellen (vor dem Endbau beheben)
+- Volkswagen / Dieselgate (Volkswagen): trifft „Volkswagen-Stiftung“ (137) -> Negativ-Lookahead (?!-?Stiftung)
+- Jürgen Barth / Porsche-Ikone vor Gericht: „Barth“ trifft Klaus Bath (156, Teldafax) und Hubert Barth (EY, 135) -> nur „Jürgen Barth“
+- Spionage: „Geheimdienst“ allein reicht nicht (161) -> min erhöhen
+- Felix Holtermann: nur Nebenerwähnungen (154) -> min 3
+- Cyberangriff und Ransomware: „Hacker“ allein zu breit (125) -> min erhöhen oder Muster enger
+- Tesla / Elon Musk: Vergleiche in Nebensätzen werden HAUPT (123, 124) -> min für Tesla und Elon Musk erhöhen
+- Kronzeuge Benjamin Frey: trifft Kai-Uwe-Steck-Folgen ohne „Frey“ (121) -> prüfen
+- HSH Nordbank und Cum-Ex: Muster „Strate“ (Anwalt Gerhard Strate) zieht HSH herein (104, 105, 137) -> „Strate“ entfernen
+- Prozess gegen Hanno Berger: „Berger“ trifft „Katrin Berger“ (103) -> nur „Hanno Berger“ und \bBerger\b mit min hoch
+- Rüstungsexporte und Provisionen: „Rüstung“ trifft RENK (101) -> min erhöhen
+- Brorhilker: viele Hörvarianten -> globale Korrekturregeln sammeln (in proof-Dateien)
+- Rüstungsexporte und Provisionen: „Provision“ trifft Maklerprovision (099) -> Muster „Provision“ entfernen, nur Rüstung/Waffen/Panzer-Kontext
+- Signa und René Benko: Vergleiche in anderen Interviews (096) -> min prüfen
+- Landesbanken im Cum-Ex-Skandal: „Landesbank/Helaba“ (097) -> Muster prüfen
+- Steuerfahndung: „Finanzverwaltung“, „Steuersünder“, „Finanzamt“ zu breit (053, 055)
+- Handelsblatt (Unternehmen): „Investigativteam“ zu breit (053, 054)
+- Peter Koppe: „Chefjurist“ trifft Sven-Christian Frank (051)
+- BSI-Affäre Schönbohm: „BSI“ allein zu breit (080) -> min hoch
+- Goldanlage: „Tresor“ zu breit (080)
+- Cyberangriff auf Continental: „Conti“ = Ransomware-Gruppe (079) -> „Conti“ entfernen
+- Porsche: Auto als Statussymbol (076) -> min hoch
+- Fall Jens Lehmann / Jens Lehmann: „Lehmann“ trifft Stefanie Lehmann (082) -> nur „Jens Lehmann“ bzw. min hoch
+- Pressefreiheit und Presserecht: „Abmahnung“ trifft Arbeitsrecht (082, 063)
+- Stefan Effenberg: „Effenberg“ trifft „Effenberg-Bank“ (081) -> (?!-?Bank)
+- Aldi: „Discounter“ zu breit (084)
+- Insolvenz: „pleite“ zu breit? (083) -> min ok
+- Marsalek-Brief: „Drittpartnergeschäft“ zu breit (089)
+- Strafverteidigung: „Mandat“ zu breit (065)
+- Genossenschaftsbanken: „Volksbank“ allein (086); Wirtschaftsprüfung: „Jahresabschluss“ (086)
+- Landesbanken im Cum-Ex-Skandal: „Landesbanken“ ohne Cum-Ex (062)
+- Cyberangriff auf Continental: „Ransomware“ (062) -> Ransomware-Muster nur im Thema, nicht im Fall

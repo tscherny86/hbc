@@ -40,17 +40,17 @@ _Software, die Abgasreinigung nur auf dem Prüfstand aktiviert – der Dieselska
 >
 > — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 0:10](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=10) · [[Transkript 018#Minute 0|im Transkript]]
 
-> … ich hatte es gerade schon ein bisschen angerissen, bereits ja über den Dieselskandal bei Volkswagen gesprochen. Wir haben darüber gesprochen, warum es vor allen Dingen auch in den USA begann. Und wir haben angefangen …
+> … ist und vor allem auch, welches System das zugelassen hat. Im Fall Dieselgate recherchierten unsere Kollegen über Jahre. Sie haben sich eingegraben in Akten, haben hunderte von Dokumenten gelesen, Betroffene gesprochen, Experten befragt. Bei …
 >
-> — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 2:32](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=152) · [[Transkript 018#Minute 2|im Transkript]]
+> — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 1:47](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=107) · [[Transkript 018#Minute 1|im Transkript]]
 
-> … sind damit quasi auf der Straße gefahren und haben entsprechend ein mobiles Abgasmessgerät an den Auspuff gehängt. Und dann ist ihnen natürlich aufgefallen, dass hier was ganz gewaltig stinkt, auf gut Deutsch. Und auch …
+> … es VW gelungen war, diese Dieselfahrzeuge mit so geringen Emissionswerten, was die Stickoxide anging, ja, auf den Markt zu bringen. Und dann haben die halt angefangen zu messen. Und ja, die haben dann natürlich …
 >
-> — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 4:38](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=278) · [[Transkript 018#Minute 4|im Transkript]]
+> — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 3:30](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=210) · [[Transkript 018#Minute 3|im Transkript]]
 
-> … Wir haben in der ersten Folge gehört, dass im Jahr 2013 die Manipulationssoftware nochmal etwas verschärft worden ist tatsächlich. Also es fängt jetzt an so richtig hoch zu laufen. Und das heißt auch wahrscheinlich …
+> … haben, das waren verschiedene Modelle vom VW, die überschritten die gesetzlich vorgeschriebenen Abgaswerte um ein Vielfaches. Da war zum Beispiel ein Passat, der hat 20 Mal so viel Stickoxide ausgestoßen wie erlaubt. Ein VW …
 >
-> — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 6:15](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=375) · [[Transkript 018#Minute 6|im Transkript]]
+> — [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18]], [Minute 5:04](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=304) · [[Transkript 018#Minute 5|im Transkript]]
 
 > … Winterkorn, dem damaligen Chef von Volkswagen. Deutschlands größtem privaten Arbeitgeber, der durch Dieselgate in eine Existenzkrise geriet. Die Ermittlungen, die damals begannen, sind noch immer nicht abgeschlossen. Die Affäre wird uns wahrscheinlich noch Jahre …
 >
@@ -60,7 +60,7 @@ _Software, die Abgasreinigung nur auf dem Prüfstand aktiviert – der Dieselska
 >
 > — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 2:44](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=164) · [[Transkript 019#Minute 2|im Transkript]]
 
-> … und trug auch Verantwortung für die Programmzeilen, die letztlich die Abschaltung der Abgasreinigung bewirkten, die Device genannt. Und ja, der war über viele, viele Jahre über die Details informiert und verfasste unter anderem auch …
+> … und trug auch Verantwortung für die Programmzeilen, die letztlich die Abschaltung der Abgasreinigung bewirkten, das Defeat Device genannt. Und ja, der war über viele, viele Jahre über die Details informiert und verfasste unter anderem auch einen …
 >
 > — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 14:00](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=840) · [[Transkript 019#Minute 14|im Transkript]]
 
@@ -76,13 +76,17 @@ _Software, die Abgasreinigung nur auf dem Prüfstand aktiviert – der Dieselska
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 11:48](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=708) · [[Transkript 046#Minute 11|im Transkript]]
 
-> … Minderdosierung aufgrund von vorhergegangenem Mehrverbrauch, in Klammern Sparmaßnahme. Das ist ein eindeutiges Defeat-Device und ist nicht zulässig. Ja, und dann hat PAMIUU laut der Anklage eben intelligente Lösungen gefordert, um diese Abgastests zu bestehen …
+> … Minderdosierung aufgrund von vorhergegangenem Mehrverbrauch, in Klammern Sparmaßnahme. Das ist ein eindeutiges Defeat-Device und ist nicht zulässig. Ja, und dann hat Pamio laut der Anklage eben intelligente Lösungen gefordert, um diese Abgastests zu bestehen …
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 16:01](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=961) · [[Transkript 046#Minute 16|im Transkript]]
 
 > … haben, das Thermofenster an sich ist schon ein Problem. Also bei den Abgasmanipulationen gab es ja sehr viele Spielarten, muss man sagen. Also manche haben erkannt, am Lenkwinkel ist das Auto jetzt auf der …
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 48:32](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=2912) · [[Transkript 046#Minute 48|im Transkript]]
+
+> … gegen damalige Vorstände Zivilklagen angestrebt wurden also anders als jetzt bei VW Dieselgate wo das passiert ist also das ist natürlich dann auch immer eine Versicherungsfrage da können die Managerhaftpflichtversicherungen angezapft werden aber bei …
+>
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 49:10](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=2950) · [[Transkript 138#Minute 49|im Transkript]]
 
 > … Volkswagen-Nau-D-Kars zwischen dem Jahr des Jahrhunderts und dieses Jahr mit einem sogenannten Defeat-Device um Emissionslösen zu bekommen, um das Air-Clean zu halten. die erkennt, ob ein Fahrzeug auf dem Prüfstand läuft und nur dann …
 >
@@ -103,10 +107,14 @@ _Software, die Abgasreinigung nur auf dem Prüfstand aktiviert – der Dieselska
 ## In diesen Folgen (5)
 
 - [[017 Dieselgate (Teil 1) Wie Volkswagen in die Existenzkrise gerät|#17 – Dieselgate (Teil 1): Wie Volkswagen in die Existenzkrise gerät]] (2022-07-03) — Shownotes · Minute [0:00](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=0), [2:09](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=129), [3:46](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=226), [14:19](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=859)
-- [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18 – Dieselgate (Teil 2): „Voll schiefgelaufen!“]] (2022-07-17) — Shownotes · Minute [0:10](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=10), [2:32](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=152), [4:38](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=278), [6:15](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=375)
+- [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18 – Dieselgate (Teil 2): „Voll schiefgelaufen!“]] (2022-07-17) — Shownotes · Minute [0:10](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=10), [1:47](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=107), [3:30](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=210), [5:04](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=304)
 - [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19 – Dieselgate (Teil 3): Volkswagen in den Fängen der Justiz]] (2022-07-31) — Shownotes · Minute [1:09](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=69), [2:44](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=164), [14:00](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=840), [17:58](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=1078)
 - [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46 – Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank]] (2023-06-17) — Shownotes · Minute [0:03](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=3), [11:48](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=708), [16:01](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=961), [48:32](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=2912)
 - [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146 – Diesel-Skandal bei Continental: Wer zahlt die Kosten von 300 Millionen Euro?]] (2026-05-03) — Shownotes · Minute [1:00](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=60), [6:23](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=383), [12:24](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=744), [20:31](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=1231)
+
+## Kurz erwähnt (1)
+
+- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [49:10](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=2950)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

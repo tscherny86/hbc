@@ -18,7 +18,7 @@ tags: [folge, jahr-2026, hinweis]
 | **Datum** | 2026-11-05 |
 | **Dauer** | 1:24 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2dt9Gh8wAnetqzAYJei4BP) · [MP3](https://audio.podigee-cdn.net/2637810-m-a7d9e692ca89a36b5de990065df8daea.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/166-podcast-tipp-made-in-berlin) |
-| **Transkript** | [[Transkript 166]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 166]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | – |
 | **Themen** | – |
 | **Unternehmen** | – |

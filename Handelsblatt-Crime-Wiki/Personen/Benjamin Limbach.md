@@ -54,7 +54,7 @@ Im April 2024 kündigte Brorhilker dennoch. Die Handelsblatt-Reporter werfen Lim
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 24:43](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1483) · [[Transkript 056#Minute 24|im Transkript]]
 
-> … recht. Das ging sehr schnell und am 27. September hat der Minister Limbach das auch offiziell verkündet, also dass die Pläne von Herrn Neuhäuser jetzt umgesetzt werden und dass er die voll unterstützt. Also …
+> … recht. Das ging sehr schnell und am 27. September hat der Minister Limbach das auch offiziell verkündet, also dass die Pläne von Herrn Neuheuser jetzt umgesetzt werden und dass er die voll unterstützt. Also …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 27:13](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1633) · [[Transkript 056#Minute 27|im Transkript]]
 
@@ -66,7 +66,11 @@ Im April 2024 kündigte Brorhilker dennoch. Die Handelsblatt-Reporter werfen Lim
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 3:27](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=207) · [[Transkript 057#Minute 3|im Transkript]]
 
-> … dass auch Frau Brorheker weiter da unter Beobachtung stehen wird. Und Minister Limbach hat das ja immer so begründet, dass er die Arbeit auf mehrere Stolzern verteilen will, dass Frau Brorheker nicht mehr alleine …
+> … kommt die Sache vielleicht nochmal auf den Prüfstand. Und ja, dann will Limbach nochmal Zwischenbilanz ziehen. Also ein halbes Jahr, René, das ist jetzt ja nicht so lange, muss man sagen. Also man könnte …
+>
+> — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 7:23](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=443) · [[Transkript 057#Minute 7|im Transkript]]
+
+> … dass auch Frau Brorhilker weiter da unter Beobachtung stehen wird. Und Minister Limbach hat das ja immer so begründet, dass er die Arbeit auf mehrere Schultern verteilen will, dass Frau Brorhilker nicht mehr alleine …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 9:37](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=577) · [[Transkript 057#Minute 9|im Transkript]]
 
@@ -82,7 +86,7 @@ Im April 2024 kündigte Brorhilker dennoch. Die Handelsblatt-Reporter werfen Lim
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 51:18](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3078) · [[Transkript 064#Minute 51|im Transkript]]
 
-> … Und der Herr Neuhäuser, das war ein Vertrauensmann des neuen Justizminister Benjamin Limbach von den Grünen. Der war seit 2022 im Amt, der Nachfolger von Herrn Biesenbach. Und also Herr Limbach hatte keinen Schwerpunkt …
+> … Und der Herr Neuheuser, das war ein Vertrauensmann des neuen Justizminister Benjamin Limbach von den Grünen. Der war seit 2022 im Amt, der Nachfolger von Herrn Biesenbach. Und also Herr Limbach hatte keinen Schwerpunkt …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 7:18](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=438) · [[Transkript 094#Minute 7|im Transkript]]
 
@@ -90,15 +94,15 @@ Im April 2024 kündigte Brorhilker dennoch. Die Handelsblatt-Reporter werfen Lim
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 9:27](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=567) · [[Transkript 094#Minute 9|im Transkript]]
 
-> … merkwürdig, egal wie man sie betrachtet. Also im August 2023 setzt der Limbach seinen neuen, oder den neuen Leiter der Kölner Staatsanwaltschaft ein. Der beschließt dann vier Wochen später, Bräuchelke wird entmachtet. Dann gibt …
+> … merkwürdig, egal wie man sie betrachtet. Also im August 2023 setzt der Limbach seinen neuen, oder den neuen Leiter der Kölner Staatsanwaltschaft ein. Der beschließt dann vier Wochen später, Brorhilker wird entmachtet. Dann gibt …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 11:05](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=665) · [[Transkript 094#Minute 11|im Transkript]]
 
-> … mit ihr weiter in die Aufarbeitung zu gehen. Nee, im Gegenteil. Laut Limbach war Bräuhilke offenbar eine ziemliche Enttäuschung. Das sind jetzt zwar Aussagen, also der Limbach stellt sich dann in den Rechtsausschuss und …
+> … mit ihr weiter in die Aufarbeitung zu gehen. Nee, im Gegenteil. Laut Limbach war Brorhilker offenbar eine ziemliche Enttäuschung. Das sind jetzt zwar Aussagen, also der Limbach stellt sich dann in den Rechtsausschuss und …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 12:41](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=761) · [[Transkript 094#Minute 12|im Transkript]]
 
-> … im Rahmen dieser Kabinettsumbildung abgelöst durch einen Grünen-Minister. Und das ist Benjamin Limbach. Und das ist für Frau Bräuhecker ein wichtiger Zeitpunkt, denn mit Biesenbach hat sie einen ihrer wichtigsten Fürsprecher verloren. Der hatte …
+> … im Rahmen dieser Kabinettsumbildung abgelöst durch einen Grünen-Minister. Und das ist Benjamin Limbach. Und das ist für Frau Brorhilker ein wichtiger Zeitpunkt, denn mit Biesenbach hat sie einen ihrer wichtigsten Fürsprecher verloren. Der hatte …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 56:37](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=3397) · [[Transkript 095#Minute 56|im Transkript]]
 
@@ -118,7 +122,7 @@ Im April 2024 kündigte Brorhilker dennoch. Die Handelsblatt-Reporter werfen Lim
 
 - [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40 – Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?]] (2023-03-26) — Minute [30:07](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1807), [41:42](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2502), [47:02](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2822)
 - [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Shownotes · Minute [0:20](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=20), [21:13](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1273), [24:43](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1483), [27:13](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1633)
-- [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes · Minute [0:14](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=14), [3:27](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=207), [9:37](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=577)
+- [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes · Minute [0:14](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=14), [3:27](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=207), [7:23](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=443), [9:37](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=577)
 - [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [47:17](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2837), [49:07](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2947), [51:18](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3078)
 - [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Minute [7:18](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=438), [9:27](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=567), [11:05](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=665), [12:41](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=761)
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes · Minute [56:37](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=3397), [59:24](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=3564), [1:01:00](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=3660), [1:02:42](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=3762)

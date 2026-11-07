@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 76
+folgen: 75
 tags: [personen]
 ---
 # Sönke Iwersen
@@ -15,7 +15,7 @@ _Leiter des Handelsblatt-Investigativteams; erzählt im Podcast die meisten Fäl
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (76)
+## In diesen Folgen (75)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — 
 - [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — 
@@ -44,7 +44,6 @@ _Leiter des Handelsblatt-Investigativteams; erzählt im Podcast die meisten Fäl
 - [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36 – Cum-Ex-Prozess: Hanno Berger verurteilt]] (2022-12-13) — 
 - [[031 Freshfields Spitzenkanzlei unter Verdacht|#31 – Freshfields: Spitzenkanzlei unter Verdacht]] (2022-12-18) — 
 - [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — 
-- [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — 
 - [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37 – Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verbrachte (Teil 2)]] (2023-02-12) — 
 - [[038 Streit um das Milliarden-Erbe von Thiele|#38 – Streit um das Milliarden-Erbe von Thiele]] (2023-02-26) — 
 - [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40 – Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?]] (2023-03-26) — Shownotes
@@ -71,12 +70,13 @@ _Leiter des Handelsblatt-Investigativteams; erzählt im Podcast die meisten Fäl
 - [[092 Meet the Team Volker Votsmeier|#92 – Meet the Team: Volker Votsmeier]] (2024-07-28) — 
 - [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Shownotes
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes
+- [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101 – Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds]] (2024-11-22) — 
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — 
-- [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — 
 - [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — 
 - [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121 – Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt]] (2025-08-10) — Shownotes
 - [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123 – Der Fall Daniel Starr: Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nicht, warum]] (2025-08-24) — Shownotes
+- [[124 English Version Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel|#124 – English Version: Arrested at the Airport – The Case Against US Tech Entrepreneur Daniel Starr]] (2025-09-02) — Shownotes
 - [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes
 - [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes
 - [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Shownotes
@@ -84,8 +84,7 @@ _Leiter des Handelsblatt-Investigativteams; erzählt im Podcast die meisten Fäl
 - [[134 Familienunternehmer Der falsche Baron von Krupp|#134 – Familienunternehmer: Der falsche Baron von Krupp]] (2025-12-14) — 
 - [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes
-- [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — 
-- [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — 
+- [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Shownotes
 - [[149 Update für Handelsblatt Crime Live – Wir legen nach!|#149 – Update für Handelsblatt Crime Live – Wir legen nach!]] (2026-05-10) — 
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — 
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes

@@ -183,7 +183,7 @@ def load_transcript(ep: dict) -> list[dict] | None:
     data = json.loads(f.read_text(encoding="utf-8"))
     words = data["words"] if isinstance(data, dict) else data
     words = [w for w in words if w.get("type", "word") == "word" and w.get("text", "").strip()]
-    words = tidy(words)
+    words = drop_hallucinations(tidy(words))
     official = align_official.official_text(ep["id"])
     if official:
         words, stats = align_official.apply(words, official)
@@ -192,6 +192,22 @@ def load_transcript(ep: dict) -> list[dict] | None:
     words, hits = corrections.apply(words, ep["id"])
     CORRECTIONS[ep["id"]] = hits
     return words
+
+
+# Sätze, die Whisper in Stille oder Musik erfindet (aus Untertitel-Trainingsdaten); sie werden beim Bauen entfernt.
+HALLUCINATION = re.compile(r"Untertitelung (des|im Auftrag des) ZDF( für funk)?,? \d{4}\.?|Untertitel im Auftrag des ZDF,? \d{4}\.?", re.I)
+
+
+def drop_hallucinations(words: list[dict]) -> list[dict]:
+    text, starts, pos = [], [], 0
+    for w in words:
+        starts.append(pos)
+        text.append(w["text"])
+        pos += len(w["text"]) + 1
+    spans = [(m.start(), m.end()) for m in HALLUCINATION.finditer(" ".join(text))]
+    if not spans:
+        return words
+    return [w for w, s in zip(words, starts) if not any(a <= s < b for a, b in spans)]
 
 
 def tidy(words: list[dict]) -> list[dict]:

@@ -18,7 +18,7 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-04-20 |
 | **Dauer** | 1:02:48 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6) · [MP3](https://audio.podigee-cdn.net/1433469-m-2ebe961e26084aa79ca2dd01e8275a4f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/74-neue-episode) |
-| **Transkript** | [[Transkript 074]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 074]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Porsche-Ikone vor Gericht]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Porsche]] |
@@ -35,12 +35,12 @@ Im Podcast Handelsblatt Crime spricht Host Ina Karabasz mit den Investigativ-Rep
 
 ## Zeitmarken
 
-- [0:08](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=8) – Die Stadt und Siegerate von Le Mans. Die Porsche-Strategen entscheiden alles oder nichts. In einer schulungslosen Aufholjagd sollen … ([[Transkript 074#Minute 0|Transkript]])
+- [0:08](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=8) – Die Stadt und Siegerate von Le Mans. Die Porsche-Strategen entscheiden alles oder nichts. In einer schonungslosen Aufholjagd sollen … ([[Transkript 074#Minute 0|Transkript]])
 - [2:13](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=133) – Vermögende Porsche-Liebhaber sollen so um Millionen gebracht worden sein. Die Staatsanwaltschaft spricht von gewerbsmäßigen Betrug, Urkundenfälschung sowie Steuerhinterziehung … ([[Transkript 074#Minute 2|Transkript]])
 - [4:16](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=256) – Und diese Szene, die wir da nochmal gefühlt nacherleben, also nachhören durften, die lassen bei Rennsportfans, kann man … ([[Transkript 074#Minute 4|Transkript]])
 - [6:21](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=381) – Er wurde 1947 geboren im Erzgebirge oder in der Ostzone, wie er selbst einmal gesagt hat. Und tatsächlich … ([[Transkript 074#Minute 6|Transkript]])
 - [8:25](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=505) – Und Barth hat dann auch im Prozess erzählt, dass als sie dann angekommen waren, dass die Mutter ihnen … ([[Transkript 074#Minute 8|Transkript]])
-- [10:45](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=645) – Und ja, eine Woche nach seinem großen Triumph lager da unter dem Auto und hat geschraubt. Dann hat … ([[Transkript 074#Minute 10|Transkript]])
+- [10:45](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=645) – Und ja, eine Woche nach seinem großen Triumph lag er da unter dem Auto und hat geschraubt. Dann … ([[Transkript 074#Minute 10|Transkript]])
 - [12:48](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=768) – Ja, man muss echt sagen, einerseits merkt man an Barth selber, auch im Gericht, wenn er darüber gesprochen … ([[Transkript 074#Minute 12|Transkript]])
 - [14:53](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=893) – Herr Niermann ist jetzt in dem Prozess der Hauptangeklagte. Das ist ein Aachener Unternehmer, der sich mit seiner … ([[Transkript 074#Minute 14|Transkript]])
 - [16:59](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1019) – Die sprechen jetzt von Fälschung. Niermann sprach immer von Auf - oder Nachbauten. Und darum geht es letztendlich. … ([[Transkript 074#Minute 16|Transkript]])
@@ -49,7 +49,7 @@ Im Podcast Handelsblatt Crime spricht Host Ina Karabasz mit den Investigativ-Rep
 - [23:20](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1400) – Die Staatsanwaltschaft hat Ihnen nie erklärt, was Ihnen konkret vorgeworfen wird? Nein, nein. Der hat nie mal mit … ([[Transkript 074#Minute 23|Transkript]])
 - [25:31](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1531) – Das steht eindeutig da drin. Beim Weltautomobilverband FIA. Das ist der Weltverband der Föderation International Automobil. Und da … ([[Transkript 074#Minute 25|Transkript]])
 - [27:37](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1657) – Absolut, ja. Das sehen Sie auch so. Und kam da schon irgendwas? Nee, nee, nee. Erwarten Sie da … ([[Transkript 074#Minute 27|Transkript]])
-- [29:47](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1787) – Und dann fragte der Borschemann, ja, wo sind da die Ersatzteilnummern drauf? Und da musste ich anfangen zu … ([[Transkript 074#Minute 29|Transkript]])
+- [29:47](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1787) – Und dann fragte der Porsche-Mann, ja, wo sind da die Ersatzteilnummern drauf? Und da musste ich anfangen zu … ([[Transkript 074#Minute 29|Transkript]])
 - [31:47](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1907) – Der läuft noch. Und eigentlich ist er ja für Jürgen Barth jetzt auch nur so halb vorbei, wie … ([[Transkript 074#Minute 31|Transkript]])
 - [33:52](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=2032) – Es gibt Kläger, aber gar nicht die vermeintlich Geschädigten, sondern eine Staatsanwaltschaft, die klagt. Was ich in eurem … ([[Transkript 074#Minute 33|Transkript]])
 - [35:55](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=2155) – Das hat ja auch Herr Limmer gesagt, gegenüber den Staatsanwälten, was das ausmacht und so nach dem Motto, … ([[Transkript 074#Minute 35|Transkript]])

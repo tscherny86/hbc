@@ -37,7 +37,7 @@ Betroffen sind meist Privatanleger, die Beträge von einigen tausend bis mehrere
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 35:09](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=2109) · [[Transkript 112#Minute 35|im Transkript]]
 
-> … war wie ein Phantom. Niemand wusste so richtig, wo er war. Manche geprellte Anleger und Mitarbeitende haben dann auch einen Privatdetektiv oder sogar Plural Privatdetektive engagiert, die Höft gesucht haben. Und eine Privatdetektei hat …
+> … war wie ein Phantom. Niemand wusste so richtig, wo er war. Manche geprellte Anleger und Mitarbeitende haben dann auch einen Privatdetektiv oder sogar Plural Privatdetektive engagiert, die Hoeft gesucht haben. Und eine Privatdetektei hat …
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 50:35](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=3035) · [[Transkript 112#Minute 50|im Transkript]]
 
@@ -49,7 +49,7 @@ Betroffen sind meist Privatanleger, die Beträge von einigen tausend bis mehrere
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 35:13](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2113) · [[Transkript 115#Minute 35|im Transkript]]
 
-> … sind eigentlich weiterhin die, von denen wir vorhin gesprochen haben. Also weiter grauer Kapitalmarkt. Ja, genau. Also zuletzt ging es wieder um mutmaßliche Anlegerfallen. Also Zitatanlegerfallen. So stand es auf der Website. Und Mauri …
+> … sind eigentlich weiterhin die, von denen wir vorhin gesprochen haben. Also weiter grauer Kapitalmarkt. Ja, genau. Also zuletzt ging es wieder um mutmaßliche Anlegerfallen. Also Zitat Anlegerfallen. So stand es auf der Website. Und Maurischat …
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 46:02](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2762) · [[Transkript 115#Minute 46|im Transkript]]
 

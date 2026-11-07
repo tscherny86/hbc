@@ -22,7 +22,7 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 
 ## Was im Podcast gesagt wird
 
-> … mit Eigenwerbung. Wir machen weiter. Und zwar sprechen wir jetzt über... Oliver Bellenhaus, dem Kronzeugen. Genau, er ist der Kronzeug. Oliver Bellenhaus, wer ist er? Oliver Bellenhaus ist ein Mann, der Bank gelernt hat, …
+> … mit Eigenwerbung. Wir machen weiter. Und zwar sprechen wir jetzt über... Oliver Bellenhaus, dem Kronzeugen. Genau, er ist der Kronzeuge. Oliver Bellenhaus, wer ist er? Oliver Bellenhaus ist ein Mann, der Bank gelernt hat, ein …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 22:58](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1378) · [[Transkript 011#Minute 22|im Transkript]]
 
@@ -38,11 +38,11 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 28:01](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1681) · [[Transkript 011#Minute 28|im Transkript]]
 
-> … langjährige CEO. Daneben noch der Stadthalter Wirecards in Dubai, der heißt Oliver Bellenhaus. Und dann noch der ehemalige Chefbuchhalter, Stefan von Erfa. Also das sind die drei, die jetzt vor Gericht gestellt werden sollen …
+> … langjährige CEO. Daneben noch der Statthalter Wirecards in Dubai, der heißt Oliver Bellenhaus. Und dann noch der ehemalige Chefbuchhalter, Stephan von Erffa. Also das sind die drei, die jetzt vor Gericht gestellt werden sollen und sich …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 7:46](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=466) · [[Transkript 025#Minute 7|im Transkript]]
 
-> … oder der mitgeholfen hat, diese Glaubensgemeinschaft am Leben zu erhalten, war Oliver Bellenhaus. Wir haben ihn schon angesprochen. Er ist Kronzeuge, Stadthalter in Dubai gewesen. Da streiten sich jetzt natürlich die Anwälte. In der …
+> … oder der mitgeholfen hat, diese Glaubensgemeinschaft am Leben zu erhalten, war Oliver Bellenhaus. Wir haben ihn schon angesprochen. Er ist Kronzeuge, Statthalter in Dubai gewesen. Da streiten sich jetzt natürlich die Anwälte. In der …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 28:40](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1720) · [[Transkript 025#Minute 28|im Transkript]]
 
@@ -54,11 +54,11 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 32:08](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=1928) · [[Transkript 025#Minute 32|im Transkript]]
 
-> … wie Markus Braun aussieht, wie auch er auf seine Mitangeklagten reagiert. Oliver Bellenhaus, der eine Art Kronzeuge tatsächlich in diesem Fall darstellt. Und natürlich den ehemaligen Chefbuchreiter Stefan von Erfa. Wir gehen auf die …
+> … wie Markus Braun aussieht, wie auch er auf seine Mitangeklagten reagiert. Oliver Bellenhaus, der eine Art Kronzeuge tatsächlich in diesem Fall darstellt. Und natürlich den ehemaligen Chefbuchhalter Stephan von Erffa. Wir gehen auf die Details gleich …
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 1:30](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=90) · [[Transkript 033#Minute 1|im Transkript]]
 
-> … der ersten Frage. Wie nah standen sich eigentlich Markus Braun und Oliver Bellenhaus? Oliver Bellenhaus habe ich in der Anmoderation schon erwähnt. Der ist Kronzeuge, kann man so sagen. Der war Stadthalter in Dubai. …
+> … der ersten Frage. Wie nah standen sich eigentlich Markus Braun und Oliver Bellenhaus? Oliver Bellenhaus habe ich in der Anmoderation schon erwähnt. Der ist Kronzeuge, kann man so sagen. Der war Statthalter in Dubai. …
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 3:28](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=208) · [[Transkript 033#Minute 3|im Transkript]]
 
@@ -70,7 +70,7 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 9:34](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=574) · [[Transkript 033#Minute 9|im Transkript]]
 
-> … Von jeglichen möglichen kriminellen Handlungen, ob nun durch den geständigen Mitangeklagten Oliver Bellenhaus oder den flüchtigen Ex-Vorstand Jan Marsalek, habe er einfach nichts gewusst, sagt Braun. Unsere Gerichtsreporter René Bender und Vinzenz Neumeyer schildern …
+> … Von jeglichen möglichen kriminellen Handlungen, ob nun durch den geständigen Mitangeklagten Oliver Bellenhaus oder den flüchtigen Ex-Vorstand Jan Marsalek, habe er einfach nichts gewusst, sagt Braun. Unsere Gerichtsreporter René Bender und Vinzenz Neumaier schildern in …
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 2:12](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=132) · [[Transkript 039#Minute 2|im Transkript]]
 
@@ -82,19 +82,19 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 8:53](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=533) · [[Transkript 039#Minute 8|im Transkript]]
 
-> … wollen und die Realität dann ausbleiben. Im Übrigen hat ja auch Herr Bellenhaus gesagt, der Kronzeuge im Fall Wirecard, wir haben uns das lange nicht eingestanden. Oder ich wollte mir das nicht eingestehen. Wo …
+> … zugeben können und wollen und die Realität dann ausblenden. Im Übrigen hat ja auch Herr Bellenhaus gesagt, der Kronzeuge im Fall Wirecard, wir haben uns das lange nicht eingestanden. Oder ich wollte mir das nicht eingestehen. Wo …
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 11:43](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=703) · [[Transkript 039#Minute 11|im Transkript]]
 
-> … des Konzerns Stefan von Erfa und den ehemaligen Stadthalter in Dubai, Oliver Bellenhaus, die da vor Gericht stehen, vor der vierten Strafkammer. Und auch Marsalek würde sicherlich dort vor Gericht sitzen, wenn er nicht …
+> … früheren Chefbuchhalter des Konzerns Stephan von Erffa und den ehemaligen Statthalter in Dubai, Oliver Bellenhaus, die da vor Gericht stehen, vor der vierten Strafkammer. Und auch Marsalek würde sicherlich dort vor Gericht sitzen, wenn er nicht …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 4:49](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=289) · [[Transkript 049#Minute 4|im Transkript]]
 
-> … eine Stellungnahme abzugeben. Und zwar zu den bisherigen Angaben des Angeklagten Oliver Bellenhaus, der Kronzeuge in dem Prozess. Und aber auch zu den jüngsten Presseveröffentlichungen, zu einem weiteren Zwischenbericht des Insolvenzverwalters Herrn Jaffe, der …
+> … eine Stellungnahme abzugeben. Und zwar zu den bisherigen Angaben des Angeklagten Oliver Bellenhaus, der Kronzeuge in dem Prozess. Und aber auch zu den jüngsten Presseveröffentlichungen, zu einem weiteren Zwischenbericht des Insolvenzverwalters Herrn Jaffé, der …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 12:01](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=721) · [[Transkript 049#Minute 12|im Transkript]]
 
-> … dass er sozusagen eigentlich die gesamte Verantwortung für diesen Betrug auf Oliver Bellenhaus schiebt, also den ehemaligen Stadthalter aus Dubai, der gleichzeitig zum Kronzeugen der Staatsanwaltschaft geworden ist. Man muss tatsächlich auch sagen, auf …
+> … dass er sozusagen eigentlich die gesamte Verantwortung für diesen Betrug auf Oliver Bellenhaus schiebt, also den ehemaligen Statthalter aus Dubai, der gleichzeitig zum Kronzeugen der Staatsanwaltschaft geworden ist. Man muss tatsächlich auch sagen, auf …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 19:00](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1140) · [[Transkript 049#Minute 19|im Transkript]]
 
@@ -110,6 +110,10 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 39:44](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2384) · [[Transkript 057#Minute 39|im Transkript]]
 
+> … Brief hat Herr Marsalek in Frage gestellt, das, was der Kronzeuge Oliver Bellenhaus, der wird ja vom Gericht als Kronzeuge eingeschätzt, und der bestreitet, dass es dieses Drittpartnergeschäft überhaupt gab, dieses ominöse Drittpartnergeschäft, das …
+>
+> — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:06:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3982) · [[Transkript 064#Minute 66|im Transkript]]
+
 > Nach mehr als dreieinhalb Jahren Untersuchungshaft ist Oliver Bellenhaus, der Kronzeuge im Wirecard-Skandal, gerade erst aus dem Gefängnis entlassen worden und braucht prompt Personenschutz durch die Polizei. Warum? Ermittler gehen …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 0:07](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=7) · [[Transkript 069#Minute 0|im Transkript]]
@@ -118,15 +122,15 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 2:45](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=165) · [[Transkript 069#Minute 2|im Transkript]]
 
-> … Journalisten ausgeben. Aber nochmal ganz kurz zu dem sozusagen möglichen Auftrag, wo Bellenhaus das Ziel gewesen sein könnte. Das ist natürlich, also rein spekulativ, aber es ist halt eine wichtige Frage, weil auch jetzt …
+> … mögliche Attentate. Und ja, da geht man jetzt ganz offensichtlich davon aus, dass vielleicht auch Bellenhaus ein Ziel gewesen sein könnte. Aber ob da jetzt was Konkretes vorliegt, also zum Beispiel eine Chatnachricht, womöglich drinsteht, bring den mal zum Schweigen, …
 >
-> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 13:43](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=823) · [[Transkript 069#Minute 13|im Transkript]]
+> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 12:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=773) · [[Transkript 069#Minute 12|im Transkript]]
 
 > … wieder der Fall, also ihr hattet es schon gesagt, der Hinweis wegen Bellenhaus, der kam aus Großbritannien. Jetzt ist das natürlich ein bisschen das deutsche Dilemma, dass irgendwie Hinweise häufig von externen, also internationalen …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 25:01](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1501) · [[Transkript 069#Minute 25|im Transkript]]
 
-> … Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Stadthalter des Konzerns. Der hat schon vor einiger Zeit ausgepackt und ist Kronzeuge der Staatsanwaltschaft geworden. Oliver Bellenhaus hat …
+> … Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Statthalter des Konzerns. Der hat schon vor einiger Zeit ausgepackt und ist Kronzeuge der Staatsanwaltschaft geworden. Oliver Bellenhaus hat …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 2:00](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=120) · [[Transkript 089#Minute 2|im Transkript]]
 
@@ -138,11 +142,11 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 6:43](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=403) · [[Transkript 089#Minute 6|im Transkript]]
 
-> … mit den beiden anderen Angeklagten, dem langjährigen Vorstandschef Markus Braun und Oliver Bellenhaus, dem ehemaligen Stadthalter von Wirecard in Dubai, zusammengeschlossen hat als Bande, um zu betrügen. Also, das Ziel sei gewesen, die Bilanzsumme …
+> … mit den beiden anderen Angeklagten, dem langjährigen Vorstandschef Markus Braun und Oliver Bellenhaus, dem ehemaligen Statthalter von Wirecard in Dubai, zusammengeschlossen hat als Bande, um zu betrügen. Also, das Ziel sei gewesen, die Bilanzsumme …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 8:33](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=513) · [[Transkript 089#Minute 8|im Transkript]]
 
-> … auch erzählt damals, dass er ja mehrfach auch mit dem Kronzeugen Oliver Bellenhaus, also dem damaligen Dubai-Stadthalter, auch aneinander geraten ist, weil der mal seine Spesenabrechnung zu spät eingereicht haben soll und er sei …
+> … auch erzählt damals, dass er ja mehrfach auch mit dem Kronzeugen Oliver Bellenhaus, also dem damaligen Dubai-Statthalter, auch aneinander geraten ist, weil der mal seine Spesenabrechnung zu spät eingereicht haben soll und er sei …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 12:00](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=720) · [[Transkript 093#Minute 12|im Transkript]]
 
@@ -150,11 +154,11 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 15:05](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=905) · [[Transkript 093#Minute 15|im Transkript]]
 
-> … Erfa ist größer geworden in den vergangenen Monaten. Im Februar wurde der Kronzeuge-Bellenhaus freigelassen aus dem Gefängnis. Ein Zeichen dafür, dass man ihm glaubt. Ein paar Wochen später kommt eben dieses, in Anführungsstrichen, Angebot. …
+> … von Erffa ist größer geworden in den vergangenen Monaten. Im Februar wurde der Kronzeuge-Bellenhaus freigelassen aus dem Gefängnis. Ein Zeichen dafür, dass man ihm glaubt. Ein paar Wochen später kommt eben dieses, in Anführungsstrichen, Angebot. …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 22:15](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1335) · [[Transkript 093#Minute 22|im Transkript]]
 
-> … paar mehr. Wir haben ja auch noch Markus Braun und ja, Oliver Bellenhaus. Genau, Markus Braun, der war natürlich mal sehr vermögend mit Willen an der Côte d'Azur und in Österreich an verschiedenen Stellen …
+> … paar mehr. Wir haben ja auch noch Markus Braun und ja, Oliver Bellenhaus. Genau, Markus Braun, der war natürlich mal sehr vermögend mit Villen an der Côte d'Azur und in Österreich an verschiedenen Stellen in Wien …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 27:07](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1627) · [[Transkript 093#Minute 27|im Transkript]]
 
@@ -185,14 +189,15 @@ Bellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, d
 - [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Shownotes · Minute [1:30](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=90), [3:28](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=208), [5:52](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=352), [9:34](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=574)
 - [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes · Minute [2:12](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=132), [3:47](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=227), [8:53](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=533), [11:43](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=703)
 - [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Minute [4:49](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=289), [12:01](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=721), [19:00](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1140), [22:08](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1328)
-- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:07](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=7), [2:45](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=165), [13:43](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=823), [25:01](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1501)
+- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:07](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=7), [2:45](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=165), [12:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=773), [25:01](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1501)
 - [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Minute [2:00](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=120), [4:10](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=250), [6:43](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=403), [8:33](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=513)
 - [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Minute [12:00](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=720), [15:05](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=905), [22:15](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1335), [27:07](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1627)
 - [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Minute [22:02](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1322), [23:50](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1430), [26:12](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1572)
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (3)
 
 - [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Minute [34:35](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2075), [39:44](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=2384)
+- [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [1:06:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3982)
 - [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131 – Henry O’Sullivan: Der Schattenmann im Wirecard-Skandal]] (2025-11-30) — Minute [16:55](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1015), [32:58](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1978)
 
 ---

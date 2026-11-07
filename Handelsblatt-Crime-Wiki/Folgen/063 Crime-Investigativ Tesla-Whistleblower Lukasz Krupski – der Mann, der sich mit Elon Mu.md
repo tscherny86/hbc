@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-12-05 |
 | **Dauer** | 41:51 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN) · [MP3](https://audio.podigee-cdn.net/1295617-m-ee31437297fa37cd110b75ae48a0ccb3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/63-neue-episode) |
-| **Transkript** | [[Transkript 063]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 063]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]] |
 | **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Elon Musk]], [[Lukasz Krupski]] |
-| **Kurz erwähnt** | [[Pressefreiheit und Presserecht]], [[Compliance]] |
+| **Kurz erwähnt** | [[Compliance]] |
 
 ## Shownotes
 

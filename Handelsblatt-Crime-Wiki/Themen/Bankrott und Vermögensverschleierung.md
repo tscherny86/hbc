@@ -27,7 +27,7 @@ In großen Pleiten geht es oft darum, ob ein Unternehmer, der offiziell nur noch
 
 ## Was im Podcast gesagt wird
 
-> … wir dazu kommen, warum sich eure Recherche vor allem mit der Laura Privatstiftung beschäftigt hat, über die wir heute sprechen wollen. Wie seiten ihr auf die Geschichte gestoßen, Martin? Also es ist bekannt, dass …
+> … wir dazu kommen, warum sich eure Recherche vor allem mit der Laura Privatstiftung beschäftigt hat, über die wir heute sprechen wollen. Wie seid ihr auf die Geschichte gestoßen, Martin? Also es ist bekannt, dass es die …
 >
 > — [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78]], [Minute 6:55](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N?t=415) · [[Transkript 078#Minute 6|im Transkript]]
 
@@ -75,19 +75,19 @@ In großen Pleiten geht es oft darum, ob ein Unternehmer, der offiziell nur noch
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 7:20](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=440) · [[Transkript 106#Minute 7|im Transkript]]
 
-> … das jetzt mit den Schusswaffen hatten wir schon, das mit der Laura Privatstiftung hatten wir schon. Das wird es ja wahrscheinlich auch nicht gewiesen sein. Ja, also die Staatsanwaltschaft hat ja eine Pressemitteilung herausgegeben, …
+> … das jetzt mit den Schusswaffen hatten wir schon, das mit der Laura Privatstiftung hatten wir schon. Das wird es ja wahrscheinlich auch nicht gewesen sein. Ja, also die Staatsanwaltschaft hat ja eine Pressemitteilung herausgegeben, die auch …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 9:43](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=583) · [[Transkript 106#Minute 9|im Transkript]]
 
-> … als Stadthalter Benkos da in der Ecke. Und der war auch Laura Privatstiftung, ja, da war er Vorstand und da haben wir darüber gesprochen, was die Stiftung für eine wichtige Rolle im reichen Benko …
+> … als Statthalter Benkos da in der Ecke. Und der war auch Laura Privatstiftung, ja, da war er Vorstand und da haben wir darüber gesprochen, was die Stiftung für eine wichtige Rolle im Reich Benkos einnimmt. Auf …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 18:15](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=1095) · [[Transkript 106#Minute 18|im Transkript]]
 
-> … wird es wieder spannend. Verkäufer war dann nicht Signer, sondern die Laura Privatstiftung. Über die wir eben schon kurz gesprochen hatten. Genau, Investmentvehikel, der Familie Benko. Und da auch da, welch Wunder, da hat …
+> … wird es wieder spannend. Verkäufer war dann nicht Signa, sondern die Laura Privatstiftung. Über die wir eben schon kurz gesprochen hatten. Genau, Investmentvehikel, der Familie Benko. Und da auch da, welch Wunder, da hat …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 39:49](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=2389) · [[Transkript 106#Minute 39|im Transkript]]
 
-> … aktuell so, dass Schwerpunkt der Ermittlungen ist der Straftatbestand des Zerbeiführens des Bankrotts in einem besonders schweren Fall. Einen vergleichbaren Fall haben wir in Bremen bisher nicht gehabt. Wir sind bemüht, dass wir die …
+> … aktuell so, dass Schwerpunkt der Ermittlungen ist der Straftatbestand des Herbeiführens des Bankrotts in einem besonders schweren Fall. Einen vergleichbaren Fall haben wir in Bremen bisher nicht gehabt. Wir sind bemüht, dass wir die …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 0:52](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=52) · [[Transkript 114#Minute 0|im Transkript]]
 
@@ -95,7 +95,7 @@ In großen Pleiten geht es oft darum, ob ein Unternehmer, der offiziell nur noch
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 45:42](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2742) · [[Transkript 114#Minute 45|im Transkript]]
 
-> … beteiligt waren, die Lage der Bank mutmaßlich zu schönen und dadurch den Bankrott beizuführen oder eben Beihilfe dazu zu leisten. Ja, und ansonsten haben wir gehört. Das ist natürlich die Frage der Fragen. Was …
+> … beteiligt waren, die Lage der Bank mutmaßlich zu schönen und dadurch den Bankrott herbeizuführen oder eben Beihilfe dazu zu leisten. Ja, und ansonsten haben wir gehört. Das ist natürlich die Frage der Fragen. Was ist …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 48:45](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=2925) · [[Transkript 114#Minute 48|im Transkript]]
 
@@ -131,15 +131,15 @@ In großen Pleiten geht es oft darum, ob ein Unternehmer, der offiziell nur noch
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 15:25](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=925) · [[Transkript 128#Minute 15|im Transkript]]
 
-> … fragwürdigen Transaktionen. Die Vorwürfe, die die Ermittler nun gegen Reppegater erheben, Betrug, Bankrott und Untreue. Wer also ist Uwe Reppegater wirklich? Wie konnte sein Immobilienimperium so spektakulär zusammenbrechen? Und wo verlaufen die Grenzen zwischen …
+> … fragwürdigen Transaktionen. Die Vorwürfe, die die Ermittler nun gegen Reppegather erheben, Betrug, Bankrott und Untreue. Wer also ist Uwe Reppegather wirklich? Wie konnte sein Immobilienimperium so spektakulär zusammenbrechen? Und wo verlaufen die Grenzen zwischen …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:49](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=109) · [[Transkript 144#Minute 1|im Transkript]]
 
-> … andere Personen übertragen zu haben. Und Gegenstand der Ermittlungen sind halt deshalb Bankrottvorwürfe, Betrugsvorwürfe und es geht auch um mögliche Untreu und Verletzungen der Buchführungspflichten. Und der entstandene Schaden soll laut Staatsanwaltschaft im hohen …
+> … andere Personen übertragen zu haben. Und Gegenstand der Ermittlungen sind halt deshalb Bankrottvorwürfe, Betrugsvorwürfe und es geht auch um mögliche Untreue und Verletzungen der Buchführungspflichten. Und der entstandene Schaden soll laut Staatsanwaltschaft im hohen zweistelligen …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 9:53](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=593) · [[Transkript 144#Minute 9|im Transkript]]
 
-> … Anwalt. Zum Gründen sagte der nichts. Er hat nur betont, dass keine Gläubigerbenachteiligung festgestellt worden sei. In die Richtung argumentiert übrigens auch der Insolvenzverwalter Peter Minoth. Der teilte mit, dass der Verkauf an die …
+> … einen Anwalt. Zu den Gründen sagte der nichts. Er hat nur betont, dass keine Gläubigerbenachteiligung festgestellt worden sei. In die Richtung argumentiert übrigens auch der Insolvenzverwalter Peter Minoth. Der teilte mit, dass der Verkauf an die …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 42:20](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=2540) · [[Transkript 144#Minute 42|im Transkript]]
 

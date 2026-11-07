@@ -22,15 +22,11 @@ Drei Jahre lang blieb unbekannt, wie Snowden die zwei Wochen in Hongkong überst
 
 ## Was im Podcast gesagt wird
 
-> … Link handelsblatt.com-mehrjournalismus. Und in der nächsten Folge geht es dann um Edward Snowden und seine Beschützer. Das Handelsblatt hat den gesamten Fall jahrelang begleitet und Sönke war der erste Journalist, der damals mit den …
->
-> — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 49:08](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2948) · [[Transkript 004#Minute 49|im Transkript]]
-
 > My name is Ed Snowden. I'm 29 years old. I work for Booz Allen Hamilton as an Infrastructure Analyst for NSA in Hawaii. Any analyst at …
 >
 > — [[005 Edward Snowden und seine Schutzengel Diese Menschen retteten ihm auf seiner Flucht das|#5]], [Minute 0:00](https://open.spotify.com/episode/3agzsQ0tOHKsJWcPJ1itrL?t=0) · [[Transkript 005#Minute 0|im Transkript]]
 
-> … verraten hat. Für die Fortsetzung dieser Geschichte sorgte dann ein Mann, den Snowden erst nach seinem großen Auftritt kennengelernt hatte. Robert Thiebaud, ein Menschenrechtsanwalt mit einer rückblickend ziemlich genialen Idee. Ja, und genau so …
+> … verraten hat. Für die Fortsetzung dieser Geschichte sorgte dann ein Mann, den Snowden erst nach seinem großen Auftritt kennengelernt hatte. Robert Tibbo, ein Menschenrechtsanwalt mit einer rückblickend ziemlich genialen Idee. Ja, und genau so …
 >
 > — [[005 Edward Snowden und seine Schutzengel Diese Menschen retteten ihm auf seiner Flucht das|#5]], [Minute 1:44](https://open.spotify.com/episode/3agzsQ0tOHKsJWcPJ1itrL?t=104) · [[Transkript 005#Minute 1|im Transkript]]
 
@@ -38,7 +34,7 @@ Drei Jahre lang blieb unbekannt, wie Snowden die zwei Wochen in Hongkong überst
 >
 > — [[005 Edward Snowden und seine Schutzengel Diese Menschen retteten ihm auf seiner Flucht das|#5]], [Minute 3:21](https://open.spotify.com/episode/3agzsQ0tOHKsJWcPJ1itrL?t=201) · [[Transkript 005#Minute 3|im Transkript]]
 
-> … verliehen an Sönke Ibersen, Leiter Investigative Recherche beim Handelsblatt. Sein Dossier, Edward Snowden, Schutzengel ganz unten. Das verbindet investigative Recherche mit der Empathie der literarischen Reportage. Und gerade in dieser Verbindung, also aus engagiertem, …
+> … verliehen an Sönke Iwersen, Leiter Investigative Recherche beim Handelsblatt. Sein Dossier, Edward Snowden, Schutzengel ganz unten. Das verbindet investigative Recherche mit der Empathie der literarischen Reportage. Und gerade in dieser Verbindung, also aus engagiertem, …
 >
 > — [[005 Edward Snowden und seine Schutzengel Diese Menschen retteten ihm auf seiner Flucht das|#5]], [Minute 5:26](https://open.spotify.com/episode/3agzsQ0tOHKsJWcPJ1itrL?t=326) · [[Transkript 005#Minute 5|im Transkript]]
 
@@ -72,9 +68,8 @@ Drei Jahre lang blieb unbekannt, wie Snowden die zwei Wochen in Hongkong überst
 - [[006 Wie Snowdens Retter ihn in Hongkong versteckten - und was sie ihm heute sagen wollen|#6 – Wie Snowdens Retter ihn in Hongkong versteckten - und was sie ihm heute sagen wollen]] (2022-02-13) — Shownotes · Minute [0:03](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=3), [1:38](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=98), [3:13](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=193), [4:46](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=286)
 - [[085 Meet the Team Christian Heinemann|#85 – Meet the Team: Christian Heinemann]] (2024-06-29) — Minute [10:33](https://open.spotify.com/episode/1X6h1qXlRpDPv72uTOCgxL?t=633)
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (1)
 
-- [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [49:08](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2948)
 - [[077 Meet the Team Investigativ-Chef Sönke Iwersen|#77 – Meet the Team: Investigativ-Chef Sönke Iwersen]] (2024-05-04) — Minute [9:36](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=576)
 
 ---

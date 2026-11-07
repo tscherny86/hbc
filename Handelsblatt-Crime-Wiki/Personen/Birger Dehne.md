@@ -22,11 +22,11 @@ _Gründer der Hannoveraner Immobiliengruppe Degag, deren Pleite 4500 Anlegern de
 
 ## Was im Podcast gesagt wird
 
-> … uns jetzt mal an, denn du hast eine Aufnahme des DGAG-Gründers Bürger Dehne mitgebracht, wo er eben dieses Geschäftsprinzip in einem Videocall von Mitarbeitern erläutert. Hören wir mal rein. Warum können auch die Medien …
+> … wir uns jetzt mal an, denn du hast eine Aufnahme des Degag-Gründers Birger Dehne mitgebracht, wo er eben dieses Geschäftsprinzip in einem Videocall von Mitarbeitern erläutert. Hören wir mal rein. Warum können auch die Medien …
 >
-> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 8:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=482) · [[Transkript 139#Minute 8|im Transkript]]
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 8:01](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=481) · [[Transkript 139#Minute 8|im Transkript]]
 
-> … der Teil des Zykluses, bis wir die Wohnung saniert haben. Und wenn Dehne seine Geschichte jetzt selbst erzählt, also wie er die DGAG sozusagen groß gemacht hat, dann kommt er immer zu einem Punkt, …
+> … der Teil des Zykluses, bis wir die Wohnung saniert haben. Und wenn Dehne seine Geschichte jetzt selbst erzählt, also wie er die Degag sozusagen groß gemacht hat, dann kommt er immer zu einem Punkt, …
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 9:41](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=581) · [[Transkript 139#Minute 9|im Transkript]]
 
@@ -34,11 +34,15 @@ _Gründer der Hannoveraner Immobiliengruppe Degag, deren Pleite 4500 Anlegern de
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 12:36](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=756) · [[Transkript 139#Minute 12|im Transkript]]
 
-> … Ja, Bernd Klein ist im Prinzip in diesem Jahr 2021, als der Birger Dene diesen großen Exit dahin legt und Berater wird, wird Bernd Klein Vorstand der Degag. Das ist also der Mann, der …
+> … Ja, Bernd Klein ist im Prinzip in diesem Jahr 2021, als der Birger Dehne diesen großen Exit dahin legt und Berater wird, wird Bernd Klein Vorstand der Degag. Das ist also der Mann, der bis …
 >
 > — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 17:53](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1073) · [[Transkript 139#Minute 17|im Transkript]]
 
-> … Degag und im Umfeld der Degag. Über den Berater und einstigen Gründer Birger Dehner haben wir ja in der letzten Folge auch schon viel gesprochen, aber es gibt eben auch Aufsichtsräte und Aufsichtsrätinnen und …
+> … hat. Er hat ihn auch zu auffälligen Millionenabflüssen in Richtung des Degag-Gründers Birger Dehne befragt, über den wir das letzte Mal auch schon gesprochen hatten und über den wir vor wenigen Tagen im Handelsblatt …
+>
+> — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 2:59](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=179) · [[Transkript 140#Minute 2|im Transkript]]
+
+> … Degag und im Umfeld der Degag. Über den Berater und einstigen Gründer Birger Dehne haben wir ja in der letzten Folge auch schon viel gesprochen, aber es gibt eben auch Aufsichtsräte und Aufsichtsrätinnen und …
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 6:08](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=368) · [[Transkript 140#Minute 6|im Transkript]]
 
@@ -46,18 +50,14 @@ _Gründer der Hannoveraner Immobiliengruppe Degag, deren Pleite 4500 Anlegern de
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 10:57](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=657) · [[Transkript 140#Minute 10|im Transkript]]
 
-> … man sich die Vorstandsetage anguckt, der externe Dritte, der angebliche Berater, Birgit Dehne, der hat da eigentlich einen erheblichen Teil des, ich würde sagen, Kerngeschäfts der Immobilienwirtschaft quasi bearbeiten müssen. Und über diese Seitenlinie …
+> … wenn man sich die Vorstandsetage anguckt, der externe Dritte, der angebliche Berater, Birger Dehne, der hat da eigentlich einen erheblichen Teil des, ich würde sagen, Kerngeschäfts der Immobilienwirtschaft quasi bearbeiten müssen. Und über diese Seitenlinie …
 >
 > — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 12:58](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=778) · [[Transkript 140#Minute 12|im Transkript]]
 
-> … bekannt. Dafür zuständig war der Herr ***, der im Auftrag von Herrn Dehne die gesamten Konten im Grunde steuerte beziehungsweise Zugriffe drauf hatte. Er war von Anfang an das Modell, was es immer schon …
->
-> — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 15:44](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=944) · [[Transkript 140#Minute 15|im Transkript]]
-
 ## In diesen Folgen (2)
 
-- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes · Minute [8:02](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=482), [9:41](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=581), [12:36](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=756), [17:53](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1073)
-- [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes · Minute [6:08](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=368), [10:57](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=657), [12:58](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=778), [15:44](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=944)
+- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes · Minute [8:01](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=481), [9:41](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=581), [12:36](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=756), [17:53](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1073)
+- [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes · Minute [2:59](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=179), [6:08](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=368), [10:57](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=657), [12:58](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=778)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

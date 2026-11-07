@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-07-01 |
 | **Dauer** | 45:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd) · [MP3](https://audio.podigee-cdn.net/1133682-m-de6ae767203d127d0f689e5042e0a9f4.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/47-neue-episode) |
-| **Transkript** | [[Transkript 047]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 047]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[PIM Gold]] |
-| **Themen** | [[Betrug]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[Rüstungsexporte und Provisionen]], [[Goldanlage]] |
+| **Themen** | [[Betrug]], [[Geldwäsche]], [[Whistleblower]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Lars-Marten Nagel]], [[Mesut Pazarci]] |
-| **Kurz erwähnt** | [[Insolvenzverwalter]], [[Untersuchungshaft]], [[Whistleblower]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Insolvenzverwalter]], [[Untersuchungshaft]] |
 
 ## Shownotes
 
@@ -52,15 +52,15 @@ Geldwäsche-Urteil setzt größten türkischen Hersteller von Goldbarren unter D
 
 ## Zeitmarken
 
-- [0:05](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=5) – Geld anlegen für einen kurzen Zeitrang, wo man wieder drankommt, wo man mit dem Zinsertrag arbeiten kann. Für … ([[Transkript 047#Minute 0|Transkript]])
-- [2:10](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=130) – Mit ihnen werde ich darüber sprechen, wie Pimgold 7500 Privatanleger betrogen hat und warum das trotz früher Warnsignale … ([[Transkript 047#Minute 2|Transkript]])
+- [0:05](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=5) – Geld anlegen für einen kurzen Zeitraum, wo man wieder drankommt, wo man mit dem Zinsertrag arbeiten kann. Für … ([[Transkript 047#Minute 0|Transkript]])
+- [2:10](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=130) – Mit ihnen werde ich darüber sprechen, wie PIM Gold 7500 Privatanleger betrogen hat und warum das trotz früher … ([[Transkript 047#Minute 2|Transkript]])
 - [4:13](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=253) – Das bedeutet für die Anleger, die insgesamt rund 150 Millionen Euro zurückhaben wollen, ist das sehr bitter. Ja, … ([[Transkript 047#Minute 4|Transkript]])
 - [6:14](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=374) – Und die haben vor allen Dingen sehr viel Alarm gemacht. Also die haben sehr viele E-Mails geschrieben an … ([[Transkript 047#Minute 6|Transkript]])
 - [8:20](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=500) – Und dann habe ich denen da mal angeschrieben und gesagt, was ist denn da los? Und dann kam … ([[Transkript 047#Minute 8|Transkript]])
 - [10:22](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=622) – So können Sie bei einer langen Laufzeit zusätzlich Bonus-Gold erzielen. Die 1. Gold-Auslieferung erfolgt stets nach 24 Monaten. … ([[Transkript 047#Minute 10|Transkript]])
 - [12:23](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=743) – Aber jetzt nochmal zurück auf Anfang, das passt halt nicht, weil entweder das Gold liegt sicher im Safe, … ([[Transkript 047#Minute 12|Transkript]])
 - [14:27](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=867) – Clara und Theo werden entführt. Hat ihre Mutter, Christina Block, die Tat in Auftrag gegeben? Sie bestreitet das. … ([[Transkript 047#Minute 14|Transkript]])
-- [16:28](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=988) – Nicht ohne Grund bildet Gold mit seiner Wertstabilität und Zukunftsfähigkeit seit vielen Dekaden das finanzekonomische Sicherheitskonzept viele Länder … ([[Transkript 047#Minute 16|Transkript]])
+- [16:28](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=988) – Nicht ohne Grund bildet Gold mit seiner Wertstabilität und Zukunftsfähigkeit seit vielen Dekaden das finanzökonomische Sicherheitskonzept viele Länder … ([[Transkript 047#Minute 16|Transkript]])
 - [18:31](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1111) – Also wir nennen den hier Oskar B., der hat aber sozusagen eine Schattenseite, die er uns nicht gleich … ([[Transkript 047#Minute 18|Transkript]])
 - [20:35](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1235) – Ja, wir können an der Stelle vielleicht auch einmal sozusagen hören, wie Pim sozusagen auf unsere Presseanfrage, wo … ([[Transkript 047#Minute 20|Transkript]])
 - [22:40](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1360) – PIM-Leute haben dann auch gemerkt, dass ich Fotos von der Aktion mache. Und als ich mich dann als … ([[Transkript 047#Minute 22|Transkript]])

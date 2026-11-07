@@ -18,11 +18,11 @@ tags: [folge, jahr-2024, team]
 | **Datum** | 2024-06-15 |
 | **Dauer** | 12:24 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3EyE9Hn100zkOmBkWStyUM) · [MP3](https://audio.podigee-cdn.net/1457110-m-bbf05dc36bf15c224bae9382afc8929c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/83-neue-episode) |
-| **Transkript** | [[Transkript 083]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 083]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | – |
-| **Themen** | [[Insolvenz]] |
+| **Themen** | – |
 | **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Martin Murphy]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Martin Murphy]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

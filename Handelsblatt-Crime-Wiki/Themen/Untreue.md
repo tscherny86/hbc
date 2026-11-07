@@ -43,7 +43,7 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 2:44](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=164) · [[Transkript 035#Minute 2|im Transkript]]
 
-> … auch als solcher zuerst angeklagt und auch teilweise verurteilt worden. Insolvenz, Verschleppung, Untreue, das sind keine Kavaliersdelikte. Und Göker hatte auch schon vor seiner Flucht aus Deutschland Probleme mit dem Rechtsstaat, da reden wir …
+> … Gerichten auch als solcher zuerst angeklagt und auch teilweise verurteilt worden. Insolvenzverschleppung, Untreue, das sind keine Kavaliersdelikte. Und Göker hatte auch schon vor seiner Flucht aus Deutschland Probleme mit dem Rechtsstaat, da reden wir …
 >
 > — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 7:15](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=435) · [[Transkript 035#Minute 7|im Transkript]]
 
@@ -67,7 +67,7 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 9:15](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=555) · [[Transkript 039#Minute 9|im Transkript]]
 
-> … wurde Bartle der Prozess gemacht, an dessen Ende wegen gewerbsmäßiger Bestechlichkeit, schwerer Untreue und Steuerhinterziehung sechs Jahre Haft stehen. Meine Kollegen René Bender und Volker Votsmeier aus unserem Investigativ-Team kennen Alexander Bartle seit vielen Jahren. …
+> … wurde Badle der Prozess gemacht, an dessen Ende wegen gewerbsmäßiger Bestechlichkeit, schwerer Untreue und Steuerhinterziehung sechs Jahre Haft stehen. Meine Kollegen René Bender und Volker Votsmeier aus unserem Investigativ-Team kennen Alexander Badle seit vielen Jahren. …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 1:28](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=88) · [[Transkript 048#Minute 1|im Transkript]]
 
@@ -115,7 +115,7 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[051 Wie es zur Großrazzia bei der Adler Group kam|#51]], [Minute 8:47](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=527) · [[Transkript 051#Minute 8|im Transkript]]
 
-> … eher so zusammen, wenn man jetzt die formaljuristischen Begriffe nimmt unter Betrug, Untreue und Fälschung von Dokumenten. Ja, und der Hauptangeklagte, der saß dann da, der Mann heißt Thomas Enzeroth, der ist hier aus …
+> … eher so zusammen, wenn man jetzt die formaljuristischen Begriffe nimmt unter Betrug, Untreue und Fälschung von Dokumenten. Ja, und der Hauptangeklagte, der saß dann da, der Mann heißt Thomas Entzeroth, der ist hier aus …
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 3:47](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=227) · [[Transkript 068#Minute 3|im Transkript]]
 
@@ -123,7 +123,7 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 55:54](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3354) · [[Transkript 068#Minute 55|im Transkript]]
 
-> … Verhandler heute mehrere Privat - und Geschäftsräume durchsucht. Der Vorwurf lautet auf Untreue, Insolvenzverschleppung und Bankrott. Anton Schlecker, der einzige Herr über ein Drogeriemarkt-Imperium, soll vor der Insolvenz Millionen beiseite geschafft haben. Das sieht …
+> … Fahnder heute mehrere Privat - und Geschäftsräume durchsucht. Der Vorwurf lautet auf Untreue, Insolvenzverschleppung und Bankrott. Anton Schlecker, der einzige Herr über ein Drogeriemarkt-Imperium, soll vor der Insolvenz Millionen beiseite geschafft haben. Das sieht …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 0:31](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=31) · [[Transkript 084#Minute 0|im Transkript]]
 
@@ -143,17 +143,9 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 5:05](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=305) · [[Transkript 100#Minute 5|im Transkript]]
 
-> … in dieser Anklageschrift steht eben drin, dass Ureli B. 100 Millionen Euro veruntreut haben soll. Und ja, Chiavi will das Geld natürlich zurückhaben. Und da stehen auch noch so ein paar Details drin, auf …
+> … in dieser Anklageschrift steht eben drin, dass Aurélie B. 100 Millionen Euro veruntreut haben soll. Und ja, Kiabi will das Geld natürlich zurückhaben. Und da stehen auch noch so ein paar Details drin, auf …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 23:15](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=1395) · [[Transkript 100#Minute 23|im Transkript]]
-
-> … seine Geschäfte. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Verschleppung von Insolvenzen und Veruntreuung von Arbeitsentgelt. Darüber werde ich heute mit René Bender und Lars Maartenagel aus dem Investigativteam sprechen. Sie verfolgen die Turbulenzen in …
->
-> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 2:23](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=143) · [[Transkript 118#Minute 2|im Transkript]]
-
-> … auch noch sehr lange dauern. Der Verdacht lautet mutmaßliche Insolvenzverschleppung und mutmaßliche Veruntreuung von Arbeitsentgelt. Wir haben schon darüber gesprochen, das könnte diese Kassengeschichte sein. Die Behörde hat mitgeteilt, dass die Durchsuchungsmaßnahmen dazu gedient …
->
-> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 43:23](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2603) · [[Transkript 118#Minute 43|im Transkript]]
 
 > … sagen, da bewegen wir uns dann quasi einmal quer durchs Strafrecht. Betrug, Untreue, Korruption, betrügerische Insolvenz. Der mutmaßliche Gesamtschaden liegt mindestens bei mehreren hundert Millionen Euro. Ja, da sprechen wir später noch drüber. Aber …
 >
@@ -175,6 +167,14 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 47:01](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2821) · [[Transkript 129#Minute 47|im Transkript]]
 
+> … Die Vorwürfe, die die Ermittler nun gegen Reppegather erheben, Betrug, Bankrott und Untreue. Wer also ist Uwe Reppegather wirklich? Wie konnte sein Immobilienimperium so spektakulär zusammenbrechen? Und wo verlaufen die Grenzen zwischen raffiniertem Unternehmertum …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:50](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=110) · [[Transkript 144#Minute 1|im Transkript]]
+
+> … der Ermittlungen sind halt deshalb Bankrottvorwürfe, Betrugsvorwürfe und es geht auch um mögliche Untreue und Verletzungen der Buchführungspflichten. Und der entstandene Schaden soll laut Staatsanwaltschaft im hohen zweistelligen Millionenbereich liegen. Okay, das deckt sich ja, …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 9:57](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=597) · [[Transkript 144#Minute 9|im Transkript]]
+
 > … die Staatsanwaltschaft neue Ermittlungen gegen fünf weitere Personen eingeleitet und diesmal gegen Untreue Beihilfe zum Betrug und vorsätzliche Verletzung der Aufsichtspflichten. vor allem der Untreuverdacht war besandt weil nun im Raum stand dass die …
 >
 > — [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146]], [Minute 18:24](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9?t=1104) · [[Transkript 146#Minute 18|im Transkript]]
@@ -195,7 +195,7 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 >
 > — [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148]], [Minute 45:07](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2707) · [[Transkript 148#Minute 45|im Transkript]]
 
-> … geht es um Vorwürfe unter anderem der Korruption, des Betrugs sowie der Untreue in einem besonders schweren Fall. Und von diesen Verdächtigen, das Große soll aus den Kreisen des VZB stammen und bei rund …
+> … geht es um Vorwürfe unter anderem der Korruption, des Betrugs sowie der Untreue in einem besonders schweren Fall. Und von diesen Verdächtigen, Das Gros soll aus den Kreisen des VZB stammen und bei rund einer Handvoll …
 >
 > — [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148]], [Minute 56:21](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3381) · [[Transkript 148#Minute 56|im Transkript]]
 
@@ -220,8 +220,8 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 - [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes · Minute [0:29](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=29), [8:47](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1?t=527)
 - [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Shownotes · Minute [3:47](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=227), [55:54](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=3354)
 - [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Shownotes · Minute [1:10](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=70), [5:05](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=305), [23:15](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=1395)
-- [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118 – Insolvenz der Gröner Group: Der tiefe Sturz eines Baulöwen]] (2025-06-29) — Shownotes · Minute [2:23](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=143), [43:23](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2603)
 - [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Shownotes · Minute [1:42](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=102), [47:01](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2821)
+- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes · Minute [1:50](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=110), [9:57](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=597)
 - [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [0:47](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=47), [22:06](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1326), [23:57](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1437)
 
 ## Kurz erwähnt (6)

@@ -23,7 +23,7 @@ tags: [folge, jahr-2026, folge]
 | **Themen** | [[Betrug]], [[Schneeballsystem]], [[Insolvenz]], [[Insolvenzverwalter]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 

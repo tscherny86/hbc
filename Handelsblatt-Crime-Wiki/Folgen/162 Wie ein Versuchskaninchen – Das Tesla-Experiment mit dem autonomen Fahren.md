@@ -21,7 +21,7 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | [[Transkript 162]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]], [[Tesla-Experiment (autonomes Fahren)]], [[Tesla-Autopilot-Prozess (Benavides)]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
-| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
+| **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Elon Musk]], [[Lukasz Krupski]], [[Missy Cummings]], [[Andreas Pichler]] |
 | **Kurz erwähnt** | [[Wirecard]] |
 
@@ -36,7 +36,7 @@ In dieser Folge „Handelsblatt Crime“ spricht Investigativ-Chef Sönke Iwerse
 ## Zeitmarken
 
 - [0:05](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=5) – Heute ist einer der seltenen Momente, in denen eine Science-Fiction-Idee kurz davor ist, Wirklichkeit zu werden. Ingenieure geben … ([[Transkript 162#Minute 0|Transkript]])
-- [2:06](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=126) – Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Sonke, schön, dass wir uns … ([[Transkript 162#Minute 2|Transkript]])
+- [2:06](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=126) – Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Sönke, schön, dass wir uns … ([[Transkript 162#Minute 2|Transkript]])
 - [4:12](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=252) – Das erlebt ihr jetzt aktuell, der Neue, es gibt ja schon wieder noch einen anderen Film, die haben … ([[Transkript 162#Minute 4|Transkript]])
 - [6:21](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=381) – Später, 2024, natürlich wurde dann Musk als Figur größer. Aber am Ende hat sich der Film dann auch … ([[Transkript 162#Minute 6|Transkript]])
 - [8:23](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=503) – Also Lukasz gilt Tesla für das beste Unternehmen der Welt, hat er mir ja oft gesagt. Und auch … ([[Transkript 162#Minute 8|Transkript]])

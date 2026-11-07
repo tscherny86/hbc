@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-09-21 |
 | **Dauer** | 45:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o) · [MP3](https://audio.podigee-cdn.net/858713-m-4b90bf14334181093ef62c861c00bc41.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/25-neue-episode) |
-| **Transkript** | [[Transkript 025]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Transkript** | [[Transkript 025]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]] |
 | **Themen** | [[Untreue]], [[Marktmanipulation]], [[Kronzeuge]], [[Untersuchungshaft]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[EY (Ernst & Young)]], [[KPMG]], [[Handelsblatt]], [[Landgericht München]] |
+| **Unternehmen** | [[KPMG]], [[Landgericht München]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Stephan von Erffa]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Hanno Berger]], [[Cum-Ex-Geschäfte]], [[Insolvenz]], [[Strafverteidigung]], [[Compliance]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Hanno Berger]], [[Cum-Ex-Geschäfte]], [[Insolvenz]], [[Strafverteidigung]] |
 
 ## Shownotes
 

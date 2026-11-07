@@ -28,7 +28,7 @@ _Investigativ-Redakteur; Immobilien, Benko/Signa und Finanzskandale._
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 1:06](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=66) · [[Transkript 055#Minute 1|im Transkript]]
 
-> … Podcast-Team vorstellen. Ich stehe jetzt hier im Studio mit unserem Investigativ-Reporter René Bender. Hallo René. Hallo Zorak. Wir lernen uns ja auch gerade beide erst kennen. Wir arbeiten ja noch gar nicht so lange …
+> … Podcast-Team vorstellen. Ich stehe jetzt hier im Studio mit unserem Investigativ-Reporter René Bender. Hallo René. Hallo Solveig. Wir lernen uns ja auch gerade beide erst kennen. Wir arbeiten ja noch gar nicht so lange …
 >
 > — [[073 Meet the Team René Bender|#73]], [Minute 0:24](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=24) · [[Transkript 073#Minute 0|im Transkript]]
 
@@ -40,7 +40,7 @@ _Investigativ-Redakteur; Immobilien, Benko/Signa und Finanzskandale._
 >
 > — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 3:28](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=208) · [[Transkript 074#Minute 3|im Transkript]]
 
-> … mal, wie es ihm geht. Hallo. Hallo, Herr Barth. Ja. Grüße Sie. Bender hier. Herr Bender. Zusammen mit der Kollegin Carabas und dem Kollegen Verfürden. Grüße Sie. Schön, dass das klappt. Hallo, Herr Barth. …
+> … mal, wie es ihm geht. Hallo. Hallo, Herr Barth. Ja. Grüße Sie. Bender hier. Herr Bender. Zusammen mit der Kollegin Karabasz und dem Kollegen Verfürden. Grüße Sie. Schön, dass das klappt. Hallo, Herr Barth. …
 >
 > — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 22:25](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1345) · [[Transkript 074#Minute 22|im Transkript]]
 
@@ -48,23 +48,23 @@ _Investigativ-Redakteur; Immobilien, Benko/Signa und Finanzskandale._
 >
 > — [[080 Der Bankenmanager und der Staatstrojaner|#80]], [Minute 2:46](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=166) · [[Transkript 080#Minute 2|im Transkript]]
 
-> … Mail an crime-at-handelsblatt.com oder auch gern persönlich an Michael Verfürden oder René Bender oder an mich. Da finden Sie mich auf LinkedIn oder Instagram unter solvai-gode. Und das gilt natürlich auch, wenn Sie Wünsche, …
+> … Mail an crime@handelsblatt.com oder auch gern persönlich an Michael Verfürden oder René Bender oder an mich. Da finden Sie mich auf LinkedIn oder Instagram unter solveig-gode. Und das gilt natürlich auch, wenn Sie Wünsche, …
 >
 > — [[080 Der Bankenmanager und der Staatstrojaner|#80]], [Minute 1:02:14](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3734) · [[Transkript 080#Minute 62|im Transkript]]
 
-> … ein Deal quasi. Über diese Gespräche haben Michael und sein Investigativkollege René Bender als Erste übrigens im Handelsblatt berichtet. Naja, und vorher hat von Erfa eben, wie gesagt, eisern geschwiegen. Und jetzt ist er …
+> … ein Deal quasi. Über diese Gespräche haben Michael und sein Investigativkollege René Bender als Erste übrigens im Handelsblatt berichtet. Naja, und vorher hat von Erffa eben, wie gesagt, eisern geschwiegen. Und jetzt ist er auf …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 3:39](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=219) · [[Transkript 089#Minute 3|im Transkript]]
 
-> … in München beim Prozess war. Hallo Michael. Hallo Solbei. Und mit René Bender. René ist ebenfalls Reporter in unserem Investigativ-Team. Schön, dass du dabei bist. Hallo Solbei. Freue mich auch. So, bevor wir jetzt …
+> … in München beim Prozess war. Hallo Michael. Hallo Solveig. Und mit René Bender. René ist ebenfalls Reporter in unserem Investigativ-Team. Schön, dass du dabei bist. Hallo Solveig. Freue mich auch. So, bevor wir jetzt …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 7:54](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=474) · [[Transkript 089#Minute 7|im Transkript]]
 
-> … entlassen und ein wichtiger Unternehmensberater musste dagegen hinein. Wie meine Kollegen René Bender und Lars-Marc Nagel aus dem Investigativ-Team im Dezember exklusiv berichtet haben, steht auch die Anklage hier kurz bevor. Mit ihnen spreche …
+> … entlassen und ein wichtiger Unternehmensberater musste dagegen hinein. Wie meine Kollegen René Bender und Lars-Marten Nagel aus dem Investigativ-Team im Dezember exklusiv berichtet haben, steht auch die Anklage hier kurz bevor. Mit ihnen spreche ich …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 0:38](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=38) · [[Transkript 107#Minute 0|im Transkript]]
 
-> … Hallo Zorwey. Ja und dann ist uns auch noch unser Investigativ-Kollege René Bender zugeschaltet. Der ist vor rund eineinhalb Jahren zu dem Fall dazugestoßen, als dieser zunehmend an strafrechtlicher Dynamik gewonnen hat. Hallo René. …
+> … Hallo Solveig. Ja und dann ist uns auch noch unser Investigativ-Kollege René Bender zugeschaltet. Der ist vor rund eineinhalb Jahren zu dem Fall dazugestoßen, als dieser zunehmend an strafrechtlicher Dynamik gewonnen hat. Hallo René. …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 2:52](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=172) · [[Transkript 107#Minute 2|im Transkript]]
 

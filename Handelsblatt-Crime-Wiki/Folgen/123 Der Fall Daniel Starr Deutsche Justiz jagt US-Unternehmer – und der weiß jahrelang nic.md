@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-08-24 |
 | **Dauer** | 42:52 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V) · [MP3](https://audio.podigee-cdn.net/2028187-m-0a2105a4433c7599a933be4a147d697f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/123-neue-episode) |
-| **Transkript** | [[Transkript 123]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 123]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Daniel Starr]] |
-| **Themen** | [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[Tesla]] |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Elon Musk]], [[Daniel Starr]] |
-| **Kurz erwähnt** | [[Tesla-Files]], [[Strafverteidigung]], [[Landgericht Bonn]] |
+| **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
+| **Unternehmen** | – |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]], [[Daniel Starr]] |
+| **Kurz erwähnt** | [[Strafverteidigung]], [[Landgericht Bonn]] |
 
 ## Shownotes
 
@@ -50,10 +50,10 @@ https://www.handelsblatt.com/unternehmen/industrie/justizaffaere-us-investor-for
 - [4:14](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=254) – Darin erinnere ich mich auch noch dunkel an MySpace. Das wurde in meiner Jugend in Deutschland jetzt kaum … ([[Transkript 123#Minute 4|Transkript]])
 - [6:15](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=375) – Donald Trump wollte TikTok erst verbieten, dann wieder nicht, dann wieder doch, es ist immer hin und her. … ([[Transkript 123#Minute 6|Transkript]])
 - [8:16](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=496) – Und es ist ja für mich total unvorstellbar erstmal, dass er gar nicht, ja, irgendwie vorher mal erfährt, … ([[Transkript 123#Minute 8|Transkript]])
-- [10:25](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=625) – Deutschlandfonds. Grow with Germany. Hören wir doch am besten mal, was Star dazu eigentlich selber sagt, zu diesen … ([[Transkript 123#Minute 10|Transkript]])
+- [10:25](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=625) – Deutschlandfonds. Grow with Germany. Hören wir doch am besten mal, was Starr dazu eigentlich selber sagt, zu diesen … ([[Transkript 123#Minute 10|Transkript]])
 - [12:27](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=747) – That was for the whole 4 or 5 years. My portion was like 200 grand or 300 grand … ([[Transkript 123#Minute 12|Transkript]])
 - [14:33](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=873) – Genau, genau, und ja, also wie gesagt, die Geschichte war damit noch nicht abgeschlossen, sondern es ging dann … ([[Transkript 123#Minute 14|Transkript]])
-- [16:39](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=999) – Star sagt, er kann jetzt nicht mehr reisen, aus Angst vor erneuter Verhaftung. Da kommt dann so ein, … ([[Transkript 123#Minute 16|Transkript]])
+- [16:39](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=999) – Starr sagt, er kann jetzt nicht mehr reisen, aus Angst vor erneuter Verhaftung. Da kommt dann so ein, … ([[Transkript 123#Minute 16|Transkript]])
 - [18:41](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1121) – Also, die können ja vielleicht wieder einen neuen Haftbefehl ausstellen und ich habe keine Sicherheit. Ich habe das … ([[Transkript 123#Minute 18|Transkript]])
 - [20:48](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1248) – I mean, and that's about it. That's a pretty low degree of evidence to come after someone. When … ([[Transkript 123#Minute 20|Transkript]])
 - [22:57](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1377) – Jetzt fragtest du nach diesem Staatsanwalt. Also es gibt einen zuständigen Staatsanwalt, also der liegt tatsächlich bei einem … ([[Transkript 123#Minute 22|Transkript]])

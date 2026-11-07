@@ -48,7 +48,7 @@ Der Fall offenbarte Defizite bei der Sicherheitsüberprüfung von Geheimdienstpe
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 25:46](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1546) · [[Transkript 069#Minute 25|im Transkript]]
 
-> … ist wirklich dran an der Version, die der deutsche Geheimdienst erzählt, der BND, dass sie ihn gar nicht auf dem Schirm haben? Stimmt das? Was ist mit anderen Personen, die dieser Wirecard-Sage aufgetreten sind, …
+> … ist wirklich dran an der Version, die der deutsche Geheimdienst erzählt, der BND, dass sie ihn gar nicht auf dem Schirm haben? Stimmt das? Was ist mit anderen Personen, die dieser Wirecard-Saga aufgetreten sind, …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 1:06:56](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=4016) · [[Transkript 069#Minute 66|im Transkript]]
 

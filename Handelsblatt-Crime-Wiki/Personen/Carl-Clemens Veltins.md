@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 1
+folgen: 2
 tags: [personen]
 ---
 # Carl-Clemens Veltins
@@ -22,17 +22,42 @@ Für den Podcast gab Veltins dem Handelsblatt im April 2024 ein exklusives Inter
 
 ## Was im Podcast gesagt wird
 
-> … weiter im Text, Zünke. Ja, und sie waren auch für Karl Clemens Veltins dann gefährlich, letztlich. Also er hat ja geschildert, er hat es selbst genommen auch, offenbar auch immer mehr. Ich hatte ständig …
+> … dass das alles klappt vor Gericht. Mein Großsorgenkind ist die Chefin der Veltins-Brauerei. Warum? Das ist meine zwei Jahre ältere Schwester und sie tut so, als würde es mich nicht geben. Sie kennen seinen …
 >
-> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 50:40](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=3040) · [[Transkript 071#Minute 50|im Transkript]]
+> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 0:28](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=28) · [[Transkript 071#Minute 0|im Transkript]]
 
-> … gezeigt, sagt er. Und was mit der jüngeren Schwester, der Frauke? Frauke Veltins hat ihn anfangs mit 1000 Euro im Monat unterstützt, sagt er. Ja, das habe er dann aber aufgehört, als er nach …
+> … Familie gebrochen hat. Der jüngste Sohn wurde von seiner verstorbenen Mutter Rosemarie Veltins enterbt. Deshalb verklagt er jetzt seine zwei Schwestern auf sein Erbe. Es geht um mehrere hundert Millionen Euro. In der Familie …
 >
-> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 52:36](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=3156) · [[Transkript 071#Minute 52|im Transkript]]
+> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 2:00](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=120) · [[Transkript 071#Minute 2|im Transkript]]
 
-## In diesen Folgen (1)
+> … unsere erste Folge zusammen hier im Studio. Wir sprechen heute über einen Veltins, von dem wir vorher, glaube ich, alle noch nie gehört hatten, oder? Ihr kanntet den auch noch nicht? Nee, bis vor …
+>
+> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 4:01](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=241) · [[Transkript 071#Minute 4|im Transkript]]
 
-- [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71 – Drogen, Waffen, Gefängnis: Carl-Clemens Veltins war kriminell – jetzt streitet er um das Millionen-Erbe]] (2024-04-07) — Shownotes · Minute [50:40](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=3040), [52:36](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=3156)
+> … als sie an einer schweren Erkrankung starb. Das war 1994 und Rosemarie Veltins hatte drei Kinder, zwei Töchter und einen Sohn. Aber der Sohn, also Carl-Clemens Veltins, den wir hier gerade gehört haben, der …
+>
+> — [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71]], [Minute 5:38](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=338) · [[Transkript 071#Minute 5|im Transkript]]
+
+> … kurzem ein Interview gehabt, gestern. Und da hat mich tatsächlich... Mit dem Veltins-Erben spannende Folgen, die ihr da aufgenommen habt. Ja, das ist ja die erste Folge, die wir jetzt machen. Veltins-Nicht-Erben, muss man …
+>
+> — [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72]], [Minute 2:55](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=175) · [[Transkript 072#Minute 2|im Transkript]]
+
+> … wir häufig im O-Ton hören können. Die Rede ist von Karl Clemens Veltins. Sönke und Volker sind jetzt wieder bei mir. Sönke, was war das Thema mit Herrn Veltins, der ja durchaus einen bekannten …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 30:12](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1812) · [[Transkript 104#Minute 30|im Transkript]]
+
+> … sein Erbe betrogen und das ist natürlich ein Riesenunternehmen mittlerweile. Also die Veltins-Brauerei aus dem Sauerland in Grevenstein war mal relativ klein, ist aber immer größer geworden und gehört jetzt zu den größten Brauereien Deutschlands. …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 31:44](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1904) · [[Transkript 104#Minute 31|im Transkript]]
+
+## In diesen Folgen (2)
+
+- [[071 Drogen, Waffen, Gefängnis Carl-Clemens Veltins war kriminell – jetzt streitet er um da|#71 – Drogen, Waffen, Gefängnis: Carl-Clemens Veltins war kriminell – jetzt streitet er um das Millionen-Erbe]] (2024-04-07) — Shownotes · Minute [0:28](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=28), [2:00](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=120), [4:01](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=241), [5:38](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN?t=338)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [30:12](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1812), [31:44](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1904)
+
+## Kurz erwähnt (1)
+
+- [[072 Meet the Team Unsere neue Podcast-Host Solveig Gode|#72 – Meet the Team: Unsere neue Podcast-Host Solveig Gode]] (2024-04-07) — Minute [2:55](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD?t=175)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-08-14 |
 | **Dauer** | 52:50 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf) · [MP3](https://audio.podigee-cdn.net/813031-m-b9da8e344ae452496f43f5e618aeca36.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/20-neue-episode) |
-| **Transkript** | [[Transkript 020]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]], [[LBBW-Cum-Ex]] |
+| **Transkript** | [[Transkript 020]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[LBBW-Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[LBBW]], [[HSH Nordbank]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]] |
-| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Handelsblatt]] |
+| **Unternehmen** | [[M.M. Warburg]], [[LBBW]], [[HSH Nordbank]], [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]] |
 
 ## Shownotes
 
@@ -79,9 +79,9 @@ Insider verkauft Cum-Ex-Infos für fünf Millionen Euro an die Steuerfahndung
 - [43:18](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2598) – Die LBBW hat außerdem eine vollständige Aufarbeitung des Sachverhalts durch eine externe Rechtsanwaltskanzlei veranlasst und kooperiert vollumfänglich mit … ([[Transkript 020#Minute 43|Transkript]])
 - [45:22](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2722) – Das erklärt dann aber auch, warum es einfach keine Fortschritte gibt. Ein Ermittler, neun Jahre Arbeit, kein Ergebnis. … ([[Transkript 020#Minute 45|Transkript]])
 - [47:22](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2842) – Das scheint keinen Sinn zu machen. Was meint er denn damit? Also man hat wirklich das Gefühl, er … ([[Transkript 020#Minute 47|Transkript]])
-- [49:24](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2964) – Herr Prof. Hund war bis 2014 Mitglied im Verwaltungsrat beziehungsweise Aufsichtsrat der LBBW und hat sich mit dem … ([[Transkript 020#Minute 49|Transkript]])
+- [49:24](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=2964) – Herr Prof. Hundt war bis 2014 Mitglied im Verwaltungsrat beziehungsweise Aufsichtsrat der LBBW und hat sich mit dem … ([[Transkript 020#Minute 49|Transkript]])
 - [51:25](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=3085) – Und auch da haben wir uns natürlich umgehört und mit Anwälten von Beschuldigten gesprochen. Und einer hat uns … ([[Transkript 020#Minute 51|Transkript]])
-- [53:28](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=3208) – Und natürlich freuen wir uns sehr über Lobkritik und weiteres Feedback. Schreiben Sie uns gerne an crime-at-handelsblatt.com Redaktionsschluss … ([[Transkript 020#Minute 53|Transkript]])
+- [53:28](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=3208) – Und natürlich freuen wir uns sehr über Lob, Kritik und weiteres Feedback. Schreiben Sie uns gerne an crime@handelsblatt.com … ([[Transkript 020#Minute 53|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,11 +18,11 @@ tags: [folge, jahr-2024, team]
 | **Datum** | 2024-05-04 |
 | **Dauer** | 14:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1) · [MP3](https://audio.podigee-cdn.net/1442300-m-b5e1e6d6fa8fc63729d14d75b02f6eb1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/77-meet-team-soenke-iwersen) |
-| **Transkript** | [[Transkript 077]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 077]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Ergo-Lustreisen]] |
 | **Themen** | – |
-| **Unternehmen** | [[Ergo]], [[Handelsblatt]] |
-| **Personen** | [[Sönke Iwersen]] |
+| **Unternehmen** | [[Ergo]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | [[Fall Edward Snowden]], [[Elon Musk]], [[Edward Snowden]] |
 
 ## Shownotes
@@ -44,7 +44,7 @@ Zum Angebot: handelsblatt.com/pressefreiheit
 ## Zeitmarken
 
 - [0:11](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=11) – Hallo und herzlich willkommen zu dieser Sonderfolge von Handelsblatt Crime. Sie haben es wahrscheinlich in den vergangenen Wochen … ([[Transkript 077#Minute 0|Transkript]])
-- [2:33](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=153) – Du sag mal, in der letzten Folge haben Solvay und René so ein kleines Spiel gespielt. Dann hat … ([[Transkript 077#Minute 2|Transkript]])
+- [2:33](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=153) – Du sag mal, in der letzten Folge haben Solveig und René so ein kleines Spiel gespielt. Dann hat … ([[Transkript 077#Minute 2|Transkript]])
 - [4:34](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=274) – Und seitdem war ich in amerikanischen Basketball verliebt und habe deshalb später, als sich die Gelegenheit bot, auch … ([[Transkript 077#Minute 4|Transkript]])
 - [6:43](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=403) – Kobe Bryant kam später dazu und Dirk Nowitzki dann auch, aber da war ich auch schon weiter. Und … ([[Transkript 077#Minute 6|Transkript]])
 - [8:47](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1?t=527) – Investigativressorts wurden gegründet. Also es gab einige, die waren ein bisschen früher dran, andere kamen später. Das Handelsblatt … ([[Transkript 077#Minute 8|Transkript]])

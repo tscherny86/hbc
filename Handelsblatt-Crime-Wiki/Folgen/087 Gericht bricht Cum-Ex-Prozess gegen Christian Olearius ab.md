@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-06-26 |
 | **Dauer** | 33:46 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ) · [MP3](https://audio.podigee-cdn.net/1512940-m-2491f19aa9e6ee24e57c88f12b7369eb.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/87-new-episode) |
-| **Transkript** | [[Transkript 087]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 087]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[M.M. Warburg]], [[Landgericht Bonn]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
 | **Personen** | [[Sönke Iwersen]], [[Christian Olearius]], [[Olaf Scholz]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[Steuerfahndung]], [[Strafverteidigung]], [[Staatsanwaltschaft Köln]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[Anne Brorhilker]], [[Strafverteidigung]] |
 
 ## Shownotes
 
@@ -46,7 +46,7 @@ Das Ende des Prozesses gegen Olearius schadet dem Rechtsstaat
 - [4:09](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=249) – Trotz seiner angeschlagenen Gesundheit wirkte er gestern nochmal relativ vital und auch kämpferisch. Und er hat bestimmt ungefähr … ([[Transkript 087#Minute 4|Transkript]])
 - [6:13](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=373) – Das haben ja alle Gerichte durchgeurteilt, dass das nie so war, dass man sich Steuern irgendwann mal hätte … ([[Transkript 087#Minute 6|Transkript]])
 - [8:14](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=494) – Er argumentiert immer, dass er nicht gewusst habe, dass diese Geschäfte zu einer Doppelerstattung führen. Die Bank selbst … ([[Transkript 087#Minute 8|Transkript]])
-- [10:17](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=617) – Genau, also nicht nur der Generalbevormichtigste, nicht nur der Steueranwalt, also Herr Berger hat 8 ,5 Jahre gekriegt, … ([[Transkript 087#Minute 10|Transkript]])
+- [10:17](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=617) – Genau, also nicht nur der Generalbevollmächtigte, nicht nur der Steueranwalt, also Herr Berger hat 8 ,5 Jahre gekriegt, … ([[Transkript 087#Minute 10|Transkript]])
 - [12:19](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=739) – Also das ist schon sehr gewagt, sage ich mal. Aber wie gesagt, wir haben kein Urteil, wir bekommen … ([[Transkript 087#Minute 12|Transkript]])
 - [14:20](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=860) – Also man kann sich sozusagen, oder sie hat auch eine Entscheidung des Bundesverfassungsgerichts zitiert, die mal gesagt hat, … ([[Transkript 087#Minute 14|Transkript]])
 - [16:22](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=982) – Und dem wurde sozusagen parallel der Prozess gemacht. Und er saß gleichzeitig in Untersuchungshaft. Also was ja auch … ([[Transkript 087#Minute 16|Transkript]])

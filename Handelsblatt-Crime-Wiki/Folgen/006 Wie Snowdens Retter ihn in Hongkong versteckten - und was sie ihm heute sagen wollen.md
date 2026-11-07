@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-02-13 |
 | **Dauer** | 50:33 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC) · [MP3](https://audio.podigee-cdn.net/663898-m-1f00537f3a06efbb7e7d85b67c30a080.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/6-neue-episode) |
-| **Transkript** | [[Transkript 006]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 006]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Edward Snowden]] |
 | **Themen** | [[Spionage]] |
-| **Unternehmen** | [[Handelsblatt]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Edward Snowden]] |
-| **Kurz erwähnt** | [[Cum-Ex]] |
+| **Unternehmen** | – |
+| **Personen** | [[Sönke Iwersen]], [[Edward Snowden]] |
+| **Kurz erwähnt** | [[Staatsanwaltschaft Köln]] |
 
 ## Shownotes
 
@@ -56,15 +56,15 @@ Was Edward Snowdens Biografie über den Whistleblower verrät – und was nicht
 - [8:12](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=492) – Es würde einem keiner glauben, wenn man das sozusagen als Geschichte, als Roman aufschreibt. Dass so eine Verkettung … ([[Transkript 006#Minute 8|Transkript]])
 - [10:14](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=614) – Aber bis der Strom wieder floss, verging dann noch ein halber Tag. Ja, und jetzt muss man vielleicht … ([[Transkript 006#Minute 10|Transkript]])
 - [12:16](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=736) – Warum hielt diese Geschichte jetzt drei Jahre lang? Es verging ja zwischen Snowdens Flucht nach Moskau und meiner … ([[Transkript 006#Minute 12|Transkript]])
-- [14:32](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=872) – Und weil Thibaut sich also durchaus viel mehr Gedanken um den nächsten Tag machte als zum Beispiel Edward … ([[Transkript 006#Minute 14|Transkript]])
-- [16:35](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=995) – Es gab, ja streng genommen gab es gar kein Konto. Die Flüchtlinge hatten keins. Und Thibaut, der Anwalt, … ([[Transkript 006#Minute 16|Transkript]])
+- [14:32](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=872) – Und weil Tibbo sich also durchaus viel mehr Gedanken um den nächsten Tag machte als zum Beispiel Edward … ([[Transkript 006#Minute 14|Transkript]])
+- [16:35](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=995) – Es gab, ja streng genommen gab es gar kein Konto. Die Flüchtlinge hatten keins. Und Tibbo, der Anwalt, … ([[Transkript 006#Minute 16|Transkript]])
 - [18:36](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1116) – Ja, also ich meine in dem Moment kann man auch sagen, es gibt ja den Sönke Iwersen, den … ([[Transkript 006#Minute 18|Transkript]])
 - [20:42](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1242) – And it did work. Edward Snowden was able to get out of Hong Kong. But these four folks … ([[Transkript 006#Minute 20|Transkript]])
 - [22:47](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1367) – Und dann kommen solche Sachen zusammen, weil sich alle zusammen einer neuen Sache widmen, die sie vielleicht vorher … ([[Transkript 006#Minute 22|Transkript]])
 - [24:50](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1490) – Also lauter Fragen, wann haben sie ihn getroffen, was hat er ihnen gesagt und dies und das und … ([[Transkript 006#Minute 24|Transkript]])
 - [26:52](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1612) – Und das, obwohl sie auch gar nicht viel hätten sagen können. Also die haben auch nur wenig miteinander … ([[Transkript 006#Minute 26|Transkript]])
-- [28:56](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1736) – Und deshalb hat der Chaos Computer Club oder die Organisatoren von diesem Kongress dann Thibaut eingeladen, den Anwalt. … ([[Transkript 006#Minute 28|Transkript]])
-- [31:05](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1865) – Wir sind dann zusammen dahin und ich habe den ersten Teil der Geschichte erzählt. Dann kam Robert, Thibaut, … ([[Transkript 006#Minute 31|Transkript]])
+- [28:56](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1736) – Und deshalb hat der Chaos Computer Club oder die Organisatoren von diesem Kongress dann Tibbo eingeladen, den Anwalt. … ([[Transkript 006#Minute 28|Transkript]])
+- [31:05](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1865) – Wir sind dann zusammen dahin und ich habe den ersten Teil der Geschichte erzählt. Dann kam Robert, Tibbo, … ([[Transkript 006#Minute 31|Transkript]])
 - [33:07](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=1987) – Und die drei Kinder waren alle auf der Leinwand dann zu sehen. Und anschließend kam dann auch noch … ([[Transkript 006#Minute 33|Transkript]])
 - [35:08](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=2108) – Ja, Supun und Nadika und ihre beiden Kinder im September 2021, also vor jetzt gar nicht so langer … ([[Transkript 006#Minute 35|Transkript]])
 - [37:10](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC?t=2230) – Maybe this is the last time you guys see me. Because he also very worried about his life … ([[Transkript 006#Minute 37|Transkript]])

@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-06-01 |
 | **Dauer** | 47:24 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ) · [MP3](https://audio.podigee-cdn.net/1895585-m-1f48f48510ecbf63044799df829cac93.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/115-gomopa) |
-| **Transkript** | [[Transkript 115]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 115]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Wirecard]], [[Gomopa und Klaus Maurischat]] |
 | **Themen** | [[Anlegerbetrug]], [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]], [[Pressefreiheit und Presserecht]], [[Erpressung]] |
-| **Unternehmen** | [[Gomopa]], [[Handelsblatt]] |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Klaus Maurischat]] |
-| **Kurz erwähnt** | [[Betrug]] |
+| **Unternehmen** | [[Gomopa]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Lars-Marten Nagel]], [[Klaus Maurischat]] |
+| **Kurz erwähnt** | [[PIM Gold]], [[Mesut Pazarci]], [[Betrug]] |
 
 ## Shownotes
 
@@ -42,7 +42,7 @@ Ein Hinweis für Hörerinnen und Hörer, die regelmäßig das Handelsblatt lesen
 ## Zeitmarken
 
 - [0:05](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=5) – Unser Podcast beginnt heute auf den Fluren des Amtsgerichts Saarbrücken. Da wurde gerade ein Strafbefehl erlassen gegen einen … ([[Transkript 115#Minute 0|Transkript]])
-- [2:06](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=126) – Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Zorbei … ([[Transkript 115#Minute 2|Transkript]])
+- [2:06](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=126) – Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Solveig … ([[Transkript 115#Minute 2|Transkript]])
 - [4:13](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=253) – Anklage ist kurz vor Verjährung, Klammer auf, 17. Mai, Klammer zu. Er möchte den Fall aber für sich … ([[Transkript 115#Minute 4|Transkript]])
 - [6:18](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=378) – Könnte es vielleicht sein, dass ihr ihn einfach kalt erwischt habt und er kalte Füße bekommen hat? Lars, … ([[Transkript 115#Minute 6|Transkript]])
 - [8:19](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=499) – Und deshalb war da auch das Amtsgericht zuständig. Das ist das unterste Strafgericht. Und genau deshalb war auch … ([[Transkript 115#Minute 8|Transkript]])
@@ -58,12 +58,12 @@ Ein Hinweis für Hörerinnen und Hörer, die regelmäßig das Handelsblatt lesen
 - [29:00](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1740) – Jedenfalls klingt ja Reue bei ihm da irgendwie ein bisschen anders oder Einsicht, oder Luis? Ja, also ich … ([[Transkript 115#Minute 29|Transkript]])
 - [31:03](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1863) – 2015 hat die Süddeutsche Zeitung einen sehr kritischen Text geschrieben und die hatten auch interne Mails und Unterlagen … ([[Transkript 115#Minute 31|Transkript]])
 - [33:04](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=1984) – Das spielt da gar keine Rolle. Die haben das da klar gemacht. Ich frage mich jetzt aber auch, … ([[Transkript 115#Minute 33|Transkript]])
-- [35:07](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2107) – Und Mauri Schad selbst hat gegenüber dem Handelsblatt damals auch weitere Verurteilungen eingeräumt. Allerdings, das hat er damals … ([[Transkript 115#Minute 35|Transkript]])
+- [35:07](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2107) – Und Maurischat selbst hat gegenüber dem Handelsblatt damals auch weitere Verurteilungen eingeräumt. Allerdings, das hat er damals so … ([[Transkript 115#Minute 35|Transkript]])
 - [37:11](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2231) – Ja, und die wollen natürlich auch nicht, dass da bei ihnen ermittelt wird. Nach einer kurzen Unterbrechung geht … ([[Transkript 115#Minute 37|Transkript]])
 - [39:12](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2352) – Deswegen gibt es bei uns ja den Justiziar und der guckt sich die Texte an und er und … ([[Transkript 115#Minute 39|Transkript]])
 - [41:18](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2478) – Und warum mit diesen Coinen? Dann gab es dann auch eine BaFin-Warnung und so. Also das ist ziemlich … ([[Transkript 115#Minute 41|Transkript]])
 - [43:24](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2604) – Also dass Leute, insbesondere auch jüngere Menschen, das gar nicht mehr so krass auseinanderhalten können, was jetzt ein … ([[Transkript 115#Minute 43|Transkript]])
-- [45:28](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2728) – Mauri Schatt selbst ist mittlerweile bei Gomopa raus. Und auf LinkedIn steht, dass er seit Januar 2024 Privatier … ([[Transkript 115#Minute 45|Transkript]])
+- [45:28](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2728) – Maurischat selbst ist mittlerweile bei Gomopa raus. Und auf LinkedIn steht, dass er seit Januar 2024 Privatier ist. … ([[Transkript 115#Minute 45|Transkript]])
 - [47:31](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2851) – Für heute danke ich euch jetzt erstmal für das Gespräch. Schön, dass ihr da wart. Gerne. Danke dir. … ([[Transkript 115#Minute 47|Transkript]])
 
 ---

@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-02-23 |
 | **Dauer** | 1:04:59 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI) · [MP3](https://audio.podigee-cdn.net/1759455-m-5662d25fdca755c5d08be03e32b6d7a0.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/108-neue-episode) |
-| **Transkript** | [[Transkript 108]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Wirecard]] |
+| **Transkript** | [[Transkript 108]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Wirecard]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Markus Braun]], [[Kai-Uwe Steck]], [[Alfred Dierlamm]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Freshfields und Cum-Ex]], [[Dieselgate (Volkswagen)]], [[Hanno Berger]], [[Steuerfahndung]], [[Volkswagen]], [[Staatsanwaltschaft Köln]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Volker Votsmeier]], [[Markus Braun]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Alfred Dierlamm]] |
+| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Dieselgate (Volkswagen)]], [[Hanno Berger]], [[Steuerfahndung]], [[Volkswagen]] |
 
 ## Shownotes
 
@@ -48,7 +48,7 @@ Wenn Sie in diesem ereignisreichen Jahr die Fakten im Blick behalten und auf ver
 ## Zeitmarken
 
 - [0:05](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=5) – Hallo und herzlich willkommen zu dieser besonderen Folge von Handelsblatt Crime. Ich schiebe mal vorweg, normalerweise sprechen wir … ([[Transkript 108#Minute 0|Transkript]])
-- [2:18](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=138) – Hallo. Hallo Ina. Herr Dierlam, das ist für Sie, glaube ich, auch Novum, dass in so einem Podcast … ([[Transkript 108#Minute 2|Transkript]])
+- [2:18](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=138) – Hallo. Hallo Ina. Herr Dierlamm, das ist für Sie, glaube ich, auch Novum, dass in so einem Podcast … ([[Transkript 108#Minute 2|Transkript]])
 - [4:27](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=267) – Haben Sie dann direkt mit Wirtschaftsstrafrecht angefangen oder wie fing das bei Ihnen an? Ja, das ist eine … ([[Transkript 108#Minute 4|Transkript]])
 - [6:34](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=394) – Sie hätten ja auch genauso gut Staatsanwalt werden können. Also jetzt stehen Sie ja immer auf der Seite … ([[Transkript 108#Minute 6|Transkript]])
 - [8:34](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=514) – Das zweite Element ist Wissenschaft und Lehre, Forschung und Lehre. Wenn man sich wissenschaftlich mit strafrechtlichen oder strafrechtlichen … ([[Transkript 108#Minute 8|Transkript]])
@@ -72,14 +72,14 @@ Wenn Sie in diesem ereignisreichen Jahr die Fakten im Blick behalten und auf ver
 - [45:24](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=2724) – Sollte es da Updates geben, erfahren Sie die natürlich regelmäßig und jederzeit auf unserer Handelsblatt-Webseite, denn wir werden … ([[Transkript 108#Minute 45|Transkript]])
 - [47:28](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=2848) – Wie soll ich mich denn auch noch darum kümmern? Müssen Sie doch nicht. Ach nee, und wer macht … ([[Transkript 108#Minute 47|Transkript]])
 - [49:31](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=2971) – Das ist sein gutes Recht, das kann er tun. Und ich habe da eine klare Meinung zu. Jeder … ([[Transkript 108#Minute 49|Transkript]])
-- [51:32](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3092) – Wir müssen auch nochmal, Sie hatten gerade den Namen schon erwähnt, Anne Bräuchelker, die ehemalige Leiterin der Hauptabteilung … ([[Transkript 108#Minute 51|Transkript]])
+- [51:32](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3092) – Wir müssen auch nochmal, Sie hatten gerade den Namen schon erwähnt, Anne Brorhilker, die ehemalige Leiterin der Hauptabteilung … ([[Transkript 108#Minute 51|Transkript]])
 - [53:34](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3214) – Sie haben gerade gesagt, Sie haben andere Sachen auf dem Tisch. Können Sie uns ein bisschen einen Einblick … ([[Transkript 108#Minute 53|Transkript]])
 - [55:35](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3335) – Nein, aber wir arbeiten mit KI. Das machen natürlich junge Kollegen, die auch sozusagen mit diesen Tools umgehen … ([[Transkript 108#Minute 55|Transkript]])
 - [57:37](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3457) – Natürlich nicht. Natürlich schaut man sich das an. Die Krux bei KI ist ja, dass der Mensch sie … ([[Transkript 108#Minute 57|Transkript]])
 - [59:45](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3585) – Ich muss sagen, bei mir, und da kann ich für meine Frau auch mitsprechen, die das auch so … ([[Transkript 108#Minute 59|Transkript]])
 - [1:01:46](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3706) – Kann man sich ja vorstellen, die Verfahren wären auch immer komplexer. Und dieses Thema Work-Life-Balance, was Sie jetzt … ([[Transkript 108#Minute 61|Transkript]])
 - [1:03:49](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3829) – Wir beide sind typische Rheinländer und jetzt haben wir... Und als Rheinländerin kann ich das ja so nachvollziehen. … ([[Transkript 108#Minute 63|Transkript]])
-- [1:05:50](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3950) – Wir hatten es schon gesagt, Herr Dielam kann nicht alle Fragen zu allen Mandanten oder Ex-Mandanten beantworten. Und … ([[Transkript 108#Minute 65|Transkript]])
+- [1:05:50](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=3950) – Wir hatten es schon gesagt, Herr Dierlamm kann nicht alle Fragen zu allen Mandanten oder Ex-Mandanten beantworten. Und … ([[Transkript 108#Minute 65|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

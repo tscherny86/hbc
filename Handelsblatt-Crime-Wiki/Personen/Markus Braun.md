@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 19
+folgen: 17
 tags: [personen]
 ---
 # Markus Braun
@@ -22,7 +22,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 
 ## Was im Podcast gesagt wird
 
-> … wir auch über die aktuellen Ereignisse bei Wirecard. Wird der ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marzalek? Und müssen die Aktionäre vielleicht ihre Dividenden zurückzahlen? Damit herzlich willkommen …
+> … wir auch über die aktuellen Ereignisse bei Wirecard. Wird der ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marsalek? Und müssen die Aktionäre vielleicht ihre Dividenden zurückzahlen? Damit herzlich willkommen …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 2:47](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=167) · [[Transkript 004#Minute 2|im Transkript]]
 
@@ -30,7 +30,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 28:41](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1721) · [[Transkript 004#Minute 28|im Transkript]]
 
-> … Felix und Sönke, lass uns ganz zum Ende nochmal auf das Thema Markus Braun und Jan Marselek zu sprechen kommen, weil das sind natürlich auch so ein bisschen die Hauptpersonen. Da sind wir natürlich …
+> … Felix und Sönke, lass uns ganz zum Ende nochmal auf das Thema Markus Braun und Jan Marsalek zu sprechen kommen, weil das sind natürlich auch so ein bisschen die Hauptpersonen. Da sind wir natürlich …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 39:33](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2373) · [[Transkript 004#Minute 39|im Transkript]]
 
@@ -38,13 +38,13 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 42:35](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2555) · [[Transkript 004#Minute 42|im Transkript]]
 
-> … Also der nächste Schritt auf Seiten Marsalix ist sozusagen, dass er jetzt Markus Braun mit ins Boot holt. Mit ins Boot holen sieht so aus, dass er ihm eine Präsentation über diese Firmengruppe weiterleitet …
+> … Michael. Also der nächste Schritt auf Seiten Marsaleks ist sozusagen, dass er jetzt Markus Braun mit ins Boot holt. Mit ins Boot holen sieht so aus, dass er ihm eine Präsentation über diese Firmengruppe weiterleitet …
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 11:37](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=697) · [[Transkript 007#Minute 11|im Transkript]]
 
-> … der COO von Wirecard und hat natürlich einen sehr guten Rat zu Markus Braun, aber die hatten ja zum Beispiel auch einen Aufsichtsrat und alle möglichen Mitarbeiterinnen und Mitarbeiter. Ist denn da keinem irgendwas …
+> … der Asienvorstand und der COO von Wirecard und hat natürlich einen sehr guten Draht zu Markus Braun, aber die hatten ja zum Beispiel auch einen Aufsichtsrat und alle möglichen Mitarbeiterinnen und Mitarbeiter. Ist denn da keinem irgendwas aufgefallen …
 >
-> — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 21:26](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1286) · [[Transkript 007#Minute 21|im Transkript]]
+> — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 21:25](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1285) · [[Transkript 007#Minute 21|im Transkript]]
 
 > … da bei Wirecard nicht richtig gelaufen sind. Und die Rede ist von Markus Braun, dem ehemaligen CEO. Ja, das ist richtig. Markus Braun legt über seine Anwälte größten Wert darauf, dass er nichts mit …
 >
@@ -142,7 +142,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 0:59](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=59) · [[Transkript 049#Minute 0|im Transkript]]
 
-> … Strafkammer, vor der seit Dezember 2022 auch der Prozess gegen den ehemaligen Wirecard-Chef Markus Braun, den früheren Chefbuchhalter des Konzerns Stefan von Erfa und den ehemaligen Stadthalter in Dubai, Oliver Bellenhaus, die da vor …
+> … Strafkammer, vor der seit Dezember 2022 auch der Prozess gegen den ehemaligen Wirecard-Chef Markus Braun, den früheren Chefbuchhalter des Konzerns Stephan von Erffa und den ehemaligen Statthalter in Dubai, Oliver Bellenhaus, die da vor Gericht stehen, …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 4:42](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=282) · [[Transkript 049#Minute 4|im Transkript]]
 
@@ -150,11 +150,11 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 14:12](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=852) · [[Transkript 049#Minute 14|im Transkript]]
 
-> … seien einmal er selbst von Erfa und Marsalek gewesen. Und frühere Vorstandschef Markus Braun sei Kopf dieser Bande gewesen. Und was Marsalek jetzt im Detail zu Bellenhaus sagt, vielleicht können wir uns das einfach …
+> … Betrugs seien einmal er selbst von Erffa und Marsalek gewesen. Und frühere Vorstandschef Markus Braun sei Kopf dieser Bande gewesen. Und was Marsalek jetzt im Detail zu Bellenhaus sagt, vielleicht können wir uns das einfach …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 19:41](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1181) · [[Transkript 049#Minute 19|im Transkript]]
 
-> … zum ersten Mal öffentlich vor Gericht geäußert hat. Das betrifft aber auch Markus Braun, den ehemaligen CEO des insolventen Zahlungsdienstleisters Wirecard, dem nach wie vor in München der Prozess gemacht wirkt. Als auch, ganz …
+> … zum ersten Mal öffentlich vor Gericht geäußert hat. Das betrifft aber auch Markus Braun, den ehemaligen CEO des insolventen Zahlungsdienstleisters Wirecard, dem nach wie vor in München der Prozess gemacht wird. Als auch, ganz besonders, …
 >
 > — [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57]], [Minute 0:53](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap?t=53) · [[Transkript 057#Minute 0|im Transkript]]
 
@@ -170,7 +170,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 1:04:41](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3881) · [[Transkript 064#Minute 64|im Transkript]]
 
-> … Münchner Wirecard-Strafprozess auf womöglich wegweisende Wochen zu. Ein Befangenheitsantrag des angeklagten Ex-Vorstandschef Markus Braun wurde abgelehnt. Und der neben Braun und Bellenhaus dritte Angeklagte, der frühere Chefbuchhalter Stefan von Erfer, wird voraussichtlich noch im …
+> … Münchner Wirecard-Strafprozess auf womöglich wegweisende Wochen zu. Ein Befangenheitsantrag des angeklagten Ex-Vorstandschef Markus Braun wurde abgelehnt. Und der neben Braun und Bellenhaus dritte Angeklagte, der frühere Chefbuchhalter Stephan von Erffa, wird voraussichtlich noch im Frühjahr vor …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 1:27](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=87) · [[Transkript 069#Minute 1|im Transkript]]
 
@@ -182,11 +182,11 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 56:02](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3362) · [[Transkript 069#Minute 56|im Transkript]]
 
-> … ausschließlich um den Fall Wirecard drehte. Ich war auch dabei, als wir Markus Braun zum Bankengipfel eingeladen haben, zum Doppelinterview mit Christian Seewing. Ich habe noch Fotos davon. Für mich auch tatsächlich, glaube ich, …
+> … ausschließlich um den Fall Wirecard drehte. Ich war auch dabei, als wir Markus Braun zum Bankengipfel eingeladen haben, zum Doppelinterview mit Christian Sewing. Ich habe noch Fotos davon. Für mich auch tatsächlich, glaube ich, …
 >
 > — [[079 Meet the Team Investigativ-Redakteur Michael Verfürden|#79]], [Minute 10:31](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t?t=631) · [[Transkript 079#Minute 10|im Transkript]]
 
-> … als der Verteidiger, nein, nicht ist, sondern war der Verteidiger von Ex-Freuer-Card-Vorstand Markus Braun. Und das ist er jetzt nicht mehr, Sönke. Genau, das haben wir praktisch live mitbekommen. Also wir hatten vor zwei …
+> … als der Verteidiger, nein, nicht ist, sondern war der Verteidiger von Ex-Wirecard-Vorstand Markus Braun. Und das ist er jetzt nicht mehr, Sönke. Genau, das haben wir praktisch live mitbekommen. Also wir hatten vor zwei …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:02:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3758) · [[Transkript 082#Minute 62|im Transkript]]
 
@@ -194,7 +194,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:04:32](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=3872) · [[Transkript 082#Minute 64|im Transkript]]
 
-> … wichtigen Prozestag sein Schweigen brechen. Er ist angeklagt neben dem prominenteren Gesicht, Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Stadthalter des Konzerns. Der hat schon vor …
+> … wichtigen Prozesstag sein Schweigen brechen. Er ist angeklagt neben dem prominenteren Gesicht, Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Statthalter des Konzerns. Der hat schon vor …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 1:54](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=114) · [[Transkript 089#Minute 1|im Transkript]]
 
@@ -202,7 +202,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 6:48](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=408) · [[Transkript 089#Minute 6|im Transkript]]
 
-> … eben von Erfa sich mit den beiden anderen Angeklagten, dem langjährigen Vorstandschef Markus Braun und Oliver Bellenhaus, dem ehemaligen Stadthalter von Wirecard in Dubai, zusammengeschlossen hat als Bande, um zu betrügen. Also, das Ziel …
+> … dass eben von Erffa sich mit den beiden anderen Angeklagten, dem langjährigen Vorstandschef Markus Braun und Oliver Bellenhaus, dem ehemaligen Statthalter von Wirecard in Dubai, zusammengeschlossen hat als Bande, um zu betrügen. Also, das Ziel …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 8:31](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=511) · [[Transkript 089#Minute 8|im Transkript]]
 
@@ -210,7 +210,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 13:13](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=793) · [[Transkript 089#Minute 13|im Transkript]]
 
-> … wir ja drei Leute, die da im Moment auf der Anklagebank sitzen. Markus Braun, der ehemaligen CEO, der Chefbuchhalter, Herr von Erfa, der zu diesem Zeitpunkt, wenn dieser Podcast mit dieser Sonderfolge erscheint, schon …
+> … wir ja drei Leute, die da im Moment auf der Anklagebank sitzen. Markus Braun, der ehemaligen CEO, der Chefbuchhalter, Herr von Erffa, der zu diesem Zeitpunkt, wenn dieser Podcast mit dieser Sonderfolge erscheint, schon ausgesagt …
 >
 > — [[092 Meet the Team Volker Votsmeier|#92]], [Minute 12:04](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o?t=724) · [[Transkript 092#Minute 12|im Transkript]]
 
@@ -226,7 +226,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 1:13](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=73) · [[Transkript 093#Minute 1|im Transkript]]
 
-> … wir haben ja noch ein paar mehr. Wir haben ja auch noch Markus Braun und ja, Oliver Bellenhaus. Genau, Markus Braun, der war natürlich mal sehr vermögend mit Willen an der Côte d'Azur und …
+> … wir haben ja noch ein paar mehr. Wir haben ja auch noch Markus Braun und ja, Oliver Bellenhaus. Genau, Markus Braun, der war natürlich mal sehr vermögend mit Villen an der Côte d'Azur und in Österreich …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 27:05](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1625) · [[Transkript 093#Minute 27|im Transkript]]
 
@@ -234,7 +234,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 28:56](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1736) · [[Transkript 093#Minute 28|im Transkript]]
 
-> … der gute Herr Jaffee einklagt. Und zwar läuft der Prozess eben gegen Markus Braun, Stefan von Erfa, Alexander von Knob, Susanne Steidl und den Ex-Aufsichtsrat Stefan Klestiel. Und ja, die sollen eben gesamtschuldnerisch letztlich …
+> … der gute Herr Jaffé einklagt. Und zwar läuft der Prozess eben gegen Markus Braun, Stephan von Erffa, Alexander von Knoop, Susanne Steidl und den Ex-Aufsichtsrat Stefan Klestil. Und ja, die sollen eben gesamtschuldnerisch letztlich ran für diese 140 …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 36:49](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=2209) · [[Transkript 093#Minute 36|im Transkript]]
 
@@ -246,7 +246,7 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 19:30](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1170) · [[Transkript 108#Minute 19|im Transkript]]
 
-> … die großen Namen kommen. Zwei hatten wir schon angesprochen. Sie haben also Markus Braun vertreten. Dann haben Sie Steck eben den Kronzeugen vertreten im Comex-Skandal. Sie haben aber unter anderem auch Alexander Zverev, das …
+> … die großen Namen kommen. Zwei hatten wir schon angesprochen. Sie haben also Markus Braun vertreten. Dann haben Sie Steck eben den Kronzeugen vertreten im Cum-Ex-Skandal. Sie haben aber unter anderem auch Alexander Zverev, das …
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 30:00](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1800) · [[Transkript 108#Minute 30|im Transkript]]
 
@@ -274,13 +274,9 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 31:43](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1903) · [[Transkript 116#Minute 31|im Transkript]]
 
-> … da nochmal gestellt. Darf das Handelsblatt mein Foto in der Form zwischen Markus Braun und Jan Maserleck veröffentlichen? Wir haben natürlich selbstbewusst argumentiert. Wir hatten gerade die Entscheidung aus Berlin da. Schaut euch die …
+> … da nochmal gestellt. Darf das Handelsblatt mein Foto in der Form zwischen Markus Braun und Jan Marsalek veröffentlichen? Wir haben natürlich selbstbewusst argumentiert. Wir hatten gerade die Entscheidung aus Berlin da. Schaut euch die …
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 34:52](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2092) · [[Transkript 116#Minute 34|im Transkript]]
-
-> … mal im Podcast darüber gesprochen, dass er dort auch, also Benko auch Ex-Wirecard-Chef Markus Braun empfangen hat. Ja, da haben wir noch die Mail, die Einladung, du kannst gerne bei uns übernachten, hat er …
->
-> — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 53:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=3190) · [[Transkript 120#Minute 53|im Transkript]]
 
 > … lukrativer Kunde für Wirecard. Und an diesem Termin soll eben auch Vorstandschef Markus Braun mit am Tisch gesessen haben. Den haben wir dann damals auch, das haben wir schon mal geschrieben, und damals haben …
 >
@@ -289,10 +285,6 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 > … auch noch ein bisschen, denn es gibt mal wieder eine Haftbeschwerde von Markus Brauns Verteidigung. Ob die jetzt so viel Aussicht auf Erfolg hat, wagen wir ehrlich gesagt, zu bezweifeln. Denn ähnliche Anträge hat …
 >
 > — [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131]], [Minute 46:48](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2808) · [[Transkript 131#Minute 46|im Transkript]]
-
-> … sagen, ein ereignisreiches Jahr. Ja, denn Sönke, was steht vor allem an? Markus Braun, die Verurteilung voraussichtlich oder das Gerichtsurteil steht an? Genau, die Ära Wirecard kommt jetzt langsam zum Ende, jedenfalls was die …
->
-> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 3:53](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=233) · [[Transkript 137#Minute 3|im Transkript]]
 
 > … Protokoll des Untergangs, die letzten 48 Stunden von Wirecard. Erleben Sie nochmal, Markus Braun, Jan Marsalek und Konsorten, die ganze Panik, die ganze Kälte rekonstruiert anhand originaler Dokumente, viele davon bisher unveröffentlicht. Leider ist …
 >
@@ -310,10 +302,10 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 >
 > — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 56:06](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3366) · [[Transkript 151#Minute 56|im Transkript]]
 
-## In diesen Folgen (19)
+## In diesen Folgen (17)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [2:47](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=167), [28:41](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1721), [39:33](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2373), [42:35](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2555)
-- [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes · Minute [11:37](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=697), [21:26](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1286), [50:07](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=3007)
+- [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes · Minute [11:37](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=697), [21:25](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=1285), [50:07](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=3007)
 - [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Shownotes · Minute [0:47](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=47), [21:05](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1265), [35:17](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2117), [39:23](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2363)
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [0:33](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=33), [2:56](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=176), [4:39](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=279), [6:13](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=373)
 - [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Shownotes · Minute [0:49](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=49), [3:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=206), [6:26](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=386), [8:23](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=503)
@@ -329,8 +321,6 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 - [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108 – Alfred Dierlamm im Gespräch: Was macht einen erfolgreichen Strafverteidiger aus?]] (2025-02-23) — Shownotes · Minute [0:43](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=43), [19:30](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1170), [30:00](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1800), [31:39](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=1899)
 - [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes · Minute [50:47](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=3047), [52:29](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=3149)
 - [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Minute [31:43](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1903), [34:52](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=2092)
-- [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Minute [53:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=3190)
-- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Minute [3:53](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=233)
 
 ## Kurz erwähnt (9)
 

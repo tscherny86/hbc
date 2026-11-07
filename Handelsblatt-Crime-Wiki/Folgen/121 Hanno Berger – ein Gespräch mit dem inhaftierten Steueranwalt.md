@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-08-10 |
 | **Dauer** | 53:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt) · [MP3](https://audio.podigee-cdn.net/1984459-m-a5d7e57502bc1c82317798b475818646.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/121-neue-episode) |
-| **Transkript** | [[Transkript 121]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Transkript** | [[Transkript 121]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Kai-Uwe Steck]], [[Alfred Dierlamm]] |
-| **Kurz erwähnt** | [[Strafverteidigung]], [[Falschaussage]], [[Landgericht Bonn]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Alfred Dierlamm]] |
+| **Kurz erwähnt** | [[Strafverteidigung]], [[Landgericht Bonn]] |
 
 ## Shownotes
 
@@ -50,7 +50,7 @@ Lesen Sie hier außerdem, warum bei der Suche nach Bergers Cum-Ex-Millionen auch
 - [8:31](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=511) – Er hat natürlich beim Bundesgerichtshof versucht, diese Urteile anzufechten, ist in Revision gegangen. Es gibt ja zwei Urteile, … ([[Transkript 121#Minute 8|Transkript]])
 - [10:36](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=636) – Du musst dann Ausschnitte nehmen. Das haben wir ihm vorgeschlagen, das Format. Damit war er dann aber nicht … ([[Transkript 121#Minute 10|Transkript]])
 - [12:36](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=756) – Na, Vodafone Business. Stimmt, wir haben die passenden Services für jedes Unternehmen. Von IT-Sicherheit über KI-Tools bis zum … ([[Transkript 121#Minute 12|Transkript]])
-- [14:39](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=879) – So eine Anklage, wissen Sie doch, Herr Iversen, das deutsche Recht, die muss ja erstmal zugelassen werden von … ([[Transkript 121#Minute 14|Transkript]])
+- [14:39](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=879) – So eine Anklage, wissen Sie doch, Herr Iwersen, das deutsche Recht, die muss ja erstmal zugelassen werden von … ([[Transkript 121#Minute 14|Transkript]])
 - [16:42](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1002) – Genau. Das sagte er jedenfalls, dass er krank wurde. Er schickte einen Attest. Ja, und dann ging es … ([[Transkript 121#Minute 16|Transkript]])
 - [18:46](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1126) – Und die, weiß ich, was man da hat, medizinische Gutachten, irgendwelche Röntgenbilder oder was man dann so hat, … ([[Transkript 121#Minute 18|Transkript]])
 - [20:47](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1247) – Einmal die der Generalstaatsanwaltschaft Frankfurt und einmal die der Staatsanwaltschaft Köln. Für Frankfurt war halt Frankfurt zuständig, deswegen … ([[Transkript 121#Minute 20|Transkript]])

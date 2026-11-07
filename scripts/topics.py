@@ -23,7 +23,7 @@ TOPICS = [
     {
         "name": "Ina Karabasz",
         "folder": "Personen",
-        "patterns": [r"\bKarabasz\b", r"\bIna\b(?= Karabasz)"],
+        "patterns": [r"\bKarabasz\b", r"\bIna\b"],
         "min": 1,
         "summary": "Host von Handelsblatt Crime seit dem Start 2021, Ressortleiterin Podcast, Live und Video beim Handelsblatt.",
         "body": "**Ina Karabasz** moderiert Handelsblatt Crime seit der ersten Folge im Dezember 2021. Sie ist seit 2013 beim Handelsblatt, war Reporterin im Unternehmensressort (Telekommunikation, Technologie, IT-Sicherheit), leitete ab 2018 „Handelsblatt Live“ und seit Juli 2022 das Ressort Podcast, Live und Video. Die studierte Volkswirtin ist Absolventin der Georg von Holtzbrinck-Schule für Wirtschaftsjournalisten.",
@@ -50,7 +50,7 @@ TOPICS = [
         for n, p, s, b in [
             ("Volker Votsmeier", [r"\bVotsmeier\b"], "Investigativ-Redakteur und Co-Leiter des Investigativteams; Schwerpunkte Cum-Ex, Banken, Justiz.",
              "**Volker Votsmeier** gehört zur Leitung des Handelsblatt-Investigativteams und berichtet im Podcast vor allem über Cum-Ex, Landesbanken, die Hamburger Warburg-Affäre und Gerichtsverfahren. Vorstellung in „Meet the Team“ (#92)."),
-            ("Lars-Marten Nagel", [r"\bNagel\b", r"Lars-Marten"], "Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenzen.",
+            ("Lars-Marten Nagel", [r"\bLars[- ]Marten\b", r"\bNagel\b(?<!den Nagel)(?! (gerissen|reißen|zu))"], "Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenzen.",
              "**Lars-Marten Nagel** ist Investigativ-Redakteur beim Handelsblatt und recherchiert unter anderem zu Immobilienpleiten, Anlegerskandalen und Insolvenzen. Vorstellung in „Meet the Team“ (#88)."),
             ("Christian Heinemann", [r"\bHeinemann\b"], "Produzent des Podcasts; zuständig für Schnitt, Ton und Produktion von Handelsblatt Crime.",
              "**Christian Heinemann** produziert Handelsblatt Crime: Schnitt, Ton und die Produktion der Folgen. Vorstellung in „Meet the Team“ (#85)."),

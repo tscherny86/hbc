@@ -30,14 +30,6 @@ Hinzu kommen Berichte aus Grünheide, wo Beschäftigte mit Kamera-Rucksäcken Be
 >
 > — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 17:55](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=1075) · [[Transkript 125#Minute 17|im Transkript]]
 
-> … cool, hier können wir auch Robotaxis herstellen bald und humanoide Roboter, dieser Optimus-Roboter und später vielleicht auch noch den Tesla Semi, den Truck. Und wenn das alles so läuft, wie ich mir das vorstelle, …
->
-> — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 29:23](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=1763) · [[Transkript 142#Minute 29|im Transkript]]
-
-> … wird, sondern nur noch den eben schon von dir erwähnten humanoiden Roboter Optimus und das kriegt man in Grünheide natürlich auch mit. So, und ich würde sagen, an der Stelle machen wir jetzt einen …
->
-> — [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142]], [Minute 1:19:13](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4753) · [[Transkript 142#Minute 79|im Transkript]]
-
 > … Anfang gehört haben, stammen aus dem Dokumentarfilm Elon Musk Uncovered – Das Tesla-Experiment, zu sehen in der ARD-Mediathek. Der Film beruht wesentlich auf einer Recherche des Handelsblatts, den Tesla-Files. Die kennen Sie ja wahrscheinlich …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 1:18](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=78) · [[Transkript 162#Minute 1|im Transkript]]
@@ -58,10 +50,9 @@ Hinzu kommen Berichte aus Grünheide, wo Beschäftigte mit Kamera-Rucksäcken Be
 
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:18](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=78), [3:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=235), [5:51](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=351), [36:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2215)
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (1)
 
 - [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Minute [13:25](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=805), [17:55](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=1075)
-- [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Minute [29:23](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=1763), [1:19:13](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf?t=4753)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

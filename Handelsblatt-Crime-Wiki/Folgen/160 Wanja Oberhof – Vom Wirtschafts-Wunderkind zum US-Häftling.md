@@ -23,7 +23,7 @@ tags: [folge, jahr-2026, folge]
 | **Themen** | [[Betrug]], [[Insolvenz]] |
 | **Unternehmen** | [[Social Chain]] |
 | **Personen** | [[Ina Karabasz]], [[Wanja Oberhof]], [[Klaus Kleinfeld]], [[Georg Kofler]], [[Ralf Dümmel]], [[Stephan Goetz]] |
-| **Kurz erwähnt** | [[Sympatex-Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Sympatex]], [[Goetzpartners]], [[BaFin]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Sympatex-Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Sympatex]], [[Goetzpartners]], [[BaFin]] |
 
 ## Shownotes
 

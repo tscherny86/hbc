@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, team]
 | **Datum** | 2024-04-07 |
 | **Dauer** | 9:48 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6iwXcApt9tmPitvo1HtNyD) · [MP3](https://audio.podigee-cdn.net/1416384-m-b9543c4553643820e3859983b0af49f2.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/72-spezial-solveig) |
-| **Transkript** | [[Transkript 072]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 072]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | – |
 | **Themen** | – |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Aldi-Familienstreit]], [[Cum-Ex-Geschäfte]], [[Betrug]], [[Erbstreit]], [[Aldi]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Marsalek und das russische Spionagenetzwerk]], [[Erbstreit Veltins]], [[Jan Marsalek]], [[Carl-Clemens Veltins]], [[Cum-Ex-Geschäfte]], [[Betrug]], [[Erbstreit]], [[Veltins]] |
 
 ## Shownotes
 

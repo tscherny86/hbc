@@ -20,9 +20,9 @@ tags: [folge, jahr-2026, sonder]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8) · [MP3](https://audio.podigee-cdn.net/2551718-m-4bff094aaa4558ba0fb1b8700cd7cdea.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/154-sonderfolge-interview-mit-handelsblatt-chefredakteur-sebastian-matthes-uber-recherche-klagen-und-ki) |
 | **Transkript** | [[Transkript 154]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Tesla-Files]] |
-| **Themen** | [[Whistleblower]], [[Datenleck]] |
-| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
-| **Personen** | [[Sönke Iwersen]], [[Felix Holtermann]], [[Sebastian Matthes]] |
+| **Themen** | [[Datenleck]] |
+| **Unternehmen** | [[Tesla]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Felix Holtermann]], [[Sebastian Matthes]] |
 | **Kurz erwähnt** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Jan Marsalek]], [[Elon Musk]], [[EY (Ernst & Young)]] |
 
 ## Shownotes

@@ -36,11 +36,7 @@ Das Problem liegt im System: Vermögen wurde über Jahre mit Hilfe von „Enable
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 6:11](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=371) · [[Transkript 010#Minute 6|im Transkript]]
 
-> … ist anders als bei herkömmlichen, wir haben ja auch in anderen Ländern Oligarchen. Also wir kennen das aus Russland oder aus China vielleicht und überall. Aber ein Oligarchen, der sagt, Mainz ist die ganze …
->
-> — [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110]], [Minute 55:43](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3343) · [[Transkript 110#Minute 55|im Transkript]]
-
-> Tonight, I say to the Russian oligarchs and the Krupp leaders who built billions of dollars off this violent regime, no more. The United States, I mean it, …
+> Tonight, I say to the Russian oligarchs and the Corrupt leaders who built billions of dollars off this violent regime, no more. The United States, I mean it, the …
 >
 > — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 0:05](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=5) · [[Transkript 126#Minute 0|im Transkript]]
 
@@ -52,18 +48,14 @@ Das Problem liegt im System: Vermögen wurde über Jahre mit Hilfe von „Enable
 >
 > — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 9:09](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=549) · [[Transkript 126#Minute 9|im Transkript]]
 
-> … jetzt so, die US-Behörden sind überzeugt, dass das Schiff einem bestimmten sanktionierten Oligarchen gehört. Nun ist es ja aber bei diesen Megajachten oft alles ein bisschen komplizierter. Hinter den Schiffen, die sind nicht auf …
+> … werden soll und für die juristischen Hürden steht. Dann gibt es die Dilbar, die bei Bremen ein Trockendock blockiert. Das sorgt auch ein bisschen für Ärger. Und dann gibt es noch die Lady Anastasia. …
 >
-> — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 15:11](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=911) · [[Transkript 126#Minute 15|im Transkript]]
+> — [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126]], [Minute 12:09](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=729) · [[Transkript 126#Minute 12|im Transkript]]
 
 ## In diesen Folgen (2)
 
 - [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10 – Sanktionsschlupflöcher: Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Behörden]] (2022-03-27) — Shownotes · Minute [0:16](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=16), [2:01](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=121), [4:09](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=249), [6:11](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=371)
-- [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126 – Teure Symbolpolitik: Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freunde scheitern]] (2025-09-21) — Minute [0:05](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=5), [3:24](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=204), [9:09](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=549), [15:11](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=911)
-
-## Kurz erwähnt (1)
-
-- [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Minute [55:43](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV?t=3343)
+- [[126 Teure Symbolpolitik Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freu|#126 – Teure Symbolpolitik: Warum die Sanktionen gegen die Megajachten mutmaßlicher Putin-Freunde scheitern]] (2025-09-21) — Minute [0:05](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=5), [3:24](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=204), [9:09](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=549), [12:09](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M?t=729)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

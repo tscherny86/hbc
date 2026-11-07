@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-05-08 |
 | **Dauer** | 43:45 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7) · [MP3](https://audio.podigee-cdn.net/722603-m-6138f708bcebd943afb8fc9d9e934a65.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/13-neue-episode) |
-| **Transkript** | [[Transkript 013]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 013]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Ergo-Lustreisen]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Ergo]] |
 | **Personen** | [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[Fall Edward Snowden]], [[Handelsblatt]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 
@@ -60,7 +60,7 @@ Chronik des Ergo-Skandals
 - [10:31](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=631) – Und das wollten wir so machen, dass wir zwar einen Bericht schreiben, aber immer dazwischen setzten die Zitate … ([[Transkript 013#Minute 10|Transkript]])
 - [12:38](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=758) – Wir haben schon ein paar Details gehört. In deinen Artikeln wird auch sehr, sehr deutlich beschrieben, was da … ([[Transkript 013#Minute 12|Transkript]])
 - [14:44](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=884) – Und es gab ein paar Leute, die hatten die Leistung erreicht, die sie zur Budapest hätten führen können, … ([[Transkript 013#Minute 14|Transkript]])
-- [16:48](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=1008) – Diese seien anhand von farblichen Armgelenkbändchen zu erkennen. Bei dieser Ansprache soll *** die Kennzeichnung der Prostituierten und … ([[Transkript 013#Minute 16|Transkript]])
+- [16:48](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=1008) – Diese seien anhand von farblichen Handgelenkbändchen zu erkennen. Bei dieser Ansprache soll *** die Kennzeichnung der Prostituierten und … ([[Transkript 013#Minute 16|Transkript]])
 - [18:51](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=1131) – Das ist jetzt wirklich sehr genau, sehr detailliert. Ging es denn eigentlich nur um den einen Abend oder … ([[Transkript 013#Minute 18|Transkript]])
 - [20:56](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=1256) – Wer diesmal seine Badehose vergessen hatte, der hatte selbst Schuld. Es gab wohl nur zwei Möglichkeiten, diese Scharte … ([[Transkript 013#Minute 20|Transkript]])
 - [22:59](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7?t=1379) – Also 2011 bezeichnete die Konzernrevision die Reise als schwerwiegend, als eklatanten Verstoß und als krassen Gegensatz zu den … ([[Transkript 013#Minute 22|Transkript]])

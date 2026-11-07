@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-11-06 |
 | **Dauer** | 1:22:43 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1) · [MP3](https://audio.podigee-cdn.net/872362-m-c2d4182294a6fe14464a6209e597a45e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/28-neue-episode) |
-| **Transkript** | [[Transkript 028]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Prominente und die Steuerfahndung]] |
-| **Themen** | [[Insolvenz]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Transkript** | [[Transkript 028]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Prominente und die Steuerfahndung]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Landgericht München]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Alfons Schuhbeck]], [[Uli Hoeneß]], [[Klaus Zumwinkel]] |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Wirecard]], [[Markus Braun]], [[Cum-Ex-Geschäfte]], [[Betrug]], [[Strafverteidigung]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Alfons Schuhbeck]], [[Uli Hoeneß]], [[Klaus Zumwinkel]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Markus Braun]], [[Betrug]], [[Strafverteidigung]] |
 
 ## Shownotes
 
@@ -52,24 +52,24 @@ Wie es für Topmanager nach der Haft weitergeht
 
 ## Zeitmarken
 
-- [0:02](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2) – Alfons Schubeck steht vor Gericht. Die Staatsanwaltschaft wirft dem Star-Koch und einem seiner Mitarbeiter aus der IT-Abteilung Steuerhinterziehung … ([[Transkript 028#Minute 0|Transkript]])
+- [0:02](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2) – Alfons Schuhbeck steht vor Gericht. Die Staatsanwaltschaft wirft dem Star-Koch und einem seiner Mitarbeiter aus der IT-Abteilung Steuerhinterziehung … ([[Transkript 028#Minute 0|Transkript]])
 - [2:04](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=124) – Viele kamen mit Bewährungsstrafen weit gelimpflicher davon, wie etwa der ehemalige Chef der Deutschen Post, Klaus Zumwinkel. Sein … ([[Transkript 028#Minute 2|Transkript]])
 - [4:08](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=248) – Ich glaube, das darf man so sagen. Vielleicht fangen wir bei ihm mal als Mensch an in seiner … ([[Transkript 028#Minute 4|Transkript]])
 - [6:11](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=371) – Dann habe ich mir jetzt in dem Fall sagen, verstehst du, was der meint, verstehst du das, kapierst … ([[Transkript 028#Minute 6|Transkript]])
 - [8:18](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=498) – Also man kann sagen, so wie es das jetzt für mich klingt, also der ist ja noch nach … ([[Transkript 028#Minute 8|Transkript]])
 - [10:20](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=620) – Das hat man unmittelbar vor Prozessbeginn auch stark bei ihm gemerkt. Blass sah aus angeschlagen, schlicht gewirkt. Und … ([[Transkript 028#Minute 10|Transkript]])
-- [12:21](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=741) – Und Schubeck war an manchen Tagen, als manipuliert wurde, gar nicht in München, wie hätte er es denn … ([[Transkript 028#Minute 12|Transkript]])
+- [12:21](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=741) – Und Schuhbeck war an manchen Tagen, als manipuliert wurde, gar nicht in München, wie hätte er es denn … ([[Transkript 028#Minute 12|Transkript]])
 - [14:27](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=867) – Und die hätten vorher auch nichts davon gewusst. Trotzdem sieht das für die Anwälte nicht gut aus. Nee, … ([[Transkript 028#Minute 14|Transkript]])
 - [16:32](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=992) – Und die gaben dann, das war dann weniger durchdacht, die ergaben dann in Summe immer eine glatte Zahl. … ([[Transkript 028#Minute 16|Transkript]])
 - [18:33](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1113) – Aber was dann beim Sternenrestaurant Südtiroler Stuben geschehen sei, das könnte er sich wirklich gar nicht erklären. Da … ([[Transkript 028#Minute 18|Transkript]])
 - [20:34](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1234) – Und wenn ich mir vorstelle, dass der Kronzeuge oder auch Hanno Berger selber auf einmal über Gewürze oder … ([[Transkript 028#Minute 20|Transkript]])
-- [22:38](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1358) – Und eben deshalb auch der Grundseuge das entsprechende Programm dafür geschrieben. Und im Endeffekt konnte Schubert so im … ([[Transkript 028#Minute 22|Transkript]])
-- [24:47](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1487) – Das ist einerseits schon witzig, aber als der Tirechter ihn dann gefragt hat, wer sind denn Ihre Kinder … ([[Transkript 028#Minute 24|Transkript]])
-- [26:49](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1609) – Und Schubeck hat dann einfach gesagt, dass er halt unter großem Druck gestanden hätte und sagt, mir ist … ([[Transkript 028#Minute 26|Transkript]])
+- [22:38](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1358) – Und eben deshalb auch der Kronzeuge das entsprechende Programm dafür geschrieben. Und im Endeffekt konnte Schuhbeck so im … ([[Transkript 028#Minute 22|Transkript]])
+- [24:47](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1487) – Das ist einerseits schon witzig, aber als der Richter ihn dann gefragt hat, wer sind denn Ihre Kinder … ([[Transkript 028#Minute 24|Transkript]])
+- [26:49](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1609) – Und Schuhbeck hat dann einfach gesagt, dass er halt unter großem Druck gestanden hätte und sagt, mir ist … ([[Transkript 028#Minute 26|Transkript]])
 - [28:58](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1738) – 2 ,5 Millionen, damit er den Schaden reguliert. Man sei mit einem Investor seit Monaten im Gespräch über … ([[Transkript 028#Minute 28|Transkript]])
 - [30:58](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1858) – Und da stach das Bild heraus. Er bereut, er ist ja schon mal 1994 verurteilt worden wegen Steuerhinterziehung … ([[Transkript 028#Minute 30|Transkript]])
 - [33:03](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1983) – Und Uli Hoeneß hat gesagt, das war es noch nicht und er wurde wiedergewählt. Und ich glaube, das … ([[Transkript 028#Minute 33|Transkript]])
-- [35:08](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2108) – Und deswegen haben dann ja bis zum Schluss sogar Schubecks Anwälte auch noch sich bemüht, Zweifel daran zu … ([[Transkript 028#Minute 35|Transkript]])
+- [35:08](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2108) – Und deswegen haben dann ja bis zum Schluss sogar Schuhbecks Anwälte auch noch sich bemüht, Zweifel daran zu … ([[Transkript 028#Minute 35|Transkript]])
 - [37:12](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2232) – Also es geht hier nicht um eine Einzeltat, sondern um eine ganz lange Reihe von Taten. Das hat … ([[Transkript 028#Minute 37|Transkript]])
 - [39:12](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2352) – Das ist in der Tat was länger her, nämlich 1994. Da wurde er wegen Steuerhinterziehung und Untreue zu … ([[Transkript 028#Minute 39|Transkript]])
 - [41:13](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2473) – Und der wurde auch wegen Steuerhinterziehung verurteilt. Wo seht ihr denn Parallelen zwischen den beiden, vielleicht auch Unterschiede? … ([[Transkript 028#Minute 41|Transkript]])

@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-07-03 |
 | **Dauer** | 42:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT) · [MP3](https://audio.podigee-cdn.net/806816-m-2b110b26e0be46c84c1bb32186f2df40.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/17-neue-episode) |
-| **Transkript** | [[Transkript 017]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 017]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
 | **Themen** | [[Betrug]], [[Abgasmanipulation]], [[Compliance]] |
-| **Unternehmen** | [[Volkswagen]], [[Audi]], [[Porsche]] |
+| **Unternehmen** | [[Volkswagen]], [[Audi]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Martin Winterkorn]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Cyberangriff auf Continental]], [[Porsche-Ikone vor Gericht]], [[Continental-Dieselskandal]], [[Fall Daniel Starr]], [[Staatsanwaltschaft und Strafprozess]], [[Continental]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Continental-Dieselskandal]], [[Staatsanwaltschaft und Strafprozess]], [[Continental]] |
 
 ## Shownotes
 
@@ -59,7 +59,7 @@ Das Pamio-Video von 2008
 - [4:07](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=247) – Und die US-Behörden hatten Volkswagen da schon seit Jahren bearbeitet, muss man sagen, und dazu aufgefordert, reinen Tisch … ([[Transkript 017#Minute 4|Transkript]])
 - [6:08](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=368) – Stefan, du hast hier die Originalmeldung der US-Umweltbehörde vom 18. September, wir haben es gehört, 2015 mitgebracht. Die … ([[Transkript 017#Minute 6|Transkript]])
 - [8:17](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=497) – Ein umweltfreundliches Auto, wenn man so will. Und in den USA gab es auch strenge Umweltauflagen, besonders in … ([[Transkript 017#Minute 8|Transkript]])
-- [10:19](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=619) – Genau. Das klingt komisch, weil man weiß aus dem eigenen Unternehmen, wenn der Scheife einem sagt, jetzt löst … ([[Transkript 017#Minute 10|Transkript]])
+- [10:19](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=619) – Genau. Das klingt komisch, weil man weiß aus dem eigenen Unternehmen, wenn der Chef einem sagt, jetzt löst … ([[Transkript 017#Minute 10|Transkript]])
 - [12:20](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=740) – Und die ganze Geschichte wird als clean, als saubere Diesel-Strategie verkauft. Vollkommen absurd. Und da hat aber ein … ([[Transkript 017#Minute 12|Transkript]])
 - [14:26](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=866) – Aber wieso sprechen wir eigentlich die ganze Zeit, Sönke, nur über VW? Das ist mir noch nicht so … ([[Transkript 017#Minute 14|Transkript]])
 - [16:32](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT?t=992) – Ja, aber grundsätzlich klingt es ja erstmal, also es gab ein Problem. Sie haben irgendwie sich überlegt, was … ([[Transkript 017#Minute 16|Transkript]])

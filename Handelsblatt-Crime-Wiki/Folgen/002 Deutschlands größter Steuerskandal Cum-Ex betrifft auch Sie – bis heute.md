@@ -18,12 +18,12 @@ tags: [folge, jahr-2021, folge]
 | **Datum** | 2021-12-20 |
 | **Dauer** | 39:05 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH) · [MP3](https://audio.podigee-cdn.net/616704-m-96d245272563808a3cc2e9173cdc05c7.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/2-neue-episode) |
-| **Transkript** | [[Transkript 002]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Handelsblatt]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Christian Olearius]], [[Olaf Scholz]] |
-| **Kurz erwähnt** | [[Freshfields und Cum-Ex]], [[Freshfields]], [[Landgericht Bonn]] |
+| **Transkript** | [[Transkript 002]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Freshfields]], [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Hanno Berger]], [[Anne Brorhilker]], [[Christian Olearius]], [[Olaf Scholz]] |
+| **Kurz erwähnt** | [[Landgericht Bonn]] |
 
 ## Shownotes
 
@@ -59,12 +59,12 @@ Der Datenschatz des Mister Smith
 
 - [0:06](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=6) – Das Thema Cum-Ex beschäftigt uns ja schon eine ganze Weile. Es ist ein milliardenschwerer Steuerskandal. Ich kann mir … ([[Transkript 002#Minute 0|Transkript]])
 - [2:14](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=134) – Sie jagt so manchen Cum-Ex-Bänker bis heute, bis in den Gerichtssaal. Wir sprechen in dieser Folge unter anderem … ([[Transkript 002#Minute 2|Transkript]])
-- [4:17](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=257) – Die Scham über diese Geschäfte hätte seinen Vater gebrochen. Ins Grab gebracht, krass. Wahnsinn. Ja, der Raphael Roth … ([[Transkript 002#Minute 4|Transkript]])
+- [4:17](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=257) – Die Scham über diese Geschäfte hätte seinen Vater gebrochen. Ins Grab gebracht, krass. Wahnsinn. Ja, der Rafael Roth … ([[Transkript 002#Minute 4|Transkript]])
 - [6:24](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=384) – Nein, das ist so nah an uns dran, betrifft uns alle. Es tut uns allen weh, das muss … ([[Transkript 002#Minute 6|Transkript]])
-- [8:25](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=505) – Also Hanno Berger ist aus diesem Kandal nicht wegzudenken. Ist wahrscheinlich der Mann, der CumEx-Geschäfte getrieben hat wie … ([[Transkript 002#Minute 8|Transkript]])
+- [8:25](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=505) – Also Hanno Berger ist aus diesem Skandal nicht wegzudenken. Ist wahrscheinlich der Mann, der Cum-Ex-Geschäfte getrieben hat wie … ([[Transkript 002#Minute 8|Transkript]])
 - [10:27](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=627) – Und der sagte mir, frank und frei, also wenn sie die ganze Wahrheit wissen wollen, dann erzähle ich … ([[Transkript 002#Minute 10|Transkript]])
 - [12:29](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=749) – Bleiben Sie dran. Cybersecurity, KI und dann wollen auch noch alle remote arbeiten. Wie soll ich mich denn … ([[Transkript 002#Minute 12|Transkript]])
-- [14:32](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=872) – Über die wir auch schon oft berichtet haben. Genau, Fresh Feels ist eine der angesehensten Kanzleien der Welt. … ([[Transkript 002#Minute 14|Transkript]])
+- [14:32](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=872) – Über die wir auch schon oft berichtet haben. Genau, Freshfields ist eine der angesehensten Kanzleien der Welt. Ist … ([[Transkript 002#Minute 14|Transkript]])
 - [16:34](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=994) – Der Präsident für das Finanzgericht Köln zum Beispiel, Benno Scharpenberg, hat gesagt, es ist denklogisch unmöglich, sich eine … ([[Transkript 002#Minute 16|Transkript]])
 - [18:51](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1131) – Den Namen braucht man in Hamburg auch niemandem zu erklären. Olearius ist der Übervater der Bank MM Warburg. … ([[Transkript 002#Minute 18|Transkript]])
 - [20:53](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=1253) – Es gab auch Spenden von Herrn Olearius an die Hamburger SPD und nicht nur das, es wurde sogar … ([[Transkript 002#Minute 20|Transkript]])

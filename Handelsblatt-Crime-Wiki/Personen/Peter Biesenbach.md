@@ -22,6 +22,10 @@ Nach seinem Ausscheiden im Juni 2022 sorgte er sich um sein Vermächtnis. Im Mä
 
 ## Was im Podcast gesagt wird
 
+> … jedenfalls aus Sicht dieser Banken nicht. Wir haben ja von dem Peter Biesenbach, von dem Justizminister von Nordrhein-Westfalen gehört, dass er einen Tag erhofft, an dem das fabrikmäßig abgeurteilt wird. Da stellen sich dem …
+>
+> — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 37:03](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=2223) · [[Transkript 032#Minute 37|im Transkript]]
+
 > … Eklat. In Deutschlands größtem Steuerskandal, der Cum-Ex-Affäre, stellt der ehemalige NRW-Justizminister Peter Biesenbach eine Dienstaufsichtsbeschwerde gegen den Leiter der Staatsanwaltschaft Köln und dessen Stellvertreter. Der Vorwurf, sie würden die Arbeit der Cum-Ex-Abteilung unter Oberstaatsanwältin …
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 0:30](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=30) · [[Transkript 040#Minute 0|im Transkript]]
@@ -34,7 +38,7 @@ Nach seinem Ausscheiden im Juni 2022 sorgte er sich um sein Vermächtnis. Im Mä
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 23:10](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1390) · [[Transkript 040#Minute 23|im Transkript]]
 
-> … nicht richtig grün. Und deswegen war das schon auch wichtig, dass Herr Biesenbach dann gesagt hat, komm, ich befördere jetzt die Frau Bräuheker nochmal. Und die hat jetzt auch vier eigene Abteilungen unter sich. …
+> … nicht richtig grün. Und deswegen war das schon auch wichtig, dass Herr Biesenbach dann gesagt hat, komm, ich befördere jetzt die Frau Brorhilker nochmal. Und die hat jetzt auch vier eigene Abteilungen unter sich. …
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 25:45](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1545) · [[Transkript 040#Minute 25|im Transkript]]
 
@@ -50,11 +54,11 @@ Nach seinem Ausscheiden im Juni 2022 sorgte er sich um sein Vermächtnis. Im Mä
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 7:26](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=446) · [[Transkript 094#Minute 7|im Transkript]]
 
-> … Brorheker? Ja, also der Vorgänger von Herrn Limbach, das war der Herr Biesenbach. Der war bis 2022 Justizminister in NRW. Und der hält die Worte von Limbach für üble Nachrede und eine Schmutzkampagne. Wörtlich …
+> … Brorhilker? Ja, also der Vorgänger von Herrn Limbach, das war der Herr Biesenbach. Der war bis 2022 Justizminister in NRW. Und der hält die Worte von Limbach für üble Nachrede und eine Schmutzkampagne. Wörtlich …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 18:34](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=1114) · [[Transkript 094#Minute 18|im Transkript]]
 
-> … auch in den nächsten, sagen wir mal, 48 Monaten nicht. Der Herr Biesenbach, der hat uns mal gesagt, also sein Nachfolger, Kutschatis Nachfolger, hat uns mal gesagt, als ich 2017 Justizminister wurde, wusste ich …
+> … auch in den nächsten, sagen wir mal, 48 Monaten nicht. Der Herr Biesenbach, der hat uns mal gesagt, also sein Nachfolger, Kutschatys Nachfolger, hat uns mal gesagt, als ich 2017 Justizminister wurde, wusste ich …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 1:03:57](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=3837) · [[Transkript 094#Minute 63|im Transkript]]
 
@@ -82,7 +86,7 @@ Nach seinem Ausscheiden im Juni 2022 sorgte er sich um sein Vermächtnis. Im Mä
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 14:12](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=852) · [[Transkript 130#Minute 14|im Transkript]]
 
-> … auch wahrgenommen habe, das wurde auch von mir verlangt. Und da, Justizminister Biesenbach, bin ich gefragt worden, Frau Borlker, wie wollen Sie das denn in den Griff kriegen? Also wie stellen Sie sich das …
+> … auch wahrgenommen habe, das wurde auch von mir verlangt. Und da, Justizminister Biesenbach, bin ich gefragt worden, Frau Brorhilker, wie wollen Sie das denn in den Griff kriegen? Also wie stellen Sie sich das …
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 17:29](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=1049) · [[Transkript 130#Minute 17|im Transkript]]
 
@@ -97,8 +101,9 @@ Nach seinem Ausscheiden im Juni 2022 sorgte er sich um sein Vermächtnis. Im Mä
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Minute [19:35](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1175), [21:44](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1304), [23:34](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1414), [56:27](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=3387)
 - [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130 – Frühere Cum-Ex-Chefermittlerin Anne Brorhilker: „Die Finanzbranche leistet sich einen unglaublichen Lobbyapparat“]] (2025-11-16) — Minute [11:16](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=676), [14:12](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=852), [17:29](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=1049), [25:16](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=1516)
 
-## Kurz erwähnt (1)
+## Kurz erwähnt (2)
 
+- [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — Minute [37:03](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=2223)
 - [[056 Eklat in der NRW-Justiz|#56 – Eklat in der NRW-Justiz]] (2023-10-06) — Minute [11:34](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=694), [24:41](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=1481)
 
 ---

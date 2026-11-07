@@ -22,17 +22,17 @@ Ein Bericht der Stuttgarter Steuerfahndung, der dem Handelsblatt vorliegt, legt 
 
 ## Was im Podcast gesagt wird
 
-> … Manager habe das vorab mit dem Handelsvorstand Hans-Joachim Ströder und Vorstandschef Siegfried Jaschinski besprochen die Vorlage habe er anschließend selbst in der Vorstandssitzung präsentiert und dann kommt so ein lockerer Satz oder nüchterner Satz …
+> … Manager habe das vorab mit dem Handelsvorstand Hans-Joachim Strüder und Vorstandschef Siegfried Jaschinski besprochen die Vorlage habe er anschließend selbst in der Vorstandssitzung präsentiert und dann kommt so ein lockerer Satz oder nüchterner Satz …
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 57:42](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3462) · [[Transkript 138#Minute 57|im Transkript]]
 
-> … Ebenen sind auch gleichzeitig die Verfahren gegen Herrn Strüder und gegen Herrn Jaschinski eingestellt worden Okay und damit sind wir wieder in dem Punkt von eben also sie sind strafrechtlich auf jeden Fall aus …
+> … wissen wir auch dass gegen die beiden Vorstände also gegen den CEO Jaschinski und gegen den Handelsvorstand der Herr Strüder gegen die sind Ermittlungen tatsächlich eingeleitet worden aber auch mit Tag der Anklage Erhebung …
 >
-> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 1:04:53](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3893) · [[Transkript 138#Minute 64|im Transkript]]
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 1:04:34](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3874) · [[Transkript 138#Minute 64|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [57:42](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3462), [1:04:53](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3893)
+- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [57:42](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3462), [1:04:34](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3874)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

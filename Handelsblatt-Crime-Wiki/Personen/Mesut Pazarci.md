@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 1
 tags: [personen]
 ---
 # Mesut Pazarci
@@ -22,26 +22,37 @@ Nach einem Mammutprozess von über einem Jahr verurteilte ihn das Landgericht Da
 
 ## Was im Podcast gesagt wird
 
+> … Euro einfach so verschwinden? Dieses Gold hätte sicher in den Tresoren der PIM Gold GmbH in Heusenstamm bei Frankfurt lagern sollen. Im Auftrag seiner Eigentümer. Aber als die Polizei im Herbst 2019 dann nachschaute, ja, …
+>
+> — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 0:53](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=53) · [[Transkript 047#Minute 0|im Transkript]]
+
 > … aus, dass die Anleger beinahe einen Totalverlust verkraften müssen. Der Insolvenzverwalter von Pim-Gold hat angedeutet, dass vielleicht 20 Prozent des Geldes der Anleger retten kann. Er hat schon 7 ,5 Prozent an die Anleger …
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 3:33](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=213) · [[Transkript 047#Minute 3|im Transkript]]
 
-> … wir aus dem Resultat des Insolvenzberichts entnehmen können, hat die Aufarbeitung dieses PIM-Gold-Skandals auch den Insolvenzverwalter, der sehr viel Erfahrung hat, für große Probleme gestellt. Das Unternehmen hatte zu keiner Zeit einen wahren Wirtschaftsprogramm. …
+> … einen Tipp gegeben, wenn du dir diese Gold-Sparpläne anguckst, schau mal diese PIM Gold an. Die bieten auch solche Sparpläne, wo man quasi gestückelt in Gold investieren kann, an. Und da scheint es irgendwie Probleme …
 >
-> — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 25:24](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1524) · [[Transkript 047#Minute 25|im Transkript]]
+> — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 7:07](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=427) · [[Transkript 047#Minute 7|im Transkript]]
 
-> … und das lief so ab. Die KK Gregor hat eben bei der PIM Gold gekauft. Die hat dafür Geld überwiesen, eben diese 3 ,1 Millionen Euro. Und jetzt wird es interessant. Die PIM hat …
+> … ja mal reinhören können jetzt, wie das geklungen hat, wenn der PIM-Chef Pazarci selbst über sein Produkt geredet hat. Gold, als das aus meiner Sicht schönste Edelmetall in seinem Sortiment, ist nicht nur aufgrund …
 >
-> — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 32:30](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1950) · [[Transkript 047#Minute 32|im Transkript]]
+> — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 15:59](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=959) · [[Transkript 047#Minute 15|im Transkript]]
 
-> … habe sowas schon mal so ähnlich erlebt. Das war 2019 bei der PIM Gold und das ist mir halt noch sehr präsent, weil ich damals mit Judiths Vorgänger, dem, als Rohstoffreporter, dem Jakob Blume …
+> … früher dran als klassische Medien, zum Beispiel bei Skandalen wie Wirecard oder PIM Gold oder auch Dolphin Trust. Gomopa hat sich nämlich viel mit dem sogenannten grauen Kapitalmarkt beschäftigt. Also da vertreiben ja häufig dubiose …
 >
-> — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 28:11](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1691) · [[Transkript 143#Minute 28|im Transkript]]
+> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 0:47](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=47) · [[Transkript 115#Minute 0|im Transkript]]
 
-## In diesen Folgen (2)
+> … das ist daher auch kein Zufall, dass sehr, sehr, sehr viele Finanzskandale, PIM-Gold, Picam-Schnäbe-System, Baustellen der Soravia-Gruppe, dass die sich alles, alles Fälle, über die wir ja auch im Podcast schon gesprochen haben, dass …
+>
+> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 11:25](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=685) · [[Transkript 115#Minute 11|im Transkript]]
 
-- [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47 – Wie drei Tonnen Gold verschwanden: Der PIM-Gold-Skandal]] (2023-07-01) — Shownotes · Minute [3:33](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=213), [25:24](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1524), [32:30](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1950)
-- [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — Shownotes · Minute [28:11](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1691)
+## In diesen Folgen (1)
+
+- [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47 – Wie drei Tonnen Gold verschwanden: Der PIM-Gold-Skandal]] (2023-07-01) — Shownotes · Minute [0:53](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=53), [3:33](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=213), [7:07](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=427), [15:59](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=959)
+
+## Kurz erwähnt (1)
+
+- [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Minute [0:47](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=47), [11:25](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=685)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

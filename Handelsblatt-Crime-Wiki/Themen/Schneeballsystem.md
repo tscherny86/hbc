@@ -54,7 +54,7 @@ Die Betreiber verwenden das Geld häufig für Luxus, Provisionen für Vermittler
 >
 > — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 26:28](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=1588) · [[Transkript 099#Minute 26|im Transkript]]
 
-> … Ziemlich genau vor einem Jahr haben wir hier im Podcast über das Schneeballsystem der PIKAM Vermögensverwalter gesprochen. Damals hatte die Staatsanwaltschaft Berlin gerade drei Männer angeklagt, weil sie eben ein Schneeballsystem betrieben haben sollen. …
+> … Ziemlich genau vor einem Jahr haben wir hier im Podcast über das Schneeballsystem der Picam Vermögensverwalter gesprochen. Damals hatte die Staatsanwaltschaft Berlin gerade drei Männer angeklagt, weil sie eben ein Schneeballsystem betrieben haben sollen. …
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 0:06](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=6) · [[Transkript 109#Minute 0|im Transkript]]
 
@@ -66,7 +66,7 @@ Die Betreiber verwenden das Geld häufig für Luxus, Provisionen für Vermittler
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 4:48](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=288) · [[Transkript 109#Minute 4|im Transkript]]
 
-> … Strafrabatte gesprochen. Jetzt aber mal provokant gefragt, muss der Betrüger bei einem Schneeballsystem das nur möglichst kompliziert machen und kann dann hoffen, dass er am Ende mit Rabatten und Deals seinen Strafmast eben bestmöglich …
+> … Strafrabatte gesprochen. Jetzt aber mal provokant gefragt, muss der Betrüger bei einem Schneeballsystem das nur möglichst kompliziert machen und kann dann hoffen, dass er am Ende mit Rabatten und Deals seinen Strafmaß eben bestmöglich …
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 12:48](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=768) · [[Transkript 109#Minute 12|im Transkript]]
 
@@ -86,7 +86,7 @@ Die Betreiber verwenden das Geld häufig für Luxus, Provisionen für Vermittler
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 57:49](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=3469) · [[Transkript 112#Minute 57|im Transkript]]
 
-> … hat. Nämlich eine Erpressung. Mauritschatt hat Verantwortliche einer Firma erpresst, die ein Schneeballsystem betrieben haben soll. Und er hat das im Prinzip gemacht, indem er Texte veröffentlicht hat. Und gegen Schweigegeld von 250.000 Euro …
+> … hat. Nämlich eine Erpressung. Maurischat hat Verantwortliche einer Firma erpresst, die ein Schneeballsystem betrieben haben soll. Und er hat das im Prinzip gemacht, indem er Texte veröffentlicht hat. Und gegen Schweigegeld von 250.000 Euro …
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 9:13](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=553) · [[Transkript 115#Minute 9|im Transkript]]
 

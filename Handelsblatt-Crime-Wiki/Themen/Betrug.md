@@ -54,7 +54,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 26:50](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1610) · [[Transkript 011#Minute 26|im Transkript]]
 
-> … spielen wird. Auf jeden Fall. Wenn wir jetzt darüber nachdenken, wie dieser Betrug in Dubai durch diese Drittpartnerschaftgeschäft zustande gekommen ist, wie kann man das vielleicht am einfachsten erklären, was es damit auf sich …
+> … spielen wird. Auf jeden Fall. Wenn wir jetzt darüber nachdenken, wie dieser Betrug in Dubai durch diese Drittpartnergeschäft zustande gekommen ist, wie kann man das vielleicht am einfachsten erklären, was es damit auf sich …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 28:33](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1713) · [[Transkript 011#Minute 28|im Transkript]]
 
@@ -66,7 +66,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 41:51](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2511) · [[Transkript 011#Minute 41|im Transkript]]
 
-> … nach dieser Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugsverurteil. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll mit einer erfundenen Kryptowährung rund 88 Millionen Euro …
+> … nach dieser Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugs verurteilt. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll mit einer erfundenen Kryptowährung rund 88 Millionen Euro …
 >
 > — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 0:37](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=37) · [[Transkript 016#Minute 0|im Transkript]]
 
@@ -126,18 +126,6 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19]], [Minute 34:23](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU?t=2063) · [[Transkript 019#Minute 34|im Transkript]]
 
-> … sowas, ja was fast schon Mafiöses. Da hast du irgendjemanden, der sich betrogen fühlt. Also es klingt, also es ist Mafiöses im Sinne von, es klingt ein bisschen nach Mafia-Filmen. Ja, absolut. Ich glaube, …
->
-> — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 26:14](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1574) · [[Transkript 024#Minute 26|im Transkript]]
-
-> … die unterscheiden sich, das sind schon harte Kerle. Und wenn die sich betrogen fühlen, greifen die halt auch zu deftigeren Methoden. Und ich kann jetzt nicht sagen, wie viele Erpressungen in Deutschland im Jahr …
->
-> — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 38:19](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=2299) · [[Transkript 024#Minute 38|im Transkript]]
-
-> … freien Seiten, oder nicht? Ja klar, da fühlt sich dann der Berger betrogen, weil der frei selbst Cum-Ex-Geschäfte gemacht hat und beide machen diese Cum-Ex-Geschäfte und verdienen damit wahnsinnig viel Geld. Und insgesamt, muss …
->
-> — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 56:21](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=3381) · [[Transkript 024#Minute 56|im Transkript]]
-
 > … zusammen. Aber weil der Kellner Null immer Minusbeträge eingebucht hat, ging der Betrug dann doch vonstatten. Also ich muss ja sagen, ich habe ja im Studium selber gekellnert. Und die Vorstellung, wie ein Kellner …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 17:26](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1046) · [[Transkript 028#Minute 17|im Transkript]]
@@ -146,7 +134,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 31:03](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1863) · [[Transkript 028#Minute 31|im Transkript]]
 
-> … sprachen halt gegen den Schubeck und deshalb war bei dieser Schadenssumme oder Betrugssumme halt auch nicht drin, dass er ohne Gefängnis da aus dem Saal geht. Lass uns nochmal zusammenfassen vielleicht oder zumindest versuchen …
+> … sprachen halt gegen den Schuhbeck und deshalb war bei dieser Schadenssumme oder Betrugssumme halt auch nicht drin, dass er ohne Gefängnis da aus dem Saal geht. Lass uns nochmal zusammenfassen vielleicht oder zumindest versuchen …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 36:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2219) · [[Transkript 028#Minute 36|im Transkript]]
 
@@ -162,7 +150,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 9:04](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=544) · [[Transkript 029#Minute 9|im Transkript]]
 
-> … in dem es jetzt um Adler geht. Er hat Wirecard damals auch Betrug vorgeworfen, auf viele Dinge hingewiesen, die sich später als richtig erwiesen. Aber damals war es so, dass das Pering eben nicht …
+> … in dem es jetzt um Adler geht. Er hat Wirecard damals auch Betrug vorgeworfen, auf viele Dinge hingewiesen, die sich später als richtig erwiesen. Aber damals war es so, dass das Perring eben nicht …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 17:17](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1037) · [[Transkript 029#Minute 17|im Transkript]]
 
@@ -190,7 +178,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 55:44](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3344) · [[Transkript 033#Minute 55|im Transkript]]
 
-> … gutmaßlich ganz tief eingebunden gewesen in die Steuerung dieses Drittpartner-Geschäfts, insbesondere des Drittpartner-Betrugs. Er hat eng zusammengearbeitet mit Oliver Bellenhaus, dem ersten Kronzeugen, was ihn genannt, dem Dubai-Stadthalter. Er hat Millionenzahlungen freigegeben und hat …
+> … mutmaßlich ganz tief eingebunden gewesen in die Steuerung dieses Drittpartner-Geschäfts, insbesondere des Drittpartner-Betrugs. Er hat eng zusammengearbeitet mit Oliver Bellenhaus, dem ersten Kronzeugen, was ihn genannt, dem Dubai-Statthalter. Er hat Millionenzahlungen freigegeben und hat …
 >
 > — [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33]], [Minute 58:08](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3488) · [[Transkript 033#Minute 58|im Transkript]]
 
@@ -198,7 +186,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 0:51](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=51) · [[Transkript 038#Minute 0|im Transkript]]
 
-> … gibt es die und die Situation und möglicherweise hat Brumüller den Thiele betrogen und guckt euch das doch bitte mal an. Und die Staatsanwaltschaft hat dann tatsächlich auch Ermittlungen eingeleitet und die laufen noch. …
+> … gibt es die und die Situation und möglicherweise hat Brühmüller den Thiele betrogen und guckt euch das doch bitte mal an. Und die Staatsanwaltschaft hat dann tatsächlich auch Ermittlungen eingeleitet und die laufen noch. …
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 31:15](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1875) · [[Transkript 038#Minute 31|im Transkript]]
 
@@ -234,7 +222,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 11:06](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=666) · [[Transkript 046#Minute 11|im Transkript]]
 
-> … des Richters immer vehement bestritten, überhaupt gewusst zu haben und an dem Betrug teilgenommen zu haben. Also Hartz zum Beispiel hat immer gesagt, dass der Betrug eigentlich erst angefangen hat, als er schon weg …
+> … des Richters immer vehement bestritten, überhaupt gewusst zu haben und an dem Betrug teilgenommen zu haben. Also Hatz zum Beispiel hat immer gesagt, dass der Betrug eigentlich erst angefangen hat, als er schon weg …
 >
 > — [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46]], [Minute 17:34](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1054) · [[Transkript 046#Minute 17|im Transkript]]
 
@@ -246,7 +234,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 4:32](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=272) · [[Transkript 047#Minute 4|im Transkript]]
 
-> … immer das Risiko. Jetzt ist ja der PIM-Chef nicht nur für den Betrug verurteilt worden, sondern auch wegen Geldwäsche. Was hat er da gemacht? Was hat es mit dieser Geldwäscher-Geschichte auf sich? Ja, das …
+> … immer das Risiko. Jetzt ist ja der PIM-Chef nicht nur für den Betrug verurteilt worden, sondern auch wegen Geldwäsche. Was hat er da gemacht? Was hat es mit dieser Geldwäsche-Geschichte auf sich? Ja, das …
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 30:42](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1842) · [[Transkript 047#Minute 30|im Transkript]]
 
@@ -302,7 +290,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 19:40](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=1180) · [[Transkript 065#Minute 19|im Transkript]]
 
-> … von einem Londoner Lehrverkäufer. Und darin war die Rede von illegalem Glücksspiel, Betrug, Geldwäsche, die im Wirecard-Geschäftsmodell verankert sind. Natürlich der intensive Handels-but-Crime-Hörer, der kennt natürlich wahrscheinlich den Sotera-Report und kennt das auch alles …
+> … von einem Londoner Leerverkäufer. Und darin war die Rede von illegalem Glücksspiel, Betrug, Geldwäsche, die im Wirecard-Geschäftsmodell verankert sind. Natürlich der intensive Handelsblatt-Crime-Hörer, der kennt natürlich wahrscheinlich den Zatarra-Report und kennt das auch alles …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 22:32](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=1352) · [[Transkript 065#Minute 22|im Transkript]]
 
@@ -314,7 +302,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 3:26](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=206) · [[Transkript 068#Minute 3|im Transkript]]
 
-> … aneinander rein. Ich konnte ja jetzt nicht laut schreien, hallo, das ist Betrug. Das geht halt pressrechtlich nicht. Das ist vorverurteilend. Genau, und das machen wir grundsätzlich nicht. Genau, das machen wir nicht. Und …
+> … und Indizien aneinanderreihen. Ich konnte ja jetzt nicht laut schreien, hallo, das ist Betrug. Das geht halt presserechtlich nicht. Das ist vorverurteilend. Genau, und das machen wir grundsätzlich nicht. Genau, das machen wir nicht. Und …
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 29:43](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=1783) · [[Transkript 068#Minute 29|im Transkript]]
 
@@ -354,7 +342,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 41:35](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=2495) · [[Transkript 089#Minute 41|im Transkript]]
 
-> … Also ein Vertrauen ausgerechnet des Mannes, den alle Welt für einen großen Betrüger hält, in diesen Chefbuchhalter. Und das ist für Födis verdächtig. Und von Erfa sagt halt, er hätte das für zu kurz …
+> … Also ein Vertrauen ausgerechnet des Mannes, den alle Welt für einen großen Betrüger hält, in diesen Chefbuchhalter. Und das ist für Födisch verdächtig. Und von Erffa sagt halt, er hätte das für zu kurz gesprungen. …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 18:37](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1117) · [[Transkript 093#Minute 18|im Transkript]]
 
@@ -386,7 +374,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 5:19](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=319) · [[Transkript 100#Minute 5|im Transkript]]
 
-> … wurde, ob sie freiwillig gegangen ist. Beides ist ja möglich, denn dieser Betrug ist ja erst ein Jahr später im Sommer 2024 aufgefallen, als Chiqui oder KWT sich das Geld von der Volksbank Düsseldorf …
+> … wurde, ob sie freiwillig gegangen ist. Beides ist ja möglich, denn dieser Betrug ist ja erst ein Jahr später im Sommer 2024 aufgefallen, als Kiabi oder KWT sich das Geld von der Volksbank Düsseldorf …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 10:19](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=619) · [[Transkript 100#Minute 10|im Transkript]]
 
@@ -394,7 +382,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 15:24](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=924) · [[Transkript 100#Minute 15|im Transkript]]
 
-> … ein ganz klares Anliegen. Ja genau, er fühlt sich um sein Erbe betrogen und das ist natürlich ein Riesenunternehmen mittlerweile. Also die Feltinsbrauerei aus dem Sauerland in Grevenstein war mal relativ klein, ist aber …
+> … ein ganz klares Anliegen. Ja genau, er fühlt sich um sein Erbe betrogen und das ist natürlich ein Riesenunternehmen mittlerweile. Also die Veltins-Brauerei aus dem Sauerland in Grevenstein war mal relativ klein, ist aber …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 31:40](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1900) · [[Transkript 104#Minute 31|im Transkript]]
 
@@ -402,11 +390,11 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 35:24](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2124) · [[Transkript 104#Minute 35|im Transkript]]
 
-> … Marker gedient, war der Überzeugung. Und dass ihm das als Verrat und Betrug ausgelegt wurde, hat ihn tief verletzt. Und deshalb glaube ich, ist anders als jetzt Comex und Wirecard und auch die Effenberg …
+> … hat der Marke gedient, war der Überzeugung. Und dass ihm das als Verrat und Betrug ausgelegt wurde, hat ihn tief verletzt. Und deshalb glaube ich, ist anders als jetzt Cum-Ex und Wirecard und auch die Effenberg …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 49:41](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2981) · [[Transkript 104#Minute 49|im Transkript]]
 
-> … Der PIKAM-Chef muss fast sechs Jahre ins Gefängnis, weil er 3000 Anleger betrogen hat und rund 300 Millionen Euro durch dieses Schneeballsystem rotierte. Ja, Schneeballsystem, das kennen die meisten von ihnen wahrscheinlich noch. Das …
+> … Der Picam-Chef muss fast sechs Jahre ins Gefängnis, weil er 3000 Anleger betrogen hat und rund 300 Millionen Euro durch dieses Schneeballsystem rotierte. Ja, Schneeballsystem, das kennen die meisten von ihnen wahrscheinlich noch. Das …
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 0:34](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=34) · [[Transkript 109#Minute 0|im Transkript]]
 
@@ -414,7 +402,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 2:51](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=171) · [[Transkript 109#Minute 2|im Transkript]]
 
-> … Moment war dann für alle klar, es war ein ganz groß angelegter Betrug und Herr Enzeroth wird bestraft werden. Der wusste also auch in dem Moment, wo er gestanden hat, dass jetzt an der …
+> … Moment war dann für alle klar, es war ein ganz groß angelegter Betrug und Herr Entzeroth wird bestraft werden. Der wusste also auch in dem Moment, wo er gestanden hat, dass jetzt an der …
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 9:35](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=575) · [[Transkript 109#Minute 9|im Transkript]]
 
@@ -434,7 +422,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 27:08](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=1628) · [[Transkript 112#Minute 27|im Transkript]]
 
-> … hat. Ja, bitte. Jetzt kommen wir so ein bisschen zum Kern des Betrugs, oder des mutmaßlichen Betrugs, müssen wir ja sagen. Wie ist denn das abgelaufen? Ja, also Höft hat erstmal ein großes Geheimnis …
+> … hat. Ja, bitte. Jetzt kommen wir so ein bisschen zum Kern des Betrugs, oder des mutmaßlichen Betrugs, müssen wir ja sagen. Wie ist denn das abgelaufen? Ja, also Hoeft hat erstmal ein großes Geheimnis …
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 39:55](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=2395) · [[Transkript 112#Minute 39|im Transkript]]
 
@@ -450,7 +438,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 25:27](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=1527) · [[Transkript 114#Minute 25|im Transkript]]
 
-> … Sache ganz anders aus. In einem konkreten Fall hat sich Maurischad von Betrügern bezahlen lassen, damit er einen kritischen Artikel wieder löscht. Das Geschäftsmodell Pseudo-Journalismus gegen Schweigegeld. Der Fall zeigt, wie perfide digitale Schutzgelderpressung …
+> … Sache ganz anders aus. In einem konkreten Fall hat sich Maurischat von Betrügern bezahlen lassen, damit er einen kritischen Artikel wieder löscht. Das Geschäftsmodell Pseudo-Journalismus gegen Schweigegeld. Der Fall zeigt, wie perfide digitale Schutzgelderpressung …
 >
 > — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 1:18](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=78) · [[Transkript 115#Minute 1|im Transkript]]
 
@@ -486,7 +474,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 0:14](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=14) · [[Transkript 120#Minute 0|im Transkript]]
 
-> … vor. Jetzt erzähl, worum es geht. Ja, die österreichischen Staatsanwälte werfen Benko betrügerische Krider vor. So heißt das in Österreich und das entspricht im Deutschen am ehesten dem Begriff des Bankrotts. Heißt also, dass …
+> … vor. Jetzt erzähl, worum es geht. Ja, die österreichischen Staatsanwälte werfen Benko betrügerische Krida vor. So heißt das in Österreich und das entspricht im Deutschen am ehesten dem Begriff des Bankrotts. Heißt also, dass …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 2:07](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=127) · [[Transkript 120#Minute 2|im Transkript]]
 
@@ -494,7 +482,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 4:04](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=244) · [[Transkript 120#Minute 4|im Transkript]]
 
-> … ja, und selbst nur ein überschaubarer Ausschnitt aus den Vorwürfen über diese betrügerische Kräder, wie ihr sagt, sagt man in Österreich. Allein dadurch soll ja ein möglicher Schaden von 10 Millionen im Raum stehen. …
+> … ja, und selbst nur ein überschaubarer Ausschnitt aus den Vorwürfen über diese betrügerische Krida, wie ihr sagt, sagt man in Österreich. Allein dadurch soll ja ein möglicher Schaden von 10 Millionen im Raum stehen. …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 23:04](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1384) · [[Transkript 120#Minute 23|im Transkript]]
 
@@ -530,7 +518,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141]], [Minute 59:37](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd?t=3577) · [[Transkript 141#Minute 59|im Transkript]]
 
-> … geendet. Im Dezember 2022 hat das Landgericht Darmstadt den Ex-Chef wegen tausendfachen Betrugs zu fast sieben Jahren haftverurteilt, ja. Wir haben jetzt also auch die TGI mal nach PIM gefragt und ob man den …
+> … geendet. Im Dezember 2022 hat das Landgericht Darmstadt den Ex-Chef wegen tausendfachen Betrugs zu fast sieben Jahren Haft verurteilt, ja. Wir haben jetzt also auch die TGI mal nach PIM gefragt und ob man den …
 >
 > — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 29:38](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1778) · [[Transkript 143#Minute 29|im Transkript]]
 
@@ -542,11 +530,11 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 49:45](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=2985) · [[Transkript 143#Minute 49|im Transkript]]
 
-> … und fragwürdigen Transaktionen. Die Vorwürfe, die die Ermittler nun gegen Reppegater erheben, Betrug, Bankrott und Untreue. Wer also ist Uwe Reppegater wirklich? Wie konnte sein Immobilienimperium so spektakulär zusammenbrechen? Und wo verlaufen die Grenzen …
+> … und fragwürdigen Transaktionen. Die Vorwürfe, die die Ermittler nun gegen Reppegather erheben, Betrug, Bankrott und Untreue. Wer also ist Uwe Reppegather wirklich? Wie konnte sein Immobilienimperium so spektakulär zusammenbrechen? Und wo verlaufen die Grenzen …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:48](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=108) · [[Transkript 144#Minute 1|im Transkript]]
 
-> … Personen übertragen zu haben. Und Gegenstand der Ermittlungen sind halt deshalb Bankrottvorwürfe, Betrugsvorwürfe und es geht auch um mögliche Untreu und Verletzungen der Buchführungspflichten. Und der entstandene Schaden soll laut Staatsanwaltschaft im hohen zweistelligen …
+> … Personen übertragen zu haben. Und Gegenstand der Ermittlungen sind halt deshalb Bankrottvorwürfe, Betrugsvorwürfe und es geht auch um mögliche Untreue und Verletzungen der Buchführungspflichten. Und der entstandene Schaden soll laut Staatsanwaltschaft im hohen zweistelligen Millionenbereich …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 9:55](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=595) · [[Transkript 144#Minute 9|im Transkript]]
 
@@ -669,12 +657,11 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [1:03](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=63), [4:12](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=252), [19:06](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1146), [35:32](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2132)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:33](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=33), [2:47](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=167), [37:45](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2265)
 
-## Kurz erwähnt (22)
+## Kurz erwähnt (21)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [1:15](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=75), [32:22](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=1942), [39:21](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2361), [44:39](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2679)
 - [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Minute [26:50](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1610), [28:33](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1713), [36:48](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2208), [41:51](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=2511)
 - [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Minute [0:37](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=37), [4:49](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=289), [13:56](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=836), [15:44](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=944)
-- [[024 Das Cum-Ex Dream Team (Teil 2)|#24 – Das Cum-Ex Dream Team (Teil 2)]] (2022-10-09) — Minute [26:14](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1574), [38:19](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=2299), [56:21](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=3381)
 - [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Minute [17:26](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1046), [31:03](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1863), [36:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2219), [47:01](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2821)
 - [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Minute [26:56](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=1616), [34:06](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=2046), [55:44](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3344), [58:08](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=3488)
 - [[038 Streit um das Milliarden-Erbe von Thiele|#38 – Streit um das Milliarden-Erbe von Thiele]] (2023-02-26) — Minute [0:51](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=51), [31:15](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1875), [34:19](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2059), [45:37](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=2737)

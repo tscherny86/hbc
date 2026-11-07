@@ -22,25 +22,25 @@ Der Fall zeichnet das Bild eines Managers zwischen Selbstinszenierung, Größenw
 
 ## Was im Podcast gesagt wird
 
-> … ein bekannter Manager mitverantwortlich sein. Bestimmt erinnert ihr euch noch an Jürgen Fitschen. Bis 2016 stand er vier Jahre lang an der Spitze der Deutschen Bank. Jetzt wird er aber verklagt. Er soll 68 …
+> … Das, was ihr da gerade gehört habt, ist eine Pressemitteilung des Medizintechnikunternehmens Syntellix. Das Unternehmen bietet innovative Operationsschrauben an. Die Firma sollte zu einer Weltmarke, einem Milliardenunternehmen werden. Daraus wurde aber nichts. Dafür soll …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:32](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=92) · [[Transkript 127#Minute 1|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:15](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=75) · [[Transkript 127#Minute 1|im Transkript]]
 
-> … Medizintechnikfirma, um die es jetzt hier auch in der Klage gegen Jürgen Fitschen geht. Ich habe im Jahr 2007 erfahren, dass seit 1892 die Wissenschaft am Thema bioabsorbierbarer, transformierbarer metallischer Legierungen, Implantate arbeitet. Dass …
+> … Solveig. Und hallo René. Hallo Solveig, grüß dich. Ja, ihr zwei. Also Utz Claassen ist ein ganz besonderer Manager, kann man glaube ich sagen. Sönke, du hast ja seit mehr als 20 Jahren bereits mit …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 3:54](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=234) · [[Transkript 127#Minute 3|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 3:09](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=189) · [[Transkript 127#Minute 3|im Transkript]]
 
-> … oder der Unternehmer Sigmund Kiener und Rolf Elgeti und eben halt Jürgen Fitschen, der ehemalige Chef der Deutschen Bank, Co-Chef der Deutschen Bank. Ja, und die hofften eben alle auf richtig satze Renditen. Die …
+> … Alle anderen scheitern seit mehr als einem Jahrhundert an diesem Problem. Aber Utz Claassen geht das Ganze an und schafft das in fünf Jahren. Genau, so wie er halt ist. Das Interview zeigt wirklich sehr …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 9:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=545) · [[Transkript 127#Minute 9|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 5:25](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=325) · [[Transkript 127#Minute 5|im Transkript]]
 
-> … gefeiert. Und nicht nur er selbst übrigens, sondern auch den Eintritt von Fitschen als weiteren Schlüsselinvestor, war mal wieder ein Paukenschlag für das Unternehmen. Man konnte dann erwarten, jetzt geht es aber wirklich noch …
+> … würden. Disruptieren. Hören wir oft in der Managersprache. Disruptieren nannte das auch Utz Claassen. Den Schraubenmarkt disruptieren. Und mit diesen Worten und mit diesen Zahlen vor allem, also 100 Milliarden ist ja schon eine ziemliche …
 >
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 53:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=3185) · [[Transkript 127#Minute 53|im Transkript]]
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 6:58](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=418) · [[Transkript 127#Minute 6|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [1:32](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=92), [3:54](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=234), [9:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=545), [53:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=3185)
+- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [1:15](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=75), [3:09](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=189), [5:25](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=325), [6:58](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=418)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

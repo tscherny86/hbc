@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-07-27 |
 | **Dauer** | 57:11 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom) · [MP3](https://audio.podigee-cdn.net/1984457-m-fd9d9d9c341d66910f6d644b241e262a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/120-) |
-| **Transkript** | [[Transkript 120]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 120]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Signa und René Benko]] |
-| **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | [[Signa]] |
-| **Personen** | [[Ina Karabasz]], [[Markus Braun]], [[René Benko]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Untreue]], [[Korruption und Bestechung]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[René Benko]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Untreue]], [[Korruption und Bestechung]] |
 
 ## Shownotes
 
@@ -60,8 +60,8 @@ Aktuell können Sie sich sechs statt vier Wochen lang Zugriff auf unsere digital
 - [16:39](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=999) – Und man muss ja auch noch sehen von dem Hintergrund, dass Benko in diesen Tagen ja durchaus Liquiditätsbedarf … ([[Transkript 120#Minute 16|Transkript]])
 - [18:51](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1131) – Okay, und jetzt muss man sagen, es gibt wahrscheinlich sehr, sehr großes Medieninteresse an diesem Fall, oder? Also … ([[Transkript 120#Minute 18|Transkript]])
 - [20:58](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1258) – Und andere werden selber beschuldigt und können und werden vermutlich deshalb auch ebenfalls schweigen, um sich womöglich nicht … ([[Transkript 120#Minute 20|Transkript]])
-- [23:01](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1381) – Und ja, und selbst nur ein überschaubarer Ausschnitt aus den Vorwürfen über diese betrügerische Kräder, wie ihr sagt, … ([[Transkript 120#Minute 23|Transkript]])
-- [25:06](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1506) – Und ja, also am 21. Januar 2025 sind Beamte der Sonderkommission Signar in die kleine österreichische Gemeinde Pfunds … ([[Transkript 120#Minute 25|Transkript]])
+- [23:01](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1381) – Und ja, und selbst nur ein überschaubarer Ausschnitt aus den Vorwürfen über diese betrügerische Krida, wie ihr sagt, … ([[Transkript 120#Minute 23|Transkript]])
+- [25:06](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1506) – Und ja, also am 21. Januar 2025 sind Beamte der Sonderkommission Signa in die kleine österreichische Gemeinde Pfunds … ([[Transkript 120#Minute 25|Transkript]])
 - [27:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1630) – Und der sei dann eben abtransportiert worden. Dazu war Verwandten Benkos. Und ja, unter den Personenschützern habe man … ([[Transkript 120#Minute 27|Transkript]])
 - [29:14](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1754) – Ein anderer war ganz auffällig im Art-Deko-Stil gearbeitet. Und dann haben sie noch gefunden, acht Paar Manschettenknöpfe. Teilweise … ([[Transkript 120#Minute 29|Transkript]])
 - [31:17](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1877) – Okay. Und wenige Tage später, am 6. März, haben sie dann auch dieses Geschäft in Innsbruck besucht und … ([[Transkript 120#Minute 31|Transkript]])

@@ -18,12 +18,12 @@ tags: [folge, jahr-2025, folge]
 | **Datum** | 2025-11-30 |
 | **Dauer** | 48:49 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O) · [MP3](https://audio.podigee-cdn.net/2175147-m-e28d6e06ac7aba557c20172b32e231b9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/131-henry-o-sullivan-der-schattenmann-im-wirecard-skandal) |
-| **Transkript** | [[Transkript 131]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek und das russische Spionagenetzwerk]], [[Henry O’Sullivan]] |
+| **Transkript** | [[Transkript 131]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Wirecard]], [[Henry O’Sullivan]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Jan Marsalek]], [[Henry O'Sullivan]] |
-| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Marsalek-Brief]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Wirtschaftsprüfung]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]], [[EY (Ernst & Young)]], [[KPMG]] |
+| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Cevdet Caner]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[EY (Ernst & Young)]], [[KPMG]] |
 
 ## Shownotes
 
@@ -54,7 +54,7 @@ Dieses Aktionsangebot finden Sie nur bis zum 8. Dezember unter handelsblatt.com/
 - [0:02](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2) – Hallo liebe Crime-Hörerinnen und Hörer. Wer es jetzt in den letzten Tagen noch nicht mitbekommen hat, wir haben … ([[Transkript 131#Minute 0|Transkript]])
 - [2:08](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=128) – Dass sich das als falsch herausstellte, führte im Juni 2020 dazu, dass Wirecard zusammenbrach und wenige Tage später … ([[Transkript 131#Minute 2|Transkript]])
 - [4:18](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=258) – Und wir erinnern uns, diese Treuhandgelder, du hast es eben angesprochen in der Anmoderation, diese Treuhandgelder waren in … ([[Transkript 131#Minute 4|Transkript]])
-- [6:20](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=380) – Chans Verteidigerin plädierte für drei Jahre Haft für ihren Mandanten und der von O'Sullivan sogar nur für eine … ([[Transkript 131#Minute 6|Transkript]])
+- [6:20](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=380) – Shans Verteidigerin plädierte für drei Jahre Haft für ihren Mandanten und der von O'Sullivan sogar nur für eine … ([[Transkript 131#Minute 6|Transkript]])
 - [8:24](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=504) – Wie kam er denn in diese Position, Michael? Über seine Verbindung zu Jan Marsalek. Also dazu muss man … ([[Transkript 131#Minute 8|Transkript]])
 - [10:35](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=635) – Das ist dann sozusagen seine Funktion. Und er hat dann auch eine eigene Wirecard-Mailadresse. Und Randnotiz, ja, aber … ([[Transkript 131#Minute 10|Transkript]])
 - [12:37](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=757) – Und dann auch noch befreundet. Genau. Und wir haben mal geschrieben in einem unserer Texte, zahllose Bilder zeigen … ([[Transkript 131#Minute 12|Transkript]])
@@ -68,7 +68,7 @@ Dieses Aktionsangebot finden Sie nur bis zum 8. Dezember unter handelsblatt.com/
 - [29:21](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1761) – Und die haben sich in den Vorwürfen sehr schnell auf diese gefälschten Saldenbestätigungen konzentriert, wobei man wahrscheinlich viele … ([[Transkript 131#Minute 29|Transkript]])
 - [31:23](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=1883) – Warum hat das jetzt auch nochmal so lange gedauert, Michael? Die kurze Antwort ist, weil sowohl O'Sullivan als … ([[Transkript 131#Minute 31|Transkript]])
 - [33:25](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2005) – Oliver und Jan würden dich gern besuchen, schrieb O'Sullivan am 2. Februar über Telegram. Und man wollte sich … ([[Transkript 131#Minute 33|Transkript]])
-- [35:32](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2132) – Oder es gibt auch Nachrichten, wo O'Sullivan an den Scharen mehrere Schreiben schickt, verbunden quasi mit der Bitte, … ([[Transkript 131#Minute 35|Transkript]])
+- [35:32](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2132) – Oder es gibt auch Nachrichten, wo O'Sullivan an den Shan mehrere Schreiben schickt, verbunden quasi mit der Bitte, … ([[Transkript 131#Minute 35|Transkript]])
 - [37:38](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2258) – Und die haben das zurückgewiesen von Anfang an und gesagt, der Mensch, die Ermittlungen, die sind voreingenommen und … ([[Transkript 131#Minute 37|Transkript]])
 - [39:43](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2383) – Und dann hätte Marsalek ihm auch irgendwann mal gezeigt, dass er sich in irgendwelche Handys einloggen könnte und … ([[Transkript 131#Minute 39|Transkript]])
 - [41:45](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O?t=2505) – Warum haben das die anderen nicht auch gemacht? Also hier O'Sullivan oder sonst jemand? Ja, das ist eine … ([[Transkript 131#Minute 41|Transkript]])

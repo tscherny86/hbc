@@ -20,7 +20,7 @@ Die Staatsanwaltschaft Stuttgart ermittelt seit 2013 – über Jahre mit nur ein
 
 ## Was im Podcast gesagt wird
 
-> … ist aber sehr real. Gemeint sind Landesbanken und nicht nur eine. Die LBBW in Baden-Württemberg, die HSH Nordbank in Hamburg und Schleswig-Holstein, die Landesbank Berlin, die Helaba in Hessen und die West-IB in Nordrhein-Westfalen. …
+> … ist aber sehr real. Gemeint sind Landesbanken und nicht nur eine. Die LBBW in Baden-Württemberg, die HSH Nordbank in Hamburg und Schleswig-Holstein, die Landesbank Berlin, die Helaba in Hessen und die WestLB in Nordrhein-Westfalen. …
 >
 > — [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20]], [Minute 1:47](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf?t=107) · [[Transkript 020#Minute 1|im Transkript]]
 
@@ -60,7 +60,7 @@ Die Staatsanwaltschaft Stuttgart ermittelt seit 2013 – über Jahre mit nur ein
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 6:41](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=401) · [[Transkript 095#Minute 6|im Transkript]]
 
-> … einmal nochmal ganz kurz mit der West-LB. Das ist ja wie die LBBW eine Landesbank gewesen, muss man sagen. Die West-LB gibt es in der Form heute nicht mehr. Und auch da habt ihr, …
+> … einmal nochmal ganz kurz mit der WestLB. Das ist ja wie die LBBW eine Landesbank gewesen, muss man sagen. Die WestLB gibt es in der Form heute nicht mehr. Und auch da habt ihr, …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 12:13](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=733) · [[Transkript 095#Minute 12|im Transkript]]
 

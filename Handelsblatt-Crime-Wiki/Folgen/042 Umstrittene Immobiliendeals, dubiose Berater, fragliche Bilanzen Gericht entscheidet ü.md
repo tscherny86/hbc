@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-04-23 |
 | **Dauer** | 48:58 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1) · [MP3](https://audio.podigee-cdn.net/1044831-m-d61421556467bb2b6a902c220c77a95e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/42-new-episode) |
-| **Transkript** | [[Transkript 042]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 042]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Adler Group]] |
-| **Themen** | [[Insolvenz]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | [[KPMG]], [[BaFin]] |
-| **Personen** | [[Stefan Kirsten]] |
-| **Kurz erwähnt** | [[Handelsblatt]] |
+| **Themen** | [[Insolvenz]], [[Wirtschaftsprüfung]] |
+| **Unternehmen** | [[KPMG]] |
+| **Personen** | [[Lars-Marten Nagel]], [[Stefan Kirsten]] |
+| **Kurz erwähnt** | – |
 
 ## Shownotes
 
@@ -54,8 +54,8 @@ Im dritten Teil des Podcasts zu dem angeschlagenen Immobilienkonzern erzählen d
 - [16:59](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1019) – Und das Wahlergebnis hängt dann allerdings nicht nur davon ab, wie sich jetzt die Prozente verteilen, sondern unter … ([[Transkript 042#Minute 16|Transkript]])
 - [19:13](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1153) – Wir haben ja eben das schon mal angedeutet, Adler braucht dringend einen Wirtschaftsprüfer, nachdem KPMG im letzten Jahr … ([[Transkript 042#Minute 19|Transkript]])
 - [21:17](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1277) – Der Konzern, der hat weitergeworben um Vertrauen von Investoren und Wirtschaftsprüfern. Ja, und zwar dann mit einem Untersuchungsbericht, … ([[Transkript 042#Minute 21|Transkript]])
-- [23:23](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1403) – Da kann man sich auch mal ausrechnen, was das kostet und was eben beiden Case damit verdient. Ja, … ([[Transkript 042#Minute 23|Transkript]])
-- [25:38](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1538) – Und für die ist natürlich London als einer der Finanzstorte schlechthin ein Ort, den man anlaufen möchte für … ([[Transkript 042#Minute 25|Transkript]])
+- [23:23](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1403) – Da kann man sich auch mal ausrechnen, was das kostet und was eben White & Case damit verdient. … ([[Transkript 042#Minute 23|Transkript]])
+- [25:38](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1538) – Und für die ist natürlich London als einer der Finanzstandorte schlechthin ein Ort, den man anlaufen möchte für … ([[Transkript 042#Minute 25|Transkript]])
 - [27:45](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1665) – Und Attestor, die Gruppe kennt man unter anderem dadurch, dass die, das ist eine britische Gruppe, dass die … ([[Transkript 042#Minute 27|Transkript]])
 - [29:53](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1793) – Und wir wissen ja, dass das also eine Anleihe ist, die sonst bis 2029 laufen sollte, also sehr … ([[Transkript 042#Minute 29|Transkript]])
 - [31:56](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=1916) – Genau dafür gibt es den Deutschlandfonds. Er mobilisiert Investitionen in Milliardenhöhe, um unsere Wirtschaft innovativ und wettbewerbsstark für … ([[Transkript 042#Minute 31|Transkript]])

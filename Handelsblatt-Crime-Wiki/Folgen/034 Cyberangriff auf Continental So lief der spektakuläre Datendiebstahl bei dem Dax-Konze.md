@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-01-15 |
 | **Dauer** | 59:07 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ) · [MP3](https://audio.podigee-cdn.net/960912-m-e0d99271e67c1578dbf6de56e4516380.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/34-new-episode) |
-| **Transkript** | [[Transkript 034]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cyberangriff auf Continental]], [[Continental-Dieselskandal]] |
-| **Themen** | [[Cyberangriff und Ransomware]], [[Datenleck]], [[Pressefreiheit und Presserecht]], [[Erpressung]] |
-| **Unternehmen** | [[Volkswagen]], [[Continental]], [[BSI]] |
+| **Transkript** | [[Transkript 034]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cyberangriff auf Continental]] |
+| **Themen** | [[Cyberangriff und Ransomware]], [[Datenleck]], [[Erpressung]] |
+| **Unternehmen** | [[Continental]], [[BSI]] |
 | **Personen** | [[Ina Karabasz]] |
-| **Kurz erwähnt** | [[Dieselgate (Volkswagen)]], [[BSI-Affäre Schönbohm]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]], [[KPMG]] |
+| **Kurz erwähnt** | [[Staatsanwaltschaft und Strafprozess]], [[KPMG]] |
 
 ## Shownotes
 
@@ -68,7 +68,7 @@ Der unsichtbare Krieg: Globale Hackerbanden bedrohen Deutschland - betroffene Fi
 - [33:29](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2009) – Da werden alle möglichen Schmuh mit betrieben und ja, solche Datensätze sind wirklich viel Geld wert im Darknet. … ([[Transkript 034#Minute 33|Transkript]])
 - [35:35](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2135) – Und man muss sagen, zu dem Zeitpunkt, an dem ich gefragt hatte, war diese Liste schon seit vier … ([[Transkript 034#Minute 35|Transkript]])
 - [37:35](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2255) – Ja, auch als Anekdote, um das nochmal zu verdeutlichen, was da im Unternehmen los war, wir haben dann … ([[Transkript 034#Minute 37|Transkript]])
-- [39:43](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2383) – Jetzt musste Frau Dürfeld aber natürlich auf die Fragen der Mitarbeiter antworten. Die konnte ja nicht sagen, nee, … ([[Transkript 034#Minute 39|Transkript]])
+- [39:43](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2383) – Jetzt musste Frau Dürrfeld aber natürlich auf die Fragen der Mitarbeiter antworten. Die konnte ja nicht sagen, nee, … ([[Transkript 034#Minute 39|Transkript]])
 - [41:45](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2505) – Nicht viel, was nicht auch schon im Handelsblatt gestanden hat. Tatsächlich, es gab so ein, zwei neue Dinge. … ([[Transkript 034#Minute 41|Transkript]])
 - [43:49](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2629) – Und wie bereits gesagt, wir haben in der Dateiliste über 215.000 Dateiendungen gefunden, die auf E-Mails schließen lassen. … ([[Transkript 034#Minute 43|Transkript]])
 - [45:52](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=2752) – Von IT-Sicherheit über KI-Tools bis zum flexiblen Arbeitsplatz. Alles aus einer Hand. Zusammen für Ihr Business. Vodafone. Zukunft … ([[Transkript 034#Minute 45|Transkript]])

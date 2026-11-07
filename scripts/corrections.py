@@ -70,7 +70,7 @@ def _pass(words: list[dict], ep_id: str, hits: Counter):
         t0 = words[i]["text"]
         m0 = EDGE.match(t0)
         if (m0.group(2).lower() not in FIRST and (m0.group(2) + m0.group(3)).lower() not in FIRST
-                and not (HYPHEN and "-" in t0)):
+                and "-" not in t0):
             out.append(words[i])
             i += 1
             continue
@@ -97,6 +97,30 @@ def _pass(words: list[dict], ep_id: str, hits: Counter):
                     right = _pick(table.get(_key("-" + tail), []), ep_id)
                     if right:
                         prefix = head
+                    else:
+                        # Teilstück eines Kompositums: „Krum-Ex-Verfahren“ → „Cum-Ex-Verfahren“,
+                        # „Porsche-Pierch“ → „Porsche-Piëch“ (längste Teilstücke zuerst)
+                        parts = core.split("-")
+                        fixed = None
+                        for size in range(len(parts) - 1, 0, -1):
+                            for a in range(0, len(parts) - size + 1):
+                                sub = "-".join(parts[a:a + size])
+                                hit = _pick(table.get(_key(sub), []), ep_id)
+                                # nicht, wenn die Korrektur schon im Wort steht („Cum-Ex-…“ bei Regel „Ex → Cum-Ex“)
+                                if hit and _key(hit) != _key(sub) and sub and _key(hit) not in _key(core):
+                                    if sub[:1].isupper() and hit[:1].islower():
+                                        hit = hit[0].upper() + hit[1:]
+                                    fixed = "-".join(parts[:a] + [hit] + parts[a + size:])
+                                    break
+                            if fixed:
+                                break
+                        if fixed:
+                            new = lead + fixed + trail
+                            hits[f"{core} → {fixed}"] += 1
+                            out.append({**chunk[0], "text": new, "end": chunk[-1]["end"]})
+                            i += n
+                            done = True
+                            break
             if not right:
                 continue
             if not prefix and core[:1].isupper() and right[:1].islower() and right[1:] == right[1:].lower():

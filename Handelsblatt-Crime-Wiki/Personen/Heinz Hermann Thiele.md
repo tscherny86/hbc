@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 1
 tags: [personen]
 ---
 # Heinz Hermann Thiele
@@ -38,18 +38,9 @@ Um das Erbe tobt ein erbitterter Streit. Sohn Henrik, der sich 2015 mit dem Vate
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 6:52](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=412) · [[Transkript 038#Minute 6|im Transkript]]
 
-> … kennen es bereits aus anderen Fällen. Erinnern Sie sich an die Familie Thiele, wo viel Geld im Spiel ist, da kehrt schnell mal Unfrieden ein. Die Dussmann-Gruppe machte zuletzt mit rund 65.000 Mitarbeitern mehr …
->
-> — [[041 Streit um das Erbe von Peter Dussmann|#41]], [Minute 1:25](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=85) · [[Transkript 041#Minute 1|im Transkript]]
-
-> … jetzt nicht so weit oben wie, sagen wir mal, die Aldi-Brüder oder Heinz Hermann Thiele, über den wir hier neulich gesprochen haben. Als der starb, da ging es ja um 16, 17 Milliarden Euro. …
->
-> — [[041 Streit um das Erbe von Peter Dussmann|#41]], [Minute 8:27](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=507) · [[Transkript 041#Minute 8|im Transkript]]
-
-## In diesen Folgen (2)
+## In diesen Folgen (1)
 
 - [[038 Streit um das Milliarden-Erbe von Thiele|#38 – Streit um das Milliarden-Erbe von Thiele]] (2023-02-26) — Shownotes · Minute [0:14](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=14), [2:03](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=123), [4:55](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=295), [6:52](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=412)
-- [[041 Streit um das Erbe von Peter Dussmann|#41 – Streit um das Erbe von Peter Dussmann]] (2023-04-09) — Minute [1:25](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=85), [8:27](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb?t=507)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

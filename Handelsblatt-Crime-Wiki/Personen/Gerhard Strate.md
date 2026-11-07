@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 3
 tags: [personen]
 ---
 # Gerhard Strate
@@ -26,7 +26,7 @@ Schon 2023 hatte Strate schwere Vorwürfe gegen die Staatsanwaltschaft Hamburg e
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 54:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=3289) · [[Transkript 104#Minute 54|im Transkript]]
 
-> … Verteidigung und Broer-Helker gesehen, dass es da sehr hitzig geworden ist. Herr Strate ist ihr ein paar Mal ins Wort gefallen. Dann hat sie weitergeredet, worüber er sich dann auch wieder beklagt hat. Also, …
+> … Verteidigung und Brorhilker gesehen, dass es da sehr hitzig geworden ist. Herr Strate ist ihr ein paar Mal ins Wort gefallen. Dann hat sie weitergeredet, worüber er sich dann auch wieder beklagt hat. Also, …
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 18:45](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1125) · [[Transkript 105#Minute 18|im Transkript]]
 
@@ -34,18 +34,23 @@ Schon 2023 hatte Strate schwere Vorwürfe gegen die Staatsanwaltschaft Hamburg e
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 24:58](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1498) · [[Transkript 105#Minute 24|im Transkript]]
 
-> … die haben wir auch dann zuletzt erlebt und sein neuer Hauptverteidiger wurde Gerhard Strate aus Hamburg. Ja, genau, auch ein sehr bekannter Name und ja, Dierlam wollte Aussagen als Zeuge vor Gericht, aber Steck …
+> … Ihnen auch. Tschüss. So, jetzt ist es aber tatsächlich haben ja noch mit Strate gesprochen, Volker. Was glaubst du, wird es tatsächlich zu einem Freispruch für Herrn Steck kommen, oder nicht? Ja, das war natürlich jetzt …
+>
+> — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 30:27](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1827) · [[Transkript 105#Minute 30|im Transkript]]
+
+> … die haben wir auch dann zuletzt erlebt und sein neuer Hauptverteidiger wurde Gerhard Strate aus Hamburg. Ja, genau, auch ein sehr bekannter Name und ja, Dierlamm wollte Aussagen als Zeuge vor Gericht, aber Steck …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:08:44](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=4124) · [[Transkript 137#Minute 68|im Transkript]]
 
-## In diesen Folgen (2)
+> … seine Berater also er hat ja zum Beispiel jetzt den neuen Verteidiger Gerhard Strate der auch relativ renommiert ist und da gibt es als Medienberater noch Béla Anda der ehemalige Regierungssprecher von Gerhard Schröder der ist …
+>
+> — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 1:31:09](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=5469) · [[Transkript 137#Minute 91|im Transkript]]
+
+## In diesen Folgen (3)
 
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [54:49](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=3289)
-- [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105 – Cum Ex: Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker]] (2025-01-12) — Shownotes · Minute [18:45](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1125), [24:58](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1498)
-
-## Kurz erwähnt (1)
-
-- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Minute [1:08:44](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=4124)
+- [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105 – Cum Ex: Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker]] (2025-01-12) — Shownotes · Minute [18:45](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1125), [24:58](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1498), [30:27](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=1827)
+- [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Minute [1:08:44](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=4124), [1:31:09](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=5469)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

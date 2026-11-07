@@ -19,11 +19,11 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 53:46 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9) · [MP3](https://audio.podigee-cdn.net/2453086-m-9f7ac3841f1605aa12027fcb5c9831e2.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/146-neue-episode) |
 | **Transkript** | [[Transkript 146]] (Wort-genau mit Zeitstempeln, mit dem offiziellen Transkript abgeglichen) |
-| **Fälle** | [[Dieselgate (Volkswagen)]], [[Cyberangriff auf Continental]], [[Continental-Dieselskandal]] |
+| **Fälle** | [[Dieselgate (Volkswagen)]], [[Continental-Dieselskandal]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]], [[Compliance]] |
 | **Unternehmen** | [[Volkswagen]], [[Continental]] |
-| **Personen** | [[Peter Koppe]] |
-| **Kurz erwähnt** | [[Freshfields und Cum-Ex]], [[Wirecard]], [[Betrug]], [[Untreue]], [[Vergleich und Bußgeld]], [[Freshfields]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Freshfields und Cum-Ex]], [[Wirecard]], [[Betrug]], [[Untreue]], [[Vergleich und Bußgeld]], [[Freshfields]] |
 
 ## Shownotes
 

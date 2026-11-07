@@ -18,12 +18,12 @@ tags: [folge, jahr-2022, folge]
 | **Datum** | 2022-07-17 |
 | **Dauer** | 41:25 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH) · [MP3](https://audio.podigee-cdn.net/806893-m-36bff0b23f01bd7813193accc9f38cd5.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/18-neue-episode) |
-| **Transkript** | [[Transkript 018]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 018]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Dieselgate (Volkswagen)]] |
 | **Themen** | [[Betrug]], [[Abgasmanipulation]], [[Compliance]] |
 | **Unternehmen** | [[Volkswagen]] |
 | **Personen** | [[Ina Karabasz]], [[Martin Winterkorn]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Porsche-Ikone vor Gericht]], [[Staatsanwaltschaft und Strafprozess]], [[Porsche]], [[Handelsblatt]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Staatsanwaltschaft und Strafprozess]] |
 
 ## Shownotes
 
@@ -62,9 +62,9 @@ Der tiefe Fall des Ex-Audi-Chefs Stadler
 - [8:16](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=496) – Aber Volkswagen glaubte halt, sehr gut aufgestellt zu sein. Also ich möchte da ganz gerne mal zwei führende … ([[Transkript 018#Minute 8|Transkript]])
 - [10:19](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=619) – Und nichtdestotrotz war dieses Programm nicht darauf ausgelegt, Fehlverhalten der Mitarbeiter ernsthaft, muss man ja sagen, zu überprüfen, … ([[Transkript 018#Minute 10|Transkript]])
 - [12:25](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=745) – Da kommen wir sicherlich auch noch später drauf zu sprechen. Aber wie gesagt, die haben was entdeckt. Aber … ([[Transkript 018#Minute 12|Transkript]])
-- [14:28](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=868) – Es war oberste Klasse, war Premium. Gold gerendert, alles was da war. Aber letztlich unterm Strich war es … ([[Transkript 018#Minute 14|Transkript]])
+- [14:28](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=868) – Es war oberste Klasse, war Premium. Goldgerändert, alles was da war. Aber letztlich unterm Strich war es einfach … ([[Transkript 018#Minute 14|Transkript]])
 - [16:33](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=993) – Naja, sagen wir mal so, sie mussten daraus lernen, weil es einfach Tag 1, als es bekannt gegeben … ([[Transkript 018#Minute 16|Transkript]])
-- [18:35](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=1115) – Und das war dann die Hildrud Werner, die da als ihre Nachfolgerin in den Vorstand eingezogen ist. Okay. … ([[Transkript 018#Minute 18|Transkript]])
+- [18:35](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=1115) – Und das war dann die Hiltrud Werner, die da als ihre Nachfolgerin in den Vorstand eingezogen ist. Okay. … ([[Transkript 018#Minute 18|Transkript]])
 - [20:40](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=1240) – Jetzt muss man an der Stelle sagen, die Untersuchung von Staatsanwaltschaften ist selten im Sinne derjenigen, die denn … ([[Transkript 018#Minute 20|Transkript]])
 - [22:45](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=1365) – Der war früher Finanzvorstand in den fraglichen Jahren des Betruges und ist heute Aufsichtsratsvorsitzender. Das ist eine ganz … ([[Transkript 018#Minute 22|Transkript]])
 - [24:47](https://open.spotify.com/episode/0LK5VmyQBzxj8Xd4baMQVH?t=1487) – Das muss man schon zugestehen. Das sind insgesamt 170 Millionen Euro für Compliance, Risikomanagement, Integrität und Kultur. Und … ([[Transkript 018#Minute 24|Transkript]])

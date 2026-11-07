@@ -24,9 +24,9 @@ Im Februar 2024 begann der Prozess vor dem Landgericht Berlin im Saal 500 des Kr
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 1:20](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=80) · [[Transkript 068#Minute 1|im Transkript]]
 
-> … eine ist ein Treuhänder gewesen und der andere war ein Mitarbeiter von PICAM und die Staatsanwaltschaft wirft ihnen sozusagen so Helfertätigkeiten vor, dass sie daran mitgewirkt haben sollen in unterschiedlicher Ausprägung. Also der Mitarbeiter …
+> … Ja, und der Hauptangeklagte, der saß dann da, der Mann heißt Thomas Entzeroth, der ist hier aus Berlin. Und der gilt als Schlüsselfigur in dem ganzen Fall. Also die Bezeichnung dauerhafte Einnahmequelle dafür ist …
 >
-> — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 4:57](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=297) · [[Transkript 068#Minute 4|im Transkript]]
+> — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 3:53](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=233) · [[Transkript 068#Minute 3|im Transkript]]
 
 > … so eine Art Vermögensverwaltung nach außen aufgebaut, hatten lustige Fantasienamen. Also das PICAM hieß die Unternehmensgruppe und die PICOR AG hieß eine wichtige Firma in dem Netzwerk. Und dann haben sie später ein Wertpapier …
 >
@@ -36,26 +36,26 @@ Im Februar 2024 begann der Prozess vor dem Landgericht Berlin im Saal 500 des Kr
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 10:16](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=616) · [[Transkript 068#Minute 10|im Transkript]]
 
-> … hat man sogar einen Namen gegeben, also quasi einen Namen für den Wundercomputer, den haben sie damals vorans getauft. Ja, warum nicht? Auch mal einen interessanten Namen geben. Man muss ja sagen, das hören …
+> … vor einem Jahr haben wir hier im Podcast über das Schneeballsystem der Picam Vermögensverwalter gesprochen. Damals hatte die Staatsanwaltschaft Berlin gerade drei Männer angeklagt, weil sie eben ein Schneeballsystem betrieben haben sollen. Ein ganzes …
 >
-> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 3:53](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=233) · [[Transkript 109#Minute 3|im Transkript]]
+> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 0:07](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=7) · [[Transkript 109#Minute 0|im Transkript]]
 
-> … also Betrüger per se, wir sprechen jetzt nicht explizit über den Fall PICAM, wissen natürlich in der meisten Zeit auch ganz gut, wo sie ihr Geld parken können, damit es nicht unbedingt jeder sofort …
+> … reden wir gleich. Eins vorweg, es wird heute weniger darum gehen, wie Picam groß geworden ist und dann implodierte. Das können Sie natürlich sehr gerne, liebe Hörerinnen, liebe Hörer, in der ersten Folge zu …
 >
-> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 16:50](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1010) · [[Transkript 109#Minute 16|im Transkript]]
+> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 1:44](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=104) · [[Transkript 109#Minute 1|im Transkript]]
 
-> … ein paar Euro wiedersehen, von dem, was sie ausgegeben haben, da bei PICAM. Aber so ist es nun mal jetzt, ja. Lass uns doch mal über diese 80 Millionen Euro auch da wieder konkret …
+> … vorgespielt haben. Man hat also Anlegern Finanzprodukte verkauft. Die hatten so Fantasienamen Picam, PIKOR, PIKOX und hat also für diese Finanzprodukte rund 320 Millionen Euro eingesammelt. Und um die Anleger dazu zu bekommen, dass …
 >
-> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 19:45](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1185) · [[Transkript 109#Minute 19|im Transkript]]
+> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 3:21](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=201) · [[Transkript 109#Minute 3|im Transkript]]
 
-> … Und die Staatsanwaltschaft geht also davon aus, dass insgesamt 3000 Anleger bei PICAM über die 10 Jahre angelegt haben und dass aber den Schaden am Ende nur 800 bis 1000 Anleger tragen. Was immer …
+> … tun. Und weil das so ist, hat der Hauptverantwortliche, eben dieser Herr Entzeroth, fünf Jahre und zehn Monate Haft als Strafe in seinem Urteil bekommen. Wir wissen noch nicht, ob das Urteil so rechtskräftig …
 >
-> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 21:27](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1287) · [[Transkript 109#Minute 21|im Transkript]]
+> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 4:56](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=296) · [[Transkript 109#Minute 4|im Transkript]]
 
 ## In diesen Folgen (2)
 
-- [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Shownotes · Minute [1:20](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=80), [4:57](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=297), [8:31](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=511), [10:16](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=616)
-- [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Shownotes · Minute [3:53](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=233), [16:50](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1010), [19:45](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1185), [21:27](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=1287)
+- [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Shownotes · Minute [1:20](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=80), [3:53](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=233), [8:31](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=511), [10:16](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=616)
+- [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Shownotes · Minute [0:07](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=7), [1:44](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=104), [3:21](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=201), [4:56](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=296)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

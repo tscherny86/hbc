@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-12-30 |
 | **Dauer** | 1:13:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq) · [MP3](https://audio.podigee-cdn.net/1302662-m-344bc86c263f47c2dad4364ca7acab26.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/64-neue-episode) |
-| **Transkript** | [[Transkript 064]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Adler Group]], [[Tesla-Files]], [[Signa und René Benko]] |
+| **Transkript** | [[Transkript 064]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Adler Group]], [[Tesla-Files]], [[Sympatex-Betrug]], [[Signa und René Benko]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Whistleblower]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | [[Tesla]], [[Signa]], [[M.M. Warburg]], [[Freshfields]], [[Sympatex]], [[Staatsanwaltschaft Köln]], [[Handelsblatt]] |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Jan Marsalek]], [[Markus Braun]], [[Hanno Berger]], [[Benjamin Limbach]], [[Ulf Johannemann]], [[Elon Musk]], [[René Benko]] |
-| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]], [[Marsalek-Brief]], [[Fall Mehmet Göker]], [[Sympatex-Betrug]], [[BND-Spionage]], [[Lukasz Krupski]], [[Mehmet Göker]], [[Betrug]], [[Insolvenz]], [[Wirtschaftsprüfung]], [[Landesbanken]], [[HSH Nordbank]], [[BND]] |
+| **Unternehmen** | [[Tesla]], [[Signa]], [[M.M. Warburg]], [[Freshfields]], [[Sympatex]], [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Lars-Marten Nagel]], [[Jan Marsalek]], [[Markus Braun]], [[Hanno Berger]], [[Anne Brorhilker]], [[Christian Olearius]], [[Benjamin Limbach]], [[Ulf Johannemann]], [[Elon Musk]], [[René Benko]], [[Stephan Goetz]] |
+| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[Fall Mehmet Göker]], [[BND-Spionage]], [[Oliver Bellenhaus]], [[Lukasz Krupski]], [[Mehmet Göker]], [[Betrug]], [[Insolvenz]], [[Wirtschaftsprüfung]], [[Landesbanken]], [[HSH Nordbank]], [[BND]] |
 
 ## Shownotes
 
@@ -55,13 +55,13 @@ Im Jahresrückblick von Handelsblatt-Crime gibt das Team einen Einblick in seine
 - [35:35](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2135) – Ist das eine Gefahr, die man durch das Stopfen irgendeiner Lücke schließen kann oder abwenden kann? Naja, das … ([[Transkript 064#Minute 35|Transkript]])
 - [37:44](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2264) – Wie ist das? Also beschweren die sich dann, wenn wir sowas schreiben und sie es nicht wollten? Nee, … ([[Transkript 064#Minute 37|Transkript]])
 - [39:49](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2389) – Naja, also Information hilft ja immer. Also das hilft, wenn was gut läuft und die Leute sehen, also … ([[Transkript 064#Minute 39|Transkript]])
-- [41:50](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2510) – Also so geht es auch. Welche Erfahrung hast du da gemacht, Henke? Das gibt es. Es gibt auch … ([[Transkript 064#Minute 41|Transkript]])
+- [41:50](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2510) – Also so geht es auch. Welche Erfahrung hast du da gemacht, Sönke? Das gibt es. Es gibt auch … ([[Transkript 064#Minute 41|Transkript]])
 - [43:57](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2637) – Und manchmal tun sie es ja auch und das hilft dann ja, wenn man darüber redet, um das … ([[Transkript 064#Minute 43|Transkript]])
 - [46:06](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2766) – Also es waren auch wieder zwei Beteiligte. Aber nicht Herr Olearius von der MM Warburg. Nee, der ist … ([[Transkript 064#Minute 46|Transkript]])
 - [48:34](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2914) – Da ging es um sehr viel Geld, in einem Jahr um 47 Millionen, im nächsten Jahr um 43 … ([[Transkript 064#Minute 48|Transkript]])
 - [50:38](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3038) – Ja, also, das sind alles sehr erstaunliche Vorwürfe und ich kann das auch gut nachvollziehen. Also, das hat … ([[Transkript 064#Minute 50|Transkript]])
 - [52:57](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3177) – Also das hätte ich mir gar nicht vorstellen können. Ganz im Gegenteil, also man hätte im Grunde ja … ([[Transkript 064#Minute 52|Transkript]])
-- [55:10](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3310) – Worauf wolltest du hinaus? Ja, so wie Frau Bräuhecker seit zehn Jahren ermittelt, schreiben wir ja jetzt auch … ([[Transkript 064#Minute 55|Transkript]])
+- [55:10](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3310) – Worauf wolltest du hinaus? Ja, so wie Frau Brorhilker seit zehn Jahren ermittelt, schreiben wir ja jetzt auch … ([[Transkript 064#Minute 55|Transkript]])
 - [57:15](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3435) – Das ist der Ulf Johannemann. Dem wird, wie gesagt, in Frankfurt der Prozess gemacht. Ich erwarte da auch … ([[Transkript 064#Minute 57|Transkript]])
 - [59:19](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3559) – Apropos Bewegen und apropos München kommen wir natürlich noch zum anderen Fall. Ich möchte vorher eine Frage stellen. … ([[Transkript 064#Minute 59|Transkript]])
 - [1:01:22](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=3682) – Wir sind mittlerweile natürlich auch eine Anlaufstelle geworden für Informanten. Und wenn eine neue Anklage geschrieben wird, dann … ([[Transkript 064#Minute 61|Transkript]])

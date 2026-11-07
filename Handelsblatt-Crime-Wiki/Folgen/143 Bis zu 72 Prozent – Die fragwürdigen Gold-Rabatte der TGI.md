@@ -18,11 +18,11 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-04-05 |
 | **Dauer** | 1:00:59 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q) · [MP3](https://audio.podigee-cdn.net/2416243-m-11c20db9026845f9e2b1843c4aa263db.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/143-neue-episode) |
-| **Transkript** | [[Transkript 143]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 143]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[PIM Gold]], [[TGI-Gold (Helmut Kaltenegger)]] |
 | **Themen** | [[Goldanlage]] |
-| **Unternehmen** | [[TGI (Gold)]], [[BaFin]], [[Handelsblatt]] |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Helmut Kaltenegger]], [[Mesut Pazarci]] |
+| **Unternehmen** | [[TGI (Gold)]], [[BaFin]] |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[Helmut Kaltenegger]] |
 | **Kurz erwähnt** | [[Betrug]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 
 ## Shownotes
@@ -51,8 +51,8 @@ Wie drei Tonnen Gold verschwanden – der PIM-Gold-Skandal
 - [2:10](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=130) – Ihr beiden, bevor wir jetzt ins Thema einsteigen, will ich noch ganz kurz eine tolle Nachricht mit unseren … ([[Transkript 143#Minute 2|Transkript]])
 - [4:11](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=251) – Und ihr habt mir vor der Aufnahme erzählt, dass ihr eigentlich erst durch einen Werbefilm mit Oliver Pocher, … ([[Transkript 143#Minute 4|Transkript]])
 - [6:11](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=371) – Aber da gehen wir nachher nochmal drauf ein. Und der Werbeclip hier, der war jetzt, naja, sagen wir … ([[Transkript 143#Minute 6|Transkript]])
-- [8:11](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=491) – Also Helmut Kaltenegger nenne ich das ein Zielkaufrabatt. Ja, wir können uns eben anhören, was er selbst dazu … ([[Transkript 143#Minute 8|Transkript]])
-- [10:13](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=613) – Dann gibt es eine Beteiligung in Sambia und angeblich eben auch diese eigene Mine in Guayana. Und das … ([[Transkript 143#Minute 10|Transkript]])
+- [8:11](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=491) – Also Helmut Kaltenegger nennt das ein Zielkaufrabatt. Ja, wir können uns eben anhören, was er selbst dazu sagt. … ([[Transkript 143#Minute 8|Transkript]])
+- [10:13](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=613) – Dann gibt es eine Beteiligung in Sambia und angeblich eben auch diese eigene Mine in Guyana. Und das … ([[Transkript 143#Minute 10|Transkript]])
 - [12:18](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=738) – Ja, da steht, ich lese vor, wir liefern ausschließlich 24 Karat Feingold-Barren. Je nach Grammatur erhalten Sie entweder … ([[Transkript 143#Minute 12|Transkript]])
 - [14:23](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=863) – Ja, nur das Problem ist, die angeblichen Partner der TGI können Barren dieser Qualität gar nicht herstellen. Die … ([[Transkript 143#Minute 14|Transkript]])
 - [16:28](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=988) – Und dann gebe ich aber meine Profite einfach als Subvention weg, indem ich sie als Rabatte an die … ([[Transkript 143#Minute 16|Transkript]])
@@ -60,7 +60,7 @@ Wie drei Tonnen Gold verschwanden – der PIM-Gold-Skandal
 - [20:35](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1235) – Gold wirft keine laufenden Erträge ab, wie zum Beispiel Anleihen oder Tagesgeld, sondern Gold verursacht erstmal durch die … ([[Transkript 143#Minute 20|Transkript]])
 - [22:41](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1361) – Lass uns doch mal in einen Zusammenschnitt der ersten Folge reinhören. Also man sieht Herrn Kaltenegger, wie er … ([[Transkript 143#Minute 22|Transkript]])
 - [24:41](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1481) – Und auch auf Facebook, LinkedIn und X sind sie unterwegs. Und da hat TGI laut eigener Auskunft mehr … ([[Transkript 143#Minute 24|Transkript]])
-- [26:45](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1605) – Am 30. Oktober 2025 hat der Goldhändler ins Aberkustierparkhotel in Berlin eingeladen. Ziel der Veranstaltung war offenbar der … ([[Transkript 143#Minute 26|Transkript]])
+- [26:45](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1605) – Am 30. Oktober 2025 hat der Goldhändler ins Abacus-Tierpark-Hotel in Berlin eingeladen. Ziel der Veranstaltung war offenbar der … ([[Transkript 143#Minute 26|Transkript]])
 - [28:49](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1729) – Das Konzept nannte sich irgendwie so Gold-Sparplan und die nötigen Erträge, die wollte PIM mit dem Handel von … ([[Transkript 143#Minute 28|Transkript]])
 - [30:51](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1851) – Das Verfahren am Landgericht Wien endete aber mit einem Freispruch. Denn nach Ansicht des Gerichts sei ein Betrug … ([[Transkript 143#Minute 30|Transkript]])
 - [32:54](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1974) – Und nun sitzt sie da im März 25 nach diesem Freispruch im Sessel dem Ehepaar Kaltenegger gegenüber, hinter … ([[Transkript 143#Minute 32|Transkript]])
@@ -74,7 +74,7 @@ Wie drei Tonnen Gold verschwanden – der PIM-Gold-Skandal
 - [49:37](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=2977) – Und die wies uns darauf hin, Zitat, dass eine allfällige Verletzung der Prospektpflicht keinen Rückschluss auf das Funktionieren … ([[Transkript 143#Minute 49|Transkript]])
 - [51:46](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3106) – Ja, finde ich, ist eine total legitime Frage. Es wäre ja aus meiner Sicht auch überhaupt nicht abwegig, … ([[Transkript 143#Minute 51|Transkript]])
 - [53:48](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3228) – Und das soll so laufen. Der Kunde kauft Gold zum Tageskurs und erhält sofort zwei bis drei Prozent … ([[Transkript 143#Minute 53|Transkript]])
-- [55:50](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3350) – Wo sollen die Kalten Eggers dieses Geld, was sie den Nutzern dann vermeintlich auszahlen wollen, wo sollen die … ([[Transkript 143#Minute 55|Transkript]])
+- [55:50](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3350) – Wo sollen die Kalteneggers dieses Geld, was sie den Nutzern dann vermeintlich auszahlen wollen, wo sollen die das … ([[Transkript 143#Minute 55|Transkript]])
 - [57:59](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3479) – Und was wir auch haben, wir haben eine Goldmenge natürlich zum Verwahren, ja, für unsere Kunden, aber wir … ([[Transkript 143#Minute 57|Transkript]])
 - [1:00:05](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3605) – Wir sind gespannt und bleiben dran. Jetzt geht es aber erst mal weiter mit der Folge. Ja, da … ([[Transkript 143#Minute 60|Transkript]])
 - [1:02:22](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=3742) – Mit den E-Learnings des Handelsblatt Management Campus bleiben Sie einen Schritt voraus. Ob künstliche Intelligenz, moderne Führung, Anlagestrategien … ([[Transkript 143#Minute 62|Transkript]])

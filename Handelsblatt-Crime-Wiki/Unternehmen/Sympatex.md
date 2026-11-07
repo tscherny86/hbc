@@ -44,7 +44,7 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 4:45](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=285) · [[Transkript 064#Minute 4|im Transkript]]
 
-> … genommen hat für ein paar Tage. Und er wie sein Co-Eigner von Sympathex eigentlich nur gegen eine mittlere Millionen-Kaution auf freiem Fuß ist im Augenblick. Wie eng war da der Kontakt bei der Recherche? …
+> … genommen hat für ein paar Tage. Und er wie sein Co-Eigner von Sympatex eigentlich nur gegen eine mittlere Millionen-Kaution auf freiem Fuß ist im Augenblick. Wie eng war da der Kontakt bei der Recherche? …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 6:47](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=407) · [[Transkript 064#Minute 6|im Transkript]]
 
@@ -52,11 +52,11 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 41:08](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2468) · [[Transkript 064#Minute 41|im Transkript]]
 
-> Vielleicht erinnern Sie sich noch an die Namen Stephan Goetz und Stefan Sankt-Johanser. Im November 2023 haben wir hier bei Handelsblatt Crime eine Folge über die zwei bekannten Münchner Unternehmensberater gemacht. …
+> Vielleicht erinnern Sie sich noch an die Namen Stephan Goetz und Stefan Sanktjohanser. Im November 2023 haben wir hier bei Handelsblatt Crime eine Folge über die zwei bekannten Münchner Unternehmensberater gemacht. …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 0:07](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=7) · [[Transkript 098#Minute 0|im Transkript]]
 
-> … die Beratung Goetzpartners gerade befassen muss. Die Staatsanwaltschaft München verdächtigt die Gründer Stephan Goetz und Stefan St. Johanser einer zentralen Rolle bei einem Millionenbetrug. Ob die beiden je in das Unternehmen zurückkehren, ist vor diesem …
+> … die Beratung Goetzpartners gerade befassen muss. Die Staatsanwaltschaft München verdächtigt die Gründer Stephan Goetz und Stefan Sanktjohanser einer zentralen Rolle bei einem Millionenbetrug. Ob die beiden je in das Unternehmen zurückkehren, ist vor diesem Hintergrund …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 2:22](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=142) · [[Transkript 098#Minute 2|im Transkript]]
 
@@ -68,15 +68,15 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 9:18](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=558) · [[Transkript 098#Minute 9|im Transkript]]
 
-> … U-Haft antreten musste, weil er in der Vergangenheit als Eigentümer der Firma Sympatex, so sieht es jedenfalls die Staatsanwaltschaft, deren Anleger betrogen haben soll. René, wie genau? Ja, da müssen wir ins Jahr 2017 …
+> … Jahres. Das muss man in der Deutlichkeit sagen. Die Rede ist von Stephan Goetz. Ja, das ist ein Unternehmensberater aus München, der mit seiner Firma Goetzpartners sehr bekannt geworden ist. Aber im März bereits ein …
 >
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 35:20](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2120) · [[Transkript 104#Minute 35|im Transkript]]
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 35:03](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2103) · [[Transkript 104#Minute 35|im Transkript]]
 
 > … gegangen bei Goetzpartners. Also eigentlich hat ja Goetzpartners mit der Sache bei Sympatex nichts zu tun, aber weil Herr Götz und St. Johanns eben so wichtig für das Unternehmen waren, haben die die Zukunft …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 37:10](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2230) · [[Transkript 104#Minute 37|im Transkript]]
 
-> Der Fall eines mutmaßlichen Millionenbetrugs beim Textilunternehmen Sympatex aus Unterföring, der hat uns hier im Podcast schon zweimal beschäftigt. Jetzt wird es aber Zeit für ein Update, denn in …
+> Der Fall eines mutmaßlichen Millionenbetrugs beim Textilunternehmen Sympatex aus Unterföhring, der hat uns hier im Podcast schon zweimal beschäftigt. Jetzt wird es aber Zeit für ein Update, denn in …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 0:06](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=6) · [[Transkript 107#Minute 0|im Transkript]]
 
@@ -84,11 +84,11 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 1:56](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=116) · [[Transkript 107#Minute 1|im Transkript]]
 
-> … Februar der Fall sein könnte. Und zweitens sind zwei der Hauptbeschuldigten, die Sympatex-Eigentümer Stephan Goetz und Stefan St. Johanser aus der Untersuchungshaft entlassen worden. Ja und schließlich drittens wurde erst vor einigen Wochen ein einflussreicher …
+> … Februar der Fall sein könnte. Und zweitens sind zwei der Hauptbeschuldigten, die Sympatex-Eigentümer Stephan Goetz und Stefan Sanktjohanser aus der Untersuchungshaft entlassen worden. Ja und schließlich drittens wurde erst vor einigen Wochen ein einflussreicher Münchner …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 3:41](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=221) · [[Transkript 107#Minute 3|im Transkript]]
 
-> … an die Anleger. Ja, aber es kam eben nicht zum Verkauf. Und Sympathex ging auch nicht pleite, wie angedroht. Und da haben sich dann natürlich viele Anleger und Beobachter ziemlich gewundert. Ja, das hatte …
+> … an die Anleger. Ja, aber es kam eben nicht zum Verkauf. Und Sympatex ging auch nicht pleite, wie angedroht. Und da haben sich dann natürlich viele Anleger und Beobachter ziemlich gewundert. Ja, das hatte …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 6:25](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=385) · [[Transkript 107#Minute 6|im Transkript]]
 
@@ -104,7 +104,7 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 4:59](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=299) · [[Transkript 119#Minute 4|im Transkript]]
 
-> … auch erstmal gucken, wie es dann abläuft. Und als letztes wurde dann Frank Günther hereingeführt. Klar, weil der kommt halt aus der Urhaft. Der wird dann also irgendwie rübergefahren von Justizbeamten. Er musste immerhin …
+> … auch erstmal gucken, wie es dann abläuft. Und als letztes wurde dann Frank Günther hereingeführt. Klar, weil der kommt halt aus der U-Haft. Der wird dann also irgendwie rübergefahren von Justizbeamten. Er musste immerhin …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 6:52](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=412) · [[Transkript 119#Minute 6|im Transkript]]
 
@@ -121,7 +121,7 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 - [[059 Der Fall Sympatex Mutmaßlicher Millionenbetrug an Anlegern|#59 – Der Fall Sympatex: Mutmaßlicher Millionenbetrug an Anlegern]] (2023-11-18) — Shownotes · Minute [0:28](https://open.spotify.com/episode/667FJEbljRO5gV8X7OckSO?t=28), [2:46](https://open.spotify.com/episode/667FJEbljRO5gV8X7OckSO?t=166), [4:58](https://open.spotify.com/episode/667FJEbljRO5gV8X7OckSO?t=298), [6:37](https://open.spotify.com/episode/667FJEbljRO5gV8X7OckSO?t=397)
 - [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Minute [2:35](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=155), [4:45](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=285), [6:47](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=407), [41:08](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=2468)
 - [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98 – Update nach Sympatex-Skandal: Wie es mit Goetzpartners nach der Inhaftierung der Eigentümer weitergeht]] (2024-10-20) — Shownotes · Minute [0:07](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=7), [2:22](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=142), [4:09](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=249), [9:18](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=558)
-- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [35:20](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2120), [37:10](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2230)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [35:03](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2103), [37:10](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2230)
 - [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes · Minute [0:06](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=6), [1:56](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=116), [3:41](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=221), [6:25](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=385)
 - [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Shownotes · Minute [0:13](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=13), [3:10](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=190), [4:59](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=299), [6:52](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=412)
 

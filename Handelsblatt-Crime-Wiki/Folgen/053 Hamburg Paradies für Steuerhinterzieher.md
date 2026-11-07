@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-09-09 |
 | **Dauer** | 54:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR) · [MP3](https://audio.podigee-cdn.net/1192775-m-ba990a771b61bd444dadb46c2b634e46.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/53-neue-episode) |
-| **Transkript** | [[Transkript 053]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[M.M. Warburg]], [[HSH Nordbank]], [[Freshfields]], [[Handelsblatt]] |
-| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]], [[Olaf Scholz]], [[Wolfgang Kubicki]] |
-| **Kurz erwähnt** | [[Prominente und die Steuerfahndung]], [[Ulf Johannemann]], [[Strafverteidigung]] |
+| **Transkript** | [[Transkript 053]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Cum-Ex]], [[HSH Nordbank und Cum-Ex]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
+| **Unternehmen** | [[M.M. Warburg]], [[HSH Nordbank]], [[Freshfields]] |
+| **Personen** | [[Sönke Iwersen]], [[Hanno Berger]], [[Christian Olearius]], [[Olaf Scholz]], [[Ulf Johannemann]], [[Wolfgang Kubicki]] |
+| **Kurz erwähnt** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Anne Brorhilker]], [[Strafverteidigung]], [[Staatsanwaltschaft Köln]] |
 
 ## Shownotes
 
@@ -52,13 +52,13 @@ In der aktuellen Podcast-Crime-Folge spricht Moderatorin Lena Jesberg mit den Re
 - [18:50](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1130) – Und da haben wir vielleicht mal ein schönes Zitat aus dem Saturn-Bericht, was wir hier mal präsentieren können. … ([[Transkript 053#Minute 18|Transkript]])
 - [21:00](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1260) – Das klingt jetzt, als käme dann dickes Aber. Ja, das Aber, das kommt jetzt. Bei der HSH war … ([[Transkript 053#Minute 21|Transkript]])
 - [23:05](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1385) – Und die haben versucht, verschiedene Wirtschaftsprüfungsgesellschaften darum zu bitten, eine entsprechende Bescheinigung zu erstellen. Das ist denen aber … ([[Transkript 053#Minute 23|Transkript]])
-- [25:09](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1509) – Außerdem gab es in Wiesbaden einen Fall, wo das Finanzamt das dortige nach Cum-Ex-Geschäften von dem Milliardär Raphael … ([[Transkript 053#Minute 25|Transkript]])
+- [25:09](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1509) – Außerdem gab es in Wiesbaden einen Fall, wo das Finanzamt das dortige nach Cum-Ex-Geschäften von dem Milliardär Rafael … ([[Transkript 053#Minute 25|Transkript]])
 - [27:12](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1632) – Und so war es dann ja auch, die Leute sind dann ja weggelaufen. Und der Berger, wir wissen … ([[Transkript 053#Minute 27|Transkript]])
 - [29:17](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1757) – Und Berger war halt auch ein gefragter Anwalt. Der hatte ja Mandantschaft auch in der Finanzszene und vermögende … ([[Transkript 053#Minute 29|Transkript]])
 - [31:27](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=1887) – Also er hat dann seine SPD-Kontakte genutzt und über Mittelsmänner sich Kontakte und Termine vor allem mit dem … ([[Transkript 053#Minute 31|Transkript]])
 - [33:28](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2008) – Wenn jemand mit diesen Geschäften zu tun hatte und sich damit herausredet, dass er gedacht habe, es sei … ([[Transkript 053#Minute 33|Transkript]])
 - [35:34](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2134) – Deutschlandfonds. Grow with Germany. Jetzt ist Peter Tschentscher, der Nachfolger als Bürgermeister in Hamburg. Verhält der sich denn … ([[Transkript 053#Minute 35|Transkript]])
-- [37:39](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2259) – Sechs Monate später gab es noch eine Sitzung im Untersuchungshausschuss in Hamburg und Tschentscher meinte da jetzt sei … ([[Transkript 053#Minute 37|Transkript]])
+- [37:39](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2259) – Sechs Monate später gab es noch eine Sitzung im Untersuchungsausschuss in Hamburg und Tschentscher meinte da jetzt sei … ([[Transkript 053#Minute 37|Transkript]])
 - [39:44](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2384) – Der Vorstand hat beschlossen, vorsorglich 127 Millionen Euro zurückzustellen, um eine Rückzahlung zu veranlassen. Nun hatte ja die … ([[Transkript 053#Minute 39|Transkript]])
 - [41:55](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2515) – Ja, und bei der HSH ist es mit 112 Millionen eindeutig mehr. Was sagen dazu denn eigentlich Experten? … ([[Transkript 053#Minute 41|Transkript]])
 - [43:59](https://open.spotify.com/episode/4yWdweklyrWahv7ntkwPaR?t=2639) – Und da steht eigentlich relativ gut drin, wie der Mann tickt so. Also er vertritt zum Beispiel die … ([[Transkript 053#Minute 43|Transkript]])

@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 87
+folgen: 86
 tags: [themen]
 ---
 # Staatsanwaltschaft und Strafprozess
@@ -26,7 +26,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 1:22](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=82) · [[Transkript 002#Minute 1|im Transkript]]
 
-> … dass er jetzt in der Zeitung stand mit Raphael Roth, Steuersünder, Steuerhinterzieher, Staatsanwaltschaft hinter Raphael Roth her. Mit der ganzen Konnotation, die da vielleicht folgt. Das hat ihm sehr weh getan. Ja, und sehr …
+> … ist, dass er jetzt in der Zeitung stand mit Rafael Roth, Steuersünder, Steuerhinterzieher, Staatsanwaltschaft hinter Rafael Roth her. Mit der ganzen Konnotation, die da vielleicht folgt. Das hat ihm sehr weh getan. Ja, und sehr weh …
 >
 > — [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2]], [Minute 5:54](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=354) · [[Transkript 002#Minute 5|im Transkript]]
 
@@ -54,7 +54,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3]], [Minute 23:55](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1435) · [[Transkript 003#Minute 23|im Transkript]]
 
-> … über die aktuellen Ereignisse bei Wirecard. Wird der ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marzalek? Und müssen die Aktionäre vielleicht ihre Dividenden zurückzahlen? Damit herzlich willkommen zu Handelsblatt …
+> … über die aktuellen Ereignisse bei Wirecard. Wird der ehemalige CEO Markus Braun angeklagt? Was ist mit seinem zweiten Mann Jan Marsalek? Und müssen die Aktionäre vielleicht ihre Dividenden zurückzahlen? Damit herzlich willkommen zu Handelsblatt …
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 2:47](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=167) · [[Transkript 004#Minute 2|im Transkript]]
 
@@ -70,7 +70,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4]], [Minute 42:42](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2562) · [[Transkript 004#Minute 42|im Transkript]]
 
-> … für eben jene 315 Millionen Euro kaufte, natürlich nicht. Nur beweisen konnten Staatsanwälte und Gläubiger bisher nichts. Heute, an diesem Freitag, an dem diese Sonderfolge von Handelsbut Crime erscheint, dem Podcast, in dem wir …
+> … für eben jene 315 Millionen Euro kaufte, natürlich nicht. Nur beweisen konnten Staatsanwälte und Gläubiger bisher nichts. Heute, an diesem Freitag, an dem diese Sonderfolge von Handelsblatt Crime erscheint, dem Podcast, in dem wir sonst …
 >
 > — [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7]], [Minute 1:26](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=86) · [[Transkript 007#Minute 1|im Transkript]]
 
@@ -86,7 +86,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 2:00](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=120) · [[Transkript 008#Minute 2|im Transkript]]
 
-> … schon gehört, über Anne Brohr-Helker. Sie ist die prominenteste, bekannteste Frau, die Staatsanwältin, die Jägerin, kann man sagen, im Cum-Ex-Fall. Und wir fangen jetzt, glaube ich, chronologisch am besten einfach mal vorne an, Volker. …
+> … schon gehört, über Anne Brorhilker. Sie ist die prominenteste, bekannteste Frau, die Staatsanwältin, die Jägerin, kann man sagen, im Cum-Ex-Fall. Und wir fangen jetzt, glaube ich, chronologisch am besten einfach mal vorne an, Volker. …
 >
 > — [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8]], [Minute 4:04](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub?t=244) · [[Transkript 008#Minute 4|im Transkript]]
 
@@ -110,7 +110,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 8:37](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=517) · [[Transkript 011#Minute 8|im Transkript]]
 
-> … ein bisschen schockiert. Gleichzeitig muss ich sagen, Anne Bohr-Hilker, das ist die Staatsanwältin aus Köln, die Jägerin, genau, die jetzt tatsächlich ja auch da unter anderem dazu geführt hat, dass Hanno Berger jetzt da …
+> … mich ein bisschen schockiert. Gleichzeitig muss ich sagen, Anne Brorhilker, das ist die Staatsanwältin aus Köln, die Jägerin, genau, die jetzt tatsächlich ja auch da unter anderem dazu geführt hat, dass Hanno Berger jetzt da …
 >
 > — [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11]], [Minute 11:37](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=697) · [[Transkript 011#Minute 11|im Transkript]]
 
@@ -142,7 +142,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 26:29](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1589) · [[Transkript 014#Minute 26|im Transkript]]
 
-> … Ermittlungen gegen ihn geführt, es gibt also einen Anfangsverdacht, aber also diese Anklageschrift oder dieser Teil aus der Anklageschrift, den wir gerade gehört haben, das ist keine Anklage, die sich gegen Christian Oliarius richtet, …
+> … Ermittlungen gegen ihn geführt, es gibt also einen Anfangsverdacht, aber also diese Anklageschrift oder dieser Teil aus der Anklageschrift, den wir gerade gehört haben, das ist keine Anklage, die sich gegen Christian Olearius richtet, sondern …
 >
 > — [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14]], [Minute 28:47](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z?t=1727) · [[Transkript 014#Minute 28|im Transkript]]
 
@@ -154,7 +154,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 4:20](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=260) · [[Transkript 015#Minute 4|im Transkript]]
 
-> … man auch. Das heißt, der ist mit jeder kleinen Nuance vertraut. Der Anklager, aber auch der gesamten Ermittlungsakten. Und das ist ein sehr selbstbewusster Richter, der sich auch den Schneiden nicht abkaufen lässt, wenn …
+> … merkt man auch. Das heißt, der ist mit jeder kleinen Nuance vertraut. Der Anklage, aber auch der gesamten Ermittlungsakten. Und das ist ein sehr selbstbewusster Richter, der sich auch den Schneid nicht abkaufen lässt, wenn Berger dann …
 >
 > — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 12:12](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=732) · [[Transkript 015#Minute 12|im Transkript]]
 
@@ -162,7 +162,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 15:50](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=950) · [[Transkript 015#Minute 15|im Transkript]]
 
-> … Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugsverurteil. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll mit einer erfundenen Kryptowährung rund 88 Millionen Euro ergaunert haben. …
+> … Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugs verurteilt. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll mit einer erfundenen Kryptowährung rund 88 Millionen Euro ergaunert haben. …
 >
 > — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 0:39](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=39) · [[Transkript 016#Minute 0|im Transkript]]
 
@@ -250,7 +250,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 1:45](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=105) · [[Transkript 021#Minute 1|im Transkript]]
 
-> … zu Cum-Ex. Im Falle der West-LB waren sie zwölf Monate vor der Staatsanwaltschaft auf der richtigen Spur. In diesem Podcast sprechen wir alle zwei Wochen über die größten Wirtschaftskriminalfälle in Deutschland. Wer dahinter steckt, …
+> … zu Cum-Ex. Im Falle der WestLB waren sie zwölf Monate vor der Staatsanwaltschaft auf der richtigen Spur. In diesem Podcast sprechen wir alle zwei Wochen über die größten Wirtschaftskriminalfälle in Deutschland. Wer dahinter steckt, …
 >
 > — [[021 Tat ohne Täter – wie sich Politik und Justiz im Cum-Ex-Skandal blamieren|#21]], [Minute 3:37](https://open.spotify.com/episode/10xHAAOcLqksZwKNs9qY25?t=217) · [[Transkript 021#Minute 3|im Transkript]]
 
@@ -278,11 +278,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[026 Cum-Ex Show-Down vor Gericht|#26]], [Minute 6:09](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=369) · [[Transkript 026#Minute 6|im Transkript]]
 
-> … noch mal darum, dass diese Verlangs sich natürlich unter anderem gegen die Staatsanwaltschaft wehren wollte, namentlich Frau Brauhilker, die jetzt Oberstaatsanwältin ist. Sönke beschreibt doch diese Verlangs, die Sie da aufgebaut haben, noch mal …
+> … noch mal darum, dass diese Phalanx sich natürlich unter anderem gegen die Staatsanwaltschaft wehren wollte, namentlich Frau Brorhilker, die jetzt Oberstaatsanwältin ist. Sönke beschreibt doch diese Phalanx, die Sie da aufgebaut haben, noch mal …
 >
 > — [[026 Cum-Ex Show-Down vor Gericht|#26]], [Minute 7:53](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=473) · [[Transkript 026#Minute 7|im Transkript]]
 
-> … Und da wirkt er auch ganz anders im Gericht als jetzt der angeklagte Herr Berger. Ja, man muss auch sagen, man sieht, dass der frei sozusagen geschult ist. Also der ist auch auf einer …
+> … Und da wirkt er auch ganz anders im Gericht als jetzt der angeklagte Herr Berger. Ja, man muss auch sagen, man sieht, dass der Frey sozusagen geschult ist. Also der ist auch auf einer Linie …
 >
 > — [[026 Cum-Ex Show-Down vor Gericht|#26]], [Minute 12:58](https://open.spotify.com/episode/1SKB1ONAmjhlkET1WEbZ77?t=778) · [[Transkript 026#Minute 12|im Transkript]]
 
@@ -294,7 +294,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 2:27](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=147) · [[Transkript 025#Minute 2|im Transkript]]
 
-> … festgenommen worden, zwischendurch wieder auf Kaution freigelassen worden. Lass uns über die Anklage nochmal sprechen. Was genau steht da drin? Wie groß ist die, Senke? Also wenn wir nach der Länge fragen, sind es …
+> … festgenommen worden, zwischendurch wieder auf Kaution freigelassen worden. Lass uns über die Anklage nochmal sprechen. Was genau steht da drin? Wie groß ist die, Sönke? Also wenn wir nach der Länge fragen, sind es …
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 6:19](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=379) · [[Transkript 025#Minute 6|im Transkript]]
 
@@ -302,7 +302,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[025 Gericht lässt Wirecard-Klage zu|#25]], [Minute 8:21](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=501) · [[Transkript 025#Minute 8|im Transkript]]
 
-> … sein. Berger war einst ein hoch angesehener Wirtschaftsanwalt, heute ist er ein Angeklagter und frei. Seinen Warnnamen dürfen wir aus juristischen Gründen nicht verraten. Der war einst sein Ziehsohn, heute ist er Zeuge der …
+> … sein. Berger war einst ein hoch angesehener Wirtschaftsanwalt, heute ist er ein Angeklagter und Frey. Seinen wahren Namen dürfen wir aus juristischen Gründen nicht verraten. Der war einst sein Ziehsohn, heute ist er Zeuge der …
 >
 > — [[024 Das Cum-Ex Dream Team (Teil 2)|#24]], [Minute 1:11](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=71) · [[Transkript 024#Minute 1|im Transkript]]
 
@@ -322,7 +322,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 1:00](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=60) · [[Transkript 027#Minute 1|im Transkript]]
 
-> … sollen sich die beiden im Landgericht in Bonn erneut gegenüberstehen. Berger als Angeklagter und Frey als der Kronzeuger. In diesem Podcast sprechen wir alle zwei Wochen über die größten Wirtschaftskriminalfälle in Deutschland. Wer dahinter …
+> … sollen sich die beiden im Landgericht in Bonn erneut gegenüberstehen. Berger als Angeklagter und Frey als der Kronzeuge. In diesem Podcast sprechen wir alle zwei Wochen über die größten Wirtschaftskriminalfälle in Deutschland. Wer dahinter …
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 2:45](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=165) · [[Transkript 027#Minute 2|im Transkript]]
 
@@ -334,21 +334,21 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27]], [Minute 22:25](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1345) · [[Transkript 027#Minute 22|im Transkript]]
 
-> Alfons Schubeck steht vor Gericht. Die Staatsanwaltschaft wirft dem Star-Koch und einem seiner Mitarbeiter aus der IT-Abteilung Steuerhinterziehung in Millionenhöhe vor. Es geht um Einkommenssteuer, Umsatzsteuer und Gewerbesteuerhinterziehung …
+> Alfons Schuhbeck steht vor Gericht. Die Staatsanwaltschaft wirft dem Star-Koch und einem seiner Mitarbeiter aus der IT-Abteilung Steuerhinterziehung in Millionenhöhe vor. Es geht um Einkommenssteuer, Umsatzsteuer und Gewerbesteuerhinterziehung …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 0:02](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2) · [[Transkript 028#Minute 0|im Transkript]]
 
-> … dem Prozess konkret? Ja, es ging um 21 Fälle der Steuerhinterziehung, die Staatsanwaltschaft München Schubeck zur Last legte. Wie wir jetzt wissen, zu Recht. Schubeck hat Kassen manipuliert in seinen zwei Restaurants. Dem Orlando …
+> … dem Prozess konkret? Ja, es ging um 21 Fälle der Steuerhinterziehung, die Staatsanwaltschaft München Schuhbeck zur Last legte. Wie wir jetzt wissen, zu Recht. Schuhbeck hat Kassen manipuliert in seinen zwei Restaurants. Dem Orlando …
 >
 > — [[028 Prominente und die Steuerfahndung|#28]], [Minute 3:28](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=208) · [[Transkript 028#Minute 3|im Transkript]]
 
-> … Personal noch nur sehr leise, ein bisschen vernuschelt angegeben. Und als die Staatsanwaltschaft die Anklage dann vorgelesen hat, schwicke er erst mal und ließ seine Anwälte ein sogenanntes Eröffnungsstatement vortragen. Nach einer kurzen Unterbrechung …
+> … sich schon ein bisschen für ihn begeistern. Der wirkt auch auf der Anklagebank tatsächlich kumpelhaft und lausbübisch. Und ja, so lässt sich das dann alles zusammenfinden. Das ist praktisch, wenn man ihn vielleicht vergleichen …
 >
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 10:56](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=656) · [[Transkript 028#Minute 10|im Transkript]]
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 9:39](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=579) · [[Transkript 028#Minute 9|im Transkript]]
 
-> … insgesamt sollte nur eine Bewährungsstrafe ausgesprochen werden. Da hat sich dann die Staatsanwaltschaft und das Gericht aber, wie wir jetzt wissen, verständlicherweise auch nicht drauf eingelassen. Ja, und dann kann man auch sagen, dann …
+> … Was genau haben die Anwälte denn vorgetragen? Sie meinten, dass einfach die Staatsanwaltschaft schlecht ermittelt hätte, nicht objektiv ermittelt hätte. Haben mich dann gefragt, also verschiedene Fragen gestellt. Zum Beispiel, wo ist denn das …
 >
-> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 13:47](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=827) · [[Transkript 028#Minute 13|im Transkript]]
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 11:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=719) · [[Transkript 028#Minute 11|im Transkript]]
 
 > … Adler sucht seit Monaten vergebens und zunehmend verzweifelt nach einem neuen Wirtschaftsprüfer. Staatsanwaltschaften und die Finanzaufsicht ermitteln. Auf Adler lasten Schulden in Milliardenhöhe zahlreiche Baustellen des Konzerns, stehen seit langem still. Mancher Beobachter befürchtet …
 >
@@ -358,7 +358,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 5:23](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=323) · [[Transkript 029#Minute 5|im Transkript]]
 
-> … haben ihm vorgeworfen, Pering würde den Aktienkurs manipulieren. Schließlich hat sogar die Staatsanwaltschaft gegen ihn ermittelt und er musste eine Geldauflage zahlen. Das wenige Wochen, bevor der Konzern dann wirklich zusammengebrochen ist und über …
+> … haben ihm vorgeworfen, Perring würde den Aktienkurs manipulieren. Schließlich hat sogar die Staatsanwaltschaft gegen ihn ermittelt und er musste eine Geldauflage zahlen. Das wenige Wochen, bevor der Konzern dann wirklich zusammengebrochen ist und über …
 >
 > — [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29]], [Minute 17:33](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1053) · [[Transkript 029#Minute 17|im Transkript]]
 
@@ -454,7 +454,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34]], [Minute 52:00](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ?t=3120) · [[Transkript 034#Minute 52|im Transkript]]
 
-> … so sagen, denn er ist von deutschen Gerichten auch als solcher zuerst angeklagt und auch teilweise verurteilt worden. Insolvenz, Verschleppung, Untreue, das sind keine Kavaliersdelikte. Und Göker hatte auch schon vor seiner Flucht aus …
+> … so sagen, denn er ist von deutschen Gerichten auch als solcher zuerst angeklagt und auch teilweise verurteilt worden. Insolvenzverschleppung, Untreue, das sind keine Kavaliersdelikte. Und Göker hatte auch schon vor seiner Flucht aus Deutschland …
 >
 > — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 7:11](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=431) · [[Transkript 035#Minute 7|im Transkript]]
 
@@ -486,7 +486,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 42:26](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2546) · [[Transkript 037#Minute 42|im Transkript]]
 
-> … eine Strafanzeige, also beziehungsweise Strafanzeige war es nicht, aber die sind zur Staatsanwaltschaft gelaufen und haben gesagt, hier gibt es die und die Situation und möglicherweise hat Brumüller den Thiele betrogen und guckt euch …
+> … eine Strafanzeige, also beziehungsweise Strafanzeige war es nicht, aber die sind zur Staatsanwaltschaft gelaufen und haben gesagt, hier gibt es die und die Situation und möglicherweise hat Brühmüller den Thiele betrogen und guckt euch …
 >
 > — [[038 Streit um das Milliarden-Erbe von Thiele|#38]], [Minute 31:06](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy?t=1866) · [[Transkript 038#Minute 31|im Transkript]]
 
@@ -502,11 +502,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 7:18](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=438) · [[Transkript 039#Minute 7|im Transkript]]
 
-> … würde Markus Födersch wohl ungern zu Gesicht bekommen. Herr Födersch war früher Staatsanwalt, bevor er Richter wurde, und zuständig für Steuerdelikte. Und er galt da als einigermaßen gefürchtet, als ziemlich erbarmungslos, als sehr korrekt. …
+> … würde Markus Födisch wohl ungern zu Gesicht bekommen. Herr Födisch war früher Staatsanwalt, bevor er Richter wurde, und zuständig für Steuerdelikte. Und er galt da als einigermaßen gefürchtet, als ziemlich erbarmungslos, als sehr korrekt. …
 >
 > — [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39]], [Minute 20:07](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1207) · [[Transkript 039#Minute 20|im Transkript]]
 
-> … stellt der ehemalige NRW-Justizminister Peter Biesenbach eine Dienstaufsichtsbeschwerde gegen den Leiter der Staatsanwaltschaft Köln und dessen Stellvertreter. Der Vorwurf, sie würden die Arbeit der Cum-Ex-Abteilung unter Oberstaatsanwältin Anne Brohr-Hilker behindern und damit unter Umständen …
+> … stellt der ehemalige NRW-Justizminister Peter Biesenbach eine Dienstaufsichtsbeschwerde gegen den Leiter der Staatsanwaltschaft Köln und dessen Stellvertreter. Der Vorwurf, sie würden die Arbeit der Cum-Ex-Abteilung unter Oberstaatsanwältin Anne Brorhilker behindern und damit unter Umständen mildere …
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 0:35](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=35) · [[Transkript 040#Minute 0|im Transkript]]
 
@@ -518,17 +518,9 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 4:59](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=299) · [[Transkript 040#Minute 4|im Transkript]]
 
-> … relativ früh, also hat sich nach ihrem Studium gleich engagiert bei der Staatsanwaltschaft. Hat da angefangen, ja wie jede junge Staatsanwältin, mit, ich will nicht sagen Kleinkram, aber so aller Weltsachen, ich glaube Drogen, …
+> … relativ früh, also hat sich nach ihrem Studium gleich engagiert bei der Staatsanwaltschaft. Hat da angefangen, ja wie jede junge Staatsanwältin, mit, ich will nicht sagen Kleinkram, aber so Allerweltssachen, ich glaube Drogen, Delikte …
 >
 > — [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40]], [Minute 8:16](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=496) · [[Transkript 040#Minute 8|im Transkript]]
-
-> … sich seitdem immer weiter zugespitzt hat. Um das einmal knapp zu umreißen, Staatsanwälte ermitteln, die Finanzaufsicht stellte zwei grobe Bilanzfehler fest. Wirtschaftsprüfer legten ihr Mandat hin und der Konzern findet trotz verzweifelter Suche bis …
->
-> — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 0:44](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=44) · [[Transkript 042#Minute 0|im Transkript]]
-
-> … da gibt es weitere Probleme, gibt es natürlich auch noch, denn die Staatsanwaltschaften ermitteln rund um Adler herum und die BaFin prüft weiter die Bilanzen. Und dann gibt es vor dem Landgericht Frankfurt noch …
->
-> — [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42]], [Minute 46:12](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=2772) · [[Transkript 042#Minute 46|im Transkript]]
 
 > … Also der kam dann tatsächlich nach Wuppertal und schulte die Steuerfahnder und Staatsanwälte, wonach sie suchen müssen, worauf sie achten müssen und so weiter und so fort. Und dann haben die da zusammengesessen bei, …
 >
@@ -542,7 +534,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 20:18](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1218) · [[Transkript 044#Minute 20|im Transkript]]
 
-> … Millionen waren. Was kommt denn da als Sinn drauf? Also wenn die Staatsanwaltschaft das alles zurückfordert. Und da war man dann über die Jahre, die ja dann vergangen waren, war man schon bei einer …
+> … das 600 Millionen waren. Was kommt denn da als Zins drauf? Also wenn die Staatsanwaltschaft das alles zurückfordert. Und da war man dann über die Jahre, die ja dann vergangen waren, war man schon bei einer …
 >
 > — [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44]], [Minute 22:19](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1339) · [[Transkript 044#Minute 22|im Transkript]]
 
@@ -586,7 +578,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 26:40](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1600) · [[Transkript 047#Minute 26|im Transkript]]
 
-> … die fehlende Kontrolle in den Behörden machte und dass womöglich auch weitere Staatsanwälte verwickelt waren. Seit Januar dieses Jahres wurde Bartle der Prozess gemacht, an dessen Ende wegen gewerbsmäßiger Bestechlichkeit, schwerer Untreue und Steuerhinterziehung …
+> … die fehlende Kontrolle in den Behörden machte und dass womöglich auch weitere Staatsanwälte verwickelt waren. Seit Januar dieses Jahres wurde Badle der Prozess gemacht, an dessen Ende wegen gewerbsmäßiger Bestechlichkeit, schwerer Untreue und Steuerhinterziehung …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 1:19](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=79) · [[Transkript 048#Minute 1|im Transkript]]
 
@@ -598,7 +590,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 5:04](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=304) · [[Transkript 048#Minute 5|im Transkript]]
 
-> … geraten? Denn man kommt ja nicht von heute auf morgen vom genomierten Staatsanwalt zum Korrupten. Ja, also das ist wirklich sehr erstaunlich, weil er ja eigentlich eine Bilderbuchkarriere hingelegt hat. Erstmal als Jurist super …
+> … geraten? Denn man kommt ja nicht von heute auf morgen vom renommierten Staatsanwalt zum Korrupten. Ja, also das ist wirklich sehr erstaunlich, weil er ja eigentlich eine Bilderbuchkarriere hingelegt hat. Erstmal als Jurist super Examen …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 9:45](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=585) · [[Transkript 048#Minute 9|im Transkript]]
 
@@ -670,11 +662,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 6:10](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=370) · [[Transkript 055#Minute 6|im Transkript]]
 
-> … als ehemaliger Vorstandschef der Bank nicht nicht gewohnt, dass er auf der Anklagebank Platz nehmen muss. Im Zuschauerraum sitzt auch ein Mann, den der geneigte Hannesbad Wirecard-Zuhörer oder Zuhörerin auch schon kennen, und zwar …
+> … als ehemaliger Vorstandschef der Bank nicht nicht gewohnt, dass er auf der Anklagebank Platz nehmen muss. Im Zuschauerraum sitzt auch ein Mann, den der geneigte Handelsblatt Wirecard-Zuhörer oder Zuhörerin auch schon kennen, und zwar …
 >
 > — [[055 Christian Olearius vor Gericht|#55]], [Minute 7:48](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=468) · [[Transkript 055#Minute 7|im Transkript]]
 
-> … Ausgerechnet die Frau, die im Cum-Ex-Prozess so viel erreicht hat. Anne Broer-Hilker, Staatsanwältin in Köln, steht unter Feuer. Und derjenige, der sie in diese Position gebracht hat, ist kein geringerer als ihr Chef, der …
+> … gerechnet? Ausgerechnet die Frau, die im Cum-Ex-Prozess so viel erreicht hat. Anne Brorhilker, Staatsanwältin in Köln, steht unter Feuer. Und derjenige, der sie in diese Position gebracht hat, ist kein geringerer als ihr Chef, der …
 >
 > — [[056 Eklat in der NRW-Justiz|#56]], [Minute 0:09](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY?t=9) · [[Transkript 056#Minute 0|im Transkript]]
 
@@ -734,7 +726,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 2:20](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=140) · [[Transkript 064#Minute 2|im Transkript]]
 
-> … halt einer von zwei Eigentümern von Sympathex und damit aus Sicht der Staatsanwaltschaft natürlich der mögliche Nutznießer dieser Anleiherestrukturierung, dieses Schuldenschnitts. Ja, weil letzten Endes die Gesellschaft davon ja profitiert hat. Er selbst bestreitet …
+> … halt einer von zwei Eigentümern von Sympatex und damit aus Sicht der Staatsanwaltschaft natürlich der mögliche Nutznießer dieser Anleiherestrukturierung, dieses Schuldenschnitts. Ja, weil letzten Endes die Gesellschaft davon ja profitiert hat. Er selbst bestreitet …
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 6:16](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=376) · [[Transkript 064#Minute 6|im Transkript]]
 
@@ -746,15 +738,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[064 Die Crime-Fälle des Jahres 2023|#64]], [Minute 9:43](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq?t=583) · [[Transkript 064#Minute 9|im Transkript]]
 
-> … Aber es hätte es gegeben. Genau, das sind diese sehr unterschiedlichen Positionen. Staatsanwaltschaft und Jaffe, wenn man so will, auf einer Seite. Also Staatsanwaltschaft sagt das ja auch. Es habe eben dieses Geschäft nicht …
+> … Aber es hätte es gegeben. Genau, das sind diese sehr unterschiedlichen Positionen. Staatsanwaltschaft und Jaffé, wenn man so will, auf einer Seite. Also Staatsanwaltschaft sagt das ja auch. Es habe eben dieses Geschäft nicht …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 36:37](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=2197) · [[Transkript 065#Minute 36|im Transkript]]
 
-> … aber noch die strafrechtliche Verfolgung. Gegengrund ein Dutzend der Beteiligte führt die Staatsanwaltschaft München in Verfahren. Aktiv ermittelt wird aber nur gegen zwei. Organisatorisch hat EY auch darauf reagiert. Im Grunde geht es vor …
+> … aber noch die strafrechtliche Verfolgung. Gegen rund ein Dutzend der Beteiligte führt die Staatsanwaltschaft München in Verfahren. Aktiv ermittelt wird aber nur gegen zwei. Organisatorisch hat EY auch darauf reagiert. Im Grunde geht es vor …
 >
 > — [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65]], [Minute 53:29](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y?t=3209) · [[Transkript 065#Minute 53|im Transkript]]
 
-> … Brisanz der ganzen Affäre verdeutlichen. Denn wenn sich der Verdacht gegen die Angeklagten bestätigt, schwillen im Hintergrund natürlich auch Fragen nach der inneren Sicherheit Deutschlands. In diesem Podcast sprechen wir alle zwei Wochen über …
+> … Brisanz der ganzen Affäre verdeutlichen. Denn wenn sich der Verdacht gegen die Angeklagten bestätigt, schwelen im Hintergrund natürlich auch Fragen nach der inneren Sicherheit Deutschlands. In diesem Podcast sprechen wir alle zwei Wochen über …
 >
 > — [[066 Russland-Spionage beim Bundesnachrichtendienst|#66]], [Minute 1:17](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=77) · [[Transkript 066#Minute 1|im Transkript]]
 
@@ -794,11 +786,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 4:41](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=281) · [[Transkript 068#Minute 4|im Transkript]]
 
-> … dem anderen Mann, dessen Anwalt hat das Ganze irgendwie bezeichnet als die Anklagestünde auf tönernden Füßen. Und die Linie der beiden Strafverteidiger dieser Mitangeklagten geht so in die Richtung, naja, unsere Mandanten haben ja …
+> … dem anderen Mann, dessen Anwalt hat das Ganze irgendwie bezeichnet als die Anklage stünde auf tönernen Füßen. Und die Linie der beiden Strafverteidiger dieser Mitangeklagten geht so in die Richtung, naja, unsere Mandanten haben ja nur ihren Job …
 >
 > — [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68]], [Minute 6:12](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx?t=372) · [[Transkript 068#Minute 6|im Transkript]]
 
-> … steuert der Münchner Wirecard-Strafprozess auf womöglich wegweisende Wochen zu. Ein Befangenheitsantrag des angeklagten Ex-Vorstandschef Markus Braun wurde abgelehnt. Und der neben Braun und Bellenhaus dritte Angeklagte, der frühere Chefbuchhalter Stefan von Erfer, wird voraussichtlich …
+> … steuert der Münchner Wirecard-Strafprozess auf womöglich wegweisende Wochen zu. Ein Befangenheitsantrag des angeklagten Ex-Vorstandschef Markus Braun wurde abgelehnt. Und der neben Braun und Bellenhaus dritte Angeklagte, der frühere Chefbuchhalter Stephan von Erffa, wird voraussichtlich noch im …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 1:25](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=85) · [[Transkript 069#Minute 1|im Transkript]]
 
@@ -810,11 +802,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 47:00](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2820) · [[Transkript 069#Minute 47|im Transkript]]
 
-> … als Herr Bellenhaus aus der Urhaft entlassen wurde. Die Kammer hat dem Angeklagten unter anderem auferlegt, eine Meldebestätigung über einen Wohnsitz binnen einer Woche einzureichen und allen gerichtlichen Vorladungen Folge zu leisten. Der Angeklagte …
+> … als Herr Bellenhaus aus der U-Haft entlassen wurde. Die Kammer hat dem Angeklagten unter anderem auferlegt, eine Meldebestätigung über einen Wohnsitz binnen einer Woche einzureichen und allen gerichtlichen Vorladungen Folge zu leisten. Der Angeklagte …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 49:18](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2958) · [[Transkript 069#Minute 49|im Transkript]]
 
-> … Punkt, wo wir kürzlich berichten konnten, dass es gegen Herrn Siebert ein Ermittlungsverfahren gibt. Und zwar wegen des Verdachts auf Steuernderziehung. Also Herr Siebert ist wirklich eine sehr exotische Figur in der Bankenlandschaft. Nicht …
+> … Punkt, wo wir kürzlich berichten konnten, dass es gegen Herrn Siebert ein Ermittlungsverfahren gibt. Und zwar wegen des Verdachts auf Steuerhinterziehung. Also Herr Siebert ist wirklich eine sehr exotische Figur in der Bankenlandschaft. Nicht …
 >
 > — [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70]], [Minute 15:12](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=912) · [[Transkript 070#Minute 15|im Transkript]]
 
@@ -826,7 +818,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 2:14](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=134) · [[Transkript 074#Minute 2|im Transkript]]
 
-> … Fans, zwei echte Experten zusammengearbeitet. Und jetzt muss man aber sagen, die Staatsanwaltschaft dürft Ihnen ja etwas vor. Wir hatten es schon gesagt, da geht es um Fälschungen. Und also haben Sie sich irgendwie …
+> … Fans, zwei echte Experten zusammengearbeitet. Und jetzt muss man aber sagen, die Staatsanwaltschaft wirft Ihnen ja etwas vor. Wir hatten es schon gesagt, da geht es um Fälschungen. Und also haben Sie sich irgendwie aus …
 >
 > — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 15:29](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=929) · [[Transkript 074#Minute 15|im Transkript]]
 
@@ -850,11 +842,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[075 Cum-Ex-Chefermittlerin Brorhilker hat gekündigt|#75]], [Minute 7:52](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=472) · [[Transkript 075#Minute 7|im Transkript]]
 
-> … das aktuelle Olearius-Verfahren. Also die MMO-Wabo-Banken in Hamburg, die aber in Bonn angeklagt ist. Beziehungsweise deren Vertreter, Banken können natürlich nicht angeklagt werden, sondern nur Personen. Aber Fließband sehen wir nicht. Und wenn wir …
+> … das aktuelle Olearius-Verfahren. Also die M.M.-Warburg-Bank in Hamburg, die aber in Bonn angeklagt ist. Beziehungsweise deren Vertreter, Banken können natürlich nicht angeklagt werden, sondern nur Personen. Aber Fließband sehen wir nicht. Und wenn wir …
 >
 > — [[075 Cum-Ex-Chefermittlerin Brorhilker hat gekündigt|#75]], [Minute 9:42](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP?t=582) · [[Transkript 075#Minute 9|im Transkript]]
 
-> … Hanno Berger ins Gefängnis zu bringen. Jetzt wird gegen den Kronzeugen selbst Anklage erhoben. In dieser Folge erzählen uns Hannesblatt-Investigativreporter Volker Votsmeier gemeinsam mit unserem Investigativchef Sönke Iwersen, wie Frey das Cum-Ex-System in seiner Steuerkanzlei …
+> … Hanno Berger ins Gefängnis zu bringen. Jetzt wird gegen den Kronzeugen selbst Anklage erhoben. In dieser Folge erzählen uns Handelsblatt-Investigativreporter Volker Votsmeier gemeinsam mit unserem Investigativchef Sönke Iwersen, wie Frey das Cum-Ex-System in seiner Steuerkanzlei …
 >
 > — [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76]], [Minute 1:30](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=90) · [[Transkript 076#Minute 1|im Transkript]]
 
@@ -862,7 +854,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76]], [Minute 3:02](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=182) · [[Transkript 076#Minute 3|im Transkript]]
 
-> … so besonders interessant. Wir haben hier, also jetzt, ja es stimmt, die Anklage ist noch nicht zugelassen. Der Kronzeuge selbst, also der Angeklagte ist aber folgeständig. Also ohne ihn gäbe es ganz viele von …
+> … so besonders interessant. Wir haben hier, also jetzt, ja es stimmt, die Anklage ist noch nicht zugelassen. Der Kronzeuge selbst, also der Angeklagte ist aber voll geständig. Also ohne ihn gäbe es ganz viele von …
 >
 > — [[076 Der Mann mit der Maske Kronzeuge im Cum-Ex-Skandal soll auf die Anklagebank|#76]], [Minute 4:50](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw?t=290) · [[Transkript 076#Minute 4|im Transkript]]
 
@@ -878,15 +870,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[080 Der Bankenmanager und der Staatstrojaner|#80]], [Minute 1:01:25](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3685) · [[Transkript 080#Minute 61|im Transkript]]
 
-> … Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründe Anton Schlecker. In diesem Zusammenhang haben Fahnder heute mehrere Privat - und Geschäftsräume durchsucht. …
+> … Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründer Anton Schlecker. In diesem Zusammenhang haben Fahnder heute mehrere Privat - und Geschäftsräume durchsucht. Der …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 0:20](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=20) · [[Transkript 082#Minute 0|im Transkript]]
 
-> … Schlecker und da gab es also Schmuh, sagte der Insolvenzverwalter, sagte die Staatsanwaltschaft, sagte dann später auch der Richter. Und das sind jetzt praktisch die Nachwählen. Sieben Jahre nach dem Urteil gegen die Schleckers …
+> … Schlecker und da gab es also Schmuh, sagte der Insolvenzverwalter, sagte die Staatsanwaltschaft, sagte dann später auch der Richter. Und das sind jetzt praktisch die Nachwehen. Sieben Jahre nach dem Urteil gegen die Schleckers …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 5:27](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=327) · [[Transkript 082#Minute 5|im Transkript]]
 
-> … dran. Also Christian Olearius, der langjährige Chef der Hamburger Privatbank MM Warburg, angeklagt gegen besonders schwerer Steuerhinterziehung, ist ein freier Mann. Herr Olearius, 82 Jahre alt, hat seinen Verhandlungstag, seinen letzten Verhandlungstag nun hinter …
+> … dran. Also Christian Olearius, der langjährige Chef der Hamburger Privatbank MM Warburg, angeklagt wegen besonders schwerer Steuerhinterziehung, ist ein freier Mann. Herr Olearius, 82 Jahre alt, hat seinen Verhandlungstag, seinen letzten Verhandlungstag nun hinter sich, und …
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 0:20](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=20) · [[Transkript 087#Minute 0|im Transkript]]
 
@@ -902,7 +894,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 7:24](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=444) · [[Transkript 087#Minute 7|im Transkript]]
 
-> … Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründe Anton Schlecker. In diesem Zusammenhang haben Verhandler heute mehrere Privat - und Geschäftsräume durchsucht. …
+> … Schlecker-Filialen geschlossen. Im Zusammenhang mit der Pleite der Drogeriemarktkette Schlecker ermittelt die Staatsanwaltschaft gegen insgesamt 14 Beschuldigte unter ihnen Firmengründer Anton Schlecker. In diesem Zusammenhang haben Fahnder heute mehrere Privat - und Geschäftsräume durchsucht. Der …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 0:20](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=20) · [[Transkript 084#Minute 0|im Transkript]]
 
@@ -910,23 +902,23 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 53:07](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3187) · [[Transkript 084#Minute 53|im Transkript]]
 
-> … die Gläubige haben natürlich nach Vermögenswerten gesucht, der Insolvenzverwalter hat gesucht, die Staatsanwaltschaft hat dann auch gesucht. Gibt es irgendwo Gelder, Wertgegenstände, die ins Unternehmen gehören oder zu Anton Schlecker gehören, weil das ja …
+> … Journalisten, die Gläubiger haben natürlich nach Vermögenswerten gesucht, der Insolvenzverwalter hat gesucht, die Staatsanwaltschaft hat dann auch gesucht. Gibt es irgendwo Gelder, Wertgegenstände, die ins Unternehmen gehören oder zu Anton Schlecker gehören, weil das ja …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 54:56](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3296) · [[Transkript 084#Minute 54|im Transkript]]
 
-> … weiterging. Ja, es ging von außen betrachtet erstmal langsam weiter. Also die Staatsanwaltschaft ermittelt, der Insolvenzverwalter sucht, die Gläubige suchen, die Journalisten recherchieren. Aber es dauert dann doch vier Jahre insgesamt, bis April 2016, …
+> … weiterging. Ja, es ging von außen betrachtet erstmal langsam weiter. Also die Staatsanwaltschaft ermittelt, der Insolvenzverwalter sucht, die Gläubiger suchen, die Journalisten recherchieren. Aber es dauert dann doch vier Jahre insgesamt, bis April 2016, bis …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 59:31](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3571) · [[Transkript 084#Minute 59|im Transkript]]
 
-> … von Erfer will an diesem wichtigen Prozestag sein Schweigen brechen. Er ist angeklagt neben dem prominenteren Gesicht, Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Stadthalter des …
+> … Crime. Stephan von Erffa will an diesem wichtigen Prozesstag sein Schweigen brechen. Er ist angeklagt neben dem prominenteren Gesicht, Markus Braun, Wirecards ehemaliger Vorstandsvorsitzender. Und dann ist da auch noch Oliver Bellenhaus, der frühere Dubai-Statthalter des …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 1:52](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=112) · [[Transkript 089#Minute 1|im Transkript]]
 
-> … Stefan von Erfas Krawatte hat rote Streifen. Stefan von Erfa, also der Angeklagte, trägt auch eine FFP2-Maske. Das macht er vermutlich, damit sein Gesicht auf den Bildern der Fotografen und Kameraleute nicht ganz zu …
+> … eine weiße Krawatte. Und Stephan von Erffas Krawatte hat rote Streifen. Stephan von Erffa, also der Angeklagte, trägt auch eine FFP2-Maske. Das macht er vermutlich, damit sein Gesicht auf den Bildern der Fotografen und Kameraleute nicht ganz zu …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 5:25](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=325) · [[Transkript 089#Minute 5|im Transkript]]
 
-> … Was wird denn Stefan von Erfa da eigentlich genau vorgeworfen? Ja, die Staatsanwaltschaft wirft ihm in ihrer Anklage vor, dass eben von Erfa sich mit den beiden anderen Angeklagten, dem langjährigen Vorstandschef Markus Braun …
+> … dabei haben. Was wird denn Stephan von Erffa da eigentlich genau vorgeworfen? Ja, die Staatsanwaltschaft wirft ihm in ihrer Anklage vor, dass eben von Erffa sich mit den beiden anderen Angeklagten, dem langjährigen Vorstandschef Markus Braun und …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 8:23](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=503) · [[Transkript 089#Minute 8|im Transkript]]
 
@@ -950,7 +942,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[092 Meet the Team Volker Votsmeier|#92]], [Minute 10:43](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o?t=643) · [[Transkript 092#Minute 10|im Transkript]]
 
-> … jetzt geht die Befragung los. Der Vorsitzende Richter Markus Födisch hat den Angeklagten von Erfa gleich im ersten Verhandlungstermin scharf zurechtgewiesen. Er glaubt von Erfa in wichtigen Punkten einfach nicht. Was von Erfa erzähle, …
+> … jetzt geht die Befragung los. Der Vorsitzende Richter Markus Födisch hat den Angeklagten von Erffa gleich im ersten Verhandlungstermin scharf zurechtgewiesen. Er glaubt von Erffa in wichtigen Punkten einfach nicht. Was von Erffa erzähle, sei schlicht falsch. …
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 0:38](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=38) · [[Transkript 093#Minute 0|im Transkript]]
 
@@ -966,19 +958,19 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93]], [Minute 25:12](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1512) · [[Transkript 093#Minute 25|im Transkript]]
 
-> … verspreche Ihnen eins, es wird Sie weiter erschrecken. Anne Brohl-Hilker, Deutschlands führende Staatsanwältin im riesigen Steuerskandal Cum-Ex, hat hingeschmissen. Das, wie gesagt, haben einige mitbekommen. Das war im April. Und die Worte, die Sie …
+> … ich verspreche Ihnen eins, es wird Sie weiter erschrecken. Anne Brorhilker, Deutschlands führende Staatsanwältin im riesigen Steuerskandal Cum-Ex, hat hingeschmissen. Das, wie gesagt, haben einige mitbekommen. Das war im April. Und die Worte, die Sie …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 0:58](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=58) · [[Transkript 094#Minute 0|im Transkript]]
 
-> … heute hinter Gittern. Kai-Uwe Steck muss, ja, aller Wahrscheinlichkeit demnächst auf die Anklagebank. Brohl-Hilker war die Star-Anwältin. Jetzt sagt ihr Vorgesetzter, nee, war gar keine Star-Anwältin, das war eine Minderleisterin. Ja, und insofern, um …
+> … heute hinter Gittern. Kai-Uwe Steck muss, ja, aller Wahrscheinlichkeit demnächst auf die Anklagebank. Brorhilker war die Star-Anwältin. Jetzt sagt ihr Vorgesetzter, nee, war gar keine Star-Anwältin, das war eine Minderleisterin. Ja, und insofern, um …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 3:57](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=237) · [[Transkript 094#Minute 3|im Transkript]]
 
-> … neun Vorgesetzten bekommen. Das war Stefan Neuhäuser. Also der war Leiter der Staatsanwaltschaft Köln und Nachfolger von Joachim Roth, der auch im Zuge der Affäre schon gehen musste. Und der Herr Neuhäuser, das war …
+> … hören wir einmal kurz rein. Ich war immer mit Leib - und Seele Staatsanwältin, gerade im Bereich von Wirtschaftskriminalität. Aber ich bin überhaupt nicht zufrieden damit, wie in Deutschland Finanzkriminalität verfolgt wird. Da geht es …
 >
-> — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 7:07](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=427) · [[Transkript 094#Minute 7|im Transkript]]
+> — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 5:40](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=340) · [[Transkript 094#Minute 5|im Transkript]]
 
-> … 2023 setzt der Limbach seinen neuen, oder den neuen Leiter der Kölner Staatsanwaltschaft ein. Der beschließt dann vier Wochen später, Bräuchelke wird entmachtet. Dann gibt es einen Aufschrei und im Oktober wird das Ganze …
+> … 2023 setzt der Limbach seinen neuen, oder den neuen Leiter der Kölner Staatsanwaltschaft ein. Der beschließt dann vier Wochen später, Brorhilker wird entmachtet. Dann gibt es einen Aufschrei und im Oktober wird das Ganze …
 >
 > — [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94]], [Minute 11:08](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=668) · [[Transkript 094#Minute 11|im Transkript]]
 
@@ -986,7 +978,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 3:18](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=198) · [[Transkript 095#Minute 3|im Transkript]]
 
-> … auch nochmal auf der Zunge zergehen lassen. Also wenn man die Stuttgarter Staatsanwaltschaft fragt, warum dauert das eigentlich so lang? Dann sagen die, naja, Herr Iversen oder Herr Folzmeier, das sind halt sehr umfangreiche …
+> … auch nochmal auf der Zunge zergehen lassen. Also wenn man die Stuttgarter Staatsanwaltschaft fragt, warum dauert das eigentlich so lang? Dann sagen die, naja, Herr Iwersen oder Herr Votsmeier, das sind halt sehr umfangreiche …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 9:15](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=555) · [[Transkript 095#Minute 9|im Transkript]]
 
@@ -998,15 +990,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 16:32](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=992) · [[Transkript 095#Minute 16|im Transkript]]
 
-> … sie sitzen seit dem Sympatex-Anlageskandal seit März in Untersuchungshaft in München. Die Staatsanwaltschaft ermittelt wegen eines mutmaßlichen Millionenbetrugs bei dem Textilunternehmen Sympatex, dass Götz und Sankt-Johanser gehört. Es geht um Marktmanipulation und Anstiftung zur …
+> … sie sitzen seit dem Sympatex-Anlageskandal seit März in Untersuchungshaft in München. Die Staatsanwaltschaft ermittelt wegen eines mutmaßlichen Millionenbetrugs bei dem Textilunternehmen Sympatex, dass Goetz und Sanktjohanser gehört. Es geht um Marktmanipulation und Anstiftung zur Untreue. …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 0:33](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=33) · [[Transkript 098#Minute 0|im Transkript]]
 
-> … das Imageproblem, mit dem sich die Beratung Goetzpartners gerade befassen muss. Die Staatsanwaltschaft München verdächtigt die Gründer Stephan Goetz und Stefan St. Johanser einer zentralen Rolle bei einem Millionenbetrug. Ob die beiden je in das …
+> … das Imageproblem, mit dem sich die Beratung Goetzpartners gerade befassen muss. Die Staatsanwaltschaft München verdächtigt die Gründer Stephan Goetz und Stefan Sanktjohanser einer zentralen Rolle bei einem Millionenbetrug. Ob die beiden je in das Unternehmen …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 2:19](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=139) · [[Transkript 098#Minute 2|im Transkript]]
 
-> … da geht es um einen mutmaßlichen Millionenbetrug. Und da haben Polizei und Staatsanwaltschaft eben vergangenen Herbstbüros und so weiter durchsucht. Und im Zuge dessen kamen dann auch eben die beiden Stefans, also Stephan Goetz und …
+> … da geht es um einen mutmaßlichen Millionenbetrug. Und da haben Polizei und Staatsanwaltschaft eben vergangenen Herbst Büros und so weiter durchsucht. Und im Zuge dessen kamen dann auch eben die beiden Stefans, also Stephan Goetz und …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 5:26](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=326) · [[Transkript 098#Minute 5|im Transkript]]
 
@@ -1030,15 +1022,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 2:13](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=133) · [[Transkript 100#Minute 2|im Transkript]]
 
-> … Aber auf Corsica? Sie ist in Paris mittlerweile und es ist die Staatsanwaltschaft Paris, die sich dieses Falls angenommen hat. Es gibt eben die strafrechtlichen Ermittlungen wegen des Verdachts auf auch bandenmäßigen Betrugs und …
+> … Aber auf Korsika? Sie ist in Paris mittlerweile und es ist die Staatsanwaltschaft Paris, die sich dieses Falls angenommen hat. Es gibt eben die strafrechtlichen Ermittlungen wegen des Verdachts auf auch bandenmäßigen Betrugs und …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 15:15](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=915) · [[Transkript 100#Minute 15|im Transkript]]
 
-> … die Volksbank Düsseldorf Neues soll in diesem Fall verwickelt sein und die Staatsanwaltschaft Düsseldorf ermittelt. Und für diesen Teil hole ich jetzt unsere Finanzkorrespondentin Elisabeth Atzler aus Frankfurt dazu. Hallo Elisabeth. Hallo. Elisabeth, wie …
+> … heraus, die Volksbank Düsseldorf Neuss soll in diesem Fall verwickelt sein und die Staatsanwaltschaft Düsseldorf ermittelt. Und für diesen Teil hole ich jetzt unsere Finanzkorrespondentin Elisabeth Atzler aus Frankfurt dazu. Hallo Elisabeth. Hallo. Elisabeth, wie …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 20:59](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=1259) · [[Transkript 100#Minute 20|im Transkript]]
 
-> … wissen wir jetzt mehr? Wir wissen mehr, weil es inzwischen auch eine Anklage gibt. Die hat Chiavi eingereicht oder der Finanzamt von Chiavi in den USA. Das ist eine Schadensersatzklage und die richtet sich …
+> … wissen wir jetzt mehr? Wir wissen mehr, weil es inzwischen auch eine Anklage gibt. Die hat Kiabi eingereicht oder der Finanzamt von Kiabi in den USA. Das ist eine Schadensersatzklage und die richtet sich …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 22:52](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=1372) · [[Transkript 100#Minute 22|im Transkript]]
 
@@ -1050,7 +1042,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 4:34](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=274) · [[Transkript 102#Minute 4|im Transkript]]
 
-> … 30 und 46 Jahre alt. Und die Behörden haben auch in der Anklageschrift den Namen Jan Marsalek x-mal genannt. Der soll unter einem Decknamen, Rupert Titsch, würde ich das jetzt betonen, also geschrieben T-I-C-Z, …
+> … 30 und 46 Jahre alt. Und die Behörden haben auch in der Anklageschrift den Namen Jan Marsalek x-mal genannt. Der soll unter einem Decknamen, Rupert Ticz, würde ich das jetzt betonen, also geschrieben T-I-C-Z, unter …
 >
 > — [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102]], [Minute 6:12](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=372) · [[Transkript 102#Minute 6|im Transkript]]
 
@@ -1066,15 +1058,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 17:10](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1030) · [[Transkript 104#Minute 17|im Transkript]]
 
-> … sind wir im Moment weit entfernt. Also Frau Bräuchig hat insgesamt 15 Anklagen auf den Weg gebracht, seitdem sie weg ist, ist jetzt eine Anklage nochmal gekommen und das ist natürlich weit weniger, als …
+> … sind wir im Moment weit entfernt. Also Frau Brorhilker hat insgesamt 15 Anklagen auf den Weg gebracht, seitdem sie weg ist, ist jetzt eine Anklage nochmal gekommen und das ist natürlich weit weniger, als …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 18:40](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1120) · [[Transkript 104#Minute 18|im Transkript]]
 
-> … René Benko droht umgemach, um das mal vorsichtig zu formulieren, denn die Staatsanwaltschaft in Italien sucht ihn. Es sind unterschiedliche andere Beamte auf der Suche nach ihm, von der BaFin über anderen Staatsanwaltschaften. Was …
+> … René Benko droht Ungemach, um das mal vorsichtig zu formulieren, denn die Staatsanwaltschaft in Italien sucht ihn. Es sind unterschiedliche andere Beamte auf der Suche nach ihm, von der BaFin über anderen Staatsanwaltschaften. Was …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 22:24](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1344) · [[Transkript 104#Minute 22|im Transkript]]
 
-> … Kronzeuge vor Gericht und warum muss Anne Brorheker gleich aussagen? Ja, genau. Angeklagt ist also Kai-Uwe Steck, der Kronzeuge, der sehr viel beigetragen hat zur Aufklärung dieses Skandals. Und er ist aber natürlich gleichzeitig …
+> … der Kronzeuge vor Gericht und warum muss Anne Brorhilker gleich aussagen? Ja, genau. Angeklagt ist also Kai-Uwe Steck, der Kronzeuge, der sehr viel beigetragen hat zur Aufklärung dieses Skandals. Und er ist aber natürlich gleichzeitig …
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 1:46](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=106) · [[Transkript 105#Minute 1|im Transkript]]
 
@@ -1086,7 +1078,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 6:20](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=380) · [[Transkript 105#Minute 6|im Transkript]]
 
-> … hat das dementiert. Und er sagt, diese Informationen sind nicht von der Staatsanwaltschaft gekommen. Und auch dazu wird Frau Brorhilke möglicherweise heute befragt. Die Frage ist natürlich, ob sie dazu etwas sagen kann, weil …
+> … hat das dementiert. Und er sagt, diese Informationen sind nicht von der Staatsanwaltschaft gekommen. Und auch dazu wird Frau Brorhilker möglicherweise heute befragt. Die Frage ist natürlich, ob sie dazu etwas sagen kann, weil …
 >
 > — [[105 Cum Ex Showdown vor Gericht bei der Aussage der Ex-Chefermittlerin Anne Brorhilker|#105]], [Minute 9:27](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw?t=567) · [[Transkript 105#Minute 9|im Transkript]]
 
@@ -1102,11 +1094,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 7:28](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=448) · [[Transkript 106#Minute 7|im Transkript]]
 
-> … Das wird es ja wahrscheinlich auch nicht gewiesen sein. Ja, also die Staatsanwaltschaft hat ja eine Pressemitteilung herausgegeben, die auch ein bisschen ausführlicher ist. Und da werden also verschiedene Vorwürfe gegen Benkos zusammengefasst. Da …
+> … wir schon. Das wird es ja wahrscheinlich auch nicht gewesen sein. Ja, also die Staatsanwaltschaft hat ja eine Pressemitteilung herausgegeben, die auch ein bisschen ausführlicher ist. Und da werden also verschiedene Vorwürfe gegen Benkos zusammengefasst. Da …
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 9:49](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=589) · [[Transkript 106#Minute 9|im Transkript]]
 
-> … Nagel aus dem Investigativ-Team im Dezember exklusiv berichtet haben, steht auch die Anklage hier kurz bevor. Mit ihnen spreche ich jetzt über die neuesten Wendungen. Wer Podcast aber lieber chronologisch hört, der kann natürlich …
+> … Lars-Marten Nagel aus dem Investigativ-Team im Dezember exklusiv berichtet haben, steht auch die Anklage hier kurz bevor. Mit ihnen spreche ich jetzt über die neuesten Wendungen. Wer Podcast aber lieber chronologisch hört, der kann natürlich …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 0:44](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=44) · [[Transkript 107#Minute 0|im Transkript]]
 
@@ -1118,7 +1110,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 6:41](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=401) · [[Transkript 107#Minute 6|im Transkript]]
 
-> … 2023, sind Herr Götz und Herr St. Johanser in U-Haft genommen worden. Staatsanwaltschaft sah den dringenden Tatverdacht sowie Flucht - und Verdunklungsgefahr. Und dann waren die Herren Götz und St. Johanser aber nicht lange …
+> … September 2023, sind Herr Goetz und Herr Sanktjohanser in U-Haft genommen worden. Staatsanwaltschaft sah den dringenden Tatverdacht sowie Flucht - und Verdunklungsgefahr. Und dann waren die Herren Goetz und Sanktjohanser aber nicht lange im …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 10:26](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=626) · [[Transkript 107#Minute 10|im Transkript]]
 
@@ -1138,7 +1130,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108]], [Minute 14:06](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI?t=846) · [[Transkript 108#Minute 14|im Transkript]]
 
-> … im Podcast über das Schneeballsystem der PIKAM Vermögensverwalter gesprochen. Damals hatte die Staatsanwaltschaft Berlin gerade drei Männer angeklagt, weil sie eben ein Schneeballsystem betrieben haben sollen. Ein ganzes Jahr hat die Hauptverhandlung nun gedauert …
+> … im Podcast über das Schneeballsystem der Picam Vermögensverwalter gesprochen. Damals hatte die Staatsanwaltschaft Berlin gerade drei Männer angeklagt, weil sie eben ein Schneeballsystem betrieben haben sollen. Ein ganzes Jahr hat die Hauptverhandlung nun gedauert …
 >
 > — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 0:11](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=11) · [[Transkript 109#Minute 0|im Transkript]]
 
@@ -1170,7 +1162,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111]], [Minute 51:30](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ?t=3090) · [[Transkript 111#Minute 51|im Transkript]]
 
-> … war alles dabei. Da war der Schriftverkehr zwischen der Polizei und der Staatsanwaltschaft dabei. Und vor allem die Kriminalakte eines Mannes, nämlich Wolfgang Höft. Das ist der Strippenzieher in verschiedenen Unternehmen der sogenannten MW-Gruppe. …
+> … war alles dabei. Da war der Schriftverkehr zwischen der Polizei und der Staatsanwaltschaft dabei. Und vor allem die Kriminalakte eines Mannes, nämlich Wolfgang Hoeft. Das ist der Strippenzieher in verschiedenen Unternehmen der sogenannten MW-Gruppe. …
 >
 > — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 3:51](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=231) · [[Transkript 112#Minute 3|im Transkript]]
 
@@ -1202,7 +1194,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113]], [Minute 12:54](https://open.spotify.com/episode/3iNblHqk9YSPxDMTq9GQ75?t=774) · [[Transkript 113#Minute 12|im Transkript]]
 
-> … gerade gehört haben, ist Frank Passade. Er ist Oberstaatsanwalt und Sprecher der Staatsanwaltschaft Bremen. Die Behörde ermittelt derzeit im Fall Grinzel jener Bremer Bank, die im März 2021 Insolvenz anmelden musste. Der Fall hat …
+> … gerade gehört haben, ist Frank Passade. Er ist Oberstaatsanwalt und Sprecher der Staatsanwaltschaft Bremen. Die Behörde ermittelt derzeit im Fall Greensill jener Bremer Bank, die im März 2021 Insolvenz anmelden musste. Der Fall hat …
 >
 > — [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114]], [Minute 1:10](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE?t=70) · [[Transkript 114#Minute 1|im Transkript]]
 
@@ -1246,11 +1238,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 12:59](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=779) · [[Transkript 117#Minute 12|im Transkript]]
 
-> … eine gute Frage. Also es ist noch eine Riesenbewerg, Arbeit, der der Staatsanwaltschaft bevorsteht. Und ich kann mir vorstellen, dass die Preise jetzt langsam sinken, so im übertragenen Sinne gesprochen. Dass wenn Herr Steck …
+> … eine gute Frage. Also es ist noch eine Riesenberg, Arbeit, der der Staatsanwaltschaft bevorsteht. Und ich kann mir vorstellen, dass die Preise jetzt langsam sinken, so im übertragenen Sinne gesprochen. Dass wenn Herr Steck …
 >
 > — [[117 Überraschung im Cum-Ex-Prozess gegen den Kronzeugen|#117]], [Minute 17:12](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU?t=1032) · [[Transkript 117#Minute 17|im Transkript]]
 
-> … ,9 Milliarden gefehlt haben. Genau. Und Oliver Bellenhaus hat uns, als sein Ermittlungsverfahren noch lief, also zu einem ganz frühen Zeitpunkt, er aber schon in Untersuchungshaft saß, aus der JVA heraus, die erste einswertige …
+> … ,9 Milliarden gefehlt haben. Genau. Und Oliver Bellenhaus hat uns, als sein Ermittlungsverfahren noch lief, also zu einem ganz frühen Zeitpunkt, er aber schon in Untersuchungshaft saß, aus der JVA heraus, die erste einstweilige …
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 22:32](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1352) · [[Transkript 116#Minute 22|im Transkript]]
 
@@ -1266,7 +1258,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116]], [Minute 27:35](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt?t=1655) · [[Transkript 116#Minute 27|im Transkript]]
 
-> … und dann interessiert sich auch noch die Staatsmacht für seine Geschäfte. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Verschleppung von Insolvenzen und Veruntreuung von Arbeitsentgelt. Darüber werde ich heute mit René Bender und Lars Maartenagel …
+> … und dann interessiert sich auch noch die Staatsmacht für seine Geschäfte. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Verschleppung von Insolvenzen und Veruntreuung von Arbeitsentgelt. Darüber werde ich heute mit René Bender und Lars-Marten Nagel aus …
 >
 > — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 2:18](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=138) · [[Transkript 118#Minute 2|im Transkript]]
 
@@ -1282,7 +1274,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 40:01](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2401) · [[Transkript 118#Minute 40|im Transkript]]
 
-> … von Hannes Blatt Crime sind natürlich wieder vor Ort dabei. Auf der Anklagebank sitzen zwei der bekanntesten Firmen Sanierer Deutschlands. Der Sympatex-Eigner Stefan Sankt-Johanser und der Restrukturierungsexperte Frank Günther sowie zwei weitere Manager. Der …
+> … Und wir von Handelsblatt Crime sind natürlich wieder vor Ort dabei. Auf der Anklagebank sitzen zwei der bekanntesten Firmensanierer Deutschlands. Der Sympatex-Eigner Stefan Sanktjohanser und der Restrukturierungsexperte Frank Günther sowie zwei weitere Manager. Der Vorwurf? …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 0:29](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=29) · [[Transkript 119#Minute 0|im Transkript]]
 
@@ -1302,7 +1294,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 0:10](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=10) · [[Transkript 120#Minute 0|im Transkript]]
 
-> … hat. Und jetzt hat die Wiener Wirtschafts - und Korruptionsstaatsanwaltschaft Mitte Juli Anklage erhoben. Und das ist tatsächlich auch die erste Anklage in Sachen Signer und sie legt euch vor. Jetzt erzähl, worum es …
+> … hat. Und jetzt hat die Wiener Wirtschafts - und Korruptionsstaatsanwaltschaft Mitte Juli Anklage erhoben. Und das ist tatsächlich auch die erste Anklage in Sachen Signa und sie legt euch vor. Jetzt erzähl, worum es …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 1:55](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=115) · [[Transkript 120#Minute 1|im Transkript]]
 
@@ -1330,7 +1322,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 20:43](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1243) · [[Transkript 121#Minute 20|im Transkript]]
 
-> … Star jetzt genau vorgeworfen und wer klagt da ihn eigentlich an? Also angeklagt ist er noch nicht. Also gegen ihn wird ermittelt wegen Steuerunterziehung. Also der Vorwurf der Staatsanwaltschaft lautet, dass er zwischen 2015 …
+> … Starr jetzt genau vorgeworfen und wer klagt da ihn eigentlich an? Also angeklagt ist er noch nicht. Also gegen ihn wird ermittelt wegen Steuerhinterziehung. Also der Vorwurf der Staatsanwaltschaft lautet, dass er zwischen 2015 …
 >
 > — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 8:42](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=522) · [[Transkript 123#Minute 8|im Transkript]]
 
@@ -1346,15 +1338,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 19:18](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1158) · [[Transkript 123#Minute 19|im Transkript]]
 
-> … erst seit gestern in den Schlagzeilen. Gegen ihn gibt es Ermittlungen der Staatsanwaltschaft Hannover, Vollstreckungen und zivilrechtliche Haftbefehle. Klasen lebt mittlerweile in Asien. Das ist praktisch für ihn. Würde er noch einmal deutschen Boden …
+> … erst seit gestern in den Schlagzeilen. Gegen ihn gibt es Ermittlungen der Staatsanwaltschaft Hannover, Vollstreckungen und zivilrechtliche Haftbefehle. Claassen lebt mittlerweile in Asien. Das ist praktisch für ihn. Würde er noch einmal deutschen Boden …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 2:01](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=121) · [[Transkript 127#Minute 2|im Transkript]]
 
-> … baden-württembergischen Landesregierung und Staatssekretär aus dem Bundesumweltministerium. Darf man das? Ja, die Staatsanwaltschaft Karlsruhe hat jedenfalls da drin den Verdacht einer Vorteilsgewährung gesehen und hat dann Anklage erhoben. Und ja, Klaassen ging, würde ich …
+> … baden-württembergischen Landesregierung und Staatssekretär aus dem Bundesumweltministerium. Darf man das? Ja, die Staatsanwaltschaft Karlsruhe hat jedenfalls da drin den Verdacht einer Vorteilsgewährung gesehen und hat dann Anklage erhoben. Und ja, Claassen ging, würde ich …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 28:01](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=1681) · [[Transkript 127#Minute 28|im Transkript]]
 
-> … Ende. Und das alles führte dann eben Mitte 2023 dazu, dass die Staatsanwaltschaft Hannover Ermittlungen gegen die Verantwortlichen der Sintelix AG aufgenommen haben. Unter anderem auch gegen uns Klaassen, eben wegen des Verdachts auf …
+> … Ende. Und das alles führte dann eben Mitte 2023 dazu, dass die Staatsanwaltschaft Hannover Ermittlungen gegen die Verantwortlichen der Syntellix AG aufgenommen haben. Unter anderem auch gegen Utz Claassen, eben wegen des Verdachts auf Insolvenzverschleppung. …
 >
 > — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:07:09](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4029) · [[Transkript 127#Minute 67|im Transkript]]
 
@@ -1386,7 +1378,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129]], [Minute 46:45](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj?t=2805) · [[Transkript 129#Minute 46|im Transkript]]
 
-> … Cum-Ex-Täter vor Gericht gebracht. Aber Anne Bräuelker ist nicht mehr bei der Staatsanwaltschaft Köln. 2024 schmiss sie hin. Ihr Abtritt war für Steuerzahler ein Schock, für Steuerbetrüger ein Seh. Denn seit sie ging, lahm …
+> … Cum-Ex-Täter vor Gericht gebracht. Aber Anne Brorhilker ist nicht mehr bei der Staatsanwaltschaft Köln. 2024 schmiss sie hin. Ihr Abtritt war für Steuerzahler ein Schock, für Steuerbetrüger ein Segen. Denn seit sie ging, lahmen die Ermittlungen. Heute …
 >
 > — [[130 Frühere Cum-Ex-Chefermittlerin Anne Brorhilker „Die Finanzbranche leistet sich einen u|#130]], [Minute 2:18](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk?t=138) · [[Transkript 130#Minute 2|im Transkript]]
 
@@ -1438,11 +1430,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135]], [Minute 13:36](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67?t=816) · [[Transkript 135#Minute 13|im Transkript]]
 
-> … eingeleitet hat. Steck bricht mit Berger und wird zum Kronzeugen der Kölner Staatsanwaltschaft eben jener Anne Prohecker, die uns das auch im Interview noch mal erzählt hat. Und aus dem Komplizen von Berger wird …
+> … eingeleitet hat. Steck bricht mit Berger und wird zum Kronzeugen der Kölner Staatsanwaltschaft eben jener Anne Brorhilker, die uns das auch im Interview noch mal erzählt hat. Und aus dem Komplizen von Berger wird …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 37:30](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2250) · [[Transkript 137#Minute 37|im Transkript]]
 
-> … Tisch gehauen hat und als Berger gesagt hat, wir müssen gegen diese Staatsanwältin vorgehen, die am Anfang ihrer kriminellen Karriere steht und da hat eben genau Dierlam auf den Tisch gehauen und gesagt, nee, …
+> … Tisch gehauen hat und als Berger gesagt hat, wir müssen gegen diese Staatsanwältin vorgehen, die am Anfang ihrer kriminellen Karriere steht und da hat eben genau Dierlamm auf den Tisch gehauen und gesagt, nee, …
 >
 > — [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137]], [Minute 41:55](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi?t=2515) · [[Transkript 137#Minute 41|im Transkript]]
 
@@ -1458,7 +1450,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 2:01](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=121) · [[Transkript 138#Minute 2|im Transkript]]
 
-> … waren, aber sie war halt nie so richtig Thema. Wir hatten die Staatsanwaltschaft Köln, die Generalstaatsanwaltschaft Frankfurt. Wir haben von oder über die West-LB in Düsseldorf gesprochen, die Hypo-Vereinsbank in München und natürlich über …
+> … waren, aber sie war halt nie so richtig Thema. Wir hatten die Staatsanwaltschaft Köln, die Generalstaatsanwaltschaft Frankfurt. Wir haben von oder über die WestLB in Düsseldorf gesprochen, die Hypo-Vereinsbank in München und natürlich über …
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 6:00](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=360) · [[Transkript 138#Minute 6|im Transkript]]
 
@@ -1466,7 +1458,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 9:20](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=560) · [[Transkript 138#Minute 9|im Transkript]]
 
-> … jetzt ein bisschen vorspulen, also 2013 meldet sich die LBB bei der Staatsanwaltschaft und auch bei der Finanzverwaltung und bei der Bankenaufsicht. Der Tenor, wie gesagt, wir haben Probleme. Wir haben viel falsch gemacht, …
+> … jetzt ein bisschen vorspulen, also 2013 meldet sich die LBBW bei der Staatsanwaltschaft und auch bei der Finanzverwaltung und bei der Bankenaufsicht. Der Tenor, wie gesagt, wir haben Probleme. Wir haben viel falsch gemacht, …
 >
 > — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 13:38](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=818) · [[Transkript 138#Minute 13|im Transkript]]
 
@@ -1494,15 +1486,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 32:42](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=1962) · [[Transkript 143#Minute 32|im Transkript]]
 
-> … anfangen runterzutippeln und natürlich, was man auch machen muss, nochmal checken, verifizieren, Staatsanwaltschaft Düsseldorf und das Unternehmen konfrontieren, um Gelegenheit zu geben, dazu Stellung zu nehmen und natürlich auch, um weitere Dinge eventuell schon …
+> … anfangen runterzutippen und natürlich, was man auch machen muss, nochmal checken, verifizieren, Staatsanwaltschaft Düsseldorf und das Unternehmen konfrontieren, um Gelegenheit zu geben, dazu Stellung zu nehmen und natürlich auch, um weitere Dinge eventuell schon …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 5:01](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=301) · [[Transkript 144#Minute 5|im Transkript]]
 
-> … hatte ich auch schon angedeutet, natürlich die Behörden habe ich abtelefoniert, die Staatsanwaltschaft, Polizei, LKA und so weiter. Und dann sind wir auch mit der ersten Meldung raus und auch so, wie ihr hofft, …
+> … hatte ich auch schon angedeutet, natürlich die Behörden habe ich abtelefoniert, die Staatsanwaltschaft, Polizei, LKA und so weiter. Und dann sind wir auch mit der ersten Meldung raus und auch so, wie erhofft, als Erste. …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 8:36](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=516) · [[Transkript 144#Minute 8|im Transkript]]
 
-> … eben hört dass Reppegatter angeblich frei sein soll und dann hat die Staatsanwaltschaft Düsseldorf erst gesagt na wissen wir im Moment noch nichts von und später dann klargestellt dass man erstmal nicht davon in …
+> … eben hört dass Reppegather angeblich frei sein soll und dann hat die Staatsanwaltschaft Düsseldorf erst gesagt na wissen wir im Moment noch nichts von und später dann klargestellt dass man erstmal nicht davon in …
 >
 > — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 57:30](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=3450) · [[Transkript 144#Minute 57|im Transkript]]
 
@@ -1706,7 +1698,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 58:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3529) · [[Transkript 161#Minute 58|im Transkript]]
 
-## In diesen Folgen (87)
+## In diesen Folgen (86)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Shownotes · Minute [1:22](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=82), [5:54](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=354), [9:48](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=588), [13:10](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH?t=790)
 - [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Shownotes · Minute [0:33](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=33), [12:23](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=743), [16:22](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=982), [23:55](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp?t=1435)
@@ -1724,7 +1716,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [0:43](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=43), [2:27](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=147), [6:19](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=379), [8:21](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=501)
 - [[024 Das Cum-Ex Dream Team (Teil 2)|#24 – Das Cum-Ex Dream Team (Teil 2)]] (2022-10-09) — Shownotes · Minute [1:11](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=71), [17:50](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1070), [19:35](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1175), [28:18](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T?t=1698)
 - [[027 Der Bruch mit dem Cum-Ex Meister (Teil 3)|#27 – Der Bruch mit dem Cum-Ex Meister (Teil 3)]] (2022-10-23) — Shownotes · Minute [1:00](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=60), [2:45](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=165), [16:07](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=967), [22:25](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU?t=1345)
-- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Minute [0:02](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2), [3:28](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=208), [10:56](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=656), [13:47](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=827)
+- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Minute [0:02](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2), [3:28](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=208), [9:39](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=579), [11:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=719)
 - [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes · Minute [1:59](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=119), [5:23](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=323), [17:33](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1053), [30:39](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ?t=1839)
 - [[030 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#30 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group aus der Krise will (Teil 2)]] (2022-12-04) — Shownotes · Minute [31:20](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=1880), [41:42](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=2502), [43:50](https://open.spotify.com/episode/7ENbRj3oPwEY5O2D5llVO5?t=2630)
 - [[033 Wirecard Der Jahrhundert-Prozess hat begonnen|#33 – Wirecard: Der Jahrhundert-Prozess hat begonnen]] (2022-12-08) — Shownotes · Minute [3:04](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=184), [4:56](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=296), [7:18](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=438), [9:16](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A?t=556)
@@ -1734,7 +1726,6 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 - [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — Shownotes · Minute [7:11](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=431), [10:08](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=608), [48:14](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=2894), [57:13](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3433)
 - [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes · Minute [0:09](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=9), [3:46](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=226), [7:18](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=438), [20:07](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg?t=1207)
 - [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40 – Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?]] (2023-03-26) — Shownotes · Minute [0:35](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=35), [3:20](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=200), [4:59](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=299), [8:16](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=496)
-- [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes · Minute [0:44](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=44), [46:12](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1?t=2772)
 - [[044 Die WestLB Viele Ex-Vorstände und ein Milliardenskandal|#44 – Die WestLB: Viele Ex-Vorstände und ein Milliardenskandal]] (2023-05-21) — Shownotes · Minute [9:44](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=584), [18:36](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1116), [20:18](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1218), [22:19](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq?t=1339)
 - [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46 – Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank]] (2023-06-17) — Shownotes · Minute [0:52](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=52), [2:44](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=164), [4:17](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=257), [5:51](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=351)
 - [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47 – Wie drei Tonnen Gold verschwanden: Der PIM-Gold-Skandal]] (2023-07-01) — Shownotes · Minute [6:18](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=378), [21:03](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1263), [23:14](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1394), [26:40](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1600)
@@ -1758,7 +1749,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 - [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84 – Der Fall Schlecker: Teil 2 – der Abstieg]] (2024-06-29) — Minute [0:20](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=20), [53:07](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3187), [54:56](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3296), [59:31](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3571)
 - [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Shownotes · Minute [1:52](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=112), [5:25](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=325), [8:23](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=503), [9:53](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=593)
 - [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Shownotes · Minute [0:38](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=38), [5:22](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=322), [23:35](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1415), [25:12](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL?t=1512)
-- [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Shownotes · Minute [0:58](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=58), [3:57](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=237), [7:07](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=427), [11:08](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=668)
+- [[094 Steuerskandal Cum-Ex Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an|#94 – Steuerskandal Cum-Ex: Leiter der Staatsanwaltschaft Köln greift Anne Brorhilker an]] (2024-09-08) — Shownotes · Minute [0:58](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=58), [3:57](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=237), [5:40](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=340), [11:08](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ?t=668)
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes · Minute [3:18](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=198), [9:15](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=555), [12:34](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=754), [16:32](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=992)
 - [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98 – Update nach Sympatex-Skandal: Wie es mit Goetzpartners nach der Inhaftierung der Eigentümer weitergeht]] (2024-10-20) — Shownotes · Minute [0:33](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=33), [2:19](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=139), [5:26](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=326)
 - [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Shownotes · Minute [1:33](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=93), [5:23](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=323), [7:38](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=458), [10:09](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=609)

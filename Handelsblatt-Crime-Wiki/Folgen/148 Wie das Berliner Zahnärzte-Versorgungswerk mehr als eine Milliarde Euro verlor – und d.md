@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-05-31 |
 | **Dauer** | 1:02:21 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1) · [MP3](https://audio.podigee-cdn.net/2453090-m-4d84f5e70336e0767a5859c32bcd2179.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/148-wie-das-berliner-zahnarzte-versorgungswerk-mehr-als-eine-milliarde-euro-verlor-und-das-geld-nun-zuruckholen-will) |
-| **Transkript** | [[Transkript 148]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Wirecard]], [[Zahnärzte-Versorgungswerk Berlin]] |
+| **Transkript** | [[Transkript 148]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Zahnärzte-Versorgungswerk Berlin]] |
 | **Themen** | [[Wirtschaftsprüfung]] |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]] |
-| **Kurz erwähnt** | [[Insolvenz]], [[Untreue]], [[Korruption und Bestechung]], [[Strafverteidigung]], [[Compliance]] |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
+| **Kurz erwähnt** | [[Insolvenz]], [[Untreue]], [[Korruption und Bestechung]], [[Compliance]] |
 
 ## Shownotes
 
@@ -63,7 +63,7 @@ Renten in Gefahr – Milliardenskandal bei Berlins Zahnärzten
 - [33:20](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2000) – Ja, und dabei wären einige dieser Widersprüche wohl intern ganz leicht zu entdecken gewesen. Und zwar ganz ohne … ([[Transkript 148#Minute 33|Transkript]])
 - [35:21](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2121) – Und aus Sicht des VZB waren diese Gesellschafterkredite eben unzulässig. Und pikant waren diese Finanzierungen auch deshalb, weil … ([[Transkript 148#Minute 35|Transkript]])
 - [37:23](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2243) – Und eigentlich war das Versorgungswerk durch eine interne Anlagerichtlinie dazu gehalten und verpflichtet, dieses Rating extern durchführen zu … ([[Transkript 148#Minute 37|Transkript]])
-- [39:42](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2382) – Ab 2023 hatten Sie dann ja neue Wirtschaftsprüfer, Baker Tilley, die Firma. Haben die denn wenigstens was gesagt? … ([[Transkript 148#Minute 39|Transkript]])
+- [39:42](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2382) – Ab 2023 hatten Sie dann ja neue Wirtschaftsprüfer, Baker Tilly, die Firma. Haben die denn wenigstens was gesagt? … ([[Transkript 148#Minute 39|Transkript]])
 - [41:46](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2506) – Also man möchte sich hier gar nicht äußern und verweist eben nur auf das laufende Verfahren. Ja, ich … ([[Transkript 148#Minute 41|Transkript]])
 - [43:48](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2628) – Jetzt Demo buchen auf deel.com-podcast. Ja, vielleicht erklären wir nochmal kurz den Unterschied zu den anderen Organen. Also … ([[Transkript 148#Minute 43|Transkript]])
 - [45:56](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=2756) – Und er schreibt dann auch, naja, also angesichts solcher Zahlen, da würden sich dann schon Mitglieder Sorgen machen. … ([[Transkript 148#Minute 45|Transkript]])
@@ -71,7 +71,7 @@ Renten in Gefahr – Milliardenskandal bei Berlins Zahnärzten
 - [50:09](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3009) – Okay, also er sagt noch, angeblich seien die Renten da noch nicht in Gefahr. Und er eben als … ([[Transkript 148#Minute 50|Transkript]])
 - [52:14](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3134) – Und nur gut einen Monat später, nachdem er das geschrieben hat, also im Juni, war dann der erste … ([[Transkript 148#Minute 52|Transkript]])
 - [54:19](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3259) – Da kriegst du ja keine Millionensummen wieder. Also die Augen richten sich hier vor allen Dingen auf die … ([[Transkript 148#Minute 54|Transkript]])
-- [56:26](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3386) – Und von diesen Verdächtigen, das Große soll aus den Kreisen des VZB stammen und bei rund einer Handvoll … ([[Transkript 148#Minute 56|Transkript]])
+- [56:26](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3386) – Und von diesen Verdächtigen, Das Gros soll aus den Kreisen des VZB stammen und bei rund einer Handvoll … ([[Transkript 148#Minute 56|Transkript]])
 - [58:28](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3508) – Also kurzum, wenn man ihm da hat zuhören können, das war schon ein Satz heißer Ohrfeigen für das … ([[Transkript 148#Minute 58|Transkript]])
 - [1:00:32](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3632) – Und eine Behandlungseinheit kostet irre viel Geld. Das muss man doch alles erstmal erarbeiten. Und mein Weg im … ([[Transkript 148#Minute 60|Transkript]])
 - [1:02:42](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=3762) – Ja, das kann ich mir auch gut vorstellen. Für heute soll es das jetzt aber erstmal gewesen sein. … ([[Transkript 148#Minute 62|Transkript]])

@@ -40,7 +40,7 @@ Seit den Siemens- und MAN-Affären (2006 bis 2009) haben deutsche Konzerne umfan
 >
 > — [[010 Sanktionsschlupflöcher Russische Oligarchen liefern sich Katz-und-Maus-Spiel mit EU-Be|#10]], [Minute 15:57](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg?t=957) · [[Transkript 010#Minute 15|im Transkript]]
 
-> Alexander Bartle hat sich einen Namen als einer der profiliertesten Korruptionsbekämpfer der Republik gemacht. Er war allerdings selbst in höchstem Maße korrupt. Der Oberstaatsanwalt hat ein regelrechtes System geschaffen, das ihm mehr …
+> Alexander Badle hat sich einen Namen als einer der profiliertesten Korruptionsbekämpfer der Republik gemacht. Er war allerdings selbst in höchstem Maße korrupt. Der Oberstaatsanwalt hat ein regelrechtes System geschaffen, das ihm mehr …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 0:04](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=4) · [[Transkript 048#Minute 0|im Transkript]]
 
@@ -52,7 +52,7 @@ Seit den Siemens- und MAN-Affären (2006 bis 2009) haben deutsche Konzerne umfan
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 5:34](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=334) · [[Transkript 048#Minute 5|im Transkript]]
 
-> … festgestellt, dass sich Badler in einem Fall bei einer Firma 277.000 Euro Schmiergelder in die eigene Tasche gesteckt hat. In einem anderen Fall kam er auf 583.000 Euro. Und das sind allein nur Taten, …
+> … festgestellt, dass sich Badle in einem Fall bei einer Firma 277.000 Euro Schmiergelder in die eigene Tasche gesteckt hat. In einem anderen Fall kam er auf 583.000 Euro. Und das sind allein nur Taten, …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 7:11](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=431) · [[Transkript 048#Minute 7|im Transkript]]
 
@@ -92,7 +92,7 @@ Seit den Siemens- und MAN-Affären (2006 bis 2009) haben deutsche Konzerne umfan
 >
 > — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 17:15](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=1035) · [[Transkript 106#Minute 17|im Transkript]]
 
-> … Geschichte Österreichs hingelegt hat. Und jetzt hat die Wiener Wirtschafts - und Korruptionsstaatsanwaltschaft Mitte Juli Anklage erhoben. Und das ist tatsächlich auch die erste Anklage in Sachen Signer und sie legt euch vor. Jetzt …
+> … Geschichte Österreichs hingelegt hat. Und jetzt hat die Wiener Wirtschafts - und Korruptionsstaatsanwaltschaft Mitte Juli Anklage erhoben. Und das ist tatsächlich auch die erste Anklage in Sachen Signa und sie legt euch vor. Jetzt …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 1:53](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=113) · [[Transkript 120#Minute 1|im Transkript]]
 
@@ -100,11 +100,11 @@ Seit den Siemens- und MAN-Affären (2006 bis 2009) haben deutsche Konzerne umfan
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 4:06](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=246) · [[Transkript 120#Minute 4|im Transkript]]
 
-> … nicht in Wien. Von da kommt ja die Anklage von der Wiener Korruptionsstaatsanwaltschaft, sondern der Prozess würde dann aller Voraussicht nach in Innsbruck standfinden, auch weil, ja, der Kern des Geschehens sich um Innsbruck …
+> … nicht in Wien. Von da kommt ja die Anklage von der Wiener Korruptionsstaatsanwaltschaft, sondern der Prozess würde dann aller Voraussicht nach in Innsbruck stattfinden, auch weil, ja, der Kern des Geschehens sich um Innsbruck …
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 18:38](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1118) · [[Transkript 120#Minute 18|im Transkript]]
 
-> … so beschreibt. Es handelt sich um einen Finanz - und gutmaßlich auch Korruptionsskandal, der ohne Beispiel in der Geschichte deutscher Versorgungswerke ist. Das VZB ist im Grunde sowas wie die Rentenkasse der Berliner, Bremer …
+> … so beschreibt. Es handelt sich um einen Finanz - und mutmaßlich auch Korruptionsskandal, der ohne Beispiel in der Geschichte deutscher Versorgungswerke ist. Das VZB ist im Grunde sowas wie die Rentenkasse der Berliner, Bremer …
 >
 > — [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148]], [Minute 1:03](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1?t=63) · [[Transkript 148#Minute 1|im Transkript]]
 

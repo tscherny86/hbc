@@ -24,7 +24,7 @@ Die deutsche Finanzaufsicht Bafin geht Hinweisen zum TGI-Geschäft nach, weil un
 >
 > — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 0:13](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=13) · [[Transkript 143#Minute 0|im Transkript]]
 
-> … mit Sönke Iverson, also dem Leiter unseres Investigativteams, eine große Geschichte über TGI veröffentlicht. Und ihr habt mir vor der Aufnahme erzählt, dass ihr eigentlich erst durch einen Werbefilm mit Oliver Pocher, also dem …
+> … gemeinsam mit Sönke Iwersen, also dem Leiter unseres Investigativteams, eine große Geschichte über TGI veröffentlicht. Und ihr habt mir vor der Aufnahme erzählt, dass ihr eigentlich erst durch einen Werbefilm mit Oliver Pocher, also dem …
 >
 > — [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143]], [Minute 4:06](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q?t=246) · [[Transkript 143#Minute 4|im Transkript]]
 

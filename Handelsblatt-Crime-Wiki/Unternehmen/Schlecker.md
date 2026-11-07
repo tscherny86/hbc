@@ -28,7 +28,7 @@ Das Geschäftsmodell – kleine, schlecht ausgestattete Filialen mit je einer �
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 1:38](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=98) · [[Transkript 082#Minute 1|im Transkript]]
 
-> … schon hier bei uns, investigativ unterwegs. Und er hat monatelang in Sachen Schleckern recherchiert und sogar einen sehr renommierten Journalistenpreis gewonnen, 2013. Und ja, das war für ihn natürlich sowohl Ehre als auch Ansporn. …
+> … auch schon hier bei uns, investigativ unterwegs. Und er hat monatelang in Sachen Schlecker recherchiert und sogar einen sehr renommierten Journalistenpreis gewonnen, 2013. Und ja, das war für ihn natürlich sowohl Ehre als auch Ansporn. …
 >
 > — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 3:23](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=203) · [[Transkript 082#Minute 3|im Transkript]]
 
@@ -40,7 +40,7 @@ Das Geschäftsmodell – kleine, schlecht ausgestattete Filialen mit je einer �
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 0:04](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=4) · [[Transkript 084#Minute 0|im Transkript]]
 
-> … An dem viele sich gefragt haben, was eigentlich macht den Erfolg von Schlecker aus? Denn man muss sagen, zu diesem Zeitpunkt bereits fiel der Umsatz von Schlecker immer mehr hinter der Konkurrenz zurück. Die …
+> … An dem viele sich gefragt haben, was eigentlich macht den Erfolg von Schlecker aus? Denn man muss sagen, zu diesem Zeitpunkt bereits fiel der Umsatz von Schlecker immer mehr hinter der Konkurrenz zurück. DM …
 >
 > — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 1:57](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=117) · [[Transkript 084#Minute 1|im Transkript]]
 

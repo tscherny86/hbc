@@ -18,10 +18,10 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-03-23 |
 | **Dauer** | 32:43 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm) · [MP3](https://audio.podigee-cdn.net/1379295-m-f34f6a29d91e9a1ede00ca2435eae2e1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/70-neue-episode) |
-| **Transkript** | [[Transkript 070]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 070]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Effenberg-Bank]] |
 | **Themen** | [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
-| **Unternehmen** | [[Volksbank Köln Bonn]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]], [[BaFin]] |
+| **Unternehmen** | [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]], [[BaFin]] |
 | **Personen** | [[Ina Karabasz]], [[Stefan Effenberg]], [[Stefan Siebert]] |
 | **Kurz erwähnt** | – |
 
@@ -50,9 +50,9 @@ Skandal-Bank gehören Oberhausener Bordell-Immobilien
 - [2:08](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=128) – Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Volker, hallo Vinzenz. Hallo Ina. … ([[Transkript 070#Minute 2|Transkript]])
 - [4:11](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=251) – Ich bin froh und stolz, dass ich da mitarbeiten kann. Na, da war aber jemand sehr positiv optimistisch. … ([[Transkript 070#Minute 4|Transkript]])
 - [6:12](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=372) – Aber indirekt muss man das eigentlich schon sagen. Weil faktisch ist es ja so, dass mindestens vier dieser … ([[Transkript 070#Minute 6|Transkript]])
-- [8:14](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=494) – Und der durchflügt gerade die Bilanzen im Auftakt der BaFin und versucht das alles wieder halbwegs in Ordnung … ([[Transkript 070#Minute 8|Transkript]])
+- [8:14](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=494) – Und der durchpflügt gerade die Bilanzen im Auftrag der BaFin und versucht das alles wieder halbwegs in Ordnung … ([[Transkript 070#Minute 8|Transkript]])
 - [10:18](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=618) – Das heißt, die Bank kann aktuell nur Geld durch die Vermietung verdienen. Und das wird sich auch so … ([[Transkript 070#Minute 10|Transkript]])
-- [12:20](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=740) – So in der Turnhalle da in Südthüringen haben sich die getroffen. Und da wurde der Bericht des Handelsplatzes … ([[Transkript 070#Minute 12|Transkript]])
+- [12:20](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=740) – So in der Turnhalle da in Südthüringen haben sich die getroffen. Und da wurde der Bericht des Handelsblatts … ([[Transkript 070#Minute 12|Transkript]])
 - [14:21](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=861) – März stattfinden. Und deswegen werden wir uns mit dem Thema weiter beschäftigen. Man muss sagen, dass wir natürlich … ([[Transkript 070#Minute 14|Transkript]])
 - [16:23](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=983) – Und ja, jetzt hat er da eigentlich nichts mehr zu melden, aber es gibt halt eine große Anhängerschaft … ([[Transkript 070#Minute 16|Transkript]])
 - [18:31](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm?t=1111) – Wobei dieser Betragsrahmen vor dem Hintergrund, dass die Kosten noch nicht endgültig bewertet werden können, nicht als Höchstbegrenzung … ([[Transkript 070#Minute 18|Transkript]])

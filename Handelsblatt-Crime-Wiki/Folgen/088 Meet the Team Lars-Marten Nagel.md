@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, team]
 | **Datum** | 2024-07-13 |
 | **Dauer** | 12:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670) · [MP3](https://audio.podigee-cdn.net/1522199-m-3cfa6cbc93620ecfbcbc662d48e1ff44.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/88-thomas-lloyd) |
-| **Transkript** | [[Transkript 088]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | – |
+| **Transkript** | [[Transkript 088]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Tesla-Files]] |
 | **Themen** | – |
-| **Unternehmen** | [[Handelsblatt]] |
+| **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
-| **Kurz erwähnt** | [[Adler Group]], [[Tesla-Files]], [[Thomas Lloyd]], [[Anlegerbetrug]], [[Whistleblower]], [[Datenleck]], [[Tesla]], [[ThomasLloyd]] |
+| **Kurz erwähnt** | [[Adler Group]], [[Thomas Lloyd]], [[Anlegerbetrug]], [[Datenleck]], [[Tesla]], [[ThomasLloyd]] |
 
 ## Shownotes
 

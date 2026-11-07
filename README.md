@@ -1,8 +1,10 @@
 # Handelsblatt Crime Fanwiki 🕵️
 
-## Stand: 0.1.0
+## Stand: 1.0.0
 
-Live: https://tscherny86.github.io/hbc/ · Vorschau: [Claude-Artefakt](https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB) · Änderungen: [CHANGELOG.md](CHANGELOG.md) · Neuestes Release: [v0.1.0](https://github.com/tscherny86/hbc/releases/latest) (07.11.2026)
+Live: https://tscherny86.github.io/hbc/ · Vorschau: [Claude-Artefakt](https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB) · Änderungen: [CHANGELOG.md](CHANGELOG.md) · Neuestes Release: [v1.0.0](https://github.com/tscherny86/hbc/releases/latest) (07.11.2026)
+
+**Stand 1.0.0:** alle 160 Folgen transkribiert und geprüft (156 Korrektur gelesen, 4 mit dem offiziellen Transkript abgeglichen), 4.469 Korrekturregeln, 258 Artikel (81 Fälle, 43 Themen, 45 Unternehmen, 89 Personen), über 5.400 Zitate mit Link zur Minute, alle Spotify-IDs zugeordnet.
 
 Fanwiki zum Podcast [Handelsblatt Crime – spannende Streitfälle der deutschen Wirtschaft](https://open.spotify.com/show/3bzKxZUhiIRZKavCmKIYCx)
 (Hosts Ina Karabasz und Solveig Gode, Investigativ-Team um Sönke Iwersen): Korruption, Betrug, Cum-Ex, Wirecard, Benko
@@ -33,6 +35,7 @@ Neue Fälle, Themen, Unternehmen oder Personen: `data/topics/*.json` (Hosts und 
 - `data/spotify_ids.json` – Spotify-Episoden-IDs (alle 160 zugeordnet)
 - `data/transcripts/` – Rohtranskripte von Whisper mit Wort-Zeitstempeln
 - `data/official/` – offizielle Podigee-Transkripte (4 Folgen); `data/alignment_report.json` zeigt, wie gut sie passen
+- `data/review/` – Prüfberichte je Folge (`assignments/`), Funde der Prüfer (`out/`), Anleitung für Prüfer (`HELFER.md`)
 - `data/corrections.tsv` – Korrekturliste für Hörfehler, Bericht je Folge in `data/corrections_report.json`
 - `data/topic_exclusions.tsv` – von Hand geprüfte Fehlzuordnungen
 - `data/proofread.txt` – vollständig Korrektur gelesene Folgen

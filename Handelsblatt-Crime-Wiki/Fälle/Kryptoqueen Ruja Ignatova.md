@@ -22,6 +22,10 @@ Ihr Bruder Konstantin Ignatov und Mitgründer Sebastian Greenwood wurden in den 
 
 ## Was im Podcast gesagt wird
 
+> … der nächsten Folge geht es um... Um die Krypto-Queen geht es da. Ruja Ignatova. Das ist eine Frau, die mit der Ausgabe von Kryptowährungen mehrere Milliarden Euro hinterzogen hat oder betrogen hat, sagt die Staatsanwaltschaft. …
+>
+> — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 50:30](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=3030) · [[Transkript 015#Minute 50|im Transkript]]
+
 > This network was created to become and to fuel the growth of OneCoin, which I strongly believe will be the number one cryptocurrency worldwide. So with this OneCoin will become officially the number one …
 >
 > — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 0:08](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=8) · [[Transkript 016#Minute 0|im Transkript]]
@@ -41,6 +45,10 @@ Ihr Bruder Konstantin Ignatov und Mitgründer Sebastian Greenwood wurden in den 
 ## In diesen Folgen (1)
 
 - [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes · Minute [0:08](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=8), [1:57](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=117), [3:31](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=211), [5:13](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=313)
+
+## Kurz erwähnt (1)
+
+- [[015 Hanno Berger Steuer-Guru vor Gericht|#15 – Hanno Berger: Steuer-Guru vor Gericht]] (2022-06-05) — Minute [50:30](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=3030)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

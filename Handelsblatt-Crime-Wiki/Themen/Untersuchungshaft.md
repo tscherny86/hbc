@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 15
+folgen: 16
 tags: [themen]
 ---
 # Untersuchungshaft
@@ -62,7 +62,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36]], [Minute 9:41](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=581) · [[Transkript 036#Minute 9|im Transkript]]
 
-> … nicht acht Jahre. Na ja, er saß ja schon anderthalb Jahre in Untersuchungshaft. Es werden dann auch nicht sechseinhalb Jahre, sondern da kommt sicher was nach guter Führung, so Berger will, dann runter. Aber …
+> … nicht acht Jahre. Na ja, er saß ja schon anderthalb Jahre in Untersuchungshaft. Es werden dann auch nicht sechseinhalb Jahre, sondern da kommt sicher was nach guter Führung, so Gott will, dann runter. Aber doch noch …
 >
 > — [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36]], [Minute 13:06](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=786) · [[Transkript 036#Minute 13|im Transkript]]
 
@@ -70,29 +70,9 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36]], [Minute 33:55](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=2035) · [[Transkript 036#Minute 33|im Transkript]]
 
-> … Vorteil für Freshfields, dass die Schlagzeile landen ich hielt, Freshfields Anwalt in Untersuchungshaft oder Freshfields Steuerchef in Untersuchungshaft, sondern ehemaliger. Auch darüber haben die sich dann aufgeregt und der ist doch gar nicht mehr. …
+> … glaube, keine zwei Wochen später ist er dann verhaftet worden und in Untersuchungshaft gekommen. Das hatte natürlich einen großen, großen Vorteil für Freshfields, dass die Schlagzeile landen ich hielt, Freshfields Anwalt in Untersuchungshaft oder …
 >
-> — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 25:13](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1513) · [[Transkript 032#Minute 25|im Transkript]]
-
-> … die genießt er auch nicht mehr. Gegen ihn lag nämlich lange ein Haftbefehl vor und er konnte die Türkei nicht verlassen. Und trotzdem macht Göker weiter mit seinen Geschäften, steht weiterhin unter Beobachtung der …
->
-> — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 3:08](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=188) · [[Transkript 035#Minute 3|im Transkript]]
-
-> … nicht zur Verfügung stand. Und da stellte ein Richter sogar einen internationalen Haftbefehl gegen Göker aus, um ihm auf die Schliche zu kommen. Aber Göker war, wie gesagt, da schon längst über alle Berge. …
->
-> — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 59:40](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3580) · [[Transkript 035#Minute 59|im Transkript]]
-
-> … zurück, die sie Göker vorab überwiesen hatten. Nach unzähligen Ermittlungen folgte ein Haftbefehl. Aber da war Göker längst über alle Berge. Er hat sich nämlich in die Türkei abgesetzt. Ein Land, das grundsätzlich keine …
->
-> — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 2:07](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=127) · [[Transkript 037#Minute 2|im Transkript]]
-
-> … tief er danach gefallen ist. Wir haben über Millionenschulden, über den internationalen Haftbefehl gesprochen, über die Flucht ins Exil und darüber, dass es eigentlich nur einen gab, der das nicht so richtig wahrhaben wollte. …
->
-> — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 9:01](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=541) · [[Transkript 037#Minute 9|im Transkript]]
-
-> … der ist ziemlich schnell festgenommen worden und saß dann zwei Jahre in Untersuchungshaft. Da ist das Leben in den Schweizer Alpen natürlich angenehmer. Aber Ozan, wenn ich das richtig verstanden habe, Göker sitzt da …
->
-> — [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37]], [Minute 49:43](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2983) · [[Transkript 037#Minute 49|im Transkript]]
+> — [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32]], [Minute 25:05](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1505) · [[Transkript 032#Minute 25|im Transkript]]
 
 > … Device, entwickelt. Es folgten Razzien, zwischenzeitlich kamen mehrere Audi-Manager für Monate in Untersuchungshaft und darunter waren auch der ehemalige Konzernchef Rupert Stadler und der ehemalige Motorenchef Wolfgang Hatz. Im Juli 2019 erhob die Staatsanwaltschaft …
 >
@@ -114,7 +94,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 4:43](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=283) · [[Transkript 047#Minute 4|im Transkript]]
 
-> … vorbei als Unternehmen. Der Passaci, den haben die gleich mitgenommen in die Untersuchungshaft, eine Ermittlung eröffnet gegen eine größere Zahl von Führungskräften, Vertrieblern und so. Und auch mit den beschlagnahmten Mitteln war es dann …
+> … vorbei als Unternehmen. Der Pazarci, den haben die gleich mitgenommen in die Untersuchungshaft, eine Ermittlung eröffnet gegen eine größere Zahl von Führungskräften, Vertrieblern und so. Und auch mit den beschlagnahmten Mitteln war es dann …
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 24:20](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1460) · [[Transkript 047#Minute 24|im Transkript]]
 
@@ -122,7 +102,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47]], [Minute 29:48](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1788) · [[Transkript 047#Minute 29|im Transkript]]
 
-> … im Juli 2020 schlugen dann die Ermittler zu und nahmen Bartler in Untersuchungshaft. Das ist ja wahrscheinlich ein ziemlicher Knaller damals gewesen, wenn so ein Oberstaatsanwalt, jemand in dieser Position, mit diesem Ansehen dann …
+> … im Juli 2020 schlugen dann die Ermittler zu und nahmen Badle in Untersuchungshaft. Das ist ja wahrscheinlich ein ziemlicher Knaller damals gewesen, wenn so ein Oberstaatsanwalt, jemand in dieser Position, mit diesem Ansehen dann …
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 30:12](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1812) · [[Transkript 048#Minute 30|im Transkript]]
 
@@ -138,19 +118,15 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48]], [Minute 41:52](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=2512) · [[Transkript 048#Minute 41|im Transkript]]
 
-> Seit drei Jahren ist Jan Marsalek untergetaucht. Fahnder suchen mit internationalem Haftbefehl weltweit nach dem früheren Wirecard-Vorstand, der als einer der Drahtzieher hinter dem spektakulärsten Bilanzskandal der deutschen Wirtschaftsgeschichte gilt. Jetzt hat sich …
->
-> — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 0:06](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=6) · [[Transkript 049#Minute 0|im Transkript]]
-
 > … sobald er nach Deutschland einreisen würde, würde er verhaftet und erstmal in Untersuchungshaft kommen. Wobei er ja in seinem Schreiben schon am Ende auch nochmal andeutet, dass er, oder Eckstein deutet sozusagen an, dass …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 16:43](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1003) · [[Transkript 049#Minute 16|im Transkript]]
 
-> … um sein eigenes Handel zu rechtfertigen. Und das dann schließlich in der Untersuchungshaft sich auch seine eigene Sicht auf die Dinge dann doch geändert hat. Und vielleicht hören wir einfach mal rein, was er …
+> … habe, um sein eigenes Handeln zu rechtfertigen. Und das dann schließlich in der Untersuchungshaft sich auch seine eigene Sicht auf die Dinge dann doch geändert hat. Und vielleicht hören wir einfach mal rein, was er …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 38:33](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2313) · [[Transkript 049#Minute 38|im Transkript]]
 
-> … seit gut drei Jahren, also exakt seit dem 22. Juli 2020, in Untersuchungshaft. Und derzeit sieht es nicht so aus, als ob sich daran bald etwas ändern würde. Und sein Verteidiger, der Herr Dielam, …
+> … seit gut drei Jahren, also exakt seit dem 22. Juli 2020, in Untersuchungshaft. Und derzeit sieht es nicht so aus, als ob sich daran bald etwas ändern würde. Und sein Verteidiger, der Herr Dierlamm, …
 >
 > — [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49]], [Minute 47:11](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2831) · [[Transkript 049#Minute 47|im Transkript]]
 
@@ -158,7 +134,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[066 Russland-Spionage beim Bundesnachrichtendienst|#66]], [Minute 5:53](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=353) · [[Transkript 066#Minute 5|im Transkript]]
 
-> … 22, am 22. hat man ihn festgenommen. Und seitdem ist er in Untersuchungshaft. Und Martin, der A2E, der soll ja auch eine große Summe Geld von den Russen bekommen haben. Ist das nicht auch …
+> … 22, am 22. hat man ihn festgenommen. Und seitdem ist er in Untersuchungshaft. Und Martin, der Arthur E., der soll ja auch eine große Summe Geld von den Russen bekommen haben. Ist das nicht auch …
 >
 > — [[066 Russland-Spionage beim Bundesnachrichtendienst|#66]], [Minute 16:13](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=973) · [[Transkript 066#Minute 16|im Transkript]]
 
@@ -170,19 +146,19 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 2:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=173) · [[Transkript 069#Minute 2|im Transkript]]
 
-> … einen Betrug gegeben haben. Und trotzdem gab es an diesem Tag kein Haftbefehl. Der ist ja sozusagen, wir sprechen immer von Flucht, und das trifft es ja auch, aber man muss auch sagen, am …
->
-> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 26:39](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1599) · [[Transkript 069#Minute 26|im Transkript]]
-
 > … Prozess läuft seit mehr als einem Jahr. Oliver Bellenhaus ist aus der Untersuchungshaft freigekommen gegen Auflagen. An der Stelle auch noch mal, Herr Bellenhaus, wenn Sie uns zuhören, Interviewanfragen nehmen wir natürlich jeder jederzeit …
 >
 > — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 48:32](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2912) · [[Transkript 069#Minute 48|im Transkript]]
+
+> … schon ein paar Mal gemacht und Herr Braun wurde nicht aus der U-Haft entlassen und auch da können wir nochmal reinhören, was das Gericht denn gesagt hat, warum man ihn aus der Haft entlassen …
+>
+> — [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69]], [Minute 50:13](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3013) · [[Transkript 069#Minute 50|im Transkript]]
 
 > … Anfang Februar hat dann das Gericht den Kronzeugen Oliver Bellenhaus aus der Untersuchungshaft entlassen. Das kann man jetzt als Zeichen dafür werten, dass der Richter der Version des Kronzeugen glaubt. Der Richter hat dem …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 4:11](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=251) · [[Transkript 089#Minute 4|im Transkript]]
 
-> … an dem Markus Braun seit exakt vier Jahren in Haft sitzt, in Untersuchungshaft. Das aber nur nebenbei. Ja, also von Erfa hat die Aussage dann beendet und hat nochmal gegen Bellenhaus geschossen und ihm …
+> … an dem Markus Braun seit exakt vier Jahren in Haft sitzt, in Untersuchungshaft. Das aber nur nebenbei. Ja, also von Erffa hat die Aussage dann beendet und hat nochmal gegen Bellenhaus geschossen und ihm Lügen …
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 51:10](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3070) · [[Transkript 089#Minute 51|im Transkript]]
 
@@ -190,7 +166,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 55:43](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3343) · [[Transkript 089#Minute 55|im Transkript]]
 
-> … der Unternehmensberatung Goetzpartners. Und sie sitzen seit dem Sympatex-Anlageskandal seit März in Untersuchungshaft in München. Die Staatsanwaltschaft ermittelt wegen eines mutmaßlichen Millionenbetrugs bei dem Textilunternehmen Sympatex, dass Götz und Sankt-Johanser gehört. Es geht um …
+> … der Unternehmensberatung Goetzpartners. Und sie sitzen seit dem Sympatex-Anlageskandal seit März in Untersuchungshaft in München. Die Staatsanwaltschaft ermittelt wegen eines mutmaßlichen Millionenbetrugs bei dem Textilunternehmen Sympatex, dass Goetz und Sanktjohanser gehört. Es geht um Marktmanipulation …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 0:31](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=31) · [[Transkript 098#Minute 0|im Transkript]]
 
@@ -202,7 +178,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 4:05](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=245) · [[Transkript 098#Minute 4|im Transkript]]
 
-> … dann auch eben die beiden Stefans, also Stephan Goetz und Stefan Sankt-Johanser in Untersuchungshaft. Und sie kamen dann frei nach wenigen Tagen später und durften auf freien Fuß. Aber sie mussten eine Kaution hinterlassen. Und …
+> … dann auch eben die beiden Stefans, also Stephan Goetz und Stefan Sanktjohanser in Untersuchungshaft. Und sie kamen dann frei nach wenigen Tagen später und durften auf freien Fuß. Aber sie mussten eine Kaution hinterlassen. Und …
 >
 > — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 5:35](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=335) · [[Transkript 098#Minute 5|im Transkript]]
 
@@ -210,7 +186,7 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 0:48](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=48) · [[Transkript 100#Minute 0|im Transkript]]
 
-> … denn jetzt eigentlich? Ist sie in Frankreich im Gefängnis? Sie ist in Untersuchungshaft. Sie ist in Untersuchungshaft und... Aber auf Corsica? Sie ist in Paris mittlerweile und es ist die Staatsanwaltschaft Paris, die sich …
+> … denn jetzt eigentlich? Ist sie in Frankreich im Gefängnis? Sie ist in Untersuchungshaft. Sie ist in Untersuchungshaft und... Aber auf Korsika? Sie ist in Paris mittlerweile und es ist die Staatsanwaltschaft Paris, die sich …
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 15:06](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=906) · [[Transkript 100#Minute 15|im Transkript]]
 
@@ -218,21 +194,17 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100]], [Minute 35:30](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=2130) · [[Transkript 100#Minute 35|im Transkript]]
 
-> … und vielleicht das härteste ist eben, die Staatsanwaltschaft in Trient hat einen Haftbefehl gegen Benko erlassen. Der kann nicht vollstreckt werden, weil er österreichischer Staatsbürger ist und im Moment sich in Österreich aufhält und …
->
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 22:53](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1373) · [[Transkript 104#Minute 22|im Transkript]]
-
 > … sehr bekannt geworden ist. Aber im März bereits ein zweites Mal die U-Haft antreten musste, weil er in der Vergangenheit als Eigentümer der Firma Sympatex, so sieht es jedenfalls die Staatsanwaltschaft, deren Anleger betrogen …
 >
 > — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 35:16](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2116) · [[Transkript 104#Minute 35|im Transkript]]
 
-> … Und justament, also jetzt ganz überraschend, ist eben Herr Götz aus der Untersuchungshaft wieder freigekommen. Rechtzeitig noch zum Weihnachtsfest. Aber die Firma ist eben trotzdem verkauft. Und nach allem, was man hört, steht in …
+> … Deutschland gehört hat. Da ist natürlich denkbar ungünstig, wenn der Namensgeber in U-Haft sitzt. Und wie haben die ganzen Mitarbeiterinnen und Mitarbeiter reagiert? Naja, die Mitarbeiterinnen und Mitarbeiter, die sind teils schon in den …
 >
-> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 37:33](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2253) · [[Transkript 104#Minute 37|im Transkript]]
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 36:53](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2213) · [[Transkript 104#Minute 36|im Transkript]]
 
-> … Vor wenigen Wochen hatte bereits die Staatsanwaltschaft der norditalienischen Stadt Trient ein Haftbefehl erwirkt. Sie verdächtigen den Tiroler Benko offenbar, der Anführer einer, Zitat, mafiaähnlichen kriminellen Vereinigung gewesen zu sein. Es geht dabei unter …
+> … Wien hat nun 48 Stunden Zeit zu entscheiden, ob René Benko in U-Haft muss oder nicht. Dazu wird er eine Befragung durchführen und das danach entscheiden. Wenn Sie wissen wollen, wie der aktuelle Stand …
 >
-> — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 2:12](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=132) · [[Transkript 106#Minute 2|im Transkript]]
+> — [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106]], [Minute 1:21](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=81) · [[Transkript 106#Minute 1|im Transkript]]
 
 > … das Gericht hat jetzt 48 Stunden Zeit, um über den Antrag auf Untersuchungshaft zu entscheiden. Das ist übrigens ganz interessant in Österreich. Sollten sich diese Haftgründe bestätigen oder weiter aufrechterhalten werden, wie Verdunklungsgefahr und …
 >
@@ -246,11 +218,11 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 1:58](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=118) · [[Transkript 107#Minute 1|im Transkript]]
 
-> … zwei der Hauptbeschuldigten, die Sympatex-Eigentümer Stephan Goetz und Stefan St. Johanser aus der Untersuchungshaft entlassen worden. Ja und schließlich drittens wurde erst vor einigen Wochen ein einflussreicher Münchner Unternehmensberater verhaftet. Offenbar sieht die Staatsanwaltschaft bei …
+> … sind zwei der Hauptbeschuldigten, die Sympatex-Eigentümer Stephan Goetz und Stefan Sanktjohanser aus der Untersuchungshaft entlassen worden. Ja und schließlich drittens wurde erst vor einigen Wochen ein einflussreicher Münchner Unternehmensberater verhaftet. Offenbar sieht die Staatsanwaltschaft bei …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 3:46](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=226) · [[Transkript 107#Minute 3|im Transkript]]
 
-> … oder Ende September 2023, sind Herr Götz und Herr St. Johanser in U-Haft genommen worden. Staatsanwaltschaft sah den dringenden Tatverdacht sowie Flucht - und Verdunklungsgefahr. Und dann waren die Herren Götz und St. Johanser …
+> … Oktober oder Ende September 2023, sind Herr Goetz und Herr Sanktjohanser in U-Haft genommen worden. Staatsanwaltschaft sah den dringenden Tatverdacht sowie Flucht - und Verdunklungsgefahr. Und dann waren die Herren Goetz und Sanktjohanser aber …
 >
 > — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 10:25](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=625) · [[Transkript 107#Minute 10|im Transkript]]
 
@@ -262,17 +234,17 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 5:10](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=310) · [[Transkript 119#Minute 5|im Transkript]]
 
+> … wurde dann Frank Günther hereingeführt. Klar, weil der kommt halt aus der U-Haft. Der wird dann also irgendwie rübergefahren von Justizbeamten. Er musste immerhin keine Handschellen tragen, wie das eigentlich durchaus üblich ist, wenn …
+>
+> — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 6:55](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=415) · [[Transkript 119#Minute 6|im Transkript]]
+
 > … vorwärts gehen in dem Prozess. Man muss sehen, Herr Günther sitzt in U-Haft und da gibt es eben ein Beschleunigungsgebot. Ja, und dann geht es auch um organisatorische Dinge hier. Also sollte gefragt werden, …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 26:42](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1602) · [[Transkript 119#Minute 26|im Transkript]]
 
-> … und St. Johanser zuständig ist. Denn der sitzt ja, Günther sitzt in U-Haft und da gilt eben das Beschleunigungsgebot im besonderen Maße. Das heißt, wenn jemand in U-Haft ist, dann muss eben schneller der …
+> … Günther und Sanktjohanser zuständig ist. Denn der sitzt ja, Günther sitzt in U-Haft und da gilt eben das Beschleunigungsgebot im besonderen Maße. Das heißt, wenn jemand in U-Haft ist, dann muss eben schneller der …
 >
 > — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 49:07](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2947) · [[Transkript 119#Minute 49|im Transkript]]
-
-> … sie jetzt ja wieder beide draußen sind. Saßen ja beide auch in U-Haft, aber das soll passé sein. Und ja, vielleicht noch ein Satz zu Götz. Bis da entschieden wird am Ende des Tages, …
->
-> — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 52:08](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=3128) · [[Transkript 119#Minute 52|im Transkript]]
 
 > … erstmal auf diese überschaubaren Vorwürfe konzentrieren, ja, das hat auch mit Benkos Untersuchungshaft zu tun. Der sitzt ja schon seit Ende Januar, also jetzt gut ein halbes Jahr ein. Und wenn jemand in Haft …
 >
@@ -286,34 +258,6 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120]], [Minute 22:16](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1336) · [[Transkript 120#Minute 22|im Transkript]]
 
-> … kalt erwischt worden, da am Flughafen in Paris. Und eben dieser europäische Haftbefehl, der kam tatsächlich von der Staatsanwaltschaft Bonn. Also dieser kalifornische Tech-Multimillionär hatte ein Ermittlungsverfahren der Staatsanwaltschaft Bonn. Und die haben offenbar …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 9:31](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=571) · [[Transkript 123#Minute 9|im Transkript]]
-
-> … das Oberlandesgericht Köln und auch das Oberlandesgericht Köln hat bestätigt, dass dieser Haftbefehl nie hätte ausgestellt werden dürfen. Also die sagen, es gab keinen Auslieferungsgrund und es gab auch keinen dringenden Tatverdacht und insofern …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 14:44](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=884) · [[Transkript 123#Minute 14|im Transkript]]
-
-> … oder nicht? Und die sagen, natürlich kann er reisen. Es gibt keinen Haftbefehl mehr, der ist ja aufgehoben. Es gibt überhaupt keine Hinderung. Der Mann kann völlig unbehelligt reisen, wohin er will. Ja, aber …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 18:07](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1087) · [[Transkript 123#Minute 18|im Transkript]]
-
-> … zurückhaltend. Also das Einzige, was sie halt gesagt haben, dass jetzt kein Haftbefehl mehr in der Welt ist und dass er insofern nicht bedroht ist. Aber zu dem Ermittlungsverfahren selbst sagen sie nicht. Das …
->
-> — [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123]], [Minute 22:06](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1326) · [[Transkript 123#Minute 22|im Transkript]]
-
-> … Schlagzeilen. Gegen ihn gibt es Ermittlungen der Staatsanwaltschaft Hannover, Vollstreckungen und zivilrechtliche Haftbefehle. Klasen lebt mittlerweile in Asien. Das ist praktisch für ihn. Würde er noch einmal deutschen Boden betreten, dann würde er vielleicht …
->
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 2:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=125) · [[Transkript 127#Minute 2|im Transkript]]
-
-> … und Stechen. Und wir haben das gezählt. Das waren, ich glaube, 27 Haftbefehle. Wahnsinn. Und als wir das Klaasen gefragt haben, hat er dann gesagt oder geschrieben, 27 Haftbefehle auf einen Schlag haben schließlich …
->
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:04:36](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=3876) · [[Transkript 127#Minute 64|im Transkript]]
-
-> … wie eben schon gesagt, es laufen arbeitsgerichtliche Verfahren weiter. Es sind weiter Haftbefehle, zivilrechtliche, offen. Also die Leute laufen weiter ihren Geldern hinterher. Die bisherige Zentrale in Hannover, da wurde Sintelix per Räumungsklage schon …
->
-> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:11:49](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4309) · [[Transkript 127#Minute 71|im Transkript]]
-
 > … sogar. Weiß ich jetzt nicht. Aber man sieht ihm die zehn Monate Untersuchungshaft, sieht man ihm an. Das hinterlässt einfach Spuren. Trotzdem hat er sich natürlich schick gemacht für den Prozess. Hat den Anzug …
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 6:29](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=389) · [[Transkript 128#Minute 6|im Transkript]]
@@ -326,6 +270,10 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 26:57](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=1617) · [[Transkript 128#Minute 26|im Transkript]]
 
+> … dann gleich wieder rauslassen. Ich vermute eher, dass die Staatsanwaltschaft dann erneut U-Haft beantragt, weil eben so Riesenkomplexe noch offen sind. Und bei solchen Komplexen, da dauern die Ermittlungen ja oft Jahre. Also ich …
+>
+> — [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128]], [Minute 29:01](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=1741) · [[Transkript 128#Minute 29|im Transkript]]
+
 > … Monate ins Gefägnis Und da is' er tatsächlich schon weil er in Untersuchungshaft gesessen hat und das heißt er kommt jetzt auch nicht frei Bis auf weiteres. Insolvenzverschleppung kennen wir, haben wir auch häufiger …
 >
 > — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 3:04](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=184) · [[Transkript 147#Minute 3|im Transkript]]
@@ -334,6 +282,10 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 39:31](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2371) · [[Transkript 147#Minute 39|im Transkript]]
 
+> … ein kleines bisschen ein anderes Bild auf die wirklich eine und jahrelange U-Haft von unter anderem z.B. Markus Braun, wer da sehr lange jetzt gesessen hat, wobei ich nicht weiß wie da die Verhältnisse …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 41:05](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2465) · [[Transkript 147#Minute 41|im Transkript]]
+
 > … es gesagt, beide sind beschuldigt und beide sitzen auch seit Monaten in Untersuchungshaft, also seit vergangenen November. Und ja, ein Vorwurf gegenüber Weigand ist eben, dass die Händler, die er eben vermittelt hat, eben …
 >
 > — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 14:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=888) · [[Transkript 151#Minute 14|im Transkript]]
@@ -341,10 +293,6 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 > … ist tatsächlich schwierig mit ihm zu sprechen, weil er ja in der Untersuchungshaft sitzt. Und dann suchen wir natürlich Wege, wie wir dennoch an Informationen kommen. Und dann hört man sich um und versucht …
 >
 > — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 34:15](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2055) · [[Transkript 151#Minute 34|im Transkript]]
-
-> … Webseiten, befassen sich dann nur noch mit den Inhalten. Und im europäischen Haftbefehlen jetzt in Sachen Chargeback wird CE-Cache als ein komplexes, so pyramidenförmiges Firmenkonstrukt beschrieben. Und eben auf der untersten Stufe sind dann …
->
-> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 45:27](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2727) · [[Transkript 151#Minute 45|im Transkript]]
 
 > … Singapur verhaftet worden, ist inzwischen ausgeliefert worden und sitzt in Deutschland in Untersuchungshaft. Ja, und auch bestimmte Abteilungen bei Wirecard spielen eine wesentliche Rolle. Eben unter anderem die für digitalen Vertrieb. Also da sind …
 >
@@ -366,39 +314,35 @@ _Freiheitsentzug vor dem Urteil bei dringendem Tatverdacht und Flucht- oder Verd
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 57:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3446) · [[Transkript 158#Minute 57|im Transkript]]
 
-## In diesen Folgen (15)
+## In diesen Folgen (16)
 
+- [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Minute [4:37](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=277), [12:25](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=745), [49:47](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=2987), [51:31](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=3091)
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes · Minute [0:39](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=39), [3:00](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o?t=180)
-- [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — Shownotes · Minute [25:13](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1513)
-- [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — Shownotes · Minute [3:08](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=188), [59:40](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3580)
-- [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37 – Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verbrachte (Teil 2)]] (2023-02-12) — Shownotes · Minute [2:07](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=127), [9:01](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=541), [49:43](https://open.spotify.com/episode/68UsEQyZAifvWeT5z1Eht6?t=2983)
+- [[032 Freshfields' Top-Anwalt auf der Anklagebank|#32 – Freshfields' Top-Anwalt auf der Anklagebank]] (2023-01-01) — Shownotes · Minute [25:05](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H?t=1505)
 - [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46 – Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank]] (2023-06-17) — Minute [0:42](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=42), [10:05](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=605), [19:10](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1150), [20:47](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE?t=1247)
 - [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48 – Wie ein Korruptionsbekämpfer selbst korrupt wurde: Der tiefe Fall eines Oberstaatsanwalts]] (2023-07-15) — Shownotes · Minute [30:12](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=1812), [33:50](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=2030), [35:27](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=2127), [41:52](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF?t=2512)
-- [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes · Minute [0:06](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=6), [16:43](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1003), [38:33](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2313), [47:11](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2831)
-- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:06](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=6), [2:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=173), [26:39](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=1599), [48:32](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2912)
+- [[066 Russland-Spionage beim Bundesnachrichtendienst|#66 – Russland-Spionage beim Bundesnachrichtendienst]] (2024-01-27) — Minute [5:53](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=353), [16:13](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=973)
+- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes · Minute [0:06](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=6), [2:53](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=173), [48:32](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=2912), [50:13](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h?t=3013)
 - [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98 – Update nach Sympatex-Skandal: Wie es mit Goetzpartners nach der Inhaftierung der Eigentümer weitergeht]] (2024-10-20) — Shownotes · Minute [0:31](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=31), [2:11](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=131), [4:05](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=245), [5:35](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=335)
-- [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes · Minute [2:12](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=132), [12:51](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=771), [1:08:05](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=4085)
+- [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Minute [0:48](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=48), [15:06](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=906), [35:30](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=2130)
+- [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes · Minute [1:21](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=81), [12:51](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=771), [1:08:05](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM?t=4085)
 - [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes · Minute [1:58](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=118), [3:46](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=226), [10:25](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=625), [13:27](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=807)
-- [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Minute [5:10](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=310), [26:42](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1602), [49:07](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2947), [52:08](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=3128)
+- [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Minute [5:10](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=310), [6:55](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=415), [26:42](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=1602), [49:07](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=2947)
 - [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Shownotes · Minute [4:24](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=264), [5:59](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=359), [22:16](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom?t=1336)
-- [[123 Der Fall Daniel Starr Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nic|#123 – Der Fall Daniel Starr: Deutsche Justiz jagt US-Unternehmer – und der weiß jahrelang nicht, warum]] (2025-08-24) — Minute [9:31](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=571), [14:44](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=884), [18:07](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1087), [22:06](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V?t=1326)
-- [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128 – Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft?]] (2025-10-19) — Minute [6:29](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=389), [8:01](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=481), [26:57](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=1617)
+- [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128 – Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft?]] (2025-10-19) — Minute [6:29](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=389), [8:01](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=481), [26:57](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=1617), [29:01](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus?t=1741)
+- [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Minute [3:04](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=184), [39:31](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2371), [41:05](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2465)
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [31:31](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1891), [33:46](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2026), [43:09](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2589), [57:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3446)
 
-## Kurz erwähnt (13)
+## Kurz erwähnt (8)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Minute [12:26](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=746), [42:38](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ?t=2558)
-- [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Minute [4:37](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=277), [12:25](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=745), [49:47](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=2987), [51:31](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk?t=3091)
 - [[011 Cum-Ex und Wirecard Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kron|#11 – Cum-Ex und Wirecard: Bei der Aufklärung kommt es auf Steueranwalt Hanno Berger und Kronzeuge Oliver Bellenhaus an]] (2022-04-10) — Minute [21:10](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE?t=1270)
 - [[036 Cum-Ex-Prozess Hanno Berger verurteilt|#36 – Cum-Ex-Prozess: Hanno Berger verurteilt]] (2022-12-13) — Minute [9:41](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=581), [13:06](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=786), [33:55](https://open.spotify.com/episode/23bocvz3V9uhwCsgSXCOZT?t=2035)
 - [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47 – Wie drei Tonnen Gold verschwanden: Der PIM-Gold-Skandal]] (2023-07-01) — Minute [4:43](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=283), [24:20](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1460), [29:48](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd?t=1788)
-- [[066 Russland-Spionage beim Bundesnachrichtendienst|#66 – Russland-Spionage beim Bundesnachrichtendienst]] (2024-01-27) — Minute [5:53](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=353), [16:13](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe?t=973)
+- [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Minute [16:43](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=1003), [38:33](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2313), [47:11](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4?t=2831)
 - [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Minute [4:11](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=251), [51:10](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3070), [55:43](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=3343)
-- [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Minute [0:48](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=48), [15:06](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=906), [35:30](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N?t=2130)
-- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [22:53](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=1373), [35:16](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2116), [37:33](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2253)
-- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Minute [2:05](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=125), [1:04:36](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=3876), [1:11:49](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4309)
-- [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Minute [3:04](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=184), [39:31](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2371)
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [14:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=888), [34:15](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2055), [45:27](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2727), [54:36](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3276)
-- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [31:31](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1891), [33:46](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2026), [43:09](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2589), [57:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3446)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [35:16](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2116), [36:53](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2213)
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [14:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=888), [34:15](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2055), [54:36](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3276)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

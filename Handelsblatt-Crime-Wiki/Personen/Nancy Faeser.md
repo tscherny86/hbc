@@ -30,11 +30,11 @@ Rund ein Jahr nach der Demission wurde die Affäre zum Bumerang: CDU-Abgeordnete
 >
 > — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 3:18](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=198) · [[Transkript 054#Minute 3|im Transkript]]
 
-> … ne? Wir wissen aus ganz vielen Hintergrundgesprächen, dass der enge Zirkel von Feser schon an Tag 1 nach der Böbermann-Sendung eigentlich den Entschluss gefasst hat, dass das oberste Ziel lauten muss, Schaden vom Amt …
+> … ne? Wir wissen aus ganz vielen Hintergrundgesprächen, dass der enge Zirkel von Faeser schon an Tag 1 nach der Böhmermann-Sendung eigentlich den Entschluss gefasst hat, dass das oberste Ziel lauten muss, Schaden vom Amt …
 >
 > — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 28:01](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1681) · [[Transkript 054#Minute 28|im Transkript]]
 
-> … der hat dann zwar etwas später, aber auch einen Protestbrief an Frau Feser geschrieben. Und da wird er auch sehr deutlich. Also er wirft da der Ministerin vor, die Behörde im Stich zu lassen. …
+> … der hat dann zwar etwas später, aber auch einen Protestbrief an Frau Faeser geschrieben. Und da wird er auch sehr deutlich. Also er wirft da der Ministerin vor, die Behörde im Stich zu lassen. …
 >
 > — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 32:12](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1932) · [[Transkript 054#Minute 32|im Transkript]]
 

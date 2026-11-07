@@ -76,7 +76,7 @@ Das Gericht ist auch für Verfahren aus dem Umfeld der Bonner Behörden und der 
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 14:02](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=842) · [[Transkript 087#Minute 14|im Transkript]]
 
-> … nicht so, dass Herr Olearus diese Rechnung seiner vier Verteidiger einfach dem Landgericht Bonn vorlegt und das Landgericht Bonn dann einen Stempel drauf setzt und das Geld auf das Konto von Herrn Olearus zurück …
+> … nicht so, dass Herr Olearius diese Rechnung seiner vier Verteidiger einfach dem Landgericht Bonn vorlegt und das Landgericht Bonn dann einen Stempel drauf setzt und das Geld auf das Konto von Herrn Olearius zurück …
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 25:45](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=1545) · [[Transkript 087#Minute 25|im Transkript]]
 
@@ -84,11 +84,11 @@ Das Gericht ist auch für Verfahren aus dem Umfeld der Bonner Behörden und der 
 >
 > — [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87]], [Minute 30:05](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ?t=1805) · [[Transkript 087#Minute 30|im Transkript]]
 
-> … die erste Anklage vorgelegt. Und da kamen zwei britische Börsenhändler vor dem Landgericht Bonn, mussten sie sich verantworten. Und diese Anklage stammte eben auch aus der Feder von Anne Brauerhöker. Also diese zwei Börsenhändler, …
+> … die erste Anklage vorgelegt. Und da kamen zwei britische Börsenhändler vor dem Landgericht Bonn, mussten sie sich verantworten. Und diese Anklage stammte eben auch aus der Feder von Anne Brorhilker. Also diese zwei Börsenhändler, …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 3:40](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=220) · [[Transkript 095#Minute 3|im Transkript]]
 
-> … Köln, also nach Köln zu Frau Bruchelker und nach Bonn, wo am Landgericht Bonn der erste Cum-Ex-Prozess ja zu dieser Zeit schon lief. Und wir sind bei Herrn Biesenbach, der gesagt hat, der Rechtsstaat …
+> … Köln, also nach Köln zu Frau Brorhilker und nach Bonn, wo am Landgericht Bonn der erste Cum-Ex-Prozess ja zu dieser Zeit schon lief. Und wir sind bei Herrn Biesenbach, der gesagt hat, der Rechtsstaat …
 >
 > — [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95]], [Minute 23:27](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU?t=1407) · [[Transkript 095#Minute 23|im Transkript]]
 
@@ -116,7 +116,7 @@ Das Gericht ist auch für Verfahren aus dem Umfeld der Bonner Behörden und der 
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 21:51](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1311) · [[Transkript 121#Minute 21|im Transkript]]
 
-> … bestimmte Namen auftauchen, ne, Frau Broerhilke, sei Kai-Uwe Steck oder der Roland Zickler, der Richter, dann redet er sich schon so ein bisschen in Rage, ne. Er bezeichnet sie dann nicht als dumme Kuh …
+> … bestimmte Namen auftauchen, ne, Frau Brorhilker, sei Kai-Uwe Steck oder der Roland Zickler, der Richter, dann redet er sich schon so ein bisschen in Rage, ne. Er bezeichnet sie dann nicht als dumme Kuh …
 >
 > — [[121 Hanno Berger – ein Gespräch mit dem inhaftierten Steueranwalt|#121]], [Minute 31:03](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt?t=1863) · [[Transkript 121#Minute 31|im Transkript]]
 
