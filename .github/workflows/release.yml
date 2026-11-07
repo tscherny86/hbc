@@ -1,6 +1,7 @@
 # Legt für jede Version aus CHANGELOG.md, die noch kein GitHub-Release hat, das Release vX.Y.Z an.
 # Steht in der Kopfzeile ein Commit (nachträgliche Historie), zeigt das Release dorthin, sonst auf den aktuellen.
 name: Release
+# Logik in scripts/release.mjs – dasselbe Skript läuft am PC und in GitLab CI (Regel „GitHub-Unabhängigkeit“, 07.11.2026).
 
 on:
   push:
@@ -21,21 +22,4 @@ jobs:
       - name: Fehlende Releases anlegen
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          set -euo pipefail
-          CUR=$(node -p "require('./package.json').version")
-          for V in $(grep -oP '^## \K[0-9]+\.[0-9]+\.[0-9]+' CHANGELOG.md | tac); do
-            TAG="v$V"
-            if gh release view "$TAG" >/dev/null 2>&1; then continue; fi
-            awk -v v="$V" '/^## / { if (found) exit; if (index($0, "## " v) == 1) { found = 1; next } } found { print }' CHANGELOG.md > notes.md
-            SHA=$(grep -m1 "^## $V " CHANGELOG.md | grep -oP '`\K[0-9a-f]{7,40}(?=`)' | head -1 || true)
-            if [ -n "$SHA" ]; then SHA=$(git rev-parse "$SHA^{commit}"); else SHA="$GITHUB_SHA"; fi
-            LATEST=$([ "$V" = "$CUR" ] && echo true || echo false)
-            if git rev-parse -q --verify "refs/tags/$TAG" >/dev/null; then
-              gh release create "$TAG" --verify-tag --title "Handelsblatt Crime Fanwiki $V" --notes-file notes.md --latest=$LATEST \
-                || echo "::warning::Release $TAG konnte nicht angelegt werden."
-            else
-              gh release create "$TAG" --target "$SHA" --title "Handelsblatt Crime Fanwiki $V" --notes-file notes.md --latest=$LATEST \
-                || echo "::warning::Release $TAG konnte nicht angelegt werden (Commit $SHA)."
-            fi
-          done
+        run: node scripts/release.mjs --all-missing --title "Handelsblatt Crime Fanwiki"

@@ -73,3 +73,11 @@ Ist nichts ungeprüft: „alles geprüft, nichts offen“ antworten.
 4. Projekt-Cockpit: das Projekt ist in `cockpit.config.ts` (Repo `tscherny86/projekt-cockpit`, lokal
    `C:\Users\tsche\OneDrive\Projekt-Cockpit`) eingetragen; dort ist nur etwas zu tun, wenn Repo, Live-URL oder
    Dateinamen sich ändern.
+
+## Ohne GitHub prüfen und Releases anlegen (Notfallweg)
+
+Seit der GitHub-Sperre vom 07.11.2026 hängt nichts mehr allein an GitHub. Code liegt lokal, auf GitHub und privat auf GitLab (`gitlab.com/tschernutter/hbc`); `git push origin` geht zuerst an GitLab.
+
+- **Prüfen:** `python scripts/ci.py` (Website in einen Temp-Ordner bauen, Artikel und Version prüfen; veröffentlicht nichts) – dasselbe Skript ruft GitLab CI (`.gitlab-ci.yml`, Runner acespc) auf.
+- **Release:** `node scripts/release.mjs --all-missing --title "Handelsblatt Crime Fanwiki"` legt fehlende Tags `vX.Y.Z` und Releases mit dem CHANGELOG-Abschnitt an – auf GitLab (glab) und, wenn erreichbar, auf GitHub (gh). `--dry-run` zeigt nur an.
+- **Veröffentlichen: NEIN, bis Alex entschieden hat.** Volltranskripte eines fremden Podcasts ohne Erlaubnis (möglicher Auslöser der GitHub-Sperre). `pages.yml` läuft nur per Hand und nur mit der Repo-Variable `PAGES_FREIGABE=ja`; GitLab CI hat keinen Pages-Job; keine Veröffentlichung auf Netlify, Vercel oder anderswo.

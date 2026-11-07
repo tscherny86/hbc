@@ -1,0 +1,30 @@
+# GitLab CI für das Handelsblatt Crime Fanwiki (Regel „GitHub-Unabhängigkeit“, 07.11.2026) – dieselben Skripte wie am PC.
+#   ci      : python scripts/ci.py (Website bauen ohne Veröffentlichen, Artikel und Version prüfen)
+#   release : scripts/release.mjs --all-missing (Tags vX.Y.Z + CHANGELOG-Abschnitte als GitLab-Releases)
+# Runner: acespc (Alex' PC, Windows, Shell-Executor PowerShell). Das GitLab-Projekt ist privat.
+# KEIN Pages-Job: Die Seite wird nicht veröffentlicht, bis Alex entschieden hat (Volltranskripte ohne Erlaubnis).
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+    - if: $CI_COMMIT_BRANCH
+
+default:
+  tags: [acespc]
+
+variables:
+  PYTHONUTF8: "1"
+
+ci:
+  script:
+    - python scripts/ci.py
+
+release:
+  stage: deploy
+  needs: [ci]
+  variables:
+    GIT_DEPTH: "0"
+  script:
+    - node scripts/release.mjs --all-missing --title "Handelsblatt Crime Fanwiki"
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+      changes: [package.json, CHANGELOG.md]

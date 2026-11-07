@@ -4,6 +4,10 @@ Neueste Version oben. Jede ausgelieferte Version bekommt hier einen Eintrag und 
 (legt `.github/workflows/release.yml` automatisch an). Uhrzeiten in MEZ.
 Neue Transkripte (Commits „Transkript NNN“) sind Inhalt, keine eigene Version.
 
+## Unveröffentlicht
+
+- Betrieb (07.11.2026, GitHub-Sperre): `scripts/ci.py` und `scripts/release.mjs`; `release.yml` und die neue `.gitlab-ci.yml` (Runner acespc) rufen nur noch diese Skripte auf. `pages.yml` läuft nicht mehr bei Push, nur per Hand mit `PAGES_FREIGABE=ja` (Veröffentlichung gesperrt, bis Alex entscheidet). Keine neue Version, die Seite ist unverändert.
+
 ## 1.0.0 – 07.11.2026
 - **Alle 160 Folgen transkribiert** (faster-whisper `large-v3-turbo` auf der GPU, zwei Prozesse parallel, 1,23 Mio. Wörter) und **vollständig geprüft**: 156 Folgen von 33 Helfergruppen Zeile für Zeile Korrektur gelesen, 4 Folgen mit dem offiziellen Podigee-Transkript abgeglichen (Übereinstimmung 62–87 %). **4.469 Korrekturregeln, 9.117 Korrekturen** – vor allem Namen (Brorhilker in über 30 Hörvarianten, Marsalek, Olearius, Iwersen, Karabasz, Votsmeier, Signa, Veltins, Erffa), Firmen und Alltagswörter.
 - **Artikel:** 81 Fälle, 43 Themen, 45 Unternehmen, 89 Personen (Hosts, Investigativ-Team, Protagonisten); neu die Fälle **Greensill Bank** und **Gröner Group**. Über 5.400 Zitate mit Link zur Minute.

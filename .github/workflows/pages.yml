@@ -1,9 +1,8 @@
+# NICHT VERÖFFENTLICHEN (07.11.2026): Volltranskripte eines fremden Podcasts ohne Erlaubnis, möglicher Auslöser der
+# GitHub-Sperre. Läuft nur per Hand UND nur, wenn Alex die Repo-Variable PAGES_FREIGABE=ja setzt.
 name: Website (GitHub Pages)
 
 on:
-  push:
-    branches: [main]
-    paths: ["Handelsblatt-Crime-Wiki/**", "site/**", "scripts/build_site.py", ".github/workflows/pages.yml", "package.json"]
   workflow_dispatch:
 
 permissions:
@@ -17,6 +16,7 @@ concurrency:
 
 jobs:
   deploy:
+    if: ${{ vars.PAGES_FREIGABE == 'ja' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
