@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
 | **Themen** | [[Anlegerbetrug]], [[Insolvenz]], [[Insolvenzverwalter]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Greensill Bank]], [[BaFin]] |
+| **Personen** | [[Lex Greensill]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

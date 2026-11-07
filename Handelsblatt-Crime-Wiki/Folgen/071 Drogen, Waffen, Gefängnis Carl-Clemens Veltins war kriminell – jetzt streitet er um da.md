@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Erbstreit Veltins]] |
 | **Themen** | [[Erbstreit]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Christian Heinemann]] |
+| **Unternehmen** | [[Veltins]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Christian Heinemann]], [[Carl-Clemens Veltins]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

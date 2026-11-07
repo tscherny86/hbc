@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Signa und René Benko]] |
 | **Themen** | – |
-| **Unternehmen** | – |
-| **Personen** | [[René Bender]] |
+| **Unternehmen** | [[Signa]] |
+| **Personen** | [[René Bender]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

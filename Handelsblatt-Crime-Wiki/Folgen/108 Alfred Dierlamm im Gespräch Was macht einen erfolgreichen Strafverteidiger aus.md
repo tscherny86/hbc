@@ -19,10 +19,10 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 1:04:59 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2hO798bqzO7rDyqBovfxrI) · [MP3](https://audio.podigee-cdn.net/1759455-m-5662d25fdca755c5d08be03e32b6d7a0.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/108-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Wirecard]], [[Kai-Uwe Steck]] |
+| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Wirecard]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Markus Braun]], [[Kai-Uwe Steck]], [[Alfred Dierlamm]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

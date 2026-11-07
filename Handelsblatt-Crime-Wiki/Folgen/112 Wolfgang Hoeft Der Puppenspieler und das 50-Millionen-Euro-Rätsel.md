@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wolfgang Hoeft und die MW-Gruppe]] |
 | **Themen** | [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Handelsblatt]] |
+| **Personen** | [[Wolfgang Hoeft]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Anne Brorhilker]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

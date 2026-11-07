@@ -21,7 +21,7 @@ tags: [folge, jahr-2026, sonder]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Datenleck]], [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
 | **Personen** | [[Ina Karabasz]], [[Christian Heinemann]], [[Sebastian Matthes]] |
 | **Kurz erwähnt** | – |
 

@@ -19,10 +19,10 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 53:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/28EMYUUkVJmn9UpeTZGbPt) · [MP3](https://audio.podigee-cdn.net/1984459-m-a5d7e57502bc1c82317798b475818646.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/121-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Kai-Uwe Steck]] |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]], [[Anne Brorhilker]], [[Kai-Uwe Steck]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

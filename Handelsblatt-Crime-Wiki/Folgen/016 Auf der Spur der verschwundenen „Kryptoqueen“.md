@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Kryptoqueen Ruja Ignatova]] |
 | **Themen** | – |
-| **Unternehmen** | – |
-| **Personen** | [[Lars-Marten Nagel]] |
+| **Unternehmen** | [[OneCoin]] |
+| **Personen** | [[Lars-Marten Nagel]], [[Ruja Ignatova]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

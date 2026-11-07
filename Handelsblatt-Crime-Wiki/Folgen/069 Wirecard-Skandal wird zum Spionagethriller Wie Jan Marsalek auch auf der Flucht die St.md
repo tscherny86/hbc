@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Insolvenz]], [[Kronzeuge]], [[Untersuchungshaft]], [[Spionage]] |
-| **Unternehmen** | – |
-| **Personen** | [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Handelsblatt]] |
+| **Personen** | [[Michael Verfürden]], [[René Bender]], [[Jan Marsalek]], [[Oliver Bellenhaus]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

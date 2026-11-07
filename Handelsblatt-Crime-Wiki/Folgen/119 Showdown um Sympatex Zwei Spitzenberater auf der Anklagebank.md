@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Sympatex-Betrug]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]] |
+| **Unternehmen** | [[Sympatex]] |
+| **Personen** | [[Solveig Gode]], [[Stefan Sanktjohanser]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Adler Group]] |
 | **Themen** | [[Betrug]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[KPMG]], [[BaFin]] |
+| **Personen** | [[Stefan Kirsten]], [[Cevdet Caner]], [[Fraser Perring]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Porsche-Ikone vor Gericht]] |
 | **Themen** | [[Insolvenz]], [[Steuerfahndung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Porsche]], [[Gröner Group]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Michael Verfürden]], [[René Bender]], [[Christoph Gröner]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

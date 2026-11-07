@@ -19,10 +19,10 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 43:26 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/589VPbj6XYvVZjsaekteP8) · [MP3](https://audio.podigee-cdn.net/1351460-m-e15236060f42481451ec8471ab2543ac.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/67-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[Signa und René Benko]], [[Elbtower]], [[HSH Nordbank (Cum-Ex)]] |
+| **Fälle** | [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[Signa und René Benko]], [[Elbtower]] |
 | **Themen** | [[Insolvenz]], [[Landesbanken]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Signa]], [[HSH Nordbank]] |
+| **Personen** | [[Olaf Scholz]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

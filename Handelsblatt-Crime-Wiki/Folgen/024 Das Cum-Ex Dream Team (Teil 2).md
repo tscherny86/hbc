@@ -22,7 +22,7 @@ tags: [folge, jahr-2022, folge]
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Hanno Berger]], [[Kai-Uwe Steck]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

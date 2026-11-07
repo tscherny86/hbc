@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]] |
 | **Themen** | [[Kronzeuge]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Felix Holtermann]] |
+| **Unternehmen** | [[Landgericht München]] |
+| **Personen** | [[Felix Holtermann]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Markus Födisch]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Schlecker-Insolvenz]] |
 | **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Bankrott und Vermögensverschleierung]], [[Untreue]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
+| **Unternehmen** | [[Schlecker]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Anton Schlecker]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

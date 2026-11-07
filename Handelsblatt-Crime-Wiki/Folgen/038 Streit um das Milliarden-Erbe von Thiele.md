@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Erbstreit Thiele]] |
 | **Themen** | [[Erbstreit]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Knorr-Bremse]] |
+| **Personen** | [[Heinz Hermann Thiele]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

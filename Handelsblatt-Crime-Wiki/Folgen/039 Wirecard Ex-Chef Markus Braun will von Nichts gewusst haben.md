@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Untreue]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Vinzenz Neumaier]], [[René Bender]] |
+| **Unternehmen** | [[Landgericht München]] |
+| **Personen** | [[Vinzenz Neumaier]], [[René Bender]], [[Jan Marsalek]], [[Markus Braun]], [[Oliver Bellenhaus]], [[Alfred Dierlamm]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

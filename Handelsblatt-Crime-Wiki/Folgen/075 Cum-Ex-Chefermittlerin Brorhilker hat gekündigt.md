@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Anne Brorhilker]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

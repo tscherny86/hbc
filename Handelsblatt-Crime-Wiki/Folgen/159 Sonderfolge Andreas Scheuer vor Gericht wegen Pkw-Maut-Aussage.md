@@ -22,8 +22,8 @@ tags: [folge, jahr-2026, sonder]
 | **Fälle** | [[Pkw-Maut und Andreas Scheuer]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]], [[Falschaussage]] |
 | **Unternehmen** | – |
-| **Personen** | – |
-| **Kurz erwähnt** | [[Cum-Ex]], [[Signa und René Benko]], [[Cum-Ex-Geschäfte]] |
+| **Personen** | [[René Benko]], [[Andreas Scheuer]] |
+| **Kurz erwähnt** | [[Cum-Ex]], [[Signa und René Benko]], [[Olaf Scholz]], [[Cum-Ex-Geschäfte]], [[Signa]] |
 
 ## Shownotes
 

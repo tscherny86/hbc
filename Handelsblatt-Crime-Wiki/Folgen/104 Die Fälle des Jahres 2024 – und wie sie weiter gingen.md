@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Very Private Equity (Triton)]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Insolvenz]], [[Steuerhinterziehung]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Gröner Group]], [[Staatsanwaltschaft Köln]], [[Triton Partners]] |
+| **Personen** | [[Jan Marsalek]], [[Anne Brorhilker]], [[Christoph Gröner]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

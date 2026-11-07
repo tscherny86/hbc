@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Thomas Lloyd]] |
 | **Themen** | [[Anlegerbetrug]], [[Wirtschaftsprüfung]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[ThomasLloyd]] |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |
 

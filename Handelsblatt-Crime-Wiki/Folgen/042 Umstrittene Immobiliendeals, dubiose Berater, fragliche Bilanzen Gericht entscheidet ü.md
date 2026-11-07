@@ -21,7 +21,7 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Adler Group]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[BaFin]] |
 | **Personen** | [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |
 

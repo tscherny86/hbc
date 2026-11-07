@@ -21,7 +21,7 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Sympatex-Betrug]] |
 | **Themen** | [[Betrug]], [[Anlegerbetrug]], [[Insolvenz]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Sympatex]], [[Handelsblatt]] |
 | **Personen** | [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |
 

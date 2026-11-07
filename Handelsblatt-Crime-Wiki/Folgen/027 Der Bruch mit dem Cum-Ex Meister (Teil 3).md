@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[KPMG]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Hanno Berger]], [[Kai-Uwe Steck]], [[Olaf Scholz]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

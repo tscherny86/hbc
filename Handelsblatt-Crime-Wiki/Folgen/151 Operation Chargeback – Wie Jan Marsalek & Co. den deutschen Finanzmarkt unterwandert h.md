@@ -22,7 +22,7 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Operation Chargeback]] |
 | **Themen** | [[Bankrott und Vermögensverschleierung]], [[Geldwäsche]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
+| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]], [[Jan Marsalek]], [[Mirko Hüllemann]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

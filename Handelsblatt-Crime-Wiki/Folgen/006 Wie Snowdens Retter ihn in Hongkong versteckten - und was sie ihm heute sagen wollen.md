@@ -19,10 +19,10 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 50:33 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2189uJvoM6mSszGDVp6fjC) · [MP3](https://audio.podigee-cdn.net/663898-m-1f00537f3a06efbb7e7d85b67c30a080.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/6-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Edward Snowden]] |
+| **Fälle** | [[Fall Edward Snowden]] |
 | **Themen** | [[Whistleblower]], [[Spionage]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]] |
+| **Unternehmen** | [[Handelsblatt]] |
+| **Personen** | [[Sönke Iwersen]], [[Edward Snowden]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

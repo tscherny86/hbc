@@ -21,7 +21,7 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Ergo-Lustreisen]] |
 | **Themen** | – |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Ergo]], [[Handelsblatt]] |
 | **Personen** | [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |
 

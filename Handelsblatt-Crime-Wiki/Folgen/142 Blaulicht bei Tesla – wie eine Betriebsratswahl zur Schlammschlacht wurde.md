@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]] |
 | **Themen** | [[Betriebsrat und Mitbestimmung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
+| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Elon Musk]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

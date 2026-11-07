@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Degag-Pleite]] |
 | **Themen** | [[Anlegerbetrug]], [[Insolvenz]], [[Immobilienkrise]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
+| **Unternehmen** | [[Degag]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Birger Dehne]], [[Bernd Klein]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

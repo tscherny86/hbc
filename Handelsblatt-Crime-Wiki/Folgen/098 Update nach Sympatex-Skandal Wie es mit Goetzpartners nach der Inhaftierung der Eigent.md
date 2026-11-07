@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Sympatex-Betrug]] |
 | **Themen** | [[Betrug]], [[Untreue]], [[Marktmanipulation]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Sympatex]], [[Goetzpartners]] |
+| **Personen** | [[Stephan Goetz]], [[Stefan Sanktjohanser]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

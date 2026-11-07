@@ -24,6 +24,23 @@ Seit 2024 stabilisieren sich die Preise, der Markt für Projektentwicklungen ble
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … hat in den vergangenen zehn Jahren in Berlin aus dem Nichts eine Immobiliengruppe aufgebaut und dann in eine schwere Krise geführt. Er könnte einer von vielen Projektentwicklern sein, die in den vergangenen Jahren durch …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 0:57](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=57) · [[Transkript 155#Minute 0|im Transkript]]
+
+> … Form von sehr hochverzinsten, bis zu 15 Prozent verzinsten sogenannten Mesanin-Darlehen an Projektentwickler aus dem deutschen Immobilienbereich weiter. Genau. Also, Mesanin-Darlehen, das ist für euch im Finanzressort in Frankfurt, glaube ich, Tagesgeschäft. Für uns …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 14:19](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=859) · [[Transkript 155#Minute 14|im Transkript]]
+
+> … diese Gelder in den Virios-Fonds investieren konnten, der wiederum das Geld an Projektentwickler wie den Herrn M. und die Hedera Bauwert weitergibt, da muss man schon sehr stark in die Trickkiste der Finanzstrukturierer greifen …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 17:51](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=1071) · [[Transkript 155#Minute 17|im Transkript]]
+
+> … man das beschreiben. Natürlich investiert der Fonds dann auch Gelder bei anderen Projektentwicklern. Wir haben da mal so interne Listen gesehen und können deshalb heute mit gutem Gewissen sagen, da waren viele dabei, die …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 21:45](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=1305) · [[Transkript 155#Minute 21|im Transkript]]
 
 ## In diesen Folgen (12)
 
@@ -38,7 +55,7 @@ Seit 2024 stabilisieren sich die Preise, der Markt für Projektentwicklungen ble
 - [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128 – Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft?]] (2025-10-19) — Shownotes
 - [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
-- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Shownotes
+- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Shownotes · Minute [0:57](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=57), [14:19](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=859), [17:51](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=1071), [21:45](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=1305)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

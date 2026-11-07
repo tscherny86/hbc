@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Russische Oligarchen und Sanktionen]], [[Megajachten-Sanktionen]] |
 | **Themen** | [[Korruption und Bestechung]], [[Sanktionen]] |
-| **Unternehmen** | – |
-| **Personen** | [[Martin Murphy]] |
+| **Unternehmen** | [[Handelsblatt]] |
+| **Personen** | [[Martin Murphy]], [[Olaf Scholz]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

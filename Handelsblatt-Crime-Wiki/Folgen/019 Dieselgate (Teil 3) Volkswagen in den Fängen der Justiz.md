@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
 | **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]], [[Vergleich und Bußgeld]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Volkswagen]], [[Audi]] |
+| **Personen** | [[Martin Winterkorn]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

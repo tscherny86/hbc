@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, team]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
 | **Themen** | – |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Handelsblatt]] |
 | **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | – |
 

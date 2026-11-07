@@ -22,7 +22,7 @@ tags: [folge, jahr-2022, folge]
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Betrug]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Hanno Berger]], [[Wolfgang Kubicki]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

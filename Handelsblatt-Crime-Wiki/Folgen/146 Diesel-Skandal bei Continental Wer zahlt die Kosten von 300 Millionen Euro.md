@@ -21,7 +21,7 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Cyberangriff auf Continental]], [[Continental-Dieselskandal]] |
 | **Themen** | [[Abgasmanipulation]], [[Compliance]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Continental]] |
 | **Personen** | – |
 | **Kurz erwähnt** | – |
 

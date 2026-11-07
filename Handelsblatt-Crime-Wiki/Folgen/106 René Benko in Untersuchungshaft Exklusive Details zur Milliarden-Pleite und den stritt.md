@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Signa und René Benko]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untreue]], [[Korruption und Bestechung]], [[Untersuchungshaft]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[René Bender]] |
+| **Unternehmen** | [[Signa]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[René Bender]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

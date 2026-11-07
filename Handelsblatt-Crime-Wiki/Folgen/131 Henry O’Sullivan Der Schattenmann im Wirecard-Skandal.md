@@ -22,7 +22,7 @@ tags: [folge, jahr-2025, folge]
 | **Fälle** | [[Wirecard]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek und das russische Spionagenetzwerk]], [[Henry O’Sullivan]] |
 | **Themen** | [[Insolvenz]] |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]] |
+| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]], [[Jan Marsalek]], [[Henry O'Sullivan]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

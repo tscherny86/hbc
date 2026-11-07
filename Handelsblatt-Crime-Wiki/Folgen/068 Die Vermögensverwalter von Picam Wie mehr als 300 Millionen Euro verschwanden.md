@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Picam]] |
 | **Themen** | [[Betrug]], [[Schneeballsystem]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[BaFin]] |
+| **Personen** | [[Thomas Entzeroth]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

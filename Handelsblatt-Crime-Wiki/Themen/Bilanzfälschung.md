@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 7
+folgen: 6
 tags: [themen]
 ---
 # Bilanzfälschung
@@ -24,7 +24,7 @@ _Vorsätzlich falsche Darstellung der Vermögens- und Ertragslage in Jahresabsch
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (7)
+## In diesen Folgen (6)
 
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes
 - [[050 Was hat es mit dem Brief von Jan Marsalek auf sich|#50 – Was hat es mit dem Brief von Jan Marsalek auf sich?]] (2023-07-20) — Shownotes
@@ -32,7 +32,6 @@ _Vorsätzlich falsche Darstellung der Vermögens- und Ertragslage in Jahresabsch
 - [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes
 - [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Shownotes
 - [[149 Update für Handelsblatt Crime Live – Wir legen nach!|#149 – Update für Handelsblatt Crime Live – Wir legen nach!]] (2026-05-10) — Shownotes
-- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Shownotes
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

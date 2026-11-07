@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Prominente und die Steuerfahndung]], [[Wolf of High Street – Uwe Reppegather und Centrum]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untreue]], [[Immobilienkrise]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Centrum Gruppe]] |
+| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]], [[Uwe Reppegather]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

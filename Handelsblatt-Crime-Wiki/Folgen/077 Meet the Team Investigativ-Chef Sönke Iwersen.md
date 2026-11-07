@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, team]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Ergo-Lustreisen]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]] |
+| **Unternehmen** | [[Ergo]], [[Handelsblatt]] |
+| **Personen** | [[Sönke Iwersen]], [[Kai-Uwe Steck]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

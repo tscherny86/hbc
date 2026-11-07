@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Very Private Equity (Triton)]] |
 | **Themen** | [[Private Equity]], [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Handelsblatt]], [[Triton Partners]] |
 | **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |
 

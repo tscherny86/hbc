@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Marsalek und das russische Spionagenetzwerk]], [[Degag-Pleite]] |
 | **Themen** | [[Anlegerbetrug]], [[Insolvenz]], [[Insolvenzverwalter]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Christian Heinemann]] |
+| **Unternehmen** | [[Degag]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Christian Heinemann]], [[Jan Marsalek]], [[Birger Dehne]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

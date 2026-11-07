@@ -21,7 +21,7 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Whistleblower]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |
 

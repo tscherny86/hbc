@@ -22,6 +22,15 @@ Kritiker bemängeln, dass Vergleiche und Bußgelder Verantwortung verwischen: Di
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … damals auch hohe Wellen geschlagen, der Film. Das ist ganz interessant, dieser Gecko-Vergleich, weil das Outfit, mit dem M da ins Gericht gekommen ist und seine Zeugenaussage gemacht hat, das hat mich tatsächlich eher …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 10:45](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=645) · [[Transkript 155#Minute 10|im Transkript]]
+
+> … M längst sein. Die Staatsanwaltschaft Hamburg hat Bereitschaft signalisiert, die Ermittlungen gegen Geldauflage einzustellen. Da geht es nochmal um den Vorwurf des Kreditbetrugs im Zusammenhang mit seinem privaten Hauskredit. Da waren mehrere beschuldigt und …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 1:06:23](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3983) · [[Transkript 155#Minute 66|im Transkript]]
 
 ## In diesen Folgen (4)
 
@@ -29,6 +38,10 @@ Kritiker bemängeln, dass Vergleiche und Bußgelder Verantwortung verwischen: Di
 - [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes
 - [[095 Steuerskandal Cum-Ex Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin v|#95 – Steuerskandal Cum-Ex: Wie NRW-Justizminister Benjamin Limbach seine beste Ermittlerin vergraulte]] (2024-09-22) — Shownotes
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes
+
+## Kurz erwähnt (1)
+
+- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [10:45](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=645), [1:06:23](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3983)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

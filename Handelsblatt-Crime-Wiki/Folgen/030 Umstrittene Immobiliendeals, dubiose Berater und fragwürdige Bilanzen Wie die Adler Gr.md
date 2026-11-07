@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Adler Group]] |
 | **Themen** | [[Betrug]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[KPMG]], [[BaFin]] |
+| **Personen** | [[Stefan Kirsten]], [[Fraser Perring]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -1,568 +1,568 @@
 [
-  {
-    "name": "Cum-Ex",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bCum[- ]?Ex\\b",
-      "\\bKummex\\b",
-      "\\bKum[- ]?Ex\\b",
-      "\\bCum[- ]?Cum\\b",
-      "\\bCum[- ]?Ex[- ]Geschäft\\w*"
-    ],
-    "summary": "Deutschlands größter Steuerskandal: Steuern mehrfach erstattet, Schaden rund 12 Mrd. Euro.",
-    "body": "**Cum-Ex** bezeichnet Aktienkreisgeschäfte rund um den Dividendenstichtag: Aktien wurden kurz vor der Ausschüttung mit („cum“) und kurz danach ohne („ex“) Dividendenanspruch gehandelt. Durch das Zusammenspiel von Leerverkäufern, Käufern und Depotbanken entstanden mehrere Bescheinigungen über eine nur einmal abgeführte Kapitalertragsteuer – und der Fiskus erstattete die Steuer mehrfach. Beteiligt waren Großbanken, Landesbanken, Fonds, Steueranwälte und vermögende Privatinvestoren.\n\nDie Lücke im Steuerrecht war dem Gesetzgeber spätestens seit 2002 bekannt, geschlossen wurde sie erst 2012. Der Schaden für die Steuerzahler wird auf rund zehn bis zwölf Milliarden Euro geschätzt. Eng verwandt sind die sogenannten **Cum-Cum-Geschäfte**, bei denen ausländische Aktionäre ihre Dividendenbesteuerung umgingen.\n\nDie strafrechtliche Aufarbeitung begann 2013 bei der Staatsanwaltschaft Köln unter Oberstaatsanwältin Anne Brorhilker. Daraus wurden mehr als 120 Verfahren mit über 1700 Beschuldigten. Wichtige Stationen:\n\n- 2020 erste Urteile des Landgerichts Bonn gegen zwei britische Aktienhändler; der Bundesgerichtshof bestätigte 2021, dass Cum-Ex strafbare Steuerhinterziehung ist.\n- 2022 verurteilte das Landgericht Bonn den Steueranwalt Hanno Berger zu acht Jahren Haft, 2023 folgte ein weiteres Urteil in Wiesbaden.\n- Verfahren gegen die Hamburger Privatbank M.M. Warburg, die WestLB, die HSH Nordbank und zahlreiche weitere Institute.\n\nPolitisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und in Hamburg, wo es um Treffen des damaligen Bürgermeisters Olaf Scholz mit Warburg-Bankier Christian Olearius ging."
-  },
-  {
-    "name": "Prozess gegen Hanno Berger",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bHanno[- ]Berger\\b",
-      "\\bBergers?\\b",
-      "\\bSteuer[- ]?Guru\\b",
-      "\\bMister Cum[- ]?Ex\\b"
-    ],
-    "summary": "Cum-Ex-Architekt, 2012 in die Schweiz geflohen, 2022 in Bonn zu acht Jahren Haft verurteilt.",
-    "min": 8,
-    "body": "Hanno Berger, Jahrgang 1950 und Pfarrerssohn, begann 1981 in der hessischen Finanzverwaltung und stieg zum obersten Bankenprüfer in Frankfurt auf. Dann wechselte er die Seiten: Als Steueranwalt in Großkanzleien und ab 2010 in seiner eigenen Kanzlei im Frankfurter Skyper beriet er Konzerne, Banken und reiche Familien. Die Ermittler nennen ihn den „Spiritus Rector“ der **Cum-Ex-Geschäfte**, bei denen sich Beteiligte Steuern erstatten ließen, die nie gezahlt worden waren.\n\nAls Ermittler im Dezember 2012 seine Kanzlei durchsuchten, setzte sich Berger in die Schweiz ab. Von dort beschimpfte er jahrelang die deutsche Justiz, sprach von einem „Wahndelikt“ und von „Schweinerichtern“. Im Juli 2021 wurde er in Graubünden festgenommen, im Februar 2022 nach Deutschland ausgeliefert.\n\nVor dem Landgericht Bonn ging es um drei Fälle besonders schwerer Steuerhinterziehung zwischen 2007 und 2013 im Zusammenhang mit der Privatbank M.M. Warburg: Steuerschaden rund 278 Millionen Euro, Bergers eigener Gewinn knapp 14 Millionen Euro. Im August 2022 legte er ein überraschendes Teilgeständnis ab – er habe die Geschäfte zumindest ab 2009 „mit bedingtem Vorsatz“ begleitet. Am 13. Dezember 2022 verurteilte ihn das Gericht zu acht Jahren Haft. Ein zweites Verfahren vor dem Landgericht Wiesbaden um Geschäfte mit der Hypovereinsbank endete 2023 mit einer weiteren Haftstrafe von gut acht Jahren. Berger sitzt seither in Haft."
-  },
-  {
-    "name": "Kronzeuge Benjamin Frey",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bBenjamin Frey\\b",
-      "\\bFreys?\\b",
-      "\\bKai[- ]Uwe Steck\\b",
-      "\\bStecks?\\b",
-      "\\bMann mit der Maske\\b"
-    ],
-    "summary": "Bergers Ex-Partner packte 1000 Stunden aus, wurde Cum-Ex-Kronzeuge – und 2024 selbst angeklagt.",
-    "body": "„Benjamin Frey“ ist ein vom Handelsblatt zum Schutz des Zeugen gewählter Alias; später trat der Jurist unter seinem echten Namen Kai-Uwe Steck an die Öffentlichkeit. Der Anwalt stammt aus einem Arbeiterhaushalt in der friesischen Provinz, promovierte 2001 und landete danach in der Steuerabteilung einer amerikanischen Großkanzlei, die Hanno Berger leitete. Berger wurde sein Mentor und „Übervater“, Frey sein Ziehsohn. 2010 gründeten beide eine eigene Kanzlei im 32. Stock des Frankfurter Skyper und machten die größten Unternehmen und reichsten Familien mit **Cum-Ex-Geschäften** reicher – und sich selbst zu Multimillionären.\n\nNach der Razzia 2012 trennten sich die Wege: Berger floh in die Schweiz und forderte Loyalität im Kampf gegen den „Schweinestaat“, Frey entschied sich für die Kooperation mit der Staatsanwaltschaft Köln. Er sagte mehr als 1000 Stunden aus, nannte Daten, Beträge und Kunden und trat in mehreren Bonner Prozessen als wichtigster Kronzeuge auf – im September 2022 auch gegen Berger selbst, der ihn als Lügner und Verräter beschimpfte.\n\nSeine Schilderungen zeichnen das Bild einer Branche, in der Umschläge mit 250.000 Schweizer Franken Bargeld die Hände wechselten und Geschäftspartner mit Rockergruppen drohten. Im Mai 2024 erhob die Staatsanwaltschaft Köln Anklage gegen den Kronzeugen; 2025 musste er sich selbst vor dem Landgericht Bonn verantworten."
-  },
-  {
-    "name": "Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bBrorhilker\\b",
-      "\\bBrorhilker?s\\b",
-      "\\bLimbach\\b",
-      "\\bBiesenbach\\b",
-      "\\bStaatsanwaltschaft Köln\\b",
-      "\\bChefermittlerin\\b"
-    ],
-    "summary": "Machtkampf um die Kölner Cum-Ex-Abteilung: Brorhilker sollte entmachtet werden, kündigte 2024.",
-    "body": "Die Staatsanwaltschaft Köln ist seit 2013 das Zentrum der strafrechtlichen Aufarbeitung des **Cum-Ex-Skandals**. Oberstaatsanwältin Anne Brorhilker nahm damals einen Brandbrief des Anwalts des Milliardärs Erwin Müller zum Anlass, das System zu entschlüsseln, und baute eine Hauptabteilung mit Dutzenden Ermittlern auf. Unter NRW-Justizminister Peter Biesenbach (CDU) wuchs die Zahl der Cum-Ex-Ermittlerstellen ab 2017 von vier auf 36. Zeitweise führte die Behörde rund 120 Verfahren mit mehr als 1600 Beschuldigten.\n\nAb 2022 geriet die Abteilung in einen Justizkonflikt:\n\n- Im März 2023 stellte Ex-Minister Biesenbach eine Dienstaufsichtsbeschwerde gegen den Leiter der Staatsanwaltschaft Köln und dessen Stellvertreter. Vorwurf: Sie behinderten die Arbeit der Cum-Ex-Abteilung.\n- Im Herbst 2023 befürwortete Justizminister Benjamin Limbach (Grüne) Pläne, Brorhilkers Abteilung zu teilen und die Hälfte ihres Personals einem neuen Co-Chef ohne Cum-Ex-Erfahrung zu unterstellen. Nach öffentlicher Kritik, auch aus Hamburg, nahm Limbach die Pläne im Oktober 2023 zurück.\n- Im April 2024 kündigte Brorhilker überraschend. Sie wechselte zur Bürgerbewegung Finanzwende und kritisierte seither öffentlich die lasche Verfolgung von Finanzkriminalität.\n\nDie Behörde selbst rechnete damit, dass die Aufarbeitung noch bis zu 15 Jahre dauern könnte. Der Streit gilt als Beispiel dafür, wie aus einem Steuerskandal ein Justizskandal werden kann."
-  },
-  {
-    "name": "Landesbanken im Cum-Ex-Skandal",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bLandesbank(en)?\\b",
-      "\\bLBBW\\b",
-      "\\bHelaba\\b",
-      "\\bJaschinski\\b",
-      "\\bjustizfreie Zone\\b"
-    ],
-    "summary": "Staatliche Banken griffen mit Cum-Ex in die Steuerkasse – ihre Chefetagen blieben lange unbehelligt.",
-    "body": "Nicht nur Privatbanken, auch die Landesbanken der Bundesländer beteiligten sich an **Cum-Ex-Geschäften** – also an Aktiendeals, mit denen sich Beteiligte eine nur einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Besonders pikant: Die Eigentümer dieser Institute sind die Länder selbst, in den Aufsichts- und Verwaltungsräten saßen Landespolitiker. Die Banken schädigten damit die eigenen Eigentümer.\n\nBeispiele:\n\n- Die **LBBW** in Baden-Württemberg zahlte bereits vor Jahren rund 200 Millionen Euro aus Cum-Ex-Geschäften zurück. Die Staatsanwaltschaft Stuttgart nahm 2013 Ermittlungen auf – mit nur einem einzigen zuständigen Staatsanwalt und ohne erkennbare Fortschritte. Ex-LBBW-Chef Siegfried Jaschinski erklärte, er habe von den Geschäften erst aus der Zeitung erfahren.\n- Die **WestLB** beziehungsweise ihre Nachfolgerin Portigon bildete mehr als 600 Millionen Euro Rückstellungen für Cum-Ex-Altlasten; die Rettung der Bank hatte den Steuerzahler zuvor bis zu 18 Milliarden Euro gekostet.\n- Bei der **Helaba** in Frankfurt dauerte es drei Jahre, bis die Staatsanwaltschaft nach Bekanntwerden der Geschäfte durchsuchte.\n- Die **HSH Nordbank** verdiente mit Cum-Ex rund 112 Millionen Euro, ohne dass die Staatsanwaltschaft Hamburg je ein Verfahren eröffnete.\n\nDas Handelsblatt beschrieb die Chefetagen der Landesbanken deshalb als „justizfreie Zone“: Während Händler und Berater verurteilt wurden, kamen Vorstände und Aufsichtsräte lange ungeschoren davon. Erst ab 2023 geriet mit Ermittlungen gegen frühere WestLB-Vorstände auch diese Ebene ins Visier."
-  },
-  {
-    "name": "WestLB",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bWest[- ]?LB\\b",
-      "\\bPortigon\\b",
-      "\\bWalter[- ]Borjans\\b",
-      "\\bErste Abwicklungsanstalt\\b"
-    ],
-    "summary": "Die NRW-Landesbank leugnete ihre Cum-Ex-Deals jahrelang; heute geht es um bis zu eine Mrd. Euro.",
-    "body": "Die **WestLB** war die Landesbank Nordrhein-Westfalens und einst eine der größten Banken Deutschlands. Nach verheerenden Managementfehlern und Milliardenverlusten in der Finanzkrise wurde sie 2012 zerschlagen. Das Verbundgeschäft ging an die Helaba, Altlasten übernahm die Erste Abwicklungsanstalt, der Rest firmiert seither als Portigon AG im Besitz des Landes. Die Rettung soll den Steuerzahler nach Schätzung des damaligen NRW-Finanzministers Norbert Walter-Borjans bis zu 18 Milliarden Euro gekostet haben.\n\nParallel dazu war die WestLB an **Cum-Ex-Geschäften** beteiligt – Aktiendeals rund um den Dividendenstichtag, mit denen sich Banken eine nur einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Über Jahre bestritt die Bank jede Beteiligung; auch Walter-Borjans, der im Aufsichtsrat saß, verließ sich auf die Zusicherungen des Vorstands. Selbst als 2015 ein Whistleblower der Steuerfahndung Insiderinformationen lieferte, dementierte Portigon. Erst nach Aufnahme der Ermittlungen durch die Staatsanwaltschaft Köln im Frühjahr 2016 war das Leugnen vorbei.\n\nEnde 2019 bezifferte Portigon die möglichen Steuerschulden aus den Cum-Ex-Geschäften auf 600 Millionen Euro; mit Zinsen könnte der Schaden eine Milliarde Euro erreichen. Die Ermittlungen richten sich gegen gut zwei Dutzend frühere Verantwortliche, darunter 14 ehemalige Vorstände. Ein Streit zwischen den WestLB-Nachfolgern darüber, wer die Lasten trägt, landete vor dem Bundesgerichtshof."
-  },
-  {
-    "name": "HSH Nordbank und Cum-Ex",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bHSH\\b",
-      "\\bHSH[- ]Nordbank\\b",
-      "\\bHamburg Commercial Bank\\b",
-      "\\bHCOB\\b",
-      "\\bClifford Chance\\b",
-      "\\bStrate\\b"
-    ],
-    "summary": "Die frühere Landesbank verdiente mit Cum-Ex 112 Mio. Euro – die Staatsanwaltschaft Hamburg ermittelte nie.",
-    "body": "Die **HSH Nordbank** entstand 2003 aus der Fusion der Hamburgischen Landesbank mit der Landesbank Schleswig-Holstein und gehörte den beiden Bundesländern. Nach Milliardenverlusten in der Schiffsfinanzierung und der Finanzkrise musste sie mehrfach gerettet werden; 2018 wurde sie an Finanzinvestoren privatisiert und firmiert seither als **Hamburg Commercial Bank (HCOB)**.\n\nZwischen 2008 und 2011 beteiligte sich die Bank an **Cum-Ex-Geschäften** – Aktiendeals rund um den Dividendenstichtag, mit denen sich Beteiligte eine nur einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Ein lange geheim gehaltener Untersuchungsbericht der Kanzlei Clifford Chance beschreibt detailliert, wie die Geschäfte abliefen, und beziffert den Gewinn auf insgesamt rund 112 Millionen Euro. Die Bank legte den Bericht der Staatsanwaltschaft Hamburg vor. Diese legte lediglich einen „Beobachtungsvorgang“ an – ein Ermittlungsverfahren gab es nie.\n\nDer Hamburger Strafverteidiger Gerhard Strate sieht darin den möglichen Tatbestand der Strafvereitelung im Amt. Auch FDP-Politiker Wolfgang Kubicki hatte die Geschäfte früher als zweifelsfreie Steuerhinterziehung bezeichnet, bevor er selbst ein Mandat von Cum-Ex-Anwalt Hanno Berger übernahm.\n\nDass gegen ehemalige HSH-Banker doch noch ermittelt wird, liegt an der Staatsanwaltschaft Köln, die 2022 auch die Hamburg Commercial Bank durchsuchen ließ. Der Fall gilt als Beleg dafür, wie unterschiedlich die Justiz in den Bundesländern mit Cum-Ex umgeht."
-  },
-  {
-    "name": "Warburg Bank und Christian Olearius",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bOlearius\\b",
-      "\\bWarburg\\b",
-      "\\bM\\.?\\s?M\\.?\\s?Warburg\\b",
-      "\\bTschentscher\\b"
-    ],
-    "summary": "280 Mio. Euro Cum-Ex-Schaden, Treffen mit Scholz – der Prozess gegen Olearius endete 2024 ohne Urteil.",
-    "body": "Die Privatbank **M.M. Warburg** wurde 1798 in Hamburg gegründet und gilt als Institution der Hansestadt. Ihr langjähriger Chef und Miteigentümer **Christian Olearius** (Jahrgang 1942) spendete für Thalia Theater, Elbphilharmonie und SPD und hatte beste Kontakte in die Politik. Zwischen 2007 und 2011 betrieb die Bank, beraten vom Steueranwalt Hanno Berger, **Cum-Ex-Geschäfte**, bei denen sie sich Kapitalertragsteuer erstatten ließ, die nie gezahlt worden war. Die Ermittler beziffern den Schaden auf rund 280 Millionen Euro.\n\nPolitisch brisant wurde der Fall durch Olearius’ Tagebücher: 2016 und 2017 traf er sich mehrfach mit Hamburgs Erstem Bürgermeister Olaf Scholz und Finanzsenator Peter Tschentscher. Anschließend verzichtete das Finanzamt Hamburg zunächst darauf, 47 Millionen Euro von der Bank zurückzufordern; erst eine Weisung des Bundesfinanzministeriums verhinderte 2017 eine weitere Verjährung. Scholz erklärte vor dem Hamburger Untersuchungsausschuss und im Bundestag, sich an die Inhalte der Gespräche nicht erinnern zu können, und beteuerte, es habe keine Einflussnahme gegeben.\n\nMitarbeiter der Bank wurden bereits ab 2020 in Bonn verurteilt, die Bank musste zurückzahlen. Olearius selbst wurde 2022 angeklagt, der Prozess vor dem Landgericht Bonn begann im September 2023. Er wies alle Vorwürfe zurück und inszenierte sich als Opfer. Im Juni 2024 stellte das Gericht das Verfahren wegen seiner Erkrankung ein – ohne Urteil, aber auch ohne Freispruch."
-  },
-  {
-    "name": "Freshfields und Cum-Ex",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bFreshfields\\b",
-      "\\bFresh[- ]Fields\\b",
-      "\\bJohannemann\\b",
-      "\\bMaple[- ]Bank\\b"
-    ],
-    "summary": "Gutachten der Spitzenkanzlei machten Cum-Ex salonfähig; ihr Steuerchef Ulf Johannemann wurde 2024 verurteilt.",
-    "body": "**Freshfields Bruckhaus Deringer** gehört zu den renommiertesten Anwaltskanzleien der Welt; ihre Wurzeln reichen bis ins Jahr 1743. Konzerne und Regierungen zählen auf ihren Rat, Einstiegsgehälter liegen bei über 150.000 Euro. Doch im **Cum-Ex-Skandal** spielte die Kanzlei eine Schlüsselrolle: Ihre Rechtsgutachten bescheinigten Banken, dass sich eine einmal gezahlte Kapitalertragsteuer mehrfach erstatten lasse. Selbst Hanno Berger wollte das anfangs nicht glauben – später arbeitete er mit Freshfields Hand in Hand. Die Gutachten dienten Banken als Gütesiegel gegenüber reichen Investoren.\n\nTreibende Kraft war **Ulf Johannemann**, ein früherer Torwart von Preußen Münster, der mit 29 Jahren bei Freshfields anfing und 2016 – als seine Cum-Ex-Gutachten längst in Ermittlungsakten lagen – zum weltweiten Steuerchef der Kanzlei befördert wurde. 2019 schied er ohne Erklärung aus und kam in Untersuchungshaft. Die Kanzlei wurde mehrfach durchsucht.\n\nIm Mittelpunkt steht die Frankfurter **Maple Bank**, die 2016 wegen Cum-Ex-Steuerforderungen zusammenbrach. Ihre früheren Manager wurden zu Haftstrafen verurteilt; einer sagte im Gerichtssaal: „Ohne Freshfields säßen wir nicht hier.“ Freshfields zahlte Millionenbeträge, unter anderem an den Insolvenzverwalter der Maple Bank. Der Prozess gegen Johannemann vor dem Landgericht Frankfurt begann 2023 und endete im Januar 2024 mit einer Haftstrafe von dreieinhalb Jahren wegen Beihilfe zur Steuerhinterziehung."
-  },
-  {
-    "name": "Wirecard",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bWirecard\\b",
-      "\\bWire[- ]?Card\\b",
-      "\\bWirecards\\b",
-      "\\bBellenhaus\\b",
-      "\\bMarkus Braun\\b"
-    ],
-    "summary": "Dax-Konzern mit 1,9 Mrd. Euro, die es nie gab: Insolvenz 2020, Mammutprozess gegen Braun seit 2022.",
-    "min": 8,
-    "body": "**Wirecard** aus Aschheim bei München galt als deutsches Vorzeige-Fintech und stieg 2018 in den Dax auf. Im Juni 2020 brach der Zahlungsdienstleister zusammen, nachdem Wirtschaftsprüfer von EY 1,9 Milliarden Euro auf angeblichen Treuhandkonten in Asien nicht finden konnten. Am 25. Juni 2020 stellte Wirecard als erster Dax-Konzern einen Insolvenzantrag. Gläubiger blieben auf rund zwölf Milliarden Euro sitzen, Aktionäre verloren fast 24 Milliarden Euro.\n\nZentrale Figuren:\n\n- **Markus Braun**, Vorstandschef und Großaktionär, seit Juli 2020 in Untersuchungshaft. Er stellt sich als Opfer dar und will von nichts gewusst haben.\n- **Jan Marsalek**, Vertriebs- und Asienvorstand, flüchtete im Juni 2020 und wird international gesucht.\n- **Oliver Bellenhaus**, Chef der Dubai-Tochter CardSystems – intern „Fälscherwerkstatt“ genannt –, stellte sich den Behörden und wurde Kronzeuge. Nach gut dreieinhalb Jahren U-Haft kam er 2024 frei.\n- **Stephan von Erffa**, früherer Chefbuchhalter, der dritte Angeklagte.\n\nDie Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, Bilanzfälschung und Marktmanipulation vor; das sogenannte Drittpartnergeschäft in Asien sei weitgehend erfunden gewesen. Die 474 Seiten lange Anklage wurde im September 2022 zugelassen. Seit dem 8. Dezember 2022 läuft der Prozess vor dem Landgericht München I in einem Hochsicherheitssaal auf dem Gelände der JVA Stadelheim unter Vorsitz von Richter Markus Födisch. Ein Untersuchungsausschuss des Bundestags befasste sich 2020/21 mit dem Versagen von Aufsicht und Prüfern."
-  },
-  {
-    "name": "EY im Wirecard-Skandal",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bEY\\b",
-      "\\bErnst\\s?&\\s?Young\\b",
-      "\\bWambach\\b",
-      "\\bAPAS\\b",
-      "\\bPrüferaufsicht\\b"
-    ],
-    "summary": "Zehn Jahre uneingeschränkte Testate für Wirecard: Wambach-Report, Rekordstrafe, Milliardenklagen.",
-    "min": 10,
-    "body": "Die Wirtschaftsprüfungsgesellschaft **EY** (Ernst & Young) prüfte die Bilanzen von Wirecard seit 2009 und erteilte Jahr für Jahr uneingeschränkte Testate – bis im Juni 2020 herauskam, dass 1,9 Milliarden Euro auf angeblichen Treuhandkonten in Asien nicht existierten. Warnsignale hatte es viele gegeben: Als EY-Prüfer 2015 den philippinischen Partner PayEasy untersuchen wollten, stimmten weder Adresse noch Telefonnummer; das Testat kam trotzdem.\n\nDer Untersuchungsausschuss des Bundestags setzte **Martin Wambach**, Vorstand des Instituts der Wirtschaftsprüfer, als Sonderermittler ein. Sein 168 Seiten langer Bericht fiel verheerend aus, wurde aber als geheim eingestuft. Im Januar 2022 veröffentlichte das Handelsblatt den kompletten Wambach-Report – eine ungewöhnliche Entscheidung, die EY mit einer Strafanzeige beantwortete.\n\nDie Folgen für EY:\n\n- Die Abschlussprüferaufsichtsstelle (APAS) verhängte 2023 die härtesten Sanktionen, die es in Deutschland je gegen eine Prüfgesellschaft gab, darunter ein zweijähriges Verbot, neue Mandate bei Unternehmen von öffentlichem Interesse anzunehmen. EY legte Widerspruch ein.\n- Wirecard-Insolvenzverwalter Michael Jaffé fordert 1,5 Milliarden Euro Schadenersatz, die Schutzgemeinschaft der Kapitalanleger rund 700 Millionen Euro.\n- Zahlreiche Aktionäre klagen in Musterverfahren.\n\nDer Fall löste eine Debatte über die Reform der Wirtschaftsprüfung aus und führte 2021 zum Finanzmarktintegritätsstärkungsgesetz mit strengeren Regeln für Prüfer und Bilanzkontrolle."
-  },
-  {
-    "name": "Hermes-Deal (Wirecard in Indien)",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bHermes\\b",
-      "\\bO['’]?\\s?Sullivan\\b",
-      "\\bMauritius\\b",
-      "\\bRahul Sharma\\b",
-      "\\bChennai\\b"
-    ],
-    "summary": "2015 zahlte Wirecard 315 Mio. Euro für eine Firma, die Wochen zuvor 35 Mio. gekostet hatte.",
-    "body": "Der größte Zukauf in der Geschichte von Wirecard war 2015 die Übernahme des indischen Zahlungsabwicklers **Hermes i Tickets** und zugehöriger Firmen für rund 315 Millionen Euro. Der Vorstand feierte den Deal als Durchbruch auf dem indischen Markt. Nach dem Zusammenbruch des Konzerns 2020 bezeichnete der Insolvenzverwalter die Hermes-Gruppe als unverkäuflich.\n\nDas Rätsel des Deals: Nur sechs Wochen vor dem Kauf durch Wirecard hatte ein gerade erst gegründeter Fonds mit Sitz auf **Mauritius** – der Emerging Markets Investment Fund 1A – dieselben Firmen für rund 35 Millionen Euro erworben. Die Differenz von 280 Millionen Euro galt lange als eines der größten Geheimnisse des Wirecard-Skandals.\n\nHandelsblatt-Recherchen auf Basis interner Mails, Hotelbelege und privater Chats legen nahe, dass hinter dem Fonds der Wirecard-Vorstand **Jan Marsalek** und sein enger Freund, der Geschäftsmann **Henry O’Sullivan**, standen. Beide sprachen demnach schon über den Hermes-Deal, bevor der Fonds überhaupt existierte, und planten anschließend, was sie mit den Wirecard-Millionen anfangen könnten. Ein angeblicher indischer Berater des Fonds namens **Rahul Sharma**, der Wirecards Anwälte per E-Mail antrieb und beleidigte, war demnach ein Phantom – ein Fantasiename, hinter dem wohl O’Sullivan steckte.\n\nWirtschaftsprüfer hatten vor dem Kauf gewarnt, doch niemand hörte zu. Wo die Millionen heute sind, ist ebenso unbekannt wie der Aufenthaltsort von Marsalek. Der Fall ist Teil der Anklage im Münchner Wirecard-Prozess und beschäftigt auch Ermittler in Singapur und Indien."
-  },
-  {
-    "name": "Marsalek-Brief",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bMarsalek[- ]Brief\\b",
-      "\\bBrief (von|des) (Jan )?Marsaleks?\\b",
-      "\\bSchreiben (von|des) Marsaleks?\\b",
-      "\\bDrittpartnergeschäft\\w*",
-      "\\bTPA[- ]Geschäft\\w*"
-    ],
-    "summary": "Juli 2023: Der flüchtige Wirecard-Vorstand schreibt dem Landgericht München – und stützt Braun.",
-    "body": "Drei Jahre nach seiner Flucht meldete sich **Jan Marsalek** im Juli 2023 überraschend zu Wort: Über seinen Münchner Anwalt ließ der weltweit gesuchte frühere Wirecard-Vorstand ein achtseitiges Schreiben an das Landgericht München I schicken, wo seit Dezember 2022 der Strafprozess gegen Ex-Vorstandschef Markus Braun, den Kronzeugen Oliver Bellenhaus und den früheren Chefbuchhalter Stephan von Erffa läuft.\n\nIn dem Brief wies Marsalek die Kernthese der Staatsanwaltschaft zurück, das sogenannte **Drittpartnergeschäft** (TPA-Geschäft) von Wirecard in Asien sei bloße Erfindung gewesen. Es habe die Geschäfte sehr wohl gegeben, die Gelder seien nur anderweitig verwendet worden. Damit stützte er die Verteidigungslinie von Markus Braun, dessen Anwälte ihren Mandanten durch das Schreiben entlastet sahen. Gleichzeitig widersprach er den Aussagen des Kronzeugen Bellenhaus, der ein Netz aus Briefkastenfirmen und erfundenen Umsätzen beschrieben hatte.\n\nDer Brief wirbelte den Prozess kurzzeitig durcheinander, blieb aber ohne Beweiskraft: Marsalek stellte sich weder dem Gericht noch konnte er als Zeuge befragt werden. Das Gericht und die Staatsanwaltschaft behandelten das Schreiben entsprechend zurückhaltend. Für Beobachter war es vor allem ein Lebenszeichen eines Mannes, der sich im Juni 2020 über Österreich nach Belarus und Russland abgesetzt hatte und dem später Verbindungen zu russischen Geheimdiensten nachgewiesen wurden."
-  },
-  {
-    "name": "Marsalek und das russische Spionagenetzwerk",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bMarsaleks?\\b",
-      "\\bMarsalik\\b",
-      "\\bMarsalec\\b",
-      "\\bSpionagenetzwerk\\b",
-      "\\bOld Bailey\\b",
-      "\\bRoussev\\b"
-    ],
-    "summary": "Der flüchtige Wirecard-Vorstand soll seit 2014 für Russland gearbeitet und Spione gesteuert haben.",
-    "min": 10,
-    "body": "**Jan Marsalek**, früherer Vorstand des Zahlungsdienstleisters Wirecard, flüchtete im Juni 2020 kurz vor dem Zusammenbruch des Konzerns über Österreich nach Minsk und weiter nach Moskau. Seither wird er mit internationalem Haftbefehl gesucht. Was zunächst wie die Flucht eines Bilanzbetrügers aussah, entwickelte sich zum Spionagethriller.\n\nRecherchen mehrerer Medien und Ermittlungen britischer Behörden ergaben, dass Marsalek bereits seit etwa 2014 – also Jahre vor der Wirecard-Pleite – in engem Kontakt zu russischen Geheimdiensten stand. Nach seiner Flucht soll ihn der russische Geheimdienst mit gefälschten Identitäten ausgestattet haben; unter anderem soll er sich als orthodoxer Priester getarnt haben.\n\nIn Großbritannien wurde 2023 eine Gruppe bulgarischer Staatsbürger festgenommen, die im Auftrag Russlands Journalisten, Dissidenten und Militäreinrichtungen in Europa ausgespäht haben soll. Marsalek gilt als Verbindungsmann, der die Gruppe aus Moskau steuerte und bezahlte. Der Prozess vor dem Londoner Strafgericht Old Bailey endete 2025 mit Schuldsprüchen und langen Haftstrafen für die Mitglieder des Rings.\n\nIn Deutschland hatte das Netzwerk direkte Folgen: Nach seiner Entlassung aus der Untersuchungshaft im Frühjahr 2024 erhielt Wirecard-Kronzeuge Oliver Bellenhaus Personenschutz, weil Geheimdienste eine Gefahr durch Marsaleks Umfeld sahen. Für den Münchner Wirecard-Prozess bedeuten die Enthüllungen, dass die zentrale Figur des Skandals wohl nie auf der Anklagebank sitzen wird."
-  },
-  {
-    "name": "Edward Snowden",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bSnowdens?\\b",
-      "\\bSchutzengel\\b",
-      "\\bHong\\s?kong\\b",
-      "\\bTibbo\\b"
-    ],
-    "summary": "2013 versteckten vier Asylbewerber den NSA-Whistleblower in Hongkong – das Handelsblatt fand sie.",
-    "body": "**Edward Snowden**, ehemaliger Mitarbeiter von CIA und NSA, enthüllte im Juni 2013 die weltweite Massenüberwachung durch amerikanische Geheimdienste. Am 9. Juni 2013 gab er sich in einem Video-Interview mit dem britischen „Guardian“ in Hongkong selbst als Quelle zu erkennen – und wurde damit zur lebenden Zielscheibe. Die USA forderten seine Auslieferung, jeder Polizist und jeder Journalist der Stadt suchte nach ihm.\n\nSnowden tauchte dort unter, wo ihn niemand vermutete: bei Asylbewerbern in den ärmsten Vierteln Hongkongs. Vermittelt von seinem Anwalt Robert Tibbo versteckten ihn die Flüchtlinge **Ajith, Vanessa, Supun und Nadeeka** – Menschen aus Sri Lanka und von den Philippinen, die selbst unter erbärmlichen Bedingungen lebten – rund zwei Wochen lang. Am 23. Juni 2013 gelang Snowden der Flug nach Moskau, wo er bis heute mit Frau und Kind lebt und inzwischen die russische Staatsbürgerschaft besitzt.\n\nDrei Jahre lang blieb unbekannt, wie Snowden die Zeit überbrückt hatte. 2016 spürte Handelsblatt-Investigativchef Sönke Iwersen die Helfer auf; für sein Dossier „Snowdens Schutzengel“ erhielt er den Kurt-Tucholsky-Preis für literarische Publizistik. Die Veröffentlichung brachte die Helfer in Gefahr: Ihre Asylanträge wurden abgelehnt, sie fürchteten die Abschiebung. Snowden selbst warb für sie, Unterstützer sammelten Spenden. Inzwischen fanden Vanessa, Supun und Nadeeka mit ihren Kindern Aufnahme in Kanada."
-  },
-  {
-    "name": "Hackerangriffe im Ukraine-Krieg",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bViasat\\b",
-      "\\bEnercon\\b",
-      "\\bWindräder\\b",
-      "\\bAnonymous\\b",
-      "\\bCyberkrieg\\b",
-      "\\bIT[- ]Army\\b"
-    ],
-    "summary": "Nach Russlands Überfall 2022 fielen Tausende Windräder aus – wie real ist die Cybergefahr?",
-    "body": "Mit dem russischen Überfall auf die Ukraine am 24. Februar 2022 wurde der Krieg auch im Cyberraum geführt. Unmittelbar mit dem Einmarsch fiel das Satellitennetz KA-SAT des US-Anbieters **Viasat** aus, über das auch die Fernwartung von Tausenden Windrädern in Deutschland lief – allein beim Hersteller Enercon waren rund 5800 Anlagen betroffen. Westliche Regierungen machten später russische Militärhacker für den Angriff verantwortlich.\n\nIn Deutschland rief das Bundesamt für Sicherheit in der Informationstechnik (BSI) eine „abstrakt erhöhte Bedrohungslage“ aus, Bundesinnenministerin Nancy Faeser warnte vor einer „erhöhten Gefährdung“ kritischer Infrastruktur wie Energieversorgung, Krankenhäusern und Verwaltung – etwa als Vergeltung für die Wirtschaftssanktionen gegen Russland.\n\nGleichzeitig entstand eine unübersichtliche Gemengelage:\n\n- Das Hackerkollektiv **Anonymous** erklärte Russland den Cyberkrieg und legte russische Webseiten lahm.\n- Die Ukraine rief eine „IT Army“ aus Freiwilligen ins Leben.\n- Kriminelle Ransomware-Banden nutzten das Chaos für Erpressungen.\n\nDeutsche Behörden warnten vor Aktionismus: Computersabotage bleibt auch gegen russische Ziele eine Straftat und kann den Konflikt eskalieren. Die Episode zeigte, wie abhängig Energie- und Kommunikationsinfrastruktur von wenigen digitalen Dienstleistern ist – und wie schwer sich Vandalismus, Kriminalität und staatliche Kriegsführung im Netz unterscheiden lassen."
-  },
-  {
-    "name": "Russische Oligarchen und Sanktionen",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bOligarch(en|s)?\\b",
-      "\\bUsmano[vw]s?\\b",
-      "\\bDilbar\\b",
-      "\\bAbramowi(tsch|ch)\\b",
-      "\\bMordascho[vw]\\b",
-      "\\bFridman\\b"
-    ],
-    "summary": "Eingefrorene Milliarden, festgesetzte Jachten: Wie Putins Vertraute die EU-Sanktionen umgehen.",
-    "body": "Nach dem russischen Angriff auf die Ukraine im Februar 2022 verhängten EU, USA und Großbritannien Sanktionen gegen Hunderte russische Unternehmer und Funktionäre. Die **Oligarchen** – Großunternehmer meist aus Rohstoff-, Banken- und Industriebranchen, die ihr Vermögen in den 1990er-Jahren und unter Wladimir Putin aufbauten – gelten als Achillesferse des Kremls: politisch eng vernetzt, aber mit Villen, Jachten und Konten im Westen.\n\nBekannte Beispiele sind der frühere Chelsea-Besitzer Roman Abramowitsch, Alfa-Bank-Gründer Michail Fridman, Tui-Großaktionär Alexei Mordaschow und Alischer Usmanow, dessen 600-Millionen-Dollar-Jacht „Dilbar“ in Hamburg festgesetzt wurde. Weil die „Dilbar“ formal einer Firma auf Malta gehört, die wiederum einer Stiftung gehört, taten sich die Behörden mit der Beschlagnahme schwer – obwohl Usmanow der Einzige ist, der das Schiff nutzt.\n\nDas Problem liegt im System: Vermögen wurde über Jahre mit Hilfe von „Enablern“ – Anwälten, Banken, Vermögensverwaltern und prominenten Fürsprechern in London, der Schweiz oder Deutschland – legalisiert und in verschachtelten Strukturen versteckt. Deutschland reagierte 2022 mit einer Task Force und zwei Sanktionsdurchsetzungsgesetzen, einer Zentralstelle für Sanktionsdurchsetzung und einem Transparenzregister. Dennoch bleibt die Umsetzung ein Katz-und-Maus-Spiel: Jachten wechseln den Eigentümer auf dem Papier, Vermögen wandert in befreundete Staaten, und Gerichte heben einzelne Sanktionen mangels Beweisen wieder auf."
-  },
-  {
-    "name": "Ergo-Lustreisen",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bErgo\\b",
-      "\\bHamburg[- ]Mannheimer\\b",
-      "\\bHMI\\b",
-      "\\b(Lust|Sex)[- ]?[Rr]eisen?\\b",
-      "\\bBudapest\\b",
-      "\\bGell[eé]rt\\b"
-    ],
-    "summary": "2007 feierten Hamburg-Mannheimer-Vertreter eine Sex-Party in Budapest – 2011 flog es auf.",
-    "min": 8,
-    "body": "Im Sommer 2007 belohnte die Versicherung **Hamburg-Mannheimer** (HMI), bekannt durch ihre Werbefigur „Herr Kaiser“, ihre rund 100 besten Vertreter mit einer Reise nach Budapest. Dort wurde die traditionsreiche Gellért-Therme für eine Nacht zum Freiluftbordell: Dutzende Hostessen und Prostituierte waren engagiert, die Abrechnung erfolgte mit notarieller Genauigkeit – inklusive farbiger Bändchen zur Kennzeichnung, welche Frau wie oft „in Anspruch genommen“ worden war.\n\nIm Mai 2011 deckte das Handelsblatt die Reise auf – mitten in einer der größten Werbekampagnen des Konzerns **Ergo**, in dem die Hamburg-Mannheimer, die Victoria und weitere Marken 2010 unter dem Dach der Munich Re aufgegangen waren. Der Slogan lautete ausgerechnet „Versichern heißt Verstehen“.\n\nErgo gab sich entsetzt, erstattete Anzeige gegen Verantwortliche und sprach von einem Einzelfall. Den Untersuchungsbericht hielt der Konzern unter Verschluss. Weitere Recherchen zeigten jedoch, dass Budapest kein Ausrutscher war: Ähnliche Veranstaltungen gab es auf der Reeperbahn, in Bordellen auf Mallorca und in einem Swinger-Hotel auf Jamaika. Die Affäre, in deren Verlauf auch Vertriebsvorstände gehen mussten, prägte den Begriff „Lustreise“ und kostete Ergo massiv Vertrauen. Für seine Recherche wurde Sönke Iwersen als Wirtschaftsjournalist des Jahres ausgezeichnet; die Originalunterlagen der Budapest-Reise landeten später im Haus der Geschichte in Bonn."
-  },
-  {
-    "name": "Kryptoqueen Ruja Ignatova",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bIgnatova\\b",
-      "\\bOne[- ]?Coin\\b",
-      "\\bKryptoqueen\\b",
-      "\\bKryptokönigin\\b",
-      "\\bDr\\.? Ruja\\b",
-      "\\bRuja\\b"
-    ],
-    "summary": "Mit der Scheinwährung OneCoin sammelte Ignatova Milliarden ein – seit 2017 ist sie verschwunden.",
-    "body": "**Ruja Ignatova**, geboren 1980 in Bulgarien und aufgewachsen in Schramberg im Schwarzwald, promovierte in Konstanz, arbeitete bei McKinsey und gründete 2014 in Sofia **OneCoin**. Auf großen Bühnen – etwa in der Londoner Wembley Arena – versprach die „Dr. Ruja“ ihren Anhängern, OneCoin werde den Bitcoin als wichtigste Kryptowährung ablösen.\n\nTatsächlich gab es nie eine echte Blockchain. OneCoin war ein Schneeballsystem, das über Multi-Level-Marketing „Schulungspakete“ verkaufte und Anlegern wertlose Coins gutschrieb. Weltweit sollen Investoren mehrere Milliarden Euro eingezahlt haben – auch in Deutschland warben Vertriebspartner Tausende Kunden an. Die Bafin untersagte das Geschäft bereits 2017.\n\nAm 25. Oktober 2017 bestieg Ignatova in Sofia ein Flugzeug nach Athen – und verschwand. Seither gilt sie als eine der meistgesuchten Frauen der Welt: Das FBI setzte sie 2022 auf seine Liste der zehn meistgesuchten Flüchtigen, Europol führt sie ebenfalls, die Belohnung wurde auf mehrere Millionen Dollar erhöht. Ermittler gehen davon aus, dass sie über erhebliche Mittel und ein Netzwerk an Unterstützern verfügt; Gerüchte über ihren Tod wurden nie bestätigt.\n\nIhr Bruder Konstantin Ignatov und Mitgründer Sebastian Greenwood wurden in den USA verurteilt, Greenwood 2023 zu 20 Jahren Haft. In Deutschland verhandelte das Landgericht Münster gegen mutmaßliche Helfer; mehr als 20 Strafverfolgungsbehörden weltweit ermitteln."
-  },
-  {
-    "name": "Dieselgate (Volkswagen)",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bDieselgate\\b",
-      "\\bDiesel[- ]?skandal\\w*",
-      "\\bAbgas[- ]?skandal\\w*",
-      "\\bWinterkorns?\\b",
-      "\\bAbschalteinrichtung\\w*",
-      "\\bVolkswagen\\b"
-    ],
-    "summary": "Elf Millionen manipulierte Dieselmotoren, über 30 Mrd. Euro Kosten: der größte Autoskandal.",
-    "min": 8,
-    "body": "Am 18. September 2015 schickte die US-Umweltbehörde EPA Volkswagen eine „Notice of Violation“: Der Konzern hatte in rund 500.000 Diesel-Fahrzeugen in den USA eine Software eingebaut, die den Prüfstand erkannte und nur dort die Abgasreinigung voll aktivierte. Im Straßenverkehr stießen die Motoren ein Vielfaches der erlaubten Stickoxide aus. Weltweit waren rund elf Millionen Fahrzeuge des Konzerns betroffen.\n\nEntdeckt hatten die Manipulation Forscher der West Virginia University, die mit einem mobilen Messgerät die realen Abgaswerte prüften. Fünf Tage nach der EPA-Mitteilung trat Vorstandschef **Martin Winterkorn** zurück und beteuerte, nichts gewusst zu haben – obwohl Hinweise auf die Probleme bereits 2014 in seinem „Wochenendkoffer“ gelegen haben sollen. Interne Mails zeigten, dass Ingenieure schon 2006 und 2008 vor dem Betrug warnten: „Ganz ohne Bescheißen werden wir es nicht schaffen.“\n\nDie Folgen:\n\n- Über 32 Milliarden Euro Kosten für Volkswagen, darunter Milliardenvergleiche in den USA und ein Bußgeld von einer Milliarde Euro in Braunschweig.\n- Haftstrafen für VW-Manager in den USA; in Deutschland Anklagen gegen Winterkorn und weitere Führungskräfte in Braunschweig, wobei Winterkorns Verfahren wegen seiner Gesundheit mehrfach stockte.\n- Zivilrechtlich: Gerichte warfen VW „bewusste Täuschung“ und „sittenwidrige Schädigung“ vor. Die Musterfeststellungsklage des Verbraucherzentrale Bundesverbands endete 2020 mit einem Vergleich über rund 830 Millionen Euro für etwa 240.000 Kunden. Im Braunschweiger Anlegerverfahren fordern Investoren um die Deka rund zehn Milliarden Euro."
-  },
-  {
-    "name": "Audi-Dieselskandal",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bAudi\\b",
-      "\\bRupert Stadler\\b",
-      "\\bStadlers?\\b",
-      "\\bHatz\\b",
-      "\\bPamio\\b"
-    ],
-    "summary": "Erster Diesel-Strafprozess: Ex-Audi-Chef Stadler gestand 2023 nach 170 Verhandlungstagen.",
-    "body": "Nicht nur die Konzernmutter Volkswagen in Wolfsburg, auch die Tochter **Audi** in Ingolstadt manipulierte die Abgaswerte ihrer Dieselmotoren. Audi entwickelte die großen V6- und V8-Dieselmotoren für den gesamten Konzern, auch für Porsche. Die Software erkannte Prüfstandssituationen und schaltete die Abgasreinigung im Alltag herunter. Ein Audi-Ingenieur hatte bereits 2008 intern geschrieben: „Ganz ohne Bescheißen werden wir es nicht schaffen.“\n\nIm Juni 2018 wurde Audi-Chef **Rupert Stadler** als erster Topmanager im Dieselskandal verhaftet und saß vier Monate in Untersuchungshaft; die Ermittler warfen ihm vor, auch nach Bekanntwerden des Skandals weiter manipulierte Autos verkauft zu haben. Angeklagt wurden außerdem der frühere Entwicklungschef **Wolfgang Hatz**, der Ingenieur **Giovanni Pamio** und ein weiterer Techniker.\n\nDer Prozess vor dem Landgericht München II begann im September 2020 und zog sich über rund 170 Verhandlungstage. Das Gericht stellte den Angeklagten im Fall von Geständnissen Bewährungsstrafen in Aussicht. Nach langem Zögern legte Stadler im Mai 2023 ein Geständnis ab. Im Juni 2023 wurde er zu einem Jahr und neun Monaten auf Bewährung sowie 1,1 Millionen Euro Geldauflage verurteilt; Hatz erhielt zwei Jahre Bewährung und 400.000 Euro, Pamio ein Jahr und neun Monate Bewährung und 50.000 Euro. Es war das erste rechtskräftige Strafurteil gegen einen Vorstandschef im Dieselskandal. Audi zahlte zudem 2018 ein Bußgeld von 800 Millionen Euro."
-  },
-  {
-    "name": "Prominente und die Steuerfahndung",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bSchuhbecks?\\b",
-      "\\bZumwinkels?\\b",
-      "\\bHoene(ß|ss)\\b",
-      "\\bBoris Becker\\b",
-      "\\bSteuersünder\\b"
-    ],
-    "summary": "Schuhbeck, Hoeneß, Zumwinkel: Warum Prominente für vergleichsweise kleine Beträge Ruf und Freiheit riskieren.",
-    "body": "Steuerhinterziehung galt in Deutschland lange als Kavaliersdelikt – und ist für viele Prominente zum Karriereende geworden. Die bekanntesten Fälle:\n\n- **Alfons Schuhbeck**, Starkoch und Gastronom, bekochte den FC Bayern, Kanzlerin Merkel und die Queen. Mit einer manipulierten Kassensoftware schleuste er über Jahre Einnahmen am Fiskus vorbei. Das Landgericht München I verurteilte ihn im Oktober 2022 wegen Steuerhinterziehung von rund 2,3 Millionen Euro zu drei Jahren und zwei Monaten Haft. Sein Gastro-Imperium meldete Insolvenz an, 2023 trat er die Strafe an.\n- **Uli Hoeneß**, Präsident des FC Bayern München, hatte über ein Schweizer Konto spekuliert und 28,5 Millionen Euro Steuern hinterzogen. Nach einer gescheiterten Selbstanzeige wurde er 2014 zu dreieinhalb Jahren Haft verurteilt, von denen er gut die Hälfte absaß.\n- **Klaus Zumwinkel**, Chef der Deutschen Post, wurde 2008 vor laufenden Kameras in seiner Kölner Villa von Steuerfahndern durchsucht – Auslöser war eine Daten-CD aus Liechtenstein. 2009 erhielt er zwei Jahre auf Bewährung und eine Geldauflage von einer Million Euro.\n- **Boris Becker** wurde 2002 in München wegen Steuerhinterziehung zu einer Bewährungsstrafe verurteilt; 2022 kam er in Großbritannien wegen Insolvenzvergehen ins Gefängnis.\n\nAuffällig ist, dass die Strafen angesichts der Beträge oft mild ausfielen – Geständnisse, Nachzahlungen und prominente Verteidiger spielen dabei eine Rolle. Die Fälle zeigen zugleich, wie Daten-CDs, Selbstanzeigen und Whistleblower die Steuerfahndung seit 2008 verändert haben."
-  },
-  {
-    "name": "Adler Group",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bAdler[- ]Group\\b",
-      "\\bAdler Real Estate\\b",
-      "\\bAdler\\b",
-      "\\bCaner\\b",
-      "\\bPerring\\b",
-      "\\bViceroy\\b"
-    ],
-    "summary": "Shortseller-Vorwürfe, geplatztes Testat, Großrazzia: Der Immobilienkonzern kämpfte ab 2021 ums Überleben.",
-    "body": "Die **Adler Group** mit Sitz in Luxemburg entstand 2020 aus der Fusion von ADO Properties, Adler Real Estate und dem Projektentwickler Consus und war mit Zehntausenden Wohnungen ein wichtiger Spieler am deutschen Immobilienmarkt. Im Oktober 2021 veröffentlichte der britische Shortseller **Fraser Perring** (Viceroy Research), der schon vor Wirecard gewarnt hatte, ein Dossier mit Vorwürfen von Betrug, Täuschung und überhöhten Bewertungen. Eine zentrale Rolle schrieb er dem österreichischen Unternehmer **Cevdet Caner** zu, der bei Adler nie ein offizielles Amt hatte, aber als Schatten-CEO die Fäden gezogen haben soll. Adler und Caner bestreiten die Vorwürfe.\n\nDie Folgen kamen Schlag auf Schlag:\n\n- Eine Sonderuntersuchung von KPMG konnte den Konzern 2022 nicht vollständig entlasten; die Prüfer verweigerten das Testat für 2021 und legten das Mandat nieder. Lange fand Adler keinen Nachfolger, bis Rödl & Partner 2023 übernahm.\n- Die Bafin stellte zwei grobe Fehler in der Bilanz 2019 fest; das Projekt Gerresheim war demnach um fast vier Milliarden Euro zu hoch bewertet.\n- Staatsanwaltschaften in Frankfurt und Berlin nahmen Ermittlungen auf. Im Juni 2023 durchsuchten 175 Beamte europaweit Büros und Wohnungen wegen des Verdachts auf Untreue, Bilanzfälschung und Marktmanipulation; sieben Beschuldigte wurden genannt.\n- Milliardenverluste 2021 (rund 1,2 Mrd.) und 2022 (1,7 Mrd.).\n\nUm die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit einer Gläubigergruppe auf einen Restrukturierungsplan, den der Londoner High Court im April 2023 gegen den Widerstand anderer Anleihegläubiger genehmigte. Die Aktie fiel zum Pennystock."
-  },
-  {
-    "name": "Cyberangriff auf Continental",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bContinental\\b",
-      "\\bConti\\b",
-      "\\bLock[- ]?Bit\\b",
-      "\\bDarknet\\b",
-      "\\bRansomware\\b"
-    ],
-    "summary": "Hacker kopierten 2022 wochenlang Daten des Dax-Konzerns und boten sie im Darknet für 50 Mio. Dollar an.",
-    "body": "Im Sommer 2022 verschafften sich Cyberkriminelle Zugang zu den IT-Systemen des Autozulieferers **Continental** aus Hannover. Wochenlang kopierten sie unbemerkt Daten – nach Angaben der Täter rund 40 Terabyte. Die Eintrittstür öffnete offenbar ein Mitarbeiter, der einen nicht freigegebenen Browser installierte und damit Schadsoftware ins Netz holte. Continental bemerkte den Eindringling im August 2022, hielt den Vorfall zunächst für abgewehrt und informierte erst im November die Öffentlichkeit, als die Erpressergruppe **LockBit** die Daten im Darknet zum Kauf anbot – Preis: 50 Millionen US-Dollar.\n\nLockBit gilt als eine der professionellsten Ransomware-Banden der Welt, die Erpressung nach dem Prinzip „Ransomware as a Service“ betreibt. Der Fall zeigt, wie global agierende Gruppen digitale Erpressung zum lukrativen Geschäftsmodell gemacht haben, ohne nennenswertes Risiko einzugehen, weil die Täter meist in Staaten sitzen, die nicht ausliefern. Behörden wie das BSI, Landeskriminalämter und das FBI können den Opfern oft nur beratend zur Seite stehen.\n\nFür Continental war der Schaden erheblich: Hunderte Mitarbeiter und externe Spezialisten mussten den Angriff aufarbeiten, Kunden wie Volkswagen und Mercedes wurden informiert, Betriebsräte fürchteten um Mitarbeiterdaten. Konzernchef Nikolai Setzer kündigte an, die Cybersicherheit massiv auszubauen. 2024 gelang internationalen Ermittlern ein Schlag gegen die LockBit-Infrastruktur, Anführer wurden identifiziert und mit Sanktionen belegt."
-  },
-  {
-    "name": "Mehmet Göker",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bMehmet Göker\\b",
-      "\\bGökers?\\b",
-      "\\bGoekers?\\b",
-      "\\bGöckers?\\b",
-      "\\bMEG\\b"
-    ],
-    "summary": "Mit 23 Millionär, mit der MEG pleite, seither in der Türkei: der gefallene Star des Versicherungsvertriebs.",
-    "body": "**Mehmet Göker**, geboren 1979 in Kassel, gründete mit 23 Jahren den Versicherungsvertrieb **MEG AG**, der private Krankenversicherungen verschiedener Anbieter vermittelte. Die Provisionen waren enorm – bis zu 8.000 Euro pro Vertragsabschluss –, und die Versicherer überhäuften den jungen Unternehmer mit Geld, weil er ihnen Umsatz brachte. Göker lebte den Rausch offen aus: Luxusautos, Partys, Motivationsshows für seine Vertriebler, die ein Dokumentarfilm („Der Versicherungsvertreter“) später festhielt.\n\nDas System hatte einen Haken: Für Kunden waren die vermittelten Tarife oft teuer, die Verträge wurden massenhaft gewechselt, und die MEG wuchs über ihre Verhältnisse. 2009 ging das Unternehmen in die Insolvenz, Hunderte Mitarbeiter verloren ihren Job. Die Staatsanwaltschaft warf Göker Untreue und Insolvenzverschleppung vor; es erging ein Haftbefehl.\n\nStatt sich dem Verfahren zu stellen, setzte sich Göker in die Türkei ab, wo er seit Jahren lebt. Von dort betreibt er weiter Vertriebsgeschäfte und Coaching, verkauft eine Autobiografie („Ich stehe wieder auf“) und sammelt über Social Media Anhänger. 2014 besuchte ihn der Handelsblatt-Reporter Ozan Demircan als erster Journalist im Exil und verbrachte mehrere Tage in seinem Haus.\n\nDer Fall gilt als Lehrstück über die perversen Anreize im provisionsgetriebenen Finanzvertrieb: Versicherer, Vermittler und Aufsicht ließen Göker gewähren, solange die Zahlen stimmten."
-  },
-  {
-    "name": "Erbstreit Thiele",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bThieles?\\b",
-      "\\bKnorr[- ]Bremse\\b",
-      "\\bBrühmüller\\b",
-      "\\bVossloh\\b"
-    ],
-    "summary": "Um das 17-Milliarden-Erbe des Knorr-Bremse-Patriarchen streiten Sohn, Witwe und Testamentsvollstrecker.",
-    "body": "**Heinz Hermann Thiele** (1941–2021) begann 1969 in der Patentabteilung von Knorr-Bremse, wurde 1985 Vorstandschef und kaufte den angeschlagenen Bremsenhersteller mit Hilfe eines Kredits der Deutschen Bank. Er baute das Münchner Unternehmen zum Weltmarktführer für Brems- und Zugsysteme aus und brachte es 2018 an die Börse. Dazu kamen die Mehrheit am Schienentechnikkonzern Vossloh und ein großes Aktienpaket an der Lufthansa. Thiele galt als harter, streitbarer Patriarch; sein Vermögen wurde auf rund 17 Milliarden Euro geschätzt.\n\nSein Tod im Februar 2021 löste einen erbitterten Erbstreit aus:\n\n- Sohn **Henrik Thiele** hatte sich 2015 mit dem Vater überworfen und 2017 einen Pflichtteilsverzicht gegen 25 Millionen Euro unterschrieben. Nun klagte er auf rund 4,5 Milliarden Euro, weil der Verzicht unter Druck zustande gekommen sei. Das Landgericht München I wies die Klage 2023 ab; Henrik Thiele ging in Berufung und beschrieb den Tod des Vaters öffentlich als „Befreiung“.\n- Witwe **Nadia Thiele** wehrt sich dagegen, dass sie in der Stiftung, in die das Erbe fließen soll, nur eine Nebenrolle spielt, während Tochter Julia Thiele-Schürhoff die starke Position erhält. Sie klagte gegen die Stiftungsaufsicht und gegen Testamentsvollstrecker Robin Brühmüller, dem sie Raffgier vorwirft: Seine Vergütung könnte bei bis zu 250 Millionen Euro liegen. Brühmüller erzielte vor Gericht zunächst Etappensiege.\n\nDer Fall zeigt, wie Nachfolgeregelungen in Milliardenvermögen scheitern, wenn Patriarchen Konflikte ungelöst hinterlassen."
-  },
-  {
-    "name": "Erbstreit Dussmann",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bDussmanns?\\b",
-      "\\bGötherts?\\b",
-      "\\bFürstenberg[- ]Dussmann\\b",
-      "\\bKulturkaufhaus\\b"
-    ],
-    "summary": "Tochter gegen Mutter: geändertes Testament, esoterischer Schwiegersohn, das Vermögen Peter Dussmanns.",
-    "body": "**Peter Dussmann** (1938–2013) baute aus einem Reinigungsservice die Berliner Dussmann Group mit Gebäudereinigung, Catering, Pflegediensten und dem Kulturkaufhaus an der Friedrichstraße auf – ein Konzern mit Milliardenumsatz. Bei der Geburt seiner einzigen Tochter Angela 1981 legte er fest, dass Ehefrau **Catherine von Fürstenberg-Dussmann** und Tochter einmal zu gleichen Teilen erben sollten.\n\nAngela Dussmann galt lange als Vorzeigetochter: Einser-Abitur, Harvard-Studium, Buchhändlerlehre im väterlichen Kaufhaus. Dann lernte sie **Ronald Göthert** kennen, 16 Jahre älter, mit Hauptschulabschluss und Schreinerlehre, gescheitert als Finanzberater und schließlich Betreiber einer esoterischen Praxis für die „Göthertsche Methode“, mit der er angeblich „Feinstoffe“ erkennen und Menschen heilen konnte. Peter Dussmann lehnte den Schwiegersohn so sehr ab, dass er 2006 nicht zur Hochzeit erschien.\n\n2008 erlitt Dussmann einen Schlaganfall. 2010 wurde sein Testament geändert: Statt 50 sollte die Tochter nur noch 25 Prozent erhalten. Unterschreiben konnte Dussmann krankheitsbedingt nicht mehr, das übernahm sein Arzt. Angela Göthert erfuhr davon erst nach dem Tod des Vaters 2013 und zieht seither gegen ihre Mutter vor Gericht; sie bestreitet die Wirksamkeit der Testamentsänderung.\n\nDie Witwe, die den Konzern als Stiftungsratsvorsitzende führt, errang vor dem Landgericht Berlin Etappensiege; die Tochter legte Berufung ein. Der Streit um die vielen Millionen ist bis heute nicht beigelegt."
-  },
-  {
-    "name": "Aldi-Familienstreit",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bAldi\\b",
-      "\\bAlbrechts?\\b",
-      "\\bAldi[- ]Nord\\b",
-      "\\bAldi[- ]Süd\\b",
-      "\\bBabette\\b",
-      "\\bJakobus[- ]Stiftung\\b"
-    ],
-    "summary": "Rote Zahlen bei Aldi Nord, Dauerstreit der Albrecht-Erben um die Stiftungen – und Lidl zieht davon.",
-    "body": "Die Brüder **Karl und Theo Albrecht** übernahmen nach dem Zweiten Weltkrieg den Lebensmittelladen ihrer Mutter in Essen und erfanden mit Aldi den Discounter: wenige Artikel, niedrige Preise, keine Dekoration. 1961 teilten sie das Reich entlang des „Aldi-Äquators“ in Aldi Nord (Theo) und Aldi Süd (Karl). Die Familie blieb extrem verschwiegen – verstärkt durch die Entführung Theo Albrechts 1971, der 17 Tage in der Gewalt seiner Kidnapper war und für sieben Millionen Mark Lösegeld freikam. Beide Brüder starben als Milliardäre (Theo 2010, Karl 2014).\n\nBei **Aldi Nord** liegt das Unternehmen in drei Familienstiftungen. Nach dem Tod von Theos Sohn Berthold Albrecht 2012 entbrannte ein jahrelanger Streit zwischen dessen Witwe Babette Albrecht und ihren Kindern auf der einen und Theo Albrecht junior auf der anderen Seite – um Einfluss in den Stiftungen, Ausschüttungen und den Lebensstil der Witwe. Mehrere Gerichtsverfahren bis zum Bundesverfassungsgericht folgten.\n\nWährend die Familie stritt, zog die Konkurrenz davon: Lidl ist straffer organisiert und technisch weiter. 2022 schrieb Aldi Nord Insidern zufolge rote Zahlen, vor allem wegen der problematischen Übernahme der Leader-Price-Filialen in Frankreich und wegen gescheiterter IT-Projekte. Aldi Nord und Aldi Süd setzen mit über 4000 Filialen in Deutschland gemeinsam mehr als 30 Milliarden Euro um und beschäftigen fast 90.000 Menschen. Der Fall zeigt, wie Familienkonflikte und Wagenburgmentalität einen Weltkonzern bremsen können."
-  },
-  {
-    "name": "Tesla-Files",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bTesla[- ]?Files\\b",
-      "\\bKrupskis?\\b",
-      "\\bKrupsky\\b",
-      "\\bTesla\\b",
-      "\\bAutopilot\\w*",
-      "\\bMusks?\\b"
-    ],
-    "summary": "100 Gigabyte interne Tesla-Daten: Autopilot-Beschwerden, Cybertruck-Mängel, Daten von 100.000 Mitarbeitern.",
-    "min": 8,
-    "body": "Im Mai 2023 veröffentlichte das Handelsblatt die **Tesla-Files**: mehr als 100 Gigabyte interner Daten, die ein Informant der Redaktion zugespielt hatte. Darunter waren rund 2400 Kundenbeschwerden über ungewollte Beschleunigung und 1500 über Bremsprobleme des Fahrassistenzsystems Autopilot, ein Geheimbericht über Konstruktionsmängel des Cybertrucks sowie Excel-Listen mit Gehältern, Privatadressen und Sozialversicherungsnummern von mehr als 100.000 aktuellen und ehemaligen Beschäftigten. Tesla sprach von Datendiebstahl, äußerte sich inhaltlich aber nicht.\n\nDie Quelle war **Lukasz Krupski**, ein Servicetechniker, der im November 2018 in Norwegen bei Tesla angefangen hatte und sich selbst als „Tesla-Jünger“ bezeichnete. 2019 riss er bei einem Brand auf einer Ausstellung ein defektes Ladegerät mit bloßen Händen aus einem Model 3 und tauschte sich danach direkt mit Elon Musk über Arbeitssicherheit aus. Kurz darauf fand er Überwachungssoftware auf seinem Laptop; ein Vorgesetzter erklärte ihm, er habe bei Tesla keine Zukunft mehr. Krupski dokumentierte Sicherheits- und Datenschutzmängel, wandte sich an Behörden und schließlich ans Handelsblatt. Tesla setzte eine frühere CIA-Agentin auf ihn an, norwegische Behörden durchsuchten seine Wohnung.\n\nRund 20 europäische Datenschutzbehörden, darunter die niederländische Aufsicht als für Tesla Europa zuständige Stelle und die Behörde in Brandenburg, befassten sich mit den Daten; in den USA können Generalstaatsanwälte der Bundesstaaten Verfahren einleiten. Krupski wurde für seinen Mut mit dem Whistleblower-Preis der Organisation Blueprint for Free Speech ausgezeichnet."
-  },
-  {
-    "name": "PIM Gold",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bPIM[- ]Gold\\b",
-      "\\bPIM\\b",
-      "\\bPazarci\\b",
-      "\\bHeusenstamm\\b"
-    ],
-    "summary": "Fast drei Tonnen Gold im Wert von über 150 Mio. Euro verschwanden aus den Tresoren des Händlers bei Frankfurt.",
-    "body": "Die **PIM Gold GmbH** aus Heusenstamm bei Frankfurt verkaufte Privatanlegern Goldbarren und Sparpläne mit einem Versprechen: Wer sein Gold im Tresor der Firma ließ, bekam eine Bonusrendite von bis zu elf Prozent – vermeintlich finanziert durch den Verleih des Edelmetalls. Mehr als 7500 Anleger vertrauten dem Unternehmen, Vertriebspartner warben auf Provisionsbasis weitere Kunden an. Erste Warnsignale gab es früh, unter anderem durch einen öffentlich ausgetragenen Streit mit einem konkurrierenden Goldhändler.\n\nIm September 2019 durchsuchte die Polizei die Firmenräume. Statt der erwarteten Bestände fanden die Ermittler nur einen Bruchteil des Goldes: Fast drei Tonnen im Gegenwert von über 150 Millionen Euro fehlten. Die Staatsanwaltschaft Darmstadt geht von einem Schneeballsystem aus, bei dem Kundengold verkauft und Renditen aus dem Geld neuer Anleger gezahlt wurden. Die Spur des Edelmetalls führte zu fragwürdigen Transfers an eine große Goldraffinerie in Istanbul; Ermittler sprachen von internationaler Geldwäsche.\n\nNach einem über ein Jahr dauernden Mammutprozess verurteilte das Landgericht Darmstadt den Firmenchef **Mesut Pazarci** 2023 zu fast sieben Jahren Haft wegen Betrugs. Weil der Haftbefehl aufgehoben wurde, kam er zunächst frei; das Urteil war zunächst nicht rechtskräftig. PIM Gold ist insolvent, die Anleger müssen mit hohen Verlusten rechnen. Der Fall zeigt die Risiken des grauen Kapitalmarkts, auf dem Goldhändler kaum von der Finanzaufsicht kontrolliert werden."
-  },
-  {
-    "name": "Korrupter Oberstaatsanwalt Badle",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bBadles?\\b",
-      "\\bAlexander Badle\\b",
-      "\\bkorrupte[rn]? Oberstaatsanwalt\\b",
-      "\\bGutachtenaufträge\\b"
-    ],
-    "summary": "Frankfurts bekanntester Korruptionsjäger kassierte selbst Schmiergeld – 2023 sechs Jahre Haft.",
-    "body": "**Alexander Badle** leitete bei der Generalstaatsanwaltschaft Frankfurt die Zentralstelle zur Bekämpfung von Vermögensstraftaten und Korruption im Gesundheitswesen und galt als einer der profiliertesten Korruptionsbekämpfer Deutschlands. Er trat auf Fachkongressen auf, wurde in Medien zitiert und von Journalisten als Experte geschätzt – auch vom Handelsblatt-Investigativteam, das über Jahre mit ihm zu tun hatte.\n\nHinter der integren Fassade hatte Badle ein System aufgebaut, das ihm mehr als ein Jahrzehnt lang Schmiergelder einbrachte: Für die Auswertung von Abrechnungsdaten in Ermittlungsverfahren vergab er Gutachtenaufträge an eine Firma, die ein Bekannter betrieb, und kassierte dafür Provisionen in sechsstelliger Höhe. Insgesamt soll ein Schaden in Millionenhöhe entstanden sein, weil überhöhte Honorare aus der Staatskasse bezahlt wurden. Die fehlende Kontrolle in der Behörde machte es ihm leicht.\n\nAufgeflogen ist der Fall nicht durch interne Prüfungen, sondern durch die Anzeige seiner ehemaligen Lebensgefährtin. Im August 2020 wurde Badle verhaftet. Im Mai 2023 verurteilte ihn das Landgericht Frankfurt wegen Bestechlichkeit, Untreue und Steuerhinterziehung zu sechs Jahren Haft; auch sein Komplize erhielt eine Haftstrafe.\n\nDer Fall erschütterte die hessische Justiz, weil ausgerechnet ein Korruptionsjäger das Vertrauen in die Strafverfolgung missbrauchte, und führte zu einer Debatte über die Vergabe externer Aufträge durch Staatsanwaltschaften."
-  },
-  {
-    "name": "Höhle der Löwen – Pleite (Social Chain)",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bSocial[- ]Chain\\b",
-      "\\bKoflers?\\b",
-      "\\bDümmels?\\b",
-      "\\bHöhle der Löwen\\b",
-      "\\bWindhorsts?\\b",
-      "\\bLöwenaktie\\b"
-    ],
-    "summary": "Die Firma der TV-Investoren Kofler und Dümmel war 2021 eine halbe Milliarde wert – 2023 folgte die Insolvenz.",
-    "body": "**Georg Kofler**, einst Chef von ProSieben und Premiere, und **Ralf Dümmel**, Handelsunternehmer aus Stade, wurden durch die Vox-Show „Die Höhle der Löwen“ einem Millionenpublikum bekannt. 2021 brachten sie ihre Firmen zusammen: Dümmels DS Holding ging in die Berliner **Social Chain AG** ein, die Kofler führte und die Marken aus der Show über Social Media und Handel vertreiben wollte. Die Aktie stieg im November 2021 auf über 50 Euro, der Börsenwert auf mehr als eine halbe Milliarde Euro; Beobachter sprachen von der „Löwenaktie“.\n\nDoch das Geschäftsmodell trug nicht. Verluste häuften sich, eine Kapitalerhöhung geriet ins Wanken, die Bafin entdeckte Fehlbuchungen in Millionenhöhe. Im Juli 2023 meldete die Social Chain AG Insolvenz an; die Aktie war zum Pennystock geworden. Das Unternehmen machte unter anderem den Investor **Lars Windhorst** verantwortlich, der zugesagte Zahlungen für ein Aktienpaket schuldig geblieben sei. Dümmel kaufte Teile seines alten Geschäfts aus der Insolvenz zurück.\n\nKritik traf auch die beiden Prominenten selbst: Kofler soll als CEO ein mitteilungspflichtiges Großinvestment kurz vor der Pleite verschwiegen haben, Kleinanleger fühlten sich von der TV-Prominenz geblendet. Der Fall gilt als Beispiel dafür, wie Bekanntheit aus dem Fernsehen an der Börse zu überzogenen Erwartungen führen kann."
-  },
-  {
-    "name": "BSI-Affäre Schönbohm",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bSchönbohms?\\b",
-      "\\bSchoenbohm\\b",
-      "\\bBSI\\b",
-      "\\bFaesers?\\b",
-      "\\bBöhmermanns?\\b",
-      "\\bCyber[- ]?Sicherheitsrat\\b"
-    ],
-    "summary": "Nach einem Böhmermann-Beitrag feuerte Faeser 2022 den BSI-Chef – ein Jahr später traf es sie selbst.",
-    "body": "**Arne Schönbohm** leitete seit 2016 das Bundesamt für Sicherheit in der Informationstechnik (BSI), Deutschlands oberste Cybersicherheitsbehörde, und war für Unternehmen nach Hackerangriffen der Mann des Vertrauens. Im Oktober 2022 griff ihn Jan Böhmermann im „ZDF Magazin Royale“ an: Schönbohm habe den von ihm mitgegründeten Lobbyverein Cyber-Sicherheitsrat Deutschland e.V. zu nah an sich herangelassen, dem ein Unternehmen mit Verbindungen zu einem russischen Geheimdienstumfeld angehörte.\n\nBundesinnenministerin **Nancy Faeser** (SPD) enthob Schönbohm wenige Tage später seines Amtes und untersagte ihm die Führung der Dienstgeschäfte. Belege für eine Verbindung Schönbohms zu russischen Diensten fanden sich jedoch nicht; ein Disziplinarverfahren wurde 2023 ohne Ergebnis eingestellt. Schönbohm wurde Präsident der Bundesakademie für öffentliche Verwaltung und klagte gegen das ZDF und gegen den Bund.\n\nIm Herbst 2023, als Faeser als Spitzenkandidatin in den hessischen Landtagswahlkampf zog, wendete sich die Affäre gegen sie: CDU-Abgeordnete warfen ihr vor, Schönbohm unfair behandelt und sogar vom Verfassungsschutz überprüfen zu lassen – auch dafür fehlten Belege. Der Innenausschuss befragte die Ministerin, die den Vorwürfen widersprach. Das BSI bekam 2023 mit Claudia Plattner erstmals eine Chefin.\n\nDie Affäre gilt als Lehrstück über die Mechanismen des Berliner Machtapparats: Ein Satirebeitrag, eine schnelle politische Reaktion und am Ende Zweifel an beiden Seiten."
-  },
-  {
-    "name": "Sympatex-Betrug",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bSympatex\\b",
-      "\\bSympa[- ]?tex\\b",
-      "\\bGoetz[- ]?[Pp]artners\\b",
-      "\\bMittelstandsanleihe\\w*"
-    ],
-    "summary": "Anleger liehen dem Textilunternehmen 13 Mio. Euro und sollten fast alles verlieren – Betrugsverdacht.",
-    "body": "**Sympatex** aus Unterföhring bei München stellt wasserdichte Membranen für Outdoor-Kleidung her und gilt als Konkurrent von Gore-Tex. 2013 lieh sich das Unternehmen von Privatanlegern über eine **Mittelstandsanleihe** 13 Millionen Euro. Kurz vor der Fälligkeit wurden die Anleger aufgefordert, auf nahezu das gesamte Geld zu verzichten: Der Firma gehe es schlecht, andernfalls drohe die Insolvenz.\n\nDie Staatsanwaltschaft München I kam zu einem anderen Schluss. Sie wirft den Eigentümern von Sympatex, ihren Anwälten und Restrukturierungsberatern vor, die Anleger bewusst irregeführt zu haben, um die Anleihe billig loszuwerden. Am 26. Juli 2023 durchsuchten Ermittler an rund 50 Orten Büros, Kanzleien und Privathäuser. Auf der Beschuldigtenliste stehen prominente Namen der Münchner Beraterszene, darunter die Gründer der Unternehmensberatung Goetzpartners, sowie ein Geschäftsführer des Family Office der Hamburger Versandhandelsfamilie Otto. Die Beschuldigten weisen die Vorwürfe zurück.\n\nIm Herbst 2024 kamen zwei Beschuldigte vorübergehend in Untersuchungshaft, 2025 erhob die Staatsanwaltschaft Anklage, und der Prozess vor dem Landgericht München begann.\n\nDer Fall steht exemplarisch für ein riskantes Segment des Kapitalmarkts: Mittelständler besorgen sich bei Privatanlegern Geld und drängen ihre Gläubiger bei Schwierigkeiten zu Zugeständnissen – mit Hilfe von Beratern, die am Schuldenschnitt mitverdienen."
-  },
-  {
-    "name": "Signa und René Benko",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bBenkos?\\b",
-      "\\bSigna\\b",
-      "\\bLaura[- ]Privatstiftung\\b",
-      "\\bWunderwuzzi\\b"
-    ],
-    "summary": "Europas größte Immobilienpleite: Signa brach 2023 zusammen, Benko sitzt seit 2025 in Haft.",
-    "min": 8,
-    "body": "**René Benko**, Jahrgang 1977 aus Innsbruck, baute ohne Schulabschluss aus dem Nichts die **Signa-Gruppe** auf und wurde vor seinem 40. Geburtstag Milliardär. Signa kaufte Luxusimmobilien in besten Innenstadtlagen – das KaDeWe in Berlin, das Goldene Quartier in Wien, das Chrysler Building in New York –, übernahm die Warenhausketten Karstadt und Kaufhof (Galeria) und begann den Elbtower in Hamburg. Finanziert wurde das Imperium über ein kaum durchschaubares Geflecht aus Hunderten Gesellschaften, hohen Krediten und prominenten Geldgebern.\n\nSteigende Zinsen und fallende Immobilienbewertungen brachten 2023 das Kartenhaus zum Einsturz. Am 28. November 2023 meldete die Signa Holding in Wien Insolvenz an, es folgten Signa Prime, Signa Development und zahlreiche Tochterfirmen – die größte Pleite der österreichischen Wirtschaftsgeschichte. Galeria ging erneut in die Insolvenz, Baustellen wie der Elbtower blieben Ruinen. Dazu kamen Enthüllungen über die luxuriöse Ausgabenpolitik der Holding und die Entlassung von Top-Managern.\n\nBenko selbst ging im März 2024 in die Privatinsolvenz; Gläubiger meldeten rund zwei Milliarden Euro Forderungen an. Er gab an, nur noch 3700 Euro im Monat zu verdienen. Handelsblatt-Recherchen zeigten jedoch, dass Vertraute unter dem Dach der **Laura Privatstiftung** seiner Familie – benannt nach seiner Tochter, kontrolliert von seiner Mutter Ingeborg – ein weitverzweigtes Immobilienportfolio aufgebaut hatten, von Altbauten in Leipzig bis zu Villen in Tirol. Im Januar 2025 wurde Benko in Innsbruck festgenommen; 2025 folgten Anklage und ein erstes Urteil wegen betrügerischer Krida."
-  },
-  {
-    "name": "BND-Spionage",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bCarsten L\\b",
-      "\\bArthur E\\b",
-      "\\bBND\\b",
-      "\\bBundesnachrichtendienst\\w*",
-      "\\bLandesverrat\\w*"
-    ],
-    "summary": "Ein BND-Abteilungsleiter verriet 2022 Geheimnisse an Russland – 2024 wurde er zu lebenslanger Haft verurteilt.",
-    "body": "Kurz vor Weihnachten 2022 nahm das Bundeskriminalamt in Berlin **Carsten L.** fest, einen Oberst und Abteilungsleiter des Bundesnachrichtendienstes (BND), der in der technischen Aufklärung Zugang zu hochsensiblen Informationen hatte. Der Vorwurf: schwerer Landesverrat. Im Herbst 2022 soll er geheime Unterlagen des Auslandsgeheimdienstes – unter anderem zu Erkenntnissen über Russlands Krieg in der Ukraine – an den russischen Inlandsgeheimdienst FSB weitergegeben haben.\n\nAls Kurier fungierte der Diamantenhändler **Arthur E.**, ein Bekannter des BND-Mannes, der die Dokumente nach Moskau brachte und im Januar 2023 bei seiner Einreise aus den USA am Münchner Flughafen festgenommen wurde. Er wurde später zum wichtigsten Zeugen der Anklage. Für den Verrat sollen die beiden Hunderttausende Euro in bar erhalten haben. Aufgeflogen war der Fall durch den Hinweis eines befreundeten Nachrichtendienstes.\n\nDer Prozess vor dem Kammergericht Berlin begann im Dezember 2023 unter strengen Geheimhaltungsauflagen. Im Juli 2024 verurteilte das Gericht Carsten L. wegen Landesverrats in besonders schwerem Fall zu lebenslanger Haft, Arthur E. erhielt neuneinhalb Jahre. Es war der schwerste Spionagefall im BND seit Jahrzehnten – Beobachter sprachen von der „größten Panne“ des Dienstes.\n\nDer Fall löste eine Debatte über die Sicherheitsüberprüfung von Geheimdienstpersonal aus; das Parlamentarische Kontrollgremium stellte Defizite fest. Zudem fiel Carsten L. durch Kontakte ins rechtsextreme Milieu auf."
-  },
-  {
-    "name": "Elbtower",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bElb[- ]?[Tt]owers?\\b",
-      "\\bHafen[Cc]ity\\b",
-      "\\bChipperfield\\b",
-      "\\bBecken\\b"
-    ],
-    "summary": "Hamburgs geplantes höchstes Gebäude blieb nach der Signa-Pleite 2023 als Bauruine stehen.",
-    "body": "Der **Elbtower** sollte mit rund 245 Metern das höchste Gebäude Hamburgs werden: ein ikonisches Hochhaus am östlichen Ende der HafenCity, entworfen vom Büro des Stararchitekten David Chipperfield. 2018 erhielt die Signa-Gruppe des österreichischen Investors René Benko den Zuschlag der Stadt. Ein prominenter Fürsprecher war der damalige Erste Bürgermeister Olaf Scholz, der im Hamburger Rathaus von Signas Finanzstärke und einem „A+“-Rating schwärmte; das „Hamburger Abendblatt“ nannte den Turm das „Vermächtnis des Olaf Scholz“.\n\nDie Realität sah anders aus. Im Oktober 2023 stellte der Bauunternehmer die Arbeiten ein, weil die Projektgesellschaft die Rechnungen nicht mehr bezahlte. Nach der Insolvenz der Signa-Gruppe meldete im Januar 2024 auch die Elbtower-Projektgesellschaft Insolvenz an. Zurück blieb ein etwa 100 Meter hoher Rohbau, dessen Fertigstellung lange ungewiss war.\n\nDas Projekt wirft viele Fragen auf: Die Helaba sollte eigentlich die Finanzierung übernehmen, ein Vertrag kam aber nie zustande – trotzdem beauftragte die städtische HafenCity Hamburg GmbH die Bank mit der Prüfung der Vorvermietungen. Ankermieter wurde unter merkwürdigen Umständen die Hamburg Commercial Bank. Der SPD-Bürgerschaftsabgeordnete Markus Schreiber sagte, man hätte schon damals erkennen können, dass Benko nicht seriös sei; der Turm könne als Scholz’ „Mahnmal“ gelten.\n\n2025 übernahm ein Konsortium um den Hamburger Projektentwickler Dieter Becken die Bauruine, um den Turm doch noch fertigzustellen."
-  },
-  {
-    "name": "Picam",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bPi[- ]?[Cc]am\\b",
-      "\\bPiccam\\b",
-      "\\bEntzeroth\\b",
-      "\\bWundercomputer\\b"
-    ],
-    "summary": "15 bis 20 Prozent Rendite per Wundercomputer: Bei Picam verschwanden über 320 Mio. Euro Anlegergeld.",
-    "body": "Die Vermögensverwaltung **Picam** aus Berlin versprach ihren Anlegern Renditen von 15 bis 20 Prozent pro Jahr. Möglich machen sollte das ein computergesteuerter Wertpapierhandel: Ein angeblicher „Wundercomputer“ in der Schweiz werte Handelssignale aus und erkenne den perfekten Zeitpunkt zum Einstieg in Dax-Derivate. Tausende Investoren, darunter viele Kleinanleger und Rentner, glaubten der Geschichte und steckten zwischen 2007 und 2017 mehr als 320 Millionen Euro in das System. Vermittelt wurden die Anlagen über ein Netz von Beratern und Gesellschaften in Deutschland und der Schweiz, das die Herkunft und Verwendung des Geldes verschleierte.\n\nNach Handelsblatt-Recherchen, die das Verwirrspiel um Scheinfirmen und Marionettengeschäftsführer aufdeckten, und einer Razzia geriet Picam ins Visier der Staatsanwaltschaft Berlin. Die Anklage: Die drei Verantwortlichen hätten ein klassisches Schneeballsystem betrieben, bei dem Auszahlungen an alte Anleger aus dem Geld neuer Kunden finanziert wurden, während das Kapital veruntreut wurde. Die Finanzaufsicht Bafin wurde dafür kritisiert, trotz früher Hinweise lange weggeschaut zu haben.\n\nIm Februar 2024 begann der Prozess vor dem Landgericht Berlin im Saal 500 des Kriminalgerichts Moabit. Zwei Angeklagte bestritten eine bewusste Beteiligung, Hauptangeklagter **Thomas Entzeroth** schwieg zunächst. Im März 2025 wurde er zu fast sechs Jahren Haft verurteilt. Für die Anleger bleibt wenig: Ein Großteil des Geldes ist verschwunden."
-  },
-  {
-    "name": "Effenberg-Bank",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bEffenberg[- ]?Bank\\b",
-      "\\bEffenbergs?\\b",
-      "\\bBad Salzungen\\b",
-      "\\bSchmalkalden\\b",
-      "\\bSieberts?\\b"
-    ],
-    "summary": "Die VR-Bank Bad Salzungen Schmalkalden verspekulierte sich um über 220 Mio. Euro – Bafin griff ein.",
-    "body": "Die **VR-Bank Bad Salzungen Schmalkalden** aus Südthüringen wurde bundesweit bekannt, als sie 2019 den früheren Fußballnationalspieler **Stefan Effenberg** als Berater und Repräsentanten anheuerte – seither trägt sie den Spitznamen „Effenberg-Bank“. Das kleine Institut verfolgte unter seinem langjährigen Vorstandschef **Stefan Siebert**, der die Bank fast 20 Jahre leitete, eine für Genossenschaftsbanken höchst ungewöhnliche Strategie: Es beteiligte sich an zahlreichen Unternehmen, investierte in erneuerbare Energien und Landwirtschaft und kaufte Immobilien in Deutschland und Österreich – in Oberhausen sogar Häuser im Rotlichtbezirk.\n\nViele dieser Investitionen schlugen fehl. Mindestens 220 Millionen Euro Verlust belasten die Bilanz, die Bank musste von der Sicherungseinrichtung des Bundesverbands der Volks- und Raiffeisenbanken (BVR) gestützt werden. 2023 griff die Finanzaufsicht Bafin ein und entsandte zwei Sonderbeauftragte, die Vorstand und Aufsichtsrat ersetzten – ein einmaliger Vorgang in der über hundertjährigen Geschichte der deutschen Genossenschaftsbanken. Effenberg wurde entlassen, Siebert abgelöst.\n\nParallel ermittelt die Staatsanwaltschaft gegen den Ex-Bankchef, unter anderem wegen des Verdachts der Steuerhinterziehung und der Untreue. Siebert kann dennoch auf eine treue Anhängerschaft unter den Genossenschaftsmitgliedern zählen, die das Eingreifen von Bafin und BVR für unangemessen halten. Die beiden Lager stehen sich bis heute unversöhnlich gegenüber, während die Bank saniert und in den Verbund zurückgeführt wird."
-  },
-  {
-    "name": "Erbstreit Veltins",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bVeltins\\b",
-      "\\bCarl[- ]Clemens\\b",
-      "\\bGrevenstein\\b",
-      "\\bRosemarie\\b"
-    ],
-    "summary": "Der verstoßene Sohn der Brauerei-Erbin fordert nach Jahrzehnten Hunderte Millionen Euro.",
-    "body": "Die Brauerei **C. & A. Veltins** in Meschede-Grevenstein im Sauerland ist eine der größten Privatbrauereien Deutschlands und gehört seit Generationen der Familie Veltins. Nach dem frühen Tod ihres Vaters übernahm **Rosemarie Veltins** 1963 die Führung und machte die Marke mit dem Werbeslogan und Sponsoring des FC Schalke 04 bundesweit bekannt. Die Familie gilt als äußerst verschwiegen.\n\nIhr Sohn **Carl-Clemens Veltins** ist das schwarze Schaf der Dynastie: Er handelte und konsumierte Drogen, saß im Gefängnis und war in Waffengeschäfte verwickelt. Seit Jahrzehnten ist er vom Familienunternehmen ausgeschlossen, heute lebt er arbeitslos und fern von Grevenstein. Vor fast 30 Jahren, so sein Vorwurf, habe ihn seine Mutter auf sittenwidrige Weise aus dem Unternehmen gedrängt und um einen Anteil im Wert von mehreren Hundert Millionen Euro gebracht – er sei damals suchtkrank und nicht in der Lage gewesen, die Tragweite der Vereinbarungen zu erkennen.\n\n2024 verklagte er seine Schwestern, darunter die heutige Brauereichefin Susanne Veltins, auf sein Erbe. Die Schwestern äußerten sich öffentlich nicht zu den Vorwürfen. Im Handelsblatt-Podcast sprach Carl-Clemens Veltins erstmals öffentlich über seine Lebensgeschichte.\n\nDer Streit stellt die Nachfolgeordnung eines der bekanntesten deutschen Familienunternehmen infrage und zeigt, wie Erbverträge aus früheren Jahrzehnten Jahrzehnte später vor Gericht landen können."
-  },
-  {
-    "name": "Porsche-Ikone vor Gericht",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bJürgen Barth\\b",
-      "\\bBarths?\\b",
-      "\\bPorsche\\b",
-      "\\bLe Mans\\b",
-      "\\bOriginal und Kopie\\b"
-    ],
-    "summary": "Le-Mans-Sieger Jürgen Barth soll geholfen haben, gefälschte historische Porsche als Originale auszugeben.",
-    "min": 8,
-    "body": "**Jürgen Barth** ist eine lebende Porsche-Legende: 1977 gewann er für den Sportwagenhersteller das 24-Stunden-Rennen von Le Mans, 1980 das 1000-Kilometer-Rennen auf dem Nürburgring. Fast sein gesamtes Berufsleben verbrachte er im Konzern, zuletzt als Kundensport-Verantwortlicher und als Autor von Standardwerken über historische Porsche. Er galt als „Gedächtnis von Porsche“ – wer die Echtheit eines alten Rennwagens prüfen wollte, fragte Barth.\n\nGenau diese Autorität wurde ihm zum Verhängnis. Die Staatsanwaltschaft Aachen warf ihm vor, gemeinsam mit einem Händler geholfen zu haben, nachgebaute oder zusammengesetzte historische Porsche als Originale auszugeben. Vermögende Sammler sollen so um Millionen gebracht worden sein, denn ein echter Rennwagen mit dokumentierter Historie ist ein Vielfaches einer Replik wert. Porsche erklärte den einstigen Helden zur Persona non grata.\n\nVor dem Landgericht Aachen wurde Barth der Prozess gemacht. Er kam vergleichsweise glimpflich davon, doch das Verfahren erschütterte seine Reputation nachhaltig. Zugleich warf es grundsätzliche Fragen auf: Wo endet eine Restaurierung, wo beginnt die Fälschung? Welche Teile dürfen ersetzt werden, damit ein Oldtimer noch als Original gilt?\n\nDas Drama ist nicht zu Ende: Porsche und einige seiner besten Kunden stehen sich in Zivilverfahren gegenüber. Sammler fürchten, dass ihre teuer erworbenen Fahrzeuge als Fälschungen eingestuft und im schlimmsten Fall verschrottet werden."
-  },
-  {
-    "name": "Staatstrojaner-Fall",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bPegasus\\b",
-      "\\bNSO\\b",
-      "\\bStaatstrojaner\\w*",
-      "\\bMei(ss|ß)ners?\\b",
-      "\\bSpionagesoftware\\b"
-    ],
-    "summary": "Ein Ex-Bankmanager fürchtete, mit der Spähsoftware Pegasus überwacht worden zu sein.",
-    "body": "**Pegasus** ist eine Spionagesoftware der israelischen NSO Group, die als digitale Waffe gilt. Wird sie auf einem Smartphone installiert – oft ohne jede Interaktion des Besitzers –, macht sie die Zielperson gläsern: Angreifer lesen Nachrichten, Passwörter und Fotos aus und können Kamera und Mikrofon aus der Ferne einschalten. NSO verkauft die Software offiziell nur an staatliche Stellen; auch das Bundeskriminalamt nutzt eine angepasste Version. Weltweit wurden damit Journalisten, Oppositionelle und Anwälte ausgespäht, was das „Pegasus Project“ 2021 enthüllte.\n\nIn Deutschland sind kaum Fälle bekannt, in denen die Software auf dem Handy eines Bürgers gefunden wurde. Umso ungewöhnlicher war der Fall des ehemaligen Bankmanagers **Michael Meissner**: Aufgrund eines Gutachtens fürchtete er, mit Pegasus ausgespäht worden zu sein, und erstattete Anzeige. Für erfahrene IT-Forensiker war der Fall ein Novum, für die Behörden eine Herausforderung – wer soll in Deutschland ermitteln, wenn ein Staatstrojaner gegen eine Privatperson eingesetzt worden sein könnte?\n\nDie Generalstaatsanwaltschaft Frankfurt führte zeitweise ein Ermittlungsverfahren, stellte es aber im November 2025 ein: Der angezeigte Sachverhalt habe sich nicht verifizieren lassen, da bei der Begutachtung keine Schadsoftware auf dem Mobiltelefon festgestellt worden sei.\n\nDer Fall zeigt, wie schwer sich Betroffene und Behörden mit dem Nachweis staatlicher Spähsoftware tun – und wie wenig Kontrolle es über den Einsatz solcher Werkzeuge gibt."
-  },
-  {
-    "name": "Schlecker-Insolvenz",
-    "folder": "Fälle",
-    "patterns": [
-      "\\bSchleckers?\\b",
-      "\\bEhingen\\b",
-      "\\bMeniar\\b",
-      "\\bSchlecker[- ]Frau(en)?\\b"
-    ],
-    "summary": "Vom Metzger zum Drogeriekönig mit 14.000 Filialen – 2012 brach das Imperium zusammen.",
-    "body": "**Anton Schlecker**, Jahrgang 1944, gelernter Metzger aus Ehingen an der Donau, eröffnete 1975 seinen ersten Drogeriemarkt und baute daraus Europas größte Drogeriekette. In den 90er-Jahren kamen bis zu drei neue Filialen pro Tag hinzu, am Ende waren es rund 14.000 Läden in 17 Ländern. In den engen, blau-weißen Filialen arbeitete meist nur eine Vollzeitkraft – die berühmte „Schlecker-Frau“. Das Familienvermögen wurde auf 2,3 Milliarden Euro geschätzt; Schlecker führte das Unternehmen als eingetragener Kaufmann mit persönlicher Haftung und ließ niemanden in seine Bücher schauen.\n\nDoch der Umsatz fiel hinter Konkurrenten wie dm und Rossmann zurück. Zwischen 2005 und 2010 machte Schlecker mehr als 400 Millionen Euro Verlust. Als sein neuer Finanzvorstand ihn 2010 warnte, soll er geantwortet haben: „Schreiben Sie das nicht auf. Wenn es auf dem Papier steht, dann wird es auch wahr.“ 2008 hatte er die Leiharbeitsfirma Meniar gegründet, um erfahrene Mitarbeiterinnen zu entlassen und zu schlechteren Konditionen wieder einzustellen. Ab 2011 leerten sich die Regale, im Januar 2012 meldete Schlecker Insolvenz an. Mehr als 20.000 Beschäftigte verloren ihre Jobs, Gläubiger blieben auf über einer Milliarde Euro sitzen.\n\n2017 verurteilte das Landgericht Stuttgart Anton Schlecker wegen vorsätzlichen Bankrotts zu einer Bewährungs- und Geldstrafe; seine Kinder Lars und Meike mussten wegen Untreue und Insolvenzverschleppung für über zwei Jahre ins Gefängnis, Ehefrau Christa erhielt Bewährung. 2024 wurde bekannt, dass die Familie eine weitere Millionensumme an die Insolvenzmasse zahlen muss."
-  }
+ {
+  "name": "Cum-Ex",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bCum[- ]?Ex\\b",
+   "\\bKummex\\b",
+   "\\bKum[- ]?Ex\\b",
+   "\\bCum[- ]?Cum\\b",
+   "\\bCum[- ]?Ex[- ]Geschäft\\w*"
+  ],
+  "summary": "Deutschlands größter Steuerskandal: Steuern mehrfach erstattet, Schaden rund 12 Mrd. Euro.",
+  "body": "**Cum-Ex** bezeichnet Aktienkreisgeschäfte rund um den Dividendenstichtag: Aktien wurden kurz vor der Ausschüttung mit („cum“) und kurz danach ohne („ex“) Dividendenanspruch gehandelt. Durch das Zusammenspiel von Leerverkäufern, Käufern und Depotbanken entstanden mehrere Bescheinigungen über eine nur einmal abgeführte Kapitalertragsteuer – und der Fiskus erstattete die Steuer mehrfach. Beteiligt waren Großbanken, Landesbanken, Fonds, Steueranwälte und vermögende Privatinvestoren.\n\nDie Lücke im Steuerrecht war dem Gesetzgeber spätestens seit 2002 bekannt, geschlossen wurde sie erst 2012. Der Schaden für die Steuerzahler wird auf rund zehn bis zwölf Milliarden Euro geschätzt. Eng verwandt sind die sogenannten **Cum-Cum-Geschäfte**, bei denen ausländische Aktionäre ihre Dividendenbesteuerung umgingen.\n\nDie strafrechtliche Aufarbeitung begann 2013 bei der Staatsanwaltschaft Köln unter Oberstaatsanwältin Anne Brorhilker. Daraus wurden mehr als 120 Verfahren mit über 1700 Beschuldigten. Wichtige Stationen:\n\n- 2020 erste Urteile des Landgerichts Bonn gegen zwei britische Aktienhändler; der Bundesgerichtshof bestätigte 2021, dass Cum-Ex strafbare Steuerhinterziehung ist.\n- 2022 verurteilte das Landgericht Bonn den Steueranwalt Hanno Berger zu acht Jahren Haft, 2023 folgte ein weiteres Urteil in Wiesbaden.\n- Verfahren gegen die Hamburger Privatbank M.M. Warburg, die WestLB, die HSH Nordbank und zahlreiche weitere Institute.\n\nPolitisch brisant wurde der Fall durch Untersuchungsausschüsse im Bundestag und in Hamburg, wo es um Treffen des damaligen Bürgermeisters Olaf Scholz mit Warburg-Bankier Christian Olearius ging."
+ },
+ {
+  "name": "Prozess gegen Hanno Berger",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bHanno[- ]Berger\\b",
+   "\\bBergers?\\b",
+   "\\bSteuer[- ]?Guru\\b",
+   "\\bMister Cum[- ]?Ex\\b"
+  ],
+  "summary": "Cum-Ex-Architekt, 2012 in die Schweiz geflohen, 2022 in Bonn zu acht Jahren Haft verurteilt.",
+  "min": 8,
+  "body": "Hanno Berger, Jahrgang 1950 und Pfarrerssohn, begann 1981 in der hessischen Finanzverwaltung und stieg zum obersten Bankenprüfer in Frankfurt auf. Dann wechselte er die Seiten: Als Steueranwalt in Großkanzleien und ab 2010 in seiner eigenen Kanzlei im Frankfurter Skyper beriet er Konzerne, Banken und reiche Familien. Die Ermittler nennen ihn den „Spiritus Rector“ der **Cum-Ex-Geschäfte**, bei denen sich Beteiligte Steuern erstatten ließen, die nie gezahlt worden waren.\n\nAls Ermittler im Dezember 2012 seine Kanzlei durchsuchten, setzte sich Berger in die Schweiz ab. Von dort beschimpfte er jahrelang die deutsche Justiz, sprach von einem „Wahndelikt“ und von „Schweinerichtern“. Im Juli 2021 wurde er in Graubünden festgenommen, im Februar 2022 nach Deutschland ausgeliefert.\n\nVor dem Landgericht Bonn ging es um drei Fälle besonders schwerer Steuerhinterziehung zwischen 2007 und 2013 im Zusammenhang mit der Privatbank M.M. Warburg: Steuerschaden rund 278 Millionen Euro, Bergers eigener Gewinn knapp 14 Millionen Euro. Im August 2022 legte er ein überraschendes Teilgeständnis ab – er habe die Geschäfte zumindest ab 2009 „mit bedingtem Vorsatz“ begleitet. Am 13. Dezember 2022 verurteilte ihn das Gericht zu acht Jahren Haft. Ein zweites Verfahren vor dem Landgericht Wiesbaden um Geschäfte mit der Hypovereinsbank endete 2023 mit einer weiteren Haftstrafe von gut acht Jahren. Berger sitzt seither in Haft."
+ },
+ {
+  "name": "Kronzeuge Benjamin Frey",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBenjamin Frey\\b",
+   "\\bFreys?\\b",
+   "\\bKai[- ]Uwe Steck\\b",
+   "\\bStecks?\\b",
+   "\\bMann mit der Maske\\b"
+  ],
+  "summary": "Bergers Ex-Partner packte 1000 Stunden aus, wurde Cum-Ex-Kronzeuge – und 2024 selbst angeklagt.",
+  "body": "„Benjamin Frey“ ist ein vom Handelsblatt zum Schutz des Zeugen gewählter Alias; später trat der Jurist unter seinem echten Namen Kai-Uwe Steck an die Öffentlichkeit. Der Anwalt stammt aus einem Arbeiterhaushalt in der friesischen Provinz, promovierte 2001 und landete danach in der Steuerabteilung einer amerikanischen Großkanzlei, die Hanno Berger leitete. Berger wurde sein Mentor und „Übervater“, Frey sein Ziehsohn. 2010 gründeten beide eine eigene Kanzlei im 32. Stock des Frankfurter Skyper und machten die größten Unternehmen und reichsten Familien mit **Cum-Ex-Geschäften** reicher – und sich selbst zu Multimillionären.\n\nNach der Razzia 2012 trennten sich die Wege: Berger floh in die Schweiz und forderte Loyalität im Kampf gegen den „Schweinestaat“, Frey entschied sich für die Kooperation mit der Staatsanwaltschaft Köln. Er sagte mehr als 1000 Stunden aus, nannte Daten, Beträge und Kunden und trat in mehreren Bonner Prozessen als wichtigster Kronzeuge auf – im September 2022 auch gegen Berger selbst, der ihn als Lügner und Verräter beschimpfte.\n\nSeine Schilderungen zeichnen das Bild einer Branche, in der Umschläge mit 250.000 Schweizer Franken Bargeld die Hände wechselten und Geschäftspartner mit Rockergruppen drohten. Im Mai 2024 erhob die Staatsanwaltschaft Köln Anklage gegen den Kronzeugen; 2025 musste er sich selbst vor dem Landgericht Bonn verantworten."
+ },
+ {
+  "name": "Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBrorhilker\\b",
+   "\\bBrorhilker?s\\b",
+   "\\bLimbach\\b",
+   "\\bBiesenbach\\b",
+   "\\bStaatsanwaltschaft Köln\\b",
+   "\\bChefermittlerin\\b"
+  ],
+  "summary": "Machtkampf um die Kölner Cum-Ex-Abteilung: Brorhilker sollte entmachtet werden, kündigte 2024.",
+  "body": "Die Staatsanwaltschaft Köln ist seit 2013 das Zentrum der strafrechtlichen Aufarbeitung des **Cum-Ex-Skandals**. Oberstaatsanwältin Anne Brorhilker nahm damals einen Brandbrief des Anwalts des Milliardärs Erwin Müller zum Anlass, das System zu entschlüsseln, und baute eine Hauptabteilung mit Dutzenden Ermittlern auf. Unter NRW-Justizminister Peter Biesenbach (CDU) wuchs die Zahl der Cum-Ex-Ermittlerstellen ab 2017 von vier auf 36. Zeitweise führte die Behörde rund 120 Verfahren mit mehr als 1600 Beschuldigten.\n\nAb 2022 geriet die Abteilung in einen Justizkonflikt:\n\n- Im März 2023 stellte Ex-Minister Biesenbach eine Dienstaufsichtsbeschwerde gegen den Leiter der Staatsanwaltschaft Köln und dessen Stellvertreter. Vorwurf: Sie behinderten die Arbeit der Cum-Ex-Abteilung.\n- Im Herbst 2023 befürwortete Justizminister Benjamin Limbach (Grüne) Pläne, Brorhilkers Abteilung zu teilen und die Hälfte ihres Personals einem neuen Co-Chef ohne Cum-Ex-Erfahrung zu unterstellen. Nach öffentlicher Kritik, auch aus Hamburg, nahm Limbach die Pläne im Oktober 2023 zurück.\n- Im April 2024 kündigte Brorhilker überraschend. Sie wechselte zur Bürgerbewegung Finanzwende und kritisierte seither öffentlich die lasche Verfolgung von Finanzkriminalität.\n\nDie Behörde selbst rechnete damit, dass die Aufarbeitung noch bis zu 15 Jahre dauern könnte. Der Streit gilt als Beispiel dafür, wie aus einem Steuerskandal ein Justizskandal werden kann."
+ },
+ {
+  "name": "Landesbanken im Cum-Ex-Skandal",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bLandesbank(en)?\\b",
+   "\\bLBBW\\b",
+   "\\bHelaba\\b",
+   "\\bJaschinski\\b",
+   "\\bjustizfreie Zone\\b"
+  ],
+  "summary": "Staatliche Banken griffen mit Cum-Ex in die Steuerkasse – ihre Chefetagen blieben lange unbehelligt.",
+  "body": "Nicht nur Privatbanken, auch die Landesbanken der Bundesländer beteiligten sich an **Cum-Ex-Geschäften** – also an Aktiendeals, mit denen sich Beteiligte eine nur einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Besonders pikant: Die Eigentümer dieser Institute sind die Länder selbst, in den Aufsichts- und Verwaltungsräten saßen Landespolitiker. Die Banken schädigten damit die eigenen Eigentümer.\n\nBeispiele:\n\n- Die **LBBW** in Baden-Württemberg zahlte bereits vor Jahren rund 200 Millionen Euro aus Cum-Ex-Geschäften zurück. Die Staatsanwaltschaft Stuttgart nahm 2013 Ermittlungen auf – mit nur einem einzigen zuständigen Staatsanwalt und ohne erkennbare Fortschritte. Ex-LBBW-Chef Siegfried Jaschinski erklärte, er habe von den Geschäften erst aus der Zeitung erfahren.\n- Die **WestLB** beziehungsweise ihre Nachfolgerin Portigon bildete mehr als 600 Millionen Euro Rückstellungen für Cum-Ex-Altlasten; die Rettung der Bank hatte den Steuerzahler zuvor bis zu 18 Milliarden Euro gekostet.\n- Bei der **Helaba** in Frankfurt dauerte es drei Jahre, bis die Staatsanwaltschaft nach Bekanntwerden der Geschäfte durchsuchte.\n- Die **HSH Nordbank** verdiente mit Cum-Ex rund 112 Millionen Euro, ohne dass die Staatsanwaltschaft Hamburg je ein Verfahren eröffnete.\n\nDas Handelsblatt beschrieb die Chefetagen der Landesbanken deshalb als „justizfreie Zone“: Während Händler und Berater verurteilt wurden, kamen Vorstände und Aufsichtsräte lange ungeschoren davon. Erst ab 2023 geriet mit Ermittlungen gegen frühere WestLB-Vorstände auch diese Ebene ins Visier."
+ },
+ {
+  "name": "WestLB",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bWest[- ]?LB\\b",
+   "\\bPortigon\\b",
+   "\\bWalter[- ]Borjans\\b",
+   "\\bErste Abwicklungsanstalt\\b"
+  ],
+  "summary": "Die NRW-Landesbank leugnete ihre Cum-Ex-Deals jahrelang; heute geht es um bis zu eine Mrd. Euro.",
+  "body": "Die **WestLB** war die Landesbank Nordrhein-Westfalens und einst eine der größten Banken Deutschlands. Nach verheerenden Managementfehlern und Milliardenverlusten in der Finanzkrise wurde sie 2012 zerschlagen. Das Verbundgeschäft ging an die Helaba, Altlasten übernahm die Erste Abwicklungsanstalt, der Rest firmiert seither als Portigon AG im Besitz des Landes. Die Rettung soll den Steuerzahler nach Schätzung des damaligen NRW-Finanzministers Norbert Walter-Borjans bis zu 18 Milliarden Euro gekostet haben.\n\nParallel dazu war die WestLB an **Cum-Ex-Geschäften** beteiligt – Aktiendeals rund um den Dividendenstichtag, mit denen sich Banken eine nur einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Über Jahre bestritt die Bank jede Beteiligung; auch Walter-Borjans, der im Aufsichtsrat saß, verließ sich auf die Zusicherungen des Vorstands. Selbst als 2015 ein Whistleblower der Steuerfahndung Insiderinformationen lieferte, dementierte Portigon. Erst nach Aufnahme der Ermittlungen durch die Staatsanwaltschaft Köln im Frühjahr 2016 war das Leugnen vorbei.\n\nEnde 2019 bezifferte Portigon die möglichen Steuerschulden aus den Cum-Ex-Geschäften auf 600 Millionen Euro; mit Zinsen könnte der Schaden eine Milliarde Euro erreichen. Die Ermittlungen richten sich gegen gut zwei Dutzend frühere Verantwortliche, darunter 14 ehemalige Vorstände. Ein Streit zwischen den WestLB-Nachfolgern darüber, wer die Lasten trägt, landete vor dem Bundesgerichtshof."
+ },
+ {
+  "name": "HSH Nordbank und Cum-Ex",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bHSH\\b",
+   "\\bHSH[- ]Nordbank\\b",
+   "\\bHamburg Commercial Bank\\b",
+   "\\bHCOB\\b",
+   "\\bClifford Chance\\b",
+   "\\bStrate\\b"
+  ],
+  "summary": "Die frühere Landesbank verdiente mit Cum-Ex 112 Mio. Euro – die Staatsanwaltschaft Hamburg ermittelte nie.",
+  "body": "Die **HSH Nordbank** entstand 2003 aus der Fusion der Hamburgischen Landesbank mit der Landesbank Schleswig-Holstein und gehörte den beiden Bundesländern. Nach Milliardenverlusten in der Schiffsfinanzierung und der Finanzkrise musste sie mehrfach gerettet werden; 2018 wurde sie an Finanzinvestoren privatisiert und firmiert seither als **Hamburg Commercial Bank (HCOB)**.\n\nZwischen 2008 und 2011 beteiligte sich die Bank an **Cum-Ex-Geschäften** – Aktiendeals rund um den Dividendenstichtag, mit denen sich Beteiligte eine nur einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Ein lange geheim gehaltener Untersuchungsbericht der Kanzlei Clifford Chance beschreibt detailliert, wie die Geschäfte abliefen, und beziffert den Gewinn auf insgesamt rund 112 Millionen Euro. Die Bank legte den Bericht der Staatsanwaltschaft Hamburg vor. Diese legte lediglich einen „Beobachtungsvorgang“ an – ein Ermittlungsverfahren gab es nie.\n\nDer Hamburger Strafverteidiger Gerhard Strate sieht darin den möglichen Tatbestand der Strafvereitelung im Amt. Auch FDP-Politiker Wolfgang Kubicki hatte die Geschäfte früher als zweifelsfreie Steuerhinterziehung bezeichnet, bevor er selbst ein Mandat von Cum-Ex-Anwalt Hanno Berger übernahm.\n\nDass gegen ehemalige HSH-Banker doch noch ermittelt wird, liegt an der Staatsanwaltschaft Köln, die 2022 auch die Hamburg Commercial Bank durchsuchen ließ. Der Fall gilt als Beleg dafür, wie unterschiedlich die Justiz in den Bundesländern mit Cum-Ex umgeht."
+ },
+ {
+  "name": "Warburg Bank und Christian Olearius",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bOlearius\\b",
+   "\\bWarburg\\b",
+   "\\bM\\.?\\s?M\\.?\\s?Warburg\\b",
+   "\\bTschentscher\\b"
+  ],
+  "summary": "280 Mio. Euro Cum-Ex-Schaden, Treffen mit Scholz – der Prozess gegen Olearius endete 2024 ohne Urteil.",
+  "body": "Die Privatbank **M.M. Warburg** wurde 1798 in Hamburg gegründet und gilt als Institution der Hansestadt. Ihr langjähriger Chef und Miteigentümer **Christian Olearius** (Jahrgang 1942) spendete für Thalia Theater, Elbphilharmonie und SPD und hatte beste Kontakte in die Politik. Zwischen 2007 und 2011 betrieb die Bank, beraten vom Steueranwalt Hanno Berger, **Cum-Ex-Geschäfte**, bei denen sie sich Kapitalertragsteuer erstatten ließ, die nie gezahlt worden war. Die Ermittler beziffern den Schaden auf rund 280 Millionen Euro.\n\nPolitisch brisant wurde der Fall durch Olearius’ Tagebücher: 2016 und 2017 traf er sich mehrfach mit Hamburgs Erstem Bürgermeister Olaf Scholz und Finanzsenator Peter Tschentscher. Anschließend verzichtete das Finanzamt Hamburg zunächst darauf, 47 Millionen Euro von der Bank zurückzufordern; erst eine Weisung des Bundesfinanzministeriums verhinderte 2017 eine weitere Verjährung. Scholz erklärte vor dem Hamburger Untersuchungsausschuss und im Bundestag, sich an die Inhalte der Gespräche nicht erinnern zu können, und beteuerte, es habe keine Einflussnahme gegeben.\n\nMitarbeiter der Bank wurden bereits ab 2020 in Bonn verurteilt, die Bank musste zurückzahlen. Olearius selbst wurde 2022 angeklagt, der Prozess vor dem Landgericht Bonn begann im September 2023. Er wies alle Vorwürfe zurück und inszenierte sich als Opfer. Im Juni 2024 stellte das Gericht das Verfahren wegen seiner Erkrankung ein – ohne Urteil, aber auch ohne Freispruch."
+ },
+ {
+  "name": "Freshfields und Cum-Ex",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bFreshfields\\b",
+   "\\bFresh[- ]Fields\\b",
+   "\\bJohannemann\\b",
+   "\\bMaple[- ]Bank\\b"
+  ],
+  "summary": "Gutachten der Spitzenkanzlei machten Cum-Ex salonfähig; ihr Steuerchef Ulf Johannemann wurde 2024 verurteilt.",
+  "body": "**Freshfields Bruckhaus Deringer** gehört zu den renommiertesten Anwaltskanzleien der Welt; ihre Wurzeln reichen bis ins Jahr 1743. Konzerne und Regierungen zählen auf ihren Rat, Einstiegsgehälter liegen bei über 150.000 Euro. Doch im **Cum-Ex-Skandal** spielte die Kanzlei eine Schlüsselrolle: Ihre Rechtsgutachten bescheinigten Banken, dass sich eine einmal gezahlte Kapitalertragsteuer mehrfach erstatten lasse. Selbst Hanno Berger wollte das anfangs nicht glauben – später arbeitete er mit Freshfields Hand in Hand. Die Gutachten dienten Banken als Gütesiegel gegenüber reichen Investoren.\n\nTreibende Kraft war **Ulf Johannemann**, ein früherer Torwart von Preußen Münster, der mit 29 Jahren bei Freshfields anfing und 2016 – als seine Cum-Ex-Gutachten längst in Ermittlungsakten lagen – zum weltweiten Steuerchef der Kanzlei befördert wurde. 2019 schied er ohne Erklärung aus und kam in Untersuchungshaft. Die Kanzlei wurde mehrfach durchsucht.\n\nIm Mittelpunkt steht die Frankfurter **Maple Bank**, die 2016 wegen Cum-Ex-Steuerforderungen zusammenbrach. Ihre früheren Manager wurden zu Haftstrafen verurteilt; einer sagte im Gerichtssaal: „Ohne Freshfields säßen wir nicht hier.“ Freshfields zahlte Millionenbeträge, unter anderem an den Insolvenzverwalter der Maple Bank. Der Prozess gegen Johannemann vor dem Landgericht Frankfurt begann 2023 und endete im Januar 2024 mit einer Haftstrafe von dreieinhalb Jahren wegen Beihilfe zur Steuerhinterziehung."
+ },
+ {
+  "name": "Wirecard",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bWirecard\\b",
+   "\\bWire[- ]?Card\\b",
+   "\\bWirecards\\b",
+   "\\bBellenhaus\\b",
+   "\\bMarkus Braun\\b"
+  ],
+  "summary": "Dax-Konzern mit 1,9 Mrd. Euro, die es nie gab: Insolvenz 2020, Mammutprozess gegen Braun seit 2022.",
+  "min": 8,
+  "body": "**Wirecard** aus Aschheim bei München galt als deutsches Vorzeige-Fintech und stieg 2018 in den Dax auf. Im Juni 2020 brach der Zahlungsdienstleister zusammen, nachdem Wirtschaftsprüfer von EY 1,9 Milliarden Euro auf angeblichen Treuhandkonten in Asien nicht finden konnten. Am 25. Juni 2020 stellte Wirecard als erster Dax-Konzern einen Insolvenzantrag. Gläubiger blieben auf rund zwölf Milliarden Euro sitzen, Aktionäre verloren fast 24 Milliarden Euro.\n\nZentrale Figuren:\n\n- **Markus Braun**, Vorstandschef und Großaktionär, seit Juli 2020 in Untersuchungshaft. Er stellt sich als Opfer dar und will von nichts gewusst haben.\n- **Jan Marsalek**, Vertriebs- und Asienvorstand, flüchtete im Juni 2020 und wird international gesucht.\n- **Oliver Bellenhaus**, Chef der Dubai-Tochter CardSystems – intern „Fälscherwerkstatt“ genannt –, stellte sich den Behörden und wurde Kronzeuge. Nach gut dreieinhalb Jahren U-Haft kam er 2024 frei.\n- **Stephan von Erffa**, früherer Chefbuchhalter, der dritte Angeklagte.\n\nDie Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, Bilanzfälschung und Marktmanipulation vor; das sogenannte Drittpartnergeschäft in Asien sei weitgehend erfunden gewesen. Die 474 Seiten lange Anklage wurde im September 2022 zugelassen. Seit dem 8. Dezember 2022 läuft der Prozess vor dem Landgericht München I in einem Hochsicherheitssaal auf dem Gelände der JVA Stadelheim unter Vorsitz von Richter Markus Födisch. Ein Untersuchungsausschuss des Bundestags befasste sich 2020/21 mit dem Versagen von Aufsicht und Prüfern."
+ },
+ {
+  "name": "EY im Wirecard-Skandal",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bEY\\b",
+   "\\bErnst\\s?&\\s?Young\\b",
+   "\\bWambach\\b",
+   "\\bAPAS\\b",
+   "\\bPrüferaufsicht\\b"
+  ],
+  "summary": "Zehn Jahre uneingeschränkte Testate für Wirecard: Wambach-Report, Rekordstrafe, Milliardenklagen.",
+  "min": 10,
+  "body": "Die Wirtschaftsprüfungsgesellschaft **EY** (Ernst & Young) prüfte die Bilanzen von Wirecard seit 2009 und erteilte Jahr für Jahr uneingeschränkte Testate – bis im Juni 2020 herauskam, dass 1,9 Milliarden Euro auf angeblichen Treuhandkonten in Asien nicht existierten. Warnsignale hatte es viele gegeben: Als EY-Prüfer 2015 den philippinischen Partner PayEasy untersuchen wollten, stimmten weder Adresse noch Telefonnummer; das Testat kam trotzdem.\n\nDer Untersuchungsausschuss des Bundestags setzte **Martin Wambach**, Vorstand des Instituts der Wirtschaftsprüfer, als Sonderermittler ein. Sein 168 Seiten langer Bericht fiel verheerend aus, wurde aber als geheim eingestuft. Im Januar 2022 veröffentlichte das Handelsblatt den kompletten Wambach-Report – eine ungewöhnliche Entscheidung, die EY mit einer Strafanzeige beantwortete.\n\nDie Folgen für EY:\n\n- Die Abschlussprüferaufsichtsstelle (APAS) verhängte 2023 die härtesten Sanktionen, die es in Deutschland je gegen eine Prüfgesellschaft gab, darunter ein zweijähriges Verbot, neue Mandate bei Unternehmen von öffentlichem Interesse anzunehmen. EY legte Widerspruch ein.\n- Wirecard-Insolvenzverwalter Michael Jaffé fordert 1,5 Milliarden Euro Schadenersatz, die Schutzgemeinschaft der Kapitalanleger rund 700 Millionen Euro.\n- Zahlreiche Aktionäre klagen in Musterverfahren.\n\nDer Fall löste eine Debatte über die Reform der Wirtschaftsprüfung aus und führte 2021 zum Finanzmarktintegritätsstärkungsgesetz mit strengeren Regeln für Prüfer und Bilanzkontrolle."
+ },
+ {
+  "name": "Hermes-Deal (Wirecard in Indien)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bHermes\\b",
+   "\\bO['’]?\\s?Sullivan\\b",
+   "\\bMauritius\\b",
+   "\\bRahul Sharma\\b",
+   "\\bChennai\\b"
+  ],
+  "summary": "2015 zahlte Wirecard 315 Mio. Euro für eine Firma, die Wochen zuvor 35 Mio. gekostet hatte.",
+  "body": "Der größte Zukauf in der Geschichte von Wirecard war 2015 die Übernahme des indischen Zahlungsabwicklers **Hermes i Tickets** und zugehöriger Firmen für rund 315 Millionen Euro. Der Vorstand feierte den Deal als Durchbruch auf dem indischen Markt. Nach dem Zusammenbruch des Konzerns 2020 bezeichnete der Insolvenzverwalter die Hermes-Gruppe als unverkäuflich.\n\nDas Rätsel des Deals: Nur sechs Wochen vor dem Kauf durch Wirecard hatte ein gerade erst gegründeter Fonds mit Sitz auf **Mauritius** – der Emerging Markets Investment Fund 1A – dieselben Firmen für rund 35 Millionen Euro erworben. Die Differenz von 280 Millionen Euro galt lange als eines der größten Geheimnisse des Wirecard-Skandals.\n\nHandelsblatt-Recherchen auf Basis interner Mails, Hotelbelege und privater Chats legen nahe, dass hinter dem Fonds der Wirecard-Vorstand **Jan Marsalek** und sein enger Freund, der Geschäftsmann **Henry O’Sullivan**, standen. Beide sprachen demnach schon über den Hermes-Deal, bevor der Fonds überhaupt existierte, und planten anschließend, was sie mit den Wirecard-Millionen anfangen könnten. Ein angeblicher indischer Berater des Fonds namens **Rahul Sharma**, der Wirecards Anwälte per E-Mail antrieb und beleidigte, war demnach ein Phantom – ein Fantasiename, hinter dem wohl O’Sullivan steckte.\n\nWirtschaftsprüfer hatten vor dem Kauf gewarnt, doch niemand hörte zu. Wo die Millionen heute sind, ist ebenso unbekannt wie der Aufenthaltsort von Marsalek. Der Fall ist Teil der Anklage im Münchner Wirecard-Prozess und beschäftigt auch Ermittler in Singapur und Indien."
+ },
+ {
+  "name": "Marsalek-Brief",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bMarsalek[- ]Brief\\b",
+   "\\bBrief (von|des) (Jan )?Marsaleks?\\b",
+   "\\bSchreiben (von|des) Marsaleks?\\b",
+   "\\bDrittpartnergeschäft\\w*",
+   "\\bTPA[- ]Geschäft\\w*"
+  ],
+  "summary": "Juli 2023: Der flüchtige Wirecard-Vorstand schreibt dem Landgericht München – und stützt Braun.",
+  "body": "Drei Jahre nach seiner Flucht meldete sich **Jan Marsalek** im Juli 2023 überraschend zu Wort: Über seinen Münchner Anwalt ließ der weltweit gesuchte frühere Wirecard-Vorstand ein achtseitiges Schreiben an das Landgericht München I schicken, wo seit Dezember 2022 der Strafprozess gegen Ex-Vorstandschef Markus Braun, den Kronzeugen Oliver Bellenhaus und den früheren Chefbuchhalter Stephan von Erffa läuft.\n\nIn dem Brief wies Marsalek die Kernthese der Staatsanwaltschaft zurück, das sogenannte **Drittpartnergeschäft** (TPA-Geschäft) von Wirecard in Asien sei bloße Erfindung gewesen. Es habe die Geschäfte sehr wohl gegeben, die Gelder seien nur anderweitig verwendet worden. Damit stützte er die Verteidigungslinie von Markus Braun, dessen Anwälte ihren Mandanten durch das Schreiben entlastet sahen. Gleichzeitig widersprach er den Aussagen des Kronzeugen Bellenhaus, der ein Netz aus Briefkastenfirmen und erfundenen Umsätzen beschrieben hatte.\n\nDer Brief wirbelte den Prozess kurzzeitig durcheinander, blieb aber ohne Beweiskraft: Marsalek stellte sich weder dem Gericht noch konnte er als Zeuge befragt werden. Das Gericht und die Staatsanwaltschaft behandelten das Schreiben entsprechend zurückhaltend. Für Beobachter war es vor allem ein Lebenszeichen eines Mannes, der sich im Juni 2020 über Österreich nach Belarus und Russland abgesetzt hatte und dem später Verbindungen zu russischen Geheimdiensten nachgewiesen wurden."
+ },
+ {
+  "name": "Marsalek und das russische Spionagenetzwerk",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bMarsaleks?\\b",
+   "\\bMarsalik\\b",
+   "\\bMarsalec\\b",
+   "\\bSpionagenetzwerk\\b",
+   "\\bOld Bailey\\b",
+   "\\bRoussev\\b"
+  ],
+  "summary": "Der flüchtige Wirecard-Vorstand soll seit 2014 für Russland gearbeitet und Spione gesteuert haben.",
+  "min": 10,
+  "body": "**Jan Marsalek**, früherer Vorstand des Zahlungsdienstleisters Wirecard, flüchtete im Juni 2020 kurz vor dem Zusammenbruch des Konzerns über Österreich nach Minsk und weiter nach Moskau. Seither wird er mit internationalem Haftbefehl gesucht. Was zunächst wie die Flucht eines Bilanzbetrügers aussah, entwickelte sich zum Spionagethriller.\n\nRecherchen mehrerer Medien und Ermittlungen britischer Behörden ergaben, dass Marsalek bereits seit etwa 2014 – also Jahre vor der Wirecard-Pleite – in engem Kontakt zu russischen Geheimdiensten stand. Nach seiner Flucht soll ihn der russische Geheimdienst mit gefälschten Identitäten ausgestattet haben; unter anderem soll er sich als orthodoxer Priester getarnt haben.\n\nIn Großbritannien wurde 2023 eine Gruppe bulgarischer Staatsbürger festgenommen, die im Auftrag Russlands Journalisten, Dissidenten und Militäreinrichtungen in Europa ausgespäht haben soll. Marsalek gilt als Verbindungsmann, der die Gruppe aus Moskau steuerte und bezahlte. Der Prozess vor dem Londoner Strafgericht Old Bailey endete 2025 mit Schuldsprüchen und langen Haftstrafen für die Mitglieder des Rings.\n\nIn Deutschland hatte das Netzwerk direkte Folgen: Nach seiner Entlassung aus der Untersuchungshaft im Frühjahr 2024 erhielt Wirecard-Kronzeuge Oliver Bellenhaus Personenschutz, weil Geheimdienste eine Gefahr durch Marsaleks Umfeld sahen. Für den Münchner Wirecard-Prozess bedeuten die Enthüllungen, dass die zentrale Figur des Skandals wohl nie auf der Anklagebank sitzen wird."
+ },
+ {
+  "name": "Fall Edward Snowden",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSnowdens?\\b",
+   "\\bSchutzengel\\b",
+   "\\bHong\\s?kong\\b",
+   "\\bTibbo\\b"
+  ],
+  "summary": "2013 versteckten vier Asylbewerber den NSA-Whistleblower in Hongkong – das Handelsblatt fand sie.",
+  "body": "**Edward Snowden**, ehemaliger Mitarbeiter von CIA und NSA, enthüllte im Juni 2013 die weltweite Massenüberwachung durch amerikanische Geheimdienste. Am 9. Juni 2013 gab er sich in einem Video-Interview mit dem britischen „Guardian“ in Hongkong selbst als Quelle zu erkennen – und wurde damit zur lebenden Zielscheibe. Die USA forderten seine Auslieferung, jeder Polizist und jeder Journalist der Stadt suchte nach ihm.\n\nSnowden tauchte dort unter, wo ihn niemand vermutete: bei Asylbewerbern in den ärmsten Vierteln Hongkongs. Vermittelt von seinem Anwalt Robert Tibbo versteckten ihn die Flüchtlinge **Ajith, Vanessa, Supun und Nadeeka** – Menschen aus Sri Lanka und von den Philippinen, die selbst unter erbärmlichen Bedingungen lebten – rund zwei Wochen lang. Am 23. Juni 2013 gelang Snowden der Flug nach Moskau, wo er bis heute mit Frau und Kind lebt und inzwischen die russische Staatsbürgerschaft besitzt.\n\nDrei Jahre lang blieb unbekannt, wie Snowden die Zeit überbrückt hatte. 2016 spürte Handelsblatt-Investigativchef Sönke Iwersen die Helfer auf; für sein Dossier „Snowdens Schutzengel“ erhielt er den Kurt-Tucholsky-Preis für literarische Publizistik. Die Veröffentlichung brachte die Helfer in Gefahr: Ihre Asylanträge wurden abgelehnt, sie fürchteten die Abschiebung. Snowden selbst warb für sie, Unterstützer sammelten Spenden. Inzwischen fanden Vanessa, Supun und Nadeeka mit ihren Kindern Aufnahme in Kanada."
+ },
+ {
+  "name": "Hackerangriffe im Ukraine-Krieg",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bViasat\\b",
+   "\\bEnercon\\b",
+   "\\bWindräder\\b",
+   "\\bAnonymous\\b",
+   "\\bCyberkrieg\\b",
+   "\\bIT[- ]Army\\b"
+  ],
+  "summary": "Nach Russlands Überfall 2022 fielen Tausende Windräder aus – wie real ist die Cybergefahr?",
+  "body": "Mit dem russischen Überfall auf die Ukraine am 24. Februar 2022 wurde der Krieg auch im Cyberraum geführt. Unmittelbar mit dem Einmarsch fiel das Satellitennetz KA-SAT des US-Anbieters **Viasat** aus, über das auch die Fernwartung von Tausenden Windrädern in Deutschland lief – allein beim Hersteller Enercon waren rund 5800 Anlagen betroffen. Westliche Regierungen machten später russische Militärhacker für den Angriff verantwortlich.\n\nIn Deutschland rief das Bundesamt für Sicherheit in der Informationstechnik (BSI) eine „abstrakt erhöhte Bedrohungslage“ aus, Bundesinnenministerin Nancy Faeser warnte vor einer „erhöhten Gefährdung“ kritischer Infrastruktur wie Energieversorgung, Krankenhäusern und Verwaltung – etwa als Vergeltung für die Wirtschaftssanktionen gegen Russland.\n\nGleichzeitig entstand eine unübersichtliche Gemengelage:\n\n- Das Hackerkollektiv **Anonymous** erklärte Russland den Cyberkrieg und legte russische Webseiten lahm.\n- Die Ukraine rief eine „IT Army“ aus Freiwilligen ins Leben.\n- Kriminelle Ransomware-Banden nutzten das Chaos für Erpressungen.\n\nDeutsche Behörden warnten vor Aktionismus: Computersabotage bleibt auch gegen russische Ziele eine Straftat und kann den Konflikt eskalieren. Die Episode zeigte, wie abhängig Energie- und Kommunikationsinfrastruktur von wenigen digitalen Dienstleistern ist – und wie schwer sich Vandalismus, Kriminalität und staatliche Kriegsführung im Netz unterscheiden lassen."
+ },
+ {
+  "name": "Russische Oligarchen und Sanktionen",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bOligarch(en|s)?\\b",
+   "\\bUsmano[vw]s?\\b",
+   "\\bDilbar\\b",
+   "\\bAbramowi(tsch|ch)\\b",
+   "\\bMordascho[vw]\\b",
+   "\\bFridman\\b"
+  ],
+  "summary": "Eingefrorene Milliarden, festgesetzte Jachten: Wie Putins Vertraute die EU-Sanktionen umgehen.",
+  "body": "Nach dem russischen Angriff auf die Ukraine im Februar 2022 verhängten EU, USA und Großbritannien Sanktionen gegen Hunderte russische Unternehmer und Funktionäre. Die **Oligarchen** – Großunternehmer meist aus Rohstoff-, Banken- und Industriebranchen, die ihr Vermögen in den 1990er-Jahren und unter Wladimir Putin aufbauten – gelten als Achillesferse des Kremls: politisch eng vernetzt, aber mit Villen, Jachten und Konten im Westen.\n\nBekannte Beispiele sind der frühere Chelsea-Besitzer Roman Abramowitsch, Alfa-Bank-Gründer Michail Fridman, Tui-Großaktionär Alexei Mordaschow und Alischer Usmanow, dessen 600-Millionen-Dollar-Jacht „Dilbar“ in Hamburg festgesetzt wurde. Weil die „Dilbar“ formal einer Firma auf Malta gehört, die wiederum einer Stiftung gehört, taten sich die Behörden mit der Beschlagnahme schwer – obwohl Usmanow der Einzige ist, der das Schiff nutzt.\n\nDas Problem liegt im System: Vermögen wurde über Jahre mit Hilfe von „Enablern“ – Anwälten, Banken, Vermögensverwaltern und prominenten Fürsprechern in London, der Schweiz oder Deutschland – legalisiert und in verschachtelten Strukturen versteckt. Deutschland reagierte 2022 mit einer Task Force und zwei Sanktionsdurchsetzungsgesetzen, einer Zentralstelle für Sanktionsdurchsetzung und einem Transparenzregister. Dennoch bleibt die Umsetzung ein Katz-und-Maus-Spiel: Jachten wechseln den Eigentümer auf dem Papier, Vermögen wandert in befreundete Staaten, und Gerichte heben einzelne Sanktionen mangels Beweisen wieder auf."
+ },
+ {
+  "name": "Ergo-Lustreisen",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bErgo\\b",
+   "\\bHamburg[- ]Mannheimer\\b",
+   "\\bHMI\\b",
+   "\\b(Lust|Sex)[- ]?[Rr]eisen?\\b",
+   "\\bBudapest\\b",
+   "\\bGell[eé]rt\\b"
+  ],
+  "summary": "2007 feierten Hamburg-Mannheimer-Vertreter eine Sex-Party in Budapest – 2011 flog es auf.",
+  "min": 8,
+  "body": "Im Sommer 2007 belohnte die Versicherung **Hamburg-Mannheimer** (HMI), bekannt durch ihre Werbefigur „Herr Kaiser“, ihre rund 100 besten Vertreter mit einer Reise nach Budapest. Dort wurde die traditionsreiche Gellért-Therme für eine Nacht zum Freiluftbordell: Dutzende Hostessen und Prostituierte waren engagiert, die Abrechnung erfolgte mit notarieller Genauigkeit – inklusive farbiger Bändchen zur Kennzeichnung, welche Frau wie oft „in Anspruch genommen“ worden war.\n\nIm Mai 2011 deckte das Handelsblatt die Reise auf – mitten in einer der größten Werbekampagnen des Konzerns **Ergo**, in dem die Hamburg-Mannheimer, die Victoria und weitere Marken 2010 unter dem Dach der Munich Re aufgegangen waren. Der Slogan lautete ausgerechnet „Versichern heißt Verstehen“.\n\nErgo gab sich entsetzt, erstattete Anzeige gegen Verantwortliche und sprach von einem Einzelfall. Den Untersuchungsbericht hielt der Konzern unter Verschluss. Weitere Recherchen zeigten jedoch, dass Budapest kein Ausrutscher war: Ähnliche Veranstaltungen gab es auf der Reeperbahn, in Bordellen auf Mallorca und in einem Swinger-Hotel auf Jamaika. Die Affäre, in deren Verlauf auch Vertriebsvorstände gehen mussten, prägte den Begriff „Lustreise“ und kostete Ergo massiv Vertrauen. Für seine Recherche wurde Sönke Iwersen als Wirtschaftsjournalist des Jahres ausgezeichnet; die Originalunterlagen der Budapest-Reise landeten später im Haus der Geschichte in Bonn."
+ },
+ {
+  "name": "Kryptoqueen Ruja Ignatova",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bIgnatova\\b",
+   "\\bOne[- ]?Coin\\b",
+   "\\bKryptoqueen\\b",
+   "\\bKryptokönigin\\b",
+   "\\bDr\\.? Ruja\\b",
+   "\\bRuja\\b"
+  ],
+  "summary": "Mit der Scheinwährung OneCoin sammelte Ignatova Milliarden ein – seit 2017 ist sie verschwunden.",
+  "body": "**Ruja Ignatova**, geboren 1980 in Bulgarien und aufgewachsen in Schramberg im Schwarzwald, promovierte in Konstanz, arbeitete bei McKinsey und gründete 2014 in Sofia **OneCoin**. Auf großen Bühnen – etwa in der Londoner Wembley Arena – versprach die „Dr. Ruja“ ihren Anhängern, OneCoin werde den Bitcoin als wichtigste Kryptowährung ablösen.\n\nTatsächlich gab es nie eine echte Blockchain. OneCoin war ein Schneeballsystem, das über Multi-Level-Marketing „Schulungspakete“ verkaufte und Anlegern wertlose Coins gutschrieb. Weltweit sollen Investoren mehrere Milliarden Euro eingezahlt haben – auch in Deutschland warben Vertriebspartner Tausende Kunden an. Die Bafin untersagte das Geschäft bereits 2017.\n\nAm 25. Oktober 2017 bestieg Ignatova in Sofia ein Flugzeug nach Athen – und verschwand. Seither gilt sie als eine der meistgesuchten Frauen der Welt: Das FBI setzte sie 2022 auf seine Liste der zehn meistgesuchten Flüchtigen, Europol führt sie ebenfalls, die Belohnung wurde auf mehrere Millionen Dollar erhöht. Ermittler gehen davon aus, dass sie über erhebliche Mittel und ein Netzwerk an Unterstützern verfügt; Gerüchte über ihren Tod wurden nie bestätigt.\n\nIhr Bruder Konstantin Ignatov und Mitgründer Sebastian Greenwood wurden in den USA verurteilt, Greenwood 2023 zu 20 Jahren Haft. In Deutschland verhandelte das Landgericht Münster gegen mutmaßliche Helfer; mehr als 20 Strafverfolgungsbehörden weltweit ermitteln."
+ },
+ {
+  "name": "Dieselgate (Volkswagen)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bDieselgate\\b",
+   "\\bDiesel[- ]?skandal\\w*",
+   "\\bAbgas[- ]?skandal\\w*",
+   "\\bWinterkorns?\\b",
+   "\\bAbschalteinrichtung\\w*",
+   "\\bVolkswagen\\b"
+  ],
+  "summary": "Elf Millionen manipulierte Dieselmotoren, über 30 Mrd. Euro Kosten: der größte Autoskandal.",
+  "min": 8,
+  "body": "Am 18. September 2015 schickte die US-Umweltbehörde EPA Volkswagen eine „Notice of Violation“: Der Konzern hatte in rund 500.000 Diesel-Fahrzeugen in den USA eine Software eingebaut, die den Prüfstand erkannte und nur dort die Abgasreinigung voll aktivierte. Im Straßenverkehr stießen die Motoren ein Vielfaches der erlaubten Stickoxide aus. Weltweit waren rund elf Millionen Fahrzeuge des Konzerns betroffen.\n\nEntdeckt hatten die Manipulation Forscher der West Virginia University, die mit einem mobilen Messgerät die realen Abgaswerte prüften. Fünf Tage nach der EPA-Mitteilung trat Vorstandschef **Martin Winterkorn** zurück und beteuerte, nichts gewusst zu haben – obwohl Hinweise auf die Probleme bereits 2014 in seinem „Wochenendkoffer“ gelegen haben sollen. Interne Mails zeigten, dass Ingenieure schon 2006 und 2008 vor dem Betrug warnten: „Ganz ohne Bescheißen werden wir es nicht schaffen.“\n\nDie Folgen:\n\n- Über 32 Milliarden Euro Kosten für Volkswagen, darunter Milliardenvergleiche in den USA und ein Bußgeld von einer Milliarde Euro in Braunschweig.\n- Haftstrafen für VW-Manager in den USA; in Deutschland Anklagen gegen Winterkorn und weitere Führungskräfte in Braunschweig, wobei Winterkorns Verfahren wegen seiner Gesundheit mehrfach stockte.\n- Zivilrechtlich: Gerichte warfen VW „bewusste Täuschung“ und „sittenwidrige Schädigung“ vor. Die Musterfeststellungsklage des Verbraucherzentrale Bundesverbands endete 2020 mit einem Vergleich über rund 830 Millionen Euro für etwa 240.000 Kunden. Im Braunschweiger Anlegerverfahren fordern Investoren um die Deka rund zehn Milliarden Euro."
+ },
+ {
+  "name": "Audi-Dieselskandal",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bAudi\\b",
+   "\\bRupert Stadler\\b",
+   "\\bStadlers?\\b",
+   "\\bHatz\\b",
+   "\\bPamio\\b"
+  ],
+  "summary": "Erster Diesel-Strafprozess: Ex-Audi-Chef Stadler gestand 2023 nach 170 Verhandlungstagen.",
+  "body": "Nicht nur die Konzernmutter Volkswagen in Wolfsburg, auch die Tochter **Audi** in Ingolstadt manipulierte die Abgaswerte ihrer Dieselmotoren. Audi entwickelte die großen V6- und V8-Dieselmotoren für den gesamten Konzern, auch für Porsche. Die Software erkannte Prüfstandssituationen und schaltete die Abgasreinigung im Alltag herunter. Ein Audi-Ingenieur hatte bereits 2008 intern geschrieben: „Ganz ohne Bescheißen werden wir es nicht schaffen.“\n\nIm Juni 2018 wurde Audi-Chef **Rupert Stadler** als erster Topmanager im Dieselskandal verhaftet und saß vier Monate in Untersuchungshaft; die Ermittler warfen ihm vor, auch nach Bekanntwerden des Skandals weiter manipulierte Autos verkauft zu haben. Angeklagt wurden außerdem der frühere Entwicklungschef **Wolfgang Hatz**, der Ingenieur **Giovanni Pamio** und ein weiterer Techniker.\n\nDer Prozess vor dem Landgericht München II begann im September 2020 und zog sich über rund 170 Verhandlungstage. Das Gericht stellte den Angeklagten im Fall von Geständnissen Bewährungsstrafen in Aussicht. Nach langem Zögern legte Stadler im Mai 2023 ein Geständnis ab. Im Juni 2023 wurde er zu einem Jahr und neun Monaten auf Bewährung sowie 1,1 Millionen Euro Geldauflage verurteilt; Hatz erhielt zwei Jahre Bewährung und 400.000 Euro, Pamio ein Jahr und neun Monate Bewährung und 50.000 Euro. Es war das erste rechtskräftige Strafurteil gegen einen Vorstandschef im Dieselskandal. Audi zahlte zudem 2018 ein Bußgeld von 800 Millionen Euro."
+ },
+ {
+  "name": "Prominente und die Steuerfahndung",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSchuhbecks?\\b",
+   "\\bZumwinkels?\\b",
+   "\\bHoene(ß|ss)\\b",
+   "\\bBoris Becker\\b",
+   "\\bSteuersünder\\b"
+  ],
+  "summary": "Schuhbeck, Hoeneß, Zumwinkel: Warum Prominente für vergleichsweise kleine Beträge Ruf und Freiheit riskieren.",
+  "body": "Steuerhinterziehung galt in Deutschland lange als Kavaliersdelikt – und ist für viele Prominente zum Karriereende geworden. Die bekanntesten Fälle:\n\n- **Alfons Schuhbeck**, Starkoch und Gastronom, bekochte den FC Bayern, Kanzlerin Merkel und die Queen. Mit einer manipulierten Kassensoftware schleuste er über Jahre Einnahmen am Fiskus vorbei. Das Landgericht München I verurteilte ihn im Oktober 2022 wegen Steuerhinterziehung von rund 2,3 Millionen Euro zu drei Jahren und zwei Monaten Haft. Sein Gastro-Imperium meldete Insolvenz an, 2023 trat er die Strafe an.\n- **Uli Hoeneß**, Präsident des FC Bayern München, hatte über ein Schweizer Konto spekuliert und 28,5 Millionen Euro Steuern hinterzogen. Nach einer gescheiterten Selbstanzeige wurde er 2014 zu dreieinhalb Jahren Haft verurteilt, von denen er gut die Hälfte absaß.\n- **Klaus Zumwinkel**, Chef der Deutschen Post, wurde 2008 vor laufenden Kameras in seiner Kölner Villa von Steuerfahndern durchsucht – Auslöser war eine Daten-CD aus Liechtenstein. 2009 erhielt er zwei Jahre auf Bewährung und eine Geldauflage von einer Million Euro.\n- **Boris Becker** wurde 2002 in München wegen Steuerhinterziehung zu einer Bewährungsstrafe verurteilt; 2022 kam er in Großbritannien wegen Insolvenzvergehen ins Gefängnis.\n\nAuffällig ist, dass die Strafen angesichts der Beträge oft mild ausfielen – Geständnisse, Nachzahlungen und prominente Verteidiger spielen dabei eine Rolle. Die Fälle zeigen zugleich, wie Daten-CDs, Selbstanzeigen und Whistleblower die Steuerfahndung seit 2008 verändert haben."
+ },
+ {
+  "name": "Adler Group",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bAdler[- ]Group\\b",
+   "\\bAdler Real Estate\\b",
+   "\\bAdler\\b",
+   "\\bCaner\\b",
+   "\\bPerring\\b",
+   "\\bViceroy\\b"
+  ],
+  "summary": "Shortseller-Vorwürfe, geplatztes Testat, Großrazzia: Der Immobilienkonzern kämpfte ab 2021 ums Überleben.",
+  "body": "Die **Adler Group** mit Sitz in Luxemburg entstand 2020 aus der Fusion von ADO Properties, Adler Real Estate und dem Projektentwickler Consus und war mit Zehntausenden Wohnungen ein wichtiger Spieler am deutschen Immobilienmarkt. Im Oktober 2021 veröffentlichte der britische Shortseller **Fraser Perring** (Viceroy Research), der schon vor Wirecard gewarnt hatte, ein Dossier mit Vorwürfen von Betrug, Täuschung und überhöhten Bewertungen. Eine zentrale Rolle schrieb er dem österreichischen Unternehmer **Cevdet Caner** zu, der bei Adler nie ein offizielles Amt hatte, aber als Schatten-CEO die Fäden gezogen haben soll. Adler und Caner bestreiten die Vorwürfe.\n\nDie Folgen kamen Schlag auf Schlag:\n\n- Eine Sonderuntersuchung von KPMG konnte den Konzern 2022 nicht vollständig entlasten; die Prüfer verweigerten das Testat für 2021 und legten das Mandat nieder. Lange fand Adler keinen Nachfolger, bis Rödl & Partner 2023 übernahm.\n- Die Bafin stellte zwei grobe Fehler in der Bilanz 2019 fest; das Projekt Gerresheim war demnach um fast vier Milliarden Euro zu hoch bewertet.\n- Staatsanwaltschaften in Frankfurt und Berlin nahmen Ermittlungen auf. Im Juni 2023 durchsuchten 175 Beamte europaweit Büros und Wohnungen wegen des Verdachts auf Untreue, Bilanzfälschung und Marktmanipulation; sieben Beschuldigte wurden genannt.\n- Milliardenverluste 2021 (rund 1,2 Mrd.) und 2022 (1,7 Mrd.).\n\nUm die Insolvenz abzuwenden, einigte sich Verwaltungsratschef Stefan Kirsten mit einer Gläubigergruppe auf einen Restrukturierungsplan, den der Londoner High Court im April 2023 gegen den Widerstand anderer Anleihegläubiger genehmigte. Die Aktie fiel zum Pennystock."
+ },
+ {
+  "name": "Cyberangriff auf Continental",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bContinental\\b",
+   "\\bConti\\b",
+   "\\bLock[- ]?Bit\\b",
+   "\\bDarknet\\b",
+   "\\bRansomware\\b"
+  ],
+  "summary": "Hacker kopierten 2022 wochenlang Daten des Dax-Konzerns und boten sie im Darknet für 50 Mio. Dollar an.",
+  "body": "Im Sommer 2022 verschafften sich Cyberkriminelle Zugang zu den IT-Systemen des Autozulieferers **Continental** aus Hannover. Wochenlang kopierten sie unbemerkt Daten – nach Angaben der Täter rund 40 Terabyte. Die Eintrittstür öffnete offenbar ein Mitarbeiter, der einen nicht freigegebenen Browser installierte und damit Schadsoftware ins Netz holte. Continental bemerkte den Eindringling im August 2022, hielt den Vorfall zunächst für abgewehrt und informierte erst im November die Öffentlichkeit, als die Erpressergruppe **LockBit** die Daten im Darknet zum Kauf anbot – Preis: 50 Millionen US-Dollar.\n\nLockBit gilt als eine der professionellsten Ransomware-Banden der Welt, die Erpressung nach dem Prinzip „Ransomware as a Service“ betreibt. Der Fall zeigt, wie global agierende Gruppen digitale Erpressung zum lukrativen Geschäftsmodell gemacht haben, ohne nennenswertes Risiko einzugehen, weil die Täter meist in Staaten sitzen, die nicht ausliefern. Behörden wie das BSI, Landeskriminalämter und das FBI können den Opfern oft nur beratend zur Seite stehen.\n\nFür Continental war der Schaden erheblich: Hunderte Mitarbeiter und externe Spezialisten mussten den Angriff aufarbeiten, Kunden wie Volkswagen und Mercedes wurden informiert, Betriebsräte fürchteten um Mitarbeiterdaten. Konzernchef Nikolai Setzer kündigte an, die Cybersicherheit massiv auszubauen. 2024 gelang internationalen Ermittlern ein Schlag gegen die LockBit-Infrastruktur, Anführer wurden identifiziert und mit Sanktionen belegt."
+ },
+ {
+  "name": "Fall Mehmet Göker",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bMehmet Göker\\b",
+   "\\bGökers?\\b",
+   "\\bGoekers?\\b",
+   "\\bGöckers?\\b",
+   "\\bMEG\\b"
+  ],
+  "summary": "Mit 23 Millionär, mit der MEG pleite, seither in der Türkei: der gefallene Star des Versicherungsvertriebs.",
+  "body": "**Mehmet Göker**, geboren 1979 in Kassel, gründete mit 23 Jahren den Versicherungsvertrieb **MEG AG**, der private Krankenversicherungen verschiedener Anbieter vermittelte. Die Provisionen waren enorm – bis zu 8.000 Euro pro Vertragsabschluss –, und die Versicherer überhäuften den jungen Unternehmer mit Geld, weil er ihnen Umsatz brachte. Göker lebte den Rausch offen aus: Luxusautos, Partys, Motivationsshows für seine Vertriebler, die ein Dokumentarfilm („Der Versicherungsvertreter“) später festhielt.\n\nDas System hatte einen Haken: Für Kunden waren die vermittelten Tarife oft teuer, die Verträge wurden massenhaft gewechselt, und die MEG wuchs über ihre Verhältnisse. 2009 ging das Unternehmen in die Insolvenz, Hunderte Mitarbeiter verloren ihren Job. Die Staatsanwaltschaft warf Göker Untreue und Insolvenzverschleppung vor; es erging ein Haftbefehl.\n\nStatt sich dem Verfahren zu stellen, setzte sich Göker in die Türkei ab, wo er seit Jahren lebt. Von dort betreibt er weiter Vertriebsgeschäfte und Coaching, verkauft eine Autobiografie („Ich stehe wieder auf“) und sammelt über Social Media Anhänger. 2014 besuchte ihn der Handelsblatt-Reporter Ozan Demircan als erster Journalist im Exil und verbrachte mehrere Tage in seinem Haus.\n\nDer Fall gilt als Lehrstück über die perversen Anreize im provisionsgetriebenen Finanzvertrieb: Versicherer, Vermittler und Aufsicht ließen Göker gewähren, solange die Zahlen stimmten."
+ },
+ {
+  "name": "Erbstreit Thiele",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bThieles?\\b",
+   "\\bKnorr[- ]Bremse\\b",
+   "\\bBrühmüller\\b",
+   "\\bVossloh\\b"
+  ],
+  "summary": "Um das 17-Milliarden-Erbe des Knorr-Bremse-Patriarchen streiten Sohn, Witwe und Testamentsvollstrecker.",
+  "body": "**Heinz Hermann Thiele** (1941–2021) begann 1969 in der Patentabteilung von Knorr-Bremse, wurde 1985 Vorstandschef und kaufte den angeschlagenen Bremsenhersteller mit Hilfe eines Kredits der Deutschen Bank. Er baute das Münchner Unternehmen zum Weltmarktführer für Brems- und Zugsysteme aus und brachte es 2018 an die Börse. Dazu kamen die Mehrheit am Schienentechnikkonzern Vossloh und ein großes Aktienpaket an der Lufthansa. Thiele galt als harter, streitbarer Patriarch; sein Vermögen wurde auf rund 17 Milliarden Euro geschätzt.\n\nSein Tod im Februar 2021 löste einen erbitterten Erbstreit aus:\n\n- Sohn **Henrik Thiele** hatte sich 2015 mit dem Vater überworfen und 2017 einen Pflichtteilsverzicht gegen 25 Millionen Euro unterschrieben. Nun klagte er auf rund 4,5 Milliarden Euro, weil der Verzicht unter Druck zustande gekommen sei. Das Landgericht München I wies die Klage 2023 ab; Henrik Thiele ging in Berufung und beschrieb den Tod des Vaters öffentlich als „Befreiung“.\n- Witwe **Nadia Thiele** wehrt sich dagegen, dass sie in der Stiftung, in die das Erbe fließen soll, nur eine Nebenrolle spielt, während Tochter Julia Thiele-Schürhoff die starke Position erhält. Sie klagte gegen die Stiftungsaufsicht und gegen Testamentsvollstrecker Robin Brühmüller, dem sie Raffgier vorwirft: Seine Vergütung könnte bei bis zu 250 Millionen Euro liegen. Brühmüller erzielte vor Gericht zunächst Etappensiege.\n\nDer Fall zeigt, wie Nachfolgeregelungen in Milliardenvermögen scheitern, wenn Patriarchen Konflikte ungelöst hinterlassen."
+ },
+ {
+  "name": "Erbstreit Dussmann",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bDussmanns?\\b",
+   "\\bGötherts?\\b",
+   "\\bFürstenberg[- ]Dussmann\\b",
+   "\\bKulturkaufhaus\\b"
+  ],
+  "summary": "Tochter gegen Mutter: geändertes Testament, esoterischer Schwiegersohn, das Vermögen Peter Dussmanns.",
+  "body": "**Peter Dussmann** (1938–2013) baute aus einem Reinigungsservice die Berliner Dussmann Group mit Gebäudereinigung, Catering, Pflegediensten und dem Kulturkaufhaus an der Friedrichstraße auf – ein Konzern mit Milliardenumsatz. Bei der Geburt seiner einzigen Tochter Angela 1981 legte er fest, dass Ehefrau **Catherine von Fürstenberg-Dussmann** und Tochter einmal zu gleichen Teilen erben sollten.\n\nAngela Dussmann galt lange als Vorzeigetochter: Einser-Abitur, Harvard-Studium, Buchhändlerlehre im väterlichen Kaufhaus. Dann lernte sie **Ronald Göthert** kennen, 16 Jahre älter, mit Hauptschulabschluss und Schreinerlehre, gescheitert als Finanzberater und schließlich Betreiber einer esoterischen Praxis für die „Göthertsche Methode“, mit der er angeblich „Feinstoffe“ erkennen und Menschen heilen konnte. Peter Dussmann lehnte den Schwiegersohn so sehr ab, dass er 2006 nicht zur Hochzeit erschien.\n\n2008 erlitt Dussmann einen Schlaganfall. 2010 wurde sein Testament geändert: Statt 50 sollte die Tochter nur noch 25 Prozent erhalten. Unterschreiben konnte Dussmann krankheitsbedingt nicht mehr, das übernahm sein Arzt. Angela Göthert erfuhr davon erst nach dem Tod des Vaters 2013 und zieht seither gegen ihre Mutter vor Gericht; sie bestreitet die Wirksamkeit der Testamentsänderung.\n\nDie Witwe, die den Konzern als Stiftungsratsvorsitzende führt, errang vor dem Landgericht Berlin Etappensiege; die Tochter legte Berufung ein. Der Streit um die vielen Millionen ist bis heute nicht beigelegt."
+ },
+ {
+  "name": "Aldi-Familienstreit",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bAldi\\b",
+   "\\bAlbrechts?\\b",
+   "\\bAldi[- ]Nord\\b",
+   "\\bAldi[- ]Süd\\b",
+   "\\bBabette\\b",
+   "\\bJakobus[- ]Stiftung\\b"
+  ],
+  "summary": "Rote Zahlen bei Aldi Nord, Dauerstreit der Albrecht-Erben um die Stiftungen – und Lidl zieht davon.",
+  "body": "Die Brüder **Karl und Theo Albrecht** übernahmen nach dem Zweiten Weltkrieg den Lebensmittelladen ihrer Mutter in Essen und erfanden mit Aldi den Discounter: wenige Artikel, niedrige Preise, keine Dekoration. 1961 teilten sie das Reich entlang des „Aldi-Äquators“ in Aldi Nord (Theo) und Aldi Süd (Karl). Die Familie blieb extrem verschwiegen – verstärkt durch die Entführung Theo Albrechts 1971, der 17 Tage in der Gewalt seiner Kidnapper war und für sieben Millionen Mark Lösegeld freikam. Beide Brüder starben als Milliardäre (Theo 2010, Karl 2014).\n\nBei **Aldi Nord** liegt das Unternehmen in drei Familienstiftungen. Nach dem Tod von Theos Sohn Berthold Albrecht 2012 entbrannte ein jahrelanger Streit zwischen dessen Witwe Babette Albrecht und ihren Kindern auf der einen und Theo Albrecht junior auf der anderen Seite – um Einfluss in den Stiftungen, Ausschüttungen und den Lebensstil der Witwe. Mehrere Gerichtsverfahren bis zum Bundesverfassungsgericht folgten.\n\nWährend die Familie stritt, zog die Konkurrenz davon: Lidl ist straffer organisiert und technisch weiter. 2022 schrieb Aldi Nord Insidern zufolge rote Zahlen, vor allem wegen der problematischen Übernahme der Leader-Price-Filialen in Frankreich und wegen gescheiterter IT-Projekte. Aldi Nord und Aldi Süd setzen mit über 4000 Filialen in Deutschland gemeinsam mehr als 30 Milliarden Euro um und beschäftigen fast 90.000 Menschen. Der Fall zeigt, wie Familienkonflikte und Wagenburgmentalität einen Weltkonzern bremsen können."
+ },
+ {
+  "name": "Tesla-Files",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bTesla[- ]?Files\\b",
+   "\\bKrupskis?\\b",
+   "\\bKrupsky\\b",
+   "\\bTesla\\b",
+   "\\bAutopilot\\w*",
+   "\\bMusks?\\b"
+  ],
+  "summary": "100 Gigabyte interne Tesla-Daten: Autopilot-Beschwerden, Cybertruck-Mängel, Daten von 100.000 Mitarbeitern.",
+  "min": 8,
+  "body": "Im Mai 2023 veröffentlichte das Handelsblatt die **Tesla-Files**: mehr als 100 Gigabyte interner Daten, die ein Informant der Redaktion zugespielt hatte. Darunter waren rund 2400 Kundenbeschwerden über ungewollte Beschleunigung und 1500 über Bremsprobleme des Fahrassistenzsystems Autopilot, ein Geheimbericht über Konstruktionsmängel des Cybertrucks sowie Excel-Listen mit Gehältern, Privatadressen und Sozialversicherungsnummern von mehr als 100.000 aktuellen und ehemaligen Beschäftigten. Tesla sprach von Datendiebstahl, äußerte sich inhaltlich aber nicht.\n\nDie Quelle war **Lukasz Krupski**, ein Servicetechniker, der im November 2018 in Norwegen bei Tesla angefangen hatte und sich selbst als „Tesla-Jünger“ bezeichnete. 2019 riss er bei einem Brand auf einer Ausstellung ein defektes Ladegerät mit bloßen Händen aus einem Model 3 und tauschte sich danach direkt mit Elon Musk über Arbeitssicherheit aus. Kurz darauf fand er Überwachungssoftware auf seinem Laptop; ein Vorgesetzter erklärte ihm, er habe bei Tesla keine Zukunft mehr. Krupski dokumentierte Sicherheits- und Datenschutzmängel, wandte sich an Behörden und schließlich ans Handelsblatt. Tesla setzte eine frühere CIA-Agentin auf ihn an, norwegische Behörden durchsuchten seine Wohnung.\n\nRund 20 europäische Datenschutzbehörden, darunter die niederländische Aufsicht als für Tesla Europa zuständige Stelle und die Behörde in Brandenburg, befassten sich mit den Daten; in den USA können Generalstaatsanwälte der Bundesstaaten Verfahren einleiten. Krupski wurde für seinen Mut mit dem Whistleblower-Preis der Organisation Blueprint for Free Speech ausgezeichnet."
+ },
+ {
+  "name": "PIM Gold",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bPIM[- ]Gold\\b",
+   "\\bPIM\\b",
+   "\\bPazarci\\b",
+   "\\bHeusenstamm\\b"
+  ],
+  "summary": "Fast drei Tonnen Gold im Wert von über 150 Mio. Euro verschwanden aus den Tresoren des Händlers bei Frankfurt.",
+  "body": "Die **PIM Gold GmbH** aus Heusenstamm bei Frankfurt verkaufte Privatanlegern Goldbarren und Sparpläne mit einem Versprechen: Wer sein Gold im Tresor der Firma ließ, bekam eine Bonusrendite von bis zu elf Prozent – vermeintlich finanziert durch den Verleih des Edelmetalls. Mehr als 7500 Anleger vertrauten dem Unternehmen, Vertriebspartner warben auf Provisionsbasis weitere Kunden an. Erste Warnsignale gab es früh, unter anderem durch einen öffentlich ausgetragenen Streit mit einem konkurrierenden Goldhändler.\n\nIm September 2019 durchsuchte die Polizei die Firmenräume. Statt der erwarteten Bestände fanden die Ermittler nur einen Bruchteil des Goldes: Fast drei Tonnen im Gegenwert von über 150 Millionen Euro fehlten. Die Staatsanwaltschaft Darmstadt geht von einem Schneeballsystem aus, bei dem Kundengold verkauft und Renditen aus dem Geld neuer Anleger gezahlt wurden. Die Spur des Edelmetalls führte zu fragwürdigen Transfers an eine große Goldraffinerie in Istanbul; Ermittler sprachen von internationaler Geldwäsche.\n\nNach einem über ein Jahr dauernden Mammutprozess verurteilte das Landgericht Darmstadt den Firmenchef **Mesut Pazarci** 2023 zu fast sieben Jahren Haft wegen Betrugs. Weil der Haftbefehl aufgehoben wurde, kam er zunächst frei; das Urteil war zunächst nicht rechtskräftig. PIM Gold ist insolvent, die Anleger müssen mit hohen Verlusten rechnen. Der Fall zeigt die Risiken des grauen Kapitalmarkts, auf dem Goldhändler kaum von der Finanzaufsicht kontrolliert werden."
+ },
+ {
+  "name": "Korrupter Oberstaatsanwalt Badle",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBadles?\\b",
+   "\\bAlexander Badle\\b",
+   "\\bkorrupte[rn]? Oberstaatsanwalt\\b",
+   "\\bGutachtenaufträge\\b"
+  ],
+  "summary": "Frankfurts bekanntester Korruptionsjäger kassierte selbst Schmiergeld – 2023 sechs Jahre Haft.",
+  "body": "**Alexander Badle** leitete bei der Generalstaatsanwaltschaft Frankfurt die Zentralstelle zur Bekämpfung von Vermögensstraftaten und Korruption im Gesundheitswesen und galt als einer der profiliertesten Korruptionsbekämpfer Deutschlands. Er trat auf Fachkongressen auf, wurde in Medien zitiert und von Journalisten als Experte geschätzt – auch vom Handelsblatt-Investigativteam, das über Jahre mit ihm zu tun hatte.\n\nHinter der integren Fassade hatte Badle ein System aufgebaut, das ihm mehr als ein Jahrzehnt lang Schmiergelder einbrachte: Für die Auswertung von Abrechnungsdaten in Ermittlungsverfahren vergab er Gutachtenaufträge an eine Firma, die ein Bekannter betrieb, und kassierte dafür Provisionen in sechsstelliger Höhe. Insgesamt soll ein Schaden in Millionenhöhe entstanden sein, weil überhöhte Honorare aus der Staatskasse bezahlt wurden. Die fehlende Kontrolle in der Behörde machte es ihm leicht.\n\nAufgeflogen ist der Fall nicht durch interne Prüfungen, sondern durch die Anzeige seiner ehemaligen Lebensgefährtin. Im August 2020 wurde Badle verhaftet. Im Mai 2023 verurteilte ihn das Landgericht Frankfurt wegen Bestechlichkeit, Untreue und Steuerhinterziehung zu sechs Jahren Haft; auch sein Komplize erhielt eine Haftstrafe.\n\nDer Fall erschütterte die hessische Justiz, weil ausgerechnet ein Korruptionsjäger das Vertrauen in die Strafverfolgung missbrauchte, und führte zu einer Debatte über die Vergabe externer Aufträge durch Staatsanwaltschaften."
+ },
+ {
+  "name": "Höhle der Löwen – Pleite (Social Chain)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSocial[- ]Chain\\b",
+   "\\bKoflers?\\b",
+   "\\bDümmels?\\b",
+   "\\bHöhle der Löwen\\b",
+   "\\bWindhorsts?\\b",
+   "\\bLöwenaktie\\b"
+  ],
+  "summary": "Die Firma der TV-Investoren Kofler und Dümmel war 2021 eine halbe Milliarde wert – 2023 folgte die Insolvenz.",
+  "body": "**Georg Kofler**, einst Chef von ProSieben und Premiere, und **Ralf Dümmel**, Handelsunternehmer aus Stade, wurden durch die Vox-Show „Die Höhle der Löwen“ einem Millionenpublikum bekannt. 2021 brachten sie ihre Firmen zusammen: Dümmels DS Holding ging in die Berliner **Social Chain AG** ein, die Kofler führte und die Marken aus der Show über Social Media und Handel vertreiben wollte. Die Aktie stieg im November 2021 auf über 50 Euro, der Börsenwert auf mehr als eine halbe Milliarde Euro; Beobachter sprachen von der „Löwenaktie“.\n\nDoch das Geschäftsmodell trug nicht. Verluste häuften sich, eine Kapitalerhöhung geriet ins Wanken, die Bafin entdeckte Fehlbuchungen in Millionenhöhe. Im Juli 2023 meldete die Social Chain AG Insolvenz an; die Aktie war zum Pennystock geworden. Das Unternehmen machte unter anderem den Investor **Lars Windhorst** verantwortlich, der zugesagte Zahlungen für ein Aktienpaket schuldig geblieben sei. Dümmel kaufte Teile seines alten Geschäfts aus der Insolvenz zurück.\n\nKritik traf auch die beiden Prominenten selbst: Kofler soll als CEO ein mitteilungspflichtiges Großinvestment kurz vor der Pleite verschwiegen haben, Kleinanleger fühlten sich von der TV-Prominenz geblendet. Der Fall gilt als Beispiel dafür, wie Bekanntheit aus dem Fernsehen an der Börse zu überzogenen Erwartungen führen kann."
+ },
+ {
+  "name": "BSI-Affäre Schönbohm",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSchönbohms?\\b",
+   "\\bSchoenbohm\\b",
+   "\\bBSI\\b",
+   "\\bFaesers?\\b",
+   "\\bBöhmermanns?\\b",
+   "\\bCyber[- ]?Sicherheitsrat\\b"
+  ],
+  "summary": "Nach einem Böhmermann-Beitrag feuerte Faeser 2022 den BSI-Chef – ein Jahr später traf es sie selbst.",
+  "body": "**Arne Schönbohm** leitete seit 2016 das Bundesamt für Sicherheit in der Informationstechnik (BSI), Deutschlands oberste Cybersicherheitsbehörde, und war für Unternehmen nach Hackerangriffen der Mann des Vertrauens. Im Oktober 2022 griff ihn Jan Böhmermann im „ZDF Magazin Royale“ an: Schönbohm habe den von ihm mitgegründeten Lobbyverein Cyber-Sicherheitsrat Deutschland e.V. zu nah an sich herangelassen, dem ein Unternehmen mit Verbindungen zu einem russischen Geheimdienstumfeld angehörte.\n\nBundesinnenministerin **Nancy Faeser** (SPD) enthob Schönbohm wenige Tage später seines Amtes und untersagte ihm die Führung der Dienstgeschäfte. Belege für eine Verbindung Schönbohms zu russischen Diensten fanden sich jedoch nicht; ein Disziplinarverfahren wurde 2023 ohne Ergebnis eingestellt. Schönbohm wurde Präsident der Bundesakademie für öffentliche Verwaltung und klagte gegen das ZDF und gegen den Bund.\n\nIm Herbst 2023, als Faeser als Spitzenkandidatin in den hessischen Landtagswahlkampf zog, wendete sich die Affäre gegen sie: CDU-Abgeordnete warfen ihr vor, Schönbohm unfair behandelt und sogar vom Verfassungsschutz überprüfen zu lassen – auch dafür fehlten Belege. Der Innenausschuss befragte die Ministerin, die den Vorwürfen widersprach. Das BSI bekam 2023 mit Claudia Plattner erstmals eine Chefin.\n\nDie Affäre gilt als Lehrstück über die Mechanismen des Berliner Machtapparats: Ein Satirebeitrag, eine schnelle politische Reaktion und am Ende Zweifel an beiden Seiten."
+ },
+ {
+  "name": "Sympatex-Betrug",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSympatex\\b",
+   "\\bSympa[- ]?tex\\b",
+   "\\bGoetz[- ]?[Pp]artners\\b",
+   "\\bMittelstandsanleihe\\w*"
+  ],
+  "summary": "Anleger liehen dem Textilunternehmen 13 Mio. Euro und sollten fast alles verlieren – Betrugsverdacht.",
+  "body": "**Sympatex** aus Unterföhring bei München stellt wasserdichte Membranen für Outdoor-Kleidung her und gilt als Konkurrent von Gore-Tex. 2013 lieh sich das Unternehmen von Privatanlegern über eine **Mittelstandsanleihe** 13 Millionen Euro. Kurz vor der Fälligkeit wurden die Anleger aufgefordert, auf nahezu das gesamte Geld zu verzichten: Der Firma gehe es schlecht, andernfalls drohe die Insolvenz.\n\nDie Staatsanwaltschaft München I kam zu einem anderen Schluss. Sie wirft den Eigentümern von Sympatex, ihren Anwälten und Restrukturierungsberatern vor, die Anleger bewusst irregeführt zu haben, um die Anleihe billig loszuwerden. Am 26. Juli 2023 durchsuchten Ermittler an rund 50 Orten Büros, Kanzleien und Privathäuser. Auf der Beschuldigtenliste stehen prominente Namen der Münchner Beraterszene, darunter die Gründer der Unternehmensberatung Goetzpartners, sowie ein Geschäftsführer des Family Office der Hamburger Versandhandelsfamilie Otto. Die Beschuldigten weisen die Vorwürfe zurück.\n\nIm Herbst 2024 kamen zwei Beschuldigte vorübergehend in Untersuchungshaft, 2025 erhob die Staatsanwaltschaft Anklage, und der Prozess vor dem Landgericht München begann.\n\nDer Fall steht exemplarisch für ein riskantes Segment des Kapitalmarkts: Mittelständler besorgen sich bei Privatanlegern Geld und drängen ihre Gläubiger bei Schwierigkeiten zu Zugeständnissen – mit Hilfe von Beratern, die am Schuldenschnitt mitverdienen."
+ },
+ {
+  "name": "Signa und René Benko",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBenkos?\\b",
+   "\\bSigna\\b",
+   "\\bLaura[- ]Privatstiftung\\b",
+   "\\bWunderwuzzi\\b"
+  ],
+  "summary": "Europas größte Immobilienpleite: Signa brach 2023 zusammen, Benko sitzt seit 2025 in Haft.",
+  "min": 8,
+  "body": "**René Benko**, Jahrgang 1977 aus Innsbruck, baute ohne Schulabschluss aus dem Nichts die **Signa-Gruppe** auf und wurde vor seinem 40. Geburtstag Milliardär. Signa kaufte Luxusimmobilien in besten Innenstadtlagen – das KaDeWe in Berlin, das Goldene Quartier in Wien, das Chrysler Building in New York –, übernahm die Warenhausketten Karstadt und Kaufhof (Galeria) und begann den Elbtower in Hamburg. Finanziert wurde das Imperium über ein kaum durchschaubares Geflecht aus Hunderten Gesellschaften, hohen Krediten und prominenten Geldgebern.\n\nSteigende Zinsen und fallende Immobilienbewertungen brachten 2023 das Kartenhaus zum Einsturz. Am 28. November 2023 meldete die Signa Holding in Wien Insolvenz an, es folgten Signa Prime, Signa Development und zahlreiche Tochterfirmen – die größte Pleite der österreichischen Wirtschaftsgeschichte. Galeria ging erneut in die Insolvenz, Baustellen wie der Elbtower blieben Ruinen. Dazu kamen Enthüllungen über die luxuriöse Ausgabenpolitik der Holding und die Entlassung von Top-Managern.\n\nBenko selbst ging im März 2024 in die Privatinsolvenz; Gläubiger meldeten rund zwei Milliarden Euro Forderungen an. Er gab an, nur noch 3700 Euro im Monat zu verdienen. Handelsblatt-Recherchen zeigten jedoch, dass Vertraute unter dem Dach der **Laura Privatstiftung** seiner Familie – benannt nach seiner Tochter, kontrolliert von seiner Mutter Ingeborg – ein weitverzweigtes Immobilienportfolio aufgebaut hatten, von Altbauten in Leipzig bis zu Villen in Tirol. Im Januar 2025 wurde Benko in Innsbruck festgenommen; 2025 folgten Anklage und ein erstes Urteil wegen betrügerischer Krida."
+ },
+ {
+  "name": "BND-Spionage",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bCarsten L\\b",
+   "\\bArthur E\\b",
+   "\\bBND\\b",
+   "\\bBundesnachrichtendienst\\w*",
+   "\\bLandesverrat\\w*"
+  ],
+  "summary": "Ein BND-Abteilungsleiter verriet 2022 Geheimnisse an Russland – 2024 wurde er zu lebenslanger Haft verurteilt.",
+  "body": "Kurz vor Weihnachten 2022 nahm das Bundeskriminalamt in Berlin **Carsten L.** fest, einen Oberst und Abteilungsleiter des Bundesnachrichtendienstes (BND), der in der technischen Aufklärung Zugang zu hochsensiblen Informationen hatte. Der Vorwurf: schwerer Landesverrat. Im Herbst 2022 soll er geheime Unterlagen des Auslandsgeheimdienstes – unter anderem zu Erkenntnissen über Russlands Krieg in der Ukraine – an den russischen Inlandsgeheimdienst FSB weitergegeben haben.\n\nAls Kurier fungierte der Diamantenhändler **Arthur E.**, ein Bekannter des BND-Mannes, der die Dokumente nach Moskau brachte und im Januar 2023 bei seiner Einreise aus den USA am Münchner Flughafen festgenommen wurde. Er wurde später zum wichtigsten Zeugen der Anklage. Für den Verrat sollen die beiden Hunderttausende Euro in bar erhalten haben. Aufgeflogen war der Fall durch den Hinweis eines befreundeten Nachrichtendienstes.\n\nDer Prozess vor dem Kammergericht Berlin begann im Dezember 2023 unter strengen Geheimhaltungsauflagen. Im Juli 2024 verurteilte das Gericht Carsten L. wegen Landesverrats in besonders schwerem Fall zu lebenslanger Haft, Arthur E. erhielt neuneinhalb Jahre. Es war der schwerste Spionagefall im BND seit Jahrzehnten – Beobachter sprachen von der „größten Panne“ des Dienstes.\n\nDer Fall löste eine Debatte über die Sicherheitsüberprüfung von Geheimdienstpersonal aus; das Parlamentarische Kontrollgremium stellte Defizite fest. Zudem fiel Carsten L. durch Kontakte ins rechtsextreme Milieu auf."
+ },
+ {
+  "name": "Elbtower",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bElb[- ]?[Tt]owers?\\b",
+   "\\bHafen[Cc]ity\\b",
+   "\\bChipperfield\\b",
+   "\\bBecken\\b"
+  ],
+  "summary": "Hamburgs geplantes höchstes Gebäude blieb nach der Signa-Pleite 2023 als Bauruine stehen.",
+  "body": "Der **Elbtower** sollte mit rund 245 Metern das höchste Gebäude Hamburgs werden: ein ikonisches Hochhaus am östlichen Ende der HafenCity, entworfen vom Büro des Stararchitekten David Chipperfield. 2018 erhielt die Signa-Gruppe des österreichischen Investors René Benko den Zuschlag der Stadt. Ein prominenter Fürsprecher war der damalige Erste Bürgermeister Olaf Scholz, der im Hamburger Rathaus von Signas Finanzstärke und einem „A+“-Rating schwärmte; das „Hamburger Abendblatt“ nannte den Turm das „Vermächtnis des Olaf Scholz“.\n\nDie Realität sah anders aus. Im Oktober 2023 stellte der Bauunternehmer die Arbeiten ein, weil die Projektgesellschaft die Rechnungen nicht mehr bezahlte. Nach der Insolvenz der Signa-Gruppe meldete im Januar 2024 auch die Elbtower-Projektgesellschaft Insolvenz an. Zurück blieb ein etwa 100 Meter hoher Rohbau, dessen Fertigstellung lange ungewiss war.\n\nDas Projekt wirft viele Fragen auf: Die Helaba sollte eigentlich die Finanzierung übernehmen, ein Vertrag kam aber nie zustande – trotzdem beauftragte die städtische HafenCity Hamburg GmbH die Bank mit der Prüfung der Vorvermietungen. Ankermieter wurde unter merkwürdigen Umständen die Hamburg Commercial Bank. Der SPD-Bürgerschaftsabgeordnete Markus Schreiber sagte, man hätte schon damals erkennen können, dass Benko nicht seriös sei; der Turm könne als Scholz’ „Mahnmal“ gelten.\n\n2025 übernahm ein Konsortium um den Hamburger Projektentwickler Dieter Becken die Bauruine, um den Turm doch noch fertigzustellen."
+ },
+ {
+  "name": "Picam",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bPi[- ]?[Cc]am\\b",
+   "\\bPiccam\\b",
+   "\\bEntzeroth\\b",
+   "\\bWundercomputer\\b"
+  ],
+  "summary": "15 bis 20 Prozent Rendite per Wundercomputer: Bei Picam verschwanden über 320 Mio. Euro Anlegergeld.",
+  "body": "Die Vermögensverwaltung **Picam** aus Berlin versprach ihren Anlegern Renditen von 15 bis 20 Prozent pro Jahr. Möglich machen sollte das ein computergesteuerter Wertpapierhandel: Ein angeblicher „Wundercomputer“ in der Schweiz werte Handelssignale aus und erkenne den perfekten Zeitpunkt zum Einstieg in Dax-Derivate. Tausende Investoren, darunter viele Kleinanleger und Rentner, glaubten der Geschichte und steckten zwischen 2007 und 2017 mehr als 320 Millionen Euro in das System. Vermittelt wurden die Anlagen über ein Netz von Beratern und Gesellschaften in Deutschland und der Schweiz, das die Herkunft und Verwendung des Geldes verschleierte.\n\nNach Handelsblatt-Recherchen, die das Verwirrspiel um Scheinfirmen und Marionettengeschäftsführer aufdeckten, und einer Razzia geriet Picam ins Visier der Staatsanwaltschaft Berlin. Die Anklage: Die drei Verantwortlichen hätten ein klassisches Schneeballsystem betrieben, bei dem Auszahlungen an alte Anleger aus dem Geld neuer Kunden finanziert wurden, während das Kapital veruntreut wurde. Die Finanzaufsicht Bafin wurde dafür kritisiert, trotz früher Hinweise lange weggeschaut zu haben.\n\nIm Februar 2024 begann der Prozess vor dem Landgericht Berlin im Saal 500 des Kriminalgerichts Moabit. Zwei Angeklagte bestritten eine bewusste Beteiligung, Hauptangeklagter **Thomas Entzeroth** schwieg zunächst. Im März 2025 wurde er zu fast sechs Jahren Haft verurteilt. Für die Anleger bleibt wenig: Ein Großteil des Geldes ist verschwunden."
+ },
+ {
+  "name": "Effenberg-Bank",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bEffenberg[- ]?Bank\\b",
+   "\\bEffenbergs?\\b",
+   "\\bBad Salzungen\\b",
+   "\\bSchmalkalden\\b",
+   "\\bSieberts?\\b"
+  ],
+  "summary": "Die VR-Bank Bad Salzungen Schmalkalden verspekulierte sich um über 220 Mio. Euro – Bafin griff ein.",
+  "body": "Die **VR-Bank Bad Salzungen Schmalkalden** aus Südthüringen wurde bundesweit bekannt, als sie 2019 den früheren Fußballnationalspieler **Stefan Effenberg** als Berater und Repräsentanten anheuerte – seither trägt sie den Spitznamen „Effenberg-Bank“. Das kleine Institut verfolgte unter seinem langjährigen Vorstandschef **Stefan Siebert**, der die Bank fast 20 Jahre leitete, eine für Genossenschaftsbanken höchst ungewöhnliche Strategie: Es beteiligte sich an zahlreichen Unternehmen, investierte in erneuerbare Energien und Landwirtschaft und kaufte Immobilien in Deutschland und Österreich – in Oberhausen sogar Häuser im Rotlichtbezirk.\n\nViele dieser Investitionen schlugen fehl. Mindestens 220 Millionen Euro Verlust belasten die Bilanz, die Bank musste von der Sicherungseinrichtung des Bundesverbands der Volks- und Raiffeisenbanken (BVR) gestützt werden. 2023 griff die Finanzaufsicht Bafin ein und entsandte zwei Sonderbeauftragte, die Vorstand und Aufsichtsrat ersetzten – ein einmaliger Vorgang in der über hundertjährigen Geschichte der deutschen Genossenschaftsbanken. Effenberg wurde entlassen, Siebert abgelöst.\n\nParallel ermittelt die Staatsanwaltschaft gegen den Ex-Bankchef, unter anderem wegen des Verdachts der Steuerhinterziehung und der Untreue. Siebert kann dennoch auf eine treue Anhängerschaft unter den Genossenschaftsmitgliedern zählen, die das Eingreifen von Bafin und BVR für unangemessen halten. Die beiden Lager stehen sich bis heute unversöhnlich gegenüber, während die Bank saniert und in den Verbund zurückgeführt wird."
+ },
+ {
+  "name": "Erbstreit Veltins",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bVeltins\\b",
+   "\\bCarl[- ]Clemens\\b",
+   "\\bGrevenstein\\b",
+   "\\bRosemarie\\b"
+  ],
+  "summary": "Der verstoßene Sohn der Brauerei-Erbin fordert nach Jahrzehnten Hunderte Millionen Euro.",
+  "body": "Die Brauerei **C. & A. Veltins** in Meschede-Grevenstein im Sauerland ist eine der größten Privatbrauereien Deutschlands und gehört seit Generationen der Familie Veltins. Nach dem frühen Tod ihres Vaters übernahm **Rosemarie Veltins** 1963 die Führung und machte die Marke mit dem Werbeslogan und Sponsoring des FC Schalke 04 bundesweit bekannt. Die Familie gilt als äußerst verschwiegen.\n\nIhr Sohn **Carl-Clemens Veltins** ist das schwarze Schaf der Dynastie: Er handelte und konsumierte Drogen, saß im Gefängnis und war in Waffengeschäfte verwickelt. Seit Jahrzehnten ist er vom Familienunternehmen ausgeschlossen, heute lebt er arbeitslos und fern von Grevenstein. Vor fast 30 Jahren, so sein Vorwurf, habe ihn seine Mutter auf sittenwidrige Weise aus dem Unternehmen gedrängt und um einen Anteil im Wert von mehreren Hundert Millionen Euro gebracht – er sei damals suchtkrank und nicht in der Lage gewesen, die Tragweite der Vereinbarungen zu erkennen.\n\n2024 verklagte er seine Schwestern, darunter die heutige Brauereichefin Susanne Veltins, auf sein Erbe. Die Schwestern äußerten sich öffentlich nicht zu den Vorwürfen. Im Handelsblatt-Podcast sprach Carl-Clemens Veltins erstmals öffentlich über seine Lebensgeschichte.\n\nDer Streit stellt die Nachfolgeordnung eines der bekanntesten deutschen Familienunternehmen infrage und zeigt, wie Erbverträge aus früheren Jahrzehnten Jahrzehnte später vor Gericht landen können."
+ },
+ {
+  "name": "Porsche-Ikone vor Gericht",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bJürgen Barth\\b",
+   "\\bBarths?\\b",
+   "\\bPorsche\\b",
+   "\\bLe Mans\\b",
+   "\\bOriginal und Kopie\\b"
+  ],
+  "summary": "Le-Mans-Sieger Jürgen Barth soll geholfen haben, gefälschte historische Porsche als Originale auszugeben.",
+  "min": 8,
+  "body": "**Jürgen Barth** ist eine lebende Porsche-Legende: 1977 gewann er für den Sportwagenhersteller das 24-Stunden-Rennen von Le Mans, 1980 das 1000-Kilometer-Rennen auf dem Nürburgring. Fast sein gesamtes Berufsleben verbrachte er im Konzern, zuletzt als Kundensport-Verantwortlicher und als Autor von Standardwerken über historische Porsche. Er galt als „Gedächtnis von Porsche“ – wer die Echtheit eines alten Rennwagens prüfen wollte, fragte Barth.\n\nGenau diese Autorität wurde ihm zum Verhängnis. Die Staatsanwaltschaft Aachen warf ihm vor, gemeinsam mit einem Händler geholfen zu haben, nachgebaute oder zusammengesetzte historische Porsche als Originale auszugeben. Vermögende Sammler sollen so um Millionen gebracht worden sein, denn ein echter Rennwagen mit dokumentierter Historie ist ein Vielfaches einer Replik wert. Porsche erklärte den einstigen Helden zur Persona non grata.\n\nVor dem Landgericht Aachen wurde Barth der Prozess gemacht. Er kam vergleichsweise glimpflich davon, doch das Verfahren erschütterte seine Reputation nachhaltig. Zugleich warf es grundsätzliche Fragen auf: Wo endet eine Restaurierung, wo beginnt die Fälschung? Welche Teile dürfen ersetzt werden, damit ein Oldtimer noch als Original gilt?\n\nDas Drama ist nicht zu Ende: Porsche und einige seiner besten Kunden stehen sich in Zivilverfahren gegenüber. Sammler fürchten, dass ihre teuer erworbenen Fahrzeuge als Fälschungen eingestuft und im schlimmsten Fall verschrottet werden."
+ },
+ {
+  "name": "Staatstrojaner-Fall",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bPegasus\\b",
+   "\\bNSO\\b",
+   "\\bStaatstrojaner\\w*",
+   "\\bMei(ss|ß)ners?\\b",
+   "\\bSpionagesoftware\\b"
+  ],
+  "summary": "Ein Ex-Bankmanager fürchtete, mit der Spähsoftware Pegasus überwacht worden zu sein.",
+  "body": "**Pegasus** ist eine Spionagesoftware der israelischen NSO Group, die als digitale Waffe gilt. Wird sie auf einem Smartphone installiert – oft ohne jede Interaktion des Besitzers –, macht sie die Zielperson gläsern: Angreifer lesen Nachrichten, Passwörter und Fotos aus und können Kamera und Mikrofon aus der Ferne einschalten. NSO verkauft die Software offiziell nur an staatliche Stellen; auch das Bundeskriminalamt nutzt eine angepasste Version. Weltweit wurden damit Journalisten, Oppositionelle und Anwälte ausgespäht, was das „Pegasus Project“ 2021 enthüllte.\n\nIn Deutschland sind kaum Fälle bekannt, in denen die Software auf dem Handy eines Bürgers gefunden wurde. Umso ungewöhnlicher war der Fall des ehemaligen Bankmanagers **Michael Meissner**: Aufgrund eines Gutachtens fürchtete er, mit Pegasus ausgespäht worden zu sein, und erstattete Anzeige. Für erfahrene IT-Forensiker war der Fall ein Novum, für die Behörden eine Herausforderung – wer soll in Deutschland ermitteln, wenn ein Staatstrojaner gegen eine Privatperson eingesetzt worden sein könnte?\n\nDie Generalstaatsanwaltschaft Frankfurt führte zeitweise ein Ermittlungsverfahren, stellte es aber im November 2025 ein: Der angezeigte Sachverhalt habe sich nicht verifizieren lassen, da bei der Begutachtung keine Schadsoftware auf dem Mobiltelefon festgestellt worden sei.\n\nDer Fall zeigt, wie schwer sich Betroffene und Behörden mit dem Nachweis staatlicher Spähsoftware tun – und wie wenig Kontrolle es über den Einsatz solcher Werkzeuge gibt."
+ },
+ {
+  "name": "Schlecker-Insolvenz",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSchleckers?\\b",
+   "\\bEhingen\\b",
+   "\\bMeniar\\b",
+   "\\bSchlecker[- ]Frau(en)?\\b"
+  ],
+  "summary": "Vom Metzger zum Drogeriekönig mit 14.000 Filialen – 2012 brach das Imperium zusammen.",
+  "body": "**Anton Schlecker**, Jahrgang 1944, gelernter Metzger aus Ehingen an der Donau, eröffnete 1975 seinen ersten Drogeriemarkt und baute daraus Europas größte Drogeriekette. In den 90er-Jahren kamen bis zu drei neue Filialen pro Tag hinzu, am Ende waren es rund 14.000 Läden in 17 Ländern. In den engen, blau-weißen Filialen arbeitete meist nur eine Vollzeitkraft – die berühmte „Schlecker-Frau“. Das Familienvermögen wurde auf 2,3 Milliarden Euro geschätzt; Schlecker führte das Unternehmen als eingetragener Kaufmann mit persönlicher Haftung und ließ niemanden in seine Bücher schauen.\n\nDoch der Umsatz fiel hinter Konkurrenten wie dm und Rossmann zurück. Zwischen 2005 und 2010 machte Schlecker mehr als 400 Millionen Euro Verlust. Als sein neuer Finanzvorstand ihn 2010 warnte, soll er geantwortet haben: „Schreiben Sie das nicht auf. Wenn es auf dem Papier steht, dann wird es auch wahr.“ 2008 hatte er die Leiharbeitsfirma Meniar gegründet, um erfahrene Mitarbeiterinnen zu entlassen und zu schlechteren Konditionen wieder einzustellen. Ab 2011 leerten sich die Regale, im Januar 2012 meldete Schlecker Insolvenz an. Mehr als 20.000 Beschäftigte verloren ihre Jobs, Gläubiger blieben auf über einer Milliarde Euro sitzen.\n\n2017 verurteilte das Landgericht Stuttgart Anton Schlecker wegen vorsätzlichen Bankrotts zu einer Bewährungs- und Geldstrafe; seine Kinder Lars und Meike mussten wegen Untreue und Insolvenzverschleppung für über zwei Jahre ins Gefängnis, Ehefrau Christa erhielt Bewährung. 2024 wurde bekannt, dass die Familie eine weitere Millionensumme an die Insolvenzmasse zahlen muss."
+ }
 ]

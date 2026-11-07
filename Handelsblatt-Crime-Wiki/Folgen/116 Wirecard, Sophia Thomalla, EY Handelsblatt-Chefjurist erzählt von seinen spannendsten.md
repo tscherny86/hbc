@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
 | **Themen** | [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]] |
+| **Unternehmen** | [[EY (Ernst & Young)]], [[Handelsblatt]] |
+| **Personen** | [[Solveig Gode]], [[Sophia Thomalla]], [[Peter Koppe]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

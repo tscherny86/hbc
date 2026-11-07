@@ -21,9 +21,9 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | [[Transkript 161]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
 | **Fälle** | [[KMW-Provisionen (KNDS)]] |
 | **Themen** | [[Spionage]], [[Rüstungsexporte und Provisionen]], [[Compliance]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[KNDS (Krauss-Maffei Wegmann)]] |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]] |
-| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Schneeballsystem]], [[Korruption und Bestechung]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Kurz erwähnt** | [[EY im Wirecard-Skandal]], [[Schneeballsystem]], [[Korruption und Bestechung]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[EY (Ernst & Young)]] |
 
 ## Shownotes
 

@@ -11,8 +11,8 @@
 | [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage\|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] | 2026-09-21 | 28:48 | ✅ |
 | [[158 Hendrik Holt – Windparkbetrüger auf der Flucht\|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] | 2026-09-20 | 1:11:09 | ✅ |
 | [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert\|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] | 2026-09-06 | 51:10 | ✅ |
-| [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam\|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] | 2026-08-23 | 1:11:11 | – |
-| [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H\|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] | 2026-08-09 | 1:09:04 | – |
+| [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam\|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] | 2026-08-23 | 1:11:11 | ✅ |
+| [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H\|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] | 2026-08-09 | 1:09:04 | ✅ |
 | [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,\|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] | 2026-08-02 | 47:28 | – |
 | [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise\|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] | 2026-07-26 | 40:50 | – |
 | [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer\|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] | 2026-07-12 | 1:01:57 | – |

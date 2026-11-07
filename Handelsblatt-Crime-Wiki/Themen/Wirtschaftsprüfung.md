@@ -22,6 +22,14 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 
 ## Was im Podcast gesagt wird
 
+> … Josten kommt aus Wuppertal, ist 1953 geboren, wurde dann Steuerberater und später Wirtschaftsprüfer. Und auch wie viele andere ging er nach der Wende nach Sachsen-Anhalt. Also nach der Wende 1990, da haben sich ganz …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 9:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=569) · [[Transkript 156#Minute 9|im Transkript]]
+
+> … Zentrale gegrillt, Würstchenwürden aufgelegt und die Feier wurde gestört, weil plötzlich die Wirtschaftsprüfer rauskamen und gesagt haben, wir müssen dringend sprechen. Oh Gott, okay, so einen Geburtstag möchte ich mir aber nicht vorstellen. Was …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 36:10](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2170) · [[Transkript 156#Minute 36|im Transkript]]
+
 > … Hatte das irgendwelche Konsequenzen? Ja, durchaus. Das kann man dann direkt im Jahresabschluss von KNDS, also von der Holding KNDS für 2025 nachlesen. Der ist im niederländischen Handelsregister hinterlegt. Und da steht drin, offenbar …
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 54:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3289) · [[Transkript 161#Minute 54|im Transkript]]
@@ -48,8 +56,9 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
 
-## Kurz erwähnt (1)
+## Kurz erwähnt (2)
 
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [9:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=569), [36:10](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2170)
 - [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Minute [54:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3289), [56:22](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3382), [58:17](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3497)
 
 ---

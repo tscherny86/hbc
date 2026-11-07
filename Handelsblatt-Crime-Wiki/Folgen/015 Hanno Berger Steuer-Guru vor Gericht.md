@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Freshfields und Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Freshfields]], [[BaFin]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Hanno Berger]], [[Anne Brorhilker]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

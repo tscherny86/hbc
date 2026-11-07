@@ -21,7 +21,7 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | [[Transkript 157]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
 | **Fälle** | [[Volksbank Köln Bonn (Bordell-Kredit)]] |
 | **Themen** | [[Korruption und Bestechung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]], [[Compliance]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Volksbank Köln Bonn]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
 | **Personen** | – |
 | **Kurz erwähnt** | [[Effenberg-Bank]], [[Geldwäsche]] |
 

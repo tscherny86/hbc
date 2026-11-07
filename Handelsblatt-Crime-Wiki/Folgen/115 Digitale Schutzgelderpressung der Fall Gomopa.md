@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Charles Smethurst und die German Property Group]], [[Gomopa und Klaus Maurischat]] |
 | **Themen** | [[Anlegerbetrug]], [[Schneeballsystem]], [[Pressefreiheit und Presserecht]], [[Erpressung]], [[Vergleich und Bußgeld]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Gomopa]], [[German Property Group]] |
+| **Personen** | [[Klaus Maurischat]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

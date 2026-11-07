@@ -22,7 +22,7 @@ tags: [folge, jahr-2025, folge]
 | **Fälle** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
 | **Themen** | [[Spionage]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Jan Marsalek]], [[Markus Braun]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

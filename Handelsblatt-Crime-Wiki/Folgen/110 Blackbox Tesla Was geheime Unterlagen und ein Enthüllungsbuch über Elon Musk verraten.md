@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Michael Verfürden]] |
+| **Unternehmen** | [[Tesla]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Michael Verfürden]], [[Elon Musk]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

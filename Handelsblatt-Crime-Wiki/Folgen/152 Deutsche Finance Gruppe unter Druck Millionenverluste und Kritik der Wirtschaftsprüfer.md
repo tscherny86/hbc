@@ -21,7 +21,7 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Deutsche Finance Gruppe]] |
 | **Themen** | [[Anlegerbetrug]], [[Wirtschaftsprüfung]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Deutsche Finance Group]], [[BaFin]], [[Handelsblatt]] |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |
 

@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[Landesbanken]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Freshfields]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Anne Brorhilker]], [[Christian Olearius]], [[Benjamin Limbach]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

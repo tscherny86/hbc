@@ -22,6 +22,22 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 
 ## Was im Podcast gesagt wird
 
+> … hinter einfach günstigerem Strom, da steht ein Mann, der schon wegen 176-fachen Betrugs verurteilt ist, als er Teldafax gerade noch führt. Das ist ein Mann, der sich der Haft entzieht, der sich in die …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=74) · [[Transkript 156#Minute 1|im Transkript]]
+
+> … viel bekommt er denn da? Zweieinhalb Jahre Gefängnis sind das. Wegen 176-fachen Betrugs in diesem Sikur-Fall. Und wann muss er dann in Haft? Ja, auch das ist wieder ein erstaunliches Detail. Der Mann geht …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 13:26](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=806) · [[Transkript 156#Minute 13|im Transkript]]
+
+> … im Prinzip die Anleger, ohne das zu wissen, die Freilassung eines verurteilten Betrügers. Genau. Sonst hätte es ja auch nicht funktioniert. Also niemand hat den Anlegern von DebiSelect gesagt, so wir nehmen jetzt hier …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 17:49](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1069) · [[Transkript 156#Minute 17|im Transkript]]
+
+> … öffentlich. Der konnte also nicht nachlesen, dass er da mit einem verurteilten Betrüger zu tun hatte. Andererseits war es wiederum nicht so, dass es ein Geheimnis war, dass Teldafax knapp bei Kasse war. Also …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 25:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1500) · [[Transkript 156#Minute 25|im Transkript]]
+
 > … damit Investoren um 11 Millionen Euro geprellt. Eigentlich sollte er für diesen Betrug bis Ende 2028 in Berlin im Gefängnis sitzen. Bis. Der verurteilte Windkraftbetrüger Henrik Holt aus Haselünne ist abgetaucht. Der 36-Jährige war …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:03](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=63) · [[Transkript 158#Minute 1|im Transkript]]
@@ -78,7 +94,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 - [[134 Familienunternehmer Der falsche Baron von Krupp|#134 – Familienunternehmer: Der falsche Baron von Krupp]] (2025-12-14) — Shownotes
 - [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
-- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes · Minute [1:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=74), [13:26](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=806), [17:49](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1069), [25:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1500)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [1:03](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=63), [4:12](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=252), [19:06](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1146), [35:32](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2132)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:33](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=33), [2:47](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=167), [37:45](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2265)
 

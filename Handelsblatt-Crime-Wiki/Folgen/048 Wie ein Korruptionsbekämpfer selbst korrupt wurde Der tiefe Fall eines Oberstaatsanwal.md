@@ -22,7 +22,7 @@ tags: [folge, jahr-2023, folge]
 | **Fälle** | [[Korrupter Oberstaatsanwalt Badle]] |
 | **Themen** | [[Untreue]], [[Korruption und Bestechung]], [[Steuerhinterziehung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
-| **Personen** | [[Volker Votsmeier]], [[René Bender]] |
+| **Personen** | [[Volker Votsmeier]], [[René Bender]], [[Alexander Badle]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[BSI-Affäre Schönbohm]] |
 | **Themen** | [[Spionage]], [[Cyberangriff und Ransomware]] |
-| **Unternehmen** | – |
-| **Personen** | [[Lars-Marten Nagel]], [[Michael Verfürden]] |
+| **Unternehmen** | [[BSI]], [[Handelsblatt]] |
+| **Personen** | [[Lars-Marten Nagel]], [[Michael Verfürden]], [[Arne Schönbohm]], [[Nancy Faeser]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

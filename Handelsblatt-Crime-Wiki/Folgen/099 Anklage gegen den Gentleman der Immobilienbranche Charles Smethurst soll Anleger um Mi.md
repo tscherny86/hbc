@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Charles Smethurst und die German Property Group]] |
 | **Themen** | [[Betrug]], [[Anlegerbetrug]], [[Insolvenzverwalter]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Volker Votsmeier]] |
+| **Unternehmen** | [[German Property Group]] |
+| **Personen** | [[Volker Votsmeier]], [[Charles Smethurst]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

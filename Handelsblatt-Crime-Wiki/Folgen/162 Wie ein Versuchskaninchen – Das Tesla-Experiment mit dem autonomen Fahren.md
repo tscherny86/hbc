@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | [[Transkript 162]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
 | **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]], [[Tesla-Experiment (autonomes Fahren)]], [[Tesla-Autopilot-Prozess (Benavides)]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]] |
+| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
+| **Personen** | [[Sönke Iwersen]], [[Elon Musk]], [[Lukasz Krupski]], [[Missy Cummings]], [[Andreas Pichler]] |
 | **Kurz erwähnt** | [[Wirecard]] |
 
 ## Shownotes

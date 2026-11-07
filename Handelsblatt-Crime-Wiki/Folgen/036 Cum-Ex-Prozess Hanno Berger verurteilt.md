@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[M.M. Warburg]], [[Landgericht Bonn]] |
+| **Personen** | [[Hanno Berger]], [[Christian Olearius]], [[Olaf Scholz]], [[Jürgen Fitschen]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -22,7 +22,7 @@ tags: [folge, jahr-2023, folge]
 | **Fälle** | [[PIM Gold]] |
 | **Themen** | [[Betrug]], [[Anlegerbetrug]], [[Schneeballsystem]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]] |
 | **Unternehmen** | – |
-| **Personen** | [[Lars-Marten Nagel]] |
+| **Personen** | [[Lars-Marten Nagel]], [[Mesut Pazarci]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

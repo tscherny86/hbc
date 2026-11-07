@@ -22,7 +22,7 @@ tags: [folge, jahr-2025, hinweis]
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | – |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Jan Marsalek]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

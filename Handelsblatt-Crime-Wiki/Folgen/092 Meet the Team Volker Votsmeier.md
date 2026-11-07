@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, team]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Handelsblatt]] |
 | **Personen** | [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |
 

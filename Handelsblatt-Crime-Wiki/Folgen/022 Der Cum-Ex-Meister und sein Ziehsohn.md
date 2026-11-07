@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Landesbanken im Cum-Ex-Skandal]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[M.M. Warburg]], [[Handelsblatt]], [[Landgericht Bonn]] |
+| **Personen** | [[Hanno Berger]], [[Kai-Uwe Steck]], [[Christian Olearius]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

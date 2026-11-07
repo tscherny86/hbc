@@ -22,7 +22,7 @@ tags: [folge, jahr-2024, folge]
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
 | **Themen** | [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Jan Marsalek]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

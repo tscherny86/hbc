@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, team]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Tesla-Files]] |
 | **Themen** | – |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
 | **Personen** | [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |
 

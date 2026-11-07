@@ -21,7 +21,7 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cyberangriff auf Continental]], [[Continental-Dieselskandal]] |
 | **Themen** | [[Cyberangriff und Ransomware]], [[Datenleck]], [[Erpressung]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Continental]], [[Handelsblatt]] |
 | **Personen** | [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |
 

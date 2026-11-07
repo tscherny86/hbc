@@ -22,7 +22,7 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Wirecard]], [[Alaska-Ölbohrungen (Kay Rieck)]] |
 | **Themen** | [[Insolvenz]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Kay Rieck]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

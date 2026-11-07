@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Adler Group]], [[Cyberangriff auf Continental]], [[Tesla-Files]], [[Signa und René Benko]], [[Continental-Dieselskandal]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Immobilienkrise]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Tesla]], [[Signa]], [[Continental]], [[Handelsblatt]] |
+| **Personen** | [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

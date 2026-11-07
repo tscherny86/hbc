@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Signa und René Benko]] |
 | **Themen** | [[Insolvenz]], [[Bankrott und Vermögensverschleierung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Martin Murphy]], [[Michael Verfürden]] |
+| **Unternehmen** | [[Signa]] |
+| **Personen** | [[Ina Karabasz]], [[Martin Murphy]], [[Michael Verfürden]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Michael Verfürden]] |
+| **Unternehmen** | [[Tesla]] |
+| **Personen** | [[Sönke Iwersen]], [[Michael Verfürden]], [[Elon Musk]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, team]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Falscher Baron von Krupp]] |
 | **Themen** | [[Insolvenz]], [[Korruption und Bestechung]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Handelsblatt]] |
 | **Personen** | [[Martin Murphy]] |
 | **Kurz erwähnt** | – |
 

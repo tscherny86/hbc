@@ -9,7 +9,7 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 **genauen Minute** (Klick öffnet Spotify an der Stelle).
 
 **Stand:** 07.11.2026 · **160 Folgen** · **128 h 37 min** Audio ·
-**7 von 160 transkribiert**
+**9 von 160 transkribiert**
 
 ## Navigation
 - 📼 [[Alle Folgen]]
@@ -43,20 +43,18 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[EY im Wirecard-Skandal]] (5)
 - [[Dieselgate (Volkswagen)]] (5)
 - [[Adler Group]] (5)
-- [[Kai-Uwe Steck]] (5)
 - [[Audi-Dieselskandal]] (4)
 - [[Prominente und die Steuerfahndung]] (4)
 - [[Cyberangriff auf Continental]] (4)
 - [[Sympatex-Betrug]] (4)
+- [[Porsche-Ikone vor Gericht]] (4)
 - [[Tesla-Betriebsratswahl Grünheide]] (4)
-- [[HSH Nordbank (Cum-Ex)]] (4)
 - [[Ergo-Lustreisen]] (3)
-- [[Porsche-Ikone vor Gericht]] (3)
 - [[LBBW-Cum-Ex]] (3)
 - [[Continental-Dieselskandal]] (3)
 - [[Hermes-Deal (Wirecard in Indien)]] (2)
-- [[Edward Snowden]] (2)
-- [[Mehmet Göker]] (2)
+- [[Fall Edward Snowden]] (2)
+- [[Fall Mehmet Göker]] (2)
 - [[PIM Gold]] (2)
 - [[Höhle der Löwen – Pleite (Social Chain)]] (2)
 - [[BSI-Affäre Schönbohm]] (2)
@@ -66,9 +64,9 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Very Private Equity (Triton)]] (2)
 - [[Spionageprozess London (Marsaleks Agenten)]] (2)
 - [[Degag-Pleite]] (2)
-- [[Wanja Oberhof]] (2)
+- [[Fall Wanja Oberhof]] (2)
 - [[Tesla-Autopilot-Prozess (Benavides)]] (2)
-- [[Daniel Starr]] (2)
+- [[Fall Daniel Starr]] (2)
 - [[Megajachten-Sanktionen]] (2)
 - [[Henry O’Sullivan]] (2)
 - [[Falscher Baron von Krupp]] (2)
@@ -91,7 +89,7 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Sony Music und Daniel Lieberberg]] (1)
 - [[Wolfgang Hoeft und die MW-Gruppe]] (1)
 - [[Gomopa und Klaus Maurischat]] (1)
-- [[Jens Lehmann]] (1)
+- [[Fall Jens Lehmann]] (1)
 - [[TGI-Gold (Helmut Kaltenegger)]] (1)
 - [[Wolf of High Street – Uwe Reppegather und Centrum]] (1)
 - [[Alaska-Ölbohrungen (Kay Rieck)]] (1)
@@ -102,7 +100,7 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Hedera-Immobiliengruppe]] (1)
 - [[Teldafax]] (1)
 - [[Volksbank Köln Bonn (Bordell-Kredit)]] (1)
-- [[Hendrik Holt]] (1)
+- [[Fall Hendrik Holt]] (1)
 - [[Pkw-Maut und Andreas Scheuer]] (1)
 - [[KMW-Provisionen (KNDS)]] (1)
 - [[Tesla-Experiment (autonomes Fahren)]] (1)

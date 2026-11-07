@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Landesbanken im Cum-Ex-Skandal]], [[Freshfields und Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[KPMG]], [[Freshfields]] |
+| **Personen** | [[Ulf Johannemann]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Syntellix und Utz Claassen]] |
 | **Themen** | [[Betrug]], [[Insolvenzverschleppung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[René Bender]] |
+| **Unternehmen** | [[Syntellix]] |
+| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[René Bender]], [[Jürgen Fitschen]], [[Utz Claassen]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

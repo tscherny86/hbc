@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek und das russische Spionagenetzwerk]], [[Henry O’Sullivan]] |
 | **Themen** | [[Insolvenzverwalter]], [[Wirtschaftsprüfung]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[EY (Ernst & Young)]], [[KPMG]], [[Handelsblatt]] |
+| **Personen** | [[Jan Marsalek]], [[Markus Braun]], [[Henry O'Sullivan]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

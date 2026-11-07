@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]] |
 | **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Landgericht München]] |
+| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]], [[Stephan von Erffa]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

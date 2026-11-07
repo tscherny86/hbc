@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Betrug]], [[Untreue]], [[Geldwäsche]], [[Bilanzfälschung]], [[Marktmanipulation]], [[Kronzeuge]], [[Untersuchungshaft]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[EY (Ernst & Young)]], [[Handelsblatt]], [[Landgericht München]] |
+| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Jan Marsalek]], [[Markus Braun]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

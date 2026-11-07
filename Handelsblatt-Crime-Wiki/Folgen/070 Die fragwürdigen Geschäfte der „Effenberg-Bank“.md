@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Effenberg-Bank]] |
 | **Themen** | [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Volker Votsmeier]], [[Vinzenz Neumaier]] |
+| **Unternehmen** | [[Volksbank Köln Bonn]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]], [[BaFin]] |
+| **Personen** | [[Ina Karabasz]], [[Volker Votsmeier]], [[Vinzenz Neumaier]], [[Stefan Effenberg]], [[Stefan Siebert]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

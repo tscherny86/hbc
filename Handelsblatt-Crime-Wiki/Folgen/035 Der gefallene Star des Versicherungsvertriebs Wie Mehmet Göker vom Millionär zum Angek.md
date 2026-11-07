@@ -19,10 +19,10 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 1:01:08 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa) · [MP3](https://audio.podigee-cdn.net/960913-m-b8df4d6a8dd7005ccdf7a38cce205ead.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/35-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Mehmet Göker]] |
+| **Fälle** | [[Fall Mehmet Göker]] |
 | **Themen** | [[Insolvenzverschleppung]], [[Untreue]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Rüstungsexporte und Provisionen]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Mehmet Göker]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

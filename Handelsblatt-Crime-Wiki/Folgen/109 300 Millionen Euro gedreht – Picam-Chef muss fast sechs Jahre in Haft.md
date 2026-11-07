@@ -22,7 +22,7 @@ tags: [folge, jahr-2025, folge]
 | **Fälle** | [[Picam]] |
 | **Themen** | [[Betrug]], [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Thomas Entzeroth]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

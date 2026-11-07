@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 76
+folgen: 77
 tags: [themen]
 ---
 # Staatsanwaltschaft und Strafprozess
@@ -21,6 +21,38 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 > wurde, steht unten – mit Link zur genauen Minute.
 
 ## Was im Podcast gesagt wird
+
+> … über den Mann schon mal geschrieben im Zusammenhang mit Ermittlungen in der Staatsanwaltschaft Hamburg. Da ging es um Betrugsvorwürfe. Und das fand er nicht so gut und hat sich per Klage gewehrt und hat …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 3:34](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=214) · [[Transkript 155#Minute 3|im Transkript]]
+
+> … abgesichert. Er ist ein kräftiger Typ, Mitte 20, ein Afghane. Und die Staatsanwaltschaft glaubt eben, dass er zu den Leuten gehört, die den Hedera-Chef erpressen. Und gegen den ermittelte die Kripo vom LKA aus …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 5:07](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=307) · [[Transkript 155#Minute 5|im Transkript]]
+
+> … der da zugeschlagen habe. Das Interessante ist, es ist gar nicht der Angeklagte. Also der Herr im Glaskasten nebenan, den haben die beiden Zeugen gar nicht in Verbindung mit dem Überfall gebracht. Da vermutet …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 8:24](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=504) · [[Transkript 155#Minute 8|im Transkript]]
+
+> … steht Aussage gegen Aussage. Und wir werden natürlich abwarten müssen, was die Staatsanwaltschaft dazu herausfindet. Übrigens finde ich halt auch, also krank ist das eine, aber vorher anrufen und sagen, ich bin krank, ich …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 47:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2876) · [[Transkript 155#Minute 47|im Transkript]]
+
+> … das haben wir auch mal als Zitat mitgebracht aus diesem Urteil. Der angeklagte Joosten war als Spiritus Rektor die treibende Kraft des Geschehens. Die Tatausführung ließ auch eine erhebliche kriminelle Energie des angeklagten Joosten …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 12:42](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=762) · [[Transkript 156#Minute 12|im Transkript]]
+
+> … Warum kommt da die Polizei nicht? Und dann habe ich bei der Staatsanwaltschaft einfach mal angefragt und gefragt, wo bleiben sie dann sozusagen? Also natürlich nicht in dem Ton. Und die Staatsanwaltschaft antwortet dann …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 44:57](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2697) · [[Transkript 156#Minute 44|im Transkript]]
+
+> … nachdem es eigentlich insolvent war. Aber gut. Und dann wird ermittelt. Die Staatsanwaltschaft Bonn macht sich da viel Arbeit, ist ja auch viel zu tun. Und es dauert dann bis Februar 2014. Wahnsinn. Also …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 59:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3586) · [[Transkript 156#Minute 59|im Transkript]]
+
+> … wird unterbrochen. Alle gehen auf den Flur und sehen relativ, also die Angeklagten sehen relativ gut gelernt aus. Und nach, ich weiß nicht, 20, 30 Minuten werden alle wieder reingerufen. Und der Richter sagt, …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:02:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3720) · [[Transkript 156#Minute 62|im Transkript]]
 
 > … große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstaatsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die Ermittlungen hatten zunächst …
 >
@@ -94,7 +126,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 58:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3529) · [[Transkript 161#Minute 58|im Transkript]]
 
-## In diesen Folgen (76)
+## In diesen Folgen (77)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Shownotes
 - [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Shownotes
@@ -169,12 +201,14 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes
 - [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
+- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [3:34](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=214), [5:07](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=307), [8:24](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=504), [47:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2876)
 - [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Shownotes · Minute [0:19](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=19), [1:50](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=110), [3:26](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=206), [25:06](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1506)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [4:19](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=259), [11:30](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=690), [21:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1286), [28:48](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1728)
 - [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes · Minute [0:33](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=33), [3:50](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=230), [11:06](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=666), [13:04](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=784)
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (3)
 
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [12:42](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=762), [44:57](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2697), [59:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3586), [1:02:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3720)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [5:57](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=357), [37:43](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2263)
 - [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Minute [38:06](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2286), [39:41](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2381), [55:50](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3350), [58:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3529)
 

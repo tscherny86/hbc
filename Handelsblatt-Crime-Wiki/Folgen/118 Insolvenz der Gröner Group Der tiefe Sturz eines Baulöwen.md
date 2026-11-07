@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
 | **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]] |
+| **Unternehmen** | [[Porsche]], [[Gröner Group]] |
+| **Personen** | [[Ina Karabasz]], [[Christoph Gröner]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

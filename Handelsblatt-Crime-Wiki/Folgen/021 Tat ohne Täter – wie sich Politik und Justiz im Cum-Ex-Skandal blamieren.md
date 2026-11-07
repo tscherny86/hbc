@@ -22,7 +22,7 @@ tags: [folge, jahr-2022, folge]
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Hanno Berger]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

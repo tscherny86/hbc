@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Prominente und die Steuerfahndung]] |
 | **Themen** | [[Insolvenz]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Vergleich und Bußgeld]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Landgericht München]] |
+| **Personen** | [[Alfons Schuhbeck]], [[Uli Hoeneß]], [[Klaus Zumwinkel]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

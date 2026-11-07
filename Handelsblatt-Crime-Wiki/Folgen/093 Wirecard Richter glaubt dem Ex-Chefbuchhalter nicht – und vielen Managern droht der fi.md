@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Volker Votsmeier]], [[René Bender]] |
+| **Unternehmen** | [[Landgericht München]] |
+| **Personen** | [[Solveig Gode]], [[Volker Votsmeier]], [[René Bender]], [[Markus Braun]], [[Stephan von Erffa]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

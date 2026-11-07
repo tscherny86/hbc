@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Volksbank Brawo]] |
 | **Themen** | [[Insolvenz]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]], [[Compliance]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[Volkswagen]], [[Handelsblatt]] |
+| **Personen** | [[Solveig Gode]], [[Volker Votsmeier]], [[Jürgen Brinkmann]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

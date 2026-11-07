@@ -21,7 +21,7 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Aldi-Familienstreit]] |
 | **Themen** | [[Erbstreit]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Aldi]], [[Handelsblatt]] |
 | **Personen** | [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |
 

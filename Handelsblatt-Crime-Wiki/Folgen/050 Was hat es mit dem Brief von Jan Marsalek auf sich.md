@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Bilanzfälschung]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Handelsblatt]] |
+| **Personen** | [[Jan Marsalek]], [[Markus Braun]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, team]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Signa und René Benko]], [[Porsche-Ikone vor Gericht]] |
 | **Themen** | – |
-| **Unternehmen** | – |
-| **Personen** | [[René Bender]] |
+| **Unternehmen** | [[Porsche]], [[Signa]], [[Handelsblatt]] |
+| **Personen** | [[René Bender]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

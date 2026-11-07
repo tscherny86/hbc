@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Sony Music und Daniel Lieberberg]] |
 | **Themen** | [[Compliance]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Martin Murphy]] |
+| **Unternehmen** | [[Sony Music]] |
+| **Personen** | [[Solveig Gode]], [[Martin Murphy]], [[Daniel Lieberberg]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,7 +21,7 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Fraunhofer-Spesenaffäre]] |
 | **Themen** | [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Fraunhofer-Gesellschaft]] |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |
 

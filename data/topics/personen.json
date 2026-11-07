@@ -1,0 +1,868 @@
+[
+ {
+  "name": "Jan Marsalek",
+  "folder": "Personen",
+  "patterns": [
+   "\\bMarsalek\\b",
+   "\\bMarsalik\\b",
+   "\\bMarsalec\\b",
+   "\\bMarsaleck\\b"
+  ],
+  "summary": "Ex-Wirecard-Vorstand, seit Juni 2020 flüchtig; gilt als Drahtzieher des Bilanzbetrugs und Russland-Agent.",
+  "body": "**Jan Marsalek** (geboren 1980 in Wien) war von 2010 bis 2020 Vorstand des Zahlungsdienstleisters Wirecard und dort als Chief Operating Officer für das operative Geschäft und das Asiengeschäft zuständig. Er gilt als eine der Schlüsselfiguren des größten Bilanzskandals der deutschen Nachkriegsgeschichte.\n\n- Aufstieg bei Wirecard ohne abgeschlossenes Studium, früh enger Vertrauter von Vorstandschef Markus Braun\n- Verantwortlich für das sogenannte Drittpartnergeschäft, dessen angebliche Milliardenguthaben auf Treuhandkonten in Asien sich im Juni 2020 als nicht existent erwiesen\n- Setzte sich unmittelbar nach dem Zusammenbruch ab; seither mit internationalem Haftbefehl gesucht, mutmaßlich in Russland\n\nNach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet haben. In einem Londoner Prozess wurden 2025 sechs Bulgaren verurteilt, die unter seiner Anleitung spioniert haben sollen; Zehntausende Chatnachrichten gaben Einblick in sein Leben auf der Flucht. Im Juli 2023 meldete er sich über einen Anwalt mit einem Brief an das Landgericht München zu Wort, der die Darstellung Brauns stützte. Bei der „Operation Chargeback“ im November 2025 tauchte sein Name erneut im Umfeld mutmaßlichen Kreditkartenbetrugs auf. Ein Urteil gegen Marsalek selbst gibt es nicht; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Markus Braun",
+  "folder": "Personen",
+  "patterns": [
+   "\\bMarkus Braun\\b",
+   "\\bMarkus Brauns\\b",
+   "\\bWirecard-Chef\\b",
+   "\\bEx-Wirecard-Chef\\b"
+  ],
+  "summary": "Langjähriger Wirecard-Vorstandschef, seit 2020 in Untersuchungshaft und Hauptangeklagter im Münchner Prozess.",
+  "body": "**Markus Braun** (geboren 1969 in Wien) führte Wirecard von 2002 bis zum Zusammenbruch im Juni 2020 als Vorstandsvorsitzender und war zugleich größter Einzelaktionär. Unter ihm stieg der Zahlungsdienstleister aus Aschheim bei München bis in den Dax auf und galt zeitweise als wertvollster Finanzkonzern Deutschlands.\n\n- Promovierter Wirtschaftsinformatiker, zuvor Berater bei KPMG\n- Trat am 19. Juni 2020 zurück, nachdem 1,9 Milliarden Euro auf asiatischen Treuhandkonten nicht auffindbar waren\n- Seit Juli 2020 in Untersuchungshaft in der JVA München-Stadelheim\n\nDie Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, Untreue, Marktmanipulation und Bilanzfälschung vor; sie sieht ihn als Kopf einer kriminellen Bande. Der Prozess vor dem Landgericht München I begann im Dezember 2022 in einem Hochsicherheitssaal auf dem Gefängnisgelände. Braun bestreitet alle Vorwürfe, stellt sich als Getäuschter dar und verweist auf den flüchtigen Jan Marsalek und den Kronzeugen Oliver Bellenhaus. Sein Verteidiger Alfred Dierlamm legte das Mandat 2024 nieder, nachdem die Managerhaftpflichtversicherung die Zahlung verweigerte. Ein rechtskräftiges Urteil ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Oliver Bellenhaus",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBellenhaus\\b",
+   "\\bBellenhaus'\\b",
+   "\\bBellenhauses\\b"
+  ],
+  "summary": "Ex-Chef der Wirecard-Tochter in Dubai, stellte sich 2020 und wurde zum Kronzeugen gegen Markus Braun.",
+  "body": "**Oliver Bellenhaus** leitete die Wirecard-Tochter CardSystems Middle East in Dubai, intern als „Fälscherwerkstatt“ bezeichnet. Über ein Netz aus Briefkastenfirmen sollen dort in Absprache mit Jan Marsalek Umsätze erfunden worden sein, um die Konzernzahlen zu schönen.\n\n- Lebte vor dem Zusammenbruch in einem Luxusapartment im Burj Khalifa\n- Stellte sich im Juli 2020 freiwillig der Staatsanwaltschaft München und legte ein umfassendes Geständnis ab\n- Angeklagter und zugleich wichtigster Kronzeuge im Münchner Wirecard-Prozess\n\nBellenhaus beschrieb den Betrug mit dem Satz, man habe ein Unternehmen gebaut, das echt gewesen sei – bis auf die Umsätze. Seine Aussagen belasten den früheren Vorstandschef Markus Braun schwer, dessen Verteidigung den Kronzeugen wiederum als unglaubwürdig darstellt. Nach mehr als dreieinhalb Jahren Untersuchungshaft wurde Bellenhaus im Frühjahr 2024 entlassen. Weil Ermittler Hinweise auf eine Gefährdung durch ein russisches Spionagenetzwerk um Marsalek hatten, erhielt er Personenschutz der Polizei. Über das Strafmaß für Bellenhaus entscheidet das Gericht am Ende des Verfahrens; sein Geständnis dürfte strafmildernd wirken."
+ },
+ {
+  "name": "Henry O'Sullivan",
+  "folder": "Personen",
+  "patterns": [
+   "\\bO['’´`]?Sullivan\\b",
+   "\\bO Sullivan\\b",
+   "\\bOsullivan\\b"
+  ],
+  "summary": "Britischer Marsalek-Vertrauter und Schattenmann im Wirecard-Skandal; 2025 in Singapur verurteilt.",
+  "body": "**James Henry O'Sullivan** ist ein britischer Geschäftsmann, der bei Wirecard nie eine offizielle Funktion hatte, aber als externer Berater zahlreiche Deals vor allem in Asien einfädelte. Er gilt als enger Freund und Geschäftspartner des flüchtigen Ex-Vorstands Jan Marsalek.\n\n- Soll hinter dem Fonds auf Mauritius gestanden haben, der 2015 den indischen Zahlungsabwickler Hermes für 35 Millionen Euro kaufte und wenige Wochen später für 315 Millionen Euro an Wirecard weiterreichte\n- Trat nach Handelsblatt-Recherchen mutmaßlich unter dem Fantasienamen „Rahul Sharma“ auf\n- Feierte mit Marsalek ausgiebig in Singapur und beschimpfte in Chats die „deutschen Bastarde“\n\nIm November 2025 sprach ein Gericht in Singapur O'Sullivan und einen Komplizen wegen Kontenfälschungen in Milliardenhöhe schuldig. Das Gericht zeichnete nach, wie er falsche Saldenbestätigungen für jene Treuhandkonten organisierte, auf denen die angeblichen Wirecard-Milliarden liegen sollten. Das Fehlen dieser Guthaben führte im Juni 2020 zum Kollaps und zur Insolvenz des Dax-Konzerns. Wo die Millionen aus dem Hermes-Deal verblieben sind, ist öffentlich nicht bekannt."
+ },
+ {
+  "name": "Stephan von Erffa",
+  "folder": "Personen",
+  "patterns": [
+   "\\bErffa\\b",
+   "\\bErfa\\b",
+   "\\bChefbuchhalter\\b"
+  ],
+  "summary": "Ehemaliger Wirecard-Chefbuchhalter und dritter Angeklagter im Münchner Prozess, der lange schwieg.",
+  "body": "**Stephan von Erffa** war langjähriger Chefbuchhalter und stellvertretender Finanzvorstand von Wirecard. Er kannte das Zahlenwerk des Konzerns so gut wie kaum ein anderer Insider und sitzt neben Markus Braun und Oliver Bellenhaus auf der Anklagebank des Landgerichts München I.\n\n- Als einziger der drei Angeklagten schwieg er rund eineinhalb Jahre lang\n- Seine Verteidiger scheiterten mit dem Versuch, ihn für nicht schuldfähig erklären zu lassen\n- Der Vorsitzende Richter stellte ihm bei einem Geständnis einen Strafrahmen von sechs bis acht Jahren Haft in Aussicht\n\nIm Juli 2024 brach von Erffa sein Schweigen und schilderte über mehr als zwei Tage und auf über 200 Seiten seine Sicht: Er sei überfordert gewesen und habe vom Betrug nichts mitbekommen. Ein Geständnis legte er nicht ab. Der Richter erklärte daraufhin, er glaube ihm an entscheidenden Stellen nicht. Zugleich geriet von Erffa finanziell unter Druck, weil die Managerhaftpflichtversicherer die Übernahme von Anwaltskosten verweigerten. Ein Urteil gegen ihn ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Markus Födisch",
+  "folder": "Personen",
+  "patterns": [
+   "\\bFödisch\\b",
+   "\\bFoedisch\\b",
+   "\\bFödig\\b"
+  ],
+  "summary": "Vorsitzender Richter der 4. Strafkammer am Landgericht München I, der den Wirecard-Prozess leitet.",
+  "body": "**Markus Födisch** ist Vorsitzender Richter der vierten Strafkammer des Landgerichts München I und leitet seit Dezember 2022 den Strafprozess gegen die ehemaligen Wirecard-Manager Markus Braun, Oliver Bellenhaus und Stephan von Erffa.\n\n- Verhandelt in einem eigens gebauten Hochsicherheitssaal auf dem Gelände der JVA München-Stadelheim, fünf Meter unter der Erde\n- Muss die Frage klären, wer die Verantwortung für den Zusammenbruch des einst wertvollsten deutschen Finanzkonzerns trägt\n- Wies Befangenheitsanträge der Braun-Verteidigung zurück\n\nFödisch gilt als sachlicher, aber deutlicher Prozessleiter. Dem früheren Chefbuchhalter von Erffa stellte er bei einem Geständnis einen Strafrahmen von sechs bis acht Jahren in Aussicht und hielt ihm nach dessen Aussage vor, was er sage, stimme einfach nicht. Der Prozess ist mit Hunderten Verhandlungstagen eines der längsten Wirtschaftsstrafverfahren der Bundesrepublik; die Staatsanwaltschaft hatte 450 Zeugen gehört und eine Anklageschrift von 474 Seiten vorgelegt."
+ },
+ {
+  "name": "Hanno Berger",
+  "folder": "Personen",
+  "patterns": [
+   "\\bHanno Berger\\b",
+   "\\bHanno Bergers\\b",
+   "\\bBerger\\b(?=.{0,80}Cum)",
+   "\\bMister Cum-?Ex\\b"
+  ],
+  "summary": "Steueranwalt und „Spiritus Rector“ von Cum-Ex, nach Flucht in die Schweiz zu mehrjähriger Haft verurteilt.",
+  "body": "**Hanno Berger** (geboren 1950) gilt als Architekt der Cum-Ex-Geschäfte, bei denen sich Banken und Investoren Kapitalertragsteuern erstatten ließen, die nie gezahlt worden waren. Die Ermittler nennen ihn den „Spiritus Rector“ des Modells.\n\n- Pfarrerssohn, ab 1981 in der hessischen Finanzverwaltung, dort oberster Bankenprüfer in Frankfurt\n- Wechselte die Seiten und beriet als Steueranwalt Konzerne und Superreiche; später eigene Kanzlei mit Kai-Uwe Steck im Frankfurter Skyper\n- Flüchtete 2012 nach einer Razzia in die Schweiz und beschimpfte deutsche Ermittler als „Schweinerichter“\n\nIm Juli 2021 wurde Berger in der Schweiz festgenommen und im Februar 2022 ausgeliefert. Das Landgericht Bonn verurteilte ihn im Dezember 2022 wegen besonders schwerer Steuerhinterziehung zu acht Jahren Haft; er soll als Berater der Warburg-Gruppe einen Steuerschaden von 278 Millionen Euro mitverursacht und selbst rund 14 Millionen Euro verdient haben. Ein zweites Verfahren in Wiesbaden endete 2023 ebenfalls mit einer mehrjährigen Haftstrafe. Die Urteile sind rechtskräftig. 2025 gab Berger aus der Haft sein erstes Interview und äußerte sich über Anne Brorhilker und seinen früheren Ziehsohn Steck."
+ },
+ {
+  "name": "Anne Brorhilker",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBrorhilker\\b",
+   "\\bBrohrhilker\\b",
+   "\\bBrorhilcker\\b",
+   "\\bBrorhilkers\\b"
+  ],
+  "summary": "Kölner Oberstaatsanwältin und Cum-Ex-Chefermittlerin, die 2024 entnervt den Staatsdienst verließ.",
+  "body": "**Anne Brorhilker** war als Oberstaatsanwältin in Köln elf Jahre lang die wichtigste Ermittlerin im Cum-Ex-Skandal. Ab 2013 setzte sie das Puzzle der Aktienkreisgeschäfte zusammen, ausgehend von einem Brandbrief des Anwalts von Drogeriekönig Erwin Müller.\n\n- Begann ihre Laufbahn mit Drogen- und Kleinkriminalität, bevor sie in die Welt der Investmentbanker vordrang\n- Alle ihre Cum-Ex-Anklagen endeten in Schuldsprüchen; der Bundesgerichtshof bestätigte ihre Rechtsauffassung\n- Leitete zuletzt eine Hauptabteilung mit mehr als 100 Verfahren und über 1500 Beschuldigten\n\n2023 wollte NRW-Justizminister Benjamin Limbach ihre Abteilung teilen, nahm die Pläne nach öffentlicher Kritik aber zurück. Im April 2024 kündigte Brorhilker dennoch und wechselte zur Bürgerbewegung Finanzwende. Ihr Vorgesetzter Stephan Neuheuser bewertete ihre Arbeit anschließend als „inhaltlich unzulänglich“. Im Januar 2025 trat sie im Prozess gegen den Kronzeugen Kai-Uwe Steck als Zeugin auf und wies dessen Vorwurf scharf zurück, sie habe ihm Straffreiheit versprochen. 2025 erschien ihr Buch „Cum-Ex, Milliarden und Moral“, in dem sie den Lobbyapparat der Finanzbranche kritisiert."
+ },
+ {
+  "name": "Kai-Uwe Steck",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSteck\\b",
+   "\\bStecks\\b",
+   "\\bBenjamin Frey\\b",
+   "\\bKai[- ]Uwe\\b"
+  ],
+  "summary": "Ex-Partner von Hanno Berger und erster Cum-Ex-Kronzeuge; 2025 zu einer Bewährungsstrafe verurteilt.",
+  "body": "**Kai-Uwe Steck** ist Wirtschaftsanwalt und war über Jahre der engste Partner von Hanno Berger. Das Handelsblatt berichtete lange unter dem Alias „Benjamin Frey“ über ihn. Als Kronzeuge trug er maßgeblich zur Aufklärung des Cum-Ex-Skandals bei.\n\n- Aufgewachsen in der friesischen Provinz, Promotion 2001, danach in der US-Großkanzlei, in der Berger die Steuerabteilung leitete\n- 2010 Gründung der gemeinsamen Kanzlei; mit Cum-Ex-Geschäften wurden beide vielfache Millionäre\n- Sagte mehr als 1000 Stunden bei der Staatsanwaltschaft Köln aus und trat in mehreren Prozessen als Zeuge auf\n\nIm September 2022 kam es im Landgericht Bonn zum Showdown mit Berger, der ihn als Verräter bezeichnete. 2024 erhob die Staatsanwaltschaft Köln Anklage gegen Steck selbst. Vor Gericht widerrief er zeitweise sein Geständnis, entließ seinen Verteidiger Alfred Dierlamm und warf Anne Brorhilker ein gebrochenes Versprechen vor. Im Juni 2025 verurteilte ihn das Landgericht Bonn zu einem Jahr und zehn Monaten auf Bewährung. Von den zugesagten 50 Millionen Euro Rückzahlung überwies er nach Handelsblatt-Recherchen nur elf Millionen. 2025 erschienen seine Memoiren, die das Handelsblatt als Selbstinszenierung einordnete."
+ },
+ {
+  "name": "Christian Olearius",
+  "folder": "Personen",
+  "patterns": [
+   "\\bOlearius\\b",
+   "\\bOlearius'\\b",
+   "\\bOlarius\\b",
+   "\\bOleari\\w*\\b"
+  ],
+  "summary": "Langjähriger Chef der Privatbank M.M. Warburg; sein Cum-Ex-Prozess wurde 2024 wegen Krankheit eingestellt.",
+  "body": "**Christian Olearius** (geboren 1942) prägte über Jahrzehnte die Hamburger Privatbank M.M. Warburg, erst als Vorstandsvorsitzender, dann als Aufsichtsratschef und Gesellschafter. In der Hansestadt war er eine Institution, Mäzen von Thalia Theater und Elbphilharmonie und Spender der SPD.\n\n- M.M. Warburg verdiente mit Cum-Ex-Geschäften dreistellige Millionenbeträge; mehrere Mitarbeiter wurden verurteilt\n- Traf sich 2016 und 2017 mehrfach mit dem damaligen Ersten Bürgermeister Olaf Scholz, als das Finanzamt 47 Millionen Euro zurückfordern wollte\n- Seine Tagebücher wurden zu zentralen Beweismitteln und lösten einen Untersuchungsausschuss in Hamburg aus\n\nIm September 2023 begann vor dem Landgericht Bonn der Prozess wegen besonders schwerer Steuerhinterziehung; der Schaden soll 280 Millionen Euro betragen. Olearius bestritt alle Vorwürfe und inszenierte sich als Opfer von Staatsanwaltschaft und Finanzaufsicht. Im Juni 2024 stellte die Vorsitzende Richterin Marion Slota-Haaf das Verfahren wegen seiner Erkrankung ein – ohne Urteil und ohne Strafe. Es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Olaf Scholz",
+  "folder": "Personen",
+  "patterns": [
+   "\\bScholz\\b",
+   "\\bScholz'\\b",
+   "\\bBundeskanzler\\b"
+  ],
+  "summary": "SPD-Politiker, Hamburgs Bürgermeister und später Kanzler; Treffen mit Olearius und Elbtower belasten ihn.",
+  "body": "**Olaf Scholz** (geboren 1958) war von 2011 bis 2018 Erster Bürgermeister von Hamburg, danach Bundesfinanzminister und von 2021 bis 2025 Bundeskanzler. In mehreren Fällen des Podcasts spielt er eine Nebenrolle, die bundespolitisch für Aufsehen sorgte.\n\n- Traf sich 2016 und 2017 mit Warburg-Chef Christian Olearius, während das Finanzamt Cum-Ex-Steuern von der Bank zurückfordern wollte; das Amt verzichtete später auf 47 Millionen Euro\n- Vor dem Hamburger Untersuchungsausschuss und im Bundestag berief er sich auf Erinnerungslücken\n- Lobte 2018 die Signa-Gruppe von René Benko als finanzstark und machte damit den Weg für den Elbtower frei\n\nScholz bestreitet jede Einflussnahme auf die Steuerverwaltung; ein strafrechtlicher Vorwurf gegen ihn wurde nie erhoben. Kritiker wie der SPD-Abgeordnete Markus Schreiber sehen das halb fertige Elbtower-Hochhaus als „Mahnmal“ seiner Amtszeit. Die Handelsblatt-Reporter beschreiben eine „alte Männerfreundschaft“ zwischen Scholz und Olearius und die Spur, die von der Traditionsbank bis ins Kanzleramt führt."
+ },
+ {
+  "name": "Benjamin Limbach",
+  "folder": "Personen",
+  "patterns": [
+   "\\bLimbach\\b",
+   "\\bLimbachs\\b"
+  ],
+  "summary": "Grüner NRW-Justizminister, der die Cum-Ex-Chefermittlerin Brorhilker entmachten wollte und sie so vergraulte.",
+  "body": "**Benjamin Limbach** (Bündnis 90/Die Grünen) ist seit 2022 Justizminister von Nordrhein-Westfalen. Der Jurist war zuvor Präsident der Fachhochschule für Rechtspflege.\n\n- Berief 2023 einen neuen Leiter der Staatsanwaltschaft Köln und unterstützte dessen Plan, die Cum-Ex-Hauptabteilung von Anne Brorhilker zu teilen\n- Brorhilker sollte die Hälfte ihres Personals an einen Co-Chef ohne Cum-Ex-Erfahrung abgeben, ohne vorher gehört zu werden\n- Nahm die Pläne im Oktober 2023 nach massiver Kritik aus Politik und Generalstaatsanwaltschaft zurück und versprach zusätzliches Personal\n\nIm April 2024 kündigte Brorhilker dennoch. Die Handelsblatt-Reporter werfen Limbach vor, mit „zwei Zungen“ zu sprechen: öffentlich lobte er die Ermittlerin, intern stützte er ihre Vorgesetzten. Der Fall wurde zum Justizskandal, weil Deutschlands erfolgreichste Cum-Ex-Ermittlerin so den Staatsdienst verließ. Limbach wies die Vorwürfe zurück und verwies auf organisatorische Notwendigkeiten bei der Bewältigung von mehr als 100 Verfahren mit über 1500 Beschuldigten."
+ },
+ {
+  "name": "Peter Biesenbach",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBiesenbach\\b",
+   "\\bBiesenbachs\\b",
+   "\\bBiesenbach'\\b"
+  ],
+  "summary": "Früherer NRW-Justizminister (CDU), der Cum-Ex-Ermittlungen ausbaute und 2023 Dienstaufsichtsbeschwerde erhob.",
+  "body": "**Peter Biesenbach** (CDU) war von 2017 bis 2022 Justizminister von Nordrhein-Westfalen. Wie kein anderer Justizminister trieb er die Aufarbeitung des Steuerskandals Cum-Ex voran.\n\n- Erhöhte die Zahl der Ermittlerstellen für Cum-Ex bei der Staatsanwaltschaft Köln von vier auf 36\n- Sprach von „industriell betriebener Steuerhinterziehung“, deren Verfolgung höchste Priorität habe\n- Interviewpartner des Handelsblatts 2019 zu seinem Kampf gegen Steuerhinterzieher\n\nNach seinem Ausscheiden im Juni 2022 sorgte er sich um sein Vermächtnis. Im März 2023 stellte er eine Dienstaufsichtsbeschwerde gegen den Leiter der Staatsanwaltschaft Köln und dessen Stellvertreter – ein in der deutschen Justizgeschichte nahezu einmaliger Vorgang. Er warf ihnen vor, die Arbeit der Cum-Ex-Abteilung unter Oberstaatsanwältin Anne Brorhilker zu behindern. Seine Furcht, die Aufklärung könne im Fiasko enden, bestätigte sich aus Sicht des Handelsblatts, als Brorhilker 2024 kündigte."
+ },
+ {
+  "name": "Stephan Neuheuser",
+  "folder": "Personen",
+  "patterns": [
+   "\\bNeuheuser\\b",
+   "\\bNeuheusers\\b",
+   "\\bNeuhäuser\\b"
+  ],
+  "summary": "Leiter der Staatsanwaltschaft Köln, der die Arbeit von Cum-Ex-Ermittlerin Brorhilker herabwürdigte.",
+  "body": "**Stephan Neuheuser** ist seit 2023 Leiter der Staatsanwaltschaft Köln, der zentralen Ermittlungsbehörde im Cum-Ex-Skandal. Berufen wurde er von NRW-Justizminister Benjamin Limbach.\n\n- Befürwortete kurz nach Amtsantritt die Teilung der Cum-Ex-Hauptabteilung von Anne Brorhilker\n- Nach ihrem Abgang 2024 bezeichnete er ihre Arbeit in einer dienstlichen Bewertung als „inhaltlich unzulänglich“, ihre Berichtsentwürfe seien „regelmäßig deutlich überarbeitungsbedürftig“ gewesen\n- Ihr fehle das Verständnis für die Besonderheit der Cum-Ex-Verfahren\n\nDas Handelsblatt wertete diese Einschätzung als Nachtreten gegen eine Ermittlerin, deren Anklagen ausnahmslos in Schuldsprüchen endeten und dem Fiskus Hunderte Millionen Euro einbrachten. Die Bewertung wurde zum Beleg für die Missgunst, die Brorhilker in ihrer Behörde erlebt haben soll. Bereits Ex-Justizminister Peter Biesenbach hatte 2023 Dienstaufsichtsbeschwerde gegen die Behördenleitung erhoben. Neuheuser und das Justizministerium verteidigten die Organisationsentscheidungen als sachlich geboten."
+ },
+ {
+  "name": "Ulf Johannemann",
+  "folder": "Personen",
+  "patterns": [
+   "\\bJohannemann\\b",
+   "\\bJohannemanns\\b",
+   "\\bJohanneman\\b"
+  ],
+  "summary": "Ehemaliger weltweiter Steuerchef von Freshfields, dessen Cum-Ex-Gutachten ihn auf die Anklagebank brachten.",
+  "body": "**Ulf Johannemann** war Partner und weltweiter Steuerchef der Kanzlei Freshfields Bruckhaus Deringer. Er galt intern als treibende Kraft beim Thema Cum-Ex und wurde zum ersten Spitzenanwalt einer Großkanzlei, der sich in Deutschlands größter Steueraffäre vor Gericht verantworten musste.\n\n- Hütete in jungen Jahren das Tor von Preußen Münster, erstes Staatsexamen 1996, Promotion und Studium in den USA\n- Mit 29 Jahren Einstieg bei Freshfields, 2016 trotz laufender Ermittlungen zum globalen Steuerchef befördert\n- Seine Gutachten dienten Banken als Gütesiegel, um reichen Familien angeblich risikolose Cum-Ex-Geschäfte anzubieten\n\n2019 kam Johannemann in Untersuchungshaft, kurz nachdem er die Kanzlei ohne Erklärung verlassen hatte. 2021 nannte ein Gericht Freshfields-Gutachten als Grund für den Zusammenbruch der Maple Bank. Der Prozess vor dem Landgericht Frankfurt begann Anfang 2023; Anfang 2024 wurde er wegen Beihilfe zur Steuerhinterziehung zu einer mehrjährigen Haftstrafe verurteilt. Freshfields selbst zahlte bereits Millionen im Zusammenhang mit der Affäre."
+ },
+ {
+  "name": "Siegfried Jaschinski",
+  "folder": "Personen",
+  "patterns": [
+   "\\bJaschinski\\b",
+   "\\bJaschinskis\\b",
+   "\\bJaschinsky\\b"
+  ],
+  "summary": "Früherer LBBW-Chef, der von den Cum-Ex-Geschäften seiner Landesbank erst aus der Zeitung erfahren haben will.",
+  "body": "**Siegfried Jaschinski** war von 2005 bis 2009 Vorstandsvorsitzender der Landesbank Baden-Württemberg (LBBW). In seine Amtszeit fallen Cum-Ex-Geschäfte, mit denen die Landesbank den Fiskus um rund 150 Millionen Euro schädigte.\n\n- Die LBBW zahlte das Geld samt Zinsen – rund 200 Millionen Euro – zurück, als sie ertappt wurde\n- Jaschinski sagte dem Handelsblatt, er habe von den Geschäften erst aus der Zeitung erfahren\n- Im Verwaltungsrat saßen Politikgrößen wie Stefan Mappus und Heinz Dürr, die sich an keine Diskussion über Cum-Ex erinnern\n\nEin Bericht der Stuttgarter Steuerfahndung, der dem Handelsblatt vorliegt, legt nahe, dass der gesamte Vorstand die Ertragssprünge hätte erkennen müssen. Dennoch brauchte die Staatsanwaltschaft Stuttgart, die zeitweise nur einen einzigen Ermittler einsetzte, zwölf Jahre bis zu einer Anklage gegen nachgeordnete Mitarbeiter; Verfahren gegen Vorstände wurden eingestellt. Für das Handelsblatt steht der Fall exemplarisch dafür, dass Chefetagen von Landesbanken im Cum-Ex-Skandal eine „justizfreie Zone“ blieben. Jaschinski wurde nicht angeklagt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Gerhard Strate",
+  "folder": "Personen",
+  "patterns": [
+   "\\bStrate\\b",
+   "\\bStrates\\b",
+   "\\bGerhard Strate\\b"
+  ],
+  "summary": "Prominenter Hamburger Strafverteidiger, Anwalt des Kronzeugen Steck, Kritiker der Staatsanwaltschaft Hamburg.",
+  "body": "**Gerhard Strate** (geboren 1950) ist einer der bekanntesten Strafverteidiger Deutschlands und seit Jahrzehnten in Hamburg tätig. Bundesweit bekannt wurde er unter anderem durch den Fall Gustl Mollath.\n\n- Vertrat den Cum-Ex-Kronzeugen Kai-Uwe Steck in dessen Prozess vor dem Landgericht Bonn\n- Lieferte sich im Januar 2025 hitzige Wortgefechte mit der Zeugin Anne Brorhilker\n- Schilderte im Podcast, wie er den Verhandlungstag erlebte\n\nSchon 2023 hatte Strate schwere Vorwürfe gegen die Staatsanwaltschaft Hamburg erhoben: Dass es wegen der Cum-Ex-Geschäfte der HSH Nordbank, mit denen die Landesbank laut einem Bericht der Kanzlei Clifford Chance 112 Millionen Euro an Steuern verdiente, nie ein Verfahren gegeben habe, sei „unglaublich“. Die „gänzliche Tatenlosigkeit“ der Behörde könne den Tatbestand der Strafvereitelung im Amt erfüllen. Die Hamburger Ermittler hatten lediglich einen „Beobachtungsvorgang“ angelegt. Erst 2026 bat die Staatsanwaltschaft Köln ihre Hamburger Kollegen, das Verfahren mit 26 Beschuldigten zu übernehmen."
+ },
+ {
+  "name": "Wolfgang Kubicki",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKubicki\\b",
+   "\\bKubickis\\b",
+   "\\bKubitzki\\b"
+  ],
+  "summary": "FDP-Politiker und Anwalt, der Hanno Berger vertrat und seine Cum-Ex-Einschätzung zur HSH Nordbank änderte.",
+  "body": "**Wolfgang Kubicki** (geboren 1952) ist FDP-Politiker, langjähriger Bundestagsvizepräsident und daneben als Rechtsanwalt in Kiel tätig. Im Cum-Ex-Skandal spielt er eine Doppelrolle als Politiker und Verteidiger.\n\n- Erklärte vor Jahren, die Geschäfte der HSH Nordbank erfüllten „ohne jeden Zweifel“ den objektiven und subjektiven Tatbestand der Steuerhinterziehung\n- Ließ sich später von Hanno Berger, der zentralen Figur des Skandals, mandatieren\n- Änderte danach seine rechtliche Einschätzung zu Cum-Ex erheblich\n\nDas Handelsblatt berichtete ausführlich darüber, warum Kubicki einen Cum-Ex-Angeklagten vertritt, und stellte seine früheren Aussagen seiner späteren Position gegenüber. Im Fall der HSH Nordbank, deren Cum-Ex-Altlasten die Staatsanwaltschaft Hamburg nie aufklärte, liegt Kubickis ursprüngliche Bewertung auf einer Linie mit der des Strafverteidigers Gerhard Strate. Kubicki selbst sieht in der Mandatsübernahme keinen Widerspruch zu seiner politischen Tätigkeit; als Anwalt stehe jedem Beschuldigten eine Verteidigung zu."
+ },
+ {
+  "name": "Alfred Dierlamm",
+  "folder": "Personen",
+  "patterns": [
+   "\\bDierlamm\\b",
+   "\\bDierlamms\\b",
+   "\\bDierlam\\b",
+   "\\bDirlamm\\b"
+  ],
+  "summary": "Bekannter Strafverteidiger, Ex-Anwalt von Markus Braun und Kai-Uwe Steck; Gast im Podcast.",
+  "body": "**Alfred Dierlamm** ist Wirtschaftsstrafverteidiger mit Kanzlei in Wiesbaden und gehört zur ersten Wahl, wenn Top-Manager oder Unternehmen ein strafrechtliches Problem haben. Seine Karriere begann vor gut 30 Jahren, als Gespräche mit Medien für Verteidiger noch undenkbar waren.\n\n- Verteidigte den langjährigen Wirecard-Vorstandschef Markus Braun und warf der Staatsanwaltschaft München im Prozess schwere Vorwürfe vor; die Anklage sei so schlecht begründet, dass sie nicht hätte zugelassen werden dürfen\n- Legte das Braun-Mandat 2024 aus finanziellen Gründen nieder, nachdem die Managerhaftpflichtversicherer nicht mehr zahlten\n- Vertrat den Cum-Ex-Kronzeugen Kai-Uwe Steck, der ihn kurz vor Prozessbeginn entließ und später mit Vorwürfen und einer Millionenklage überzog\n\nIm Februar 2025 sprach Dierlamm im Podcast über seinen Werdegang und darüber, was einen erfolgreichen Verteidiger ausmacht. Sein größter Erfolg sei es, wenn ein Vorwurf gegen einen Mandanten gar nicht erst öffentlich werde. Zum Fall Steck äußerte er sich kaum, weil er nicht von der Verschwiegenheitspflicht entbunden war; dessen Vorwurf wies er vehement zurück. Stecks Klage gegen ihn blieb erfolglos."
+ },
+ {
+  "name": "Jürgen Fitschen",
+  "folder": "Personen",
+  "patterns": [
+   "\\bFitschen\\b",
+   "\\bFitschens\\b",
+   "\\bFitchen\\b"
+  ],
+  "summary": "Ex-Co-Chef der Deutschen Bank, Syntellix-Aufsichtsrat und Ziel einer 68-Millionen-Klage von Utz Claassen.",
+  "body": "**Jürgen Fitschen** (geboren 1948) war von 2012 bis 2016 Co-Vorstandsvorsitzender der Deutschen Bank und zuvor Präsident des Bundesverbands deutscher Banken. Nach seinem Ausscheiden übernahm er verschiedene Aufsichtsmandate, darunter bei der Medizintechnikfirma Syntellix.\n\n- Als Syntellix-Aufsichtsrat geriet er in Konflikt mit Firmenchef Utz Claassen\n- Claassen wirft ihm vor, die Firma mit einem „Fünf-Stufen-Plan“ zerstören zu wollen, und verklagte ihn auf 68 Millionen Euro Schadensersatz\n- Fitschen weist die Vorwürfe zurück\n\nIm Cum-Ex-Komplex tauchte sein Name ebenfalls auf: Das Handelsblatt berichtete unter dem Titel „Fahnder in Fitschens Wohnung“ über eine Durchsuchung im Zusammenhang mit den Ermittlungen gegen die Warburg-Gruppe, in deren Umfeld er als Privatanleger genannt wurde. Ein strafrechtlicher Vorwurf gegen Fitschen ist daraus öffentlich nicht bekannt geworden; es gilt die Unschuldsvermutung. In der Syntellix-Folge zeichnen die Reporter das Bild eines Streits, in dem der einstige Überflieger Claassen einen der renommiertesten Banker des Landes zum Hauptgegner erklärte."
+ },
+ {
+  "name": "Elon Musk",
+  "folder": "Personen",
+  "patterns": [
+   "\\bMusk\\b",
+   "\\bMusks\\b",
+   "\\bElon\\b"
+  ],
+  "summary": "Tesla-Chef und reichster Mensch der Welt; Autopilot-Versprechen und Firmenkultur stehen in der Kritik.",
+  "min": 5,
+  "body": "**Elon Musk** (geboren 1971 in Pretoria) ist Chef von Tesla und SpaceX, Eigentümer der Plattform X und gilt als reichster Mensch der Welt. In den Tesla-Files, rund 100 Gigabyte interner Daten, die ein Whistleblower Ende 2022 dem Handelsblatt zuspielte, steht sein wichtigstes Versprechen im Mittelpunkt: der Autopilot.\n\n- Erklärte 2019, der Autopilot sei etwa doppelt so sicher wie ein menschlicher Fahrer; drei Tage später starb in Florida eine 22-Jährige, Tesla wurde 2025 zu 243 Millionen Dollar verurteilt\n- Sagte 2022, ein funktionierender Autopilot entscheide, ob Tesla viel Geld wert sei „oder praktisch null“\n- Finanzierte 2024 Donald Trumps Wahlkampf mit rund 300 Millionen Dollar und erhielt Einfluss auf Behörden, die Tesla beaufsichtigen\n\nDie Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen Firmenkult, der an eine Sekte erinnere, und einen Konzern, der sich gegen Aufklärung von Unfällen sperrt. Dem Whistleblower Lukasz Krupski soll Musk eine ehemalige CIA-Agentin auf den Hals gehetzt haben. In Grünheide griff Musk 2026 persönlich in die Betriebsratswahl ein und warnte, die Fabrik werde bei einem Sieg der IG Metall nicht erweitert. Für vier Millionen ältere Teslas läuft das versprochene Full Self-Driving bis heute nicht."
+ },
+ {
+  "name": "Lukasz Krupski",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKrupski\\b",
+   "\\bKrupskis\\b",
+   "\\bKrupsky\\b",
+   "\\bKrupske\\b"
+  ],
+  "summary": "Ehemaliger Tesla-Techniker in Norwegen und Whistleblower, der dem Handelsblatt die Tesla-Files zuspielte.",
+  "body": "**Lukasz Krupski** begann am 1. November 2018 als Servicetechniker bei Tesla im norwegischen Drammen und bezeichnete sich selbst als „Tesla-Jünger“. Als Mitarbeiter Nummer 709279 wollte er Elon Musk helfen, die Welt zu verbessern.\n\n- Riss 2019 bei einer Ausstellung in Lilleström mit bloßen Händen ein brennendes Schnellladegerät aus einem Model 3 und verhinderte eine Katastrophe\n- Musk dankte ihm persönlich; es folgte ein Austausch über Arbeitssicherheit\n- Wenig später fand er Überwachungssoftware auf seinem Dienstlaptop, dann hieß es, er habe keine Zukunft bei Tesla\n\nKrupski entdeckte Mängel bei der Arbeitssicherheit und erhebliche Datenschutzprobleme. Weil Tesla ihn nicht hören wollte, wandte er sich an Behörden und schließlich ans Handelsblatt, das die Tesla-Files mit Kundenbeschwerden über Phantombremsungen, Autopilot-Unfällen und Daten von mehr als 100.000 Beschäftigten auswertete. Tesla spricht von Datenklau; norwegische Behörden durchsuchten auf Drängen des Konzerns seine Wohnung, eine frühere CIA-Agentin wurde auf ihn angesetzt. Im November 2023 trat Krupski erstmals öffentlich auf, im Düsseldorfer Studio vor Kamera und Mikrofon. Rund 20 europäische Aufsichtsbehörden befassten sich mit seinen Informationen."
+ },
+ {
+  "name": "Missy Cummings",
+  "folder": "Personen",
+  "patterns": [
+   "\\bCummings\\b",
+   "\\bMissy\\b"
+  ],
+  "summary": "US-Robotikprofessorin und frühere Beraterin der Verkehrsbehörde NHTSA, Kritikerin von Teslas Autopilot.",
+  "body": "**Mary „Missy“ Cummings** ist Professorin für Robotik und Ingenieurwissenschaften in den USA und eine der bekanntesten Expertinnen für die Sicherheit autonomer Systeme. Sie war früher Kampfpilotin der US Navy, lehrte an der Duke University und später an der George Mason University.\n\n- Beriet als leitende Sicherheitsberaterin die US-Verkehrsbehörde NHTSA, die auch Teslas Fahrassistenzsysteme untersucht\n- Gilt als scharfe Kritikerin von Elon Musk, der sie öffentlich angriff\n- Im Dokumentarfilm „Elon Musk Uncovered – Das Tesla-Experiment“ von Andreas Pichler ordnet sie die Risiken des Autopiloten ein\n\nIhr Satz, eine Halluzination bei hoher Geschwindigkeit sei tödlich, bringt das Problem auf den Punkt: Kamerabasierte Systeme können Objekte falsch erkennen, und ein Fahrer, der sich auf die Software verlässt, reagiert zu spät. Der Film stützt sich auf die Tesla-Files des Handelsblatts mit Tausenden Kundenbeschwerden über plötzliches Beschleunigen, Phantombremsungen und Autopilot-Probleme. Cummings steht damit im Gegensatz zu Teslas Versprechen vollautonomen Fahrens, das die niederländische Behörde RDW 2026 erstmals in Europa genehmigte – allerdings nicht für Millionen älterer Fahrzeuge."
+ },
+ {
+  "name": "Andreas Pichler",
+  "folder": "Personen",
+  "patterns": [
+   "\\bPichler\\b",
+   "\\bPichlers\\b",
+   "\\bPischler\\b"
+  ],
+  "summary": "Südtiroler Dokumentarfilmer, Regisseur von „Elon Musk Uncovered – Das Tesla-Experiment“.",
+  "body": "**Andreas Pichler** ist ein aus Südtirol stammender Dokumentarfilmer und Regisseur, der mit gesellschaftskritischen Filmen wie „Das System Milch“ oder „Der Pakt mit dem Panda“ bekannt wurde.\n\n- Sein Film „Elon Musk Uncovered – Das Tesla-Experiment“ erzählt mehrere Fälle von Unfällen mit Teslas Autopilot\n- Grundlage sind die Tesla-Files: rund 100 Gigabyte interner Daten, die ein Whistleblower Ende 2022 dem Handelsblatt zuspielte\n- Zu Wort kommen unter anderem die Robotik-Professorin Missy Cummings und Betroffene wie die Hinterbliebenen von Naibel Benavides, die 2019 in Key Largo starb\n\nDer Film greift die Frage auf, was aus Teslas Versprechen des autonomen Fahrens geworden ist: Im August 2025 verurteilte eine Jury in Miami Tesla zu 243 Millionen Dollar Schadensersatz, im April 2026 genehmigte die niederländische Behörde RDW erstmals Full Self-Driving in Europa – während die Software auf rund vier Millionen älteren Teslas nicht läuft. Investigativ-Chef Sönke Iwersen, der mit Michael Verfürden das Buch „Die Tesla-Files“ schrieb, begleitete die Filmarbeiten und bespricht den Film in der Folge vom November 2026."
+ },
+ {
+  "name": "René Benko",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBenko\\b",
+   "\\bBenkos\\b",
+   "\\bBenco\\b",
+   "\\bWunderwuzzi\\b"
+  ],
+  "summary": "Österreichischer Signa-Gründer und Ex-Milliardär; nach der Milliardenpleite 2025 in Haft und verurteilt.",
+  "body": "**René Benko** (geboren 1977 in Innsbruck) baute ab 2000 ohne Schulabschluss die Signa-Gruppe zu einem der größten Handels- und Immobilienkonzerne Europas auf, mit Objekten wie dem KaDeWe, dem Chrysler Building und dem Elbtower sowie der Kaufhauskette Galeria. Er wurde noch vor seinem 40. Geburtstag Milliardär und als „Wunderwuzzi“ gefeiert.\n\n- Unübersichtliche Firmenstrukturen und Luxusausgaben der Holding wurden ihm zum Verhängnis\n- Ende November 2023 meldete die Signa Holding Insolvenz an, die größte Pleite der österreichischen Geschichte; weitere Tochterfirmen folgten\n- Gläubiger meldeten rund zwei Milliarden Euro Forderungen an; Benko gab an, nur noch 3700 Euro im Monat zu verdienen\n\nVertraute hatten unter dem Dach der Laura Privatstiftung ein großes Immobilienportfolio aufgebaut; Geschenke an und von seiner Mutter Ingeborg beschäftigten die Ermittler. Im Januar 2025 kam Benko in Untersuchungshaft, im Juli 2025 klagte ihn die Staatsanwaltschaft Wien wegen betrügerischen Bankrotts an. Das Landesgericht Innsbruck verurteilte ihn im Oktober 2025 zu zwei Jahren Haft, weil er 300.000 Euro seiner Mutter schenkte statt sie Gläubigern zu geben; in einem zweiten Anklagepunkt wurde er freigesprochen. Weitere Ermittlungsstränge in Österreich, Deutschland und Italien laufen. Benko bestreitet die Vorwürfe."
+ },
+ {
+  "name": "Mehmet Göker",
+  "folder": "Personen",
+  "patterns": [
+   "\\bGöker\\b",
+   "\\bGökers\\b",
+   "\\bGoeker\\b",
+   "\\bGöcker\\b"
+  ],
+  "summary": "Einstiger Star des Versicherungsvertriebs (MEG), der nach Pleite und Haftbefehl in die Türkei floh.",
+  "body": "**Mehmet Göker** (geboren 1979 in Kassel) gründete mit 23 Jahren den Versicherungsvertrieb MEG, der private Krankenversicherungen verschiedener Anbieter vermittelte. Kurze Zeit später war er Millionär.\n\n- Verdiente in der Spitze rund 8000 Euro Provision pro Vertragsabschluss; die Versicherer überhäuften ihn mit Geld und Aufträgen\n- Luxusautos, Partys und Größenwahn prägten das Bild des Unternehmens\n- Die MEG ging pleite, gegen Göker erging ein Haftbefehl wegen Untreue und Insolvenzverschleppung\n\nDem Prozess entzog er sich durch Flucht in die Türkei, wo er bis heute lebt und aus dem Exil mit neuen Vertrieben weitermacht. Der Dokumentarfilm „Der Versicherungsvertreter“ machte ihn einem breiten Publikum bekannt, seine Autobiografie trägt den Titel „Ich stehe wieder auf“. Handelsblatt-Korrespondent Ozan Demircan besuchte ihn 2014 als erster Journalist in seinem Exil und verbrachte mehrere Tage in seinem Haus. Für die Reporter ist Göker Täter und Opfer zugleich: ein Mann, der die perfiden Provisionsstrukturen des Finanzvertriebs ausnutzte und zugleich dokumentiert, wie dieses System funktioniert."
+ },
+ {
+  "name": "Edward Snowden",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSnowden\\b",
+   "\\bSnowdens\\b",
+   "\\bSnouden\\b"
+  ],
+  "summary": "US-Whistleblower, der 2013 die NSA-Überwachung enthüllte und von Asylbewerbern in Hongkong versteckt wurde.",
+  "body": "**Edward Snowden** (geboren 1983) ist der wohl bekannteste Whistleblower der Welt. Als IT-Spezialist des US-Geheimdienstes NSA belegte er 2013, dass die amerikanischen Dienste Hunderte Millionen Menschen weltweit anlasslos überwachten – auch die eigene Bevölkerung.\n\n- Enttarnte sich am 9. Juni 2013 in einem Video-Interview des „Guardian“ in Hongkong selbst\n- War danach eine lebende Zielscheibe; die Flucht nach Moskau gelang erst nach 14 Tagen\n- Lebt seither in Russland, inzwischen mit Frau und Kind und russischer Staatsbürgerschaft\n\nDrei Jahre lang blieb unbekannt, wie Snowden die zwei Wochen in Hongkong überstand. Investigativ-Chef Sönke Iwersen fand die Antwort: Vier Asylbewerber aus Sri Lanka und den Philippinen – Ajith, Vanessa, Supun und Nadeeka – versteckten ihn in den ärmsten Ecken der Stadt. Für das Dossier „Snowdens Schutzengel“ erhielt Iwersen den Kurt-Tucholsky-Preis. Die Helfer fürchteten später um ihr Leben; drei von ihnen leben heute in Kanada und richteten über das Handelsblatt eine persönliche Nachricht an Snowden. Die US-Justiz wirft ihm Spionage und Diebstahl von Regierungseigentum vor."
+ },
+ {
+  "name": "Andreas Scheuer",
+  "folder": "Personen",
+  "patterns": [
+   "\\bScheuer\\b",
+   "\\bScheuers\\b",
+   "\\bAndreas Scheuer\\b"
+  ],
+  "summary": "Ex-Bundesverkehrsminister (CSU), wegen mutmaßlicher Falschaussage zur Pkw-Maut vor Gericht.",
+  "body": "**Andreas Scheuer** (geboren 1974) war von 2018 bis 2021 Bundesverkehrsminister. Sein wichtigstes Projekt, die Pkw-Maut, scheiterte 2019 vor dem Europäischen Gerichtshof – nachdem Scheuer die Verträge mit den Betreibern bereits unterschrieben hatte.\n\n- Der Bund musste den Betreiberfirmen später 243 Millionen Euro Entschädigung zahlen\n- Ein Untersuchungsausschuss des Bundestags befasste sich 2020 und 2021 mit der Frage, ob Scheuer ein Angebot der Betreiber ausschlug, mit der Unterzeichnung bis zum EuGH-Urteil zu warten\n- Scheuer bestritt, ein solches Angebot erhalten zu haben; die Betreiber sagten das Gegenteil aus\n\nDie Staatsanwaltschaft Berlin wirft ihm vor, den Ausschuss wider besseres Wissen falsch informiert zu haben. Scheuer bestreitet den Vorwurf der uneidlichen Falschaussage. Der Prozess vor dem Landgericht Berlin begann im September 2026 und ist auf zwölf Verhandlungstage angesetzt. Scheuer hatte sein Bundestagsmandat 2024 niedergelegt und arbeitet seither in der Wirtschaft. Bis zu einem rechtskräftigen Urteil gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Christoph Gröner",
+  "folder": "Personen",
+  "patterns": [
+   "\\bGröner\\b",
+   "\\bGröners\\b",
+   "\\bGroener\\b",
+   "\\bGröhner\\b"
+  ],
+  "summary": "Streitbarer Immobilienunternehmer (Gröner Group), dessen Firmenreich 2025 in die Insolvenz rutschte.",
+  "body": "**Christoph Gröner** (geboren 1968) zählt zu den bekanntesten und umstrittensten Immobilienunternehmern Deutschlands. Er steht für die Karriere vom Tellerwäscher zum Milliardenunternehmer und baute mit der CG Gruppe und später der Gröner Group eine große Projektentwicklungsgruppe auf.\n\n- Für ihn arbeiteten Ex-Kanzleramtschef Ronald Pofalla und der frühere EU-Kommissar Günther Oettinger; Ex-Kanzler Gerhard Schröder zählte zu seinen Vertrauten\n- Stellte seinen Reichtum offen zur Schau, gilt als Mann mit großem Ego und sehr streitbar\n- 2024 stritt er mit Finanzamt, Handwerkern, Beratern und den Stadtwerken Leipzig; Tochterfirmen waren mit Insolvenzanträgen konfrontiert\n\nIm August 2024 kam Gröner ins Handelsblatt-Studio, gab sich kämpferisch und kündigte an, nach dem Verkauf von Porsches, Villen in Südfrankreich und verpfändeter Kunst mit neuer Struktur durchzustarten. Es kam anders: 2025 eröffnete ein Gericht das Insolvenzverfahren über die Gröner Group, auch über sein Privatvermögen läuft ein vorläufiges Verfahren. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Insolvenzverschleppung und Vorenthaltens von Arbeitsentgelt. Gröner weist die Vorwürfe zurück; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Carl-Clemens Veltins",
+  "folder": "Personen",
+  "patterns": [
+   "\\bVeltins\\b",
+   "\\bCarl-Clemens\\b",
+   "\\bCarl Clemens\\b"
+  ],
+  "summary": "Schwarzes Schaf der Brauerei-Dynastie Veltins, der nach Drogen und Haft um sein Erbe klagt.",
+  "body": "**Carl-Clemens Veltins** ist der Sohn der Brauerei-Erbin Rosemarie Veltins und gilt als schwarzes Schaf der Familie, die die Sauerländer Brauerei C. & A. Veltins führt. Seit Jahrzehnten ist er vom Familienunternehmen ausgeschlossen.\n\n- Handelte und konsumierte Drogen, saß im Gefängnis, ist heute arbeitslos\n- Wirft seiner verstorbenen Mutter vor, ihn vor fast 30 Jahren auf sittenwidrige Weise um mehrere Hundert Millionen Euro gebracht zu haben\n- Verklagt seine Schwestern, die das Unternehmen heute führen, auf sein Erbe\n\nFür den Podcast gab Veltins dem Handelsblatt im April 2024 ein exklusives Interview; erstmals war die Stimme des bis dahin öffentlich unbekannten Nachkommen zu hören. Seine Schwestern wollten die Vorwürfe gegenüber dem Handelsblatt nicht kommentieren. Der Erbstreit erschüttert die verschwiegene Veltins-Dynastie und wirft die Frage auf, was ein Rechtsstreit für ein Familienunternehmen dieser Größe bedeutet. Über den Ausgang der Klage ist öffentlich nichts Abschließendes bekannt."
+ },
+ {
+  "name": "Jens Lehmann",
+  "folder": "Personen",
+  "patterns": [
+   "\\bLehmann\\b",
+   "\\bLehmanns\\b",
+   "\\bMad Jens\\b"
+  ],
+  "summary": "WM-Torwart von 2006, heute vorbestrafter Dauergast bei Gericht – auch wegen Steuerhinterziehung.",
+  "body": "**Jens Lehmann** (geboren 1969) schrieb als Nationaltorwart bei der Fußball-WM 2006 im Elfmeterschießen gegen Argentinien Geschichte. Nach der Karriere begann ein Abstieg abseits des Platzes, der ihm den Spitznamen „Mad Jens“ einbrachte.\n\n- Verkehrsdelikte, Streitigkeiten um Geld und ein Kettensägen-Angriff auf die Garage eines Nachbarn am Starnberger See\n- Vorbestraft wegen versuchten Betrugs und Sachbeschädigung\n- Handelsblatt-Recherchen in Akten der Steuerfahndung zeigen zudem eine Verurteilung wegen Steuerhinterziehung\n\nDie Investigativ-Reporter stießen auf dubiose Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“, die in keinem Land versteuert werden sollten. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, stimme deshalb nicht. Die Folge vom März 2026 erzählt die Geschichte eines Mannes, der sich offenbar nur schwer an Regeln halten kann, und ordnet ein, wie aus dem WM-Helden ein Dauergast vor Gericht wurde. Lehmann selbst äußerte sich zu den Steuervorwürfen gegenüber dem Handelsblatt nicht."
+ },
+ {
+  "name": "Hendrik Holt",
+  "folder": "Personen",
+  "patterns": [
+   "\\bHendrik Holt\\b",
+   "\\bHolt\\b(?=.{0,60}(Wind|Emsland|Adlon|Haft|Freigang))",
+   "\\bHolts\\b",
+   "\\bHolt-Holding\\b"
+  ],
+  "summary": "Windpark-Betrüger aus dem Emsland, zu fast neun Jahren Haft verurteilt; 2026 vom Freigang nicht zurückgekehrt.",
+  "body": "**Hendrik Holt** (geboren 1990) wollte mit der Familienfirma Holt Holding aus dem Emsland Windparks erschließen und kassierte dafür Millionen von europäischen Energiekonzernen. Tatsächlich hatten er und seine Familie Tausende Dokumente gefälscht und ganze Windparks erfunden.\n\n- Die Polizei verhaftete ihn Anfang 2020 in seiner Suite im Berliner Nobelhotel Adlon und verhinderte in letzter Minute einen dreistelligen Millionen-Coup\n- Legte 2020 ein umfassendes Geständnis ab\n- Das Landgericht Osnabrück verurteilte ihn als Betrüger und Hochstapler zu insgesamt fast neun Jahren Haft; auch weitere Familienmitglieder kamen ins Gefängnis\n\nHolt sollte seine Strafe bis Ende 2028 in Berlin verbüßen. Ende August 2026 kehrte er von einem Freigang nicht in die JVA zurück und wird seither von Zielfahndern gesucht. Aus der Haft heraus war es ihm gelungen, deutschlandweit als Millionenbetrüger bekannt zu werden, unter anderem durch Interviews. Reporter Lars-Marten Nagel begleitete die Holt-Prozesse über Jahre; die Folge vom September 2026 fragt nach den Motiven und Hintergründen seines Abtauchens."
+ },
+ {
+  "name": "Wanja Oberhof",
+  "folder": "Personen",
+  "patterns": [
+   "\\bOberhof\\b",
+   "\\bOberhofs\\b",
+   "\\bWanja\\b",
+   "\\bOberhoff\\b"
+  ],
+  "summary": "Berliner Jungunternehmer und Ex-Social-Chain-Chef, 2026 in den USA wegen Betrugsverdachts festgenommen.",
+  "body": "**Wanja Oberhof** machte früh Karriere als Unternehmer. Er gründete und finanzierte zahlreiche Firmen, wurde Gesellschafter und Chef der Social Chain AG und baute mit seiner Frau Anabel Oelmann ein neues Geschäft im Gesundheits- und Wellnessbereich auf.\n\n- Übernahm 2022 die Führung der Social Chain AG, die 2023 Insolvenz anmeldete\n- Galt in der Berliner Start-up-Szene als Wirtschafts-Wunderkind mit prominenten Geldgebern\n- 2026 in den USA festgenommen; neun Tage im Metropolitan Detention Center in Brooklyn\n\nGegen eine Millionen-Kaution und unter strengen Auflagen kam Oberhof wieder frei; zwei Deutsche bürgen für ihn. Die US-Justiz wirft ihm vor, Investoren betrogen und Geld von Investoren für private Zwecke verwendet zu haben. Zu den Belastungszeugen gehört Ex-Siemens-Chef Klaus Kleinfeld, der selbst investiert hatte. Oberhof bestreitet die Vorwürfe. Die Folge vom Oktober 2026 zeichnet seinen Aufstieg nach und fragt, wie aus dem gefeierten Unternehmer ein Beschuldigter in einem US-Strafverfahren werden konnte. Bis zu einem Urteil gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Klaus Kleinfeld",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKleinfeld\\b",
+   "\\bKleinfelds\\b"
+  ],
+  "summary": "Ehemaliger Siemens-Chef und Investor, der Wanja Oberhof im US-Betrugsverfahren schwer belastet.",
+  "body": "**Klaus Kleinfeld** (geboren 1957) war von 2005 bis 2007 Vorstandsvorsitzender von Siemens und verließ den Konzern im Zuge der Korruptionsaffäre. Danach führte er in den USA den Aluminiumkonzern Alcoa und dessen Abspaltung Arconic, später beriet er das saudische Megaprojekt Neom.\n\n- Gehört zu den Investoren, die Wanja Oberhof Geld anvertrauten\n- Belastet Oberhof im US-Verfahren schwer; er gilt als einer der wichtigsten Zeugen der Anklage\n- Seine Vorwürfe trugen dazu bei, dass die US-Justiz Oberhof 2026 festnehmen ließ\n\nDie US-Ermittler werfen Oberhof vor, Investorengelder für private Zwecke verwendet zu haben. Kleinfelds Rolle zeigt, wie ein einst gefeiertes Wunderkind der deutschen Gründerszene auch prominente Manager als Geldgeber gewann. Für Kleinfeld selbst ist es nicht die erste Begegnung mit der Justiz: Bei Siemens hatte er mit den Folgen der Schmiergeldaffäre zu kämpfen, 2017 musste er bei Arconic nach einem umstrittenen Brief an einen Hedgefonds-Manager gehen. Im Fall Oberhof tritt er als Geschädigter auf; gegen ihn selbst richten sich keine Vorwürfe."
+ },
+ {
+  "name": "Martin Winterkorn",
+  "folder": "Personen",
+  "patterns": [
+   "\\bWinterkorn\\b",
+   "\\bWinterkorns\\b",
+   "\\bWinterkorns'\\b"
+  ],
+  "summary": "Ehemaliger VW-Vorstandschef, der im Dieselskandal von nichts gewusst haben will; Strafprozess in Braunschweig.",
+  "body": "**Martin Winterkorn** (geboren 1947) war von 2007 bis 2015 Vorstandsvorsitzender der Volkswagen AG und galt als allmächtiger, detailversessener Workaholic und bestbezahlter Automanager Deutschlands. Er stammt aus einfachen Verhältnissen und stieg über Audi an die Spitze des größten Autoherstellers der Welt auf.\n\n- Am 18. September 2015 meldete die US-Umweltbehörde EPA den Verstoß mit manipulierten Dieselmotoren; fünf Tage später trat Winterkorn zurück\n- Ließ sich jeden Freitag einen „Wochenendkoffer“ mit den wichtigsten Konzernthemen mitgeben – im August 2014 lagen darin Informationen über zu hohe Abgaswerte\n- Beteuert, nichts von der Betrugssoftware gewusst zu haben\n\nDer Dieselskandal kostete VW mehr als 32 Milliarden Euro; es kam zum größten Vergleich der deutschen Rechtsgeschichte mit über 800 Millionen Euro für Kunden. Winterkorn zahlte VW im Rahmen eines Vergleichs rund elf Millionen Euro Schadensersatz. Die Staatsanwaltschaft Braunschweig klagte ihn wegen Betrugs, Marktmanipulation und uneidlicher Falschaussage an; der Strafprozess begann 2024, wurde aber wegen seines Gesundheitszustands unterbrochen. Ein Urteil liegt nicht vor; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Rupert Stadler",
+  "folder": "Personen",
+  "patterns": [
+   "\\bStadler\\b",
+   "\\bStadlers\\b",
+   "\\bRupert Stadler\\b"
+  ],
+  "summary": "Langjähriger Audi-Chef, der im ersten Diesel-Strafprozess gestand und 2023 eine Bewährungsstrafe erhielt.",
+  "body": "**Rupert Stadler** (geboren 1963) war von 2007 bis 2018 Vorstandsvorsitzender von Audi und saß zugleich im Konzernvorstand von Volkswagen. Als erster amtierender Vorstandschef eines Dax-Konzerns kam er 2018 in Untersuchungshaft.\n\n- Bei Audi in Ingolstadt wurde ähnlich wie bei der Konzernmutter in Wolfsburg bei Diesel-Abgaswerten getrickst\n- Der Prozess vor dem Landgericht München II dauerte 170 Verhandlungstage\n- Das Gericht stellte ihm bei einem Geständnis eine Bewährungsstrafe in Aussicht; im Mai 2023 legte er ein Geständnis ab\n\nIm Juni 2023 wurde Stadler wegen Betrugs durch Unterlassen zu einem Jahr und neun Monaten auf Bewährung verurteilt und musste 1,1 Millionen Euro zahlen. Das Urteil ist rechtskräftig. Die Staatsanwaltschaft hatte ihm vorgeworfen, auch nach Bekanntwerden der Manipulationen im September 2015 den Verkauf betroffener Fahrzeuge nicht gestoppt zu haben. Mitangeklagt waren der frühere Motorenentwicklungschef Wolfgang Hatz und der Ingenieur Giovanni Pamio. Das Handelsblatt beschrieb den „tiefen Fall“ des einstigen Vorzeigemanagers, der vom Finanzexperten zum Aushängeschild der Marke mit den vier Ringen aufgestiegen war."
+ },
+ {
+  "name": "Wolfgang Hatz",
+  "folder": "Personen",
+  "patterns": [
+   "\\bHatz\\b",
+   "\\bWolfgang Hatz\\b",
+   "\\bHatz'\\b"
+  ],
+  "summary": "Ehemaliger Chef der Motorenentwicklung bei Audi und Porsche, im Dieselprozess 2023 verurteilt.",
+  "body": "**Wolfgang Hatz** war Leiter der Motorenentwicklung bei Audi und später Entwicklungsvorstand bei Porsche. Er gehörte zu den drei Angeklagten im ersten Strafprozess des Dieselskandals vor dem Landgericht München II, neben Ex-Audi-Chef Rupert Stadler und dem Ingenieur Giovanni Pamio.\n\n- Galt als einer der einflussreichsten Motorenentwickler des VW-Konzerns\n- Saß 2017 und 2018 monatelang in Untersuchungshaft\n- Legte 2023 ein umfassendes Geständnis ab, nachdem das Gericht Bewährungsstrafen in Aussicht gestellt hatte\n\nAnders als bei Stadler war die Staatsanwaltschaft mit einer Bewährungsstrafe für Hatz nicht einverstanden und forderte drei Jahre und zwei Monate Haft. Das Gericht blieb bei seiner Zusage: Im Juni 2023 wurde Hatz wegen Betrugs zu zwei Jahren auf Bewährung und einer Geldauflage von 400.000 Euro verurteilt. In der Folge vom Juni 2023 zeichnen die Handelsblatt-Reporter nach, wie nicht nur in Wolfsburg, sondern auch bei der Edelmarke Audi in Ingolstadt bei den Abgaswerten getrickst wurde und warum die Justiz zuerst diese Männer auf die Anklagebank setzte."
+ },
+ {
+  "name": "Daniel Starr",
+  "folder": "Personen",
+  "patterns": [
+   "\\bDaniel Starr\\b",
+   "\\bStarrs\\b",
+   "\\bDaniel Star\\b"
+  ],
+  "summary": "US-Tech-Unternehmer, den die Bonner Staatsanwaltschaft seit Jahren wegen Steuerhinterziehung verfolgt.",
+  "body": "**Daniel Starr** ist ein US-amerikanischer Tech-Unternehmer und Investor. Er gründete, kaufte und verkaufte Dutzende Firmen, spendete Millionen an die Ukraine und verkaufte eine Villa in Beverly Hills an die Sängerin Rihanna.\n\n- Im November 2022 stürmten schwer bewaffnete Polizisten in Paris seinen Privatjet und nahmen ihn auf dem Rollfeld fest\n- Grundlage war ein europäischer Haftbefehl der Bonner Staatsanwaltschaft, der später als rechtswidrig aufgehoben wurde\n- Der Vorwurf lautet Steuerhinterziehung; die Ermittlungen laufen seit rund fünf Jahren\n\nDas Verfahren sticht nach Einschätzung der Handelsblatt-Reporter durch eine Härte heraus, die in vergleichbaren Fällen selten ist. Starr sagt, er habe jahrelang nicht gewusst, warum gegen ihn ermittelt wird. Inzwischen haben sich Politiker aus dem Umfeld von Donald Trump eingeschaltet und die Methoden der deutschen Strafverfolger kritisiert. Starr fordert von Nordrhein-Westfalen Schadensersatz in Milliardenhöhe. In den Folgen vom August und September 2025 kommt er selbst zu Wort. Eine Anklage oder ein Urteil ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Uwe Reppegather",
+  "folder": "Personen",
+  "patterns": [
+   "\\bReppegather\\b",
+   "\\bReppegathers\\b",
+   "\\bRepegather\\b",
+   "\\bWolf of High Street\\b"
+  ],
+  "summary": "Düsseldorfer Immobilienentwickler („König der Kö“, Centrum), 2026 auf Ibiza festgenommen.",
+  "body": "**Uwe Reppegather** arbeitete sich vom Hauptschüler zu einem der mächtigsten Player der deutschen Immobilienbranche hoch. Mit seinem Projektentwickler Centrum im Düsseldorfer Medienhafen bewegte er Milliarden und entwickelte Luxusimmobilien an der Königsallee – manche nannten ihn „König der Kö“, andere „Wolf of High Street“.\n\n- Umgab sich mit Prominenten wie Boris Becker und Til Schweiger, lebte mit Privatjet, Segelyacht und Finca auf Ibiza\n- Hinter der Fassade bröckelte ein Konstrukt aus Schulden und fragwürdigen Transaktionen; 2023 folgte die Insolvenz\n- Kurz vor der Pleite ging seine Ibiza-Villa, angeblich 30 Millionen Euro wert, für rund fünf Millionen Euro an seine Ehefrau\n\nAm 26. März 2026 rückten in sechs Ländern mehr als 400 Beamte aus und durchsuchten 49 Objekte, darunter eine Cannabis-Firma und eine historische Segelyacht. Reppegather wurde zeitgleich auf Ibiza festgenommen, stellte sich später den deutschen Behörden und kam in Untersuchungshaft. Die Ermittler werfen ihm Betrug, Bankrott und Untreue vor; sie prüfen, wie er trotz Milliardenschulden so schnell wieder ins Geschäft kam. Reppegather weist die Vorwürfe zurück. Es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Charles Smethurst",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSmethurst\\b",
+   "\\bSmethursts\\b",
+   "\\bSmithhurst\\b",
+   "\\bSmethers\\b"
+  ],
+  "summary": "Deutsch-britischer Gründer der German Property Group (Dolphin Trust), wegen Anlegerbetrugs angeklagt.",
+  "body": "**Charles Smethurst** galt als Verkaufsgenie und wurde als „Gentleman der Immobilienbranche“ bezeichnet. Mit seiner German Property Group, früher Dolphin Trust, sammelte der Deutsch-Brite zwischen 2008 und 2018 Insidern zufolge rund 1,5 Milliarden Euro vor allem von ausländischen Anlegern ein.\n\n- Das Geschäftsmodell: hohe Renditen für Investitionen in die Sanierung denkmalgeschützter Gebäude mit Steuervorteilen\n- Viele Projekte wurden nie fertiggestellt; die Gruppe brach 2020 zusammen\n- Der Insolvenzverwalter stellte der Firma ein verheerendes Zeugnis aus\n\nNach vier Jahren Ermittlungen erhob die Staatsanwaltschaft Hannover im Oktober 2024 Anklage gegen die Gründer. Smethurst wird gewerbsmäßiger Betrug in 27 Fällen mit einem Schaden von über 56 Millionen Euro vorgeworfen; Insider halten den tatsächlichen Schaden für weit höher. Reporter Volker Votsmeier beschreibt, mit welchen zweifelhaften Methoden Smethurst und sein Team Investoren von ihrem „Geschäftsmodell“ überzeugten und wie die Wut der geprellten Anleger wuchs. Ein Urteil ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Wolfgang Hoeft",
+  "folder": "Personen",
+  "patterns": [
+   "\\bHoeft\\b",
+   "\\bHoefts\\b",
+   "\\bHöft\\b",
+   "\\bHöfts\\b"
+  ],
+  "summary": "Mutmaßlicher Strippenzieher der MW-Gruppe, die 1200 Anleger um rund 50 Millionen Euro gebracht haben soll.",
+  "body": "**Wolfgang Hoeft** gilt als Strippenzieher der MW-Gruppe, gegen die die Staatsanwaltschaft seit 2019 ermittelt. Der Verdacht: ein Schneeballsystem, das rund 1200 Anleger um etwa 50 Millionen Euro gebracht haben soll.\n\n- Verkäufer der MW-Gruppe warben in Hochglanzbroschüren mit Renditen von 20 Prozent\n- Eine bekannte Taktik Hoefts: Frauen, mit denen er offenbar Beziehungen führte, setzte er als Geschäftsführerinnen ein\n- Trotz einer Großrazzia 2019 blieb der Fall wegen juristischer Hürden und komplexer Firmenstrukturen jahrelang ungeklärt\n\nViele Anleger berichten, sie hätten ihre Ersparnisse verloren und stünden vor dem Ruin. Anwälte der Geschädigten kritisieren die langsame Bearbeitung und fürchten einen Vertrauensverlust in den Rechtsstaat. Hoeft selbst ist unauffindbar und reagiert nicht auf Presseanfragen; das Handelsblatt-Investigativ-Team konnte ihm dennoch näherkommen und sprach mit seiner mutmaßlichen Geliebten. Der Titel der Folge, „Der Puppenspieler“, verweist auf sein Vorgehen aus dem Hintergrund. Eine Anklage oder ein Urteil ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Lex Greensill",
+  "folder": "Personen",
+  "patterns": [
+   "\\bGreensill\\b",
+   "\\bGreensills\\b",
+   "\\bGreensil\\b",
+   "\\bGrinsill\\b"
+  ],
+  "summary": "Australischer Gründer der Greensill-Gruppe, deren Bremer Bank 2021 kollabierte.",
+  "body": "**Lex Greensill** (geboren 1976) stammt von einer Farm in Australien und baute mit Greensill Capital ein Imperium für Lieferkettenfinanzierung auf. In nur wenigen Jahren machte er aus einer unscheinbaren Bremer Bank eine Größe am deutschen Finanzmarkt.\n\n- Wurde Milliardär, in Großbritannien als Unternehmer des Jahres gefeiert und vom Königshaus ausgezeichnet\n- Die Greensill Bank lockte mit attraktiven Konditionen mehr als 20.000 Privatanleger und Dutzende Kommunen an\n- Hinter dem Aufstieg steckte mutmaßlich ein Betrug mit milliardenschweren Luftbuchungen\n\nIm März 2021 kollabierte die gesamte Finanzgruppe samt Bankentochter. Für deutsche Sparer war es die größte Bankenpleite seit Lehman Brothers; die Einlagensicherung musste Milliarden zahlen, Kommunen haben bis heute Forderungen von mehr als 330 Millionen Euro offen. Greensill sagte „sorry“ und schob die Schuld auf eine Versicherung. Der Insolvenzverwalter verklagte vier frühere Vorstände und zwei Aufsichtsräte auf Schadensersatz, die Staatsanwaltschaft Bremen ermittelt. UBS, die den Vermögensverwalter Credit Suisse übernahm, will Greensill-Anlegern fast eine Milliarde Dollar zurückzahlen. Ein Urteil gegen Greensill ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Kay Rieck",
+  "folder": "Personen",
+  "patterns": [
+   "\\bRieck\\b",
+   "\\bRiecks\\b",
+   "\\bKay Rieck\\b",
+   "\\bÖlbaron\\b"
+  ],
+  "summary": "„Ölbaron“ und Gründer der Deutsche Oel und Gas AG, 2026 in Stuttgart zu fast fünf Jahren Haft verurteilt.",
+  "body": "**Kay Rieck** (geboren 1963) kam vor rund 15 Jahren auf die Idee, mit Öl- und Gasbohrungen im US-Bundesstaat Alaska sich selbst und deutsche Anleger reich zu machen. Wegen seiner Geschäftsidee wurde er als „Ölbaron“ bezeichnet.\n\n- Rund 10.000 Anleger sollen ihm einen dreistelligen Millionenbetrag zur Verfügung gestellt haben\n- Kaum waren die ersten Bohrungen abgeschlossen, geriet das Wild-West-Abenteuer außer Kontrolle\n- Am Ende stand die Pleite der zentralen Firma, der Deutsche Oel und Gas AG\n\nDas Landgericht Stuttgart verurteilte Rieck Ende April 2026 zu vier Jahren und acht Monaten Haft. Sein Anwalt kündigte an, das Urteil anzufechten; es ist damit nicht rechtskräftig. Reporter Lars-Marten Nagel verfolgte den Prozess und beschreibt, wie sich in dem Fall Gier, Charisma und Intransparenz zu einer toxischen Mischung verbanden. Die Folge vom Mai 2026 erzählt Aufstieg und Untergang der Deutschen Oel und Gas – ein Fall, der in Zeiten hoher Benzinpreise zeigt, wie verlockend Rohstoffinvestments für Privatanleger klingen können."
+ },
+ {
+  "name": "Ruja Ignatova",
+  "folder": "Personen",
+  "patterns": [
+   "\\bIgnatova\\b",
+   "\\bIgnatowa\\b",
+   "\\bKryptoqueen\\b",
+   "\\bKryptokönigin\\b",
+   "\\bDr\\.? Ruja\\b"
+  ],
+  "summary": "„Kryptoqueen“ hinter dem Milliardenbetrug OneCoin, seit 2017 verschwunden und von FBI und Europol gesucht.",
+  "body": "**Ruja Ignatova** (geboren 1980 in Bulgarien) wuchs in Schramberg im Schwarzwald auf, promovierte in Konstanz und arbeitete bei McKinsey. 2014 gründete sie die angebliche Kryptowährung OneCoin, die nach ihren Worten den Bitcoin verdrängen sollte.\n\n- Sammelte weltweit Milliarden von Anlegern ein, auch in Deutschland; OneCoin hatte nie eine echte Blockchain\n- Trat als „Dr. Ruja“ auf großen Bühnen vor jubelnden Fans auf\n- Wurde im Oktober 2017 zuletzt in Athen gesehen und ist seither verschwunden\n\nRund 20 Strafverfolgungsbehörden ermitteln gegen sie; das FBI setzte sie 2022 auf die Liste der zehn meistgesuchten Flüchtigen, Europol sucht sie ebenfalls. Die Fahnder gehen davon aus, dass sie über erhebliche finanzielle Mittel und ein Netzwerk von Unterstützern verfügt. In Deutschland platzte ein Prozess gegen mutmaßliche Helfer in Bielefeld. Die Folge vom Juni 2022 fragt, wer hinter der „Kryptokönigin“ steckt und wer ihre Unterstützer sind. Ihr Bruder Konstantin Ignatov wurde in den USA zum Kronzeugen. Ignatova gilt als eine der größten Betrügerinnen der Kryptogeschichte, ein Urteil gegen sie gibt es nicht."
+ },
+ {
+  "name": "Anton Schlecker",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSchlecker\\b",
+   "\\bSchleckers\\b",
+   "\\bAnton Schlecker\\b"
+  ],
+  "summary": "Drogeriekönig aus Ehingen, dessen Imperium 2012 kollabierte; 2017 verurteilt, Kinder in Haft.",
+  "body": "**Anton Schlecker** (geboren 1944) baute aus einer Metzgerei in Ehingen die größte Drogeriekette Europas auf. In den 1990er-Jahren eröffnete er drei Filialen pro Tag, am Ende waren es 14.000 Läden in 17 Ländern; das Familienvermögen wurde auf 2,3 Milliarden Euro geschätzt.\n\n- Symbol der Kette war die „Schlecker-Frau“, meist die einzige Vollzeitkraft in engen Filialen\n- Handelsblatt-Recherchen zeigten, dass Schlecker zwischen 2005 und 2010 mehr als 400 Millionen Euro Verlust machte\n- Seinem Finanzvorstand soll er gesagt haben: „Schreiben Sie das nicht auf. Wenn es auf dem Papier steht, dann wird es auch wahr.“\n\n2012 meldete Schlecker Insolvenz an; 20.000 Mitarbeiterinnen verloren ihren Job, mehr als eine Milliarde Euro Schulden blieben. Mit der 2008 gegründeten Leiharbeitsfirma Meniar hatte er erfahrene Mitarbeiterinnen entlassen und zu schlechteren Bedingungen wieder eingestellt. 2017 verurteilte das Landgericht Stuttgart ihn wegen vorsätzlichen Bankrotts zu einer Bewährungsstrafe und Geldauflage; seine Kinder Lars und Meike kamen ins Gefängnis. 2024 mussten Ehefrau Christa und die Kinder nochmals eine Millionensumme zahlen. Für das Handelsblatt ist es ein Wirtschaftskrimi und eine Familientragödie zugleich."
+ },
+ {
+  "name": "Peter Dussmann",
+  "folder": "Personen",
+  "patterns": [
+   "\\bDussmann\\b",
+   "\\bDussmanns\\b",
+   "\\bDußmann\\b"
+  ],
+  "summary": "Berliner Dienstleistungsunternehmer (Dussmann Group), um dessen Erbe Witwe und Tochter seit 2013 streiten.",
+  "body": "**Peter Dussmann** (1938–2013) baute aus einem Reinigungsdienst die Dussmann Group auf, einen Konzern für Gebäudereinigung, Pflegedienste und weitere Dienstleistungen mit Zehntausenden Beschäftigten. Bekannt ist auch sein Kulturkaufhaus an der Berliner Friedrichstraße.\n\n- Verfügte 1981 bei der Geburt seiner einzigen Tochter Angela, dass sie und seine Ehefrau Catherine zu gleichen Teilen erben sollten\n- Lehnte den Mann seiner Tochter, den Esoteriker Ronald Göthert, so sehr ab, dass er 2006 nicht zur Hochzeit erschien\n- Erlitt 2008 einen Schlaganfall; 2010 wurde sein Testament geändert, die Tochter sollte nur noch 25 Prozent erhalten\n\nDussmann konnte das geänderte Testament krankheitsbedingt nicht selbst unterschreiben; das übernahm sein Arzt. Die Tochter erfuhr erst nach seinem Tod 2013 davon. Seither streitet sie mit ihrer Mutter erbittert vor Gericht um die vielen Millionen, die der Unternehmer anhäufte; die Witwe errang Etappensiege, die Tochter ging in Berufung. Die Folge vom April 2023 zeichnet die Kampflinien dieses Familienkonflikts nach, der auch nach dem Tod des Patriarchen nicht endete."
+ },
+ {
+  "name": "Heinz Hermann Thiele",
+  "folder": "Personen",
+  "patterns": [
+   "\\bThiele\\b",
+   "\\bThieles\\b",
+   "\\bHeinz Hermann\\b"
+  ],
+  "summary": "Knorr-Bremse-Patriarch und Milliardär, um dessen 17-Milliarden-Erbe Familie und Vollstrecker streiten.",
+  "body": "**Heinz Hermann Thiele** (1941–2021) nahm 1969 eine Stelle in der Patentabteilung von Knorr-Bremse an und war 15 Jahre später Vorstandsvorsitzender des Bremsenherstellers. Als der Eigentümer ihn bat, einen Käufer für das notleidende Unternehmen zu finden, überredete der gelernte Jurist die Deutsche Bank, ihm den Kauf auf Kredit zu ermöglichen.\n\n- Baute Knorr-Bremse zu einem Weltkonzern aus; bei seinem Tod lag der Umsatz 25-mal höher als zu Beginn\n- Hielt zudem die Mehrheit am Schienenkonzern Vossloh und ein großes Aktienpaket der Lufthansa\n- Hinterließ ein Erbe von rund 17 Milliarden Euro, das in eine Stiftung fließen soll\n\nUm das Erbe tobt ein erbitterter Streit. Sohn Henrik, der sich 2015 mit dem Vater überwarf und 2017 mit 25 Millionen Euro abgefunden wurde, klagte auf 4,5 Milliarden Euro und scheiterte; den Tod des Vaters beschrieb er als Befreiung. Witwe Nadia Thiele klagt gegen ihre Nebenrolle in der Stiftung, in der Tochter Julia die starke Frau wäre, und gegen Testamentsvollstrecker Robin Brühmüller, der bis zu 250 Millionen Euro abrechnen könnte. Die Folge vom Februar 2023 sortiert die Protagonisten dieser Schlammschlacht um eine Unternehmerlegende."
+ },
+ {
+  "name": "Arne Schönbohm",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSchönbohm\\b",
+   "\\bSchönbohms\\b",
+   "\\bSchoenbohm\\b",
+   "\\bSchönbom\\b"
+  ],
+  "summary": "Ehemaliger BSI-Präsident, den Innenministerin Faeser 2022 nach einer Böhmermann-Sendung des Amtes enthob.",
+  "body": "**Arne Schönbohm** (geboren 1969) war von 2016 bis 2022 Präsident des Bundesamts für Sicherheit in der Informationstechnik (BSI) und galt als oberster Cybersicherheitsexperte des Landes. Für Unternehmen, die Opfer von Hackerangriffen wurden, war er der Mann des Vertrauens.\n\n- Zuvor Chef des Lobbyvereins Cyber-Sicherheitsrat Deutschland, dem auch eine Firma mit Verbindungen zu russischen Geheimdiensten angehörte\n- Jan Böhmermann brachte ihn im Oktober 2022 im „ZDF Magazin Royale“ mit russischen Nachrichtendiensten in Verbindung\n- Bundesinnenministerin Nancy Faeser enthob ihn kurz darauf des Amtes; die Vorwürfe erwiesen sich als nicht belegbar\n\nSchönbohm wurde später Präsident der Hochschule des Bundes für öffentliche Verwaltung und ging juristisch gegen das ZDF und das Innenministerium vor. Rund ein Jahr nach seiner Demission regte sich Kritik an Faesers Methoden; CDU-Abgeordnete warfen ihr sogar vor, Schönbohm vom Verfassungsschutz abhören zu lassen, Belege dafür fehlten. Das Handelsblatt rekonstruierte die Hintergründe der Affäre, die sich im hessischen Wahlkampf 2023 gegen die Ministerin wendete, und ordnete ein, wie viel Wahrheit in den Vorwürfen gegen beide Protagonisten steckt."
+ },
+ {
+  "name": "Nancy Faeser",
+  "folder": "Personen",
+  "patterns": [
+   "\\bFaeser\\b",
+   "\\bFaesers\\b",
+   "\\bFäser\\b",
+   "\\bFeser\\b"
+  ],
+  "summary": "SPD-Bundesinnenministerin (2021–2025), deren Umgang mit BSI-Chef Schönbohm zum Bumerang wurde.",
+  "body": "**Nancy Faeser** (geboren 1970) war von Dezember 2021 bis Mai 2025 Bundesinnenministerin und ist Vorsitzende der hessischen SPD. 2023 trat sie als Spitzenkandidatin bei der hessischen Landtagswahl an.\n\n- Warnte kurz nach dem russischen Überfall auf die Ukraine 2022 vor einer „erhöhten Gefährdung“ durch Cyberangriffe\n- Enthob im Oktober 2022 BSI-Präsident Arne Schönbohm des Amtes, nachdem Jan Böhmermann ihm Nähe zu russischen Diensten unterstellt hatte\n- Die Vorwürfe gegen Schönbohm ließen sich nicht belegen; der Innenausschuss des Bundestags befragte Faeser zu ihrem Vorgehen\n\nRund ein Jahr nach der Demission wurde die Affäre zum Bumerang: CDU-Abgeordnete warfen der Ministerin vor, Schönbohm vom Verfassungsschutz habe beobachten lassen, Belege dafür fehlten jedoch. Die Handelsblatt-Reporter Lars-Marten Nagel und Michael Verfürden analysierten die Mechanismen des Berliner Machtapparats und rekonstruierten, wie Faeser den obersten Cybersicherheitsexperten des Landes „schasste“. Bei der Landtagswahl in Hessen im Oktober 2023 blieb die SPD weit hinter der CDU zurück. Unter Faeser bekam das BSI anschließend erstmals eine Chefin, Claudia Plattner."
+ },
+ {
+  "name": "Stefan Effenberg",
+  "folder": "Personen",
+  "patterns": [
+   "\\bEffenberg\\b",
+   "\\bEffenbergs\\b",
+   "\\bEffenberg-Bank\\b"
+  ],
+  "summary": "Ex-Fußballprofi, der als Banker bei der VR-Bank Bad Salzungen Schmalkalden anheuerte – der „Effenberg-Bank“.",
+  "body": "**Stefan Effenberg** (geboren 1968) ist ehemaliger Fußballnationalspieler und Kapitän des FC Bayern München, mit dem er 2001 die Champions League gewann. Nach der Karriere arbeitete er als TV-Experte und Trainer.\n\n- Die VR-Bank Bad Salzungen Schmalkalden aus Südthüringen heuerte ihn als Banker an; das Institut erhielt so den Spitznamen „Effenberg-Bank“\n- Die Genossenschaftsbank verspekulierte sich mit riskanten Beteiligungen, Immobilien und Investments in erneuerbare Energien und Landwirtschaft\n- Mindestens 220 Millionen Euro Verlust drückten auf die Bilanz, die Bank hoffte auf Rettung durch die Sicherungseinrichtung der Genossenschaftsbanken\n\nDie Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu besetzen – ein einmaliger Vorgang in der Geschichte der deutschen Genossenschaftsbanken. Die Bank trennte sich später von Effenberg. Gegen ihn selbst richten sich keine strafrechtlichen Vorwürfe; im Zentrum der Ermittlungen steht der langjährige Bankchef Stefan Siebert, gegen den die Staatsanwaltschaft unter anderem wegen des Verdachts der Steuerhinterziehung vorgeht. Die Folge vom März 2024 beleuchtet einen Krimi, den die Bankenwelt so noch nicht gesehen hat, inklusive Bordell-Immobilien in Oberhausen."
+ },
+ {
+  "name": "Stefan Siebert",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSiebert\\b",
+   "\\bSieberts\\b",
+   "\\bStefan Siebert\\b"
+  ],
+  "summary": "Langjähriger Chef der „Effenberg-Bank“ in Südthüringen, ins Visier der Staatsanwaltschaft geraten.",
+  "body": "**Stefan Siebert** leitete fast 20 Jahre lang die VR-Bank Bad Salzungen Schmalkalden in Südthüringen, die als „Effenberg-Bank“ bundesweit bekannt wurde. Unter seiner Ägide verließ die Genossenschaftsbank das klassische Regionalbankgeschäft.\n\n- Die Bank beteiligte sich an zahlreichen Unternehmen, investierte in erneuerbare Energien und Landwirtschaft und kaufte Immobilien in Deutschland und Österreich\n- In Oberhausen erwarb sie sogar Häuser im Rotlichtbezirk\n- Viele Investitionen schlugen fehl; wohl mindestens 220 Millionen Euro Verlust belasten die Bilanz\n\nDie Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu besetzen, die Sicherungseinrichtung des Bundesverbandes der Volks- und Raiffeisenbanken musste helfen. Siebert kann dennoch auf eine treue Anhängerschaft zählen, die die Intervention für unangemessen hält; beide Seiten stehen sich unversöhnlich gegenüber. Die Staatsanwaltschaft ermittelt gegen den Ex-Bankchef, unter anderem wegen des Verdachts der Steuerhinterziehung. Die Reporter Vinzenz Neumaier und Volker Votsmeier beschreiben einen außergewöhnlichen Fall, in dem Kontakte ins Rotlichtmilieu und der Name Stefan Effenberg zusammenkommen. Es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Sophia Thomalla",
+  "folder": "Personen",
+  "patterns": [
+   "\\bThomalla\\b",
+   "\\bThomallas\\b",
+   "\\bTomalla\\b"
+  ],
+  "summary": "Schauspielerin und Moderatorin, deren Krypto-Werbung zu einem Rechtsstreit mit dem Handelsblatt führte.",
+  "body": "**Sophia Thomalla** (geboren 1989) ist Schauspielerin, Moderatorin und Werbefigur. Im Podcast spielt sie eine Rolle als Beispiel für prominente Werbepartner in der Kryptowelt.\n\n- Warb als Gesicht einer Krypto-Plattform und wurde dafür öffentlich kritisiert\n- Die Berichterstattung des Handelsblatts über ihr Engagement führte zu einer juristischen Auseinandersetzung\n- Chefjustiziar Peter Koppe schildert den Fall in der Sonderfolge vom Juni 2025 als einen seiner spannendsten\n\nDer Fall zeigt nach Darstellung Koppes, wie unterschiedlich Gerichte je nach Zuständigkeit über Formulierungen urteilen und wie schnell eine scheinbar harmlose Wendung zum Fall fürs Gericht werden kann. Strafrechtliche Vorwürfe gegen Thomalla stehen nicht im Raum; es geht um presserechtliche Fragen, also darum, was Medien über prominente Werbepartner riskanter Finanzprodukte schreiben dürfen. Die Folge wirft damit einen Blick hinter die Kulissen der Investigativarbeit, bei der Anwaltsschreiben und Abmahnungen zum Alltag gehören."
+ },
+ {
+  "name": "Georg Kofler",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKofler\\b",
+   "\\bKoflers\\b",
+   "\\bGeorg Kofler\\b"
+  ],
+  "summary": "Medienunternehmer und „Höhle der Löwen“-Investor, dessen Social Chain AG 2023 in die Insolvenz rutschte.",
+  "body": "**Georg Kofler** (geboren 1957 in Südtirol) ist Medienunternehmer, war Gründungsgeschäftsführer von ProSieben und Chef von Premiere. Einem Millionenpublikum wurde er als Investor in der Fernsehshow „Die Höhle der Löwen“ bekannt.\n\n- Baute mit Ralf Dümmel die Social Chain AG auf, deren Aktie als „Löwenaktie“ oder neue „Volksaktie“ galt\n- Im November 2021 war das Unternehmen mehr als eine halbe Milliarde Euro wert, der Kurs lag über 50 Euro\n- Rund zwei Jahre später war die Social Chain AG insolvent und die Aktie ein Pennystock\n\nDie Bafin entdeckte Fehlbuchungen in Millionenhöhe, eine Kapitalerhöhung stand auf der Kippe, und der Ex-CEO soll ein mitteilungspflichtiges Großinvestment kurz vor der Insolvenz verschwiegen haben. Social Chain schob die Pleite auf den Investor Lars Windhorst. Kritik mussten auch Kofler und Dümmel selbst einstecken, die als TV-Prominente das Vertrauen der Kleinanleger geweckt hatten. Die Reporter René Bender und Lars-Marten Nagel schlüsseln in der Folge vom August 2023 die Vorwürfe und den Insolvenzprozess auf. Strafrechtliche Vorwürfe gegen Kofler sind nicht bekannt."
+ },
+ {
+  "name": "Ralf Dümmel",
+  "folder": "Personen",
+  "patterns": [
+   "\\bDümmel\\b",
+   "\\bDümmels\\b",
+   "\\bDuemmel\\b"
+  ],
+  "summary": "Handelsunternehmer und „Höhle der Löwen“-Investor, Mitgesellschafter der insolventen Social Chain AG.",
+  "body": "**Ralf Dümmel** (geboren 1966) ist Handelsunternehmer und seit 2016 Investor in der Fernsehshow „Die Höhle der Löwen“, wo er mit seiner Firma DS Produkte in Hunderte Start-ups investierte.\n\n- Brachte sein Handelsgeschäft in die Social Chain AG ein, die er gemeinsam mit Georg Kofler führte\n- Das Unternehmen war im November 2021 mehr als eine halbe Milliarde Euro wert\n- 2023 meldete die Social Chain AG Insolvenz an; Dümmel kaufte sein Handelsgeschäft später aus der Insolvenz zurück\n\nDie Bafin stellte Fehlbuchungen in Millionenhöhe fest, die Kapitalerhöhung geriet ins Wanken, das Unternehmen schob die Pleite auf den Investor Lars Windhorst. Für viele Kleinanleger, die der „Löwenaktie“ vertraut hatten, bedeutete der Absturz zum Pennystock hohe Verluste. Kritik richtete sich auch gegen die beiden TV-Investoren, deren Prominenz dem Papier Glaubwürdigkeit verliehen hatte. Die Folge „Die Hölle der Löwen“ vom August 2023 beleuchtet die Vorwürfe und den Insolvenzprozess. Strafrechtliche Vorwürfe gegen Dümmel sind nicht bekannt."
+ },
+ {
+  "name": "Utz Claassen",
+  "folder": "Personen",
+  "patterns": [
+   "\\bClaassen\\b",
+   "\\bClaassens\\b",
+   "\\bClasen\\b",
+   "\\bKlaassen\\b"
+  ],
+  "summary": "Einstiges Manager-Wunderkind und Ex-EnBW-Chef, heute Syntellix-Chef im Visier der Staatsanwaltschaft.",
+  "body": "**Utz Claassen** (geboren 1963) galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Oxford-Absolvent, McKinsey-Berater, Finanzvorstand bei VW und Sartorius, von 2003 bis 2007 Vorstandschef des Energiekonzerns EnBW.\n\n- Galt als Überflieger und knallharter Sanierer, bis Vorwürfe von Abzocke und Dauerstreit vor Gericht seinen Ruf beschädigten\n- Heute Chef der Medizintechnikfirma Syntellix, die durch leere Versprechen, verfehlte Ziele sowie nicht gezahlte Gehälter und Rechnungen auffiel\n- Die Staatsanwaltschaft verdächtigt ihn des Betrugs und der Insolvenzverschleppung und durchsuchte Syntellix\n\nClaassen weist die Vorwürfe empört zurück und zeigt auf Ex-Deutsche-Bank-Chef Jürgen Fitschen, der als Syntellix-Aufsichtsrat die Firma mit einem „Fünf-Stufen-Plan“ zerstören wolle; er verklagte Fitschen auf 68 Millionen Euro Schadensersatz. Die Reporter René Bender und Sönke Iwersen begleiten Claassens Karriere teils seit Jahrzehnten und zeichnen das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden. Eine Anklage oder ein Urteil ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Thomas Entzeroth",
+  "folder": "Personen",
+  "patterns": [
+   "\\bEntzeroth\\b",
+   "\\bEntzeroths\\b",
+   "\\bEntzerot\\b"
+  ],
+  "summary": "Picam-Chef, der 3000 Anleger mit einem Schneeballsystem betrog; 2025 zu fast sechs Jahren Haft verurteilt.",
+  "body": "**Thomas Entzeroth** aus Berlin war Chef der Vermögensverwaltung Picam. Deren Offerten klangen nach dem perfekten Investment: Mit computergesteuertem Wertpapierhandel sollten zwischen 15 und 20 Prozent Rendite erwirtschaftet werden – möglich gemacht von einem angeblichen Wundercomputer in der Schweiz.\n\n- Rund 3000 Investoren glaubten die Geschichte und legten zwischen 2007 und 2017 mehr als 320 Millionen Euro an\n- Tatsächlich handelte es sich um ein klassisches Schneeballsystem, das 2017 kollabierte\n- Laut Staatsanwaltschaft traf Entzeroth „die wesentlichen Entscheidungen“\n\nDer Prozess vor dem Landgericht Berlin begann im Februar 2024; zunächst schwieg Entzeroth, später legte er im Rahmen eines Deals mit der Justiz ein Geständnis ab. Im März 2025 verurteilte ihn das Gericht zu fünf Jahren und zehn Monaten Haft. Der Vorsitzende Richter sprach von einem Geldkreislauf, der letztlich ein Schneeballsystem gewesen sei. Hunderte Anleger werden ihr Geld nicht wiedersehen. Die Folgen vom Februar 2024 und März 2025 fragen auch, warum Banken, Finanzaufsicht und Justiz bei solchen Fällen oft überfordert wirken und ob die Opfer Gerechtigkeit erfahren haben."
+ },
+ {
+  "name": "Alexander Badle",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBadle\\b",
+   "\\bBadles\\b",
+   "\\bBadel\\b"
+  ],
+  "summary": "Frankfurter Oberstaatsanwalt und Korruptionsbekämpfer, der selbst Schmiergeld kassierte; 2023 verurteilt.",
+  "body": "**Alexander Badle** war Oberstaatsanwalt in Frankfurt und machte sich als einer der profiliertesten Korruptionsbekämpfer der Republik einen Namen, insbesondere bei Abrechnungsbetrug im Gesundheitswesen. Hinter der integren Fassade war er selbst in hohem Maße korrupt.\n\n- Schuf ein System, das ihm mehr als ein Jahrzehnt lang Schmiergelder einbrachte\n- Hielt bei der Vergabe von Gutachtenaufträgen die Hand auf und kassierte Hunderttausende Euro; der Gesamtschaden ging in die Millionen\n- Erst die Anzeige seiner ehemaligen Lebensgefährtin brachte das System 2020 zum Einsturz\n\nDie Ermittlungen offenbarten, wie leicht fehlende Kontrolle in den Behörden es ihm gemacht hatte. Badle saß zweimal in Untersuchungshaft. Im Mai 2023 verurteilte ihn das Landgericht Frankfurt wegen Bestechlichkeit, Untreue und Steuerhinterziehung zu mehreren Jahren Haft. Die Reporter René Bender und Volker Votsmeier kannten Badle seit vielen Jahren aus ihrer Recherchearbeit und schildern in der Folge vom Juli 2023, wie sie den Oberstaatsanwalt erlebten und wie sie den Skandal bewerten: ein Spitzenbeamter, der genau das tat, was er anderen vorwarf."
+ },
+ {
+  "name": "Peter Koppe",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKoppe\\b",
+   "\\bKoppes\\b",
+   "\\bChefjustiziar\\b",
+   "\\bChefjurist\\b"
+  ],
+  "summary": "Chefjustiziar der Handelsblatt Media Group, der Recherchen juristisch absichert; Gast in zwei Sonderfolgen.",
+  "body": "**Peter Koppe** ist Chefjustiziar der Handelsblatt Media Group. Bevor Recherchen des Investigativ-Teams erscheinen, prüfen er und sein Team Artikel und Podcasts; wenn es hart auf hart kommt, verteidigen sie das Handelsblatt vor Gericht.\n\n- Erlebte Millionenklagen, die bereits angedroht wurden, bevor ein Artikel überhaupt erschienen war\n- Berichtet von Fax-Abmahnungen, aggressiven Anwaltsschreiben und Prozessen rund um Wirecard, EY und prominente Werbepartner in der Kryptowelt\n- Zu Gast in der Sonderfolge vom Juni 2025 und im Jahresrückblick 2025 gemeinsam mit Justiziarin Marie Wollschlaeger\n\nKoppe beschreibt ein wiederkehrendes Muster vor Gericht: mächtige Manager, die sich in guten Zeiten mit großen Titeln schmücken und sich im juristischen Konflikt plötzlich als klein und einflusslos darstellen. Er erläutert, wo die Grenze zwischen öffentlichem Interesse und Persönlichkeitsrecht verläuft, wie unterschiedlich Gerichte je nach Zuständigkeit urteilen und wie ein Storytelling-Podcast wie „Catching Chris“ juristisch vorbereitet wird. Außerdem berichtet er von einem richtungsweisenden Urteil gegen die AfD, das die Pressefreiheit stärkt. Seine Botschaft: Pressefreiheit braucht nicht nur gute Recherche, sondern auch juristischen Rückhalt."
+ },
+ {
+  "name": "Alfons Schuhbeck",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSchuhbeck\\b",
+   "\\bSchuhbecks\\b",
+   "\\bSchubeck\\b"
+  ],
+  "summary": "Münchner Starkoch, 2022 wegen Steuerhinterziehung von 2,3 Millionen Euro zu Haft verurteilt.",
+  "body": "**Alfons Schuhbeck** (geboren 1949) war der berühmteste Koch Deutschlands: Er bekochte den FC Bayern München, die Beatles, Bundeskanzlerin Angela Merkel und Queen Elizabeth II. Am Münchner Platzl baute er ein Imperium aus Restaurants, Gewürzläden und Kochschulen auf und war als TV-Star allgegenwärtig.\n\n- Schleuste über Jahre mit einem manipulierten Kassensystem Millionen am Fiskus vorbei\n- Legte im Prozess ein Geständnis ab\n- Das Landgericht München verurteilte ihn 2022 wegen Steuerhinterziehung von 2,3 Millionen Euro zu drei Jahren und zwei Monaten Haft; seine Firmen meldeten Insolvenz an\n\nSchuhbeck legte zunächst Revision ein, trat die Haft aber 2023 an und wurde später wegen schwerer Erkrankung vorzeitig entlassen. 2025 folgte eine weitere Anklage unter anderem wegen Insolvenzverschleppung und Subventionsbetrugs. In der Folge „Prominente und die Steuerfahndung“ vom November 2022 steht er neben Boris Becker, Uli Hoeneß und Klaus Zumwinkel für die Frage, was Prominente zur Steuerhinterziehung treibt – und warum die Strafen mitunter seltsam milde ausfallen."
+ },
+ {
+  "name": "Stefan Kirsten",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKirsten\\b",
+   "\\bKirstens\\b",
+   "\\bStefan Kirsten\\b"
+  ],
+  "summary": "Verwaltungsratschef der Adler Group, der den angeschlagenen Immobilienkonzern retten sollte.",
+  "body": "**Stefan Kirsten** (geboren 1961) war Finanzvorstand des Wohnungskonzerns Vonovia und zuvor bei ThyssenKrupp und Metro tätig. Im Februar 2022 übernahm er als Hoffnungsträger den Vorsitz des Verwaltungsrats der Adler Group.\n\n- Die Adler Group war nach einem Dossier des Shortsellers Fraser Perring mit Vorwürfen von Betrug und Bilanzmanipulation in die Krise geraten\n- Eine Sonderuntersuchung von KPMG führte nicht zur vollständigen Entlastung; die Prüfer verweigerten das Testat und legten das Mandat nieder\n- Die Bafin stellte zwei grobe Bilanzfehler fest, Adler soll fast vier Milliarden Euro zu viel bilanziert haben\n\nKirsten präsentierte im November 2022 einen Restrukturierungsplan, den er als „Befreiungsschlag“ bezeichnete, und ließ parallel ein Insolvenzszenario analysieren. Nach Widerstand einer Gläubigergruppe genehmigte der Londoner High Court den Sanierungsplan im April 2023. Im Juni 2023 sprach er vom „Weg in eine neue Normalität“ – kurz bevor 175 Ermittler bei einer Großrazzia europaweit Büros und Wohnungen durchsuchten. Gegen Kirsten selbst richten sich keine Vorwürfe; er steht für den Versuch, einen Konzern zu retten, dessen Krise nach Darstellung des Handelsblatts noch nicht ausgestanden ist."
+ },
+ {
+  "name": "Cevdet Caner",
+  "folder": "Personen",
+  "patterns": [
+   "\\bCaner\\b",
+   "\\bCaners\\b",
+   "\\bCevdet\\b"
+  ],
+  "summary": "Österreichischer Immobilienunternehmer, der bei der Adler Group als Schatten-CEO gewirkt haben soll.",
+  "body": "**Cevdet Caner** (geboren 1973 in Linz) ist ein österreichischer Immobilienunternehmer. Mit seiner Gesellschaft Level One scheiterte er 2008 in einer der größten Immobilienpleiten Deutschlands; ein Strafprozess in Österreich endete später mit Freispruch.\n\n- Hatte bei der Adler Group nie ein offizielles Amt, soll aber als eine Art Schatten-CEO die Fäden gezogen haben – Caner bestreitet das\n- Ist über familiäre Beteiligungen und die Gesellschaft Aggregate mit dem Adler-Umfeld verbunden\n- Der Shortseller Fraser Perring warf Adler in seinem Dossier 2021 vor, von Caner kontrolliert und zum Nachteil der Aktionäre ausgenutzt zu werden\n\nDie Vorwürfe lösten Ermittlungen der Staatsanwaltschaften in Frankfurt und Berlin aus. Im Juni 2023 durchsuchten 175 Ermittler des Bundeskriminalamts europaweit Büros, Wohnungen und eine Kanzlei wegen des Verdachts auf Untreue, Bilanzfälschung und Marktmanipulation; Aggregate stellte sich hinter seinen CEO Caner. Die Handelsblatt-Reporter zeichnen in drei Adler-Folgen das Bild der insgesamt sieben Beschuldigten, ohne sie namentlich festzulegen. Caner weist alle Vorwürfe zurück; eine Anklage ist nicht bekannt, es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Stephan Goetz",
+  "folder": "Personen",
+  "patterns": [
+   "\\bGoetz\\b",
+   "\\bGoetzpartners\\b",
+   "\\bStephan Götz\\b",
+   "\\bGötzpartners\\b"
+  ],
+  "summary": "Münchner Unternehmensberater (Goetzpartners) und Sympatex-Miteigentümer, 2024 monatelang in Untersuchungshaft.",
+  "body": "**Stephan Goetz** ist Gründer und war Alleininhaber der Münchner Unternehmensberatung Goetzpartners, gemeinsam mit seinem Partner Stefan Sanktjohanser. Über die Beratung gehörte den beiden auch der Textilhersteller Sympatex, Anbieter einer Gore-Tex-Alternative.\n\n- Die Staatsanwaltschaft München I wirft den Sympatex-Eigentümern vor, 2017 eine drohende Insolvenz inszeniert zu haben, um Anleger einer Anleihe zum Verzicht auf 90 Prozent ihres Kapitals zu bewegen\n- Im Juli 2023 durchsuchten Ermittler 50 Orte; Goetz und Sanktjohanser kamen im März 2024 in Untersuchungshaft\n- Anfang 2025 kamen beide im Abstand weniger Wochen wieder frei\n\nDie Affäre zog immer größere Kreise: Ein Geschäftsführer des Family Office der Versandhandelsfamilie Otto soll verstrickt sein, und Goetzpartners musste ohne seine inhaftierten Chefs verkauft werden – mehrere Führungskräfte übernahmen das Unternehmen. Goetz und Sanktjohanser bestreiten die Vorwürfe von Betrug, Marktmanipulation und Anstiftung zur Untreue. Im Sommer 2025 begann in München ein Mammutverfahren mit 170 Zeugen gegen Sanktjohanser, den Restrukturierungsberater Frank Günther und zwei weitere Manager. Es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Stefan Sanktjohanser",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSanktjohanser\\b",
+   "\\bSankt Johanser\\b",
+   "\\bSanktjohansers\\b",
+   "\\bJohanser\\b"
+  ],
+  "summary": "Münchner Spitzenberater und Sympatex-Eigner, seit 2025 wegen mutmaßlichen Anlegerbetrugs vor Gericht.",
+  "body": "**Stefan Sanktjohanser** gehört zu den bekanntesten Unternehmensberatern Deutschlands. Mit Stephan Goetz gründete und führte er die Münchner Beratung Goetzpartners; über sie gehörte den beiden der Outdoor-Textilhersteller Sympatex.\n\n- 2017 kam es bei Sympatex zu einem radikalen Schuldenschnitt: Anleger einer Mittelstandsanleihe mussten auf fast ihr gesamtes Kapital von 13 Millionen Euro verzichten\n- Die Staatsanwaltschaft München I sieht darin eine inszenierte Insolvenzgefahr zum Nachteil der Anleger\n- Nach einer Großrazzia im Juli 2023 saß Sanktjohanser ab März 2024 monatelang in Untersuchungshaft\n\nIm Juli 2025 begann vor dem Landgericht München einer der spannendsten Wirtschaftsstrafprozesse des Jahres: Angeklagt sind Sanktjohanser, der Restrukturierungsexperte Frank Günther und zwei weitere Manager wegen Betrugs in fast 100 Fällen. Rund 170 Zeugen sind benannt, 67 Verhandlungstermine bis Ende Juni 2026 anberaumt. Der Fall steht exemplarisch für grenzwertige Geschäfte mit Mittelstandsanleihen und beschädigte auch die Versandhandelsfamilie Otto, deren Family Office in den Fall verstrickt sein soll. Sanktjohanser bestreitet die Vorwürfe; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Birger Dehne",
+  "folder": "Personen",
+  "patterns": [
+   "\\bDehne\\b",
+   "\\bDehnes\\b",
+   "\\bBirger\\b",
+   "\\bDähne\\b"
+  ],
+  "summary": "Gründer der Hannoveraner Immobiliengruppe Degag, deren Pleite 4500 Anlegern den Totalverlust droht.",
+  "body": "**Birger Dehne** gründete die Degag-Gruppe aus Hannover. Das Geschäftsmodell schien einfach: Schrottimmobilien kaufen, leerziehen, sanieren, neu vermieten und gewinnbringend an Großinvestoren verkaufen.\n\n- In den guten Jahren der Immobilienbranche sammelte die Degag Millionen von Privatanlegern ein; Dehne feierte sich als Visionär und wurde als „der Mann, der den Leerstand liebt“ beschrieben\n- Nach einem Megadeal 2021 machte er Kasse und zog sich als Berater in die zweite Reihe zurück\n- Anfang 2025 kollabierte die Gruppe; der Schaden dürfte im dreistelligen Millionenbereich liegen, von bis zu 400 Millionen Euro ist die Rede\n\n4500 Privatanleger, die der Degag rund 282 Millionen Euro geliehen haben, droht der Totalverlust. Der letzte Vorstand Bernd Klein sagte dem Handelsblatt, Dehne habe die Gruppe aus dem Hintergrund gesteuert, die Gelder seien von einem Buchhalter Dehnes aus der Schweiz verwaltet worden, und auch die Immobiliengeschäfte habe Dehne eingefädelt. In den Monaten vor der Insolvenz flossen zudem Millionen durch ungewöhnliche Deals in Richtung des Gründers; Stiftungen in Liechtenstein und die Privatbank Julius Bär spielen eine Rolle. Ein Anwalt Dehnes wies die Angaben zurück. Strafrechtliche Vorwürfe sind nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Bernd Klein",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBernd Klein\\b",
+   "\\bKlein\\b(?=.{0,60}(Degag|Vorstand))",
+   "\\bKleins\\b"
+  ],
+  "summary": "Letzter Vorstand der insolventen Degag, der im Podcast Verantwortung übernimmt und Gründer Dehne belastet.",
+  "body": "**Bernd Klein** war der letzte Vorstand der Immobiliengruppe Degag aus Hannover, die Anfang 2025 kollabierte. Anders als viele Vorstände in vergleichbaren Situationen bekennt er sich zu seiner Verantwortung.\n\n- Sprach exklusiv mit Handelsblatt Crime über die Geschäfte und die Pleite der Degag\n- Sagt, er sehe eine Verantwortung darin, die Dinge aufzuklären, auch wenn es für ihn persönlich nicht einfach sei\n- Seine Aussagen belasten den Gründer und Berater Birger Dehne schwer\n\nNach Kleins Darstellung steuerte Dehne die Gruppe aus dem Hintergrund; die offiziellen Vorstände hätten über die Millionen der Anleger nicht frei verfügen können, die Gelder seien von einem Buchhalter Dehnes aus der Schweiz verwaltet worden, und auch die Immobiliengeschäfte habe Dehne eingefädelt. Ein Anwalt Dehnes wies die Angaben zurück; die früheren Partner stehen sich unversöhnlich gegenüber. Unbestritten ist, dass vieles hinter den Kulissen anders lief als in anderen Unternehmen und in den Monaten vor der Insolvenz noch Millionen in Richtung des Gründers flossen. Das Interview mit Klein steht im Mittelpunkt der Folge vom Februar 2026; den 4500 Privatanlegern droht der Totalverlust von rund 282 Millionen Euro."
+ },
+ {
+  "name": "Erwin Soravia",
+  "folder": "Personen",
+  "patterns": [
+   "\\bSoravia\\b",
+   "\\bSoravias\\b",
+   "\\bSoravia-Gruppe\\b"
+  ],
+  "summary": "Österreichischer Immobilienunternehmer (Soravia, One Group), finanziert von 11.000 deutschen Anlegern.",
+  "body": "**Erwin Soravia** ist CEO und Namensgeber des österreichischen Immobilienkonzerns Soravia und in Österreich eine bekannte Unternehmerpersönlichkeit. Über die Hamburger Tochter One Group sammelte der Konzern Geld von rund 11.000 deutschen Privatanlegern ein, die damit Bauprojekte finanzieren sollten.\n\n- Nach dem russischen Angriff auf die Ukraine 2022 geriet die Bauwirtschaft unter Druck, auch die Finanzierung von Soravia-Baustellen kam in Schieflage\n- Die One Group setzte Zinszahlungen aus, tauschte die Führung aus; Anlegerschützer verließen den Beirat der Fonds\n- Rund 275 Millionen Euro Anlegergeld gelten als gefährdet, Projekte wie der „Sylter Hof“ in Berlin steckten in Schwierigkeiten\n\nSoravia hatte einst versprochen, sein Unternehmen werde in einer Krise für die Anleger „geradestehen“. Die Folge vom Oktober 2024 untersucht, wie der CEO zu diesem Versprechen steht, ob Managementfehler eine Rolle spielten und wie transparent der Konzern mit seinen Geldgebern umging – etwa als er hinter dem Rücken der Anleger umstrukturierte. Anleger und Experten wittern einen Skandal; strafrechtliche Vorwürfe gegen Soravia sind nicht bekannt. Es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Klaus Maurischat",
+  "folder": "Personen",
+  "patterns": [
+   "\\bMaurischat\\b",
+   "\\bMaurischats\\b",
+   "\\bGomopa\\b"
+  ],
+  "summary": "Medienmanager hinter dem Finanzportal Gomopa, per Strafbefehl wegen Erpressung verurteilt.",
+  "body": "**Klaus Maurischat** ist der Medienmanager hinter dem Finanzportal Gomopa. Zwei Jahrzehnte lang war das Portal eine zentrale Anlaufstelle für Warnungen vor unseriösen Finanzprodukten und Skandalen – von Wirecard bis Dolphin Trust.\n\n- Hinter der Fassade der Enthüllungen ließ er sich nach Feststellung der Justiz kritische Berichterstattung abkaufen\n- Das Amtsgericht Saarbrücken verurteilte ihn per Strafbefehl wegen Erpressung, nachdem Finanzjongleure eines Schneeballsystems für das Verschwinden von Artikeln gezahlt hatten\n- Maurischat hält das Vorgehen für legitim: Wer ein Nutzungsrecht an einem Beitrag kaufe, könne über dessen Verwendung entscheiden, auch wenn der Text dadurch depubliziert werde\n\nDie Folge vom Juni 2025 fragt, ob Maurischat überhaupt Journalist war, und beschreibt eine Masche, die im Internet um sich greift: digitale Schutzgelderpressung auf Basis von Fake News. Portale verbreiten auf verzerrten Informationen aufbauende Drohungen und hoffen auf Zahlungen, um negative Berichte zu stoppen oder Aktienkurse zu manipulieren. Der Fall zeigt die Gefahren, die der Graue Kapitalmarkt und unseriöse Medienangebote für Wirtschaft und Gesellschaft mit sich bringen."
+ },
+ {
+  "name": "Jürgen Brinkmann",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBrinkmann\\b",
+   "\\bBrinkmanns\\b",
+   "\\bBrawo-Chef\\b"
+  ],
+  "summary": "Langjähriger Vorstandschef der Volksbank Brawo, der die Genossenschaftsbank zum Beteiligungskonzern umbaute.",
+  "body": "**Jürgen Brinkmann** war langjähriger Vorstandsvorsitzender der Volksbank Braunschweig Wolfsburg (Brawo). Unter seiner Führung verließ die Genossenschaftsbank das klassische Geschäftsmodell aus Sicherheit, regionaler Nähe und konservativem Wirtschaften.\n\n- Über ihre Holding beteiligte sich die Bank an Hunderten Unternehmen – von Restaurants über Fitnessstudios und Fintechs bis zu Luxusimmobilien\n- Einige Beteiligungen sind inzwischen insolvent, andere, insbesondere Immobilien, könnten deutlich zu hoch bewertet sein\n- Die Bank muss voraussichtlich mit Millionen aus dem Stützungsfonds der Genossenschaftsbanken gestützt werden\n\n2026 verlor Brinkmann seinen Posten; auch seine Frau verließ eine Banktochter. Die Staatsanwaltschaft Braunschweig ermittelt wegen des Verdachts der Untreue im Umfeld der Bank. Finanzkorrespondentin Elisabeth Atzler sagt in der Folge vom Juli 2026, es scheine, als sei das Geschäftsmodell des ehemaligen Brawo-Chefs gescheitert. Der Fall wirft die Frage auf, welche Kontrollmechanismen versagt haben und was er für das Vertrauen in das Genossenschaftssystem bedeutet, zumal es auch bei anderen Volksbanken Skandale gab. Gegen Brinkmann persönlich ist eine Anklage nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Helmut Kaltenegger",
+  "folder": "Personen",
+  "patterns": [
+   "\\bKaltenegger\\b",
+   "\\bKalteneggers\\b",
+   "\\bKaltenecker\\b",
+   "\\bTGI\\b"
+  ],
+  "summary": "Goldhändler hinter der Liechtensteiner TGI AG, die Gold mit Rabatten von bis zu 72 Prozent verspricht.",
+  "body": "**Helmut Kaltenegger** ist Goldhändler und der schillernde Hintermann der Liechtensteiner TGI AG. Sein Motto lautet „Geht nicht, gibt's nicht“.\n\n- Die TGI verspricht Rabatte von bis zu 72 Prozent auf Gold, wenn Kunden bereit sind, drei Jahre auf die Auslieferung zu warten\n- Angeblich haben bereits 40.000 Menschen zugeschlagen; rund 80 Millionen Euro an Rabatten will die TGI ausgeschüttet haben\n- Der Comedian Oliver Pocher warb für das Angebot\n\nDie Zeiten sind günstig für Goldhändler: Der Goldpreis stieg innerhalb eines Jahres um rund 50 Prozent, und gerade in Krisen suchen Anleger den sicheren Hafen. Die Folge vom April 2026 fragt, ob Kaltenegger ein Geschäftsmodell entdeckt hat, das vor ihm niemand sah – oder was sonst hinter den auffällig hohen Rabatten stecken könnte. Die deutsche Finanzaufsicht ging Hinweisen zu dem TGI-Geschäft nach. Die Reporter verweisen zum Vergleich auf den PIM-Gold-Skandal, bei dem drei Tonnen Gold verschwanden. Strafrechtliche Vorwürfe gegen Kaltenegger sind nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Daniel Lieberberg",
+  "folder": "Personen",
+  "patterns": [
+   "\\bLieberberg\\b",
+   "\\bLieberbergs\\b",
+   "\\bLiberberg\\b"
+  ],
+  "summary": "Europa- und Afrika-Chef von Sony Music, dem Mitarbeiter Machtmissbrauch und ein Klima der Angst vorwerfen.",
+  "body": "**Daniel Lieberberg** ist als Chef des Europa- und Afrika-Geschäfts von Sony Music einer der mächtigsten Männer der Musikbranche. Er ist der Sohn des Konzertveranstalters Marek Lieberberg und arbeitete zuvor unter anderem für Universal Music.\n\n- Aktuelle und ehemalige Angestellte der Berliner Firma berichteten dem Handelsblatt von Mobbing, Wutausbrüchen und einem Klima der Angst\n- In einer internen Meldung an die Compliance-Abteilung ist von „Zynismus“, „herablassender Arroganz“ und „bösartiger Demagogie“ die Rede\n- Mehrere Frauen erklärten, Lieberberg habe sie unaufgefordert zur Begrüßung an beiden Schultern gepackt und geküsst\n\nÜber seinen Anwalt ließ Lieberberg die Vorwürfe rundherum zurückweisen. Der Mutterkonzern Sony Music in New York erklärte, Beschwerden wie jüngst aus Deutschland gehe man umgehend und gewissenhaft nach. Investigativ-Co-Ressortleiter Martin Murphy schildert in der Folge vom Dezember 2024 eine monatelange Recherche über die Schattenseiten des Musikgeschäfts; es geht mutmaßlich um Machtmissbrauch, Fehlverhalten und ein toxisches Arbeitsklima. Strafrechtliche Vorwürfe stehen nicht im Raum; die Schilderungen sind Aussagen von Mitarbeitern, die Lieberberg bestreitet."
+ },
+ {
+  "name": "Jürgen Barth",
+  "folder": "Personen",
+  "patterns": [
+   "\\bBarth\\b",
+   "\\bBarths\\b",
+   "\\bJürgen Barth\\b"
+  ],
+  "summary": "Le-Mans-Sieger und „Gedächtnis von Porsche“, angeklagt wegen angeblich gefälschter historischer Porsche.",
+  "body": "**Jürgen Barth** (geboren 1947) ist eine Rennsport-Ikone und lebende Porsche-Legende. 1977 gewann er für den Sportwagenhersteller das 24-Stunden-Rennen von Le Mans, 1980 das 1000-Kilometer-Rennen auf dem Nürburgring. Fast sein gesamtes Berufsleben verbrachte er im Konzern.\n\n- Galt als das „Gedächtnis von Porsche“ mit einzigartigem Wissen über historische Fahrzeuge und Fahrgestellnummern\n- Soll laut Staatsanwaltschaft geholfen haben, gefälschte historische Porsche als Originale auszugeben; vermögende Sammler seien um Millionen gebracht worden\n- Porsche erklärte den einstigen Helden zur Persona non grata\n\nVor dem Landgericht Aachen wurde Barth der Prozess gemacht; er kam vergleichsweise glimpflich davon, das Drama ging aber weiter. Der Fall erschütterte nicht nur die Reputation einer Ikone, sondern weckte auch Zweifel am Unterschied zwischen Original und Kopie bei Oldtimern, die Millionen wert sind. Er droht, Porsche und einige seiner besten Kunden zu entzweien, die fürchten müssen, dass ihre teuer erworbenen Autos verschrottet werden. Die Reporter René Bender und Michael Verfürden zeichnen in der Folge vom April 2024 die „Demontage einer Legende“ nach."
+ },
+ {
+  "name": "Mirko Hüllemann",
+  "folder": "Personen",
+  "patterns": [
+   "\\bHüllemann\\b",
+   "\\bHüllemanns\\b",
+   "\\bHuellemann\\b",
+   "\\bHühlemann\\b"
+  ],
+  "summary": "Früherer Unzer-CEO, der laut Ermittlern bei der „Operation Chargeback“ eine Rolle gespielt haben soll.",
+  "body": "**Mirko Hüllemann** war Gründer und langjähriger Chef des Zahlungsdienstleisters Heidelpay, der später als Unzer firmierte. Nach dem Einstieg des Finanzinvestors KKR schied er aus der Führung aus.\n\n- Bei der „Operation Chargeback“ durchsuchten Ermittler am 4. November 2025 in Deutschland und acht weiteren Ländern mehr als 60 Objekte und nahmen 18 Verdächtige fest\n- Im Zentrum stehen Millionen unrechtmäßiger Kreditkartenbelastungen über mutmaßlich gefälschte Online-Abos und Hunderte Scheinfirmen; 4,3 Millionen Menschen aus 193 Ländern sollen betroffen sein, der Schaden über 300 Millionen Euro liegen\n- Die Spur führt zu Zahlungsdienstleistern wie Unzer, Payone, Concardis und Wirecard\n\nDie Reporter René Bender und Michael Verfürden gehen in der Folge vom Juni 2026 der Frage nach, welche Rolle Hüllemann und andere ehemalige Manager von Zahlungsdienstleistern gespielt haben sollen, warum Ermittler von einer Art parallelem Finanzsystem sprechen und welche Verbindung zum Wirecard-Komplex um Jan Marsalek besteht. Hüllemann bestreitet ein Fehlverhalten. Eine Anklage ist nicht bekannt; es gilt die Unschuldsvermutung."
+ },
+ {
+  "name": "Fraser Perring",
+  "folder": "Personen",
+  "patterns": [
+   "\\bPerring\\b",
+   "\\bPerrings\\b",
+   "\\bViceroy\\b",
+   "\\bFraser\\b"
+  ],
+  "summary": "Britischer Shortseller (Viceroy Research), dessen Dossier die Krise der Adler Group auslöste.",
+  "body": "**Fraser Perring** ist ein britischer Leerverkäufer und Gründer von Viceroy Research. Er wettet auf fallende Kurse von Unternehmen, denen er Bilanzmanipulation vorwirft, und veröffentlicht dazu Dossiers.\n\n- Warnte bereits vor dem Zusammenbruch von Wirecard vor dem Zahlungsdienstleister\n- Warf der Adler Group im Herbst 2021 in einem Dossier Betrug, Täuschung und finanzielle Falschdarstellung vor; der Konzern bestreitet die Vorwürfe\n- Behauptete, der österreichische Unternehmer Cevdet Caner kontrolliere Adler aus dem Hintergrund zum Nachteil der Aktionäre\n\nDie Vorwürfe ließen den Immobilienkonzern nicht mehr los: Staatsanwaltschaften ermittelten, die Finanzaufsicht stellte zwei grobe Bilanzfehler fest, die Prüfer von KPMG verweigerten das Testat und legten ihr Mandat nieder. Milliardenschulden brachten Adler an den Rand der Insolvenz; erst der Londoner High Court genehmigte 2023 den umstrittenen Sanierungsplan. Shortseller wie Perring sind umstritten, weil sie von Kursverlusten profitieren – im Fall Adler bestätigten sich aber wesentliche Zweifel. Die Handelsblatt-Reporter beleuchten in drei Folgen, wie die Krise entstand und welche Rolle dubiose Berater und umstrittene Immobiliendeals spielten."
+ },
+ {
+  "name": "Uli Hoeneß",
+  "folder": "Personen",
+  "patterns": [
+   "\\bHoeneß\\b",
+   "\\bHoeness\\b",
+   "\\bHöneß\\b",
+   "\\bHöness\\b"
+  ],
+  "summary": "FC-Bayern-Patriarch, der 2014 wegen Steuerhinterziehung zu dreieinhalb Jahren Haft verurteilt wurde.",
+  "body": "**Uli Hoeneß** (geboren 1952) ist Weltmeister von 1974, langjähriger Manager und Präsident des FC Bayern München und als „Fußballhalbgott“ eine der prägenden Figuren des deutschen Sports.\n\n- Hinterzog mit Spekulationsgeschäften über ein Schweizer Konto Steuern in Millionenhöhe\n- Eine Selbstanzeige Anfang 2013 erwies sich als unvollständig\n- Das Landgericht München II verurteilte ihn 2014 wegen Steuerhinterziehung von rund 28,5 Millionen Euro zu dreieinhalb Jahren Haft\n\nHoeneß trat die Strafe an, wurde 2016 vorzeitig entlassen und kehrte anschließend als Präsident zum FC Bayern zurück. In der Folge „Prominente und die Steuerfahndung“ vom November 2022 steht er neben Alfons Schuhbeck, Boris Becker und Klaus Zumwinkel für die Frage, warum Aushängeschilder der Republik ihren Ruf und ihre Freiheit riskieren, um nicht zu zahlen, was jeder zahlen muss. Das Handelsblatt beschrieb seinen „tiefen Fall“ und ordnet ein, warum die Strafen für prominente Steuersünder mitunter seltsam milde ausfallen – und was Steuerhinterziehung vom früheren Kavaliersdelikt zum „Reichensport“ gemacht hat."
+ },
+ {
+  "name": "Klaus Zumwinkel",
+  "folder": "Personen",
+  "patterns": [
+   "\\bZumwinkel\\b",
+   "\\bZumwinkels\\b",
+   "\\bZumwinckel\\b"
+  ],
+  "summary": "Ex-Post-Chef, dessen Villa 2008 vor laufenden Kameras durchsucht wurde; wegen Steuerhinterziehung verurteilt.",
+  "body": "**Klaus Zumwinkel** (geboren 1943) war von 1990 bis 2008 Vorstandsvorsitzender der Deutschen Post und führte das Unternehmen an die Börse. Er galt als einer der angesehensten Manager des Landes und saß in zahlreichen Aufsichtsräten.\n\n- Im Februar 2008 durchsuchten Steuerfahnder vor laufenden Fernsehkameras seine Villa in Köln\n- Er hatte Vermögen über eine Stiftung in Liechtenstein vor dem Fiskus versteckt; Grundlage der Ermittlungen war eine vom BND gekaufte Daten-CD\n- 2009 wurde er wegen Steuerhinterziehung von rund einer Million Euro zu zwei Jahren auf Bewährung und einer Geldstrafe verurteilt\n\nSein Ruf war dahin – „für den Preis von einer Million Euro“, wie das Handelsblatt schreibt. Zumwinkel musste alle Ämter aufgeben und zog sich nach Italien zurück. Die Folge vom November 2022 nimmt seinen Fall zum Anlass, über die bekanntesten Steuersünder Deutschlands zu sprechen, warum Prominente wie Zumwinkel den Fiskus prellten, wie es herauskam und welche Konsequenzen das hatte. Die Liechtenstein-Affäre löste 2008 eine Welle von Selbstanzeigen aus und gilt als Wendepunkt im Umgang mit Steuerhinterziehung als vermeintlichem Kavaliersdelikt."
+ },
+ {
+  "name": "Mesut Pazarci",
+  "folder": "Personen",
+  "patterns": [
+   "\\bPazarci\\b",
+   "\\bPazarcis\\b",
+   "\\bPasarci\\b",
+   "\\bPIM[- ]Gold\\b"
+  ],
+  "summary": "Chef von PIM Gold, wo fast drei Tonnen Gold verschwanden; zu fast sieben Jahren Haft verurteilt.",
+  "body": "**Mesut Pazarci** war Geschäftsführer der PIM Gold GmbH in Heusenstamm bei Frankfurt. Das Unternehmen verkaufte Privatanlegern Gold, das sicher in Tresoren liegen sollte, und lockte mit Renditen von elf Prozent.\n\n- Als die Polizei im Herbst 2019 nach einer Razzia nachschaute, fehlten fast drei Tonnen Gold im Wert von über 150 Millionen Euro\n- Mehr als 7500 Privatanleger wurden geschädigt\n- Die Staatsanwaltschaft warf ihm ein Schneeballsystem vor; Spuren führten zu einer bedeutenden Goldraffinerie in Istanbul und zu internationaler Geldwäsche\n\nNach einem Mammutprozess von über einem Jahr verurteilte ihn das Landgericht Darmstadt zu fast sieben Jahren Haft; wegen der langen Untersuchungshaft und Verfahrensdauer kam er zunächst dennoch frei. Die Ermittlungen und die juristische Aufarbeitung sind nicht abgeschlossen, ein Geldwäsche-Urteil setzte den größten türkischen Hersteller von Goldbarren unter Druck. Die Reporter Lars-Marten Nagel und Jakob Blume hatten die dubiosen Geschäfte von PIM Gold als Erste aufgedeckt; die Geschichte begann mit einem hitzigen Streit zweier Goldhändler. In der Folge vom Juli 2023 beschreiben sie, warum frühe Warnsignale lange unbeachtet blieben."
+ }
+]

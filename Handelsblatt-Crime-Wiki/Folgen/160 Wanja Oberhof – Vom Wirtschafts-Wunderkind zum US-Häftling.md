@@ -19,11 +19,11 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 52:26 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC) · [MP3](https://audio.podigee-cdn.net/2567373-m-4728852b5f378245f5e657f08460a44a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/160-neue-episode-04-10) |
 | **Transkript** | [[Transkript 160]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Höhle der Löwen – Pleite (Social Chain)]], [[Wanja Oberhof]] |
+| **Fälle** | [[Höhle der Löwen – Pleite (Social Chain)]], [[Fall Wanja Oberhof]] |
 | **Themen** | [[Betrug]], [[Insolvenz]] |
-| **Unternehmen** | – |
-| **Personen** | – |
-| **Kurz erwähnt** | [[Sympatex-Betrug]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Unternehmen** | [[Social Chain]] |
+| **Personen** | [[Wanja Oberhof]], [[Klaus Kleinfeld]], [[Georg Kofler]], [[Ralf Dümmel]] |
+| **Kurz erwähnt** | [[Sympatex-Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Sympatex]], [[Goetzpartners]], [[BaFin]], [[Handelsblatt]] |
 
 ## Shownotes
 

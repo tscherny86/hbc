@@ -21,7 +21,7 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
 | **Themen** | [[Wirtschaftsprüfung]], [[Spionage]], [[Compliance]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[EY (Ernst & Young)]], [[Handelsblatt]] |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Felix Holtermann]], [[Bert Fröndhoff]], [[Sebastian Matthes]] |
 | **Kurz erwähnt** | – |
 

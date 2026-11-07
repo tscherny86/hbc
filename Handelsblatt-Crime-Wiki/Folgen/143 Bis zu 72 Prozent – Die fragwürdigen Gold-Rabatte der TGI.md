@@ -21,8 +21,8 @@ tags: [folge, jahr-2026, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[PIM Gold]], [[TGI-Gold (Helmut Kaltenegger)]] |
 | **Themen** | [[Goldanlage]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
+| **Unternehmen** | [[TGI (Gold)]], [[BaFin]], [[Handelsblatt]] |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[Helmut Kaltenegger]], [[Mesut Pazarci]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

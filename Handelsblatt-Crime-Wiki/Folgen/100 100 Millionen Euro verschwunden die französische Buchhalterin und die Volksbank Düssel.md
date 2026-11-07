@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Buchhalterin und Volksbank Düsseldorf Neuss]] |
 | **Themen** | [[Betrug]], [[Untreue]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[Volksbank Düsseldorf Neuss]] |
 | **Personen** | [[Solveig Gode]] |
 | **Kurz erwähnt** | – |
 

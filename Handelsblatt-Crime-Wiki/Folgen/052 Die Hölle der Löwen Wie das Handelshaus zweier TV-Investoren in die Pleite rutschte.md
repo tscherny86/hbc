@@ -19,10 +19,10 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 44:49 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379) · [MP3](https://audio.podigee-cdn.net/1173155-m-53d81eb2f95942b71285296ba86dc2c6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/52-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Höhle der Löwen – Pleite (Social Chain)]], [[Wanja Oberhof]] |
+| **Fälle** | [[Höhle der Löwen – Pleite (Social Chain)]], [[Fall Wanja Oberhof]] |
 | **Themen** | [[Insolvenz]] |
-| **Unternehmen** | – |
-| **Personen** | [[Lars-Marten Nagel]], [[René Bender]] |
+| **Unternehmen** | [[BaFin]], [[Social Chain]] |
+| **Personen** | [[Lars-Marten Nagel]], [[René Bender]], [[Georg Kofler]], [[Ralf Dümmel]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

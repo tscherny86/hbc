@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
 | **Themen** | [[Insolvenz]], [[Steuerfahndung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Gröner Group]] |
+| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]], [[Christoph Gröner]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

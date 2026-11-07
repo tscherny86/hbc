@@ -19,10 +19,10 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 34:36 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2Z4gnyeewZkt1V2iJH8ytw) · [MP3](https://audio.podigee-cdn.net/1696201-m-d187d8b7c57620f88cef82d11658db2a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/105-cum-ex-anne-brorhilker-sagt-aus) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[HSH Nordbank und Cum-Ex]], [[Kai-Uwe Steck]] |
+| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[HSH Nordbank und Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]], [[Handelsblatt]], [[Landgericht Bonn]] |
+| **Personen** | [[Ina Karabasz]], [[Volker Votsmeier]], [[Anne Brorhilker]], [[Kai-Uwe Steck]], [[Gerhard Strate]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

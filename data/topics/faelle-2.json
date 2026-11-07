@@ -1,270 +1,427 @@
 [
-  {
-    "name": "Thomas Lloyd",
-    "folder": "Fälle",
-    "patterns": ["\\bThomas ?Lloyd\\b", "\\bThomasLloyd\\b", "\\bCleantech Infrastructure\\b", "\\bCTI-?Fonds\\b"],
-    "summary": "Öko-Fonds-Anbieter ThomasLloyd: 27.000 Anleger, 750 Mio. Euro, gestoppte Auszahlungen und Millionenverluste.",
-    "body": "ThomasLloyd ist eine Investmentgruppe mit Sitz unter anderem in Zürich und London, die sich als Spezialist für nachhaltige Infrastruktur vermarktet. Über die „Cleantech Infrastructure“-Fondsreihe (CTI) sammelte sie bei rund 27.000 überwiegend deutschen Privatanlegern etwa 750 Millionen Euro ein. Das Geld sollte in Solar- und Biomassekraftwerke auf den Philippinen und in Indien fließen. Für die Werbung ließ das Haus unter anderem den Schauspieler und Ex-Gouverneur Arnold Schwarzenegger als Botschafter auftreten.\n\nAb 2023 häuften sich die Probleme: Auszahlungen an Anleger wurden gestoppt, Härtefallanträge blieben monatelang unbearbeitet, und die Fondsbilanzen wiesen dreistellige Millionenverluste aus. Recherchen des Handelsblatts legten Unstimmigkeiten und Widersprüche bei den Beteiligungen offen – etwa bei der Bewertung der asiatischen Kraftwerksprojekte. Das Management um Gründer Michael Sieg bestritt eine Krise, verwies auf „stille Reserven“ und „Aufwertungspotenziale“ und vertröstete die Geldgeber auf eine bessere Zukunft.\n\nParallel geriet auch der an der Londoner Börse gelistete ThomasLloyd Energy Impact Trust in Schwierigkeiten; der Handel mit seinen Anteilen wurde zeitweise ausgesetzt. Der Fall gilt als Beispiel dafür, wie das Label „grün“ und prominente Werbegesichter Anleger in schwer durchschaubare, illiquide Beteiligungen locken können. Anlegerschützer und Anwälte prüfen seither Schadensersatzansprüche; viele Betroffene bangen um einen Großteil ihres Einsatzes."
-  },
-  {
-    "name": "Soravia-Gruppe und One Group",
-    "folder": "Fälle",
-    "patterns": ["\\bSoravia\\b", "\\bOne ?Group\\b", "\\bProReal\\b", "\\bSylter Hof\\b"],
-    "summary": "11.000 Anleger finanzierten mit 275 Mio. Euro Baustellen des Wiener Konzerns Soravia – Zinsen ausgesetzt.",
-    "body": "Die Hamburger One Group vertrieb über Jahre Kapitalanlagen der Reihe „ProReal“ – Namensschuldverschreibungen und ähnliche Produkte, mit denen rund 11.000 Privatanleger Bauprojekte finanzierten. Seit 2019 gehört die One Group zum österreichischen Immobilienkonzern Soravia, dessen Namensgeber und Chef Erwin Soravia in Österreich eine bekannte Unternehmerpersönlichkeit ist. Insgesamt geht es um rund 275 Millionen Euro Anlegergeld, das in Soravia-Baustellen wie den Berliner „Sylter Hof“ floss.\n\nMit dem Zinsanstieg und der Baukrise ab 2022 gerieten die Projekte in Schieflage. 2024 setzte die One Group Zinszahlungen aus, tauschte die Führung aus und suchte nach Sanierungswegen. Für Empörung sorgte, dass der Konzern hinter dem Rücken der Anleger umstrukturierte und Anlegerschützer aus Beiräten der Fonds austraten. Ein von Anlegern gewünschter Sachwalter lehnte sein Mandat ab.\n\nIm Kern geht es um die Frage, ob die dreistellige Millionensumme allein durch Krieg, Inflation und Zinswende verloren ging – oder ob Managementfehler und eine intransparente Mittelverwendung eine Rolle spielten. Erwin Soravia hatte Anlegern einst zugesichert, der Konzern werde in einer Krise für sie „geradestehen“. Die Betroffenen fürchten inzwischen hohe Verluste; Anlegeranwälte prüfen Ansprüche gegen Emittentin, Vertrieb und Konzern."
-  },
-  {
-    "name": "Charles Smethurst und die German Property Group",
-    "folder": "Fälle",
-    "patterns": ["\\bSmethurst\\b", "\\bGerman Property Group\\b", "\\bDolphin Trust\\b", "\\bDolphin Capital\\b"],
-    "summary": "German Property Group (ex Dolphin Trust): 1,5 Mrd. Euro Anlegergeld, 2024 Anklage gegen Charles Smethurst.",
-    "body": "Der Deutsch-Brite Charles Smethurst galt in der Branche als Verkaufsgenie und „Gentleman der Immobilienbranche“. Mit seiner German Property Group (GPG) aus der Region Hannover – früher unter den Namen Dolphin Capital und Dolphin Trust bekannt – sammelte er zwischen 2008 und 2018 Insidern zufolge rund 1,5 Milliarden Euro ein, vor allem bei Anlegern in Großbritannien, Irland und Asien. Das Versprechen: hohe Renditen aus der Sanierung denkmalgeschützter Gebäude in Deutschland, die zusätzlich Steuervorteile bringen sollten.\n\nTatsächlich wurden viele der angekündigten Projekte nie fertiggestellt. 2020 brach die Gruppe zusammen und ging in die Insolvenz; der Insolvenzverwalter stellte den Gesellschaften ein verheerendes Zeugnis aus. Tausende Anleger, oft Pensionssparer, verloren ihr Geld. Die Staatsanwaltschaft Hannover ermittelte ab 2020 und erhob im Oktober 2024 Anklage gegen die Gründer: Smethurst soll gewerbsmäßigen Betrug in 27 Fällen mit einem Schaden von über 56 Millionen Euro begangen haben. Der tatsächliche Schaden dürfte nach Einschätzung von Insidern weit höher liegen.\n\nDer Fall gilt als einer der größten Anlageskandale mit deutschen Immobilien und zeigt, wie ein Schneeballsystem-ähnliches Modell über Jahre mit neuen Anlegergeldern am Laufen gehalten werden konnte. Über die Anklage muss das Landgericht Hannover entscheiden."
-  },
-  {
-    "name": "Buchhalterin und Volksbank Düsseldorf Neuss",
-    "folder": "Fälle",
-    "patterns": ["\\bVolksbank Düsseldorf\\b", "\\bDüsseldorf Neuss\\b", "\\bKiabi\\b", "\\bAur[eé]lie\\b"],
-    "summary": "100 Mio. Euro der Modekette Kiabi veruntreut, bei der Volksbank Düsseldorf Neuss geparkt – 2024 verschwunden.",
-    "body": "Im Oktober 2024 räumte die Volksbank Düsseldorf Neuss ein, Opfer eines Millionenbetrugs geworden zu sein: Von einem Konto bei der Genossenschaftsbank waren rund 100 Millionen Euro verschwunden. Die Spur führte nach Frankreich zu Aurélie B., einer früheren Finanzmanagerin der Modekette Kiabi. Sie soll das Geld bei ihrem Arbeitgeber veruntreut und unter dem Vorwand einer Geldanlage nach Deutschland transferiert haben.\n\nDie Französin führte zwischen den USA und Frankreich ein Luxusleben mit Privatjet. Im August 2024 wurde sie auf Korsika festgenommen, als sie gerade aus ihrem Flugzeug stieg. Die Pariser Staatsanwaltschaft ermittelt wegen bandenmäßigen Betrugs und Geldwäsche, die Staatsanwaltschaft Düsseldorf wegen Betrugs und Urkundenfälschung in einem besonders schweren Fall.\n\nFür die Volksbank Düsseldorf Neuss ist der Fall heikel: Sie muss erklären, wie eine so große Summe auf ein Konto gelangen und wieder abfließen konnte, ohne dass Kontrollen griffen. Die Bank musste den Verlust in ihrer Bilanz verarbeiten und steht im Fokus von Aufsicht und Genossenschaftsverband. Der Fall gilt als Lehrstück über Geldwäscheprävention, Know-your-Customer-Prüfungen und die Frage, wie regionale Institute mit ungewöhnlichen Großkunden umgehen."
-  },
-  {
-    "name": "Very Private Equity (Triton)",
-    "folder": "Fälle",
-    "patterns": ["\\bTriton\\b", "\\bPrahl\\b", "\\bVery Private Equity\\b"],
-    "summary": "Mitarbeiter werfen dem Milliardenfonds Triton eine toxische Partykultur und Sexismus vor – Triton bestreitet.",
-    "body": "Triton Partners gehört zu den wichtigsten Private-Equity-Gesellschaften Europas. Der 1997 vom Schweden Peder Prahl gegründete Fonds hat sich an mehr als 90 Unternehmen beteiligt und Fonds mit einem Volumen von über 16 Milliarden Euro aufgelegt. Zu den Investoren zählen Staatsfonds und öffentliche Pensionskassen – Geldgeber, die auf Compliance und Unternehmenskultur achten.\n\nIm November 2024 veröffentlichte das Handelsblatt nach monatelanger Recherche schwere Vorwürfe aktueller und ehemaliger Mitarbeiter. Fotos, Videos und Chatnachrichten zeigten demnach exzessive Firmenpartys, bei denen der Gründer oberkörperfrei auf einer Couch saß und ein Partner in Unterhose neben ihm. Mitarbeiterinnen berichteten von sexistischen Sprüchen, Alkoholexzessen und Gruppendruck; eine Insiderin beschrieb die Kultur als „Mischung aus Scientology und Wolf of Wall Street“. In Chats machten Manager anzügliche Bemerkungen über Kolleginnen.\n\nTriton erklärte, Hinweisen auf Fehlverhalten stets nachgegangen zu sein und bei Bedarf Verwarnungen, Abmahnungen oder Entlassungen ausgesprochen zu haben. Ein betroffener Manager ließ über seinen Anwalt mitteilen, er könne gar keine Beförderungen vornehmen, die Äußerungen seien nicht ernst gemeint gewesen.\n\nDer Fall wirft die Frage auf, ob es sich um Einzelfälle handelt oder um eine verfehlte Unternehmenskultur in einer Branche, in der viel Geld, Leistungsdruck und wenig öffentliche Kontrolle zusammenkommen."
-  },
-  {
-    "name": "Sony Music und Daniel Lieberberg",
-    "folder": "Fälle",
-    "patterns": ["\\bLieberberg\\b", "\\bSony Music\\b"],
-    "summary": "Mitarbeiter werfen Sony-Music-Europachef Daniel Lieberberg Mobbing, Wutausbrüche und Übergriffe vor.",
-    "body": "Daniel Lieberberg war als Chef des Europa- und Afrika-Geschäfts von Sony Music einer der mächtigsten Manager der Musikbranche. Der Sohn des Konzertveranstalters Marek Lieberberg stieg beim Berliner Ableger des Konzerns zum Präsidenten für Kontinentaleuropa und Afrika auf.\n\nIm Dezember 2024 veröffentlichte das Handelsblatt eine monatelange Recherche: Aktuelle und ehemalige Beschäftigte schilderten ein „Klima der Angst“ in der Berliner Firma. Vor allem Mitarbeiterinnen berichteten von Mobbing und Wutausbrüchen. In einer internen Meldung an die Compliance-Abteilung war von „Zynismus“, „herablassender Arroganz“ und „bösartiger Demagogie“ die Rede. Mehrere Frauen erklärten zudem, Lieberberg habe sie unaufgefordert zur Begrüßung an beiden Schultern gepackt und geküsst.\n\nLieberberg ließ die Vorwürfe über seinen Anwalt vollständig zurückweisen. Der Mutterkonzern in New York erklärte, Beschwerden wie jenen aus Deutschland werde umgehend und gewissenhaft nachgegangen. Medienberichten zufolge trennten sich Sony Music und Lieberberg Anfang 2025.\n\nDer Fall steht beispielhaft für die Debatte über Machtmissbrauch und toxische Führung in der Kreativwirtschaft, in der Karrieren stark von einzelnen Entscheidern abhängen und Betroffene sich selten öffentlich äußern."
-  },
-  {
-    "name": "Spionageprozess London (Marsaleks Agenten)",
-    "folder": "Fälle",
-    "patterns": ["\\bOld Bailey\\b", "\\bRouss?ev\\b", "\\bDzhambazov\\b", "\\bRupert Ticz\\b", "\\bBulgaren\\b", "\\bSpionageprozess\\b"],
-    "summary": "Sechs Bulgaren spionierten in London für Russland – gesteuert vom flüchtigen Wirecard-Vorstand Jan Marsalek.",
-    "body": "Ab Ende November 2024 verhandelte das Londoner Strafgericht Old Bailey einen der spektakulärsten Spionagefälle der jüngeren Zeit. Angeklagt waren sechs bulgarische Staatsbürger, die von Großbritannien aus für russische Nachrichtendienste spioniert haben sollen. Ihr Auftraggeber: der seit 2020 flüchtige Ex-Wirecard-Vorstand Jan Marsalek, der in den Chats unter dem Decknamen „Rupert Ticz“ auftrat.\n\nDer Zellenchef Orlin Roussev und sein Komplize Bizer Dzhambazov bekannten sich bereits vor Prozessbeginn schuldig, ein weiterer Angeklagter ebenfalls. Drei andere wurden im März 2025 von einer Jury verurteilt. Im Mai 2025 verhängte das Gericht Haftstrafen zwischen gut fünf und fast elf Jahren.\n\nGrundlage waren zehntausende Chatnachrichten, die Marsaleks Leben auf der Flucht dokumentieren. Die Gruppe observierte den Investigativjournalisten Christo Grozev und weitere Kreml-Kritiker, kundschaftete eine US-Militärbasis in Stuttgart aus und entwarf Pläne für Entführungen und Morde. Marsalek erwog laut Chats sogar, die kasachische Botschaft in London mit Schweineblut besprühen zu lassen, um eine Protestaktion vorzutäuschen.\n\nDer Prozess machte deutlich, wie eng Marsalek inzwischen mit russischen Diensten verbunden ist – und dass der Wirecard-Skandal längst eine geheimdienstliche Dimension hat."
-  },
-  {
-    "name": "Wolfgang Hoeft und die MW-Gruppe",
-    "folder": "Fälle",
-    "patterns": ["\\bHoeft\\b", "\\bHöft\\b", "\\bMW-?Gruppe\\b", "\\bPuppenspieler\\b"],
-    "summary": "Mutmaßliches Schneeballsystem der MW-Gruppe: 1200 Anleger, 50 Mio. Euro, Strippenzieher Hoeft untergetaucht.",
-    "body": "Seit 2019 ermittelt die Staatsanwaltschaft gegen Wolfgang Hoeft, den mutmaßlichen Strippenzieher der MW-Gruppe. Der Verdacht: Hoeft soll ein Schneeballsystem betrieben haben, das rund 1200 Anleger um etwa 50 Millionen Euro gebracht hat. In Hochglanzbroschüren warben die Verkäufer der Gruppe mit Renditen von bis zu 20 Prozent. Viele Anleger berichten heute, ihre gesamten Ersparnisse verloren zu haben und hoch verschuldet zu sein.\n\nCharakteristisch für das Konstrukt war eine verschachtelte Firmenstruktur, die die Geldflüsse verschleierte. Hoeft selbst trat formal kaum in Erscheinung; stattdessen setzte er Frauen, mit denen er offenbar Beziehungen führte, als Geschäftsführerinnen ein – daher das Bild vom „Puppenspieler“. 2019 kam es zu einer großangelegten Razzia, doch Anklage oder Urteil ließen jahrelang auf sich warten.\n\nAnwälte der Geschädigten kritisieren die schleppende Bearbeitung und warnen vor einem Vertrauensverlust in den Rechtsstaat. Hoeft gilt als unauffindbar und reagiert nicht auf Presseanfragen. Dem Handelsblatt-Investigativteam gelang es dennoch, ihm näherzukommen und mit seiner mutmaßlichen Geliebten zu sprechen.\n\nDer Fall zeigt die typischen Muster des grauen Kapitalmarkts: hohe Renditeversprechen, aggressiver Vertrieb, undurchsichtige Strukturen – und eine Justiz, die mit der Komplexität solcher Systeme oft überfordert ist."
-  },
-  {
-    "name": "Gomopa und Klaus Maurischat",
-    "folder": "Fälle",
-    "patterns": ["\\bGomopa\\b", "\\bMaurischat\\b"],
-    "summary": "Finanzportal Gomopa: Betreiber Maurischat wegen Erpressung verurteilt – kritische Artikel gegen Geld entfernt.",
-    "body": "Gomopa (Goldman Morgenstern & Partners) war zwei Jahrzehnte lang ein bekanntes Finanzportal, das vor unseriösen Anlageprodukten warnte und Skandale von Wirecard bis Dolphin Trust aufgriff. Hinter dem Portal stand der Medienmanager Klaus Maurischat. Viele Anleger nutzten die Seite als Frühwarnsystem – zugleich kursierten seit Jahren Vorwürfe, Gomopa lasse sich kritische Berichterstattung abkaufen.\n\nDas Amtsgericht Saarbrücken verurteilte Maurischat per Strafbefehl wegen Erpressung. Hintergrund: Betreiber eines Schneeballsystems hatten Geld gezahlt, damit negative Berichte über sie verschwanden. Maurischat verteidigt das Vorgehen: Wer ein Nutzungsrecht an einem journalistischen Beitrag kaufe, dürfe über dessen Verwendung entscheiden – auch über die Depublikation.\n\nDer Fall wirft grundsätzliche Fragen auf: War Maurischat überhaupt Journalist, oder nutzte er die Form des Journalismus als Geschäftsmodell? Und er steht für eine Masche, die im Netz um sich greift – digitale Schutzgelderpressung. Portale verbreiten auf Basis verzerrter oder gefälschter Informationen Drohungen, um Zahlungen zu erzwingen, Berichte zu stoppen oder sogar Aktienkurse zu manipulieren.\n\nFür den grauen Kapitalmarkt ist das doppelt gefährlich: Echte Warnungen verlieren an Glaubwürdigkeit, während Betrüger sich Ruhe erkaufen können."
-  },
-  {
-    "name": "Kai-Uwe Steck",
-    "folder": "Fälle",
-    "patterns": ["\\bStecks?\\b", "\\bKai-?Uwe Steck\\b"],
-    "summary": "Erster Cum-Ex-Kronzeuge: 2025 nur Bewährungsstrafe, 50-Millionen-Rückzahlung nicht eingehalten, Memoiren 2025.",
-    "body": "Der Wirtschaftsanwalt Kai-Uwe Steck war jahrelang Partner und Ziehsohn von Hanno Berger, dem Architekten vieler Cum-Ex-Geschäfte. Gemeinsam strukturierten sie Aktiendeals, mit denen sich Investoren nie gezahlte Kapitalertragsteuer erstatten ließen. 2015 wechselte Steck die Seiten: Als erster Kronzeuge kooperierte er mit der Kölner Chefermittlerin Anne Brorhilker und trug zur Verurteilung von mehr als einem Dutzend Beteiligter bei.\n\nTrotzdem erhob die Staatsanwaltschaft 2024 Anklage gegen ihn vor dem Landgericht Bonn. Steck wechselte kurz vor Prozessbeginn seine Verteidiger, widerrief sein Geständnis und warf Brorhilker vor, ihm Straffreiheit versprochen zu haben. In ihrer Zeugenaussage im Januar 2025 wies sie das scharf zurück. Im Sommer 2025 verurteilte das Gericht Steck wegen schwerer Steuerhinterziehung zu einem Jahr und zehn Monaten auf Bewährung – ein für viele Beobachter überraschend mildes Urteil.\n\nBrisant: Steck hatte als Zeuge zugesagt, seine Profite von rund 50 Millionen Euro zurückzuzahlen, überwies aber nur elf Millionen. Eine Millionenklage gegen seinen Ex-Verteidiger Alfred Dierlamm verlor er. Ende 2025 veröffentlichte er Memoiren, die er als „wahre Geschichte des größten Finanzskandals aller Zeiten“ bezeichnet; die Protagonisten tragen darin Tarnnamen. Hanno Berger, der inhaftiert ist, äußert sich über seinen früheren Partner bis heute verbittert."
-  },
-  {
-    "name": "LBBW-Cum-Ex",
-    "folder": "Fälle",
-    "patterns": ["\\bLBBW\\b", "\\bLandesbank Baden-Württemberg\\b", "\\bStuttgarter Steuerfahndung\\b"],
-    "summary": "Cum-Ex bei der LBBW: 150 Mio. Euro Schaden, zwölf Jahre bis zur Anklage – Vorstände bleiben unbehelligt.",
-    "body": "Die Landesbank Baden-Württemberg (LBBW) war um das Jahr 2008 an Cum-Ex-Geschäften beteiligt: Aktienkreisgeschäfte rund um den Dividendenstichtag, bei denen sich Beteiligte einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Der Schaden für den Fiskus belief sich auf rund 150 Millionen Euro. Als die Geschäfte aufflogen, zahlte die Bank das Geld samt Zinsen – insgesamt etwa 200 Millionen Euro – zurück.\n\nStrafrechtliche Konsequenzen für die damals Verantwortlichen blieben weitgehend aus. Ein bislang unveröffentlichter Bericht der Stuttgarter Steuerfahndung, der dem Handelsblatt vorliegt, legt nahe, dass der gesamte Vorstand die auffälligen Ertragssprünge hätte erkennen müssen. Dennoch brauchte die Staatsanwaltschaft Stuttgart zwölf Jahre, um überhaupt eine Anklage vorzulegen – und die richtet sich gegen nachgeordnete Mitarbeiter. Verfahren gegen Vorstandsmitglieder wurden eingestellt.\n\nDer Fall steht beispielhaft für die Kritik, dass Cum-Ex außerhalb von Köln kaum konsequent verfolgt wurde. Während die Kölner Ermittlerin Anne Brorhilker reihenweise Verurteilungen erreichte, verliefen Verfahren in Stuttgart, Hamburg, Düsseldorf und Berlin schleppend. Kommentatoren sprechen von Justizversagen: Schwere Steuerhinterziehung beginnt gesetzlich bei 50.000 Euro – hier ging es um das Dreitausendfache, ohne dass die Chefetage belangt wurde."
-  },
-  {
-    "name": "Degag-Pleite",
-    "folder": "Fälle",
-    "patterns": ["\\bDegag\\b", "\\bDehne\\b", "\\bBernd Klein\\b"],
-    "summary": "Insolvenz der Hannoveraner Degag 2025: 4500 Anleger, 282 Mio. Euro Darlehen, Schaden bis 400 Mio. Euro.",
-    "body": "Die Degag-Gruppe aus Hannover verfolgte ein scheinbar einfaches Geschäftsmodell: Sie kaufte heruntergekommene Wohnimmobilien, zog sie leer, sanierte sie und wollte sie anschließend gewinnbringend an Großinvestoren verkaufen. In den Boomjahren florierte das Geschäft. Gründer Birger Dehne inszenierte sich als Visionär, und die Gruppe sammelte bei rund 4500 Privatanlegern etwa 282 Millionen Euro in Form von Nachrangdarlehen ein. Nach einem Megadeal 2021 machte Dehne Kasse und zog sich formal als Berater in die zweite Reihe zurück.\n\nIm Dezember 2024 stellte die Degag Zins- und Rückzahlungen ein, am 28. Januar 2025 folgte der Insolvenzantrag. Der absehbare Schaden wird auf bis zu 400 Millionen Euro geschätzt; den Anlegern droht der Totalverlust. Recherchen zeigten, dass Stiftungen in Liechtenstein, ein dubioser Berater und die Schweizer Privatbank Julius Bär, die Schrottimmobilien finanzierte, eine Rolle spielten. In den Monaten vor der Pleite flossen durch ungewöhnliche Deals noch Millionen in Richtung Dehne.\n\nDer letzte Vorstand Bernd Klein brach 2026 das Schweigen: Dehne habe die Gruppe aus dem Hintergrund gesteuert, die Vorstände hätten über das Anlegergeld nicht frei verfügen können; verwaltet worden seien die Mittel von einem Buchhalter Dehnes in der Schweiz. Dehnes Anwalt wies die Darstellung zurück. Der Insolvenzverwalter versucht zu retten, was zu retten ist."
-  },
-  {
-    "name": "Jens Lehmann",
-    "folder": "Fälle",
-    "patterns": ["\\bJens Lehmann\\b", "\\bLehmanns?\\b(?!\\s+Brothers)", "\\bMad Jens\\b"],
-    "summary": "Ex-Nationaltorwart Jens Lehmann: Kettensägen-Attacke, Verkehrsdelikte und Vorstrafe wegen Steuerhinterziehung.",
-    "body": "Jens Lehmann wurde als Nationaltorwart bei der WM 2006 zum Helden, als er im Elfmeterschießen gegen Argentinien zwei Schüsse hielt. Nach der Karriere geriet „Mad Jens“ jedoch immer wieder mit dem Gesetz in Konflikt – vom Rasen auf die Anklagebank.\n\nAufsehen erregte 2022 ein Streit mit einem Nachbarn am Starnberger See: Lehmann zersägte mit einer Kettensäge einen Dachbalken von dessen Garage. Das Amtsgericht Starnberg verurteilte ihn 2023 wegen Sachbeschädigung, Hausfriedensbruchs und versuchten Betrugs (ein nicht bezahltes Parkticket) zu einer hohen Geldstrafe; in der Berufung reduzierte das Landgericht München II die Summe 2024 deutlich. Hinzu kamen Verkehrsdelikte, darunter eine Trunkenheitsfahrt, und Streitigkeiten um Geld.\n\nRecherchen des Handelsblatts förderten 2026 ein weiteres Kapitel zutage: Lehmann ist auch wegen Steuerhinterziehung vorbestraft. Die Reporter stießen auf Akten der Steuerfahndung, in denen es um Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“ geht – Einkünfte, die in keinem Land versteuert wurden. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, hält demnach einer Überprüfung nicht stand.\n\nDer Fall zeigt, wie ein prominenter Sportler mit Ruhm, Geld und einem schwierigen Verhältnis zu Regeln zum Dauergast der Justiz wird."
-  },
-  {
-    "name": "Tesla-Betriebsratswahl Grünheide",
-    "folder": "Fälle",
-    "patterns": ["\\bBetriebsratswahl\\b", "\\bIG Metall\\b", "\\bMichaela Schmitz\\b", "\\bKool Savas\\b", "\\bGrünheide\\b"],
-    "summary": "Machtkampf bei der Betriebsratswahl 2026 im Tesla-Werk Grünheide: Polizei, Musk-Drohung, IG Metall unterliegt.",
-    "body": "Im Tesla-Werk Grünheide bei Berlin, der einzigen europäischen Fabrik des Konzerns, eskalierte 2026 ein Machtkampf um den Betriebsrat. Die IG Metall wollte bei der Betriebsratswahl ihren Einfluss ausbauen, nachdem sie 2024 bereits zur stärksten Kraft geworden war, aber keine Mehrheit hatte. Dagegen stand die von Betriebsratschefin Michaela Schmitz angeführte Liste, die viele Beschäftigte als managementnah beschreiben und die die Gewerkschafter als Störfaktor beschimpfte.\n\nDer Wahlkampf nahm bizarre Züge an: Auf einer Betriebsfeier trat der Rapper Kool Savas auf – mitten im Arbeitskampf. Weil ein Gewerkschafter eine Sitzung heimlich aufgenommen haben soll, rief Tesla die Polizei; ein Laptop wurde beschlagnahmt. Die IG Metall bestreitet den Vorwurf und spricht von einer Schmutzkampagne. Wenige Tage vor der Wahl schaltete sich Elon Musk persönlich ein und warnte, die Fabrik werde nicht erweitert, sollte die Gewerkschaft gewinnen. Die Belegschaft stimmte in seinem Sinne ab.\n\nDer Konflikt reicht über Grünheide hinaus: Wie viel Einfluss darf ein Management auf eine Betriebsratswahl nehmen? Das Betriebsverfassungsgesetz verbietet die Behinderung von Wahlen. Der Fall gilt als Testfall dafür, was passiert, wenn amerikanische Unternehmenskultur auf deutsche Mitbestimmung trifft – vor dem Hintergrund von Absatzkrise und hohen Krankenständen im Werk."
-  },
-  {
-    "name": "TGI-Gold (Helmut Kaltenegger)",
-    "folder": "Fälle",
-    "patterns": ["\\bTGI\\b", "\\bKaltenegger\\b", "\\bGold-?Rabatte?\\b"],
-    "summary": "Liechtensteiner Goldhändler TGI verspricht bis zu 72 Prozent Rabatt bei drei Jahren Wartezeit – Bafin prüft.",
-    "body": "Die Liechtensteiner TGI AG des Goldhändlers Helmut Kaltenegger verkauft Gold zu Kampfpreisen: Wer sich bereit erklärt, drei Jahre auf die Auslieferung zu warten, soll Rabatte von bis zu 72 Prozent auf den Goldpreis erhalten. Angeblich haben bereits 40.000 Menschen zugegriffen; rund 80 Millionen Euro an Rabatten will die TGI bereits gewährt haben. Kalteneggers Motto: „Geht nicht, gibt’s nicht.“ Für das Angebot wirbt unter anderem der Entertainer Oliver Pocher.\n\nDas Geschäftsmodell wirft Fragen auf: Wie kann ein Händler Gold dauerhaft weit unter Marktpreis liefern? Kritiker sehen Parallelen zu früheren Goldskandalen wie PIM Gold, bei dem 2019 rund drei Tonnen Gold fehlten und tausende Anleger geschädigt wurden. Auch dort wurden Rabatte und Wartezeiten mit angeblichen Einkaufsvorteilen begründet, bis das System kollabierte.\n\nDie deutsche Finanzaufsicht Bafin geht Hinweisen zum TGI-Geschäft nach, weil unklar ist, ob es sich um einen schlichten Warenkauf oder um ein erlaubnispflichtiges Einlagen- oder Anlagegeschäft handelt. Das Umfeld ist günstig für solche Angebote: Der Goldpreis stieg binnen eines Jahres um rund 50 Prozent, viele Sparer suchen den vermeintlich sicheren Hafen – und sind empfänglich für Offerten, die zu gut klingen, um wahr zu sein."
-  },
-  {
-    "name": "Wolf of High Street – Uwe Reppegather und Centrum",
-    "folder": "Fälle",
-    "patterns": ["\\bReppegather\\b", "\\bCentrum\\b", "\\bWolf of High Street\\b", "\\bKönig der Kö\\b"],
-    "summary": "Razzia in sechs Ländern 2026: Düsseldorfer Projektentwickler Reppegather unter Betrugs- und Bankrottverdacht.",
-    "body": "Uwe Reppegather arbeitete sich vom Hauptschüler zu einem der mächtigsten Projektentwickler Deutschlands hoch. Mit seiner Düsseldorfer Centrum-Gruppe bewegte er Milliarden, entwickelte Luxusimmobilien in Toplagen wie der Düsseldorfer Königsallee – daher die Spitznamen „König der Kö“ und „Wolf of High Street“. Er umgab sich mit Prominenten wie Boris Becker und Til Schweiger und pflegte einen Lebensstil mit Privatjet, Segelyacht und Finca auf Ibiza.\n\nHinter der Fassade türmten sich Schulden; die Centrum-Gruppe rutschte 2023 in die Insolvenz. Kurz zuvor ging die Ibiza-Villa – angeblich 30 Millionen Euro wert – für rund fünf Millionen Euro an seine Ehefrau. Offiziell besaß Reppegather kaum noch Vermögen, während im Hintergrund bereits neue Geschäfte anliefen.\n\nAm 26. März 2026 rückten in sechs Ländern mehr als 400 Beamte aus und durchsuchten 49 Objekte, darunter prachtvolle Anwesen, eine Cannabis-Firma und eine historische Segelyacht. Im Düsseldorfer Medienhafen sicherten Ermittler die Centrum-Zentrale; Reppegather wurde zeitgleich auf Ibiza von spanischen Spezialkräften festgenommen. Die Vorwürfe lauten Betrug, Bankrott und Untreue – Reppegather weist sie zurück. Nach Deutschland zurückgekehrt stellte er sich den Behörden und kam in Haft.\n\nDer Fall zeigt, wie ein Immobilienunternehmer trotz Milliardenschulden rasch wieder ins Geschäft zurückfand – und wo die Grenze zum strafbaren Bankrott verläuft."
-  },
-  {
-    "name": "Continental-Dieselskandal",
-    "folder": "Fälle",
-    "patterns": ["\\bContinental\\b", "\\bConti\\b", "\\bNoerr\\b"],
-    "min": 8,
-    "summary": "Zulieferer Continental: Software für manipulierte Abgaswerte, 300 Mio. Euro Kosten, Streit mit Kanzlei Noerr.",
-    "body": "Mehr als zehn Jahre nach Beginn des Dieselskandals rückte mit Continental ein zentraler Zulieferer in den Fokus. Der Hannoveraner Konzern lieferte Software für Motorsteuergeräte, die in Volkswagen-Dieselmotoren manipulierte Abgaswerte ermöglichte. Die Staatsanwaltschaft Hannover ermittelte ab 2020 gegen Mitarbeiter wegen Beihilfe zum Betrug und durchsuchte Standorte des Konzerns. Interne Untersuchungen legen nahe, dass einzelne Beschäftigte früh über kritische Funktionen informiert waren – wie weit das Wissen im Konzern reichte, blieb lange unklar.\n\n2024 akzeptierte Continental ein Bußgeld von 100 Millionen Euro wegen Verletzung der Aufsichtspflicht. Mehrere Verfahren gegen ehemalige Manager wurden eingestellt. Insgesamt belaufen sich die Kosten des Dieselskandals für Continental auf rund 300 Millionen Euro – Bußgeld, Anwaltshonorare, interne Aufklärung.\n\nUngewöhnlich ist das Nachspiel: Continental versucht, einen Teil der Kosten von der Kanzlei Noerr zurückzufordern, die der Konzern mit der internen Aufklärung beauftragt hatte. Im Kern geht es um die Höhe der Honorare und die Frage, ob die Kanzlei ihre Aufgabe angemessen erfüllt hat. Ein Rechtsstreit zwischen einem Dax-Konzern und seiner eigenen Aufklärungskanzlei ist selten und könnte Maßstäbe für künftige Compliance-Untersuchungen setzen. Der Ausgang ist offen."
-  },
-  {
-    "name": "Alaska-Ölbohrungen (Kay Rieck)",
-    "folder": "Fälle",
-    "patterns": ["\\bRiecks?\\b", "\\bDeutsche O[eö]l\\b", "\\bÖlbaron\\b", "\\bFurie\\b", "\\bKitchen Lights\\b"],
-    "summary": "„Ölbaron“ Kay Rieck sammelte Hunderte Millionen für Alaska-Bohrungen – 2026 Haft vom Landgericht Stuttgart.",
-    "body": "Vor rund 15 Jahren kam der Unternehmer Kay Rieck auf die Idee, mit Öl- und Gasbohrungen im US-Bundesstaat Alaska sich selbst und tausende Anleger reich zu machen. Über die Deutsche Oel & Gas AG und zugehörige Fonds und Beteiligungen sammelte er bei rund 10.000 Anlegern einen dreistelligen Millionenbetrag ein. Die operative Tochter Furie Operating Alaska förderte im Cook Inlet Erdgas aus dem Feld „Kitchen Lights“. Rieck wurde in den Medien als „Ölbaron“ gefeiert.\n\nKaum waren die ersten Bohrungen abgeschlossen, geriet das Wild-West-Abenteuer außer Kontrolle: Kostenexplosionen, Streit mit US-Behörden, Finanzierungslücken. 2019 beantragte Furie in den USA Gläubigerschutz, später folgte die Pleite der Deutsche Oel & Gas AG. Für die Anleger bedeutete das hohe Verluste.\n\nDie Staatsanwaltschaft Stuttgart erhob Anklage, unter anderem wegen Betrugs- und Untreuevorwürfen im Zusammenhang mit der Mittelverwendung und der Information der Anleger. Ende April 2026 verurteilte das Landgericht Stuttgart Rieck zu vier Jahren und acht Monaten Haft. Sein Anwalt kündigte an, das Urteil anzufechten.\n\nDer Fall vereint die typischen Zutaten eines Anlageskandals: ein charismatischer Gründer, eine verlockende Geschichte, intransparente Strukturen – und Gier, die laut Gericht in strafbares Verhalten mündete."
-  },
-  {
-    "name": "Zahnärzte-Versorgungswerk Berlin",
-    "folder": "Fälle",
-    "patterns": ["\\bVZB\\b", "\\bZahnärzte-?Versorgungswerk\\b", "\\bVersorgungswerk\\b", "\\bGarnelenzucht\\b", "\\bPershing\\b"],
-    "summary": "Das Versorgungswerk der Berliner Zahnärzte verlor über eine Milliarde Euro mit riskanten Direktinvestments.",
-    "body": "Das Versorgungswerk der Zahnärztekammer Berlin (VZB) verwaltet die Altersvorsorge tausender Zahnärztinnen und Zahnärzte. Statt konservativ anzulegen, setzte die Führung über Jahre auf riskante Direktinvestments – unter anderem in eine Recyclingfirma in Kalifornien, eine Garnelenzucht in Lübeck und weitere unternehmerische Beteiligungen. Am Ende steht ein Verlust von mehr als einer Milliarde Euro.\n\nInterne Gutachten, bislang unveröffentlichte Unterlagen und Gespräche mit Beteiligten zeichnen das Bild einer Organisation, deren Kontrollinstanzen die Risiken jahrelang übersahen. Eine Motorjacht vom Typ Pershing 5X und eine verräterische E-Mail des Vorsitzenden des Verwaltungsausschusses an den Direktor – „Das alles sind Interessenkonflikte, die ich Dir zuliebe akzeptiere“ – verdeutlichen die Verflechtungen zwischen Entscheidern und Investments.\n\nDas Versorgungswerk strebt inzwischen Schadenersatz in Milliardenhöhe an und geht gegen frühere Verantwortliche und Berater vor. Für die Mitglieder könnten die Einschnitte hart ausfallen: Rentenkürzungen oder höhere Beiträge stehen im Raum. Der Fall wirft grundsätzliche Fragen zur Aufsicht über berufsständische Versorgungswerke auf, die Milliarden verwalten, aber weniger streng reguliert sind als Versicherer – und bei denen ehrenamtliche Gremien hochkomplexe Anlageentscheidungen kontrollieren sollen."
-  },
-  {
-    "name": "HSH Nordbank (Cum-Ex)",
-    "folder": "Fälle",
-    "patterns": ["\\bHSH\\b", "\\bHSH Nordbank\\b", "\\bHamburg Commercial Bank\\b"],
-    "summary": "Cum-Ex bei der HSH Nordbank: 26 Beschuldigte, 112 Mio. Euro Schaden, nach acht Jahren Wechsel nach Hamburg.",
-    "body": "Die HSH Nordbank, die frühere Landesbank von Hamburg und Schleswig-Holstein, betrieb um 2008 bis 2011 Cum-Ex-Geschäfte, bei denen sich Beteiligte nie gezahlte Kapitalertragsteuer erstatten ließen. Die Bank zahlte später einen dreistelligen Millionenbetrag an den Fiskus zurück. 2018 wurde sie privatisiert und firmiert heute als Hamburg Commercial Bank.\n\nDie strafrechtliche Aufarbeitung zieht sich seit Jahren: Bereits 2014 lag der Fall bei der Staatsanwaltschaft Hamburg, die damals keinen Anlass für Ermittlungen sah. Stattdessen übernahm die Kölner Staatsanwaltschaft, die unter Anne Brorhilker zur zentralen Cum-Ex-Ermittlungsbehörde Deutschlands geworden war. Acht Jahre lang ermittelte Köln gegen 26 Beschuldigte wegen des Verdachts der besonders schweren Steuerhinterziehung; der mögliche Schaden liegt bei rund 112 Millionen Euro.\n\n2026 kam Köln zu dem Schluss, dass Hamburg zuständig sei, und bat die dortigen Kollegen offiziell um Übernahme. Hamburg bestätigte den Eingang des Ersuchens, nennt aber unter Verweis auf Ermittlungen und Steuergeheimnis keine Details. Kritiker sehen darin den Versuch, einen unbequemen Fall loszuwerden – und befürchten, dass in Hamburg, das in der Cum-Ex-Affäre um die Warburg-Bank bereits als „Paradies für Steuerhinterzieher“ galt, Verjährung droht. Der Fall steht für die zersplitterte und schleppende Verfolgung des größten Steuerskandals der Bundesrepublik."
-  },
-  {
-    "name": "Operation Chargeback",
-    "folder": "Fälle",
-    "patterns": ["\\bChargeback\\b", "\\bUnzer\\b", "\\bH[üu]llemann\\b", "\\bHäuser-?Axtner\\b"],
-    "summary": "Razzia 2025 in neun Ländern: 4,3 Mio. Opfer, 300 Mio. Euro Schaden durch Fake-Abos – Spur zu Marsalek.",
-    "body": "Am 4. November 2025 durchsuchten Ermittler in Deutschland und acht weiteren Ländern mehr als 60 Objekte und nahmen 18 Verdächtige fest. Die von Europol koordinierten Ermittlungen tragen den Namen „Operation Chargeback“ – nach dem Begriff für Rückbuchungen von Kreditkartenzahlungen. Im Zentrum stehen Millionen unrechtmäßiger Kreditkartenbelastungen über gefälschte Online-Abonnements, Hunderte mutmaßliche Scheinfirmen und der Verdacht, dass Teile des deutschen Zahlungsverkehrs gezielt für kriminelle Geschäfte missbraucht wurden. 4,3 Millionen Menschen aus 193 Ländern sollen betroffen sein, der Schaden soll über 300 Millionen Euro liegen.\n\nDie Spur führt zu großen Zahlungsdienstleistern wie Unzer, Payone, Concardis und Wirecard. Ehemalige Manager dieser Häuser sollen die Abwicklung der Zahlungen ermöglicht und die Herkunft der Umsätze verschleiert haben; genannt wird unter anderem der frühere Unzer-CEO Mirko Hüllemann. Eine ehemalige Wirecard-Managerin wurde nach Deutschland ausgeliefert. Ermittler sprechen von einer Art parallelem Finanzsystem.\n\nErneut taucht der Name Jan Marsalek auf: Der flüchtige Ex-Wirecard-Vorstand soll mit seinem Umfeld – darunter ein als „Pornobaron“ bekannter Geschäftsmann – an dem Netzwerk beteiligt gewesen sein. Damit verbindet Operation Chargeback die aktuellen Ermittlungen mit dem Wirecard-Komplex und zeigt, dass dessen Strukturen nach der Pleite 2020 offenbar weiterlebten."
-  },
-  {
-    "name": "Deutsche Finance Gruppe",
-    "folder": "Fälle",
-    "patterns": ["\\bDeutsche[nr]? Finance\\b", "\\bDF Deutsche Finance\\b"],
-    "summary": "Bafin schickt 2026 Sonderbeauftragten zur Deutsche Finance: 50.000 Anleger, 1,5 Mrd. Euro, Millionenverluste.",
-    "body": "Die Münchner Deutsche Finance Gruppe ist ein großer Player im Immobilien- und Fondsgeschäft. Rund 50.000 Privatanleger haben etwa 1,5 Milliarden Euro in ihre Fonds investiert, hinzu kommen institutionelle Investoren wie die Bayerische Versorgungskammer. Nach eigenen Angaben verwaltet die Gruppe Vermögenswerte von insgesamt zwölf Milliarden Dollar, darunter Bürotürme in den USA und Großbritannien.\n\nMitte Juni 2026 griff die Finanzaufsicht Bafin zu einem drastischen und ungewöhnlichen Mittel: Sie entsandte einen Sonderbeauftragten in die Kapitalverwaltungsgesellschaft. Mit seiner Hilfe prüfen die Aufseher, ob die Fonds für Privatanleger ordnungsgemäß verwaltet werden.\n\nZuvor hatten sich die Probleme gehäuft: Geschäftsberichte wiesen zweistellige Millionenverluste aus, Wirtschaftsprüfer äußerten Zweifel, ob bestimmte Fonds fortgeführt werden können. Recherchen des Handelsblatts zeigten verschachtelte Fondskonstruktionen, bei denen Privatanlegerfonds in institutionelle Vehikel und diese wiederum in einzelne Objekte investieren – eine Struktur, die Gebühren auf mehreren Ebenen erzeugt und Risiken verschleiern kann. Die Bayerische Versorgungskammer trennte sich von einer US-Immobilie aus dem Umfeld.\n\nFür Anleger ist entscheidend, ob die Bewertungen der Immobilien in Zeiten gestiegener Zinsen und leerstehender Büros noch tragen. Der Fall gilt als Prüfstein für die Aufsicht über geschlossene Publikumsfonds."
-  },
-  {
-    "name": "Volksbank Brawo",
-    "folder": "Fälle",
-    "patterns": ["\\bBrawo\\b", "\\bBraunschweig Wolfsburg\\b", "\\bBrinkmanns?\\b"],
-    "summary": "Volksbank Braunschweig Wolfsburg: Hunderte Beteiligungen, Millionenstützung droht, Untreue-Ermittlungen 2026.",
-    "body": "Volksbanken stehen für regionale Nähe und konservatives Wirtschaften. Die Volksbank Braunschweig Wolfsburg (Brawo) ging einen anderen Weg: Über ihre Beteiligungsholding war die Genossenschaftsbank an Hunderten Unternehmen beteiligt – von Restaurants über Fitnessstudios und Fintechs bis zu Luxusimmobilien und Hotels. Architekt dieses Modells war der langjährige Vorstandschef Jürgen Brinkmann, der die Bank über zwei Jahrzehnte prägte und zu einer der größten Volksbanken Deutschlands ausbaute.\n\n2026 zeigte sich die Kehrseite: Einige Beteiligungen sind insolvent, andere – vor allem Immobilien – könnten deutlich zu hoch bewertet sein. Die Bank muss voraussichtlich mit Millionen aus dem Stützungsfonds der genossenschaftlichen Sicherungseinrichtung gestützt werden. Die Staatsanwaltschaft Braunschweig ermittelt wegen des Verdachts der Untreue im Umfeld der Bank. Brinkmann musste seinen Posten räumen; auch seine Frau verließ eine Banktochter.\n\nOffen ist, welche Kontrollmechanismen versagt haben – Aufsichtsrat, Genossenschaftsverband und Bankenaufsicht hatten das riskante Geschäftsmodell jahrelang geduldet. Der Fall trifft das Genossenschaftssystem in einer sensiblen Phase, da zuletzt auch andere Volksbanken, etwa in Düsseldorf Neuss, Dortmund oder Köln Bonn, mit Skandalen und Affären Schlagzeilen machten. Er wirft die Frage auf, ob das Prinzip der Selbstkontrolle im Verbund noch trägt."
-  },
-  {
-    "name": "Hedera-Immobiliengruppe",
-    "folder": "Fälle",
-    "patterns": ["\\bHedera\\b", "\\bHedera Bauwert\\b", "\\bVerius\\b"],
-    "summary": "Berliner Hedera Bauwert: gefälschte Rechnungen, Erpressung, Gewalt – und ein 1,2-Mrd.-Fonds ohne Geld.",
-    "body": "Die Hedera Bauwert aus Berlin wuchs binnen zehn Jahren aus dem Nichts zu einer Immobiliengruppe mit zahlreichen Bauprojekten heran – und geriet dann in eine schwere Krise. Ihr Chef stand im Sommer 2026 als Zeuge in einem schwer gesicherten Saal des Strafgerichts Moabit und schilderte, wie maskierte Männer ihn überfallen und zusammengeschlagen hätten. Er werde erpresst, sagte er, und wisse auch von wem. Damit bekam ein Wirtschaftsfall eine Dimension von Gewaltkriminalität und organisierter Kriminalität.\n\nParallel weitete sich ein Skandal um gefälschte Rechnungen bei Hedera aus. Ein Anwalt der Gruppe räumte ein, möglicherweise sei bislang nur die Spitze des Eisbergs erkennbar. Gläubiger, Baufirmen und Investoren fürchten um ihr Geld.\n\nBesonders brisant ist die Verbindung zum 1,2 Milliarden Euro schweren Verius-Fonds. Er sollte einst die Beiträge deutscher Krankenkassen und kassenärztlicher Vereinigungen anlegen – Gelder aus dem Gesundheitswesen also. Der Fonds verlängerte trotz Existenzkrise Kredite über 100 Millionen Euro an Projekte aus dem Hedera-Umfeld; sein Vermögen hat sich offenbar weitgehend in Luft aufgelöst. Die Verluste treffen damit Institutionen, die mit Versichertengeldern arbeiten.\n\nDer Fall verbindet Immobilienkrise, Betrugsverdacht und Gewalt und zählt zu den außergewöhnlichsten Wirtschaftskrimis Berlins."
-  },
-  {
-    "name": "Teldafax",
-    "folder": "Fälle",
-    "patterns": ["\\bTelda[\\s-]?fax\\b", "\\bTelda[\\s-]?facks\\b", "\\bTeldafax\\b"],
-    "summary": "Energieanbieter Teldafax: Vorkasse-Modell, Promi-Werbung, Insolvenz 2011 mit 656 Mio. Euro Forderungen.",
-    "body": "Teldafax aus Troisdorf war in den Nullerjahren einer der am schnellsten wachsenden Strom- und Gasanbieter Deutschlands. Das Geschäftsmodell beruhte auf Vorkasse: Kunden zahlten ihren Strom im Voraus und bekamen dafür günstige Tarife. Das Wachstum wurde mit aggressivem Vertrieb und Prominenten als Vertrauensgaranten befeuert – von Rudi Völler über Thomas Gottschalk bis zum Biathleten Ole Einar Björndalen; zudem war Teldafax Trikotsponsor von Bayer 04 Leverkusen.\n\nIntern wussten Vorstand und Aufsichtsrat spätestens im Sommer 2009, dass das Unternehmen zahlungsunfähig war: Das Geld der Vorkasse-Kunden wurde für das laufende Geschäft und die Gewinnung neuer Kunden verbraucht. Die Bundesnetzagentur hatte früh gewarnt, das Hauptzollamt die Bücher durchleuchtet. Ein verurteilter Betrüger nahm aus dem Gefängnis heraus Einfluss auf das Unternehmen. Dennoch lief das System weiter.\n\nAm 14. Juni 2011 stellte Teldafax beim Amtsgericht Bonn Insolvenzantrag. Hunderttausende Kunden waren betroffen, viele hatten Monate im Voraus bezahlt. Die Gesamtforderungen der Gläubiger beliefen sich auf 656 Millionen Euro – eine der größten Pleiten eines Energieanbieters. 2017 verurteilte das Landgericht Bonn frühere Vorstände unter anderem wegen Insolvenzverschleppung und Bankrotts zu Haftstrafen.\n\nAufgedeckt hatten den Fall 2010 die Handelsblatt-Reporter Sönke Iwersen und Jürgen Flauger. Teldafax gilt als Lehrstück dafür, wie erzwungenes Wachstum und Vorkasse ein Schneeballsystem erzeugen können."
-  },
-  {
-    "name": "Volksbank Köln Bonn (Bordell-Kredit)",
-    "folder": "Fälle",
-    "patterns": ["\\bVolksbank Köln[\\s-]?Bonn\\b", "\\bPascha\\b", "\\bBrockhaus\\b"],
-    "summary": "Kredit der Volksbank Köln Bonn fürs Großbordell Pascha: Ermittlungen gegen Vorstand, Aufsichtsräte gehen.",
-    "body": "Die Volksbank Köln Bonn, eine der größten Genossenschaftsbanken im Rheinland, finanzierte mit einem Kredit das Kölner Großbordell „Pascha“ – ein Geschäft, das an sich nicht verboten ist, für eine Volksbank aber ungewöhnlich war. Womöglich wäre es bei einem diskreten Bankgeschäft geblieben, hätte nicht der Anwalt Claus Brockhaus, Beschuldigter in der NRW-Schleuser-Affäre, in Vernehmungen bei der Staatsanwaltschaft darüber berichtet.\n\nSeither steht die Bank unter Druck. Gegen ein Vorstandsmitglied ermittelt die Staatsanwaltschaft unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr; der Manager wurde beurlaubt. Zunächst führte die Staatsanwaltschaft Düsseldorf das Verfahren, inzwischen liegt es bei der Staatsanwaltschaft Köln. Im Vorstand und im Aufsichtsrat kam es zu Verwerfungen über die Frage, wie der Kredit zustande kam und wie gründlich die Vorgänge aufgeklärt wurden – vier Aufsichtsräte warfen das Handtuch.\n\nIm Zentrum stehen die Fragen, welche Rolle der Bankvorstand bei der Kreditvergabe spielte, ob persönliche Vorteile im Spiel waren und ob die Volksbank Köln Bonn ein grundsätzliches Compliance-Problem hat. Im genossenschaftlichen Lager wird der Fall als peinlich empfunden, zumal er in eine Reihe von Volksbank-Affären fällt – etwa bei der Volksbank Düsseldorf Neuss und der Volksbank Brawo – und das Vertrauen in die Selbstkontrolle des Verbunds belastet."
-  },
-  {
-    "name": "Hendrik Holt",
-    "folder": "Fälle",
-    "patterns": ["\\bHendrik Holt\\b", "\\bHolt[\\s-]?Holding\\b", "\\bFamilie Holt\\b", "\\bHolts\\b", "\\bWindpark-?Betr[üu]g"],
-    "summary": "Windpark-Hochstapler Hendrik Holt: erfundene Projekte, Millionen von Energiekonzernen, 2026 auf der Flucht.",
-    "body": "Hendrik Holt trat als junger Nachwuchsunternehmer aus dem Emsland auf, der mit der Familienfirma Holt Holding Windparks erschließen wollte. Europäische Energiekonzerne zahlten ihm Millionen für Projektrechte und Vorverträge. Doch die Projekte existierten großteils nur auf dem Papier: Holt und Mitglieder seiner Familie hatten tausende Dokumente gefälscht – Genehmigungen, Verträge, Gutachten – und ganze Windparks erfunden.\n\n2020 flog der Schwindel auf. Die Polizei verhaftete Holt in seiner Suite im Berliner Nobelhotel Adlon und verhinderte in letzter Minute einen geplanten dreistelligen Millionen-Coup. Das Landgericht Osnabrück verurteilte ihn als Betrüger und Hochstapler; nach einem umfassenden Geständnis erhielt er zunächst sieben Jahre Haft, in weiteren Verfahren wuchs die Gesamtstrafe auf fast neun Jahre. Auch andere Familienmitglieder mussten ins Gefängnis.\n\nUrsprünglich sollte Holt bis Ende 2028 in Berlin einsitzen. Ende August 2026 kehrte er jedoch von einem Freigang nicht in die Justizvollzugsanstalt zurück. Seither jagen ihn Zielfahnder der Polizei. Noch aus der Haft heraus war es Holt gelungen, sich deutschlandweit als Millionenbetrüger bekannt zu machen – etwa durch Interviews und Medienauftritte.\n\nDer Fall zeigt, wie leicht sich große Konzerne im Boom der Energiewende von professionell gefälschten Unterlagen täuschen ließen – und wie ein Hochstapler aus der Inszenierung selbst Kapital schlug."
-  },
-  {
-    "name": "Pkw-Maut und Andreas Scheuer",
-    "folder": "Fälle",
-    "patterns": ["\\bScheuers?\\b", "\\bPkw-?Maut\\b", "\\bAusländermaut\\b", "\\bInfrastrukturabgabe\\b"],
-    "summary": "Gescheiterte Pkw-Maut: 243 Mio. Euro Schadensersatz – 2026 Prozess gegen Scheuer wegen Falschaussage.",
-    "body": "Die Pkw-Maut war ein Prestigeprojekt der CSU: Ausländische Autofahrer sollten für die Nutzung deutscher Autobahnen zahlen, Inländer über die Kfz-Steuer entlastet werden. Verkehrsminister Andreas Scheuer schloss Ende 2018 die Betreiberverträge mit den Unternehmen Kapsch und CTS Eventim – noch bevor der Europäische Gerichtshof über die Zulässigkeit entschieden hatte. Im Juni 2019 kippte der EuGH die Maut als diskriminierend; der Bund kündigte die Verträge.\n\nDie Betreiber forderten Schadensersatz. 2023 sprach ihnen ein Schiedsgericht rund 243 Millionen Euro zu, die der Bund zahlen musste. Ein Untersuchungsausschuss des Bundestags befasste sich 2020 und 2021 mit der Frage, warum die Verträge vorzeitig unterschrieben wurden. Umstritten ist ein Treffen im November 2018, bei dem die Betreiber angeboten haben sollen, mit dem Vertragsabschluss bis zum EuGH-Urteil zu warten. Scheuer bestritt ein solches Angebot.\n\nDie Staatsanwaltschaft Berlin wirft Scheuer und seinem damaligen Staatssekretär vor, den Untersuchungsausschuss wider besseres Wissen falsch informiert zu haben – uneidliche Falschaussage. Im September 2026 begann der Prozess vor dem Landgericht Berlin, angesetzt auf zwölf Verhandlungstage. Scheuer bestreitet die Vorwürfe.\n\nDer Fall hat juristische und politische Bedeutung: Erstmals muss sich ein früherer Bundesminister wegen seiner Aussage vor einem Untersuchungsausschuss strafrechtlich verantworten."
-  },
-  {
-    "name": "Wanja Oberhof",
-    "folder": "Fälle",
-    "patterns": ["\\bOberhofs?\\b", "\\bWanja\\b", "\\bSocial Chain\\b", "\\bKleinfeld\\b"],
-    "summary": "Ex-Social-Chain-Chef Wanja Oberhof in den USA festgenommen: Vorwurf Investorenbetrug, Millionen-Kaution.",
-    "body": "Wanja Oberhof machte früh Karriere als Unternehmer und Investor. Er gründete und finanzierte zahlreiche Firmen, wurde Gesellschafter und Vorstandschef der Berliner Social Chain AG – einer börsennotierten E-Commerce- und Social-Media-Gruppe, die 2023 in die Insolvenz ging – und baute gemeinsam mit seiner Frau Anabel Oelmann ein neues Geschäft im Gesundheits- und Wellnessbereich auf. In Deutschland galt er als Wirtschafts-Wunderkind.\n\n2026 geriet die Erfolgsgeschichte ins Wanken: Oberhof wurde in den USA festgenommen und verbrachte neun Tage im berüchtigten Metropolitan Detention Center in Brooklyn. Gegen eine Millionen-Kaution und unter strengen Auflagen kam er wieder frei; zwei deutsche Unternehmer bürgen für ihn.\n\nDer Vorwurf der US-Justiz wiegt schwer: Oberhof soll Investoren betrogen und deren Geld für private Zwecke verwendet haben. Zu den Geldgebern, die ihn belasten, zählt der frühere Siemens-Chef Klaus Kleinfeld. Oberhof weist die Vorwürfe zurück. Was genau die US-Ermittler ihm vorwerfen, ergibt sich aus der Anklage, deren Details nur teilweise bekannt sind.\n\nDer Fall ist ungewöhnlich, weil ein deutscher Unternehmer in den USA – mit deutlich härteren Haftbedingungen und Strafandrohungen – vor einem Strafgericht steht. Er wirft zudem ein Licht auf die Gründer- und Investorenszene, in der Prominenz und Netzwerke oft mehr zählten als belastbare Zahlen."
-  },
-  {
-    "name": "KMW-Provisionen (KNDS)",
-    "folder": "Fälle",
-    "patterns": ["\\bKMW\\b", "\\bKrauss[\\s-]?Maffei\\b", "\\bKNDS\\b", "\\bWegmann\\b"],
-    "summary": "Leopard-Deal mit Katar 2013 (1,9 Mrd. Euro): dubiose KMW-Provisionen holen KNDS beim Börsengang ein.",
-    "body": "2013 verkaufte der deutsche Rüstungskonzern Krauss-Maffei Wegmann (KMW) 62 Leopard-2-Panzer, Panzerhaubitzen und ein ganzes Arsenal weiterer Militärtechnik an Katar – für rund 1,9 Milliarden Euro. Der Deal wurde unter Kanzlerin Angela Merkel eingefädelt und galt als einer der größten deutschen Rüstungsexporte in den Nahen Osten. „Von einer Zurückhaltung wie bei Waffengeschäften mit anderen Ländern des Mittleren Ostens war hier nichts zu spüren“, kommentierte ein Branchenkenner.\n\nHandelsblatt-Reporter Sönke Iwersen und Lars-Marten Nagel rollten den Fall einige Jahre später auf. Sie werteten Gerichtsakten aus, trafen Insider und stießen auf ein Geflecht von Firmen und hohen Provisionszahlungen rund um das Geschäft. Davon profitierten offenbar auch ein katarischer Geheimdienstgeneral und seine Familie; der Mann arbeitet heute als Botschafter in Moskau. Über die Provisionen wurde vor deutschen Gerichten gestritten, weil Vermittler ihre Honorare einklagten.\n\nAnfang 2026 kochte der alte Fall wieder hoch – zu einem heiklen Zeitpunkt: KNDS, der 2015 aus der Fusion von KMW mit dem französischen Staatsunternehmen Nexter hervorgegangene Panzerbauer, bereitete einen Börsengang vor. Fragen nach Compliance und Altlasten aus Rüstungsgeschäften mit Golfstaaten belasten die Equity Story.\n\nDer Fall zeigt die undurchsichtigen Nebengeschäfte des internationalen Waffenhandels und ihre späten Folgen."
-  },
-  {
-    "name": "Tesla-Experiment (autonomes Fahren)",
-    "folder": "Fälle",
-    "patterns": ["\\bTesla-?Experiment\\b", "\\bFull[\\s-]?Self[\\s-]?Driving\\b", "\\bFSD\\b", "\\bPichler\\b", "\\bMissy Cummings\\b", "\\bOptimus\\b"],
-    "summary": "Doku „Elon Musk Uncovered“: Autopilot-Unfälle, FSD-Zulassung in Europa 2026, gebrochene Versprechen an Käufer.",
-    "body": "Im April 2019 verkündete Elon Musk, Teslas Autopilot sei etwa doppelt so sicher wie ein menschlicher Fahrer. Drei Tage später raste in Key Largo, Florida, ein Tesla Model S mit eingeschaltetem Autopiloten über eine Kreuzung und erfasste ein junges Paar; die 22-jährige Naibel Benavides starb. Im August 2025 verurteilte eine Jury in Miami Tesla zu 243 Millionen Dollar Schadensersatz.\n\nDer Fall ist einer von mehreren, die der Dokumentarfilm „Elon Musk Uncovered – Das Tesla-Experiment“ von Andreas Pichler erzählt. Grundlage sind die Tesla-Files: rund 100 Gigabyte interner Daten, die ein Whistleblower Ende 2022 dem Handelsblatt zuspielte. Darin finden sich tausende Kundenbeschwerden über plötzliches Beschleunigen, Phantombremsungen und Autopilot-Probleme. Die Robotik-Professorin Missy Cummings, Beraterin der US-Verkehrsbehörde NHTSA, warnt: „Eine Halluzination bei hoher Geschwindigkeit ist tödlich.“\n\nIm April 2026 genehmigte die niederländische Zulassungsbehörde RDW erstmals „Full Self-Driving“ (FSD) in Europa. Doch auf rund vier Millionen älteren Teslas läuft die Software nicht – obwohl deren Käufern genau diese Fähigkeit zugesichert und teuer verkauft worden war. Die Frage, was aus Teslas Versprechen wurde, beschäftigt Gerichte und Aufsichtsbehörden in den USA und Europa.\n\nHinzu kommen Berichte aus Grünheide, wo Beschäftigte mit Kamera-Rucksäcken Bewegungsdaten liefern sollen, um den humanoiden Roboter Optimus zu trainieren – ein weiteres Experiment, bei dem Menschen als Versuchskaninchen dienen."
-  },
-  {
-    "name": "Tesla-Autopilot-Prozess (Benavides)",
-    "folder": "Fälle",
-    "patterns": ["\\bAutopilot-?(Prozess|Urteil)\\b", "\\bBenavides\\b", "\\bKey Largo\\b", "\\bAngulo\\b", "\\bMcGee\\b"],
-    "summary": "Tödlicher Autopilot-Unfall in Florida 2019: Jury verurteilt Tesla 2025 zu über 240 Mio. Dollar Schadensersatz.",
-    "body": "Am 25. April 2019 raste in Key Largo, Florida, ein Tesla Model S mit aktiviertem Autopiloten über ein Stoppschild und eine Kreuzung und rammte ein geparktes Auto, neben dem ein junges Paar in den Sternenhimmel schaute. Die 22-jährige Naibel Benavides Leon starb, ihr Freund Dillon Angulo wurde schwer verletzt. Der Fahrer hatte sich nach seinem heruntergefallenen Handy gebückt und darauf vertraut, dass das Assistenzsystem reagieren würde.\n\nIm Sommer 2025 verhandelte ein Bundesgericht in Miami die Klage der Hinterbliebenen und des Überlebenden. Am 1. August 2025 befand die Jury Tesla für mitverantwortlich und sprach den Klägern rund 243 Millionen Dollar zu – rund 43 Millionen Dollar Schadensersatz, an dem Tesla zu einem Drittel beteiligt wird, sowie 200 Millionen Dollar Strafschadensersatz. Es war das erste Jury-Urteil gegen Tesla wegen eines tödlichen Autopilot-Unfalls; der Konzern kündigte Berufung an.\n\nIm Prozess konnten die Kläger belegen, dass der Autopilot die Kreuzung nicht erkannte und nicht bremste. Brisant war zudem der Vorwurf, Tesla habe entscheidende Unfalldaten – den sogenannten Kollisions-Snapshot – zunächst verschwiegen; erst ein Sachverständiger fand die Daten auf Tesla-Servern.\n\nDas Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Namen „Autopilot“ und Musks Sicherheitsversprechen infrage stellt. Es stützt sich auch auf Erkenntnisse aus den Tesla-Files, die tausende Kundenbeschwerden über das System dokumentieren."
-  },
-  {
-    "name": "Daniel Starr",
-    "folder": "Fälle",
-    "patterns": ["\\bDaniel Starr\\b", "\\bStarrs?\\b"],
-    "min": 8,
-    "summary": "Bonner Staatsanwälte jagen US-Unternehmer Daniel Starr wegen Steuerhinterziehung – Haftbefehl rechtswidrig.",
-    "body": "Daniel Starr ist ein US-amerikanischer Tech-Unternehmer und Investor. Er gründete, kaufte und verkaufte Dutzende Firmen, spendete Millionen an die Ukraine und verkaufte eine Villa in Beverly Hills an die Sängerin Rihanna. Seit rund 2020 ermittelt die Staatsanwaltschaft Bonn gegen ihn – der Vorwurf lautet Steuerhinterziehung im Zusammenhang mit früheren Geschäftsaktivitäten in Deutschland.\n\nIm November 2022 eskalierte der Fall: Auf dem Pariser Flughafen stürmten schwer bewaffnete Polizisten Starrs Privatjet und nahmen ihn fest. Grundlage war ein Europäischer Haftbefehl der deutschen Ermittler, der später gerichtlich als rechtswidrig aufgehoben wurde. Starr saß zeitweise in Auslieferungshaft, ohne nach eigener Darstellung jahrelang zu erfahren, was ihm konkret vorgeworfen wird.\n\nDas Verfahren sticht durch seine Härte heraus: Zwangsmaßnahmen, internationale Fahndung, lange Dauer – bei einem Beschuldigten, der sich kooperationsbereit zeigte. Starr fordert inzwischen Schadensersatz in Milliardenhöhe vom Land Nordrhein-Westfalen. Politiker aus dem Umfeld von Donald Trump schalteten sich ein und kritisierten die Methoden der deutschen Strafverfolger – der Fall wurde zum Politikum zwischen Washington und Berlin.\n\nEr wirft die Frage auf, wie verhältnismäßig deutsche Staatsanwaltschaften bei Steuerverfahren gegen Ausländer vorgehen und welche Folgen ein rechtswidriger Haftbefehl für die Betroffenen hat."
-  },
-  {
-    "name": "Megajachten-Sanktionen",
-    "folder": "Fälle",
-    "patterns": ["\\b(Mega|Super)[\\s-]?(j|y)acht", "\\bDilbar\\b", "\\bAmadea\\b", "\\bScheherazade\\b", "\\bUsmanow\\b", "\\bUsmanov\\b"],
-    "summary": "Sanktionen gegen Oligarchen-Jachten seit 2022: blockierte Docks, Eignerstreit, Millionenkosten – kaum Wirkung.",
-    "body": "Nach dem russischen Überfall auf die Ukraine 2022 kündigten westliche Regierungen an, Oligarchen aus Putins Umfeld ihre Megajachten, Privatjets und Luxusvillen zu nehmen. US-Präsident Joe Biden versprach im Fernsehen, die Jachten festzusetzen, zu beschlagnahmen oder einzufrieren. Der Gedanke: Wer die Reichen trifft, nimmt Putin die Unterstützung.\n\nDrei Jahre später fällt die Bilanz ernüchternd aus. Zahlreiche Jachten liegen in europäischen Häfen fest – etwa die „Dilbar“, eines der größten Motorschiffe der Welt, die seit 2022 in Hamburg blockiert ist und einer Schwester des Oligarchen Alischer Usmanow zugerechnet wird. Die „Amadea“ wurde von US-Behörden auf Fidschi beschlagnahmt, die „Scheherazade“ in Italien festgesetzt. Doch Einfrieren ist nicht Enteignen: Ohne strafrechtliche Verurteilung dürfen die Schiffe in der EU nicht verwertet werden.\n\nStattdessen entstehen hohe Kosten: Die Unterhaltung einer Megajacht verschlingt Millionen pro Jahr, Werften blockieren Docks, Hafenbetreiber streiten um Liegegebühren. Vor Gerichten tobt der Streit über die wahren Eigner, die sich hinter Briefkastenfirmen und Treuhändern verbergen. Mancher Oligarch wurde von Sanktionslisten gestrichen, manche Jacht wechselte formal den Besitzer.\n\nDie Recherche des Handelsblatts zeigt, dass die Sanktionen symbolpolitisch wirkten, praktisch aber an rechtlichen Hürden, Eigentumsverschleierung und mangelnder Durchsetzung scheitern."
-  },
-  {
-    "name": "Syntellix und Utz Claassen",
-    "folder": "Fälle",
-    "patterns": ["\\bSyntellix\\b", "\\bClaassen\\b", "\\bFitschen\\b"],
-    "summary": "Medizintechnikfirma Syntellix: Betrugs- und Insolvenzverschleppungsverdacht gegen Ex-EnBW-Chef Utz Claassen.",
-    "body": "Utz Claassen galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Studium in Oxford, McKinsey, Vorstandsposten bei Volkswagen und Sartorius, später Vorstandschef des Energiekonzerns EnBW. Er pflegte das Image des knallharten Sanierers – und geriet immer wieder in Streit, etwa um Abfindungen und Pensionen, die ihm Vorwürfe der Abzocke einbrachten.\n\nSeit 2008 führt Claassen die von ihm gegründete Medizintechnikfirma Syntellix in Hannover, die Implantate aus abbaubarem Magnesium entwickelt. Das Produkt gilt als innovativ, doch das Unternehmen fiel über Jahre vor allem durch große Versprechen, verfehlte Ziele, nicht gezahlte Gehälter und offene Rechnungen auf. Die Staatsanwaltschaft Hannover ermittelt gegen Claassen wegen des Verdachts des Betrugs und der Insolvenzverschleppung; 2025 wurden Geschäftsräume durchsucht und die Ermittlungen ausgeweitet.\n\nClaassen weist die Vorwürfe empört zurück und sieht sich als Opfer: Der frühere Deutsche-Bank-Chef Jürgen Fitschen, zeitweise Aufsichtsrat bei Syntellix, habe die Firma mit einem „Fünf-Stufen-Plan“ zerstören wollen. Claassen verklagte Fitschen auf 68 Millionen Euro Schadensersatz.\n\nDer Fall zeichnet das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden – und wirft die Frage auf, wie aus einem Überflieger, dem einst alle Türen offenstanden, ein Beschuldigter in einem Wirtschaftsstrafverfahren wurde."
-  },
-  {
-    "name": "Fraunhofer-Spesenaffäre",
-    "folder": "Fälle",
-    "patterns": ["\\bFraunhofer\\b", "\\bNeugebauer\\b", "\\bSpesenaffäre\\b", "\\bSpesenskandal\\b"],
-    "summary": "Fraunhofer-Gesellschaft: Bundesrechnungshof rügt Spesen- und Reisekostenverstöße der Spitze, Untreue-Verdacht.",
-    "body": "Die Fraunhofer-Gesellschaft ist mit rund 30.000 Beschäftigten und Milliardenbudgets aus Bund und Ländern Europas größte Organisation für angewandte Forschung. 2023 stellte der Bundesrechnungshof fest, dass Führungskräfte jahrelang gegen Spesen- und Reisekostenregeln verstoßen hatten: teure Hotels, Reisen, Dienstwagen, Bewirtungen und Veranstaltungen, die mit Steuergeld finanziert wurden. Das Ergebnis der Untersuchung war verheerend.\n\nIm Zentrum stand der damalige Präsident Reimund Neugebauer, der sein Budget offenbar immer wieder überschritten und sich teure Eskapaden gegönnt haben soll. Er musste die Organisation vorzeitig verlassen. Die Staatsanwaltschaft ermittelt wegen Untreue. Für Fragen sorgt auch die Aufarbeitung: Eine heutige Vorständin war ausgerechnet für die Bereiche verantwortlich, in denen Regeln gebrochen wurden – andere verloren ihre Jobs, sie machte Karriere.\n\nRecherchen des Handelsblatts zeigten zudem, dass die Anwaltshonorare für die Aufarbeitung den eigentlichen Schaden deutlich übersteigen und dass Aufträge an eine PR-Agentur Fragen aufwerfen. Kritiker sehen ein Versagen der Kontrollmechanismen: Senat, Kuratorium und das Bundesforschungsministerium als wichtigster Geldgeber griffen lange nicht ein.\n\nDer Skandal beschädigte die Reputation eines Leuchtturms der deutschen Wissenschaft und wirft ein Licht auf die Führungskultur in öffentlich finanzierten Forschungseinrichtungen, die weniger Transparenzpflichten haben als börsennotierte Unternehmen."
-  },
-  {
-    "name": "Henry O’Sullivan",
-    "folder": "Fälle",
-    "patterns": ["\\bO.?Sullivan\\b", "\\bOsullivan\\b", "\\bJames Henry\\b"],
-    "summary": "Marsaleks Schattenmann: Henry O’Sullivan in Singapur wegen gefälschter Saldenbestätigungen verurteilt.",
-    "body": "James Henry O’Sullivan gilt als heimlicher Strippenzieher des Wirecard-Skandals. Der britische Geschäftsmann hatte nie eine offizielle Funktion bei dem Zahlungsdienstleister, fädelte als externer Berater aber vor allem in Asien zahlreiche Deals ein – etwa Übernahmen in Indien und Südostasien, bei denen Wirecard überhöhte Preise zahlte und Geld in dunklen Kanälen versickerte. Mit dem damaligen Vorstand Jan Marsalek verband ihn eine enge Freundschaft; beide feierten viele Nächte durch.\n\nEnde 2025 sprach ein Gericht in Singapur O’Sullivan und einen Komplizen wegen Kontenfälschungen in Milliardenhöhe schuldig. Das Urteil zeichnete detailliert nach, wie O’Sullivan falsche Saldenbestätigungen für jene Treuhandkonten organisierte, auf denen die angeblichen Wirecard-Milliarden liegen sollten. Dass diese 1,9 Milliarden Euro nicht existierten, führte im Juni 2020 zum Zusammenbruch des Dax-Konzerns und wenige Tage später zur Insolvenz.\n\nIn Chats fluchte O’Sullivan über die „deutschen Bastarde“ – gemeint waren offenbar Wirecard-Manager und Prüfer, die unbequeme Fragen stellten. Deutsche Ermittler führen ihn seit Jahren als Beschuldigten; eine Auslieferung scheiterte bislang.\n\nDer Fall zeigt, wie Wirecard über ein Netz externer Vertrauter funktionierte, die Scheingeschäfte und gefälschte Belege lieferten – und wie wenig die offiziellen Kontrollinstanzen davon mitbekamen."
-  },
-  {
-    "name": "Falscher Baron von Krupp",
-    "folder": "Fälle",
-    "patterns": ["\\bBohlen und Halbach\\b", "\\bPeter Sommer\\b", "\\bKrupp\\b", "\\bfalsche[rn]? Baron\\b"],
-    "summary": "Peter von Bohlen und Halbach gibt sich als Krupp-Spross und Klimaretter – geboren als Peter Sommer.",
-    "body": "In den sozialen Netzwerken tritt Peter von Bohlen und Halbach so auf, wie man es von einem Baron erwartet: Er jettet um die Welt, speist in teuren Restaurants, übernachtet in luxuriösen Hotels. Der Name erinnert an die Industriellendynastie Krupp von Bohlen und Halbach, die den Stahlkonzern Krupp über Generationen führte. Von Bohlen und Halbach hat sich Großes vorgenommen: Er will mit einem selbst gegründeten Klimainstitut den Klimawandel aufhalten und berät in Brasilien mehrere Bundesstaaten bei der Vermarktung von CO₂-Zertifikaten.\n\n„Ich trage den Namen nicht als Behauptung, sondern als verbriefte, verantwortungsvolle Realität“, schrieb er dem Handelsblatt. Die Recherche ergab ein anderes Bild: Der Mann hat mit der Familie Krupp nichts zu tun. Er wurde als Peter Sommer geboren; sein Lebenslauf ist von Insolvenzen und Betrugsfällen geprägt. Erst eine Hochzeit in Las Vegas ermöglichte ihm die Namensänderung – ein Weg, über den sich in den USA ein Nachname rechtlich erwerben lässt.\n\nAls die Handelsblatt-Volontärin Anna Lauterjung und die Praktikantin Alina Katzele nachfragten, reagierte er mit Drohungen. Sie recherchierten weiter.\n\nDer Fall steht für eine Spielart des Hochstapelns, bei der ein klangvoller Name als Türöffner für Geschäftsbeziehungen, Behördenkontakte und Investorengespräche dient – im wachsenden, schwer kontrollierten Markt für CO₂-Zertifikate."
-  }
+ {
+  "name": "Thomas Lloyd",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bThomas ?Lloyd\\b",
+   "\\bThomasLloyd\\b",
+   "\\bCleantech Infrastructure\\b",
+   "\\bCTI-?Fonds\\b"
+  ],
+  "summary": "Öko-Fonds-Anbieter ThomasLloyd: 27.000 Anleger, 750 Mio. Euro, gestoppte Auszahlungen und Millionenverluste.",
+  "body": "ThomasLloyd ist eine Investmentgruppe mit Sitz unter anderem in Zürich und London, die sich als Spezialist für nachhaltige Infrastruktur vermarktet. Über die „Cleantech Infrastructure“-Fondsreihe (CTI) sammelte sie bei rund 27.000 überwiegend deutschen Privatanlegern etwa 750 Millionen Euro ein. Das Geld sollte in Solar- und Biomassekraftwerke auf den Philippinen und in Indien fließen. Für die Werbung ließ das Haus unter anderem den Schauspieler und Ex-Gouverneur Arnold Schwarzenegger als Botschafter auftreten.\n\nAb 2023 häuften sich die Probleme: Auszahlungen an Anleger wurden gestoppt, Härtefallanträge blieben monatelang unbearbeitet, und die Fondsbilanzen wiesen dreistellige Millionenverluste aus. Recherchen des Handelsblatts legten Unstimmigkeiten und Widersprüche bei den Beteiligungen offen – etwa bei der Bewertung der asiatischen Kraftwerksprojekte. Das Management um Gründer Michael Sieg bestritt eine Krise, verwies auf „stille Reserven“ und „Aufwertungspotenziale“ und vertröstete die Geldgeber auf eine bessere Zukunft.\n\nParallel geriet auch der an der Londoner Börse gelistete ThomasLloyd Energy Impact Trust in Schwierigkeiten; der Handel mit seinen Anteilen wurde zeitweise ausgesetzt. Der Fall gilt als Beispiel dafür, wie das Label „grün“ und prominente Werbegesichter Anleger in schwer durchschaubare, illiquide Beteiligungen locken können. Anlegerschützer und Anwälte prüfen seither Schadensersatzansprüche; viele Betroffene bangen um einen Großteil ihres Einsatzes."
+ },
+ {
+  "name": "Soravia-Gruppe und One Group",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSoravia\\b",
+   "\\bOne ?Group\\b",
+   "\\bProReal\\b",
+   "\\bSylter Hof\\b"
+  ],
+  "summary": "11.000 Anleger finanzierten mit 275 Mio. Euro Baustellen des Wiener Konzerns Soravia – Zinsen ausgesetzt.",
+  "body": "Die Hamburger One Group vertrieb über Jahre Kapitalanlagen der Reihe „ProReal“ – Namensschuldverschreibungen und ähnliche Produkte, mit denen rund 11.000 Privatanleger Bauprojekte finanzierten. Seit 2019 gehört die One Group zum österreichischen Immobilienkonzern Soravia, dessen Namensgeber und Chef Erwin Soravia in Österreich eine bekannte Unternehmerpersönlichkeit ist. Insgesamt geht es um rund 275 Millionen Euro Anlegergeld, das in Soravia-Baustellen wie den Berliner „Sylter Hof“ floss.\n\nMit dem Zinsanstieg und der Baukrise ab 2022 gerieten die Projekte in Schieflage. 2024 setzte die One Group Zinszahlungen aus, tauschte die Führung aus und suchte nach Sanierungswegen. Für Empörung sorgte, dass der Konzern hinter dem Rücken der Anleger umstrukturierte und Anlegerschützer aus Beiräten der Fonds austraten. Ein von Anlegern gewünschter Sachwalter lehnte sein Mandat ab.\n\nIm Kern geht es um die Frage, ob die dreistellige Millionensumme allein durch Krieg, Inflation und Zinswende verloren ging – oder ob Managementfehler und eine intransparente Mittelverwendung eine Rolle spielten. Erwin Soravia hatte Anlegern einst zugesichert, der Konzern werde in einer Krise für sie „geradestehen“. Die Betroffenen fürchten inzwischen hohe Verluste; Anlegeranwälte prüfen Ansprüche gegen Emittentin, Vertrieb und Konzern."
+ },
+ {
+  "name": "Charles Smethurst und die German Property Group",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSmethurst\\b",
+   "\\bGerman Property Group\\b",
+   "\\bDolphin Trust\\b",
+   "\\bDolphin Capital\\b"
+  ],
+  "summary": "German Property Group (ex Dolphin Trust): 1,5 Mrd. Euro Anlegergeld, 2024 Anklage gegen Charles Smethurst.",
+  "body": "Der Deutsch-Brite Charles Smethurst galt in der Branche als Verkaufsgenie und „Gentleman der Immobilienbranche“. Mit seiner German Property Group (GPG) aus der Region Hannover – früher unter den Namen Dolphin Capital und Dolphin Trust bekannt – sammelte er zwischen 2008 und 2018 Insidern zufolge rund 1,5 Milliarden Euro ein, vor allem bei Anlegern in Großbritannien, Irland und Asien. Das Versprechen: hohe Renditen aus der Sanierung denkmalgeschützter Gebäude in Deutschland, die zusätzlich Steuervorteile bringen sollten.\n\nTatsächlich wurden viele der angekündigten Projekte nie fertiggestellt. 2020 brach die Gruppe zusammen und ging in die Insolvenz; der Insolvenzverwalter stellte den Gesellschaften ein verheerendes Zeugnis aus. Tausende Anleger, oft Pensionssparer, verloren ihr Geld. Die Staatsanwaltschaft Hannover ermittelte ab 2020 und erhob im Oktober 2024 Anklage gegen die Gründer: Smethurst soll gewerbsmäßigen Betrug in 27 Fällen mit einem Schaden von über 56 Millionen Euro begangen haben. Der tatsächliche Schaden dürfte nach Einschätzung von Insidern weit höher liegen.\n\nDer Fall gilt als einer der größten Anlageskandale mit deutschen Immobilien und zeigt, wie ein Schneeballsystem-ähnliches Modell über Jahre mit neuen Anlegergeldern am Laufen gehalten werden konnte. Über die Anklage muss das Landgericht Hannover entscheiden."
+ },
+ {
+  "name": "Buchhalterin und Volksbank Düsseldorf Neuss",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bVolksbank Düsseldorf\\b",
+   "\\bDüsseldorf Neuss\\b",
+   "\\bKiabi\\b",
+   "\\bAur[eé]lie\\b"
+  ],
+  "summary": "100 Mio. Euro der Modekette Kiabi veruntreut, bei der Volksbank Düsseldorf Neuss geparkt – 2024 verschwunden.",
+  "body": "Im Oktober 2024 räumte die Volksbank Düsseldorf Neuss ein, Opfer eines Millionenbetrugs geworden zu sein: Von einem Konto bei der Genossenschaftsbank waren rund 100 Millionen Euro verschwunden. Die Spur führte nach Frankreich zu Aurélie B., einer früheren Finanzmanagerin der Modekette Kiabi. Sie soll das Geld bei ihrem Arbeitgeber veruntreut und unter dem Vorwand einer Geldanlage nach Deutschland transferiert haben.\n\nDie Französin führte zwischen den USA und Frankreich ein Luxusleben mit Privatjet. Im August 2024 wurde sie auf Korsika festgenommen, als sie gerade aus ihrem Flugzeug stieg. Die Pariser Staatsanwaltschaft ermittelt wegen bandenmäßigen Betrugs und Geldwäsche, die Staatsanwaltschaft Düsseldorf wegen Betrugs und Urkundenfälschung in einem besonders schweren Fall.\n\nFür die Volksbank Düsseldorf Neuss ist der Fall heikel: Sie muss erklären, wie eine so große Summe auf ein Konto gelangen und wieder abfließen konnte, ohne dass Kontrollen griffen. Die Bank musste den Verlust in ihrer Bilanz verarbeiten und steht im Fokus von Aufsicht und Genossenschaftsverband. Der Fall gilt als Lehrstück über Geldwäscheprävention, Know-your-Customer-Prüfungen und die Frage, wie regionale Institute mit ungewöhnlichen Großkunden umgehen."
+ },
+ {
+  "name": "Very Private Equity (Triton)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bTriton\\b",
+   "\\bPrahl\\b",
+   "\\bVery Private Equity\\b"
+  ],
+  "summary": "Mitarbeiter werfen dem Milliardenfonds Triton eine toxische Partykultur und Sexismus vor – Triton bestreitet.",
+  "body": "Triton Partners gehört zu den wichtigsten Private-Equity-Gesellschaften Europas. Der 1997 vom Schweden Peder Prahl gegründete Fonds hat sich an mehr als 90 Unternehmen beteiligt und Fonds mit einem Volumen von über 16 Milliarden Euro aufgelegt. Zu den Investoren zählen Staatsfonds und öffentliche Pensionskassen – Geldgeber, die auf Compliance und Unternehmenskultur achten.\n\nIm November 2024 veröffentlichte das Handelsblatt nach monatelanger Recherche schwere Vorwürfe aktueller und ehemaliger Mitarbeiter. Fotos, Videos und Chatnachrichten zeigten demnach exzessive Firmenpartys, bei denen der Gründer oberkörperfrei auf einer Couch saß und ein Partner in Unterhose neben ihm. Mitarbeiterinnen berichteten von sexistischen Sprüchen, Alkoholexzessen und Gruppendruck; eine Insiderin beschrieb die Kultur als „Mischung aus Scientology und Wolf of Wall Street“. In Chats machten Manager anzügliche Bemerkungen über Kolleginnen.\n\nTriton erklärte, Hinweisen auf Fehlverhalten stets nachgegangen zu sein und bei Bedarf Verwarnungen, Abmahnungen oder Entlassungen ausgesprochen zu haben. Ein betroffener Manager ließ über seinen Anwalt mitteilen, er könne gar keine Beförderungen vornehmen, die Äußerungen seien nicht ernst gemeint gewesen.\n\nDer Fall wirft die Frage auf, ob es sich um Einzelfälle handelt oder um eine verfehlte Unternehmenskultur in einer Branche, in der viel Geld, Leistungsdruck und wenig öffentliche Kontrolle zusammenkommen."
+ },
+ {
+  "name": "Sony Music und Daniel Lieberberg",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bLieberberg\\b",
+   "\\bSony Music\\b"
+  ],
+  "summary": "Mitarbeiter werfen Sony-Music-Europachef Daniel Lieberberg Mobbing, Wutausbrüche und Übergriffe vor.",
+  "body": "Daniel Lieberberg war als Chef des Europa- und Afrika-Geschäfts von Sony Music einer der mächtigsten Manager der Musikbranche. Der Sohn des Konzertveranstalters Marek Lieberberg stieg beim Berliner Ableger des Konzerns zum Präsidenten für Kontinentaleuropa und Afrika auf.\n\nIm Dezember 2024 veröffentlichte das Handelsblatt eine monatelange Recherche: Aktuelle und ehemalige Beschäftigte schilderten ein „Klima der Angst“ in der Berliner Firma. Vor allem Mitarbeiterinnen berichteten von Mobbing und Wutausbrüchen. In einer internen Meldung an die Compliance-Abteilung war von „Zynismus“, „herablassender Arroganz“ und „bösartiger Demagogie“ die Rede. Mehrere Frauen erklärten zudem, Lieberberg habe sie unaufgefordert zur Begrüßung an beiden Schultern gepackt und geküsst.\n\nLieberberg ließ die Vorwürfe über seinen Anwalt vollständig zurückweisen. Der Mutterkonzern in New York erklärte, Beschwerden wie jenen aus Deutschland werde umgehend und gewissenhaft nachgegangen. Medienberichten zufolge trennten sich Sony Music und Lieberberg Anfang 2025.\n\nDer Fall steht beispielhaft für die Debatte über Machtmissbrauch und toxische Führung in der Kreativwirtschaft, in der Karrieren stark von einzelnen Entscheidern abhängen und Betroffene sich selten öffentlich äußern."
+ },
+ {
+  "name": "Spionageprozess London (Marsaleks Agenten)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bOld Bailey\\b",
+   "\\bRouss?ev\\b",
+   "\\bDzhambazov\\b",
+   "\\bRupert Ticz\\b",
+   "\\bBulgaren\\b",
+   "\\bSpionageprozess\\b"
+  ],
+  "summary": "Sechs Bulgaren spionierten in London für Russland – gesteuert vom flüchtigen Wirecard-Vorstand Jan Marsalek.",
+  "body": "Ab Ende November 2024 verhandelte das Londoner Strafgericht Old Bailey einen der spektakulärsten Spionagefälle der jüngeren Zeit. Angeklagt waren sechs bulgarische Staatsbürger, die von Großbritannien aus für russische Nachrichtendienste spioniert haben sollen. Ihr Auftraggeber: der seit 2020 flüchtige Ex-Wirecard-Vorstand Jan Marsalek, der in den Chats unter dem Decknamen „Rupert Ticz“ auftrat.\n\nDer Zellenchef Orlin Roussev und sein Komplize Bizer Dzhambazov bekannten sich bereits vor Prozessbeginn schuldig, ein weiterer Angeklagter ebenfalls. Drei andere wurden im März 2025 von einer Jury verurteilt. Im Mai 2025 verhängte das Gericht Haftstrafen zwischen gut fünf und fast elf Jahren.\n\nGrundlage waren zehntausende Chatnachrichten, die Marsaleks Leben auf der Flucht dokumentieren. Die Gruppe observierte den Investigativjournalisten Christo Grozev und weitere Kreml-Kritiker, kundschaftete eine US-Militärbasis in Stuttgart aus und entwarf Pläne für Entführungen und Morde. Marsalek erwog laut Chats sogar, die kasachische Botschaft in London mit Schweineblut besprühen zu lassen, um eine Protestaktion vorzutäuschen.\n\nDer Prozess machte deutlich, wie eng Marsalek inzwischen mit russischen Diensten verbunden ist – und dass der Wirecard-Skandal längst eine geheimdienstliche Dimension hat."
+ },
+ {
+  "name": "Wolfgang Hoeft und die MW-Gruppe",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bHoeft\\b",
+   "\\bHöft\\b",
+   "\\bMW-?Gruppe\\b",
+   "\\bPuppenspieler\\b"
+  ],
+  "summary": "Mutmaßliches Schneeballsystem der MW-Gruppe: 1200 Anleger, 50 Mio. Euro, Strippenzieher Hoeft untergetaucht.",
+  "body": "Seit 2019 ermittelt die Staatsanwaltschaft gegen Wolfgang Hoeft, den mutmaßlichen Strippenzieher der MW-Gruppe. Der Verdacht: Hoeft soll ein Schneeballsystem betrieben haben, das rund 1200 Anleger um etwa 50 Millionen Euro gebracht hat. In Hochglanzbroschüren warben die Verkäufer der Gruppe mit Renditen von bis zu 20 Prozent. Viele Anleger berichten heute, ihre gesamten Ersparnisse verloren zu haben und hoch verschuldet zu sein.\n\nCharakteristisch für das Konstrukt war eine verschachtelte Firmenstruktur, die die Geldflüsse verschleierte. Hoeft selbst trat formal kaum in Erscheinung; stattdessen setzte er Frauen, mit denen er offenbar Beziehungen führte, als Geschäftsführerinnen ein – daher das Bild vom „Puppenspieler“. 2019 kam es zu einer großangelegten Razzia, doch Anklage oder Urteil ließen jahrelang auf sich warten.\n\nAnwälte der Geschädigten kritisieren die schleppende Bearbeitung und warnen vor einem Vertrauensverlust in den Rechtsstaat. Hoeft gilt als unauffindbar und reagiert nicht auf Presseanfragen. Dem Handelsblatt-Investigativteam gelang es dennoch, ihm näherzukommen und mit seiner mutmaßlichen Geliebten zu sprechen.\n\nDer Fall zeigt die typischen Muster des grauen Kapitalmarkts: hohe Renditeversprechen, aggressiver Vertrieb, undurchsichtige Strukturen – und eine Justiz, die mit der Komplexität solcher Systeme oft überfordert ist."
+ },
+ {
+  "name": "Gomopa und Klaus Maurischat",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bGomopa\\b",
+   "\\bMaurischat\\b"
+  ],
+  "summary": "Finanzportal Gomopa: Betreiber Maurischat wegen Erpressung verurteilt – kritische Artikel gegen Geld entfernt.",
+  "body": "Gomopa (Goldman Morgenstern & Partners) war zwei Jahrzehnte lang ein bekanntes Finanzportal, das vor unseriösen Anlageprodukten warnte und Skandale von Wirecard bis Dolphin Trust aufgriff. Hinter dem Portal stand der Medienmanager Klaus Maurischat. Viele Anleger nutzten die Seite als Frühwarnsystem – zugleich kursierten seit Jahren Vorwürfe, Gomopa lasse sich kritische Berichterstattung abkaufen.\n\nDas Amtsgericht Saarbrücken verurteilte Maurischat per Strafbefehl wegen Erpressung. Hintergrund: Betreiber eines Schneeballsystems hatten Geld gezahlt, damit negative Berichte über sie verschwanden. Maurischat verteidigt das Vorgehen: Wer ein Nutzungsrecht an einem journalistischen Beitrag kaufe, dürfe über dessen Verwendung entscheiden – auch über die Depublikation.\n\nDer Fall wirft grundsätzliche Fragen auf: War Maurischat überhaupt Journalist, oder nutzte er die Form des Journalismus als Geschäftsmodell? Und er steht für eine Masche, die im Netz um sich greift – digitale Schutzgelderpressung. Portale verbreiten auf Basis verzerrter oder gefälschter Informationen Drohungen, um Zahlungen zu erzwingen, Berichte zu stoppen oder sogar Aktienkurse zu manipulieren.\n\nFür den grauen Kapitalmarkt ist das doppelt gefährlich: Echte Warnungen verlieren an Glaubwürdigkeit, während Betrüger sich Ruhe erkaufen können."
+ },
+ {
+  "name": "LBBW-Cum-Ex",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bLBBW\\b",
+   "\\bLandesbank Baden-Württemberg\\b",
+   "\\bStuttgarter Steuerfahndung\\b"
+  ],
+  "summary": "Cum-Ex bei der LBBW: 150 Mio. Euro Schaden, zwölf Jahre bis zur Anklage – Vorstände bleiben unbehelligt.",
+  "body": "Die Landesbank Baden-Württemberg (LBBW) war um das Jahr 2008 an Cum-Ex-Geschäften beteiligt: Aktienkreisgeschäfte rund um den Dividendenstichtag, bei denen sich Beteiligte einmal gezahlte Kapitalertragsteuer mehrfach erstatten ließen. Der Schaden für den Fiskus belief sich auf rund 150 Millionen Euro. Als die Geschäfte aufflogen, zahlte die Bank das Geld samt Zinsen – insgesamt etwa 200 Millionen Euro – zurück.\n\nStrafrechtliche Konsequenzen für die damals Verantwortlichen blieben weitgehend aus. Ein bislang unveröffentlichter Bericht der Stuttgarter Steuerfahndung, der dem Handelsblatt vorliegt, legt nahe, dass der gesamte Vorstand die auffälligen Ertragssprünge hätte erkennen müssen. Dennoch brauchte die Staatsanwaltschaft Stuttgart zwölf Jahre, um überhaupt eine Anklage vorzulegen – und die richtet sich gegen nachgeordnete Mitarbeiter. Verfahren gegen Vorstandsmitglieder wurden eingestellt.\n\nDer Fall steht beispielhaft für die Kritik, dass Cum-Ex außerhalb von Köln kaum konsequent verfolgt wurde. Während die Kölner Ermittlerin Anne Brorhilker reihenweise Verurteilungen erreichte, verliefen Verfahren in Stuttgart, Hamburg, Düsseldorf und Berlin schleppend. Kommentatoren sprechen von Justizversagen: Schwere Steuerhinterziehung beginnt gesetzlich bei 50.000 Euro – hier ging es um das Dreitausendfache, ohne dass die Chefetage belangt wurde."
+ },
+ {
+  "name": "Degag-Pleite",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bDegag\\b",
+   "\\bDehne\\b",
+   "\\bBernd Klein\\b"
+  ],
+  "summary": "Insolvenz der Hannoveraner Degag 2025: 4500 Anleger, 282 Mio. Euro Darlehen, Schaden bis 400 Mio. Euro.",
+  "body": "Die Degag-Gruppe aus Hannover verfolgte ein scheinbar einfaches Geschäftsmodell: Sie kaufte heruntergekommene Wohnimmobilien, zog sie leer, sanierte sie und wollte sie anschließend gewinnbringend an Großinvestoren verkaufen. In den Boomjahren florierte das Geschäft. Gründer Birger Dehne inszenierte sich als Visionär, und die Gruppe sammelte bei rund 4500 Privatanlegern etwa 282 Millionen Euro in Form von Nachrangdarlehen ein. Nach einem Megadeal 2021 machte Dehne Kasse und zog sich formal als Berater in die zweite Reihe zurück.\n\nIm Dezember 2024 stellte die Degag Zins- und Rückzahlungen ein, am 28. Januar 2025 folgte der Insolvenzantrag. Der absehbare Schaden wird auf bis zu 400 Millionen Euro geschätzt; den Anlegern droht der Totalverlust. Recherchen zeigten, dass Stiftungen in Liechtenstein, ein dubioser Berater und die Schweizer Privatbank Julius Bär, die Schrottimmobilien finanzierte, eine Rolle spielten. In den Monaten vor der Pleite flossen durch ungewöhnliche Deals noch Millionen in Richtung Dehne.\n\nDer letzte Vorstand Bernd Klein brach 2026 das Schweigen: Dehne habe die Gruppe aus dem Hintergrund gesteuert, die Vorstände hätten über das Anlegergeld nicht frei verfügen können; verwaltet worden seien die Mittel von einem Buchhalter Dehnes in der Schweiz. Dehnes Anwalt wies die Darstellung zurück. Der Insolvenzverwalter versucht zu retten, was zu retten ist."
+ },
+ {
+  "name": "Fall Jens Lehmann",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bJens Lehmann\\b",
+   "\\bLehmanns?\\b(?!\\s+Brothers)",
+   "\\bMad Jens\\b"
+  ],
+  "summary": "Ex-Nationaltorwart Jens Lehmann: Kettensägen-Attacke, Verkehrsdelikte und Vorstrafe wegen Steuerhinterziehung.",
+  "body": "Jens Lehmann wurde als Nationaltorwart bei der WM 2006 zum Helden, als er im Elfmeterschießen gegen Argentinien zwei Schüsse hielt. Nach der Karriere geriet „Mad Jens“ jedoch immer wieder mit dem Gesetz in Konflikt – vom Rasen auf die Anklagebank.\n\nAufsehen erregte 2022 ein Streit mit einem Nachbarn am Starnberger See: Lehmann zersägte mit einer Kettensäge einen Dachbalken von dessen Garage. Das Amtsgericht Starnberg verurteilte ihn 2023 wegen Sachbeschädigung, Hausfriedensbruchs und versuchten Betrugs (ein nicht bezahltes Parkticket) zu einer hohen Geldstrafe; in der Berufung reduzierte das Landgericht München II die Summe 2024 deutlich. Hinzu kamen Verkehrsdelikte, darunter eine Trunkenheitsfahrt, und Streitigkeiten um Geld.\n\nRecherchen des Handelsblatts förderten 2026 ein weiteres Kapitel zutage: Lehmann ist auch wegen Steuerhinterziehung vorbestraft. Die Reporter stießen auf Akten der Steuerfahndung, in denen es um Wohnsitzkonstruktionen und sogenannte „weiße Einkünfte“ geht – Einkünfte, die in keinem Land versteuert wurden. Lehmanns öffentliche Behauptung, er habe niemals Steuern hinterzogen, hält demnach einer Überprüfung nicht stand.\n\nDer Fall zeigt, wie ein prominenter Sportler mit Ruhm, Geld und einem schwierigen Verhältnis zu Regeln zum Dauergast der Justiz wird."
+ },
+ {
+  "name": "Tesla-Betriebsratswahl Grünheide",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBetriebsratswahl\\b",
+   "\\bIG Metall\\b",
+   "\\bMichaela Schmitz\\b",
+   "\\bKool Savas\\b",
+   "\\bGrünheide\\b"
+  ],
+  "summary": "Machtkampf bei der Betriebsratswahl 2026 im Tesla-Werk Grünheide: Polizei, Musk-Drohung, IG Metall unterliegt.",
+  "body": "Im Tesla-Werk Grünheide bei Berlin, der einzigen europäischen Fabrik des Konzerns, eskalierte 2026 ein Machtkampf um den Betriebsrat. Die IG Metall wollte bei der Betriebsratswahl ihren Einfluss ausbauen, nachdem sie 2024 bereits zur stärksten Kraft geworden war, aber keine Mehrheit hatte. Dagegen stand die von Betriebsratschefin Michaela Schmitz angeführte Liste, die viele Beschäftigte als managementnah beschreiben und die die Gewerkschafter als Störfaktor beschimpfte.\n\nDer Wahlkampf nahm bizarre Züge an: Auf einer Betriebsfeier trat der Rapper Kool Savas auf – mitten im Arbeitskampf. Weil ein Gewerkschafter eine Sitzung heimlich aufgenommen haben soll, rief Tesla die Polizei; ein Laptop wurde beschlagnahmt. Die IG Metall bestreitet den Vorwurf und spricht von einer Schmutzkampagne. Wenige Tage vor der Wahl schaltete sich Elon Musk persönlich ein und warnte, die Fabrik werde nicht erweitert, sollte die Gewerkschaft gewinnen. Die Belegschaft stimmte in seinem Sinne ab.\n\nDer Konflikt reicht über Grünheide hinaus: Wie viel Einfluss darf ein Management auf eine Betriebsratswahl nehmen? Das Betriebsverfassungsgesetz verbietet die Behinderung von Wahlen. Der Fall gilt als Testfall dafür, was passiert, wenn amerikanische Unternehmenskultur auf deutsche Mitbestimmung trifft – vor dem Hintergrund von Absatzkrise und hohen Krankenständen im Werk."
+ },
+ {
+  "name": "TGI-Gold (Helmut Kaltenegger)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bTGI\\b",
+   "\\bKaltenegger\\b",
+   "\\bGold-?Rabatte?\\b"
+  ],
+  "summary": "Liechtensteiner Goldhändler TGI verspricht bis zu 72 Prozent Rabatt bei drei Jahren Wartezeit – Bafin prüft.",
+  "body": "Die Liechtensteiner TGI AG des Goldhändlers Helmut Kaltenegger verkauft Gold zu Kampfpreisen: Wer sich bereit erklärt, drei Jahre auf die Auslieferung zu warten, soll Rabatte von bis zu 72 Prozent auf den Goldpreis erhalten. Angeblich haben bereits 40.000 Menschen zugegriffen; rund 80 Millionen Euro an Rabatten will die TGI bereits gewährt haben. Kalteneggers Motto: „Geht nicht, gibt’s nicht.“ Für das Angebot wirbt unter anderem der Entertainer Oliver Pocher.\n\nDas Geschäftsmodell wirft Fragen auf: Wie kann ein Händler Gold dauerhaft weit unter Marktpreis liefern? Kritiker sehen Parallelen zu früheren Goldskandalen wie PIM Gold, bei dem 2019 rund drei Tonnen Gold fehlten und tausende Anleger geschädigt wurden. Auch dort wurden Rabatte und Wartezeiten mit angeblichen Einkaufsvorteilen begründet, bis das System kollabierte.\n\nDie deutsche Finanzaufsicht Bafin geht Hinweisen zum TGI-Geschäft nach, weil unklar ist, ob es sich um einen schlichten Warenkauf oder um ein erlaubnispflichtiges Einlagen- oder Anlagegeschäft handelt. Das Umfeld ist günstig für solche Angebote: Der Goldpreis stieg binnen eines Jahres um rund 50 Prozent, viele Sparer suchen den vermeintlich sicheren Hafen – und sind empfänglich für Offerten, die zu gut klingen, um wahr zu sein."
+ },
+ {
+  "name": "Wolf of High Street – Uwe Reppegather und Centrum",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bReppegather\\b",
+   "\\bCentrum\\b",
+   "\\bWolf of High Street\\b",
+   "\\bKönig der Kö\\b"
+  ],
+  "summary": "Razzia in sechs Ländern 2026: Düsseldorfer Projektentwickler Reppegather unter Betrugs- und Bankrottverdacht.",
+  "body": "Uwe Reppegather arbeitete sich vom Hauptschüler zu einem der mächtigsten Projektentwickler Deutschlands hoch. Mit seiner Düsseldorfer Centrum-Gruppe bewegte er Milliarden, entwickelte Luxusimmobilien in Toplagen wie der Düsseldorfer Königsallee – daher die Spitznamen „König der Kö“ und „Wolf of High Street“. Er umgab sich mit Prominenten wie Boris Becker und Til Schweiger und pflegte einen Lebensstil mit Privatjet, Segelyacht und Finca auf Ibiza.\n\nHinter der Fassade türmten sich Schulden; die Centrum-Gruppe rutschte 2023 in die Insolvenz. Kurz zuvor ging die Ibiza-Villa – angeblich 30 Millionen Euro wert – für rund fünf Millionen Euro an seine Ehefrau. Offiziell besaß Reppegather kaum noch Vermögen, während im Hintergrund bereits neue Geschäfte anliefen.\n\nAm 26. März 2026 rückten in sechs Ländern mehr als 400 Beamte aus und durchsuchten 49 Objekte, darunter prachtvolle Anwesen, eine Cannabis-Firma und eine historische Segelyacht. Im Düsseldorfer Medienhafen sicherten Ermittler die Centrum-Zentrale; Reppegather wurde zeitgleich auf Ibiza von spanischen Spezialkräften festgenommen. Die Vorwürfe lauten Betrug, Bankrott und Untreue – Reppegather weist sie zurück. Nach Deutschland zurückgekehrt stellte er sich den Behörden und kam in Haft.\n\nDer Fall zeigt, wie ein Immobilienunternehmer trotz Milliardenschulden rasch wieder ins Geschäft zurückfand – und wo die Grenze zum strafbaren Bankrott verläuft."
+ },
+ {
+  "name": "Continental-Dieselskandal",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bContinental\\b",
+   "\\bConti\\b",
+   "\\bNoerr\\b"
+  ],
+  "min": 8,
+  "summary": "Zulieferer Continental: Software für manipulierte Abgaswerte, 300 Mio. Euro Kosten, Streit mit Kanzlei Noerr.",
+  "body": "Mehr als zehn Jahre nach Beginn des Dieselskandals rückte mit Continental ein zentraler Zulieferer in den Fokus. Der Hannoveraner Konzern lieferte Software für Motorsteuergeräte, die in Volkswagen-Dieselmotoren manipulierte Abgaswerte ermöglichte. Die Staatsanwaltschaft Hannover ermittelte ab 2020 gegen Mitarbeiter wegen Beihilfe zum Betrug und durchsuchte Standorte des Konzerns. Interne Untersuchungen legen nahe, dass einzelne Beschäftigte früh über kritische Funktionen informiert waren – wie weit das Wissen im Konzern reichte, blieb lange unklar.\n\n2024 akzeptierte Continental ein Bußgeld von 100 Millionen Euro wegen Verletzung der Aufsichtspflicht. Mehrere Verfahren gegen ehemalige Manager wurden eingestellt. Insgesamt belaufen sich die Kosten des Dieselskandals für Continental auf rund 300 Millionen Euro – Bußgeld, Anwaltshonorare, interne Aufklärung.\n\nUngewöhnlich ist das Nachspiel: Continental versucht, einen Teil der Kosten von der Kanzlei Noerr zurückzufordern, die der Konzern mit der internen Aufklärung beauftragt hatte. Im Kern geht es um die Höhe der Honorare und die Frage, ob die Kanzlei ihre Aufgabe angemessen erfüllt hat. Ein Rechtsstreit zwischen einem Dax-Konzern und seiner eigenen Aufklärungskanzlei ist selten und könnte Maßstäbe für künftige Compliance-Untersuchungen setzen. Der Ausgang ist offen."
+ },
+ {
+  "name": "Alaska-Ölbohrungen (Kay Rieck)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bRiecks?\\b",
+   "\\bDeutsche O[eö]l\\b",
+   "\\bÖlbaron\\b",
+   "\\bFurie\\b",
+   "\\bKitchen Lights\\b"
+  ],
+  "summary": "„Ölbaron“ Kay Rieck sammelte Hunderte Millionen für Alaska-Bohrungen – 2026 Haft vom Landgericht Stuttgart.",
+  "body": "Vor rund 15 Jahren kam der Unternehmer Kay Rieck auf die Idee, mit Öl- und Gasbohrungen im US-Bundesstaat Alaska sich selbst und tausende Anleger reich zu machen. Über die Deutsche Oel & Gas AG und zugehörige Fonds und Beteiligungen sammelte er bei rund 10.000 Anlegern einen dreistelligen Millionenbetrag ein. Die operative Tochter Furie Operating Alaska förderte im Cook Inlet Erdgas aus dem Feld „Kitchen Lights“. Rieck wurde in den Medien als „Ölbaron“ gefeiert.\n\nKaum waren die ersten Bohrungen abgeschlossen, geriet das Wild-West-Abenteuer außer Kontrolle: Kostenexplosionen, Streit mit US-Behörden, Finanzierungslücken. 2019 beantragte Furie in den USA Gläubigerschutz, später folgte die Pleite der Deutsche Oel & Gas AG. Für die Anleger bedeutete das hohe Verluste.\n\nDie Staatsanwaltschaft Stuttgart erhob Anklage, unter anderem wegen Betrugs- und Untreuevorwürfen im Zusammenhang mit der Mittelverwendung und der Information der Anleger. Ende April 2026 verurteilte das Landgericht Stuttgart Rieck zu vier Jahren und acht Monaten Haft. Sein Anwalt kündigte an, das Urteil anzufechten.\n\nDer Fall vereint die typischen Zutaten eines Anlageskandals: ein charismatischer Gründer, eine verlockende Geschichte, intransparente Strukturen – und Gier, die laut Gericht in strafbares Verhalten mündete."
+ },
+ {
+  "name": "Zahnärzte-Versorgungswerk Berlin",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bVZB\\b",
+   "\\bZahnärzte-?Versorgungswerk\\b",
+   "\\bVersorgungswerk\\b",
+   "\\bGarnelenzucht\\b",
+   "\\bPershing\\b"
+  ],
+  "summary": "Das Versorgungswerk der Berliner Zahnärzte verlor über eine Milliarde Euro mit riskanten Direktinvestments.",
+  "body": "Das Versorgungswerk der Zahnärztekammer Berlin (VZB) verwaltet die Altersvorsorge tausender Zahnärztinnen und Zahnärzte. Statt konservativ anzulegen, setzte die Führung über Jahre auf riskante Direktinvestments – unter anderem in eine Recyclingfirma in Kalifornien, eine Garnelenzucht in Lübeck und weitere unternehmerische Beteiligungen. Am Ende steht ein Verlust von mehr als einer Milliarde Euro.\n\nInterne Gutachten, bislang unveröffentlichte Unterlagen und Gespräche mit Beteiligten zeichnen das Bild einer Organisation, deren Kontrollinstanzen die Risiken jahrelang übersahen. Eine Motorjacht vom Typ Pershing 5X und eine verräterische E-Mail des Vorsitzenden des Verwaltungsausschusses an den Direktor – „Das alles sind Interessenkonflikte, die ich Dir zuliebe akzeptiere“ – verdeutlichen die Verflechtungen zwischen Entscheidern und Investments.\n\nDas Versorgungswerk strebt inzwischen Schadenersatz in Milliardenhöhe an und geht gegen frühere Verantwortliche und Berater vor. Für die Mitglieder könnten die Einschnitte hart ausfallen: Rentenkürzungen oder höhere Beiträge stehen im Raum. Der Fall wirft grundsätzliche Fragen zur Aufsicht über berufsständische Versorgungswerke auf, die Milliarden verwalten, aber weniger streng reguliert sind als Versicherer – und bei denen ehrenamtliche Gremien hochkomplexe Anlageentscheidungen kontrollieren sollen."
+ },
+ {
+  "name": "Operation Chargeback",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bChargeback\\b",
+   "\\bUnzer\\b",
+   "\\bH[üu]llemann\\b",
+   "\\bHäuser-?Axtner\\b"
+  ],
+  "summary": "Razzia 2025 in neun Ländern: 4,3 Mio. Opfer, 300 Mio. Euro Schaden durch Fake-Abos – Spur zu Marsalek.",
+  "body": "Am 4. November 2025 durchsuchten Ermittler in Deutschland und acht weiteren Ländern mehr als 60 Objekte und nahmen 18 Verdächtige fest. Die von Europol koordinierten Ermittlungen tragen den Namen „Operation Chargeback“ – nach dem Begriff für Rückbuchungen von Kreditkartenzahlungen. Im Zentrum stehen Millionen unrechtmäßiger Kreditkartenbelastungen über gefälschte Online-Abonnements, Hunderte mutmaßliche Scheinfirmen und der Verdacht, dass Teile des deutschen Zahlungsverkehrs gezielt für kriminelle Geschäfte missbraucht wurden. 4,3 Millionen Menschen aus 193 Ländern sollen betroffen sein, der Schaden soll über 300 Millionen Euro liegen.\n\nDie Spur führt zu großen Zahlungsdienstleistern wie Unzer, Payone, Concardis und Wirecard. Ehemalige Manager dieser Häuser sollen die Abwicklung der Zahlungen ermöglicht und die Herkunft der Umsätze verschleiert haben; genannt wird unter anderem der frühere Unzer-CEO Mirko Hüllemann. Eine ehemalige Wirecard-Managerin wurde nach Deutschland ausgeliefert. Ermittler sprechen von einer Art parallelem Finanzsystem.\n\nErneut taucht der Name Jan Marsalek auf: Der flüchtige Ex-Wirecard-Vorstand soll mit seinem Umfeld – darunter ein als „Pornobaron“ bekannter Geschäftsmann – an dem Netzwerk beteiligt gewesen sein. Damit verbindet Operation Chargeback die aktuellen Ermittlungen mit dem Wirecard-Komplex und zeigt, dass dessen Strukturen nach der Pleite 2020 offenbar weiterlebten."
+ },
+ {
+  "name": "Deutsche Finance Gruppe",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bDeutsche[nr]? Finance\\b",
+   "\\bDF Deutsche Finance\\b"
+  ],
+  "summary": "Bafin schickt 2026 Sonderbeauftragten zur Deutsche Finance: 50.000 Anleger, 1,5 Mrd. Euro, Millionenverluste.",
+  "body": "Die Münchner Deutsche Finance Gruppe ist ein großer Player im Immobilien- und Fondsgeschäft. Rund 50.000 Privatanleger haben etwa 1,5 Milliarden Euro in ihre Fonds investiert, hinzu kommen institutionelle Investoren wie die Bayerische Versorgungskammer. Nach eigenen Angaben verwaltet die Gruppe Vermögenswerte von insgesamt zwölf Milliarden Dollar, darunter Bürotürme in den USA und Großbritannien.\n\nMitte Juni 2026 griff die Finanzaufsicht Bafin zu einem drastischen und ungewöhnlichen Mittel: Sie entsandte einen Sonderbeauftragten in die Kapitalverwaltungsgesellschaft. Mit seiner Hilfe prüfen die Aufseher, ob die Fonds für Privatanleger ordnungsgemäß verwaltet werden.\n\nZuvor hatten sich die Probleme gehäuft: Geschäftsberichte wiesen zweistellige Millionenverluste aus, Wirtschaftsprüfer äußerten Zweifel, ob bestimmte Fonds fortgeführt werden können. Recherchen des Handelsblatts zeigten verschachtelte Fondskonstruktionen, bei denen Privatanlegerfonds in institutionelle Vehikel und diese wiederum in einzelne Objekte investieren – eine Struktur, die Gebühren auf mehreren Ebenen erzeugt und Risiken verschleiern kann. Die Bayerische Versorgungskammer trennte sich von einer US-Immobilie aus dem Umfeld.\n\nFür Anleger ist entscheidend, ob die Bewertungen der Immobilien in Zeiten gestiegener Zinsen und leerstehender Büros noch tragen. Der Fall gilt als Prüfstein für die Aufsicht über geschlossene Publikumsfonds."
+ },
+ {
+  "name": "Volksbank Brawo",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBrawo\\b",
+   "\\bBraunschweig Wolfsburg\\b",
+   "\\bBrinkmanns?\\b"
+  ],
+  "summary": "Volksbank Braunschweig Wolfsburg: Hunderte Beteiligungen, Millionenstützung droht, Untreue-Ermittlungen 2026.",
+  "body": "Volksbanken stehen für regionale Nähe und konservatives Wirtschaften. Die Volksbank Braunschweig Wolfsburg (Brawo) ging einen anderen Weg: Über ihre Beteiligungsholding war die Genossenschaftsbank an Hunderten Unternehmen beteiligt – von Restaurants über Fitnessstudios und Fintechs bis zu Luxusimmobilien und Hotels. Architekt dieses Modells war der langjährige Vorstandschef Jürgen Brinkmann, der die Bank über zwei Jahrzehnte prägte und zu einer der größten Volksbanken Deutschlands ausbaute.\n\n2026 zeigte sich die Kehrseite: Einige Beteiligungen sind insolvent, andere – vor allem Immobilien – könnten deutlich zu hoch bewertet sein. Die Bank muss voraussichtlich mit Millionen aus dem Stützungsfonds der genossenschaftlichen Sicherungseinrichtung gestützt werden. Die Staatsanwaltschaft Braunschweig ermittelt wegen des Verdachts der Untreue im Umfeld der Bank. Brinkmann musste seinen Posten räumen; auch seine Frau verließ eine Banktochter.\n\nOffen ist, welche Kontrollmechanismen versagt haben – Aufsichtsrat, Genossenschaftsverband und Bankenaufsicht hatten das riskante Geschäftsmodell jahrelang geduldet. Der Fall trifft das Genossenschaftssystem in einer sensiblen Phase, da zuletzt auch andere Volksbanken, etwa in Düsseldorf Neuss, Dortmund oder Köln Bonn, mit Skandalen und Affären Schlagzeilen machten. Er wirft die Frage auf, ob das Prinzip der Selbstkontrolle im Verbund noch trägt."
+ },
+ {
+  "name": "Hedera-Immobiliengruppe",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bHedera\\b",
+   "\\bHedera Bauwert\\b",
+   "\\bVerius\\b"
+  ],
+  "summary": "Berliner Hedera Bauwert: gefälschte Rechnungen, Erpressung, Gewalt – und ein 1,2-Mrd.-Fonds ohne Geld.",
+  "body": "Die Hedera Bauwert aus Berlin wuchs binnen zehn Jahren aus dem Nichts zu einer Immobiliengruppe mit zahlreichen Bauprojekten heran – und geriet dann in eine schwere Krise. Ihr Chef stand im Sommer 2026 als Zeuge in einem schwer gesicherten Saal des Strafgerichts Moabit und schilderte, wie maskierte Männer ihn überfallen und zusammengeschlagen hätten. Er werde erpresst, sagte er, und wisse auch von wem. Damit bekam ein Wirtschaftsfall eine Dimension von Gewaltkriminalität und organisierter Kriminalität.\n\nParallel weitete sich ein Skandal um gefälschte Rechnungen bei Hedera aus. Ein Anwalt der Gruppe räumte ein, möglicherweise sei bislang nur die Spitze des Eisbergs erkennbar. Gläubiger, Baufirmen und Investoren fürchten um ihr Geld.\n\nBesonders brisant ist die Verbindung zum 1,2 Milliarden Euro schweren Verius-Fonds. Er sollte einst die Beiträge deutscher Krankenkassen und kassenärztlicher Vereinigungen anlegen – Gelder aus dem Gesundheitswesen also. Der Fonds verlängerte trotz Existenzkrise Kredite über 100 Millionen Euro an Projekte aus dem Hedera-Umfeld; sein Vermögen hat sich offenbar weitgehend in Luft aufgelöst. Die Verluste treffen damit Institutionen, die mit Versichertengeldern arbeiten.\n\nDer Fall verbindet Immobilienkrise, Betrugsverdacht und Gewalt und zählt zu den außergewöhnlichsten Wirtschaftskrimis Berlins."
+ },
+ {
+  "name": "Teldafax",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bTelda[\\s-]?fax\\b",
+   "\\bTelda[\\s-]?facks\\b",
+   "\\bTeldafax\\b"
+  ],
+  "summary": "Energieanbieter Teldafax: Vorkasse-Modell, Promi-Werbung, Insolvenz 2011 mit 656 Mio. Euro Forderungen.",
+  "body": "Teldafax aus Troisdorf war in den Nullerjahren einer der am schnellsten wachsenden Strom- und Gasanbieter Deutschlands. Das Geschäftsmodell beruhte auf Vorkasse: Kunden zahlten ihren Strom im Voraus und bekamen dafür günstige Tarife. Das Wachstum wurde mit aggressivem Vertrieb und Prominenten als Vertrauensgaranten befeuert – von Rudi Völler über Thomas Gottschalk bis zum Biathleten Ole Einar Björndalen; zudem war Teldafax Trikotsponsor von Bayer 04 Leverkusen.\n\nIntern wussten Vorstand und Aufsichtsrat spätestens im Sommer 2009, dass das Unternehmen zahlungsunfähig war: Das Geld der Vorkasse-Kunden wurde für das laufende Geschäft und die Gewinnung neuer Kunden verbraucht. Die Bundesnetzagentur hatte früh gewarnt, das Hauptzollamt die Bücher durchleuchtet. Ein verurteilter Betrüger nahm aus dem Gefängnis heraus Einfluss auf das Unternehmen. Dennoch lief das System weiter.\n\nAm 14. Juni 2011 stellte Teldafax beim Amtsgericht Bonn Insolvenzantrag. Hunderttausende Kunden waren betroffen, viele hatten Monate im Voraus bezahlt. Die Gesamtforderungen der Gläubiger beliefen sich auf 656 Millionen Euro – eine der größten Pleiten eines Energieanbieters. 2017 verurteilte das Landgericht Bonn frühere Vorstände unter anderem wegen Insolvenzverschleppung und Bankrotts zu Haftstrafen.\n\nAufgedeckt hatten den Fall 2010 die Handelsblatt-Reporter Sönke Iwersen und Jürgen Flauger. Teldafax gilt als Lehrstück dafür, wie erzwungenes Wachstum und Vorkasse ein Schneeballsystem erzeugen können."
+ },
+ {
+  "name": "Volksbank Köln Bonn (Bordell-Kredit)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bVolksbank Köln[\\s-]?Bonn\\b",
+   "\\bPascha\\b",
+   "\\bBrockhaus\\b"
+  ],
+  "summary": "Kredit der Volksbank Köln Bonn fürs Großbordell Pascha: Ermittlungen gegen Vorstand, Aufsichtsräte gehen.",
+  "body": "Die Volksbank Köln Bonn, eine der größten Genossenschaftsbanken im Rheinland, finanzierte mit einem Kredit das Kölner Großbordell „Pascha“ – ein Geschäft, das an sich nicht verboten ist, für eine Volksbank aber ungewöhnlich war. Womöglich wäre es bei einem diskreten Bankgeschäft geblieben, hätte nicht der Anwalt Claus Brockhaus, Beschuldigter in der NRW-Schleuser-Affäre, in Vernehmungen bei der Staatsanwaltschaft darüber berichtet.\n\nSeither steht die Bank unter Druck. Gegen ein Vorstandsmitglied ermittelt die Staatsanwaltschaft unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr; der Manager wurde beurlaubt. Zunächst führte die Staatsanwaltschaft Düsseldorf das Verfahren, inzwischen liegt es bei der Staatsanwaltschaft Köln. Im Vorstand und im Aufsichtsrat kam es zu Verwerfungen über die Frage, wie der Kredit zustande kam und wie gründlich die Vorgänge aufgeklärt wurden – vier Aufsichtsräte warfen das Handtuch.\n\nIm Zentrum stehen die Fragen, welche Rolle der Bankvorstand bei der Kreditvergabe spielte, ob persönliche Vorteile im Spiel waren und ob die Volksbank Köln Bonn ein grundsätzliches Compliance-Problem hat. Im genossenschaftlichen Lager wird der Fall als peinlich empfunden, zumal er in eine Reihe von Volksbank-Affären fällt – etwa bei der Volksbank Düsseldorf Neuss und der Volksbank Brawo – und das Vertrauen in die Selbstkontrolle des Verbunds belastet."
+ },
+ {
+  "name": "Fall Hendrik Holt",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bHendrik Holt\\b",
+   "\\bHolt[\\s-]?Holding\\b",
+   "\\bFamilie Holt\\b",
+   "\\bHolts\\b",
+   "\\bWindpark-?Betr[üu]g"
+  ],
+  "summary": "Windpark-Hochstapler Hendrik Holt: erfundene Projekte, Millionen von Energiekonzernen, 2026 auf der Flucht.",
+  "body": "Hendrik Holt trat als junger Nachwuchsunternehmer aus dem Emsland auf, der mit der Familienfirma Holt Holding Windparks erschließen wollte. Europäische Energiekonzerne zahlten ihm Millionen für Projektrechte und Vorverträge. Doch die Projekte existierten großteils nur auf dem Papier: Holt und Mitglieder seiner Familie hatten tausende Dokumente gefälscht – Genehmigungen, Verträge, Gutachten – und ganze Windparks erfunden.\n\n2020 flog der Schwindel auf. Die Polizei verhaftete Holt in seiner Suite im Berliner Nobelhotel Adlon und verhinderte in letzter Minute einen geplanten dreistelligen Millionen-Coup. Das Landgericht Osnabrück verurteilte ihn als Betrüger und Hochstapler; nach einem umfassenden Geständnis erhielt er zunächst sieben Jahre Haft, in weiteren Verfahren wuchs die Gesamtstrafe auf fast neun Jahre. Auch andere Familienmitglieder mussten ins Gefängnis.\n\nUrsprünglich sollte Holt bis Ende 2028 in Berlin einsitzen. Ende August 2026 kehrte er jedoch von einem Freigang nicht in die Justizvollzugsanstalt zurück. Seither jagen ihn Zielfahnder der Polizei. Noch aus der Haft heraus war es Holt gelungen, sich deutschlandweit als Millionenbetrüger bekannt zu machen – etwa durch Interviews und Medienauftritte.\n\nDer Fall zeigt, wie leicht sich große Konzerne im Boom der Energiewende von professionell gefälschten Unterlagen täuschen ließen – und wie ein Hochstapler aus der Inszenierung selbst Kapital schlug."
+ },
+ {
+  "name": "Pkw-Maut und Andreas Scheuer",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bScheuers?\\b",
+   "\\bPkw-?Maut\\b",
+   "\\bAusländermaut\\b",
+   "\\bInfrastrukturabgabe\\b"
+  ],
+  "summary": "Gescheiterte Pkw-Maut: 243 Mio. Euro Schadensersatz – 2026 Prozess gegen Scheuer wegen Falschaussage.",
+  "body": "Die Pkw-Maut war ein Prestigeprojekt der CSU: Ausländische Autofahrer sollten für die Nutzung deutscher Autobahnen zahlen, Inländer über die Kfz-Steuer entlastet werden. Verkehrsminister Andreas Scheuer schloss Ende 2018 die Betreiberverträge mit den Unternehmen Kapsch und CTS Eventim – noch bevor der Europäische Gerichtshof über die Zulässigkeit entschieden hatte. Im Juni 2019 kippte der EuGH die Maut als diskriminierend; der Bund kündigte die Verträge.\n\nDie Betreiber forderten Schadensersatz. 2023 sprach ihnen ein Schiedsgericht rund 243 Millionen Euro zu, die der Bund zahlen musste. Ein Untersuchungsausschuss des Bundestags befasste sich 2020 und 2021 mit der Frage, warum die Verträge vorzeitig unterschrieben wurden. Umstritten ist ein Treffen im November 2018, bei dem die Betreiber angeboten haben sollen, mit dem Vertragsabschluss bis zum EuGH-Urteil zu warten. Scheuer bestritt ein solches Angebot.\n\nDie Staatsanwaltschaft Berlin wirft Scheuer und seinem damaligen Staatssekretär vor, den Untersuchungsausschuss wider besseres Wissen falsch informiert zu haben – uneidliche Falschaussage. Im September 2026 begann der Prozess vor dem Landgericht Berlin, angesetzt auf zwölf Verhandlungstage. Scheuer bestreitet die Vorwürfe.\n\nDer Fall hat juristische und politische Bedeutung: Erstmals muss sich ein früherer Bundesminister wegen seiner Aussage vor einem Untersuchungsausschuss strafrechtlich verantworten."
+ },
+ {
+  "name": "Fall Wanja Oberhof",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bOberhofs?\\b",
+   "\\bWanja\\b",
+   "\\bSocial Chain\\b",
+   "\\bKleinfeld\\b"
+  ],
+  "summary": "Ex-Social-Chain-Chef Wanja Oberhof in den USA festgenommen: Vorwurf Investorenbetrug, Millionen-Kaution.",
+  "body": "Wanja Oberhof machte früh Karriere als Unternehmer und Investor. Er gründete und finanzierte zahlreiche Firmen, wurde Gesellschafter und Vorstandschef der Berliner Social Chain AG – einer börsennotierten E-Commerce- und Social-Media-Gruppe, die 2023 in die Insolvenz ging – und baute gemeinsam mit seiner Frau Anabel Oelmann ein neues Geschäft im Gesundheits- und Wellnessbereich auf. In Deutschland galt er als Wirtschafts-Wunderkind.\n\n2026 geriet die Erfolgsgeschichte ins Wanken: Oberhof wurde in den USA festgenommen und verbrachte neun Tage im berüchtigten Metropolitan Detention Center in Brooklyn. Gegen eine Millionen-Kaution und unter strengen Auflagen kam er wieder frei; zwei deutsche Unternehmer bürgen für ihn.\n\nDer Vorwurf der US-Justiz wiegt schwer: Oberhof soll Investoren betrogen und deren Geld für private Zwecke verwendet haben. Zu den Geldgebern, die ihn belasten, zählt der frühere Siemens-Chef Klaus Kleinfeld. Oberhof weist die Vorwürfe zurück. Was genau die US-Ermittler ihm vorwerfen, ergibt sich aus der Anklage, deren Details nur teilweise bekannt sind.\n\nDer Fall ist ungewöhnlich, weil ein deutscher Unternehmer in den USA – mit deutlich härteren Haftbedingungen und Strafandrohungen – vor einem Strafgericht steht. Er wirft zudem ein Licht auf die Gründer- und Investorenszene, in der Prominenz und Netzwerke oft mehr zählten als belastbare Zahlen."
+ },
+ {
+  "name": "KMW-Provisionen (KNDS)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bKMW\\b",
+   "\\bKrauss[\\s-]?Maffei\\b",
+   "\\bKNDS\\b",
+   "\\bWegmann\\b"
+  ],
+  "summary": "Leopard-Deal mit Katar 2013 (1,9 Mrd. Euro): dubiose KMW-Provisionen holen KNDS beim Börsengang ein.",
+  "body": "2013 verkaufte der deutsche Rüstungskonzern Krauss-Maffei Wegmann (KMW) 62 Leopard-2-Panzer, Panzerhaubitzen und ein ganzes Arsenal weiterer Militärtechnik an Katar – für rund 1,9 Milliarden Euro. Der Deal wurde unter Kanzlerin Angela Merkel eingefädelt und galt als einer der größten deutschen Rüstungsexporte in den Nahen Osten. „Von einer Zurückhaltung wie bei Waffengeschäften mit anderen Ländern des Mittleren Ostens war hier nichts zu spüren“, kommentierte ein Branchenkenner.\n\nHandelsblatt-Reporter Sönke Iwersen und Lars-Marten Nagel rollten den Fall einige Jahre später auf. Sie werteten Gerichtsakten aus, trafen Insider und stießen auf ein Geflecht von Firmen und hohen Provisionszahlungen rund um das Geschäft. Davon profitierten offenbar auch ein katarischer Geheimdienstgeneral und seine Familie; der Mann arbeitet heute als Botschafter in Moskau. Über die Provisionen wurde vor deutschen Gerichten gestritten, weil Vermittler ihre Honorare einklagten.\n\nAnfang 2026 kochte der alte Fall wieder hoch – zu einem heiklen Zeitpunkt: KNDS, der 2015 aus der Fusion von KMW mit dem französischen Staatsunternehmen Nexter hervorgegangene Panzerbauer, bereitete einen Börsengang vor. Fragen nach Compliance und Altlasten aus Rüstungsgeschäften mit Golfstaaten belasten die Equity Story.\n\nDer Fall zeigt die undurchsichtigen Nebengeschäfte des internationalen Waffenhandels und ihre späten Folgen."
+ },
+ {
+  "name": "Tesla-Experiment (autonomes Fahren)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bTesla-?Experiment\\b",
+   "\\bFull[\\s-]?Self[\\s-]?Driving\\b",
+   "\\bFSD\\b",
+   "\\bPichler\\b",
+   "\\bMissy Cummings\\b",
+   "\\bOptimus\\b"
+  ],
+  "summary": "Doku „Elon Musk Uncovered“: Autopilot-Unfälle, FSD-Zulassung in Europa 2026, gebrochene Versprechen an Käufer.",
+  "body": "Im April 2019 verkündete Elon Musk, Teslas Autopilot sei etwa doppelt so sicher wie ein menschlicher Fahrer. Drei Tage später raste in Key Largo, Florida, ein Tesla Model S mit eingeschaltetem Autopiloten über eine Kreuzung und erfasste ein junges Paar; die 22-jährige Naibel Benavides starb. Im August 2025 verurteilte eine Jury in Miami Tesla zu 243 Millionen Dollar Schadensersatz.\n\nDer Fall ist einer von mehreren, die der Dokumentarfilm „Elon Musk Uncovered – Das Tesla-Experiment“ von Andreas Pichler erzählt. Grundlage sind die Tesla-Files: rund 100 Gigabyte interner Daten, die ein Whistleblower Ende 2022 dem Handelsblatt zuspielte. Darin finden sich tausende Kundenbeschwerden über plötzliches Beschleunigen, Phantombremsungen und Autopilot-Probleme. Die Robotik-Professorin Missy Cummings, Beraterin der US-Verkehrsbehörde NHTSA, warnt: „Eine Halluzination bei hoher Geschwindigkeit ist tödlich.“\n\nIm April 2026 genehmigte die niederländische Zulassungsbehörde RDW erstmals „Full Self-Driving“ (FSD) in Europa. Doch auf rund vier Millionen älteren Teslas läuft die Software nicht – obwohl deren Käufern genau diese Fähigkeit zugesichert und teuer verkauft worden war. Die Frage, was aus Teslas Versprechen wurde, beschäftigt Gerichte und Aufsichtsbehörden in den USA und Europa.\n\nHinzu kommen Berichte aus Grünheide, wo Beschäftigte mit Kamera-Rucksäcken Bewegungsdaten liefern sollen, um den humanoiden Roboter Optimus zu trainieren – ein weiteres Experiment, bei dem Menschen als Versuchskaninchen dienen."
+ },
+ {
+  "name": "Tesla-Autopilot-Prozess (Benavides)",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bAutopilot-?(Prozess|Urteil)\\b",
+   "\\bBenavides\\b",
+   "\\bKey Largo\\b",
+   "\\bAngulo\\b",
+   "\\bMcGee\\b"
+  ],
+  "summary": "Tödlicher Autopilot-Unfall in Florida 2019: Jury verurteilt Tesla 2025 zu über 240 Mio. Dollar Schadensersatz.",
+  "body": "Am 25. April 2019 raste in Key Largo, Florida, ein Tesla Model S mit aktiviertem Autopiloten über ein Stoppschild und eine Kreuzung und rammte ein geparktes Auto, neben dem ein junges Paar in den Sternenhimmel schaute. Die 22-jährige Naibel Benavides Leon starb, ihr Freund Dillon Angulo wurde schwer verletzt. Der Fahrer hatte sich nach seinem heruntergefallenen Handy gebückt und darauf vertraut, dass das Assistenzsystem reagieren würde.\n\nIm Sommer 2025 verhandelte ein Bundesgericht in Miami die Klage der Hinterbliebenen und des Überlebenden. Am 1. August 2025 befand die Jury Tesla für mitverantwortlich und sprach den Klägern rund 243 Millionen Dollar zu – rund 43 Millionen Dollar Schadensersatz, an dem Tesla zu einem Drittel beteiligt wird, sowie 200 Millionen Dollar Strafschadensersatz. Es war das erste Jury-Urteil gegen Tesla wegen eines tödlichen Autopilot-Unfalls; der Konzern kündigte Berufung an.\n\nIm Prozess konnten die Kläger belegen, dass der Autopilot die Kreuzung nicht erkannte und nicht bremste. Brisant war zudem der Vorwurf, Tesla habe entscheidende Unfalldaten – den sogenannten Kollisions-Snapshot – zunächst verschwiegen; erst ein Sachverständiger fand die Daten auf Tesla-Servern.\n\nDas Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Namen „Autopilot“ und Musks Sicherheitsversprechen infrage stellt. Es stützt sich auch auf Erkenntnisse aus den Tesla-Files, die tausende Kundenbeschwerden über das System dokumentieren."
+ },
+ {
+  "name": "Fall Daniel Starr",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bDaniel Starr\\b",
+   "\\bStarrs?\\b"
+  ],
+  "min": 8,
+  "summary": "Bonner Staatsanwälte jagen US-Unternehmer Daniel Starr wegen Steuerhinterziehung – Haftbefehl rechtswidrig.",
+  "body": "Daniel Starr ist ein US-amerikanischer Tech-Unternehmer und Investor. Er gründete, kaufte und verkaufte Dutzende Firmen, spendete Millionen an die Ukraine und verkaufte eine Villa in Beverly Hills an die Sängerin Rihanna. Seit rund 2020 ermittelt die Staatsanwaltschaft Bonn gegen ihn – der Vorwurf lautet Steuerhinterziehung im Zusammenhang mit früheren Geschäftsaktivitäten in Deutschland.\n\nIm November 2022 eskalierte der Fall: Auf dem Pariser Flughafen stürmten schwer bewaffnete Polizisten Starrs Privatjet und nahmen ihn fest. Grundlage war ein Europäischer Haftbefehl der deutschen Ermittler, der später gerichtlich als rechtswidrig aufgehoben wurde. Starr saß zeitweise in Auslieferungshaft, ohne nach eigener Darstellung jahrelang zu erfahren, was ihm konkret vorgeworfen wird.\n\nDas Verfahren sticht durch seine Härte heraus: Zwangsmaßnahmen, internationale Fahndung, lange Dauer – bei einem Beschuldigten, der sich kooperationsbereit zeigte. Starr fordert inzwischen Schadensersatz in Milliardenhöhe vom Land Nordrhein-Westfalen. Politiker aus dem Umfeld von Donald Trump schalteten sich ein und kritisierten die Methoden der deutschen Strafverfolger – der Fall wurde zum Politikum zwischen Washington und Berlin.\n\nEr wirft die Frage auf, wie verhältnismäßig deutsche Staatsanwaltschaften bei Steuerverfahren gegen Ausländer vorgehen und welche Folgen ein rechtswidriger Haftbefehl für die Betroffenen hat."
+ },
+ {
+  "name": "Megajachten-Sanktionen",
+  "folder": "Fälle",
+  "patterns": [
+   "\\b(Mega|Super)[\\s-]?(j|y)acht",
+   "\\bDilbar\\b",
+   "\\bAmadea\\b",
+   "\\bScheherazade\\b",
+   "\\bUsmanow\\b",
+   "\\bUsmanov\\b"
+  ],
+  "summary": "Sanktionen gegen Oligarchen-Jachten seit 2022: blockierte Docks, Eignerstreit, Millionenkosten – kaum Wirkung.",
+  "body": "Nach dem russischen Überfall auf die Ukraine 2022 kündigten westliche Regierungen an, Oligarchen aus Putins Umfeld ihre Megajachten, Privatjets und Luxusvillen zu nehmen. US-Präsident Joe Biden versprach im Fernsehen, die Jachten festzusetzen, zu beschlagnahmen oder einzufrieren. Der Gedanke: Wer die Reichen trifft, nimmt Putin die Unterstützung.\n\nDrei Jahre später fällt die Bilanz ernüchternd aus. Zahlreiche Jachten liegen in europäischen Häfen fest – etwa die „Dilbar“, eines der größten Motorschiffe der Welt, die seit 2022 in Hamburg blockiert ist und einer Schwester des Oligarchen Alischer Usmanow zugerechnet wird. Die „Amadea“ wurde von US-Behörden auf Fidschi beschlagnahmt, die „Scheherazade“ in Italien festgesetzt. Doch Einfrieren ist nicht Enteignen: Ohne strafrechtliche Verurteilung dürfen die Schiffe in der EU nicht verwertet werden.\n\nStattdessen entstehen hohe Kosten: Die Unterhaltung einer Megajacht verschlingt Millionen pro Jahr, Werften blockieren Docks, Hafenbetreiber streiten um Liegegebühren. Vor Gerichten tobt der Streit über die wahren Eigner, die sich hinter Briefkastenfirmen und Treuhändern verbergen. Mancher Oligarch wurde von Sanktionslisten gestrichen, manche Jacht wechselte formal den Besitzer.\n\nDie Recherche des Handelsblatts zeigt, dass die Sanktionen symbolpolitisch wirkten, praktisch aber an rechtlichen Hürden, Eigentumsverschleierung und mangelnder Durchsetzung scheitern."
+ },
+ {
+  "name": "Syntellix und Utz Claassen",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bSyntellix\\b",
+   "\\bClaassen\\b",
+   "\\bFitschen\\b"
+  ],
+  "summary": "Medizintechnikfirma Syntellix: Betrugs- und Insolvenzverschleppungsverdacht gegen Ex-EnBW-Chef Utz Claassen.",
+  "body": "Utz Claassen galt einst als Wunderkind der deutschen Wirtschaft: Abitur mit 0,7, Studium in Oxford, McKinsey, Vorstandsposten bei Volkswagen und Sartorius, später Vorstandschef des Energiekonzerns EnBW. Er pflegte das Image des knallharten Sanierers – und geriet immer wieder in Streit, etwa um Abfindungen und Pensionen, die ihm Vorwürfe der Abzocke einbrachten.\n\nSeit 2008 führt Claassen die von ihm gegründete Medizintechnikfirma Syntellix in Hannover, die Implantate aus abbaubarem Magnesium entwickelt. Das Produkt gilt als innovativ, doch das Unternehmen fiel über Jahre vor allem durch große Versprechen, verfehlte Ziele, nicht gezahlte Gehälter und offene Rechnungen auf. Die Staatsanwaltschaft Hannover ermittelt gegen Claassen wegen des Verdachts des Betrugs und der Insolvenzverschleppung; 2025 wurden Geschäftsräume durchsucht und die Ermittlungen ausgeweitet.\n\nClaassen weist die Vorwürfe empört zurück und sieht sich als Opfer: Der frühere Deutsche-Bank-Chef Jürgen Fitschen, zeitweise Aufsichtsrat bei Syntellix, habe die Firma mit einem „Fünf-Stufen-Plan“ zerstören wollen. Claassen verklagte Fitschen auf 68 Millionen Euro Schadensersatz.\n\nDer Fall zeichnet das Bild eines Managers zwischen Selbstinszenierung, Größenwahn und juristischen Dauerfehden – und wirft die Frage auf, wie aus einem Überflieger, dem einst alle Türen offenstanden, ein Beschuldigter in einem Wirtschaftsstrafverfahren wurde."
+ },
+ {
+  "name": "Fraunhofer-Spesenaffäre",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bFraunhofer\\b",
+   "\\bNeugebauer\\b",
+   "\\bSpesenaffäre\\b",
+   "\\bSpesenskandal\\b"
+  ],
+  "summary": "Fraunhofer-Gesellschaft: Bundesrechnungshof rügt Spesen- und Reisekostenverstöße der Spitze, Untreue-Verdacht.",
+  "body": "Die Fraunhofer-Gesellschaft ist mit rund 30.000 Beschäftigten und Milliardenbudgets aus Bund und Ländern Europas größte Organisation für angewandte Forschung. 2023 stellte der Bundesrechnungshof fest, dass Führungskräfte jahrelang gegen Spesen- und Reisekostenregeln verstoßen hatten: teure Hotels, Reisen, Dienstwagen, Bewirtungen und Veranstaltungen, die mit Steuergeld finanziert wurden. Das Ergebnis der Untersuchung war verheerend.\n\nIm Zentrum stand der damalige Präsident Reimund Neugebauer, der sein Budget offenbar immer wieder überschritten und sich teure Eskapaden gegönnt haben soll. Er musste die Organisation vorzeitig verlassen. Die Staatsanwaltschaft ermittelt wegen Untreue. Für Fragen sorgt auch die Aufarbeitung: Eine heutige Vorständin war ausgerechnet für die Bereiche verantwortlich, in denen Regeln gebrochen wurden – andere verloren ihre Jobs, sie machte Karriere.\n\nRecherchen des Handelsblatts zeigten zudem, dass die Anwaltshonorare für die Aufarbeitung den eigentlichen Schaden deutlich übersteigen und dass Aufträge an eine PR-Agentur Fragen aufwerfen. Kritiker sehen ein Versagen der Kontrollmechanismen: Senat, Kuratorium und das Bundesforschungsministerium als wichtigster Geldgeber griffen lange nicht ein.\n\nDer Skandal beschädigte die Reputation eines Leuchtturms der deutschen Wissenschaft und wirft ein Licht auf die Führungskultur in öffentlich finanzierten Forschungseinrichtungen, die weniger Transparenzpflichten haben als börsennotierte Unternehmen."
+ },
+ {
+  "name": "Henry O’Sullivan",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bO.?Sullivan\\b",
+   "\\bOsullivan\\b",
+   "\\bJames Henry\\b"
+  ],
+  "summary": "Marsaleks Schattenmann: Henry O’Sullivan in Singapur wegen gefälschter Saldenbestätigungen verurteilt.",
+  "body": "James Henry O’Sullivan gilt als heimlicher Strippenzieher des Wirecard-Skandals. Der britische Geschäftsmann hatte nie eine offizielle Funktion bei dem Zahlungsdienstleister, fädelte als externer Berater aber vor allem in Asien zahlreiche Deals ein – etwa Übernahmen in Indien und Südostasien, bei denen Wirecard überhöhte Preise zahlte und Geld in dunklen Kanälen versickerte. Mit dem damaligen Vorstand Jan Marsalek verband ihn eine enge Freundschaft; beide feierten viele Nächte durch.\n\nEnde 2025 sprach ein Gericht in Singapur O’Sullivan und einen Komplizen wegen Kontenfälschungen in Milliardenhöhe schuldig. Das Urteil zeichnete detailliert nach, wie O’Sullivan falsche Saldenbestätigungen für jene Treuhandkonten organisierte, auf denen die angeblichen Wirecard-Milliarden liegen sollten. Dass diese 1,9 Milliarden Euro nicht existierten, führte im Juni 2020 zum Zusammenbruch des Dax-Konzerns und wenige Tage später zur Insolvenz.\n\nIn Chats fluchte O’Sullivan über die „deutschen Bastarde“ – gemeint waren offenbar Wirecard-Manager und Prüfer, die unbequeme Fragen stellten. Deutsche Ermittler führen ihn seit Jahren als Beschuldigten; eine Auslieferung scheiterte bislang.\n\nDer Fall zeigt, wie Wirecard über ein Netz externer Vertrauter funktionierte, die Scheingeschäfte und gefälschte Belege lieferten – und wie wenig die offiziellen Kontrollinstanzen davon mitbekamen."
+ },
+ {
+  "name": "Falscher Baron von Krupp",
+  "folder": "Fälle",
+  "patterns": [
+   "\\bBohlen und Halbach\\b",
+   "\\bPeter Sommer\\b",
+   "\\bKrupp\\b",
+   "\\bfalsche[rn]? Baron\\b"
+  ],
+  "summary": "Peter von Bohlen und Halbach gibt sich als Krupp-Spross und Klimaretter – geboren als Peter Sommer.",
+  "body": "In den sozialen Netzwerken tritt Peter von Bohlen und Halbach so auf, wie man es von einem Baron erwartet: Er jettet um die Welt, speist in teuren Restaurants, übernachtet in luxuriösen Hotels. Der Name erinnert an die Industriellendynastie Krupp von Bohlen und Halbach, die den Stahlkonzern Krupp über Generationen führte. Von Bohlen und Halbach hat sich Großes vorgenommen: Er will mit einem selbst gegründeten Klimainstitut den Klimawandel aufhalten und berät in Brasilien mehrere Bundesstaaten bei der Vermarktung von CO₂-Zertifikaten.\n\n„Ich trage den Namen nicht als Behauptung, sondern als verbriefte, verantwortungsvolle Realität“, schrieb er dem Handelsblatt. Die Recherche ergab ein anderes Bild: Der Mann hat mit der Familie Krupp nichts zu tun. Er wurde als Peter Sommer geboren; sein Lebenslauf ist von Insolvenzen und Betrugsfällen geprägt. Erst eine Hochzeit in Las Vegas ermöglichte ihm die Namensänderung – ein Weg, über den sich in den USA ein Nachname rechtlich erwerben lässt.\n\nAls die Handelsblatt-Volontärin Anna Lauterjung und die Praktikantin Alina Katzele nachfragten, reagierte er mit Drohungen. Sie recherchierten weiter.\n\nDer Fall steht für eine Spielart des Hochstapelns, bei der ein klangvoller Name als Türöffner für Geschäftsbeziehungen, Behördenkontakte und Investorengespräche dient – im wachsenden, schwer kontrollierten Markt für CO₂-Zertifikate."
+ }
 ]

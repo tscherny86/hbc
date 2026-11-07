@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Whistleblower]], [[Spionage]], [[Datenleck]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]] |
+| **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
+| **Personen** | [[Sönke Iwersen]], [[Lukasz Krupski]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[BND-Spionage]] |
 | **Themen** | [[Spionage]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[BND]] |
 | **Personen** | [[Martin Murphy]] |
 | **Kurz erwähnt** | – |
 

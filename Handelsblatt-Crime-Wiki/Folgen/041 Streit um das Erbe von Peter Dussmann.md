@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Erbstreit Dussmann]] |
 | **Themen** | [[Erbstreit]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Dussmann]] |
+| **Personen** | [[Peter Dussmann]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

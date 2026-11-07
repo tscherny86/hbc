@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 7
+folgen: 9
 tags: [themen]
 ---
 # Insolvenzverwalter
@@ -27,6 +27,30 @@ In der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschä
 
 ## Was im Podcast gesagt wird
 
+> … auch ein bisschen kurios. Zwei Immobilienfirmen der Gruppe werden insolvent und der Insolvenzverwalter will da die Häuser verwerten und es trifft eben auch noch eine andere zentrale Gesellschaft der Hedera-Gruppe, die das Hafenquartier managt. …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 59:08](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3548) · [[Transkript 155#Minute 59|im Transkript]]
+
+> … passen ja auch noch nicht so richtig dazu, dass eben dieser vorläufige Insolvenzverwalter, du hast es ja eben gesagt, bestellt worden ist, weil wenn das zurückgeführt würde, dann wären sie raus. Also wurde zurückgeführt …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 1:00:41](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3641) · [[Transkript 155#Minute 60|im Transkript]]
+
+> … der Insolvenz. Was passiert denn da bei Teldafax? Da kommt wahrscheinlich ein Insolvenzverwalter rein, oder? Genau, da kommt ein Insolvenzverwalter, der heißt Bina Bär, ist Anwalt bei der Kanzlei White & Case und auch …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 54:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3269) · [[Transkript 156#Minute 54|im Transkript]]
+
+> … da raus und stundenlang diese Einschreibung mit Rückschein unterschreiben. So und der Insolvenzverwalter guckt sich das drei Tage lang an und dann stellt er den Betrieb ein. Weil er sagt, ich kann hier guten …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 56:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3362) · [[Transkript 156#Minute 56|im Transkript]]
+
+> … hat 2 ,8 Millionen Euro zurückbezahlt. Okay, und wie viel konnte der Insolvenzverwalter Bayer dann insgesamt für die ganzen privaten Stromkunden zurückholen? Das waren tatsächlich mehrere hundert Millionen Euro. Also das, was für die …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 57:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3476) · [[Transkript 156#Minute 57|im Transkript]]
+
+> … Sache. Die Sache ist noch nicht zu Ende. Ich habe bei dem Insolvenzverwalter nochmal nachgefragt und der sagt, das Verfahren läuft. Also es hat noch kein Punde, auch nur irgendeinen Cent bekommen. Warum ist …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:09:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4154) · [[Transkript 156#Minute 69|im Transkript]]
+
 > … jetzt am Tiefpunkt meines Lebens, ich sitze hier in Urhaft, der der Insolvenzverwalter ist hinter meinem Vermögen her, jetzt habe ich eine einmalige Chance. Jetzt kann ich ja rausfinden, welche Frau sich wirklich für …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 43:10](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2590) · [[Transkript 158#Minute 43|im Transkript]]
@@ -39,7 +63,7 @@ In der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschä
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:06:25](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3985) · [[Transkript 158#Minute 66|im Transkript]]
 
-## In diesen Folgen (7)
+## In diesen Folgen (9)
 
 - [[007 Wirecard-Skandal Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ|#7 – Wirecard-Skandal: Wie Ex-Vorstand Jan Marsalek 315 Millionen Euro verschwinden ließ]] (2022-02-18) — Shownotes
 - [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Shownotes
@@ -48,6 +72,8 @@ In der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschä
 - [[113 Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und|#113 – Der Skandal um die Greensill Bank – wie ein kleines Bremer Finanzinstitut Anleger und Kommunen um Milliarden brachte]] (2025-05-04) — Shownotes
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes
 - [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes
+- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [59:08](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3548), [1:00:41](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3641)
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [54:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3269), [56:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3362), [57:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3476), [1:09:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4154)
 
 ## Kurz erwähnt (1)
 

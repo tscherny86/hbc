@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Insolvenzverschleppung]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
+| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]], [[Anne Brorhilker]], [[Peter Biesenbach]], [[Jürgen Fitschen]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

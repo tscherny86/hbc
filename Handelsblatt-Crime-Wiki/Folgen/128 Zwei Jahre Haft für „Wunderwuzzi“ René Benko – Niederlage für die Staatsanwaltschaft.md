@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Signa und René Benko]] |
 | **Themen** | [[Insolvenz]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
+| **Unternehmen** | [[Signa]], [[Handelsblatt]] |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Betrug]], [[Bilanzfälschung]], [[Untersuchungshaft]], [[Strafverteidigung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Landgericht München]] |
+| **Personen** | [[Michael Verfürden]], [[René Bender]], [[Jan Marsalek]], [[Markus Braun]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

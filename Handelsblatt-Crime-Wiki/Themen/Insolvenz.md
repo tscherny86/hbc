@@ -5,7 +5,7 @@ tags: [themen]
 ---
 # Insolvenz
 
-_Gerichtliches Verfahren bei Zahlungsunfähigkeit oder Überschuldung zur gleichmäßigen Befriedigung der Gläubiger._
+_Verfahren bei Zahlungsunfähigkeit oder Überschuldung zur gleichmäßigen Befriedigung aller Gläubiger._
 
 ## Erklärung
 Eine **Insolvenz** liegt vor, wenn ein Unternehmen oder eine Person zahlungsunfähig (§ 17 InsO), drohend zahlungsunfähig (§ 18) oder überschuldet (§ 19) ist. Das Insolvenzverfahren nach der Insolvenzordnung soll das verbliebene Vermögen sichern und alle Gläubiger gleichmäßig befriedigen – entweder durch Verwertung (Liquidation) oder durch Sanierung über einen Insolvenzplan.
@@ -21,6 +21,38 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 > wurde, steht unten – mit Link zur genauen Minute.
 
 ## Was im Podcast gesagt wird
+
+> … geantwortet hat im Oktober 25. Also am Amtsgericht Charlottenburg seien zehn laufende Insolvenzverfahren und acht laufende Zivilverfahren anhängig. Ein Verfahren gibt es am Amtsgericht Kreuzberg, zwei am Amtsgericht Wedding und 33 am Landgericht Berlin …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 49:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2996) · [[Transkript 155#Minute 49|im Transkript]]
+
+> … Blick auf die HEDERA-Bauwert GmbH, nicht auf die Gruppe, schreibt sie, ein Insolvenzverfahren ist noch nicht eröffnet. Ermittlungen wegen Insolvenzverschleppung oder Bankrottstraftaten seien nicht bekannt. Und andere Ermittlungen wegen des Verdachts der Geldwäsche seien …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 52:07](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3127) · [[Transkript 155#Minute 52|im Transkript]]
+
+> … Investor aus Malta, auch ein bisschen kurios. Zwei Immobilienfirmen der Gruppe werden insolvent und der Insolvenzverwalter will da die Häuser verwerten und es trifft eben auch noch eine andere zentrale Gesellschaft der Hedera-Gruppe, die …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 59:06](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3546) · [[Transkript 155#Minute 59|im Transkript]]
+
+> … könnten, weswegen da Polizeischutz besteht. Die Muttergesellschaft Hedera-Bauwert, die steckt im vorläufigen Insolvenzverfahren und gegen den Chef der Hedera-Bauwert ermitteln die Staatsanwälte in Berlin und in Hamburg wiederum wartet man auf eine Überweisung, um …
+>
+> — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 1:08:10](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=4090) · [[Transkript 155#Minute 68|im Transkript]]
+
+> … wechseln ist ein Klacks. Teldafax. Teldafax Energy. Einfach günstiger Strom. Nach dem Insolvenzantrag des Energieanbieters Teldafax aus Troßdorf bei Bonn sind jetzt viele Kunden verunsichert. Teldafax war vor allem als billiger Anbieter für Strom …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 0:18](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=18) · [[Transkript 156#Minute 0|im Transkript]]
+
+> … wirklich bis zum Ende des Vertrags geliefert wird. Oder vielleicht das Unternehmen pleite geht und dann kommt der Sönke bei dir mit den Plastiktüten an und sagt, da stimmt doch irgendwas nicht. Ja, und …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 8:21](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=501) · [[Transkript 156#Minute 8|im Transkript]]
+
+> … dann die Leitungen gekappt. Und 2001 ist die alte Teldafax schon mal pleite gewesen. Okay, interessant. Ein Unternehmen, das pleite gegangen ist, mit der eigentlich auch so ein bisschen altbackener Technik. Ich meine, Fax …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 19:01](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1141) · [[Transkript 156#Minute 19|im Transkript]]
+
+> … Und in diesem Schreiben steht, in Kalenderwoche 25 wurde der Tatbestand der Zahlungsunfähigkeit festgestellt. Okay, also im Prinzip ist jetzt intern schon im Sommer 2009 klar, das ist jetzt eine absolute Existenzkrise. Ja, und …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 37:41](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2261) · [[Transkript 156#Minute 37|im Transkript]]
 
 > … Da kommen wir glaube ich gleich noch zu mit Blick auf das Insolvenzverfahren, was gegen ihn noch läuft. Das Erstaunliche ist, weil du sagst Prunk und Luxus, es war so steril. Es war irgendwie …
 >
@@ -78,11 +110,12 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes
 - [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
-- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes · Minute [0:18](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=18), [8:21](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=501), [19:01](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1141), [37:41](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2261)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [30:55](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1855), [34:27](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2067), [45:40](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2740), [48:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2929)
 
-## Kurz erwähnt (1)
+## Kurz erwähnt (2)
 
+- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [49:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2996), [52:07](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3127), [59:06](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3546), [1:08:10](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=4090)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [38:10](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2290), [1:04:09](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3849)
 
 ---

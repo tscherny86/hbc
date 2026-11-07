@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Porsche-Ikone vor Gericht]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
+| **Unternehmen** | [[Porsche]] |
+| **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]], [[Jürgen Barth]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

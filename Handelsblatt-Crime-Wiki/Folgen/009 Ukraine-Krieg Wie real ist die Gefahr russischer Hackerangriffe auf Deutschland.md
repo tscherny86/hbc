@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Hackerangriffe im Ukraine-Krieg]], [[BSI-Affäre Schönbohm]] |
 | **Themen** | [[Cyberangriff und Ransomware]], [[Erpressung]], [[Windkraft-Projektentwicklung]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Martin Murphy]] |
+| **Unternehmen** | [[BSI]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Martin Murphy]], [[Nancy Faeser]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

@@ -21,8 +21,8 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
+| **Unternehmen** | [[M.M. Warburg]], [[BaFin]], [[Handelsblatt]], [[Landgericht Bonn]] |
+| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Christian Olearius]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

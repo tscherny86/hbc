@@ -1,0 +1,588 @@
+[
+ {
+  "name": "EY (Ernst & Young)",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bE ?Y\\b",
+   "\\bErnst ?& ?Young\\b",
+   "\\bErnst and Young\\b",
+   "\\bWambach\\w*"
+  ],
+  "summary": "Big-Four-Prüfgesellschaft, die Wirecards Bilanzen ein Jahrzehnt lang uneingeschränkt testierte.",
+  "body": "**EY (Ernst & Young)** gehört mit KPMG, PwC und Deloitte zu den „Big Four“ der Wirtschaftsprüfung. Das globale Netzwerk mit Hauptsitz in London beschäftigt rund 400.000 Menschen; die deutsche Gesellschaft mit Sitz in Stuttgart prüft zahlreiche DAX-Konzerne.\n\nVon 2009 bis 2019 testierte EY die Jahresabschlüsse von Wirecard ohne Einschränkung, obwohl Geschäftspartner nicht erreichbar waren, Saldenbestätigungen für Treuhandkonten zweifelhaft blieben und Journalisten der Financial Times seit 2015 vor Unregelmäßigkeiten warnten. Erst 2020 verweigerte EY das Testat – da war der Betrug bereits aufgeflogen.\n\nDer vom Bundestag beauftragte Sonderermittler Martin Wambach bescheinigte den Prüfern in einem als geheim eingestuften Bericht schwere Versäumnisse; das Handelsblatt veröffentlichte den Report 2021 vollständig. Die Abschlussprüferaufsicht APAS verhängte 2023 die bislang härteste Sanktion gegen eine deutsche Prüfgesellschaft: eine Geldbuße und ein zweijähriges Verbot, neue Mandate bei Unternehmen von öffentlichem Interesse anzunehmen. Der Wirecard-Insolvenzverwalter fordert 1,5 Milliarden Euro Schadenersatz, die Schutzgemeinschaft der Kapitalanleger 700 Millionen Euro. EY bestreitet eine Haftung und verweist darauf, selbst getäuscht worden zu sein."
+ },
+ {
+  "name": "KPMG",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bKPMG\\b",
+   "\\bKPM ?G\\b",
+   "\\bKa ?Pe ?Em ?Ge\\b"
+  ],
+  "summary": "Big-Four-Prüfer, der bei Wirecard die Sonderprüfung übernahm und bei Adler das Mandat niederlegte.",
+  "body": "**KPMG** ist eine der vier großen Wirtschaftsprüfungs- und Beratungsgesellschaften der Welt. Die deutsche KPMG AG hat ihren Sitz in Berlin, beschäftigt rund 14.000 Menschen und prüft zahlreiche Großkonzerne.\n\nIn mehreren Wirtschaftsskandalen spielte KPMG eine Schlüsselrolle:\n\n- **Wirecard**: Auf Druck des Aufsichtsrats führte KPMG 2019/2020 eine Sonderuntersuchung durch. Der im April 2020 veröffentlichte Bericht konnte die Existenz der Drittpartnerumsätze nicht bestätigen – ein Wendepunkt, nach dem der Aktienkurs einbrach und der Betrug zwei Monate später aufflog.\n- **Adler Group**: KPMG prüfte die Vorwürfe des Leerverkäufers Fraser Perring, konnte den Konzern nicht vollständig entlasten, verweigerte 2022 das Testat für den Jahresabschluss 2021 und legte das Mandat nieder, weil Adler Hunderttausende Dokumente nicht herausgegeben habe.\n- **Cum-Ex**: Die Frankfurter Zentrale wurde durchsucht, weil Steuerberater des Hauses an Gutachten und Strukturen für Cum-Ex-Geschäfte beteiligt gewesen sein sollen.\n\nDie Fälle zeigen das Dilemma der Branche: Prüfer sind von ihren Mandanten abhängig und sollen sie zugleich kontrollieren. Nach dem Wirecard-Skandal verschärfte das Finanzmarktintegritätsstärkungsgesetz 2021 Rotation, Haftung und Aufsicht."
+ },
+ {
+  "name": "Volkswagen",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bVolkswagen\\w*",
+   "\\bVW\\b",
+   "\\bWolfsburg\\w*",
+   "\\bWinterkorn\\w*"
+  ],
+  "summary": "Wolfsburger Autokonzern, dessen Dieselskandal 2015 mehr als 30 Milliarden Euro kostete.",
+  "body": "Die **Volkswagen AG** mit Sitz in Wolfsburg ist der größte Autohersteller Europas mit Marken wie VW, Audi, Porsche, Škoda, Seat und Lamborghini, rund 680.000 Beschäftigten und einem Jahresumsatz von mehr als 300 Milliarden Euro.\n\n**Dieselskandal:** Am 18. September 2015 teilte die US-Umweltbehörde EPA mit, dass VW in rund 500.000 Dieselfahrzeugen eine Software eingesetzt hatte, die Abgastests erkannte und nur dann die volle Abgasreinigung aktivierte. Weltweit waren etwa elf Millionen Fahrzeuge betroffen. Vorstandschef Martin Winterkorn trat fünf Tage später zurück. In den USA bekannte sich der Konzern schuldig und zahlte mehr als 20 Milliarden Dollar; in Deutschland folgten eine Milliarde Euro Bußgeld, ein Vergleich mit rund 260.000 Kunden über mehr als 800 Millionen Euro und ein Anlegerprozess in Braunschweig über fast zehn Milliarden Euro. Die Gesamtkosten überstiegen 30 Milliarden Euro.\n\nGegen Winterkorn und weitere Manager erhob die Staatsanwaltschaft Braunschweig Anklage wegen Betrugs und Marktmanipulation; der Prozess gegen Winterkorn wurde 2024 aus gesundheitlichen Gründen immer wieder unterbrochen. Interne E-Mails („Ohne Bescheißen werden wir es nicht schaffen“) und ein 550 Mitarbeiter starkes Compliance-System, das nichts bemerkte, prägen das Bild des Konzerns bis heute."
+ },
+ {
+  "name": "Audi",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bAudi\\b",
+   "\\bIngolstadt\\w*",
+   "\\bRupert Stadler\\b",
+   "\\bStadler\\b"
+  ],
+  "summary": "Ingolstädter VW-Tochter, deren Ex-Chef Rupert Stadler 2023 im Dieselskandal verurteilt wurde.",
+  "body": "Die **Audi AG** mit Sitz in Ingolstadt ist die Premiummarke des Volkswagen-Konzerns mit rund 90.000 Beschäftigten und Werken unter anderem in Neckarsulm, Ungarn, Mexiko und China. Audi entwickelte die großen V6- und V8-Dieselmotoren, die auch in Porsche- und VW-Modellen zum Einsatz kamen.\n\nIm **Dieselskandal** stand Audi von Anfang an im Zentrum: Ein Audi-Ingenieur schrieb schon 2008, ohne „Bescheißen“ seien die Abgasgrenzwerte nicht zu schaffen. In den Motoren wurden Abschalteinrichtungen verbaut, die die Abgasreinigung im Straßenbetrieb reduzierten. Audi-Chef Rupert Stadler wurde 2018 verhaftet und verbrachte vier Monate in Untersuchungshaft.\n\nDer erste deutsche Diesel-Strafprozess begann 2020 vor dem Landgericht München II. Nach rund 170 Verhandlungstagen legten Stadler, der frühere Motorenentwicklungschef Wolfgang Hatz und der Ingenieur Giovanni Pamio Geständnisse ab. Im Juni 2023 erhielt Stadler eine Bewährungsstrafe von einem Jahr und neun Monaten sowie eine Geldauflage von 1,1 Millionen Euro – die erste Verurteilung eines Vorstandschefs im Dieselskandal. Hatz bekam zwei Jahre auf Bewährung und 400.000 Euro Geldauflage. Audi selbst zahlte 2018 ein Bußgeld von 800 Millionen Euro."
+ },
+ {
+  "name": "Porsche",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bPorsche\\b",
+   "\\bPorsches\\b",
+   "\\bZuffenhausen\\w*",
+   "\\bJürgen Barth\\b"
+  ],
+  "summary": "Stuttgarter Sportwagenhersteller – Schauplatz eines Prozesses um gefälschte historische Rennwagen.",
+  "body": "Die **Porsche AG** mit Sitz in Stuttgart-Zuffenhausen ist der profitabelste Autohersteller des Volkswagen-Konzerns und seit 2022 selbst börsennotiert. Die Marke lebt von ihrer Rennsportgeschichte – Siege in Le Mans und auf dem Nürburgring machen historische Modelle zu Sammlerobjekten, die zweistellige Millionenbeträge erzielen.\n\nGenau dieser Markt wurde zum Kriminalfall: Jürgen Barth, Le-Mans-Sieger von 1977 und jahrzehntelang Mitarbeiter des Konzerns, galt als „Gedächtnis von Porsche“ und als Autorität für die Echtheit historischer Fahrzeuge. Die Staatsanwaltschaft Aachen warf ihm vor, gemeinsam mit einem Händler nachgebaute Rennwagen als Originale ausgegeben und vermögende Sammler um Millionen gebracht zu haben. Porsche erklärte ihn zur unerwünschten Person. Vor dem Landgericht Aachen kam Barth vergleichsweise glimpflich davon; die zivilrechtlichen Auseinandersetzungen um die Fahrzeuge und die Frage, was ein Original ausmacht, dauern an. Käufer fürchten, dass ihre Autos als Fälschungen verschrottet werden.\n\nPorsche taucht in Wirtschaftsskandalen auch als Statussymbol auf: Immobilienunternehmer verkauften ihre Sportwagen, um Gläubiger zu beruhigen, Bankvorstände beteiligten sich an Luxusprojekten."
+ },
+ {
+  "name": "Tesla",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bTesla\\w*",
+   "\\bGrünheide\\w*",
+   "\\bElon Musk\\b",
+   "\\bMusk\\b",
+   "\\bGiga ?[Ff]a(ctory|brik)\\w*"
+  ],
+  "summary": "Elektroautohersteller von Elon Musk mit Werk in Grünheide – Gegenstand der Tesla-Files und mehrerer Prozesse.",
+  "body": "**Tesla, Inc.** mit Sitz in Austin, Texas, ist der wertvollste Autohersteller der Welt und wird von Elon Musk geführt, der mit SpaceX, Starlink und der Plattform X zusätzlichen politischen und wirtschaftlichen Einfluss ausübt. Seit 2022 produziert Tesla in **Grünheide** bei Berlin, seinem einzigen europäischen Werk.\n\nEnde 2022 spielte ein Whistleblower dem Handelsblatt die **Tesla-Files** zu: rund 100 Gigabyte interner Daten mit Tausenden Kundenbeschwerden über den Autopiloten, Unfallberichten, Gehältern und Privatadressen von mehr als 100.000 Beschäftigten. Datenschutzbehörden in Europa und den USA befassten sich mit dem Leck; Tesla sprach von Datendiebstahl und ging gegen den früheren Mitarbeiter Lukasz Krupski vor.\n\nIn den USA verurteilte eine Jury in Miami Tesla 2025 zu 243 Millionen Dollar Schadenersatz, weil der Autopilot 2019 in Florida einen tödlichen Unfall mitverursacht hatte und der Konzern Daten zurückgehalten hatte. 2026 genehmigte die niederländische Behörde RDW erstmals „Full Self-Driving“ in Europa – auf Millionen älteren Fahrzeugen läuft die Software jedoch nicht.\n\nIn Grünheide streiten Tesla und IG Metall über Arbeitsbedingungen, Krankenstände und die Betriebsratswahl, bei der Musk 2026 mit einem Stopp des Ausbaus drohte."
+ },
+ {
+  "name": "Signa",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bSigna\\b",
+   "\\bSigna[- ](Holding|Prime|Retail|Gruppe|Development)\\b",
+   "\\bBenko\\w*",
+   "\\bLaura Privatstiftung\\b"
+  ],
+  "summary": "Immobilien- und Handelsimperium von René Benko, dessen Insolvenz 2023 die größte Pleite Österreichs wurde.",
+  "body": "Die **Signa-Gruppe** wurde ab 1999 vom Tiroler René Benko aufgebaut und entwickelte sich zu einem der größten Immobilien- und Handelskonzerne Europas. Zum Portfolio gehörten Luxusimmobilien wie das KaDeWe in Berlin, das Chrysler Building in New York und der Elbtower in Hamburg, die Kaufhauskette Galeria Karstadt Kaufhof sowie Beteiligungen an Selfridges und Globus. Investoren waren unter anderem der Logistikunternehmer Klaus-Michael Kühne, der Bauunternehmer Hans Peter Haselsteiner und Fonds aus dem Nahen Osten.\n\nDas Geschäftsmodell beruhte auf immer neuen Krediten und Bewertungsgewinnen. Mit der Zinswende 2022 brach es zusammen: Im November 2023 meldete die Signa Holding Insolvenz an, es folgten Signa Prime, Signa Development und Dutzende Tochtergesellschaften mit Forderungen von weit über zehn Milliarden Euro.\n\nBenko wurde im Januar 2025 in Innsbruck verhaftet. Die österreichische Justiz warf ihm betrügerischen Bankrott und Vermögensverschleierung vor, unter anderem über die Laura Privatstiftung seiner Familie und Schenkungen an seine Mutter. Im Oktober 2025 verurteilte ihn das Landesgericht Innsbruck in einem ersten Verfahren zu zwei Jahren Haft; weitere Ermittlungsstränge in Österreich, Deutschland und Italien laufen. Gläubiger meldeten gegen Benko persönlich rund zwei Milliarden Euro an."
+ },
+ {
+  "name": "M.M. Warburg",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bWarburg\\w*",
+   "\\bM\\.? ?M\\.? ?Warburg\\b",
+   "\\bOlearius\\b",
+   "\\bWarburg[- ]Bank\\b"
+  ],
+  "summary": "Hamburger Privatbank, deren Cum-Ex-Geschäfte Olaf Scholz in einen Untersuchungsausschuss brachten.",
+  "body": "**M.M. Warburg & CO** ist eine 1798 gegründete Hamburger Privatbank, die lange zu den angesehensten Adressen der Hansestadt zählte. Gesellschafter und langjähriger Chef war Christian Olearius, ein Mäzen der Elbphilharmonie und des Thalia Theaters mit engen Kontakten in Politik und Gesellschaft.\n\nZwischen 2007 und 2011 beteiligte sich die Bank an **Cum-Ex-Geschäften**, beraten vom Steueranwalt Hanno Berger. Der Steuerschaden wird auf rund 280 Millionen Euro beziffert. Als das Finanzamt Hamburg 2016 rund 47 Millionen Euro zurückfordern wollte, traf sich Olearius mehrfach mit dem damaligen Ersten Bürgermeister Olaf Scholz; danach ließ die Finanzverwaltung die Forderung verjähren. Olearius' Tagebücher, die Ermittler beschlagnahmten, dokumentieren die Treffen. Scholz erklärte später, sich nicht erinnern zu können. Ein Untersuchungsausschuss der Hamburgischen Bürgerschaft befasste sich jahrelang mit dem Vorgang.\n\nZwei ehemalige Warburg-Banker und Berger wurden vom Landgericht Bonn verurteilt, die Bank musste Steuern und Gewinne in dreistelliger Millionenhöhe zurückzahlen. Der Prozess gegen Olearius wegen besonders schwerer Steuerhinterziehung begann 2023 in Bonn und wurde im Juni 2024 wegen seiner Erkrankung ohne Urteil eingestellt. Die Bank schrumpfte, die Familien Olearius und Warburg gaben die Kontrolle 2024 an neue Investoren ab."
+ },
+ {
+  "name": "LBBW",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bLBBW\\b",
+   "\\bLandesbank Baden[- ]Württemberg\\b",
+   "\\bL ?B ?B ?W\\b",
+   "\\bJaschinski\\b"
+  ],
+  "summary": "Größte deutsche Landesbank in Stuttgart, deren Cum-Ex-Geschäfte 150 Millionen Euro Schaden verursachten.",
+  "body": "Die **Landesbank Baden-Württemberg (LBBW)** mit Sitz in Stuttgart ist die größte deutsche Landesbank mit rund 10.000 Beschäftigten und einer Bilanzsumme von mehr als 300 Milliarden Euro. Eigentümer sind das Land Baden-Württemberg, der Sparkassenverband und die Stadt Stuttgart; im Aufsichtsgremium saßen Ministerpräsidenten wie Stefan Mappus und Oberbürgermeister wie Wolfgang Schuster.\n\nIn der Finanzkrise musste die LBBW 2009 mit fünf Milliarden Euro Kapital und Garantien der Eigentümer gerettet werden. Parallel beteiligte sich die Bank an **Cum-Ex-Geschäften**, die dem Fiskus rund 150 Millionen Euro Schaden zufügten. Als die Geschäfte aufflogen, zahlte die LBBW samt Zinsen etwa 200 Millionen Euro zurück. Der damalige Vorstandschef Siegfried Jaschinski erklärte, er habe von den Deals erst aus der Zeitung erfahren.\n\nDie Staatsanwaltschaft Stuttgart ermittelt seit 2013 – über Jahre mit nur einem Staatsanwalt. Ein Bericht der Stuttgarter Steuerfahndung legt nahe, dass der gesamte Vorstand die Ertragssprünge hätte erkennen müssen. Dennoch stellten die Ermittler die Verfahren gegen Vorstände ein und klagten erst nach zwölf Jahren nachgeordnete Mitarbeiter an. Kritiker sehen darin ein Justizversagen und ein Beispiel dafür, dass Chefetagen von Landesbanken strafrechtlich kaum belangt werden."
+ },
+ {
+  "name": "HSH Nordbank",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bHSH\\b",
+   "\\bHSH[- ]Nordbank\\b",
+   "\\bHamburg Commercial Bank\\b",
+   "\\bHCOB\\b",
+   "\\bNordbank\\b"
+  ],
+  "summary": "Frühere Landesbank Hamburgs und Schleswig-Holsteins, deren Cum-Ex-Altlasten nie in Hamburg verfolgt wurden.",
+  "body": "Die **HSH Nordbank** entstand 2003 aus der Fusion der Hamburgischen Landesbank und der Landesbank Schleswig-Holstein und war zeitweise der größte Schiffsfinanzierer der Welt. In der Finanzkrise geriet sie durch Schiffskredite und strukturierte Wertpapiere an den Rand des Zusammenbruchs; Hamburg und Schleswig-Holstein retteten sie mit Kapital und Garantien von mehr als zehn Milliarden Euro. 2018 wurde die Bank auf Druck der EU an Finanzinvestoren um Cerberus und J.C. Flowers verkauft und firmiert seither als **Hamburg Commercial Bank (HCOB)**.\n\nZwischen 2008 und 2011 verdiente die HSH mit **Cum-Ex-Geschäften** rund 112 Millionen Euro – Geld, das sie ihren eigenen Eigentümern, den Steuerzahlern, entzog. Ein interner Untersuchungsbericht der Kanzlei Clifford Chance beschrieb die Geschäfte detailliert; die Bank legte ihn der Staatsanwaltschaft Hamburg vor, die 2014 lediglich einen „Beobachtungsvorgang“ anlegte und nicht ermittelte. Der Strafverteidiger Gerhard Strate sprach von Strafvereitelung im Amt.\n\nErst die Staatsanwaltschaft Köln nahm Ermittlungen gegen 26 Beschuldigte wegen besonders schwerer Steuerhinterziehung auf. Nach acht Jahren bat sie 2026, das Verfahren an Hamburg abzugeben – ausgerechnet an die Behörde, die den Fall einst liegen ließ."
+ },
+ {
+  "name": "Greensill Bank",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bGreensill\\w*",
+   "\\bGreen ?Sill\\b",
+   "\\bLex Greensill\\b",
+   "\\bBremer Bank\\b"
+  ],
+  "summary": "Bremer Bank des Australiers Lex Greensill, deren Kollaps 2021 Sparer und Kommunen Milliarden kostete.",
+  "body": "Die **Greensill Bank AG** in Bremen war die deutsche Banktochter der Finanzgruppe des Australiers Lex Greensill, der mit Lieferkettenfinanzierung (Supply Chain Finance) zum Milliardär wurde, von der SoftBank-Vision-Fund finanziert und in Großbritannien vom Ex-Premier David Cameron beraten. Die ehemalige NordFinanz Bank wuchs binnen weniger Jahre auf eine Bilanzsumme von rund 4,5 Milliarden Euro, weil sie über Zinsplattformen überdurchschnittliche Zinsen bot. Mehr als 20.000 Privatanleger und Dutzende Kommunen legten dort Geld an.\n\nDie Bank refinanzierte Forderungen aus dem Umfeld des Stahlunternehmers Sanjeev Gupta, von denen viele offenbar nie existierten. Die BaFin stellte 2021 nach einer Sonderprüfung fest, dass die Bank Forderungen nicht nachweisen konnte, und verhängte im März 2021 ein Moratorium; wenige Tage später folgte die Insolvenz – für deutsche Sparer die größte Bankenpleite seit Lehman Brothers. Privatanleger wurden über die Einlagensicherung mit rund drei Milliarden Euro entschädigt, Kommunen blieben auf Forderungen von mehreren hundert Millionen Euro sitzen.\n\nDer Insolvenzverwalter verklagte frühere Vorstände und Aufsichtsräte auf Schadenersatz, die Staatsanwaltschaft Bremen ermittelt wegen Bilanzfälschung und Betrugs. Die Schweizer Bank UBS, die Credit Suisse übernahm, entschädigte Fondsanleger mit fast einer Milliarde Dollar."
+ },
+ {
+  "name": "Freshfields",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bFreshfields\\b",
+   "\\bFresh ?Fields\\b",
+   "\\bFreshfield\\b",
+   "\\bBruckhaus Deringer\\b",
+   "\\bJohannemann\\b"
+  ],
+  "summary": "Internationale Großkanzlei, deren Steuergutachten Cum-Ex-Geschäfte legitimierten – mit Razzien und Anklage.",
+  "body": "**Freshfields Bruckhaus Deringer** ist eine der renommiertesten Wirtschaftskanzleien der Welt mit Wurzeln bis 1743 und rund 2.800 Anwälten; in Deutschland ist sie seit der Fusion mit Bruckhaus Westrick Heller Löber 2000 an mehreren Standorten vertreten und berät Konzerne, Banken und die Bundesregierung.\n\nIm **Cum-Ex-Skandal** spielte die Kanzlei eine zentrale Rolle: Ihre Steuerabteilung um Ulf Johannemann erstellte Gutachten, die Banken und Investoren bescheinigten, die Geschäfte seien legal. Diese Gutachten dienten als Gütesiegel – ohne sie, sagte ein Kronzeuge vor Gericht, „säßen wir nicht hier“. 2016, als die Gutachten längst Gegenstand von Ermittlungsakten waren, beförderte die Kanzlei Johannemann zum weltweiten Steuerchef. Die Kanzlei wurde mehrfach durchsucht und zahlte der Insolvenzmasse der Maple Bank, die 2016 an Cum-Ex-Rückforderungen zerbrach, einen Vergleich von 50 Millionen Euro.\n\nJohannemann schied 2019 aus und kam in Untersuchungshaft. Das Landgericht Frankfurt verurteilte ihn 2024 wegen Beihilfe zur Steuerhinterziehung zu drei Jahren und sechs Monaten Haft – die erste Verurteilung eines Spitzenanwalts im Skandal. Eine Kundenliste von Freshfields, die dem Handelsblatt vorlag, zeigte, dass deutlich mehr Banken an Cum-Ex beteiligt waren als bekannt."
+ },
+ {
+  "name": "Ergo",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bErgo\\b",
+   "\\bErgo[- ]Versicherung\\w*",
+   "\\bHamburg[- ]Mannheimer\\b",
+   "\\bHMI\\b",
+   "\\bGellért?[- ]?Therme\\b"
+  ],
+  "summary": "Düsseldorfer Versicherungskonzern, dessen Tochter Hamburg-Mannheimer Vertreter mit Sex-Reisen belohnte.",
+  "body": "Die **Ergo Group** mit Sitz in Düsseldorf ist die Erstversicherungstochter der Munich Re und einer der größten Versicherer Deutschlands mit rund 40.000 Beschäftigten. Sie entstand 1997 aus Victoria, Hamburg-Mannheimer, DKV und D.A.S.; 2010 wurden die Traditionsmarken unter dem Namen Ergo zusammengeführt – begleitet von einer der größten Werbekampagnen der Branche („Versichern heißt Verstehen“).\n\nMitten in diese Kampagne platzte im Mai 2011 die Enthüllung des Handelsblatts: Die **Hamburg-Mannheimer**, bekannt durch die Werbefigur „Herr Kaiser“ und Werbepartner wie Jürgen Klopp, hatte 2007 ihre 100 besten Vertreter mit einer Sex-Party in der Budapester Gellért-Therme belohnt – mit Dutzenden Prostituierten, die nach Einsätzen abgerechnet wurden. Ergo sprach von einem Einzelfall, erstattete Anzeige und hielt den Untersuchungsbericht unter Verschluss. Weitere Recherchen belegten ähnliche Reisen auf die Reeperbahn, nach Mallorca und in ein Swinger-Hotel auf Jamaika.\n\nDie Affäre kostete Ergo Vorstände, Reputation und Kunden; Gerichte in Hamburg zögerten, die Vorgänge strafrechtlich zu verhandeln. Der Fall wurde zum Lehrstück über Vertriebskultur in der Versicherungsbranche und brachte dem Handelsblatt-Reporter Sönke Iwersen den Titel „Wirtschaftsjournalist des Jahres“. Die Original-Reiseunterlagen landeten später im Haus der Geschichte in Bonn."
+ },
+ {
+  "name": "Schlecker",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bSchlecker\\w*",
+   "\\bEhingen\\w*",
+   "\\bMeniar\\b",
+   "\\bDrogeriek(önig|ette)\\w*"
+  ],
+  "summary": "Einst Europas größte Drogeriekette aus Ehingen, deren Insolvenz 2012 die Familie vor Gericht brachte.",
+  "body": "**Schlecker** war über Jahrzehnte die größte Drogeriekette Europas. Anton Schlecker, gelernter Metzger aus Ehingen an der Donau, eröffnete 1975 die erste Filiale und expandierte in den 1990er-Jahren mit bis zu drei Neueröffnungen pro Tag auf rund 14.000 Läden in 17 Ländern. Das Familienvermögen wurde auf 2,3 Milliarden Euro geschätzt.\n\nDas Geschäftsmodell – kleine, schlecht ausgestattete Filialen mit je einer „Schlecker-Frau“ – verlor ab Mitte der 2000er-Jahre gegen dm und Rossmann. Zwischen 2005 und 2010 machte Schlecker mehr als 400 Millionen Euro Verlust; der Gründer wollte das nicht hören („Wenn es auf dem Papier steht, wird es auch wahr“). 2008 gründete er die Leiharbeitsfirma Meniar, um Mitarbeiterinnen zu entlassen und billiger wieder einzustellen. Im Januar 2012 folgte die Insolvenz: 25.000 Beschäftigte verloren ihren Job, Gläubiger blieben auf mehr als einer Milliarde Euro sitzen.\n\n2017 verurteilte das Landgericht Stuttgart Anton Schlecker wegen Bankrotts zu einer Bewährungs- und Geldstrafe; seine Kinder Lars und Meike erhielten Haftstrafen wegen Untreue und Beihilfe. 2024 musste die Familie noch einmal eine Millionensumme an den Insolvenzverwalter zahlen."
+ },
+ {
+  "name": "Aldi",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bAldi\\b",
+   "\\bAldi[- ](Nord|Süd)\\b",
+   "\\bAlbrecht\\b",
+   "\\bAlbrecht[- ]Brüder\\b",
+   "\\bDiscounter\\w*"
+  ],
+  "summary": "Discount-Pionier der Albrecht-Brüder, bei dem Familienstreit und Frankreich-Verluste die Bilanz trüben.",
+  "body": "**Aldi** ist der Erfinder des Lebensmitteldiscounts. Die Brüder Karl und Theo Albrecht übernahmen 1946 den Essener Tante-Emma-Laden ihrer Mutter und bauten daraus ein Imperium mit radikal reduziertem Sortiment, niedrigen Preisen und äußerster Sparsamkeit. 1961 teilten sie das Geschäft: **Aldi Nord** (Essen, Theo) und **Aldi Süd** (Mülheim an der Ruhr, Karl), die sich bis heute den deutschen Markt entlang des „Aldi-Äquators“ aufteilen und international getrennt expandieren. Zusammen setzen sie in Deutschland mehr als 30 Milliarden Euro um und beschäftigen fast 90.000 Menschen.\n\nDie Albrechts waren legendär öffentlichkeitsscheu, erst recht nach der Entführung Theo Albrechts 1971. Nach dem Tod der Brüder (2010 und 2014) brachen bei Aldi Nord **Familienstreitigkeiten** aus: Die Witwe und die Kinder von Berthold Albrecht stritten mit dem Rest der Familie um die Macht in den Stiftungen, die das Unternehmen kontrollieren, bis vor Gerichte.\n\nWirtschaftlich schwächelt vor allem Aldi Nord: Der Zukauf des französischen Discounters Leader Price brachte hohe Verluste, in Deutschland schrumpfen Margen, während Lidl technisch und organisatorisch davonzieht. Insidern zufolge schrieb Aldi Nord 2022 rote Zahlen."
+ },
+ {
+  "name": "Continental",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bContinental\\b",
+   "\\bConti\\b",
+   "\\bContinental[- ]Konzern\\w*",
+   "\\bSetzer\\b"
+  ],
+  "summary": "Hannoveraner Autozulieferer – Opfer eines großen Hackerangriffs und Mitverantwortlicher im Dieselskandal.",
+  "body": "Die **Continental AG** mit Sitz in Hannover ist einer der größten Automobilzulieferer der Welt mit rund 200.000 Beschäftigten und etwa 40 Milliarden Euro Umsatz; sie stellt Reifen, Bremsen, Elektronik und Software für Motorsteuerungen her.\n\n**Cyberangriff 2022:** Im Sommer 2022 drangen Hacker der Gruppe LockBit über einen unvorsichtigen Mitarbeiter in das Netzwerk ein und kopierten wochenlang unbemerkt rund 40 Terabyte Daten – darunter Unterlagen zu Kunden wie VW, BMW und Mercedes. Die Erpresser boten die Daten im Darknet für 50 Millionen Dollar an. Continental zahlte nicht, musste aber Hunderte Mitarbeiter und externe Spezialisten für die Aufarbeitung abstellen; das FBI war eingeschaltet.\n\n**Dieselskandal:** Continental lieferte Volkswagen Software für die Motorsteuerung, die manipulierte Abgaswerte ermöglichte. Interne Untersuchungen legen nahe, dass einzelne Mitarbeiter früh von kritischen Funktionen wussten. Die Staatsanwaltschaft Hannover verhängte 2024 ein Bußgeld von 100 Millionen Euro; Verfahren gegen frühere Manager wurden eingestellt. Insgesamt kostete die Affäre den Konzern rund 300 Millionen Euro. Einen Teil davon versucht Continental nun von der Kanzlei Noerr zurückzuholen, die mit der Aufklärung beauftragt war – ein ungewöhnlicher Streit zwischen Konzern und Anwälten."
+ },
+ {
+  "name": "Fraunhofer-Gesellschaft",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bFraunhofer\\w*",
+   "\\bFraunhofer[- ]Gesellschaft\\b",
+   "\\bNeugebauer\\b",
+   "\\bBundesrechnungshof\\w*"
+  ],
+  "summary": "Europas größte Organisation für angewandte Forschung, erschüttert von einer Spesen- und Reisekostenaffäre.",
+  "body": "Die **Fraunhofer-Gesellschaft** mit Sitz in München ist mit rund 32.000 Beschäftigten und 76 Instituten die größte Organisation für angewandte Forschung in Europa. Ihr Jahresbudget von etwa drei Milliarden Euro stammt zu einem Drittel aus der Grundfinanzierung von Bund und Ländern, der Rest aus Industrie- und Forschungsaufträgen. Erfindungen wie das MP3-Format machten sie weltbekannt.\n\n2023 stellte der **Bundesrechnungshof** fest, dass Führungskräfte jahrelang gegen Spesen-, Reisekosten- und Dienstwagenregeln verstoßen hatten: teure Hotels, Flüge, Bewirtungen und Fahrzeuge weit über den Vorgaben des öffentlichen Dienstes. Im Zentrum stand Präsident Reimund Neugebauer, der sein Budget wiederholt überschritten haben soll und 2023 vorzeitig aus dem Amt schied. Die Staatsanwaltschaft München ermittelt wegen Untreue.\n\nDie Aufarbeitung warf neue Fragen auf: Die Honorare der beauftragten Kanzleien überstiegen den festgestellten Schaden, eine PR-Agentur erhielt umstrittene Aufträge, und eine heutige Vorständin, die für die betroffenen Bereiche verantwortlich war, machte Karriere, während andere Mitarbeiter ihre Jobs verloren. Für eine Institution, die auf öffentliches Vertrauen und Steuergeld angewiesen ist, wurde die Affäre zum Lehrstück über Führungskultur und fehlende Kontrolle."
+ },
+ {
+  "name": "Volksbank Köln Bonn",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bVolksbank Köln[- ]Bonn\\b",
+   "\\bVolksbank Köln\\b",
+   "\\bPascha\\b",
+   "\\bBrockhaus\\b",
+   "\\bBordell[- ]?(Kredit|Affäre|Immobilie)\\w*"
+  ],
+  "summary": "Rheinische Genossenschaftsbank, die mit einem Kredit für das Kölner Großbordell „Pascha“ Schlagzeilen machte.",
+  "body": "Die **Volksbank Köln Bonn eG** ist mit einer Bilanzsumme von mehr als sieben Milliarden Euro und rund 1.000 Beschäftigten eine der größten Genossenschaftsbanken Deutschlands. Sie entstand 2015 aus der Fusion der Volksbank Bonn Rhein-Sieg mit der Kölner Bank.\n\n2026 wurde bekannt, dass die Bank die Immobilie des Kölner Großbordells „Pascha“ finanziert hatte – ein Kredit, der intern nicht als normales Geschäft galt. Öffentlich wurde er, weil der in der NRW-Schleuser-Affäre beschuldigte Anwalt Claus Brockhaus in Vernehmungen bei der Staatsanwaltschaft darüber berichtete. Gegen ein Vorstandsmitglied ermittelt die Staatsanwaltschaft Köln unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr; der Manager wurde beurlaubt. Zunächst war die Staatsanwaltschaft Düsseldorf zuständig.\n\nDer Fall führte zu Verwerfungen in Vorstand und Aufsichtsrat: Vier Aufsichtsräte legten ihre Mandate nieder, Fragen nach der Compliance der Bank und nach der Rolle des Vorstands bei der Kreditvergabe blieben offen. Der genossenschaftliche Verband und die BaFin schauen genauer hin – zumal die Affäre in eine Reihe von Skandalen bei Volksbanken fällt, die das Vertrauen in die konservative Kreditvergabe des Sektors erschüttern."
+ },
+ {
+  "name": "Volksbank Düsseldorf Neuss",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bVolksbank Düsseldorf[- ]Neuss\\b",
+   "\\bVolksbank Düsseldorf\\b",
+   "\\bKiabi\\b",
+   "\\bAurélie\\b"
+  ],
+  "summary": "Genossenschaftsbank, von deren Konto 100 Millionen Euro einer französischen Modekette verschwanden.",
+  "body": "Die **Volksbank Düsseldorf Neuss eG** ist eine mittelgroße Genossenschaftsbank mit rund zwei Milliarden Euro Bilanzsumme. Im Oktober 2024 gab sie bekannt, Opfer eines Millionenbetrugs geworden zu sein: Von einem Konto waren 100 Millionen Euro verschwunden.\n\nDas Geld stammte von der französischen Modekette **Kiabi**, die es über die Bank angelegt hatte. Die Spur führte zur früheren Finanzmanagerin von Kiabi, Aurélie B., die ein Luxusleben zwischen den USA und Frankreich geführt hatte und im August 2024 am Flughafen von Korsika beim Aussteigen aus ihrem Privatjet festgenommen wurde. Sie soll die Summe bei Kiabi veruntreut und über das deutsche Konto weitergeleitet haben.\n\nDie Staatsanwaltschaft Düsseldorf ermittelt wegen Betrugs und Urkundenfälschung in einem besonders schweren Fall, die Pariser Staatsanwaltschaft wegen bandenmäßigen Betrugs und Geldwäsche. Für die Volksbank stellt sich die Frage, wie Überweisungen in dieser Größenordnung die Kontrollen passieren konnten und wer am Ende den Schaden trägt – die Bank, die Modekette oder Versicherer. Der Fall gilt als einer der spektakulärsten Betrugsfälle im deutschen Genossenschaftssektor."
+ },
+ {
+  "name": "VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bEffenberg[- ]?Bank\\b",
+   "\\bBad Salzungen\\w*",
+   "\\bSchmalkalden\\w*",
+   "\\bEffenberg\\b",
+   "\\bSiebert\\b"
+  ],
+  "summary": "Thüringer Genossenschaftsbank, die mit Beteiligungen und Rotlicht-Immobilien 220 Millionen Euro verlor.",
+  "body": "Die **VR-Bank Bad Salzungen Schmalkalden** aus Südthüringen erlangte bundesweite Bekanntheit, als sie 2021 den früheren Fußballprofi Stefan Effenberg als Berater und Repräsentanten anheuerte – seither heißt sie im Volksmund „Effenberg-Bank“. Effenberg wurde 2023 wieder entlassen.\n\nUnter dem fast 20 Jahre amtierenden Vorstandschef Stefan Siebert beteiligte sich die kleine Genossenschaftsbank weit über ihr Kerngeschäft hinaus an Unternehmen, investierte in erneuerbare Energien, Landwirtschaft und Immobilien in Deutschland und Österreich – darunter Häuser im Rotlichtviertel von Oberhausen. Viele Investitionen schlugen fehl; die Verluste summierten sich auf mindestens 220 Millionen Euro.\n\nDie BaFin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu besetzen – ein in der Geschichte der Genossenschaftsbanken einmaliger Vorgang. Die Sicherungseinrichtung des Bundesverbands der Volks- und Raiffeisenbanken musste die Bank stützen. Gegen Siebert ermittelt die Staatsanwaltschaft, unter anderem wegen des Verdachts der Steuerhinterziehung und Untreue. Dennoch hält eine treue Anhängerschaft im Ort zu ihm und sieht in der Intervention von BaFin und Verband einen unangemessenen Eingriff. Der Fall markierte den Auftakt einer Serie von Volksbank-Skandalen."
+ },
+ {
+  "name": "Deutsche Finance Group",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bDeutsche[n]? Finance\\b",
+   "\\bDeutsche Finance[- ]Gruppe\\b",
+   "\\bDF Deutsche Finance\\b",
+   "\\bBayerische Versorgungskammer\\b"
+  ],
+  "summary": "Münchner Anbieter von Immobilienfonds, bei dem die BaFin 2026 einen Sonderbeauftragten einsetzte.",
+  "body": "Die **Deutsche Finance Group** mit Sitz in München ist eine Investmentgesellschaft, die seit 2005 geschlossene Fonds für Privatanleger und institutionelle Investoren auflegt – vor allem für Immobilien in Europa und den USA, etwa Bürotürme und Lagerhäuser. Nach eigenen Angaben verwaltet sie Vermögenswerte von rund zwölf Milliarden Dollar. Rund 50.000 Privatanleger haben etwa 1,5 Milliarden Euro investiert; zu den institutionellen Anlegern zählt die Bayerische Versorgungskammer.\n\nDie Fonds sind verschachtelt: Deutsche Dachfonds beteiligen sich an luxemburgischen Zielfonds, die wiederum in Projektgesellschaften investieren. Mit der Immobilienkrise häuften sich Probleme: zweistellige Millionenverluste, Verkäufe von US-Objekten unter Druck und Wirtschaftsprüfer, die in Jahresabschlüssen Zweifel äußerten, ob bestimmte Fonds fortgeführt werden können.\n\nIm Juni 2026 schickte die BaFin einen **Sonderbeauftragten** in das Unternehmen, um zu prüfen, ob die Publikumsfonds ordnungsgemäß verwaltet werden – ein drastischer und seltener Schritt bei einer Kapitalverwaltungsgesellschaft dieser Größe. Gerichtsverfahren von Anlegern und Fragen nach Interessenkonflikten innerhalb der Gruppe begleiten die Aufarbeitung."
+ },
+ {
+  "name": "TGI (Gold)",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bTGI\\b",
+   "\\bT ?G ?I AG\\b",
+   "\\bKaltenegger\\b",
+   "\\bGold[- ]Rabatt\\w*"
+  ],
+  "summary": "Liechtensteiner Goldhändler, der Rabatte bis 72 Prozent bei dreijähriger Wartezeit verspricht.",
+  "body": "Die **TGI AG** ist ein in Liechtenstein ansässiger Goldhändler des Österreichers Helmut Kaltenegger. Das Geschäftsmodell: Kunden kaufen Gold zu Kampfpreisen mit Rabatten von bis zu 72 Prozent, wenn sie sich bereit erklären, drei Jahre auf die Auslieferung zu warten. Nach eigenen Angaben haben rund 40.000 Menschen zugegriffen, etwa 80 Millionen Euro an Rabatten will die Firma bereits ausgeschüttet haben. Prominente wie Oliver Pocher warben für das Angebot. Kalteneggers Motto: „Geht nicht, gibt's nicht.“\n\nWie ein Händler Gold dauerhaft weit unter dem Marktpreis liefern will, ist unklar. Branchenkenner halten das Modell nur für tragfähig, solange neue Kunden einzahlen – die Struktur erinnert an Schneeballsysteme, zumal der Goldpreis in den 2020er-Jahren stark gestiegen ist und die Lieferverpflichtungen damit teurer werden. Durch den Sitz in Liechtenstein entzieht sich die TGI weitgehend der deutschen Aufsicht; die BaFin geht Hinweisen zu Geschäften in Deutschland nach.\n\nDer Fall steht beispielhaft für Angebote, die das Krisenvertrauen in Gold ausnutzen: Anleger kaufen etwas, das sie erst Jahre später sehen – wenn überhaupt."
+ },
+ {
+  "name": "Sympatex",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bSympatex\\b",
+   "\\bSympathex\\b",
+   "\\bSanktjohanser\\b",
+   "\\bStephan Goetz\\b",
+   "\\bFrank Günther\\b"
+  ],
+  "summary": "Münchner Textilhersteller, dessen inszenierter Schuldenschnitt 2017 Anleger um Millionen brachte.",
+  "body": "**Sympatex Technologies** aus Unterföhring bei München stellt wasserdichte und atmungsaktive Membranen für Outdoor-Kleidung her – die deutsche Alternative zu Gore-Tex. Das Unternehmen gehörte den Münchner Unternehmensberatern Stephan Goetz und Stefan Sanktjohanser, den Gründern von Goetzpartners.\n\n2013 lieh sich Sympatex von Privatanlegern 13 Millionen Euro über eine **Mittelstandsanleihe**. Kurz vor der Rückzahlung 2017 erklärte das Unternehmen, es stehe vor der Insolvenz, und bewegte die Gläubiger zu einem radikalen Schuldenschnitt: Sie verzichteten auf rund 90 Prozent ihres Kapitals. Die Staatsanwaltschaft München I glaubt, dass die Notlage inszeniert war, um sich auf Kosten der Anleger zu bereichern – unter Beteiligung von Anwälten, Beratern und eines Geschäftsführers des Family Office der Versandhandelsfamilie Otto.\n\nIm Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sanktjohanser in Untersuchungshaft, später auch der Restrukturierungsexperte Frank Günther. 2025 begann vor dem Landgericht München der Prozess gegen Sanktjohanser, Günther und zwei weitere Manager wegen Betrugs in fast 100 Fällen – mit 170 Zeugen und 67 Verhandlungstagen bis Mitte 2026. Der Fall gilt als exemplarisch für Grauzonen der deutschen Restrukturierungsszene."
+ },
+ {
+  "name": "Goetzpartners",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bGoetz ?[Pp]artners\\b",
+   "\\bGötz ?[Pp]artners\\b",
+   "\\bGoetzpartner\\b"
+  ],
+  "summary": "Münchner Unternehmensberatung, deren Gründer wegen des Sympatex-Skandals in U-Haft kamen.",
+  "body": "**Goetzpartners** ist eine 1991 von Stephan Goetz und Stefan Sanktjohanser gegründete Unternehmensberatung mit Sitz in München, die Konzerne und Mittelständler bei Strategie, M&A und Restrukturierung berät. Mit rund 400 Mitarbeitern an mehreren Standorten galt sie als eine der bekannteren deutschen Beratungen; die Gründer zählten zu den prominentesten Beratern der Republik.\n\nÜber ihre Beratung besaßen Goetz und Sanktjohanser auch den Textilhersteller Sympatex. Der dortige Schuldenschnitt von 2017, bei dem Anleger auf 90 Prozent ihres Kapitals verzichteten, brachte den beiden Ermittlungen wegen Betrugs, Marktmanipulation und Anstiftung zur Untreue ein. Im März 2024 wurden beide festgenommen und saßen Monate in Untersuchungshaft; sie bestreiten die Vorwürfe.\n\nFür die Beratung wurde die Affäre existenzbedrohend: Wie verkauft man eine Firma, deren Namensgeber hinter Gittern sitzen? Mehrere Führungskräfte übernahmen das Unternehmen von den Alleininhabern, die Partnerschaft wurde neu aufgestellt. Der Fall zeigt, wie eng Beratungsgeschäft, eigene Beteiligungen und Restrukturierungsmandate in der Münchner Szene verflochten waren – und welche Interessenkonflikte daraus entstehen."
+ },
+ {
+  "name": "Sony Music",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bSony Music\\b",
+   "\\bSony\\b",
+   "\\bLieberberg\\b"
+  ],
+  "summary": "Weltkonzern der Musikbranche, dessen Europachef Daniel Lieberberg mit Mobbingvorwürfen konfrontiert wurde.",
+  "body": "**Sony Music Entertainment** mit Sitz in New York ist neben Universal und Warner einer der drei großen Musikkonzerne der Welt und gehört zum japanischen Sony-Konzern. Das Europa- und Afrikageschäft wird von Berlin aus geführt; verantwortlich ist seit 2017 Daniel Lieberberg, Sohn des Konzertveranstalters Marek Lieberberg und einer der mächtigsten Manager der Branche.\n\n2024 berichteten aktuelle und ehemalige Beschäftigte dem Handelsblatt von einem „Klima der Angst“ in der Berliner Zentrale: Mobbing, Wutausbrüche, herablassende Arroganz, so eine interne Meldung an die Compliance-Abteilung. Mehrere Frauen schilderten, Lieberberg habe sie unaufgefordert an den Schultern gepackt und geküsst. Über seinen Anwalt wies er die Vorwürfe zurück; die Konzernzentrale erklärte, Beschwerden würden gewissenhaft geprüft.\n\nDer Fall steht für die Schattenseiten des Musikgeschäfts, in dem wenige Entscheider über Karrieren bestimmen und Abhängigkeiten groß sind. Er fügt sich in eine Reihe von Berichten über toxische Führungskultur in Medien, Finanzbranche und Private Equity, die seit der MeToo-Debatte an die Öffentlichkeit gelangen."
+ },
+ {
+  "name": "Gröner Group",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bGröner\\w*",
+   "\\bGroener\\w*",
+   "\\bGröner[- ]Group\\b",
+   "\\bCG[- ]Gruppe\\b",
+   "\\bCG Elementum\\b"
+  ],
+  "summary": "Immobiliengruppe des Bauunternehmers Christoph Gröner, die 2025 in die Insolvenz rutschte.",
+  "body": "Die **Gröner Group** ist die Dachgesellschaft des Immobilienunternehmers Christoph Gröner, der mit der CG Gruppe (später Teil von Consus und Adler) eine der größten Projektentwicklungen Deutschlands aufbaute und sich 2020 mit einem Milliardenportfolio neu aufstellte. Der gelernte Zimmermann steht für die Karriere vom Tellerwäscher zum Milliardär, umgab sich mit Ex-Kanzleramtschef Ronald Pofalla und Ex-Ministerpräsident Günther Oettinger als Berater und zählte Gerhard Schröder zu seinen Vertrauten. Zugleich eckte er mit zur Schau gestelltem Reichtum, Millionenspenden an die CDU und Streitlust an.\n\nMit der Immobilienkrise geriet die Gruppe ab 2023 unter Druck: Handwerker, Berater, das Finanzamt und die Stadtwerke Leipzig warteten auf Geld, Tochterfirmen sahen sich Insolvenzanträgen gegenüber. Gröner verkaufte Porsches, Villen in Südfrankreich und verpfändete Kunst, um Liquidität zu schaffen, und gab sich öffentlich kämpferisch („Ich ziehe alle Register“).\n\n2025 eröffnete ein Gericht das Insolvenzverfahren über die Gröner Group; auch über sein Privatvermögen läuft ein vorläufiges Verfahren. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Insolvenzverschleppung und Vorenthaltens von Arbeitsentgelt."
+ },
+ {
+  "name": "ThomasLloyd",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bThomas ?Lloyd\\w*",
+   "\\bThomas ?Loyd\\w*",
+   "\\bCleantech[- ]?(Fonds|Infrastructure)\\w*",
+   "\\bCTI[- ]Fonds\\b"
+  ],
+  "summary": "Investmenthaus für Öko-Fonds, dessen 27.000 Anleger auf Auszahlungen warten.",
+  "body": "**ThomasLloyd** ist eine Investmentgruppe mit Standorten in Zürich, London und Wien, die seit den 2000er-Jahren Fonds für Privatanleger anbietet – zuletzt vor allem die **Cleantech-Infrastruktur-Fonds (CTI)**, die in Solar- und Biomassekraftwerke auf den Philippinen und in Indien investieren. Mit grünen Versprechen und prominenten Werbeträgern wie Arnold Schwarzenegger sammelte die Gruppe rund 750 Millionen Euro von etwa 27.000 Anlegern in Deutschland und Österreich ein.\n\nSeit 2023 stocken die Auszahlungen. Die Fondsbilanzen weisen dreistellige Millionenverluste aus, Beteiligungen wurden drastisch abgewertet, Unstimmigkeiten bei Bewertungen und Geschäften zwischen Konzerngesellschaften werfen Fragen auf. Das Management bestreitet eine Krise, spricht von „stillen Reserven“ und „Aufwertungspotenzialen“ und vertröstet Anleger – selbst anerkannte Härtefälle wie eine Krebspatientin, die 290.000 Euro angelegt hatte, warten auf ihr Geld.\n\nDer Fall zeigt die Risiken pseudogrüner Investments am grauen Kapitalmarkt: lange Laufzeiten, intransparente Strukturen in mehreren Ländern und ein Vertrieb, der mit Moral und Rendite zugleich wirbt. Anlegerschützer und Gerichte befassen sich inzwischen mit Rückabwicklungen und Prospekthaftung."
+ },
+ {
+  "name": "Gomopa",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bGomopa\\b",
+   "\\bGoMoPa\\b",
+   "\\bMaurischat\\b",
+   "\\bFinanzportal\\w*"
+  ],
+  "summary": "Finanzportal, dessen Betreiber sich kritische Berichte abkaufen ließ und wegen Erpressung verurteilt wurde.",
+  "body": "**Gomopa** (Goldman Morgenstern & Partners) war zwei Jahrzehnte lang ein bekanntes Finanzportal, das vor unseriösen Anlageprodukten, Schneeballsystemen und Skandalen warnte – von Wirecard bis Dolphin Trust. Hinter dem Portal stand der Medienmanager Klaus Maurischat, der sich als Aufklärer am grauen Kapitalmarkt inszenierte und zugleich selbst wegen früherer Betrugsvorwürfe im Visier stand.\n\nDas Amtsgericht Saarbrücken verurteilte Maurischat per Strafbefehl wegen **Erpressung**: Er hatte sich von Finanzjongleuren eines Schneeballsystems kritische Berichterstattung abkaufen lassen und Artikel gegen Zahlung depubliziert. Maurischat hält das für legitim – wer Nutzungsrechte an einem Beitrag kaufe, dürfe über dessen Verwendung entscheiden.\n\nDer Fall steht für eine Masche, die im Internet um sich greift: **digitale Schutzgelderpressung** auf Basis von Fake News. Portale verbreiten gefälschte oder verzerrte Informationen über Unternehmen und bieten gegen Geld an, sie zu entfernen – oder nutzen sie, um Aktienkurse zu manipulieren. Für Anleger wird es damit schwer, echte Warnungen von Erpressung zu unterscheiden; für seriöse Medien ist der Missbrauch journalistischer Formen ein Reputationsproblem."
+ },
+ {
+  "name": "Degag",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bDegag\\w*",
+   "\\bDeGAG\\b",
+   "\\bBirger Dehne\\b",
+   "\\bDehne\\b",
+   "\\bBernd Klein\\b"
+  ],
+  "summary": "Hannoveraner Immobiliengruppe für Schrottimmobilien, deren Pleite 4.500 Anleger den Totalverlust beschert.",
+  "body": "Die **Degag-Gruppe** (Deutsche Grundbesitz AG) aus Hannover kaufte heruntergekommene Wohnhäuser – „Schrottimmobilien“ –, zog sie leer, sanierte sie und wollte sie mit neuen Mietern gewinnbringend an Großinvestoren verkaufen. Gründer Birger Dehne feierte sich als Visionär und „Mann, der den Leerstand liebt“. Finanziert wurde das Geschäft über Nachrangdarlehen von rund 4.500 Privatanlegern, die etwa 282 Millionen Euro einbrachten, sowie über Kredite, unter anderem der Schweizer Privatbank Julius Bär.\n\nNach einem Megadeal 2021 machte Dehne Kasse und zog sich als Berater zurück. Mit der Immobilienkrise brach das Modell zusammen: Im Dezember 2024 stellte die Degag Zins- und Rückzahlungen ein, im Januar 2025 folgte der Insolvenzantrag. Der Schaden könnte bis zu 400 Millionen Euro betragen; den Anlegern droht der Totalverlust. Stiftungen in Liechtenstein und ungewöhnliche Deals, über die in den Monaten vor der Insolvenz noch Millionen in Richtung Dehne flossen, beschäftigen den Insolvenzverwalter.\n\nDer letzte Vorstand Bernd Klein erklärte 2026 öffentlich, Dehne habe die Gruppe aus dem Hintergrund gesteuert und die Anlegergelder über einen Schweizer Buchhalter verwaltet; die Vorstände hätten nicht frei verfügen können. Dehnes Anwalt weist das zurück."
+ },
+ {
+  "name": "Hedera Bauwert",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bHedera\\w*",
+   "\\bHedera[- ]Bauwert\\b",
+   "\\bVerius\\b",
+   "\\bVerius[- ]Fonds\\b"
+  ],
+  "summary": "Berliner Immobiliengruppe mit gefälschten Rechnungen, Gewaltverbrechen und Verbindung zum Verius-Fonds.",
+  "body": "Die **Hedera Bauwert** ist eine Berliner Firmengruppe, die ihr Chef innerhalb von zehn Jahren aus dem Nichts zu einem Immobilienentwickler mit zahlreichen Projekten in der Hauptstadt aufbaute – und dann in eine schwere Krise führte. Ein Anwalt der Gruppe räumte ein, dass bislang womöglich nur „die Spitze des Eisbergs“ sichtbar sei.\n\nDer Fall unterscheidet sich von gewöhnlichen Immobilienpleiten: Neben einem Skandal um gefälschte Rechnungen geht es um **Gewaltverbrechen und Organisierte Kriminalität**. 2026 sagte ein Berliner Bauunternehmer in einem schwer gesicherten Saal des Strafgerichts Moabit als Zeuge aus, maskierte Männer hätten ihn zusammengeschlagen; er werde erpresst und wisse, von wem.\n\nEine besondere Dimension hat die Verbindung zum 1,2 Milliarden Euro schweren **Verius-Fonds**, der Beiträge deutscher Krankenkassen und Kassenärztlicher Vereinigungen anlegen sollte. Der Fonds finanzierte Hedera-Projekte, verlängerte trotz Existenzkrise Kredite über 100 Millionen Euro – und sein Vermögen hat sich offenbar weitgehend in Luft aufgelöst. Investoren aus dem Gesundheitswesen müssen Verluste tragen. Staatsanwaltschaft, Insolvenzverwalter und Fondsgesellschaft arbeiten den Fall parallel auf."
+ },
+ {
+  "name": "KNDS (Krauss-Maffei Wegmann)",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bKNDS\\b",
+   "\\bKrauss[- ]?Maffei\\b",
+   "\\bKMW\\b",
+   "\\bWegmann\\b",
+   "\\bNexter\\b"
+  ],
+  "summary": "Deutsch-französischer Panzerbauer, dessen Vorgänger KMW mit dem Katar-Deal 2013 Provisionsfragen aufwarf.",
+  "body": "**KNDS** (KMW + Nexter Defense Systems) ist ein deutsch-französischer Rüstungskonzern, der 2015 aus der Fusion des Münchner Panzerbauers **Krauss-Maffei Wegmann (KMW)** mit dem französischen Staatsunternehmen Nexter hervorging. KMW produziert den Kampfpanzer Leopard 2, die Panzerhaubitze 2000 und den Radpanzer Boxer; Nexter den Leclerc und die Caesar-Haubitze. Seit dem Ukraine-Krieg boomt das Geschäft, 2026 plante KNDS einen Börsengang.\n\n2013 verkaufte KMW 62 Leopard-2-Panzer, 24 Panzerhaubitzen und weiteres Material für rund 1,9 Milliarden Euro an **Katar** – ein von der Bundesregierung unter Angela Merkel genehmigter Deal, bei dem von der sonst üblichen Zurückhaltung gegenüber Golfstaaten wenig zu spüren war. Recherchen des Handelsblatts anhand von Gerichtsakten und Insidern zeigten ein Geflecht von Firmen und hohen Provisionszahlungen, von denen offenbar auch ein katarischer Geheimdienstgeneral und seine Familie profitierten; der Mann arbeitet heute als Botschafter in Moskau.\n\nDie Vorgänge beschäftigten Gerichte über Jahre und kochten 2026 im Vorfeld des Börsengangs wieder hoch – als Beispiel für die undurchsichtigen Nebengeschäfte des internationalen Waffenhandels und die Frage, wo Beratung endet und Bestechung beginnt."
+ },
+ {
+  "name": "Centrum Gruppe",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bCentrum\\b",
+   "\\bCentrum[- ](Gruppe|Holding|Group)\\b",
+   "\\bReppegather\\b",
+   "\\bWolf of High Street\\b",
+   "\\bKönig der Kö\\b"
+  ],
+  "summary": "Düsseldorfer Projektentwickler von Uwe Reppegather, der nach der Pleite 2026 festgenommen wurde.",
+  "body": "Die **Centrum Gruppe** mit Sitz im Düsseldorfer Medienhafen war einer der größten Projektentwickler für innerstädtische Handels- und Büroimmobilien in Deutschland. Gründer Uwe Reppegather, vom Hauptschüler zum Milliardenunternehmer aufgestiegen, entwickelte Prestigeobjekte an der Düsseldorfer Königsallee und in anderen Großstädten, oft gemeinsam mit Partnern wie Signa oder Versicherern. Man nannte ihn „König der Kö“ oder „Wolf of High Street“; er umgab sich mit Prominenten wie Boris Becker und Til Schweiger und lebte mit Privatjet, Segelyacht und Finca auf Ibiza.\n\nMit der Immobilienkrise brach das Konstrukt aus Schulden und Projektgesellschaften zusammen; ab 2023 folgten Insolvenzen von Centrum-Gesellschaften mit Milliardenforderungen. Kurz vor der Pleite ging die angeblich 30 Millionen Euro teure Ibiza-Villa für rund fünf Millionen Euro an seine Ehefrau; offiziell besaß Reppegather kaum noch Vermögen, während im Hintergrund neue Geschäfte anliefen.\n\nAm 26. März 2026 durchsuchten mehr als 400 Beamte in sechs Ländern 49 Objekte, darunter eine Cannabis-Firma und eine historische Segelyacht; Reppegather wurde auf Ibiza festgenommen und kam nach seiner Auslieferung in Haft. Die Ermittler werfen ihm Betrug, Bankrott und Untreue vor – er weist die Vorwürfe zurück."
+ },
+ {
+  "name": "BaFin",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bBaFin\\b",
+   "\\bBafin\\b",
+   "\\bFinanzaufsicht\\w*",
+   "\\bBundesanstalt für Finanzdienstleistungsaufsicht\\b",
+   "\\bSonderbeauftragte[nr]?\\b"
+  ],
+  "summary": "Deutsche Finanzaufsicht in Bonn und Frankfurt – nach Wirecard und Greensill in der Kritik und reformiert.",
+  "min": 5,
+  "body": "Die **Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin)** mit Sitz in Bonn und Frankfurt beaufsichtigt seit 2002 Banken, Versicherer, Wertpapierhandel und Kapitalverwaltungsgesellschaften. Sie untersteht dem Bundesfinanzministerium, beschäftigt rund 2.800 Menschen und finanziert sich über Umlagen der beaufsichtigten Unternehmen. Zu ihren Aufgaben gehören die Erlaubnis und laufende Überwachung von Instituten, die Verfolgung von Marktmanipulation und Insiderhandel, das Bilanz-Enforcement börsennotierter Unternehmen und seit 2021 ein stärkerer Verbraucherschutz. Großbanken werden gemeinsam mit der Europäischen Zentralbank beaufsichtigt.\n\nIn den großen Skandalen der letzten Jahre stand die BaFin selbst in der Kritik: Bei **Wirecard** verbot sie 2019 Leerverkäufe und zeigte Journalisten der Financial Times an, statt den Konzern zu prüfen; Mitarbeiter handelten privat mit Wirecard-Aktien. Präsident Felix Hufeld musste 2021 gehen, Nachfolger Mark Branson baute die Behörde um. Bei **Greensill** verhängte sie erst nach einer Sonderprüfung ein Moratorium, bei Schneeballsystemen und Goldhändlern griff sie spät oder gar nicht ein.\n\nIhr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vorstände absetzen oder Fonds prüfen – zuletzt bei Genossenschaftsbanken und einer Münchner Investmentgesellschaft."
+ },
+ {
+  "name": "Staatsanwaltschaft Köln",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bStaatsanwaltschaft Köln\\b",
+   "\\bKölner Staatsanwaltschaft\\b",
+   "\\bKölner (Ermittler|Staatsanw[aä]lt)\\w*",
+   "\\bBrorhilker\\b",
+   "\\bNeuheuser\\b",
+   "\\bHauptabteilung H\\b"
+  ],
+  "summary": "Zentrale Ermittlungsbehörde im Cum-Ex-Skandal, geprägt von Anne Brorhilker – und von internen Machtkämpfen.",
+  "body": "Die **Staatsanwaltschaft Köln** ist die zentrale Ermittlungsbehörde im Cum-Ex-Skandal. Ab 2013 baute die Oberstaatsanwältin **Anne Brorhilker** aus einem Brandbrief des Drogerieunternehmers Erwin Müller das größte Steuerstrafverfahren der deutschen Geschichte auf: über 120 Verfahren mit mehr als 1.700 Beschuldigten aus Banken, Kanzleien und Fonds weltweit. Alle ihre Anklagen endeten mit Schuldsprüchen, der Fiskus holte Hunderte Millionen Euro zurück. NRW-Justizminister Peter Biesenbach stockte die Cum-Ex-Abteilung von vier auf 36 Ermittler auf.\n\nZugleich wurde die Behörde zum Schauplatz eines Justizkonflikts. 2023 wollte der neue Behördenleiter Stephan Neuheuser mit Rückendeckung von Justizminister Benjamin Limbach die Abteilung teilen und Brorhilker die Hälfte ihres Personals nehmen; nach öffentlichem Protest wurde der Plan zurückgenommen. Biesenbach stellte Dienstaufsichtsbeschwerde gegen die Behördenleitung. Im April 2024 kündigte Brorhilker entnervt und wechselte zur Bürgerbewegung Finanzwende; ihr Vorgesetzter nannte ihre Arbeit danach „inhaltlich unzulänglich“.\n\nDie Kölner Ermittler sind auch für Landesbanken zuständig, deren Cum-Ex-Geschäfte andere Staatsanwaltschaften liegen ließen – etwa die HSH Nordbank, deren Verfahren Köln 2026 nach acht Jahren an Hamburg zurückgeben wollte. Daneben führt die Behörde Verfahren gegen Volksbank-Vorstände und in der NRW-Schleuser-Affäre."
+ },
+ {
+  "name": "BSI",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bBSI\\b",
+   "\\bBundesamt für Sicherheit in der Informationstechnik\\b",
+   "\\bSchönbohm\\b",
+   "\\bCybersicherheitsbehörde\\w*"
+  ],
+  "summary": "Deutsche Cybersicherheitsbehörde in Bonn, deren Präsident Arne Schönbohm 2022 geschasst wurde.",
+  "body": "Das **Bundesamt für Sicherheit in der Informationstechnik (BSI)** mit Sitz in Bonn ist die zentrale Cybersicherheitsbehörde des Bundes. 1991 gegründet, untersteht es dem Bundesinnenministerium und beschäftigt rund 1.800 Menschen. Es schützt die Netze der Bundesverwaltung, zertifiziert IT-Produkte, warnt Unternehmen und Bürger vor Sicherheitslücken, berät Betreiber kritischer Infrastrukturen und veröffentlicht jährlich ein Lagebild, das Ransomware als größte Bedrohung ausweist. Nach dem russischen Angriff auf die Ukraine 2022 sprach das BSI von einer „abstrakt erhöhten Bedrohungslage“.\n\nIm Oktober 2022 enthob Bundesinnenministerin Nancy Faeser Präsident **Arne Schönbohm** seines Amtes, nachdem Jan Böhmermann ihn im ZDF Magazin Royale wegen seiner Rolle im Verein Cyber-Sicherheitsrat Deutschland mit russischen Nachrichtendiensten in Verbindung gebracht hatte. Belege für eine Sicherheitsgefährdung fanden sich nicht; Schönbohm wurde ins Bundesamt für Bevölkerungsschutz versetzt und klagte gegen Ministerium und ZDF. Später warfen CDU-Abgeordnete Faeser vor, sie habe Schönbohm vom Verfassungsschutz überprüfen lassen – die Affäre wendete sich gegen die Ministerin. 2023 übernahm mit Claudia Plattner erstmals eine Frau die Leitung.\n\nDer Fall zeigt die Mechanismen des Berliner Machtapparats und die Verwundbarkeit einer Behörde, die auf Vertrauen angewiesen ist."
+ },
+ {
+  "name": "BND",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bBND\\b",
+   "\\bBundesnachrichtendienst\\w*",
+   "\\bCarsten L\\.?\\b",
+   "\\bPullach\\w*"
+  ],
+  "summary": "Deutscher Auslandsgeheimdienst, in dessen Reihen 2022 ein mutmaßlicher Russland-Spion enttarnt wurde.",
+  "body": "Der **Bundesnachrichtendienst (BND)** ist der Auslandsnachrichtendienst der Bundesrepublik mit Sitz in Berlin und Pullach bei München und rund 6.500 Mitarbeitern. Er untersteht dem Bundeskanzleramt, beschafft Informationen über das Ausland – von Militär über Terrorismus bis zu Cyberbedrohungen – und wird vom Parlamentarischen Kontrollgremium des Bundestags überwacht.\n\nKurz vor Weihnachten 2022 wurde **Carsten L.**, ein Abteilungsleiter des Dienstes, wegen des Verdachts des schweren Landesverrats festgenommen. Er soll geheime Informationen – darunter Erkenntnisse zur russischen Kriegführung in der Ukraine – über den Mittelsmann Arthur E. an den russischen Geheimdienst FSB weitergegeben haben; die Hinweise kamen von einem befreundeten westlichen Dienst. Im Dezember 2023 begann der Prozess vor dem Oberlandesgericht München; Investigativreporter sprachen von der „größten Panne seit Jahrzehnten“.\n\nDer Fall offenbarte Defizite bei der Sicherheitsüberprüfung von Geheimdienstpersonal, die auch das Kontrollgremium rügte, und fiel in eine Phase, in der russische Spionage und Sabotage in Deutschland deutlich zunahmen. Er steht in einer Reihe mit anderen Spionagefällen – vom Maulwurf bei Behörden bis zum flüchtigen Zahlungsdienstleister-Vorstand, der für Moskau Agenten dirigierte."
+ },
+ {
+  "name": "Handelsblatt",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bHandelsblatt Media Group\\b",
+   "\\bChefredakt(eur|ion)\\w*",
+   "\\bChefjurist\\w*",
+   "\\bJustiziar\\w*",
+   "\\bInvestigativ[- ]?(Team|Ressort|Chef)\\w*",
+   "\\bHoltzbrinck\\w*"
+  ],
+  "summary": "Düsseldorfer Wirtschaftszeitung, deren Investigativteam den Podcast Handelsblatt Crime produziert.",
+  "min": 6,
+  "body": "Das **Handelsblatt** ist Deutschlands größte Wirtschafts- und Finanzzeitung mit Sitz in Düsseldorf. Gegründet 1946, gehört es zur Handelsblatt Media Group, die wiederum zur Verlagsgruppe Dieter von Holtzbrinck zählt. Neben der gedruckten Ausgabe und dem digitalen Angebot H+ betreibt die Redaktion Podcasts, Liveformate und Videos; Chefredakteur ist seit 2020 Sebastian Matthes, der im Sinne des Presserechts für alle Inhalte verantwortlich ist.\n\nDas **Investigativteam** unter Leitung von Sönke Iwersen, mit Co-Ressortleiter Martin Murphy und Reportern wie Volker Votsmeier, René Bender, Lars-Marten Nagel und Michael Verfürden, deckte unter anderem die Ergo-Sexreisen, die Cum-Ex-Verstrickungen von Banken und Kanzleien, Details des Wirecard-Betrugs und die Tesla-Files auf. Die Veröffentlichung des geheimen Wambach-Berichts zur Arbeit der Wirecard-Prüfer war eine der umstrittensten Entscheidungen der Redaktion. Das Team wurde mehrfach mit dem Wächterpreis, dem Henri-Nannen-Preis und als Wirtschaftsjournalisten des Jahres ausgezeichnet.\n\nJuristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und seinem Team, die Abmahnungen, Klagen und Millionendrohungen abwehren. Der Podcast **Handelsblatt Crime** erscheint seit Dezember 2021 alle zwei Wochen, moderiert von Ina Karabasz und Solveig Gode, und geht regelmäßig mit Liveshows auf Tour."
+ },
+ {
+  "name": "Syntellix",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bSyntellix\\b",
+   "\\bSyntelix\\b",
+   "\\bUtz Claassen\\b",
+   "\\bClaassen\\b"
+  ],
+  "summary": "Hannoveraner Medizintechnikfirma von Utz Claassen, verdächtigt des Betrugs und der Insolvenzverschleppung.",
+  "body": "Die **Syntellix AG** aus Hannover entwickelt Implantate aus einer Magnesiumlegierung, die sich im Körper auflösen und eine zweite Operation zur Entfernung von Schrauben und Platten überflüssig machen sollen. Gründer und Vorstandschef ist **Utz Claassen** – einst Wunderkind der deutschen Wirtschaft mit Abitur 0,7, Oxford-Abschluss, McKinsey-Karriere und dem Chefposten beim Energiekonzern EnBW, dessen Ruf durch Abfindungsstreit, Vorwürfe der Abzocke und unzählige Prozesse gelitten hat.\n\nSyntellix fiel über Jahre vor allem durch leere Versprechungen, verfehlte Ziele und unbezahlte Gehälter und Rechnungen auf. Die Staatsanwaltschaft Hannover verdächtigt Claassen des Betrugs und der Insolvenzverschleppung, weitete die Ermittlungen aus und ließ Geschäftsräume durchsuchen. Claassen weist alles empört zurück und sieht sich als Opfer: Der frühere Deutsche-Bank-Chef Jürgen Fitschen habe als Syntellix-Aufsichtsrat die Firma mit einem „Fünf-Stufen-Plan“ zerstören wollen – Claassen verklagte ihn auf 68 Millionen Euro Schadensersatz.\n\nDer Fall steht für Selbstinszenierung, Größenwahn und juristische Dauerfehden eines Managers, dem einst alle Türen offenstanden."
+ },
+ {
+  "name": "Veltins",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bVeltins\\b",
+   "\\bCarl[- ]Clemens\\b",
+   "\\bGrevenstein\\w*",
+   "\\bBrauerei[- ]Erb\\w*"
+  ],
+  "summary": "Sauerländer Familienbrauerei, deren verstoßener Erbe Carl-Clemens Veltins um Hunderte Millionen klagt.",
+  "body": "Die **Brauerei C. & A. Veltins** in Meschede-Grevenstein im Sauerland gehört mit einem Ausstoß von mehr als drei Millionen Hektolitern zu den größten Privatbrauereien Deutschlands und ist durch das Sponsoring des FC Schalke 04 und der Veltins-Arena bundesweit bekannt. Das 1824 gegründete Unternehmen befindet sich in Familienbesitz; geprägt wurde es über Jahrzehnte von Rosemarie Veltins, die den Betrieb nach dem Tod ihres Vaters 1976 übernahm und bis zu ihrem Tod führte. Heute leiten ihre Töchter die Brauerei; die Familie gilt als äußerst verschwiegen.\n\nIhr Sohn **Carl-Clemens Veltins** ist das schwarze Schaf: Er handelte und konsumierte Drogen, saß im Gefängnis und ist seit Jahrzehnten vom Unternehmen ausgeschlossen; heute ist er arbeitslos. Er klagt gegen seine Schwestern auf sein Erbe mit dem Vorwurf, seine Mutter habe ihn vor fast 30 Jahren auf sittenwidrige Weise um mehrere hundert Millionen Euro gebracht – etwa durch einen Verzicht, den er in einer Lebenskrise unterschrieb. Die Schwestern äußern sich nicht.\n\nDer Erbstreit zeigt, wie Familienunternehmen mit Nachfolge, Pflichtteil und einem ungeliebten Erben umgehen – und welches Reputationsrisiko ein öffentlicher Prozess für eine Marke bedeutet."
+ },
+ {
+  "name": "OneCoin",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bOne ?Coin\\w*",
+   "\\bIgnatova\\b",
+   "\\bKrypto(queen|königin)\\b",
+   "\\bDr\\.? Ruja\\b"
+  ],
+  "summary": "Angebliche Kryptowährung der verschwundenen „Kryptoqueen“ Ruja Ignatova – ein Milliardenbetrug.",
+  "body": "**OneCoin** wurde 2014 von der in Deutschland aufgewachsenen Bulgarin **Ruja Ignatova** in Sofia gegründet und als Kryptowährung vermarktet, die den Bitcoin verdrängen werde. Tatsächlich gab es keine Blockchain: OneCoin war ein Schneeballsystem nach dem Vorbild von Multi-Level-Marketing, bei dem Anleger Schulungspakete kauften und für das Werben neuer Mitglieder belohnt wurden. Auf Bühnen in Wembley und anderen Großveranstaltungen inszenierte sich „Dr. Ruja“ als Visionärin; weltweit flossen nach Schätzungen vier Milliarden Euro oder mehr in das System, auch von zahlreichen deutschen Anlegern.\n\nIm Oktober 2017 wurde Ignatova zuletzt in Athen gesehen – seither ist sie verschwunden. 2022 setzte das FBI sie auf die Liste der zehn meistgesuchten Flüchtigen, Europol fahndet ebenfalls; es gibt Gerüchte über ihren Tod wie über ein Leben unter neuer Identität mit Unterstützernetzwerk. Ihr Bruder Konstantin Ignatov wurde in den USA verurteilt, Mitgründer Sebastian Greenwood erhielt 2023 in New York 20 Jahre Haft. In Deutschland verhandelte das Landgericht Münster gegen mutmaßliche Helfer; ein Verfahren platzte wegen Erkrankung eines Angeklagten.\n\nOneCoin gilt als einer der größten Betrugsfälle der Kryptogeschichte und als Warnung vor Anlagen, deren Technik niemand prüfen kann."
+ },
+ {
+  "name": "Dussmann",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bDussmann\\w*",
+   "\\bDußmann\\w*",
+   "\\bGöthert\\w*",
+   "\\bKulturkaufhaus\\b"
+  ],
+  "summary": "Berliner Dienstleistungskonzern, um dessen Erbe Witwe und Tochter von Peter Dussmann seit 2013 streiten.",
+  "body": "Die **Dussmann Group** mit Sitz in Berlin ist ein Familienunternehmen für Gebäudereinigung, Catering, Sicherheitsdienste, Pflege und Kindertagesstätten mit rund 70.000 Beschäftigten und etwa drei Milliarden Euro Umsatz. Gründer Peter Dussmann begann 1963 mit einem Reinigungsservice in München; sein Kulturkaufhaus an der Berliner Friedrichstraße wurde zur Institution. Nach einem Schlaganfall 2008 übernahm seine Frau Catherine von Fürstenberg-Dussmann die Führung; Dussmann starb 2013.\n\nSein **Erbe** ist seit Jahren umkämpft. Ursprünglich sollten Ehefrau und Tochter Angela zu gleichen Teilen erben. Doch die einzige Tochter – Harvard-Absolventin und Buchhändlerin im Kulturkaufhaus – heiratete 2006 Ronald Göthert, einen Esoteriker ohne Abitur, der mit der „Göthertschen Methode“ Feinstoffe ordnen und Menschen heilen wollte. Der Vater blieb der Hochzeit fern. 2010 wurde das Testament geändert: Die Tochter sollte nur noch 25 Prozent erhalten; unterschrieben hat der erkrankte Dussmann nicht selbst, sondern sein Arzt für ihn.\n\nAngela Göthert erfuhr erst nach dem Tod des Vaters davon und streitet seither mit ihrer Mutter vor Gericht um die Wirksamkeit des Testaments. Für den Konzern bedeutet der Familienkonflikt ein dauerhaftes Risiko für Nachfolge und Reputation."
+ },
+ {
+  "name": "Knorr-Bremse",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bKnorr[- ]?Bremse\\w*",
+   "\\bThiele\\b",
+   "\\bHeinz Hermann Thiele\\b",
+   "\\bBrühmüller\\b",
+   "\\bVossloh\\b"
+  ],
+  "summary": "Münchner Bremsenkonzern, um dessen 17-Milliarden-Erbe von Heinz Hermann Thiele Witwe und Sohn klagen.",
+  "body": "Die **Knorr-Bremse AG** mit Sitz in München ist Weltmarktführer für Bremssysteme in Schienen- und Nutzfahrzeugen mit rund 30.000 Beschäftigten und etwa acht Milliarden Euro Umsatz; seit 2018 ist sie börsennotiert. Ihr Aufstieg ist untrennbar mit **Heinz Hermann Thiele** verbunden: 1969 als Jurist in der Patentabteilung eingetreten, wurde er 1985 Vorstandschef, kaufte das damals angeschlagene Unternehmen mit Krediten der Deutschen Bank und baute es zum Weltkonzern aus. Thiele hielt zudem die Mehrheit am Schienenkonzern Vossloh und ein großes Aktienpaket der Lufthansa. Als er im Februar 2021 starb, galt er mit rund 17 Milliarden Euro als einer der reichsten Deutschen.\n\nUm sein **Erbe** tobt seither ein erbitterter Streit. Sein Sohn Henrik, der sich 2015 mit dem Vater überworfen und 2017 mit 25 Millionen Euro abfinden lassen hatte, klagte auf 4,5 Milliarden Euro und scheiterte in erster Instanz; er beschreibt den Tod des Vaters als Befreiung. Witwe Nadia Thiele klagt gegen die Stiftungskonstruktion, in der Tochter Julia die starke Rolle spielt, und gegen Testamentsvollstrecker Robin Brühmüller, der für seine Arbeit bis zu 250 Millionen Euro abrechnen könnte."
+ },
+ {
+  "name": "Landgericht Bonn",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bLandgericht Bonn\\b",
+   "\\bLG Bonn\\b",
+   "\\bBonner (Landgericht|Richter|Strafkammer|Gericht)\\w*",
+   "\\bSlota[- ]Haaf\\b",
+   "\\bZickler\\b"
+  ],
+  "summary": "Zentraler Gerichtsort der Cum-Ex-Aufarbeitung, an dem die ersten Urteile und der Berger-Prozess fielen.",
+  "body": "Das **Landgericht Bonn** ist die zentrale Aufarbeitungsstätte des Cum-Ex-Skandals, weil die Staatsanwaltschaft Köln dort anklagt und das Gericht Wirtschaftsstrafkammern mit entsprechender Expertise aufgebaut hat. Im März 2020 fällte die 12. Große Strafkammer unter dem Vorsitzenden Richter Roland Zickler das erste Cum-Ex-Urteil überhaupt: Zwei britische Aktienhändler erhielten Bewährungsstrafen, die Warburg-Gruppe musste 176 Millionen Euro Gewinne abgeben. Der Bundesgerichtshof bestätigte 2021, dass Cum-Ex-Geschäfte strafbare Steuerhinterziehung sind.\n\nEs folgten Prozesse gegen Warburg-Banker, gegen den Steueranwalt **Hanno Berger**, der im Dezember 2022 zu acht Jahren Haft verurteilt wurde, gegen den Ex-Warburg-Chef **Christian Olearius**, dessen Verfahren die Vorsitzende Richterin Marion Slota-Haaf im Juni 2024 wegen Krankheit einstellte, und gegen den Kronzeugen **Kai-Uwe Steck**, der 2025 eine Bewährungsstrafe erhielt. Im Steck-Prozess trat die frühere Chefermittlerin Anne Brorhilker als Zeugin auf und lieferte sich Wortgefechte mit Verteidiger Gerhard Strate.\n\nDas Gericht ist auch für Verfahren aus dem Umfeld der Bonner Behörden und der Region zuständig, etwa den Teldafax-Prozess 2016 und Ermittlungen der Bonner Staatsanwaltschaft gegen einen US-Unternehmer wegen Steuerhinterziehung."
+ },
+ {
+  "name": "Landgericht München",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bLandgericht München\\b",
+   "\\bLG München\\b",
+   "\\bMünchner (Landgericht|Strafkammer|Richter|Gericht)\\w*",
+   "\\bStadelheim\\w*",
+   "\\bFödisch\\b"
+  ],
+  "summary": "Gerichtsort der Mammutprozesse um Wirecard, Audi-Diesel und Sympatex – mit Hochsicherheitssaal in Stadelheim.",
+  "body": "Das **Landgericht München I** und das für den Landkreis zuständige **Landgericht München II** sind Schauplätze der größten deutschen Wirtschaftsstrafprozesse der letzten Jahre. Für den **Wirecard-Prozess** ließ der Freistaat Bayern auf dem Gelände der Justizvollzugsanstalt München-Stadelheim einen Hochsicherheitssaal bauen – 270 Quadratmeter, fünf Meter unter der Erde, 17 Millionen Euro teuer. Dort verhandelt die 4. Strafkammer unter dem Vorsitzenden Richter Markus Födisch seit Dezember 2022 gegen Markus Braun, Oliver Bellenhaus und Stephan von Erffa; die Anklage umfasst 474 Seiten, Hunderte Zeugen sind geladen. Der Richter stellte von Erffa gegen Geständnis sechs bis acht Jahre in Aussicht und warf ihm später vor, nicht die Wahrheit zu sagen.\n\nVor dem Landgericht München II endete 2023 nach 170 Verhandlungstagen der erste Diesel-Strafprozess mit Bewährungsstrafen für Ex-Audi-Chef Rupert Stadler und zwei Manager. Das Landgericht München I verurteilte 2022 Starkoch Alfons Schuhbeck wegen Steuerhinterziehung zu drei Jahren Haft und verhandelt seit 2025 den Sympatex-Betrugsprozess gegen prominente Berater.\n\nDie Verfahren zeigen, wie aufwendig Wirtschaftsstrafprozesse geworden sind – und wie stark Geständnisse und Verständigungen ihren Ausgang bestimmen."
+ },
+ {
+  "name": "Triton Partners",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bTriton\\b",
+   "\\bTriton[- ]Partners\\b",
+   "\\bPeder Prahl\\b",
+   "\\bPrahl\\b"
+  ],
+  "summary": "Europäischer Private-Equity-Fonds mit 16 Milliarden Euro, dem Mitarbeiter eine toxische Kultur vorwerfen.",
+  "body": "**Triton Partners** ist eine 1997 vom Schweden **Peder Prahl** gegründete Private-Equity-Gesellschaft mit Hauptsitz in Jersey und Büros unter anderem in Frankfurt, London und Stockholm. Sie hat Fonds mit einem Volumen von mehr als 16 Milliarden Euro aufgelegt und sich an mehr als 90 Unternehmen beteiligt, darunter deutsche Mittelständler aus Industrie, Gesundheit und Dienstleistung. Investoren sind Staatsfonds, Versicherungen und öffentliche Pensionskassen. Damit zählt Triton zu den wichtigsten europäischen Finanzinvestoren.\n\n2024 berichtete das Handelsblatt nach monatelangen Recherchen mit Fotos, Videos, Chats und mehr als einem Dutzend Zeugen über eine Unternehmenskultur, „als hätte es die MeToo-Debatte nie gegeben“: Partys, bei denen der Gründer oberkörperfrei und ein Partner in Unterhose auf einer Couch saßen, exzessiver Alkoholkonsum („gesoffen wie die Löcher“), Manager, die Beförderungen gegen die Telefonnummer einer Frau im blauen Kleid versprachen. Eine Insiderin sprach von einer „Mischung aus Scientology und Wolf of Wall Street“.\n\nTriton bestreitet eine verfehlte Kultur, verweist auf Untersuchungen, Verwarnungen und Entlassungen in Einzelfällen und betont, Hinweisen nachzugehen. Der Fall wirft die Frage auf, wie öffentliche Pensionskassen die Kultur der Fonds prüfen, denen sie Milliarden anvertrauen."
+ },
+ {
+  "name": "Social Chain",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bSocial ?Chain\\b",
+   "\\bWanja Oberhof\\b",
+   "\\bOberhof\\b",
+   "\\bKofler\\b",
+   "\\bRalf Dümmel\\b",
+   "\\bHöhle der Löwen\\b"
+  ],
+  "summary": "Social-Commerce-Konzern der TV-Löwen Kofler und Dümmel, 2023 insolvent – Ausgangspunkt des Falls Oberhof.",
+  "body": "Die **Social Chain AG** entstand 2019 aus der Fusion der Lumaland AG mit der Social Chain Group des Briten Steven Bartlett und wurde von Georg Kofler, bekannt als Investor aus der Fernsehshow „Die Höhle der Löwen“, geführt. 2021 kam die Handelsgruppe DS von Ralf Dümmel, ebenfalls TV-Löwe, hinzu. Das Unternehmen verband Social-Media-Marketing mit dem Verkauf von Konsumgütern und wurde als „Löwenaktie“ oder neue „Volksaktie“ gefeiert; im November 2021 war es mehr als eine halbe Milliarde Euro wert, der Kurs lag über 50 Euro.\n\nZwei Jahre später war die Aktie ein Pennystock. Die BaFin entdeckte Fehlbuchungen in Millionenhöhe, und ein Ex-CEO hatte ein mitteilungspflichtiges Großinvestment kurz vor der Insolvenz verschwiegen. Im Sommer 2023 meldete die Social Chain AG Insolvenz an; Kofler und Dümmel mussten Kritik einstecken.\n\nGesellschafter und zeitweise Chef der Gesellschaft war auch der junge Unternehmer **Wanja Oberhof**, der zahlreiche Firmen gründete und finanzierte. 2026 wurde er in den USA festgenommen und kam nach neun Tagen Haft gegen Millionenkaution frei. Die US-Justiz wirft ihm vor, Investoren – darunter Ex-Siemens-Chef Klaus Kleinfeld – betrogen und Gelder privat verwendet zu haben."
+ },
+ {
+  "name": "German Property Group",
+  "folder": "Unternehmen",
+  "patterns": [
+   "\\bGerman Property Group\\b",
+   "\\bGPG\\b",
+   "\\bDolphin Trust\\b",
+   "\\bDolphin Capital\\b",
+   "\\bSmethurst\\b"
+  ],
+  "summary": "Immobilienfirma von Charles Smethurst, die mit Denkmalsanierungen 1,5 Milliarden Euro Anlegergeld einsammelte.",
+  "body": "Die **German Property Group (GPG)**, früher **Dolphin Trust**, mit Sitz in Langenhagen bei Hannover warb zwischen 2008 und 2018 vor allem bei Anlegern in Großbritannien, Irland, Singapur und Südkorea Geld ein: Sie sollten über Darlehen die Sanierung denkmalgeschützter Gebäude in Deutschland finanzieren – mit hohen Renditen und Steuervorteilen, die auch den Anlegern zugutekommen sollten. Insidern zufolge flossen rund 1,5 Milliarden Euro. Gründer **Charles Smethurst**, ein Deutsch-Brite, galt als Verkaufsgenie und „Gentleman der Immobilienbranche“.\n\nTatsächlich wurden viele Gebäude nie saniert; Gelder versickerten in einem Geflecht von Gesellschaften, Auszahlungen an Altanleger wurden mit frischem Geld finanziert. 2020 brach die Gruppe zusammen und ging in die Insolvenz. Der Insolvenzverwalter stellte der Firma ein verheerendes Zeugnis aus; betrogene Investoren organisierten sich in Aktionsgruppen, auch Finanzportale wie Gomopa hatten früh gewarnt.\n\nIm Oktober 2024, vier Jahre nach Beginn der Ermittlungen, erhob die Staatsanwaltschaft Hannover Anklage gegen Smethurst und weitere Gründer wegen gewerbsmäßigen Betrugs in 27 Fällen mit einem Schaden von mehr als 56 Millionen Euro – der tatsächliche Schaden dürfte um ein Vielfaches höher liegen. Der Fall ist einer der größten Anlagebetrugsskandale mit deutschem Betongold."
+ }
+]

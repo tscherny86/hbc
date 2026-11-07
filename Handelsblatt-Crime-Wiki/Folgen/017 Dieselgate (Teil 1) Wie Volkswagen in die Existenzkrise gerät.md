@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
 | **Themen** | [[Betrug]], [[Abgasmanipulation]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
+| **Unternehmen** | [[Volkswagen]], [[Audi]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Martin Winterkorn]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

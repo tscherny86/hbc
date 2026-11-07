@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Volker Votsmeier]], [[René Bender]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Volker Votsmeier]], [[René Bender]], [[Jan Marsalek]], [[Markus Braun]], [[Anne Brorhilker]], [[Christian Olearius]], [[Benjamin Limbach]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

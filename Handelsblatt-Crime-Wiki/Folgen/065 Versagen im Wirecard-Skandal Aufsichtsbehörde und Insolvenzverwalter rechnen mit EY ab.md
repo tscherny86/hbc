@@ -21,7 +21,7 @@ tags: [folge, jahr-2024, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
 | **Themen** | [[Insolvenzverwalter]], [[Wirtschaftsprüfung]] |
-| **Unternehmen** | – |
+| **Unternehmen** | [[EY (Ernst & Young)]] |
 | **Personen** | [[René Bender]], [[Bert Fröndhoff]] |
 | **Kurz erwähnt** | – |
 

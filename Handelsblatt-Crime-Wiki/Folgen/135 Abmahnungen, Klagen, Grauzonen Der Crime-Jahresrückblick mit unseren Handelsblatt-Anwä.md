@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]] |
 | **Themen** | [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Handelsblatt]] |
+| **Personen** | [[Peter Koppe]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

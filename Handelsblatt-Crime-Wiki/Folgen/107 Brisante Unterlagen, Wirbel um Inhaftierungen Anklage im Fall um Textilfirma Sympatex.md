@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Sympatex-Betrug]] |
 | **Themen** | [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
-| **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[René Bender]] |
+| **Unternehmen** | [[Sympatex]], [[Goetzpartners]] |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[René Bender]], [[Stephan Goetz]], [[Stefan Sanktjohanser]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

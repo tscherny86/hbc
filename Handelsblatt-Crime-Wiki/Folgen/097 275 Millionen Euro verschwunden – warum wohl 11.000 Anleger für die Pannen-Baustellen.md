@@ -22,7 +22,7 @@ tags: [folge, jahr-2024, folge]
 | **Fälle** | [[Soravia-Gruppe und One Group]] |
 | **Themen** | [[Insolvenzverwalter]], [[Immobilienkrise]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
-| **Personen** | – |
+| **Personen** | [[Erwin Soravia]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

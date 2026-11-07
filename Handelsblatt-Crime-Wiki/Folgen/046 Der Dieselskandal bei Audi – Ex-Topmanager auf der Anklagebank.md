@@ -21,8 +21,8 @@ tags: [folge, jahr-2023, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Volkswagen]], [[Audi]] |
+| **Personen** | [[Rupert Stadler]], [[Wolfgang Hatz]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

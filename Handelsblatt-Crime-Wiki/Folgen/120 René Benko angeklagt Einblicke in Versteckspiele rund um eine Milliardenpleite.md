@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Signa und René Benko]] |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]] |
-| **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]] |
+| **Unternehmen** | [[Signa]] |
+| **Personen** | [[Ina Karabasz]], [[René Benko]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

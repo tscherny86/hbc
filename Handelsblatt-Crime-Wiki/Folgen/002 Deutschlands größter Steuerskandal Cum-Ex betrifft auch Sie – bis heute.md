@@ -21,8 +21,8 @@ tags: [folge, jahr-2021, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Prominente und die Steuerfahndung]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Private Equity]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Staatsanwaltschaft Köln]], [[Handelsblatt]] |
+| **Personen** | [[Hanno Berger]], [[Anne Brorhilker]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

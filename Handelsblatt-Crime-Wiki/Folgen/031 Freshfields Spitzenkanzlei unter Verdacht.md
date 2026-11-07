@@ -21,8 +21,8 @@ tags: [folge, jahr-2022, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Freshfields und Cum-Ex]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Freshfields]] |
+| **Personen** | [[Hanno Berger]], [[Olaf Scholz]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

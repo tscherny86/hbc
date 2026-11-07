@@ -22,7 +22,7 @@ tags: [folge, jahr-2023, folge]
 | **Fälle** | [[Adler Group]] |
 | **Themen** | [[Insolvenz]], [[Untreue]], [[Bilanzfälschung]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
-| **Personen** | [[Michael Verfürden]], [[René Bender]] |
+| **Personen** | [[Michael Verfürden]], [[René Bender]], [[Stefan Kirsten]], [[Cevdet Caner]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes

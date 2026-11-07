@@ -21,8 +21,8 @@ tags: [folge, jahr-2025, folge]
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
 | **Themen** | [[Betrug]], [[Insolvenz]], [[Insolvenzverwalter]], [[Bilanzfälschung]], [[Staatsanwaltschaft und Strafprozess]], [[Pressefreiheit und Presserecht]] |
-| **Unternehmen** | – |
-| **Personen** | – |
+| **Unternehmen** | [[Greensill Bank]] |
+| **Personen** | [[Lex Greensill]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes
