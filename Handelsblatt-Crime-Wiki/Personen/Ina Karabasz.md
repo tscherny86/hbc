@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 36
+folgen: 43
 tags: [personen]
 ---
 # Ina Karabasz
@@ -15,7 +15,7 @@ _Host von Handelsblatt Crime seit dem Start 2021, Ressortleiterin Podcast, Live 
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (36)
+## In diesen Folgen (43)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes
 - [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Shownotes
@@ -52,7 +52,14 @@ _Host von Handelsblatt Crime seit dem Start 2021, Ressortleiterin Podcast, Live 
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
-- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes
+- [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Shownotes
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — 
+- [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Shownotes
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — 
+- [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes
+- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes
+- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — 
+- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

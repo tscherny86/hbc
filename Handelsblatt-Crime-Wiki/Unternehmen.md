@@ -19,7 +19,7 @@
 - [[Gomopa]] — Finanzportal, dessen Betreiber sich kritische Berichte abkaufen ließ und wegen Erpressung verurteilt wurde. (1 Folgen)
 - [[Greensill Bank]] — Bremer Bank des Australiers Lex Greensill, deren Kollaps 2021 Sparer und Kommunen Milliarden kostete. (2 Folgen)
 - [[Gröner Group]] — Immobiliengruppe des Bauunternehmers Christoph Gröner, die 2025 in die Insolvenz rutschte. (4 Folgen)
-- [[Handelsblatt]] — Düsseldorfer Wirtschaftszeitung, deren Investigativteam den Podcast Handelsblatt Crime produziert. (43 Folgen)
+- [[Handelsblatt]] — Düsseldorfer Wirtschaftszeitung, deren Investigativteam den Podcast Handelsblatt Crime produziert. (41 Folgen)
 - [[Hedera Bauwert]] — Berliner Immobiliengruppe mit gefälschten Rechnungen, Gewaltverbrechen und Verbindung zum Verius-Fonds. (1 Folgen)
 - [[HSH Nordbank]] — Frühere Landesbank Hamburgs und Schleswig-Holsteins, deren Cum-Ex-Altlasten nie in Hamburg verfolgt wurden. (4 Folgen)
 - [[KNDS (Krauss-Maffei Wegmann)]] — Deutsch-französischer Panzerbauer, dessen Vorgänger KMW mit dem Katar-Deal 2013 Provisionsfragen aufwarf. (1 Folgen)
@@ -43,9 +43,9 @@
 - [[ThomasLloyd]] — Investmenthaus für Öko-Fonds, dessen 27.000 Anleger auf Auszahlungen warten. (1 Folgen)
 - [[Triton Partners]] — Europäischer Private-Equity-Fonds mit 16 Milliarden Euro, dem Mitarbeiter eine toxische Kultur vorwerfen. (2 Folgen)
 - [[Veltins]] — Sauerländer Familienbrauerei, deren verstoßener Erbe Carl-Clemens Veltins um Hunderte Millionen klagt. (1 Folgen)
-- [[Volksbank Düsseldorf Neuss]] — Genossenschaftsbank, von deren Konto 100 Millionen Euro einer französischen Modekette verschwanden. (1 Folgen)
+- [[Volksbank Düsseldorf Neuss]] — Genossenschaftsbank, von deren Konto 100 Millionen Euro einer französischen Modekette verschwanden. (2 Folgen)
 - [[Volksbank Köln Bonn]] — Rheinische Genossenschaftsbank, die mit einem Kredit für das Kölner Großbordell „Pascha“ Schlagzeilen machte. (2 Folgen)
 - [[Volkswagen]] — Wolfsburger Autokonzern, dessen Dieselskandal 2015 mehr als 30 Milliarden Euro kostete. (5 Folgen)
-- [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] — Thüringer Genossenschaftsbank, die mit Beteiligungen und Rotlicht-Immobilien 220 Millionen Euro verlor. (2 Folgen)
+- [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] — Thüringer Genossenschaftsbank, die mit Beteiligungen und Rotlicht-Immobilien 220 Millionen Euro verlor. (3 Folgen)
 
 ← [[Handelsblatt Crime Wiki|Start]]

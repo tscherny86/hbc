@@ -26,13 +26,9 @@ Der Fall löste eine Debatte über die Reform der Wirtschaftsprüfung aus und f�
 
 ## Was im Podcast gesagt wird
 
-> … zu helfen weiß, weil man eben in der Schweiz das Gefühl hat, ey, die Endora, die lassen uns so am ausgestreckten Arm irgendwie verhungern. Ja, diesen Eindruck, der zwingt sich auf. Und ich hatte …
+> … hatte. Da ging es um die geheimen Ermittlungsakten in der Arbeit von EY im Fall Wirecard. Und da gab es einen Untersuchungsausschuss im Bundestag, der eine Untersuchung in Auftrag gegeben hat. Und die wurde …
 >
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 40:58](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2458) · [[Transkript 161#Minute 40|im Transkript]]
-
-> … namhafte Kanzleien. Also das ist Freshfields ist dabei und die Wirtschaftsprüfer von EY. Und die hätten im Mai 26 einen vorläufigen Bericht vorgelegt. Und da können wir kurz reinhören, was da drin steht. Well, …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 56:23](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3383) · [[Transkript 161#Minute 56|im Transkript]]
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 12:43](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=763) · [[Transkript 154#Minute 12|im Transkript]]
 
 ## In diesen Folgen (5)
 
@@ -44,7 +40,7 @@ Der Fall löste eine Debatte über die Reform der Wirtschaftsprüfung aus und f�
 
 ## Kurz erwähnt (1)
 
-- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Minute [40:58](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2458), [56:23](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3383)
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [12:43](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=763)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

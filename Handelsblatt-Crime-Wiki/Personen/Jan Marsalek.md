@@ -22,6 +22,10 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 
 ## Was im Podcast gesagt wird
 
+> … keine Folge, schrieb jemand auch neulich, in die Kommentare machen, ohne Jan Marsalek zu nennen, und wo der überall übrigens tatsächlich auftaucht. Jetzt ist es so, dass wir schon uns auch manchmal auf die …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 32:28](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1948) · [[Transkript 154#Minute 32|im Transkript]]
+
 > … Kaviar ist fantastisch. Das klingt ja so ein bisschen wie bei Jan Marsalek, muss man sagen. Der hat sich ja auch nach Moskau abgesetzt, also dem flüchtigen Wirecard-Vorstand. Ja, vermutlich ist das genauso beabsichtigt, …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 6:25](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=385) · [[Transkript 158#Minute 6|im Transkript]]
@@ -49,6 +53,10 @@ Nach seiner Flucht soll Marsalek für russische Nachrichtendienste gearbeitet ha
 - [[145 Neue Crime Live-Show Termine im Juni 2026 Die letzten 48 Stunden von Wirecard|#145 – Neue Crime Live-Show Termine im Juni 2026: Die letzten 48 Stunden von Wirecard]] (2026-04-21) — Shownotes
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [6:25](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=385), [8:11](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=491)
+
+## Kurz erwähnt (1)
+
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [32:28](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1948)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

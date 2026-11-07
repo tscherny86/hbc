@@ -22,7 +22,7 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Hedera-Immobiliengruppe]] |
 | **Themen** | [[Insolvenzverwalter]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
 | **Unternehmen** | [[Hedera Bauwert]] |
-| **Personen** | – |
+| **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | [[Insolvenz]], [[Vergleich und Bußgeld]] |
 
 ## Shownotes

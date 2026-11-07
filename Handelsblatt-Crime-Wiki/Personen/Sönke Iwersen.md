@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 44
+folgen: 45
 tags: [personen]
 ---
 # Sönke Iwersen
@@ -15,7 +15,7 @@ _Leiter des Handelsblatt-Investigativteams; erzählt im Podcast die meisten Fäl
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (44)
+## In diesen Folgen (45)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes
 - [[005 Edward Snowden und seine Schutzengel Diese Menschen retteten ihm auf seiner Flucht das|#5 – Edward Snowden und seine Schutzengel: Diese Menschen retteten ihm auf seiner Flucht das Leben]] (2022-01-30) — Shownotes
@@ -58,6 +58,7 @@ _Leiter des Handelsblatt-Investigativteams; erzählt im Podcast die meisten Fäl
 - [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Shownotes
 - [[149 Update für Handelsblatt Crime Live – Wir legen nach!|#149 – Update für Handelsblatt Crime Live – Wir legen nach!]] (2026-05-10) — Shownotes
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — 
 - [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes
 - [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Shownotes
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes

@@ -22,13 +22,13 @@ Der Fall ist ungewöhnlich, weil ein deutscher Unternehmer in den USA – mit de
 
 ## Was im Podcast gesagt wird
 
-> … New York, Sylt und Berlin und auch ein Gefängnis in Brooklyn. Wanya Oberhof sitzt neun Tage im berüchtigten Metropolitan Detention Center, dem MDC. Dann kommt er wieder frei gegen eine Millionen-Dollar-Kaution, gezahlt von zwei …
+> … in New York, Sylt und Berlin und auch ein Gefängnis in Brooklyn. Wanja Oberhof sitzt neun Tage im berüchtigten Metropolitan Detention Center, dem MDC. Dann kommt er wieder frei gegen eine Millionen-Dollar-Kaution, gezahlt von …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13) · [[Transkript 160#Minute 0|im Transkript]]
 
-> … ist also genau jetzt gerade im September passiert und was wird Wanya Oberhof konkret vorgeworfen? Ja, am 12. September ist was passiert, relativ spektakulär. Wanya Oberhof war in den USA auf Reise, also er …
+> … Was ist also genau jetzt gerade im September passiert und was wird Wanja Oberhof konkret vorgeworfen? Ja, am 12. September ist was passiert, relativ spektakulär. Wanja Oberhof war in den USA auf Reise, also …
 >
-> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 1:50](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=110) · [[Transkript 160#Minute 1|im Transkript]]
+> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 1:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=109) · [[Transkript 160#Minute 1|im Transkript]]
 
 > … der Ermittlungen gewesen, sondern offenbar gab es auch vorher schon Ermittlungen. Und Kleinfeld ist halt einer der Ersten, der dann ausgesagt hat dort. Okay, du hast es ja schon gesagt, Klaus Kleinfeld ist ja …
 >
@@ -41,7 +41,7 @@ Der Fall ist ungewöhnlich, weil ein deutscher Unternehmer in den USA – mit de
 ## In diesen Folgen (2)
 
 - [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes
-- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13), [1:50](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=110), [3:20](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=200), [4:54](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=294)
+- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13), [1:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=109), [3:20](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=200), [4:54](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=294)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

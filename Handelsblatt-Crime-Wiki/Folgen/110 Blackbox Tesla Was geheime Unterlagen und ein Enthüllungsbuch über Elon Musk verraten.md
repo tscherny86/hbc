@@ -19,7 +19,7 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 59:45 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0WtOY8iW8aKlf8DGUXigoV) · [MP3](https://audio.podigee-cdn.net/1791715-m-9e865a2d3726c7d93f9097546fa5937a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/110-tesla-files-buch) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]] |
+| **Fälle** | [[Tesla-Files]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | [[Tesla]] |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Michael Verfürden]], [[Elon Musk]] |

@@ -22,7 +22,7 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Volksbank Köln Bonn (Bordell-Kredit)]] |
 | **Themen** | [[Korruption und Bestechung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]], [[Compliance]] |
 | **Unternehmen** | [[Volksbank Köln Bonn]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
-| **Personen** | – |
+| **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | [[Effenberg-Bank]], [[Geldwäsche]] |
 
 ## Shownotes

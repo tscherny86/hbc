@@ -20,9 +20,13 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 
 ## Was im Podcast gesagt wird
 
-> … wir vor zwei Jahren im Handelsblatt berichtet haben. Eben über den Fall Sympatex, in dem er jetzt angeklagt ist. Und da hat die Staatsanwaltschaft eben ein Telefonat von ihm abgehört. Mit einem Manager aus …
+> … andere bekannte Unternehmer und Investoren Geld reingesteckt. Unter anderem der ehemalige Unternehmensberater Stephan Goetz. Also Namensgeber der Unternehmensberatung Goetzpartners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass er sich in …
 >
-> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 38:11](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2291) · [[Transkript 160#Minute 38|im Transkript]]
+> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 37:27](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2247) · [[Transkript 160#Minute 37|im Transkript]]
+
+> … man sich vorstellen. Und wer jetzt nochmal zurückgehen möchte, wir haben zu Sympatex und Goetzpartners berichtet. Auch bei Handelsblatt Crime finden Sie noch in den alten Folgen. Ja, übrigens auch ausführlich über Social Chain, …
+>
+> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 39:00](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2340) · [[Transkript 160#Minute 39|im Transkript]]
 
 ## In diesen Folgen (4)
 
@@ -33,7 +37,7 @@ Im Juli 2023 durchsuchten Ermittler 50 Objekte, im März 2024 kamen Goetz und Sa
 
 ## Kurz erwähnt (1)
 
-- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [38:11](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2291)
+- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [37:27](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2247), [39:00](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2340)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

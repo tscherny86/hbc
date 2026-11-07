@@ -27,9 +27,9 @@ Eine **Falschaussage** ist die vorsätzlich unwahre Aussage eines Zeugen oder Sa
 
 ## Was im Podcast gesagt wird
 
-> … wird nun an insgesamt zwölf Verhandlungstagen und im Fall einer Verurteilung wegen uneidlicher Falschaussage drohen Scheuer drei Monate bis fünf Jahre Haft. Der Fall ist nicht nur historisch einmalig, er ist zugleich juristisch und …
+> … den Jahren 2020 und 2021 die Abgeordneten im Untersuchungsausschuss zur gescheiterten Pkw-Maut wider besseres Wissen falsch informiert zu haben. Scheuer bestreitet den Vorwurf. Der ehemalige Minister habe, Zitat, seine Erinnerungen genauso wiedergegeben, wie sie bei seiner …
 >
-> — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 1:04](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=64) · [[Transkript 159#Minute 1|im Transkript]]
+> — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 0:43](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=43) · [[Transkript 159#Minute 0|im Transkript]]
 
 > … auf eine Sicht festgelegt. Ja, die Staatsanwaltschaft ist sich sicher, das seien Falschaussagen gewesen, was die beiden Herren da getan haben sollen. Und das sind oder wären in dem Fall Straftaten, die eben von …
 >
@@ -46,7 +46,7 @@ Eine **Falschaussage** ist die vorsätzlich unwahre Aussage eines Zeugen oder Sa
 ## In diesen Folgen (2)
 
 - [[149 Update für Handelsblatt Crime Live – Wir legen nach!|#149 – Update für Handelsblatt Crime Live – Wir legen nach!]] (2026-05-10) — Shownotes
-- [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes · Minute [1:04](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=64), [19:13](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1153), [22:09](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1329), [26:19](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1579)
+- [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes · Minute [0:43](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=43), [19:13](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1153), [22:09](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1329), [26:19](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=1579)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

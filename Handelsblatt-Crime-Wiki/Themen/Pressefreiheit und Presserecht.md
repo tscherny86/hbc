@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 7
+folgen: 6
 tags: [themen]
 ---
 # Pressefreiheit und Presserecht
@@ -25,7 +25,7 @@ Redaktionen beschäftigen deshalb **Justiziare**, die Texte und Podcasts vor Ver
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (7)
+## In diesen Folgen (6)
 
 - [[077 Meet the Team Investigativ-Chef Sönke Iwersen|#77 – Meet the Team: Investigativ-Chef Sönke Iwersen]] (2024-05-04) — Shownotes
 - [[101 Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds|#101 – Very Private Equity – Mitarbeiter erheben schwere Vorwürfe gegen Milliardenfonds]] (2024-11-22) — Shownotes
@@ -33,7 +33,6 @@ Redaktionen beschäftigen deshalb **Justiziare**, die Texte und Podcasts vor Ver
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes
 - [[116 Wirecard, Sophia Thomalla, EY Handelsblatt-Chefjurist erzählt von seinen spannendsten|#116 – Wirecard, Sophia Thomalla, EY: Handelsblatt-Chefjurist erzählt von seinen spannendsten Fällen]] (2025-06-15) — Shownotes
 - [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135 – Abmahnungen, Klagen, Grauzonen: Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwälten]] (2025-12-28) — Shownotes
-- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

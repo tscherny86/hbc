@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera
 
-Folge: [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (0 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (2 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0
@@ -14,7 +14,7 @@ Mitte Juli sitzt ein Berliner Bauunternehmer in einem schwer gesicherten Gericht
 
 ### Minute 1
 [▶ 1:17](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=77)  
-Er steht im Zusammenhang mit dem 1 ,2 Milliarden Euro schweren Verius-Fonds, der einst viel Beitragsgeld deutscher Krankenkassen und kassenärztlicher Vereinigungen gewinnbringend anlegen sollte und dessen Vermögen sich inzwischen offenbar aber in Luft aufgelöst hat. Seit Anfang 2023 berichten Jakob Blume, stellvertretender Leiter des Finanzressorts und Investigativreporter Lars Marten-Nagel über den Immobilienunternehmer M und die Finanzkatastrophe des Verius-Fonds. Mit beiden spreche ich heute über einen wirklich irren Finanzkrimi, in dem sogar scharf geschossen wird. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit - und Kriminalfälle der deutschen Wirtschaft. Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Ina Karabas und damit herzlich willkommen zu Handelsblatt Crime. Hallo Lars, hallo Jakob.
+Er steht im Zusammenhang mit dem 1 ,2 Milliarden Euro schweren Verius-Fonds, der einst viel Beitragsgeld deutscher Krankenkassen und kassenärztlicher Vereinigungen gewinnbringend anlegen sollte und dessen Vermögen sich inzwischen offenbar aber in Luft aufgelöst hat. Seit Anfang 2023 berichten Jakob Blume, stellvertretender Leiter des Finanzressorts und Investigativreporter Lars Marten-Nagel über den Immobilienunternehmer M und die Finanzkatastrophe des Verius-Fonds. Mit beiden spreche ich heute über einen wirklich irren Finanzkrimi, in dem sogar scharf geschossen wird. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit - und Kriminalfälle der deutschen Wirtschaft. Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Lars, hallo Jakob.
 
 ### Minute 2
 [▶ 2:22](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=142)  
@@ -162,7 +162,7 @@ Zur Sicherheit noch hinten angeschoben, der Anwalt von Hedera hat damals auch zu
 
 ### Minute 40
 [▶ 40:54](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2454)  
-Und wenn der Rohbau ist, einen ganz großen Block und dann am Ende die letzten 10 Prozent, wenn auch das Bad fertig ist und drinnen renoviert und so. Und die sagen, naja, der Rohbau, der sei gar nicht fertig gewesen, aber die Hedera hätte schon die entsprechenden Raten abgerufen. Genau und diese Berichte, die liegen dem Handelsbad auch teilweise vor. Und jetzt muss man aber nochmal ganz kurz sagen, du sprichst jetzt gerade von Berlin, Tempelhofer Flughafen. Das sind andere Ermittlungen als in Hamburg. Richtig, die Verfahren haben tatsächlich nichts miteinander zu tun. Also dieses Verfahren spielt in Berlin. Da geht es eben um die Altbauten, über die wir vorhin schon gesprochen haben, die M sanieren sollte und die Wohnungen einzeln verkauft hat. Und die Hedera hat gesagt, okay, der Rohbau ist fertig, damit wird quasi die nächste, die achte oder neunte Rate fällig. Das heißt, wenn die Wohnungserwerber erwiesen hätten, hätten sie mehr als 80 Prozent des gesamten Wohnungskaufpreises schon bezahlt. Aber es liegen eben auch Gutachten von Bausachverständigen vor, die eben sagen, nein, der Rohbau ist noch nicht fertig.
+Und wenn der Rohbau ist, einen ganz großen Block und dann am Ende die letzten 10 Prozent, wenn auch das Bad fertig ist und drinnen renoviert und so. Und die sagen, naja, der Rohbau, der sei gar nicht fertig gewesen, aber die Hedera hätte schon die entsprechenden Raten abgerufen. Genau und diese Berichte, die liegen dem Handelsblatt auch teilweise vor. Und jetzt muss man aber nochmal ganz kurz sagen, du sprichst jetzt gerade von Berlin, Tempelhofer Flughafen. Das sind andere Ermittlungen als in Hamburg. Richtig, die Verfahren haben tatsächlich nichts miteinander zu tun. Also dieses Verfahren spielt in Berlin. Da geht es eben um die Altbauten, über die wir vorhin schon gesprochen haben, die M sanieren sollte und die Wohnungen einzeln verkauft hat. Und die Hedera hat gesagt, okay, der Rohbau ist fertig, damit wird quasi die nächste, die achte oder neunte Rate fällig. Das heißt, wenn die Wohnungserwerber erwiesen hätten, hätten sie mehr als 80 Prozent des gesamten Wohnungskaufpreises schon bezahlt. Aber es liegen eben auch Gutachten von Bausachverständigen vor, die eben sagen, nein, der Rohbau ist noch nicht fertig.
 
 ### Minute 42
 [▶ 42:02](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2522)  

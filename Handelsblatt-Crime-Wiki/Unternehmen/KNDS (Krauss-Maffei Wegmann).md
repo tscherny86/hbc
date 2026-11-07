@@ -24,21 +24,21 @@ Die Vorgänge beschäftigten Gerichte über Jahre und kochten 2026 im Vorfeld de
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 1:04](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=64) · [[Transkript 161#Minute 1|im Transkript]]
 
-> … weitere militärische Radfahrzeuge sowie weitere militärische Güter an die Firma Kraus, Maffei Wegmann, GmbH und Co. KG bezahlt. So, und natürlich haben sich da bei mir gleich die Nackenhaare aufgestellt, weil Kraus, Maffei Wegmann …
+> … Fennec und weitere militärische Radfahrzeuge sowie weitere militärische Güter an die Firma Krauss-Maffei Wegmann, GmbH und Co. KG bezahlt. So, und natürlich haben sich da bei mir gleich die Nackenhaare aufgestellt, weil Krauss-Maffei Wegmann kennt man …
 >
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 4:11](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=251) · [[Transkript 161#Minute 4|im Transkript]]
+> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 4:10](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=250) · [[Transkript 161#Minute 4|im Transkript]]
 
-> … noch eine ganze Reihe weiterer Systeme aus dem Arsenal von dieser Rüstungsfirma Krauss-Maffei-Wegmann-KMW aus München gekauft werden. In Summe waren es 62 Leopard-Panzer, 24 Haubitzen, PZH-2000 hießen die, Flak - und Bergpanzer und auch …
+> … noch eine ganze Reihe weiterer Systeme aus dem Arsenal von dieser Rüstungsfirma Krauss-Maffei-Wegmann-KMW aus München gekauft werden. In Summe waren es 62 Leopard-Panzer, 24 Haubitzen, PZH-2000 hießen die, Flak - und Bergepanzer und auch …
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 7:56](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=476) · [[Transkript 161#Minute 7|im Transkript]]
 
-> … jemand mehr Gedanken gemacht. Die NATO hatte ihre Arsenale durchmodernisiert. Und Kraus-Maffei, KMW, die hatten damals eher Probleme, die abzusetzen, diese schweren Geräte. Ja, das ist ein bisschen anders. Vielleicht einfach mal so zwei …
+> … kaum jemand mehr Gedanken gemacht. Die NATO hatte ihre Arsenale durchmodernisiert. Und Krauss-Maffei, KMW, die hatten damals eher Probleme, die abzusetzen, diese schweren Geräte. Ja, das ist ein bisschen anders. Vielleicht einfach mal so …
 >
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 9:57](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=597) · [[Transkript 161#Minute 9|im Transkript]]
+> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 9:55](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=595) · [[Transkript 161#Minute 9|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Shownotes · Minute [1:04](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=64), [4:11](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=251), [7:56](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=476), [9:57](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=597)
+- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Shownotes · Minute [1:04](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=64), [4:10](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=250), [7:56](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=476), [9:55](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=595)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

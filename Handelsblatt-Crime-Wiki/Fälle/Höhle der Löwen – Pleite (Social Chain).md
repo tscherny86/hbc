@@ -20,7 +20,7 @@ Kritik traf auch die beiden Prominenten selbst: Kofler soll als CEO ein mitteilu
 
 ## Was im Podcast gesagt wird
 
-> … Wirtschaftswunderkind. Er gründete und finanzierte zahlreiche Unternehmen, wurde Mitgründer und Chef der Social Chain AG und versuchte sich gemeinsam mit seiner Frau Annabelle Oehmann ein neues Geschäft im Gesundheits - und Wellnessbereich aufzubauen. Jetzt …
+> … Wirtschaftswunderkind. Er gründete und finanzierte zahlreiche Unternehmen, wurde Mitgründer und Chef der Social Chain AG und versuchte sich gemeinsam mit seiner Frau Anabel Oelmann ein neues Geschäft im Gesundheits - und Wellnessbereich aufzubauen. Jetzt …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 0:43](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=43) · [[Transkript 160#Minute 0|im Transkript]]
 

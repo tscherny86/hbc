@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 30
+folgen: 29
 tags: [personen]
 ---
 # Volker Votsmeier
@@ -15,7 +15,7 @@ _Investigativ-Redakteur und Co-Leiter des Investigativteams; Schwerpunkte Cum-Ex
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (30)
+## In diesen Folgen (29)
 
 - [[008 Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden|#8 – Ohne Anne Brorhilker wäre der Cum-Ex-Skandal wohl nie aufgeklärt worden]] (2022-02-27) — Shownotes
 - [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14 – Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekostet hat]] (2022-05-22) — Shownotes
@@ -46,7 +46,6 @@ _Investigativ-Redakteur und Co-Leiter des Investigativteams; Schwerpunkte Cum-Ex
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes
 - [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

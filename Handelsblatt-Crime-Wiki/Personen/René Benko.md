@@ -22,9 +22,13 @@ Vertraute hatten unter dem Dach der Laura Privatstiftung ein großes Immobilienp
 
 ## Was im Podcast gesagt wird
 
-> … so sagen darf. Ich erinnere mich zum Beispiel an den Fall René Benko. Da warst du in Innsbruck beim ersten Prozess dabei. Jetzt war Berlin für dich quasi vor der Haustür und das Strafverfahren …
+> … die deutsche Finance, das ist ja jetzt eben nicht unbedingt wie das Benko-Portfolio zum Beispiel, was ja viele dann doch durchaus vorher kannten, sondern es ist eher wahrscheinlich noch nicht so vielen geläufig. Erklär …
 >
-> — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 2:11](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=131) · [[Transkript 159#Minute 2|im Transkript]]
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 8:41](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=521) · [[Transkript 152#Minute 8|im Transkript]]
+
+> … gut performt. Das ist genau die Phase, in der halt eben die Benkos und Co. groß und größer geworden sind. Vor allen Dingen natürlich muss man sagen, und ich hatte es in der Anmoderation …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 42:27](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2547) · [[Transkript 152#Minute 42|im Transkript]]
 
 ## In diesen Folgen (10)
 
@@ -37,7 +41,7 @@ Vertraute hatten unter dem Dach der Laura Privatstiftung ein großes Immobilienp
 - [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes
 - [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Shownotes
 - [[128 Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft|#128 – Zwei Jahre Haft für „Wunderwuzzi“ René Benko – Niederlage für die Staatsanwaltschaft?]] (2025-10-19) — Shownotes
-- [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Minute [2:11](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=131)
+- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Minute [8:41](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=521), [42:27](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2547)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

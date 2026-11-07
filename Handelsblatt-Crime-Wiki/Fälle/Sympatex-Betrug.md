@@ -22,9 +22,9 @@ Der Fall steht exemplarisch für ein riskantes Segment des Kapitalmarkts: Mittel
 
 ## Was im Podcast gesagt wird
 
-> … wir vor zwei Jahren im Handelsblatt berichtet haben. Eben über den Fall Sympatex, in dem er jetzt angeklagt ist. Und da hat die Staatsanwaltschaft eben ein Telefonat von ihm abgehört. Mit einem Manager aus …
+> … Geld reingesteckt. Unter anderem der ehemalige Unternehmensberater Stephan Goetz. Also Namensgeber der Unternehmensberatung Goetzpartners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass er sich in München vorm Landgericht verantworten muss. …
 >
-> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 38:11](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2291) · [[Transkript 160#Minute 38|im Transkript]]
+> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 37:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2252) · [[Transkript 160#Minute 37|im Transkript]]
 
 ## In diesen Folgen (4)
 
@@ -35,7 +35,7 @@ Der Fall steht exemplarisch für ein riskantes Segment des Kapitalmarkts: Mittel
 
 ## Kurz erwähnt (1)
 
-- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [38:11](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2291)
+- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [37:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2252)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

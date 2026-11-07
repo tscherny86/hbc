@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 1
+folgen: 2
 tags: [unternehmen]
 ---
 # Volksbank Düsseldorf Neuss
@@ -18,10 +18,20 @@ Die Staatsanwaltschaft Düsseldorf ermittelt wegen Betrugs und Urkundenfälschun
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (1)
+> … In dem Fall sogar Sonderbeauftragter der Finanzaufsicht BaFin. Das war bei der Volksbank Düsseldorf-Neuss. Ja, und jetzt hier bei der Bravo soll er auch eine gewisse Zeit lang bleiben. Zwei Jahre Vertrag erst mal. …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 32:19](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1939) · [[Transkript 153#Minute 32|im Transkript]]
+
+> … Risiken verbunden. Weitere Infos und rechtliche Hinweise unter konsorsbank.de slash uptrade. Apropos Volksbank Düsseldorf-Neuss, Elisabeth, ich glaube, das war der letzte Fall, bei dem du bei uns im Podcast warst, oder? Und der zeigt …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 33:55](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2035) · [[Transkript 153#Minute 33|im Transkript]]
+
+## In diesen Folgen (2)
 
 - [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Shownotes
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [32:19](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1939), [33:55](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2035)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -34,13 +34,13 @@ Hinzu kommen Berichte aus Grünheide, wo Beschäftigte mit Kamera-Rucksäcken Be
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 5:51](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=351) · [[Transkript 162#Minute 5|im Transkript]]
 
-> … fahren. Am 11. April hat Musk verkündet, dass die erste Zulassung für Full Self-Driving, Autopilot wird nicht mehr so gern genannt, das heißt jetzt Full Self-Driving. Und Full Self-Driving ist in Europa zugelassen. Die …
+> … nicht stimmt. Aber eine Halluzination bei hoher Geschwindigkeit ist tödlich. Das war Missy Cummings. Und wir hören ja hier, Cummings ist ausgesprochen keine Gegnerin des autonomen Fahrens. Sie hat sogar schon 2016 vom US-Senat gesagt, …
 >
-> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 39:33](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2373) · [[Transkript 162#Minute 39|im Transkript]]
+> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 36:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2215) · [[Transkript 162#Minute 36|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:18](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=78), [3:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=235), [5:51](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=351), [39:33](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2373)
+- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:18](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=78), [3:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=235), [5:51](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=351), [36:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2215)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

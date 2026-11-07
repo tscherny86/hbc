@@ -18,11 +18,11 @@ tags: [folge, jahr-2026, sonder]
 | **Datum** | 2026-09-21 |
 | **Dauer** | 28:48 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs) · [MP3](https://audio.podigee-cdn.net/2599751-m-369bc00fbf459d33fc565f4d4de2d7bf.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/159-sonderfolge-andreas-scheuer-vor-gericht-wegen-pkw-maut-aussage) |
-| **Transkript** | [[Transkript 159]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 159]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Pkw-Maut und Andreas Scheuer]] |
 | **Themen** | [[Staatsanwaltschaft und Strafprozess]], [[Falschaussage]] |
 | **Unternehmen** | – |
-| **Personen** | [[René Benko]], [[Andreas Scheuer]] |
+| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Andreas Scheuer]] |
 | **Kurz erwähnt** | [[Cum-Ex]], [[Signa und René Benko]], [[Olaf Scholz]], [[Cum-Ex-Geschäfte]], [[Signa]] |
 
 ## Shownotes

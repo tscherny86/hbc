@@ -34,7 +34,7 @@ Die US-Ermittler werfen Oberhof vor, Investorengelder für private Zwecke verwen
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 4:54](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=294) · [[Transkript 160#Minute 4|im Transkript]]
 
-> … sollte The Healing zu einer wirklich größeren Unternehmensplattform werden. Und dabei war Kleinfeld dann nicht der einzige prominente Investor. In der sogenannten Seed-Runde, der ganz frühen Finanzierungsphase, war zum Beispiel der bekannte deutsche Wagniskapitalgier …
+> … sollte The Healing zu einer wirklich größeren Unternehmensplattform werden. Und dabei war Kleinfeld dann nicht der einzige prominente Investor. In der sogenannten Seed-Runde, der ganz frühen Finanzierungsphase, war zum Beispiel der bekannte deutsche Wagniskapitalgeber …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 36:29](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2189) · [[Transkript 160#Minute 36|im Transkript]]
 

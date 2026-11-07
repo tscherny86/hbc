@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 1
+folgen: 2
 tags: [personen]
 ---
 # Stefan Effenberg
@@ -20,10 +20,16 @@ Die Bafin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu 
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (1)
+> … Volks - und Reifeisenbank Bad Salzungen-Schmal-Kalden beschäftigt. Besser bekannt unter dem Namen Effenberg-Bank. Ach, ja, genau. Weil eben der ehemalige Nationalspieler Stefan Effenberg da zeitweise Mitarbeiter war. Und diese Effenberg-Bank hat mit risikoreichen Geschäften …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 36:02](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2162) · [[Transkript 153#Minute 36|im Transkript]]
+
+## In diesen Folgen (2)
 
 - [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [36:02](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2162)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

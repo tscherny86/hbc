@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 3
 tags: [personen]
 ---
 # Stephan Goetz
@@ -20,11 +20,21 @@ Die Affäre zog immer größere Kreise: Ein Geschäftsführer des Family Office 
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (2)
+> … andere bekannte Unternehmer und Investoren Geld reingesteckt. Unter anderem der ehemalige Unternehmensberater Stephan Goetz. Also Namensgeber der Unternehmensberatung Goetzpartners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass er sich in …
+>
+> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 37:27](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2247) · [[Transkript 160#Minute 37|im Transkript]]
+
+> … vorstellen. Und wer jetzt nochmal zurückgehen möchte, wir haben zu Sympatex und Goetzpartners berichtet. Auch bei Handelsblatt Crime finden Sie noch in den alten Folgen. Ja, übrigens auch ausführlich über Social Chain, um den …
+>
+> — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 39:02](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2342) · [[Transkript 160#Minute 39|im Transkript]]
+
+## In diesen Folgen (3)
 
 - [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98 – Update nach Sympatex-Skandal: Wie es mit Goetzpartners nach der Inhaftierung der Eigentümer weitergeht]] (2024-10-20) — Shownotes
 - [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes
+- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [37:27](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2247), [39:02](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2342)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

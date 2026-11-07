@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 14
+folgen: 13
 tags: [themen]
 ---
 # Spionage
@@ -26,23 +26,7 @@ _Geheime Beschaffung von Informationen für fremde Staaten – von Wirtschaftssp
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 8:13](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=493) · [[Transkript 158#Minute 8|im Transkript]]
 
-> … es einen Artikel in einer Fachpublikation in Paris, so ein Spezialportal für Geheimdienst, Militär, Rüstungsnachrichten. Die heißen Intelligence Online. Und die nahmen ganz konkret Bezug auf unsere Geschichte. Schrieben dann als erste sozusagen über …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 27:53](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=1673) · [[Transkript 161#Minute 27|im Transkript]]
-
-> … Genau, also die Zeiten wandeln sich. Vielleicht noch ein Satz zu dem Geheimdienstmann hier. Das kommt immer ganz darauf an, welche Quelle man dann konsultiert und so. Es ist jetzt auch nicht so, dass …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 31:11](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=1871) · [[Transkript 161#Minute 31|im Transkript]]
-
-> … diesem spielt also sowohl der Ahmed bin Nasser bin Yassim Altani, der Geheimdienstmensch, der Geheimdienstscheich, wenn wir das jetzt mal ganz plastisch irgendwie sagen wollen, ja, und sein Sohn. Die spielen in diesem Geflecht …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 33:21](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2001) · [[Transkript 161#Minute 33|im Transkript]]
-
-> … dazu sagen, es gab nicht nur diesen einen Scheich, der da beim Nachrichtendienst war, es gab auch noch einen zweiten einflussreichen General, der im Umfeld dieser Firmen auftauchte. Ich habe das jetzt aber, das …
->
-> — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 37:29](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2249) · [[Transkript 161#Minute 37|im Transkript]]
-
-## In diesen Folgen (14)
+## In diesen Folgen (13)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes
 - [[005 Edward Snowden und seine Schutzengel Diese Menschen retteten ihm auf seiner Flucht das|#5 – Edward Snowden und seine Schutzengel: Diese Menschen retteten ihm auf seiner Flucht das Leben]] (2022-01-30) — Shownotes
@@ -57,7 +41,6 @@ _Geheime Beschaffung von Informationen für fremde Staaten – von Wirtschaftssp
 - [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102 – Vom Dax-Vorstand zum Agentenführer: Was ein Spionageprozess in London über das neue Leben von Jan Marsalek verrät]] (2024-12-01) — Shownotes
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes
 - [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes
-- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Shownotes · Minute [27:53](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=1673), [31:11](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=1871), [33:21](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2001), [37:29](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2249)
 
 ## Kurz erwähnt (1)
 

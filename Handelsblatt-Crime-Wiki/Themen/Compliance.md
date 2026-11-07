@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 9
+folgen: 8
 tags: [themen]
 ---
 # Compliance
@@ -46,7 +46,7 @@ _Regelwerke und Abteilungen, die Rechtsverstöße in Unternehmen verhindern soll
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 59:46](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3586) · [[Transkript 161#Minute 59|im Transkript]]
 
-## In diesen Folgen (9)
+## In diesen Folgen (8)
 
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes
 - [[018 Dieselgate (Teil 2) „Voll schiefgelaufen!“|#18 – Dieselgate (Teil 2): „Voll schiefgelaufen!“]] (2022-07-17) — Shownotes
@@ -54,7 +54,6 @@ _Regelwerke und Abteilungen, die Rechtsverstöße in Unternehmen verhindern soll
 - [[103 Schwere Vorwürfe gegen den Europachef von Sony Music|#103 – Schwere Vorwürfe gegen den Europachef von Sony Music]] (2024-12-15) — Shownotes
 - [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Shownotes
 - [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146 – Diesel-Skandal bei Continental: Wer zahlt die Kosten von 300 Millionen Euro?]] (2026-05-03) — Shownotes
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
 - [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Shownotes · Minute [18:18](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1098), [46:49](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2809), [48:21](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2901)
 - [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Minute [55:02](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3302), [56:38](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3398), [59:46](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3586)
 

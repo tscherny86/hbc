@@ -18,11 +18,11 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-10-04 |
 | **Dauer** | 52:26 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC) · [MP3](https://audio.podigee-cdn.net/2567373-m-4728852b5f378245f5e657f08460a44a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/160-neue-episode-04-10) |
-| **Transkript** | [[Transkript 160]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 160]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Höhle der Löwen – Pleite (Social Chain)]], [[Fall Wanja Oberhof]] |
 | **Themen** | [[Betrug]], [[Insolvenz]] |
 | **Unternehmen** | [[Social Chain]] |
-| **Personen** | [[Wanja Oberhof]], [[Klaus Kleinfeld]], [[Georg Kofler]], [[Ralf Dümmel]] |
+| **Personen** | [[Ina Karabasz]], [[Wanja Oberhof]], [[Klaus Kleinfeld]], [[Georg Kofler]], [[Ralf Dümmel]], [[Stephan Goetz]] |
 | **Kurz erwähnt** | [[Sympatex-Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Sympatex]], [[Goetzpartners]], [[BaFin]], [[Handelsblatt]] |
 
 ## Shownotes
@@ -59,10 +59,10 @@ Betrugsverfahren: Berliner Unternehmer bürgt für Wanja Oberhof
 - [31:23](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1883) – Ja, das war alles ziemlich merkwürdig und das ist irgendwie bis heute. Oberhof, also wir haben es ja … ([[Transkript 160#Minute 31|Transkript]])
 - [33:26](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2006) – Also der Kaufpreis von 2 ,15 Millionen Euro waren das. Der sollte über mehrere Jahre gestundet werden. Und … ([[Transkript 160#Minute 33|Transkript]])
 - [35:29](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2129) – Du hattest es eben gesagt. Die Idee war, dass man eine Art Plattform macht für Unternehmen und Marken … ([[Transkript 160#Minute 35|Transkript]])
-- [37:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2252) – Also Namensgeber der Unternehmensberatung Götz Partners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, … ([[Transkript 160#Minute 37|Transkript]])
+- [37:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2252) – Also Namensgeber der Unternehmensberatung Goetzpartners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass … ([[Transkript 160#Minute 37|Transkript]])
 - [39:36](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2376) – Dass Oberhof ja wirklich eine ganze Reihe schon namhafter Investoren gewinnen konnte. Auch aus dem internationalen Bereich, muss … ([[Transkript 160#Minute 39|Transkript]])
 - [41:36](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2496) – Und dann kriegt man schon vielleicht mit dem einen oder anderen mal eher Stress, wie das jetzt auch … ([[Transkript 160#Minute 41|Transkript]])
-- [43:37](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2617) – Und die war in Italien an der Amalfi-Küste. Und da hat, wie gesagt, der Wannier-Oberhof die Annabelle Oehlmann … ([[Transkript 160#Minute 43|Transkript]])
+- [43:37](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2617) – Und die war in Italien an der Amalfi-Küste. Und da hat, wie gesagt, der Wanja Oberhof die Anabel … ([[Transkript 160#Minute 43|Transkript]])
 - [45:41](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2741) – Und was dann folgte, war die Pleite, muss man sagen. Nach einer kurzen Unterbrechung geht es gleich weiter. … ([[Transkript 160#Minute 45|Transkript]])
 - [47:45](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2865) – Also sieht schon, in welche Richtung es geht. Und manche dieser Firmen machten Milliarden. Und wenn er als … ([[Transkript 160#Minute 47|Transkript]])
 - [49:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2989) – Sondern es ist in den USA auch, das loben wir dann da drüben. Aber hier ist es natürlich … ([[Transkript 160#Minute 49|Transkript]])

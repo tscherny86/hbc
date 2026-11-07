@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 43
+folgen: 41
 tags: [unternehmen]
 ---
 # Handelsblatt
@@ -19,6 +19,22 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 > wurde, steht unten – mit Link zur genauen Minute.
 
 ## Was im Podcast gesagt wird
+
+> … drunter, für all die Dinge also, die wir hier machen, ist unser Chefredakteur Sebastian Mattes. Und den habe ich jetzt hier zu Gast. Herzlich willkommen, Sebastian. Hallo Ina, danke für die Anladung. Sebastian, wir …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 0:48](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=48) · [[Transkript 154#Minute 0|im Transkript]]
+
+> … funktioniert. Und ich erinnere mich noch genau an den Moment, als unser Investigativchef Sönke Iwersen mich anrief, um mir zu erzählen, was er da auf Lager hat. Ich weiß noch genau, wo ich stand. Ich …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 6:43](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=403) · [[Transkript 154#Minute 6|im Transkript]]
+
+> … musstest du schon mal vor Gericht aussagen? Ich weiß, einige aus dem Investigativteam sind schon mal vor Gericht aufgetaucht. Musstest du mal aussagen? Nee, es gab ein paar Mal die Situation, dass ich bestimmte …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 23:22](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1402) · [[Transkript 154#Minute 23|im Transkript]]
+
+> … Ich erinnere mich an so viele Wochenenden, an denen mich dann unser Investigativchef, Sönke Iwersen, noch anruft und sagt, ja, ich stehe hier gerade auf dem Fußballplatz, weil der hat einen Sohn, der sensationell Fußball …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 36:39](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2199) · [[Transkript 154#Minute 36|im Transkript]]
 
 > … Handelsblatt Crime. Hallo Sönke, schön, dass du wieder hier bist. Dich als Investigativchef kennen unsere Crime-Hörer ja schon. Ja, hallo Solveig. Und hallo Jürgen. Hi Solveig. Ja, Jürgen, dich stelle ich mal ganz kurz …
 >
@@ -40,7 +56,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:10:53](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=4253) · [[Transkript 158#Minute 70|im Transkript]]
 
-> … diesen wirklich spektakulären Fall mit René Bender und Volker Votzmeier aus unserem Investigativ-Team. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit - und Kriminalfälle der deutschen Wirtschaft. Wer dahinter steckt, …
+> … über diesen wirklich spektakulären Fall mit René Bender und Volker Votsmeier aus unserem Investigativ-Team. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit - und Kriminalfälle der deutschen Wirtschaft. Wer dahinter steckt, …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 1:02](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=62) · [[Transkript 160#Minute 1|im Transkript]]
 
@@ -48,7 +64,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 52:38](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=3158) · [[Transkript 160#Minute 52|im Transkript]]
 
-> … Bei mir im Studio ist mein Kollege Sonke Iversen. Er leitet das Investigativteam des Handelsblatts und hat die Tesla-Files seit 2022 recherchiert. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit …
+> … interessant. Bei mir im Studio ist mein Kollege Sönke Iwersen. Er leitet das Investigativteam des Handelsblatts und hat die Tesla-Files seit 2022 recherchiert. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 1:47](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=107) · [[Transkript 162#Minute 1|im Transkript]]
 
@@ -56,7 +72,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 1:01:29](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3689) · [[Transkript 162#Minute 61|im Transkript]]
 
-## In diesen Folgen (43)
+## In diesen Folgen (41)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Shownotes
 - [[004 Wirecard Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen|#4 – Wirecard: Welche Warnsignale den Wirtschaftsprüfern von EY hätten auffallen müssen]] (2022-01-16) — Shownotes
@@ -97,9 +113,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 - [[135 Abmahnungen, Klagen, Grauzonen Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwä|#135 – Abmahnungen, Klagen, Grauzonen: Der Crime-Jahresrückblick mit unseren Handelsblatt-Anwälten]] (2025-12-28) — Shownotes
 - [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Shownotes
 - [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — Shownotes
-- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
-- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes · Minute [0:48](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=48), [6:43](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=403), [23:22](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1402), [36:39](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2199)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:47](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=107), [1:01:29](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3689)
 
 ## Kurz erwähnt (3)

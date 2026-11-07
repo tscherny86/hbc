@@ -26,9 +26,9 @@ Krupski entdeckte Mängel bei der Arbeitssicherheit und erhebliche Datenschutzpr
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 7:56](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=476) · [[Transkript 162#Minute 7|im Transkript]]
 
-> … dann kehrt es sich komplett um. Das Verhältnis von Tesla zu Lukas, Krupski und umgekehrt wird dann immer schlechter. Und das ist eine lange, lange Geschichte, aber die wollen wir jetzt hier gar nicht …
+> … wir ja. Aber dann kehrt es sich komplett um. Das Verhältnis von Tesla zu Lukasz Krupski und umgekehrt wird dann immer schlechter. Und das ist eine lange, lange Geschichte, aber die wollen wir jetzt hier gar nicht …
 >
-> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 10:02](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=602) · [[Transkript 162#Minute 10|im Transkript]]
+> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 10:00](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=600) · [[Transkript 162#Minute 10|im Transkript]]
 
 > … bei mir. Und das finde ich auch wirklich wichtig an der Figur Krupski. Der ist nicht direkt zur Presse gegangen. Also er hatte keinen Vertrauen mehr zu Tesla, weil er diese ganzen Enttäuschungen erlebt …
 >
@@ -39,7 +39,7 @@ Krupski entdeckte Mängel bei der Arbeitssicherheit und erhebliche Datenschutzpr
 - [[058 Der Mann hinter den Tesla-Files|#58 – Der Mann hinter den Tesla-Files]] (2023-11-03) — Shownotes
 - [[061 Crime-Investigativ Jetzt spricht erstmals der Whistleblower über die Tesla-Files|#61 – Crime-Investigativ: Jetzt spricht erstmals der Whistleblower über die Tesla-Files]] (2023-11-10) — Shownotes
 - [[063 Crime-Investigativ Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Mu|#63 – Crime-Investigativ: Tesla-Whistleblower Lukasz Krupski – der Mann, der sich mit Elon Musk anlegte]] (2023-12-05) — Shownotes
-- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Minute [7:56](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=476), [10:02](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=602), [11:57](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=717)
+- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Minute [7:56](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=476), [10:00](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=600), [11:57](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=717)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Ein Kredit, der die Volksbank Köln Bonn erschüttert
 
-Folge: [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (0 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (1 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0
@@ -14,7 +14,7 @@ Liebe Hörerinnen, liebe Hörer, heute geht es um eine Affäre, in der ein Groß
 
 ### Minute 1
 [▶ 1:10](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=70)  
-Mein Name ist Ina Karabas und damit herzlich willkommen zu Handelsblatt Crime. Hallo Elisabeth, hallo Volker. Hallo. Hallo Ina, schön wieder hier zu sein. Ja und auch herzlich willkommen im Podcast Elisabeth. Du bist auf jeden Fall ja ein neuerer Gast und wir freuen uns sehr, dass du dabei bist. Denn es ist ja total spannend, ich habe es bereits erwähnt, die Staatsanwaltschaft in Köln ermittelt gegen einen Vorstandsmitglied der Volksbank Köln-Bonn. Lass uns einfach da mal anfangen mit dieser Entwicklung. Was genau bedeutet es denn jetzt, dass da die Staatsanwaltschaft ermittelt? Wir fangen vielleicht nochmal einen kleinen Schritt weiter vorne an. Also bisher war bekannt oder bis vor kurzem war bekannt, dass es bei der Volksbank Köln-Bonn eben diesen Modellkredit gab. Und es war die Frage intern, ist das alles mit rechten Dingen zugegangen?
+Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Elisabeth, hallo Volker. Hallo. Hallo Ina, schön wieder hier zu sein. Ja und auch herzlich willkommen im Podcast Elisabeth. Du bist auf jeden Fall ja ein neuerer Gast und wir freuen uns sehr, dass du dabei bist. Denn es ist ja total spannend, ich habe es bereits erwähnt, die Staatsanwaltschaft in Köln ermittelt gegen einen Vorstandsmitglied der Volksbank Köln-Bonn. Lass uns einfach da mal anfangen mit dieser Entwicklung. Was genau bedeutet es denn jetzt, dass da die Staatsanwaltschaft ermittelt? Wir fangen vielleicht nochmal einen kleinen Schritt weiter vorne an. Also bisher war bekannt oder bis vor kurzem war bekannt, dass es bei der Volksbank Köln-Bonn eben diesen Modellkredit gab. Und es war die Frage intern, ist das alles mit rechten Dingen zugegangen?
 
 ### Minute 2
 [▶ 2:14](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=134)  

@@ -25,6 +25,22 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 
 ## Was im Podcast gesagt wird
 
+> … es um die geheimen Ermittlungsakten in der Arbeit von EY im Fall Wirecard. Und da gab es einen Untersuchungsausschuss im Bundestag, der eine Untersuchung in Auftrag gegeben hat. Und die wurde dann vom Untersuchungsausschuss …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 12:45](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=765) · [[Transkript 154#Minute 12|im Transkript]]
+
+> … haben schon auch mal den ein oder anderen Skandal zu spät gesehen. Wirecard war so ein Fall, da sind wir als Handelsblatt auch zu spät drauf eingestiegen. Das gehört dazu. René Benko, diese ganze …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 33:15](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1995) · [[Transkript 154#Minute 33|im Transkript]]
+
+> … Technologiefirmen, die sehr schnell hochschießen, als, oh, das ist möglicherweise das nächste Wirecard bezeichnet werden. Auf jeden Fall. Da muss man ein bisschen aufpassen. Aber trotzdem, also eine gesunde Skepsis. Und das ist, glaube …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 35:19](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2119) · [[Transkript 154#Minute 35|im Transkript]]
+
+> … kannst es nicht glauben, ich bin hier gerade noch mal durch die Wirecard E-Mails durchgegangen, was ich gerade gefunden habe. Und das ist so ein bisschen, das gehört zu dem Zusammenspiel zwischen Investigativrecherche und …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 36:55](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2215) · [[Transkript 154#Minute 36|im Transkript]]
+
 > … sagen. Der hat sich ja auch nach Moskau abgesetzt, also dem flüchtigen Wirecard-Vorstand. Ja, vermutlich ist das genauso beabsichtigt, ja. Also, ich habe so meine Zweifel, ob er da ist. Das Foto kann ja …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 6:29](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=389) · [[Transkript 158#Minute 6|im Transkript]]
@@ -67,8 +83,9 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 - [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
 
-## Kurz erwähnt (2)
+## Kurz erwähnt (3)
 
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [12:45](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=765), [33:15](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1995), [35:19](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2119), [36:55](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2215)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [6:29](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=389)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Minute [38:37](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2317)
 

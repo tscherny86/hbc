@@ -20,11 +20,11 @@ _Waffengeschäfte mit dem Ausland, ihre Genehmigung – und die Vermittler, die 
 
 ## Was im Podcast gesagt wird
 
-> … sollen die beiden aber als Vermittler in einem 1 ,9 Milliarden Euro Rüstungsdeal über Kampfpanzer für Katar mitverdient haben. Diesen Deal haben meine Kollegen Sönke Iversen der Leiter unseres Investigativteams und der Reporter Lars …
+> … sollen die beiden aber als Vermittler in einem 1 ,9 Milliarden Euro Rüstungsdeal über Kampfpanzer für Katar mitverdient haben. Diesen Deal haben meine Kollegen Sönke Iwersen der Leiter unseres Investigativteams und der Reporter Lars-Marten Nagel vor …
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 0:21](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=21) · [[Transkript 161#Minute 0|im Transkript]]
 
-> … Katar, das ist Dohr, und wollte für Vermittlungsleistungen von deutschen Militärgütern eine Provision erhalten. Und die beklagte Firma hatte den klingenden Namen Kingdom Projects WLL. Klingt aber royal. Klingt royal, ja. Und Katar ist …
+> … Hauptstadt von Katar, das ist Doha, und wollte für Vermittlungsleistungen von deutschen Militärgütern eine Provision erhalten. Und die beklagte Firma hatte den klingenden Namen Kingdom Projects WLL. Klingt aber royal. Klingt royal, ja. Und Katar ist …
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 3:23](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=203) · [[Transkript 161#Minute 3|im Transkript]]
 

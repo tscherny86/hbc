@@ -22,6 +22,22 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 
 ## Was im Podcast gesagt wird
 
+> … Gesellschaften beteiligt. Restaurants, Fintechs, Fitnessstudios und Luxusimmobilien. Einige dieser Beteiligungen sind mittlerweile insolvent und andere könnten um etliche Millionen zu hoch bewertet sein. Der Vorstandschef musste mittlerweile gehen. Mittlerweile ist klar, die Volksbank Bravo …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 0:29](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=29) · [[Transkript 153#Minute 0|im Transkript]]
+
+> … schwarze Zahlen geschrieben hat. Und 2024 kam es dann sogar zu einer Insolvenz. Also Jitpay hat Insolvenz angemeldet und dann ist die Tochter Jitpay Financial sozusagen von der Bravo komplett übernommen worden. Okay, aber …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 14:38](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=878) · [[Transkript 153#Minute 14|im Transkript]]
+
+> … Mitgesellschafter, also die Bravo hatte einen Anteil, er hatte einen Anteil, die Insolvenz von Jitpay bewusst herbeigeführt zu haben. Und Ziel sei es gewesen, dass die Bravo den wesentlichen Teil von Jitpay, das war …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 16:13](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=973) · [[Transkript 153#Minute 16|im Transkript]]
+
+> … Und jetzt kürzlich, also vor wenigen Wochen, musste die Brauerei tatsächlich auch Insolvenz anmelden. Darf ich da nochmal kurz einhaken? Ja. Also da hat jetzt die Bank wirklich komplett diese Brauerei gemanagt? Nee, also …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 18:12](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1092) · [[Transkript 153#Minute 18|im Transkript]]
+
 > … geantwortet hat im Oktober 25. Also am Amtsgericht Charlottenburg seien zehn laufende Insolvenzverfahren und acht laufende Zivilverfahren anhängig. Ein Verfahren gibt es am Amtsgericht Kreuzberg, zwei am Amtsgericht Wedding und 33 am Landgericht Berlin …
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 49:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2996) · [[Transkript 155#Minute 49|im Transkript]]
@@ -62,7 +78,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:04:09](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3849) · [[Transkript 158#Minute 64|im Transkript]]
 
-> … sehr schnell, muss man sagen. Im Sommer 2023 musste die Firma dann Insolvenz anmelden. Jetzt muss man sagen, Oberhofer hat dann aber tatsächlich seine Firma, kann man ja schon auch so sagen, auch wenn …
+> … sehr schnell, muss man sagen. Im Sommer 2023 musste die Firma dann Insolvenz anmelden. Jetzt muss man sagen, Oberhof hat dann aber tatsächlich seine Firma, kann man ja schon auch so sagen, auch wenn er zwischendurch …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 30:55](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1855) · [[Transkript 160#Minute 30|im Transkript]]
 
@@ -109,7 +125,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 - [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [0:29](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=29), [14:38](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=878), [16:13](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=973), [18:12](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1092)
 - [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes · Minute [0:18](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=18), [8:21](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=501), [19:01](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1141), [37:41](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2261)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [30:55](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1855), [34:27](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2067), [45:40](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2740), [48:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2929)
 

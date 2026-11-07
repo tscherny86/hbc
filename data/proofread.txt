@@ -1,1 +1,5 @@
 # Folgen, deren Transkript vollständig Korrektur gelesen wurde (Folgen-ID<Tab>Datum)
+162	07.11.2026
+161	07.11.2026
+160	07.11.2026
+159	07.11.2026

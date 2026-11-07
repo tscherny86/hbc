@@ -22,7 +22,7 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Fall Hendrik Holt]] |
 | **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Windkraft-Projektentwicklung]], [[Hochstapler]] |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[Jan Marsalek]], [[Hendrik Holt]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Michael Verfürden]], [[Jan Marsalek]], [[Hendrik Holt]] |
 | **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Insolvenz]], [[Insolvenzverwalter]], [[Geldwäsche]], [[Spionage]], [[Handelsblatt]] |
 
 ## Shownotes

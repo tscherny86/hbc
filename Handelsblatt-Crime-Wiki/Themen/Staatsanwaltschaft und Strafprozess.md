@@ -22,6 +22,34 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 
 ## Was im Podcast gesagt wird
 
+> … Zweifel von Wirtschaftsprüfern gestoßen, ob bestimmte Fonds fortgeführt werden können. Selbst die Staatsanwaltschaft München interessiert sich inzwischen für den Pfeil. Und über all das wollen wir in dieser Folge sprechen. In diesem Podcast sprechen …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 1:42](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=102) · [[Transkript 152#Minute 1|im Transkript]]
+
+> … dass sie ihren Manager im Sommer 25 freigestellt haben und auch die Staatsanwaltschaft eingeschaltet haben. Und seitdem wird eben doch geprüft, ob es da einen Anfangsverdacht auf eine Straftat gibt. Ja, und ich meine, …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 25:34](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1534) · [[Transkript 152#Minute 25|im Transkript]]
+
+> … wird, das Ganze, dann wird von der Aufsichtsbehörde in Luxemburg über die Staatsanwaltschaft eine Zwangslegislation beantragt. Also ganz kurz und knapp runtergebrochen, gibt es kein AFM, dann gibt es auf Dauer auch den vorn …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 57:09](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3429) · [[Transkript 152#Minute 57|im Transkript]]
+
+> … aber wie es mit der Interessengemeinschaft weitergeht, was der BaFin-Sonderbeauftragte und die Staatsanwaltschaft herausfindet und welche Ergebnisse die Fonds am Ende abrechnen können, das werdet ihr für das Handelspartner natürlich weiter verfolgen. Genau. Wir …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 59:41](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3581) · [[Transkript 152#Minute 59|im Transkript]]
+
+> … klar, die Volksbank Bravo muss wohl mit Millionen gestützt werden. Und die Staatsanwaltschaft Braunschweig ermittelt gegen die Bravo wegen des Verdachts der Untreue. Wie konnte das passieren? Und was bedeutet das für die Mitglieder …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 0:43](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=43) · [[Transkript 153#Minute 0|im Transkript]]
+
+> … für uns hier im Podcast interessant macht, ist ja, dass jetzt die Staatsanwaltschaft ermittelt. Weswegen eigentlich genau und was ist da bislang bekannt, Volker? Ja, du hast recht. Es ist ein Fall der Staatsanwaltschaft …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 21:50](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1310) · [[Transkript 153#Minute 21|im Transkript]]
+
+> … wird und ob aus diesen Ermittlungen dann mehr wird. Ob möglicherweise dann Anklage erhoben wird. Aber das ist alles noch in weiter Ferne. Das steht alles am Anfang. Du hast gerade eben schon gesagt, …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 23:41](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1421) · [[Transkript 153#Minute 23|im Transkript]]
+
 > … über den Mann schon mal geschrieben im Zusammenhang mit Ermittlungen in der Staatsanwaltschaft Hamburg. Da ging es um Betrugsvorwürfe. Und das fand er nicht so gut und hat sich per Klage gewehrt und hat …
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 3:34](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=214) · [[Transkript 155#Minute 3|im Transkript]]
@@ -86,7 +114,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 28:48](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1728) · [[Transkript 158#Minute 28|im Transkript]]
 
-> … in den Saal 500 des Strafgerichts in Moabit. Und dann hat die Staatsanwaltschaft die Anklage verlesen. Sie wirft ihm vor, in den Jahren 2020 und 2021 die Abgeordneten im Untersuchungsausschuss zur gescheiterten Pkw-Maut wieder …
+> … in den Saal 500 des Strafgerichts in Moabit. Und dann hat die Staatsanwaltschaft die Anklage verlesen. Sie wirft ihm vor, in den Jahren 2020 und 2021 die Abgeordneten im Untersuchungsausschuss zur gescheiterten Pkw-Maut wider besseres Wissen …
 >
 > — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 0:33](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=33) · [[Transkript 159#Minute 0|im Transkript]]
 
@@ -102,7 +130,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 13:04](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=784) · [[Transkript 159#Minute 13|im Transkript]]
 
-> … nicht, was am Ende daraus wird und ob es dann zu einer Anklage und möglicherweise zu einem Gerichtsprozess kommen wird. Gleichzeitig muss man aber natürlich sagen, die Anschuldigen sind verhältnismäßig konkret und da geht …
+> … nicht, was am Ende daraus wird und ob es dann zu einer Anklage und möglicherweise zu einem Gerichtsprozess kommen wird. Gleichzeitig muss man aber natürlich sagen, die Anschuldigungen sind verhältnismäßig konkret und da geht es …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 5:57](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=357) · [[Transkript 160#Minute 5|im Transkript]]
 
@@ -200,14 +228,15 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 - [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [0:43](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=43), [21:50](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1310), [23:41](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1421)
 - [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [3:34](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=214), [5:07](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=307), [8:24](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=504), [47:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2876)
 - [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Shownotes · Minute [0:19](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=19), [1:50](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=110), [3:26](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=206), [25:06](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1506)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [4:19](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=259), [11:30](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=690), [21:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1286), [28:48](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1728)
 - [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes · Minute [0:33](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=33), [3:50](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=230), [11:06](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=666), [13:04](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=784)
 
-## Kurz erwähnt (3)
+## Kurz erwähnt (4)
 
+- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Minute [1:42](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=102), [25:34](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1534), [57:09](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3429), [59:41](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3581)
 - [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [12:42](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=762), [44:57](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2697), [59:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3586), [1:02:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3720)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [5:57](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=357), [37:43](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2263)
 - [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Minute [38:06](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2286), [39:41](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=2381), [55:50](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3350), [58:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3529)

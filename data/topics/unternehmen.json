@@ -3,7 +3,7 @@
   "name": "EY (Ernst & Young)",
   "folder": "Unternehmen",
   "patterns": [
-   "\\bE ?Y\\b",
+   "(?-i:\\bEY\\b)",
    "\\bErnst ?& ?Young\\b",
    "\\bErnst and Young\\b",
    "\\bWambach\\w*"

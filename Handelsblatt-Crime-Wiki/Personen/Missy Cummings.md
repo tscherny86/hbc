@@ -22,7 +22,7 @@ Ihr Satz, eine Halluzination bei hoher Geschwindigkeit sei tödlich, bringt das 
 
 ## Was im Podcast gesagt wird
 
-> … stimmt. Aber eine Halluzination bei hoher Geschwindigkeit ist tödlich. Das war Miss Cummings. Und wir hören ja hier, Cummings ist ausgesprochen keine Gegnerin des autonomen Fahrens. Sie hat sogar schon 2016 vom US-Senat gesagt, …
+> … nicht stimmt. Aber eine Halluzination bei hoher Geschwindigkeit ist tödlich. Das war Missy Cummings. Und wir hören ja hier, Cummings ist ausgesprochen keine Gegnerin des autonomen Fahrens. Sie hat sogar schon 2016 vom US-Senat gesagt, …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 36:55](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=2215) · [[Transkript 162#Minute 36|im Transkript]]
 

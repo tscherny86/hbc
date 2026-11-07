@@ -22,6 +22,10 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 
 ## Was im Podcast gesagt wird
 
+> … eine Geschichte haben kann, international. Heute schickt mir Sönke gerade wieder eine Elon Musk-Geschichte von ihm, ist in den New York Times zitiert worden. Das ist natürlich toll. Was viele nicht sehen, ist diese …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 37:48](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2268) · [[Transkript 154#Minute 37|im Transkript]]
+
 > … Autopilot sei etwa doppelt so sicher wie ein normaler Fahrer, sagte Tesla-Chef Elon Musk im April 2019. Er werde Leben retten und Verletzungen verhindern. Seit fast zehn Jahren wiederholt Musk dieses Versprechen für Tesla. …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 0:58](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=58) · [[Transkript 162#Minute 0|im Transkript]]
@@ -46,6 +50,10 @@ Die Handelsblatt-Reporter beschreiben in ihrem Buch „Die Tesla-Files“ einen 
 - [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes
 - [[142 Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde|#142 – Blaulicht bei Tesla – wie eine Betriebsratswahl zur Schlammschlacht wurde]] (2026-03-22) — Shownotes
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [0:58](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=58), [4:05](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=245), [6:21](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=381), [8:19](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=499)
+
+## Kurz erwähnt (1)
+
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [37:48](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2268)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

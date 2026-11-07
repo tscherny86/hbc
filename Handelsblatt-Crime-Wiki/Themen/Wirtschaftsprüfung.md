@@ -22,6 +22,22 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 
 ## Was im Podcast gesagt wird
 
+> … begleitet. Dabei sind sie auf verschachtelte Fondkonstruktionen, hohe Verluste und Zweifel von Wirtschaftsprüfern gestoßen, ob bestimmte Fonds fortgeführt werden können. Selbst die Staatsanwaltschaft München interessiert sich inzwischen für den Pfeil. Und über all das …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 1:37](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=97) · [[Transkript 152#Minute 1|im Transkript]]
+
+> … erklären. Also die Fonds sind letztlich ja auch in Unternehmen strukturiert, die Jahresabschlüsse vorlegen müssen, wie alle anderen Unternehmen auch. Und hier ist es jetzt bei der deutschen Finance so, dass diese mehr als …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 17:16](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1036) · [[Transkript 152#Minute 17|im Transkript]]
+
+> … nicht alle Geschäftsberichte erstellt werden, da ausländische Beteiligungen noch auf die finalen Testate waren. Ja, und man stehe halt in engem Austausch mit den jeweiligen Wirtschaftsprüfern und erwarte eine zeitnahe Fertigstellung. So, jetzt haben …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 18:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1137) · [[Transkript 152#Minute 18|im Transkript]]
+
+> … nochmal auch eben angesprochen. Ihr habt ja vorhin viel über die fehlenden Jahresabschlüsse und über die mangelnde Transparenz gesprochen. Jetzt interessiert uns und die Hörerinnen und Hörer wahrscheinlich auch natürlich, könnt ihr sagen, ob …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 39:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2397) · [[Transkript 152#Minute 39|im Transkript]]
+
 > … Josten kommt aus Wuppertal, ist 1953 geboren, wurde dann Steuerberater und später Wirtschaftsprüfer. Und auch wie viele andere ging er nach der Wende nach Sachsen-Anhalt. Also nach der Wende 1990, da haben sich ganz …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 9:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=569) · [[Transkript 156#Minute 9|im Transkript]]
@@ -38,7 +54,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 56:22](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3382) · [[Transkript 161#Minute 56|im Transkript]]
 
-> … kennen. Es könnten neue Fakten ans Licht kommen, die Auswirkungen auf den Jahresabschluss haben könnten, um nun Geldbußen oder Einzwingungen oder Ausschluss von öffentlichen Ausschreibungen, Entzug von Betriebserlaubnissen ist möglich oder sonstige Schäden für …
+> … kennen. Es könnten neue Fakten ans Licht kommen, die Auswirkungen auf den Jahresabschluss haben könnten, um nun Geldbußen oder Einziehungen oder Ausschluss von öffentlichen Ausschreibungen, Entzug von Betriebserlaubnissen ist möglich oder sonstige Schäden für …
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 58:17](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3497) · [[Transkript 161#Minute 58|im Transkript]]
 
@@ -54,7 +70,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 - [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Shownotes
 - [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes
-- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
+- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [1:37](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=97), [17:16](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1036), [18:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=1137), [39:57](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=2397)
 
 ## Kurz erwähnt (2)
 

@@ -22,7 +22,7 @@ Das Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Na
 
 ## Was im Podcast gesagt wird
 
-> … und dann gibt es halt diesen Menschen, diesen Tesla-Kunden, der heißt George McGee. Und der fährt abends von seinem Büro in Boca Raton in Florida nach Haus, nach Quilago. Und sein Model S Tesla …
+> … und dann gibt es halt diesen Menschen, diesen Tesla-Kunden, der heißt George McGee. Und der fährt abends von seinem Büro in Boca Raton in Florida nach Haus, nach Key Largo. Und sein Model S Tesla …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 21:11](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1271) · [[Transkript 162#Minute 21|im Transkript]]
 

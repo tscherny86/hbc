@@ -9,7 +9,7 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 **genauen Minute** (Klick öffnet Spotify an der Stelle).
 
 **Stand:** 07.11.2026 · **160 Folgen** · **128 h 37 min** Audio ·
-**9 von 160 transkribiert**
+**12 von 160 transkribiert**
 
 ## Navigation
 - 📼 [[Alle Folgen]]
@@ -48,7 +48,6 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Cyberangriff auf Continental]] (4)
 - [[Sympatex-Betrug]] (4)
 - [[Porsche-Ikone vor Gericht]] (4)
-- [[Tesla-Betriebsratswahl Grünheide]] (4)
 - [[Ergo-Lustreisen]] (3)
 - [[LBBW-Cum-Ex]] (3)
 - [[Continental-Dieselskandal]] (3)
@@ -61,6 +60,7 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Picam]] (2)
 - [[Schlecker-Insolvenz]] (2)
 - [[Charles Smethurst und die German Property Group]] (2)
+- [[Buchhalterin und Volksbank Düsseldorf Neuss]] (2)
 - [[Very Private Equity (Triton)]] (2)
 - [[Spionageprozess London (Marsaleks Agenten)]] (2)
 - [[Degag-Pleite]] (2)
@@ -85,11 +85,11 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Staatstrojaner-Fall]] (1)
 - [[Thomas Lloyd]] (1)
 - [[Soravia-Gruppe und One Group]] (1)
-- [[Buchhalterin und Volksbank Düsseldorf Neuss]] (1)
 - [[Sony Music und Daniel Lieberberg]] (1)
 - [[Wolfgang Hoeft und die MW-Gruppe]] (1)
 - [[Gomopa und Klaus Maurischat]] (1)
 - [[Fall Jens Lehmann]] (1)
+- [[Tesla-Betriebsratswahl Grünheide]] (1)
 - [[TGI-Gold (Helmut Kaltenegger)]] (1)
 - [[Wolf of High Street – Uwe Reppegather und Centrum]] (1)
 - [[Alaska-Ölbohrungen (Kay Rieck)]] (1)

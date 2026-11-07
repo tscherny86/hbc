@@ -20,7 +20,7 @@ Für die Beratung wurde die Affäre existenzbedrohend: Wie verkauft man eine Fir
 
 ## Was im Podcast gesagt wird
 
-> … reingesteckt. Unter anderem der ehemalige Unternehmensberater Stefan Götz. Also Namensgeber der Unternehmensberatung Götz Partners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass er sich in München vorm Landgericht verantworten …
+> … Geld reingesteckt. Unter anderem der ehemalige Unternehmensberater Stephan Goetz. Also Namensgeber der Unternehmensberatung Goetzpartners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass er sich in München vorm Landgericht verantworten muss. …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 37:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2252) · [[Transkript 160#Minute 37|im Transkript]]
 

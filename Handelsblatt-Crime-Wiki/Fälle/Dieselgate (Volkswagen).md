@@ -22,6 +22,15 @@ Die Folgen:
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … wo man sich entsprechend weitern kann. Ich bringe immer das schöne Beispiel, Volkswagen hat auch inzwischen nicht mehr nur Autos im Verkauf, sondern verkauft Autoradios, Klimaanlagen, Navigationssysteme. Also hat sich auch entsprechend evolutionär weiterentwickelt. …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 9:15](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=555) · [[Transkript 153#Minute 9|im Transkript]]
+
+> … die Region Niedersachsen um Wolfsburg und Braunschweig. Wolfsburg ist als Sitz des Volkswagen-Konzerns natürlich gerade von einer schweren Wirtschaftskrise betroffen. Die Niedersachsen sagen ganz gern, wenn Volkswagen Husten hat, hat Niedersachsen eine Erkältung. Und …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 19:00](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1140) · [[Transkript 153#Minute 19|im Transkript]]
 
 ## In diesen Folgen (5)
 
@@ -30,6 +39,10 @@ Die Folgen:
 - [[019 Dieselgate (Teil 3) Volkswagen in den Fängen der Justiz|#19 – Dieselgate (Teil 3): Volkswagen in den Fängen der Justiz]] (2022-07-31) — Shownotes
 - [[046 Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank|#46 – Der Dieselskandal bei Audi – Ex-Topmanager auf der Anklagebank]] (2023-06-17) — Shownotes
 - [[146 Diesel-Skandal bei Continental Wer zahlt die Kosten von 300 Millionen Euro|#146 – Diesel-Skandal bei Continental: Wer zahlt die Kosten von 300 Millionen Euro?]] (2026-05-03) — Shownotes
+
+## Kurz erwähnt (1)
+
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [9:15](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=555), [19:00](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1140)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

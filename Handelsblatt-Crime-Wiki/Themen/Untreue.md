@@ -25,6 +25,19 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Und die Staatsanwaltschaft Braunschweig ermittelt gegen die Bravo wegen des Verdachts der Untreue. Wie konnte das passieren? Und was bedeutet das für die Mitglieder dieser Bank und die gesamte Branche? Darüber spreche ich heute …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 0:47](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=47) · [[Transkript 153#Minute 0|im Transkript]]
+
+> … der Staatsanwaltschaft und zwar Braunschweig. Die Ermittler dort hegen den Verdacht der Untreue. Das ist ein Anfangsverdacht. Das heißt, diese Ermittlungen stehen ganz am Anfang. Also deswegen muss man da noch sehr vorsichtig sein. …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 22:06](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1326) · [[Transkript 153#Minute 22|im Transkript]]
+
+> … noch eine andere Beteiligung gibt, bei der es auch eben Vorwürfe der Untreue gibt. Welche ist denn das? Das ist die BG Gastro. Und die ist auch sehr auffällig, weil sie, oder das Beispiel …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 23:57](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1437) · [[Transkript 153#Minute 23|im Transkript]]
 
 ## In diesen Folgen (15)
 
@@ -42,7 +55,7 @@ Das Bundesverfassungsgericht hat 2010 verlangt, dass der Vermögensnachteil konk
 - [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118 – Insolvenz der Gröner Group: Der tiefe Sturz eines Baulöwen]] (2025-06-29) — Shownotes
 - [[129 Hotels, Reisen, Dienstwagen Spesenskandal bei der Fraunhofer-Gesellschaft|#129 – Hotels, Reisen, Dienstwagen: Spesenskandal bei der Fraunhofer-Gesellschaft]] (2025-11-02) — Shownotes
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [0:47](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=47), [22:06](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1326), [23:57](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1437)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

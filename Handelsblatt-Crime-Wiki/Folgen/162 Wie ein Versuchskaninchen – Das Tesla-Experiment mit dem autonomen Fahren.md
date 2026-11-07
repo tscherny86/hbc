@@ -18,11 +18,11 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-11-01 |
 | **Dauer** | 1:01:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh) · [MP3](https://audio.podigee-cdn.net/2588691-m-5c303f5e6f2e1f37e4cffc3459643cdb.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/162-wie-ein-versuchskaninchen-das-tesla-experiment) |
-| **Transkript** | [[Transkript 162]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]], [[Tesla-Experiment (autonomes Fahren)]], [[Tesla-Autopilot-Prozess (Benavides)]] |
+| **Transkript** | [[Transkript 162]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Tesla-Files]], [[Tesla-Experiment (autonomes Fahren)]], [[Tesla-Autopilot-Prozess (Benavides)]] |
 | **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | [[Tesla]], [[Handelsblatt]] |
-| **Personen** | [[Sönke Iwersen]], [[Elon Musk]], [[Lukasz Krupski]], [[Missy Cummings]], [[Andreas Pichler]] |
+| **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Elon Musk]], [[Lukasz Krupski]], [[Missy Cummings]], [[Andreas Pichler]] |
 | **Kurz erwähnt** | [[Wirecard]] |
 
 ## Shownotes
@@ -36,7 +36,7 @@ In dieser Folge „Handelsblatt Crime“ spricht Investigativ-Chef Sönke Iwerse
 ## Zeitmarken
 
 - [0:05](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=5) – Heute ist einer der seltenen Momente, in denen eine Science-Fiction-Idee kurz davor ist, Wirklichkeit zu werden. Ingenieure geben … ([[Transkript 162#Minute 0|Transkript]])
-- [2:06](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=126) – Mein Name ist Ina Karabas und damit herzlich willkommen zu Handelsblatt Crime. Hallo Sonke, schön, dass wir uns … ([[Transkript 162#Minute 2|Transkript]])
+- [2:06](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=126) – Mein Name ist Ina Karabasz und damit herzlich willkommen zu Handelsblatt Crime. Hallo Sonke, schön, dass wir uns … ([[Transkript 162#Minute 2|Transkript]])
 - [4:12](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=252) – Das erlebt ihr jetzt aktuell, der Neue, es gibt ja schon wieder noch einen anderen Film, die haben … ([[Transkript 162#Minute 4|Transkript]])
 - [6:21](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=381) – Später, 2024, natürlich wurde dann Musk als Figur größer. Aber am Ende hat sich der Film dann auch … ([[Transkript 162#Minute 6|Transkript]])
 - [8:23](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=503) – Also Lukasz gilt Tesla für das beste Unternehmen der Welt, hat er mir ja oft gesagt. Und auch … ([[Transkript 162#Minute 8|Transkript]])
@@ -46,7 +46,7 @@ In dieser Folge „Handelsblatt Crime“ spricht Investigativ-Chef Sönke Iwerse
 - [16:39](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=999) – Also die Frau Oldenburg sagt, ihr Mann habe das autonome Fahren regelmäßig benutzt, war sehr stolz auf seinen … ([[Transkript 162#Minute 16|Transkript]])
 - [18:40](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1120) – Tesla hat gesagt, es gibt keine Datenaufzeichnung von diesem Tag. Also das haben die an den Staatsanwalt als … ([[Transkript 162#Minute 18|Transkript]])
 - [20:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1245) – Und zwar einen zweiten großen Unfall, der auch in eurem Film vorkommt. Und da ist es etwas anders, … ([[Transkript 162#Minute 20|Transkript]])
-- [22:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1365) – Und das Auto wird dann zum Geschoss gegen die beiden. Und Nabal, die Frau, wird sieben Meter weit … ([[Transkript 162#Minute 22|Transkript]])
+- [22:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1365) – Und das Auto wird dann zum Geschoss gegen die beiden. Und Naibel, die Frau, wird sieben Meter weit … ([[Transkript 162#Minute 22|Transkript]])
 - [24:47](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1487) – Aber die Anwälte lassen da nicht locker, die sind schon sehr versiert und kriegen Kontakt zu einem absoluten … ([[Transkript 162#Minute 24|Transkript]])
 - [26:49](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1609) – Zum ersten Mal hat eine Jury aus normalen Menschen Tesla zur Verantwortung gezogen. Wenn die zuhören, was sagen … ([[Transkript 162#Minute 26|Transkript]])
 - [28:54](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1734) – Und deshalb gibt es, glaube ich, auf der Welt niemanden, der sagen könnte, Unternehmen X fährt mit seiner … ([[Transkript 162#Minute 28|Transkript]])
@@ -63,7 +63,7 @@ In dieser Folge „Handelsblatt Crime“ spricht Investigativ-Chef Sönke Iwerse
 - [51:38](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3098) – Die Mitarbeiter bekommen eine Mail und da steht drin, ausgesuchte Mitarbeiter sollen künftig Kameras tragen bei der Arbeit. … ([[Transkript 162#Minute 51|Transkript]])
 - [53:43](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3223) – Das gibt es tatsächlich einige. Wir werden sehen, wie es damit weitergeht. Wo steht denn jetzt eigentlich die … ([[Transkript 162#Minute 53|Transkript]])
 - [55:44](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3344) – und da gibt es dann so Vorfälle, dass Bus so voll war, dass sich ein Fahrer einfach geweigert … ([[Transkript 162#Minute 55|Transkript]])
-- [58:01](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3481) – und zwar, lass uns nochmal ganz kurz über Cybercaps sprechen, die ja auch autonom fahren sollen und die … ([[Transkript 162#Minute 58|Transkript]])
+- [58:01](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3481) – und zwar, lass uns nochmal ganz kurz über Cybercabs sprechen, die ja auch autonom fahren sollen und die … ([[Transkript 162#Minute 58|Transkript]])
 - [1:00:11](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3611) – Nochmal, 2016 sagt Tesla, die Autos, die wir heute bauen, die sind alle schon fertig für das vollständige … ([[Transkript 162#Minute 60|Transkript]])
 - [1:02:30](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=3750) – Gerade jetzt muss die Modernisierung von Staat und Verwaltung vorangehen. Beim Handelsblatt GovTech-Gipfel 2027 diskutieren führende Köpfe aus … ([[Transkript 162#Minute 62|Transkript]])
 

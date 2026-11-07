@@ -22,13 +22,29 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 
 ## Was im Podcast gesagt wird
 
+> … letzte Geschichte, die mich über Wochen wirklich intensiv beschäftigt hat, waren die Tesla-Files, die ihr ja auch intensiv besprochen habt. Also vielleicht nochmal kurz für alle, die es nicht mitgekriegt haben. Reporterinnen und Reporter …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 6:07](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=367) · [[Transkript 154#Minute 6|im Transkript]]
+
+> … hier im Podcast ja auch gut kennt, ein Buch darüber geschrieben. Die Tesla-Files, wir haben da sehr intensiv drüber geschrieben, natürlich auch bei uns im Handelsblatt. Ein Buch, was weltweit auch für Aufsehen gesorgt …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 9:39](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=579) · [[Transkript 154#Minute 9|im Transkript]]
+
+> … echt, was wir hier vorliegen haben? Das sind wir wieder bei den Tesla-Files, genau. Genau. Was glaubst du, wie und wo wird KI den Journalismus am stärksten verändern in den nächsten paar Jahren? Also …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 29:15](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1755) · [[Transkript 154#Minute 29|im Transkript]]
+
+> … und was die Einsparsumme ist. Das ist eine kleinere News als die Tesla-Files. Aber es ist eine extrem wichtige News für die Branche. Und für Deutschland auch, wenn wir uns irgendwie mal zusammenrechnen. Und …
+>
+> — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 40:25](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2425) · [[Transkript 154#Minute 40|im Transkript]]
+
 > … der ARD-Mediathek. Der Film beruht wesentlich auf einer Recherche des Handelsblatts, den Tesla-Files. Die kennen Sie ja wahrscheinlich schon. Rund 100 Gigabyte interner Daten zugespielt von einem Whistleblower. In dieser Folge geht es um …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 1:25](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=85) · [[Transkript 162#Minute 1|im Transkript]]
 
-> … an und wir nennen es der Fan. Die zentrale Figur bei den Tesla-Files ist euer Whistleblower, Lukasz Krupski. Und ohne ihn gäbe es tatsächlich natürlich weder die Tesla-Files noch diesen Film. Wir haben dazu, …
+> … man den Kunden verspricht. Und das ist ja genau da, wo die Tesla-Files beginnen. Genau, dann fangen wir jetzt mal mit dem ersten Kapitel an und wir nennen es der Fan. Die zentrale Figur bei …
 >
-> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 7:54](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=474) · [[Transkript 162#Minute 7|im Transkript]]
+> — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 7:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=465) · [[Transkript 162#Minute 7|im Transkript]]
 
 > … dann an die Behörden gewandt. Auch in mehreren Ländern. Also US-Verkehrsbehörde, deutsche Datenschutzbehörde, norwegische, niederländische, weil die Zentrale von Tesla in Amsterdam sitzt. Und hat dann gewartet und gewartet, also Monate. Und erst als …
 >
@@ -48,8 +64,8 @@ Dass Gehälter, Krankheitsdaten und Sozialversicherungsnummern von mehr als 100.
 - [[064 Die Crime-Fälle des Jahres 2023|#64 – Die Crime-Fälle des Jahres 2023]] (2023-12-30) — Shownotes
 - [[110 Blackbox Tesla Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten|#110 – Blackbox Tesla: Was geheime Unterlagen und ein Enthüllungsbuch über Elon Musk verraten]] (2025-03-23) — Shownotes
 - [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes
-- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes
-- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:25](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=85), [7:54](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=474), [12:13](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=733), [14:44](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=884)
+- [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Shownotes · Minute [6:07](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=367), [9:39](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=579), [29:15](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1755), [40:25](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=2425)
+- [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [1:25](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=85), [7:45](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=465), [12:13](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=733), [14:44](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=884)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

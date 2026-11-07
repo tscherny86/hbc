@@ -26,7 +26,7 @@ Die Bafin stellte Fehlbuchungen in Millionenhöhe fest, die Kapitalerhöhung ger
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 23:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1412) · [[Transkript 160#Minute 23|im Transkript]]
 
-> … dann die Social Chain, die DS-Gruppe für 220 Millionen Euro und Ralf Dümmel zog in den Vorstand vom Social Chain ein. Also da war von der Hochzeit die Löwen war ganz groß die Rede …
+> … dann die Social Chain, die DS-Gruppe für 220 Millionen Euro und Ralf Dümmel zog in den Vorstand vom Social Chain ein. Also da war von der Hochzeit der Löwen war ganz groß die Rede und dann …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 25:12](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1512) · [[Transkript 160#Minute 25|im Transkript]]
 

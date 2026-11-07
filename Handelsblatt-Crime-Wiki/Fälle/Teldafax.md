@@ -26,7 +26,7 @@ Aufgedeckt hatten den Fall 2010 die Handelsblatt-Reporter Sönke Iwersen und Jü
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 0:08](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=8) · [[Transkript 156#Minute 0|im Transkript]]
 
-> … heute meine Kollegen Sönke Iversen und Jürgen Flauger. Die beiden haben die Teldafax-Geschichte im Oktober 2010 gemeinsam aufgedeckt und danach jahrelang weiterverfolgt. In diesem Podcast sprechen wir alle zwei Wochen über die großen Streit …
+> … sind heute meine Kollegen Sönke Iwersen und Jürgen Flauger. Die beiden haben die Teldafax-Geschichte im Oktober 2010 gemeinsam aufgedeckt und danach jahrelang weiterverfolgt. In diesem Podcast sprechen wir alle zwei Wochen über die großen Streit …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:52](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=112) · [[Transkript 156#Minute 1|im Transkript]]
 

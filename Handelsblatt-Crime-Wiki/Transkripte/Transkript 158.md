@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Hendrik Holt – Windparkbetrüger auf der Flucht
 
-Folge: [[158 Hendrik Holt – Windparkbetrüger auf der Flucht]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (0 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[158 Hendrik Holt – Windparkbetrüger auf der Flucht]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (1 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0
@@ -278,7 +278,7 @@ Ja, soweit reicht die Selbstreflexion dann doch. Also er weiß ganz genau, wie e
 
 ### Minute 71
 [▶ 1:11:28](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=4288)  
-Und mit diesem Abo können Sie dann übrigens auch unsere Podcast-Doku Catching Chris hören, die wir heute erwähnt haben, weil da wirklich sehr viele Parallelen zu Hendrik Holtz sind. Den Link packe ich auch noch mal in die Shownotes oder Sie suchen einfach nach Catching Chris. Ja, Lars, danke, dass du heute diesen Fall mal wieder mitgebracht hast. Ja, gern. Und dann möchte ich mich natürlich noch bei meinem Kollegen Christian Heinemann bedanken, der diese Folge produziert hat und natürlich bei Ihnen da draußen fürs Zuhören. Wenn Ihnen diese Folge gefallen hat, dann lassen Sie uns doch gern eine Bewertung beim Podcast-Player Ihres Vertrauens da oder Sie können uns natürlich auch gerne das Feedback direkt schreiben per Mail an crimeathandelsblatt.com. Das gilt natürlich auch, falls Sie Hinweise für uns haben oder Wünsche. Und dann hören wir uns hier in zwei Wochen wieder, würde ich sagen. Wieder mit meiner Kollegin Ina Karabas dann. Bis dahin. Was zählt heute wirklich, wenn Top-Talente sich für Arbeitgeber entscheiden?
+Und mit diesem Abo können Sie dann übrigens auch unsere Podcast-Doku Catching Chris hören, die wir heute erwähnt haben, weil da wirklich sehr viele Parallelen zu Hendrik Holtz sind. Den Link packe ich auch noch mal in die Shownotes oder Sie suchen einfach nach Catching Chris. Ja, Lars, danke, dass du heute diesen Fall mal wieder mitgebracht hast. Ja, gern. Und dann möchte ich mich natürlich noch bei meinem Kollegen Christian Heinemann bedanken, der diese Folge produziert hat und natürlich bei Ihnen da draußen fürs Zuhören. Wenn Ihnen diese Folge gefallen hat, dann lassen Sie uns doch gern eine Bewertung beim Podcast-Player Ihres Vertrauens da oder Sie können uns natürlich auch gerne das Feedback direkt schreiben per Mail an crimeathandelsblatt.com. Das gilt natürlich auch, falls Sie Hinweise für uns haben oder Wünsche. Und dann hören wir uns hier in zwei Wochen wieder, würde ich sagen. Wieder mit meiner Kollegin Ina Karabasz dann. Bis dahin. Was zählt heute wirklich, wenn Top-Talente sich für Arbeitgeber entscheiden?
 
 ### Minute 72
 [▶ 1:12:42](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=4362)  

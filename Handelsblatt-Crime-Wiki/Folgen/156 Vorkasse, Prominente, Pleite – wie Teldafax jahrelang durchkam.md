@@ -22,7 +22,7 @@ tags: [folge, jahr-2026, folge]
 | **Fälle** | [[Porsche-Ikone vor Gericht]], [[Teldafax]] |
 | **Themen** | [[Betrug]], [[Schneeballsystem]], [[Insolvenz]], [[Insolvenzverwalter]] |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Jürgen Barth]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]], [[Jürgen Barth]] |
 | **Kurz erwähnt** | [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Handelsblatt]] |
 
 ## Shownotes

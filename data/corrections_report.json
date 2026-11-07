@@ -1,38 +1,217 @@
 {
- "155": {
+ "152": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "153": {
   "summe": 0,
   "regeln": {}
+ },
+ "154": {
+  "summe": 5,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 3,
+   "Handelsbad → Handelsblatt": 2
+  }
+ },
+ "155": {
+  "summe": 2,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
  },
  "156": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
  },
  "157": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
  },
  "158": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
  },
  "159": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 26,
+  "regeln": {
+   "Schoenberg → Schulenberg": 4,
+   "Handelsbad → Handelsblatt": 3,
+   "wieder besseres Wissens → wider besseres Wissen": 1,
+   "Josefine Fokul → Josefine Fokuhl": 1,
+   "Lars Martennagel → Lars-Marten Nagel": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Kameramändern → Kameramännern": 1,
+   "geklagt vom Europäischen Gerichtshof → geklagt vorm Europäischen Gerichtshof": 1,
+   "Konsortiuschefs → Konsortiumschefs": 1,
+   "nicht klünger → nicht Klüngel": 1,
+   "kapschtraffic.com → Kapsch TrafficCom": 1,
+   "DEAL ist die All-in-One-Plattform → Deel ist die All-in-One-Plattform": 1,
+   "Herschauen von Forschern → Heerscharen von Forschern": 1,
+   "Karpsch → Kapsch": 1,
+   "Korsorziern → Konsortien": 1,
+   "Hans Friedrichs → Hans Friderichs": 1,
+   "Stefan Bilger → Steffen Bilger": 1,
+   "crime.handelsbad.com → crime@handelsblatt.com": 1,
+   "handelsbad.com → handelsblatt.com": 1,
+   "Handelsbad-App → Handelsblatt-App": 1,
+   "endgeltliche Einschaltung → entgeltliche Einschaltung": 1
+  }
  },
  "160": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 54,
+  "regeln": {
+   "Annabelle → Anabel": 6,
+   "Oehlmann → Oelmann": 6,
+   "Wanya → Wanja": 5,
+   "Oehmann → Oelmann": 2,
+   "Luxus-Penthaus → Luxus-Penthouse": 2,
+   "Götz Partners → Goetzpartners": 2,
+   "Volker Votzmeier → Volker Votsmeier": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Anschuldigen sind → Anschuldigungen sind": 1,
+   "Fünf-Sterne-Hotels aufreisen → Fünf-Sterne-Hotels auf Reisen": 1,
+   "Jean Combs → Sean Combs": 1,
+   "Gisleine Maxwell → Ghislaine Maxwell": 1,
+   "nur S-Bürgen → nur US-Bürgen": 1,
+   "Oberhofseinstieg → Oberhofs Einstieg": 1,
+   "Deal ist die All-in-One-Plattform → Deel ist die All-in-One-Plattform": 1,
+   "Wannja Oberhof → Wanja Oberhof": 1,
+   "Hochzeit die Löwen → Hochzeit der Löwen": 1,
+   "eine Menge Bohai → eine Menge Bohei": 1,
+   "Energieeffekte → Synergieeffekte": 1,
+   "Wania Oberhof → Wanja Oberhof": 1,
+   "Oberhofer hat dann → Oberhof hat dann": 1,
+   "aus diesem Team wurde → aus diesem Deal wurde": 1,
+   "Oberhofsaktien → Oberhofs Aktien": 1,
+   "Oberhofseite → Oberhof-Seite": 1,
+   "Wagniskapitalgier → Wagniskapitalgeber": 1,
+   "Stefan Götz → Stephan Goetz": 1,
+   "Herrn Götz → Herrn Goetz": 1,
+   "Ealing Company → Healing Company": 1,
+   "Unternehmeroberhof → Unternehmer Oberhof": 1,
+   "Wannier-Oberhof → Wanja Oberhof": 1,
+   "Oberhofskarriere → Oberhofs Karriere": 1,
+   "Bode, dem Mobilitäts-Startup → Bolt, dem Mobilitäts-Startup": 1,
+   "an dem Pfeil natürlich dran → an dem Fall natürlich dran": 1,
+   "Der Pfeil, muss man sagen → Der Fall, muss man sagen": 1,
+   "hannelsbad-crime → handelsblatt-crime": 1,
+   "crime-at-hannelsbad.com → crime@handelsblatt.com": 1,
+   "endgeltliche Einschaltung → entgeltliche Einschaltung": 1
+  }
  },
  "161": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 62,
+  "regeln": {
+   "Kraus-Maffei → Krauss-Maffei": 7,
+   "Kraus Maffei Wegmann → Krauss-Maffei Wegmann": 5,
+   "katharischen → katarischen": 3,
+   "FGS-Frags → FGS Frex": 3,
+   "Krausmafer Wegmann → Krauss-Maffei Wegmann": 3,
+   "Kraus, Maffei Wegmann → Krauss-Maffei Wegmann": 2,
+   "Salutschkanonen → Salutkanonen": 2,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Lars Martennagel → Lars-Marten Nagel": 1,
+   "Luzianer Zeitung → Luzerner Zeitung": 1,
+   "das ist Dohr → das ist Doha": 1,
+   "Bergpanzer → Bergepanzer": 1,
+   "Rüstungstier → Rüstungsdeal": 1,
+   "Flax oder sonst was → Flak oder sonst was": 1,
+   "Milliardendiät → Milliardendeal": 1,
+   "Für die Frags → Für die Frex": 1,
+   "verdraht → verdrahtet": 1,
+   "um die Katara und den Deal → um die Katarer und den Deal": 1,
+   "Geflogenheiten → Gepflogenheiten": 1,
+   "in diesem Vorgericht → vor diesem Gericht": 1,
+   "Katara-Gesellschaft → Katar-Gesellschaft": 1,
+   "die Katare auch wirklich → die Katarer auch wirklich": 1,
+   "katharisches → katarisches": 1,
+   "nichts Aussagen → nichtssagend": 1,
+   "Geschäftsinn → Geschäftssinn": 1,
+   "Kraus und Maffei Wegmann → Krauss-Maffei Wegmann": 1,
+   "FGS Frecks → FGS Frex": 1,
+   "katharische → katarische": 1,
+   "Kings College → King's College": 1,
+   "Ahmet Nasser bin Yassim Altani → Ahmed bin Nasser bin Jassim Al Thani": 1,
+   "Tschindchenien → Tschetschenien": 1,
+   "Ahmed bin Nasser bin Yassim Altani → Ahmed bin Nasser bin Jassim Al Thani": 1,
+   "in diesem Rüstungsstil → in diesem Rüstungsdeal": 1,
+   "MSTQ → MSCQ": 1,
+   "Altani-Familienmitglied → Al-Thani-Familienmitglied": 1,
+   "GERD Industries → GIAT Industries": 1,
+   "Einzwingungen → Einziehungen": 1,
+   "wir hätten fest → wir halten fest": 1,
+   "KNDES → KNDS": 1,
+   "Viktor Buth → Viktor But": 1,
+   "Dispoten → Despoten": 1,
+   "eingefeldet → eingefädelt": 1,
+   "crime.hannelsblatt.com → crime@handelsblatt.com": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
  },
  "162": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 52,
+  "regeln": {
+   "Nabal → Naibel": 3,
+   "Bates Brothers → Beetz Brothers": 2,
+   "John Bernard → John Bernal": 2,
+   "André Thierich → André Thierig": 2,
+   "Lohnfahrzahlung → Lohnfortzahlung": 2,
+   "der Tierricht → der Thierig": 2,
+   "Cybercaps → Cybercabs": 2,
+   "Sonke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "dem Studium gemacht werden → einem Studio gemacht werden": 1,
+   "Christoph Bates → Christian Beetz": 1,
+   "Tesla-Freiheitsbeginn → Tesla-Files beginnen": 1,
+   "Lillestrom → Lillestrøm": 1,
+   "zwischen Lukas und Elon Musk → zwischen Lukasz und Elon Musk": 1,
+   "für Lukas dann → für Lukasz dann": 1,
+   "Und Lukas nutzt → Und Lukasz nutzt": 1,
+   "Tesla zu Lukas, Krupski → Tesla zu Lukasz Krupski": 1,
+   "halt Lukas damit → halt Lukasz damit": 1,
+   "kommt er vorne der Fahrbahn ab → kommt er von der Fahrbahn ab": 1,
+   "prallt gegen Bauen → prallt gegen Baum": 1,
+   "gerader Stecke → gerader Strecke": 1,
+   "Schlossförderung → Schlussfolgerung": 1,
+   "Quilago → Key Largo": 1,
+   "Stoppstil → Stoppschild": 1,
+   "Nachhinterbliebenen → Hinterbliebenen": 1,
+   "geschworenen Verfahren → Geschworenenverfahren": 1,
+   "Weitanklagen → weiteren Klagen": 1,
+   "Ashok Aloswamy → Ashok Elluswamy": 1,
+   "nimmt er die Handy vom Steuer → nimmt er die Hände vom Steuer": 1,
+   "der Banal merkt → der Bernal merkt": 1,
+   "was Mas darüber getwittert → was Musk darüber getwittert": 1,
+   "Bernard selbst spricht → Bernal selbst spricht": 1,
+   "Diske Pranz → Diskrepanz": 1,
+   "JetGPT → ChatGPT": 1,
+   "Miss Cummings → Missy Cummings": 1,
+   "die ADW → die RDW": 1,
+   "Handelsgutcrime → Handelsblatt Crime": 1,
+   "Wiederschreiben → wieder Schreiben": 1,
+   "226 ist eigentlich ein Erfolgsjahr → 2026 ist eigentlich ein Erfolgsjahr": 1,
+   "Pop-Up-App-Herzen → Papa im Herzen": 1,
+   "Elon Musk uncovert → Elon Musk Uncovered": 1,
+   "Recherchen Sunsblatt → Recherchen des Handelsblatts": 1,
+   "crimeinhandelsbad.com → crime@handelsblatt.com": 1,
+   "handelsbad-crime → handelsblatt-crime": 1
+  }
  },
  "166": {
-  "summe": 0,
-  "regeln": {}
+  "summe": 1,
+  "regeln": {
+   "Josefine Fokul → Josefine Fokuhl": 1
+  }
  }
 }

@@ -22,6 +22,10 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 
 ## Was im Podcast gesagt wird
 
+> … Düsseldorf-Neuss? Ja. Also bei der Volksbank Düsseldorf-Neuss, da ging es um einen Betrugsfall. Also letztlich gab es einen Fall, wo die Volksbank, zu der Volksbank wurde Geld hin transferiert und dann ziemlich schnell wieder …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 34:17](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2057) · [[Transkript 153#Minute 34|im Transkript]]
+
 > … hinter einfach günstigerem Strom, da steht ein Mann, der schon wegen 176-fachen Betrugs verurteilt ist, als er Teldafax gerade noch führt. Das ist ein Mann, der sich der Haft entzieht, der sich in die …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=74) · [[Transkript 156#Minute 1|im Transkript]]
@@ -58,7 +62,7 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 0:33](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=33) · [[Transkript 160#Minute 0|im Transkript]]
 
-> … in dieses Unternehmen von Wanya Oberhof investiert und sagt, dass er sich betrogen fühlt. Und er ist auch von der US-Justiz vernommen worden und hat dort ausgesagt, dass er sozusagen Opfer ist von Wanya …
+> … in dieses Unternehmen von Wanja Oberhof investiert und sagt, dass er sich betrogen fühlt. Und er ist auch von der US-Justiz vernommen worden und hat dort ausgesagt, dass er sozusagen Opfer ist von Wanja …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 2:47](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=167) · [[Transkript 160#Minute 2|im Transkript]]
 
@@ -97,6 +101,10 @@ Betrug ist das Delikt, das in Wirtschaftsstrafverfahren am häufigsten angeklagt
 - [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Shownotes · Minute [1:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=74), [13:26](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=806), [17:49](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1069), [25:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1500)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [1:03](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=63), [4:12](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=252), [19:06](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1146), [35:32](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2132)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:33](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=33), [2:47](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=167), [37:45](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2265)
+
+## Kurz erwähnt (1)
+
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [34:17](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2057)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

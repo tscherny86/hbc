@@ -23,6 +23,23 @@ Betroffen sind meist Privatanleger, die Beträge von einigen tausend bis mehrere
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Haus. Mit seiner Hilfe wollen die Aufseher prüfen, ob die Fonds für Privatanleger ordnungsgemäß verweitet werden. Die Deutsche Finance ist schon ziemlich großer Player im Immobiliengeschäft. Rund 50.000 Privatanleger haben 1 ,5 Milliarden Euro …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 0:19](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=19) · [[Transkript 152#Minute 0|im Transkript]]
+
+> … große Investoren, Banken, Family Offices, aber natürlich auch kleine Investoren, also klassische Privatanleger. Welchen Investorentyp interessiert die BaFin gerade mehr? Ja, für den Sonderbeauftragten gilt, der kümmert sich um die Privatanleger. Und zwar, das …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 7:20](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=440) · [[Transkript 152#Minute 7|im Transkript]]
+
+> … und das Besondere an ihrem Modell, sie will quasi die Welt der Privatanleger mit der der großen institutionellen Investoren verbinden. Und dafür haben sie dann auch einen Namen gefunden und sprechen von sogenannten Club-Deals. …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 10:14](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=614) · [[Transkript 152#Minute 10|im Transkript]]
+
+> … der Klassiker, kommt her, investiert, hier winken Riesenchancen. Genau. Wer Geld von Privatanlegern einsammeln will, der muss eine gute Geschichte erzählen. Und bei der Deutschen Finance klang das letztlich so. Die Privatanleger sollten eben …
+>
+> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 12:03](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=723) · [[Transkript 152#Minute 12|im Transkript]]
 
 ## In diesen Folgen (9)
 
@@ -34,7 +51,7 @@ Betroffen sind meist Privatanleger, die Beträge von einigen tausend bis mehrere
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes
 - [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes
 - [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes
-- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
+- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [0:19](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=19), [7:20](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=440), [10:14](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=614), [12:03](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=723)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]
