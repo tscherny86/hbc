@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 39:10 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2vXj7EMgsOEYv66yoHMUCe) · [MP3](https://audio.podigee-cdn.net/1324837-m-807ba9badb61c187bc260c5155977795.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/66-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[BND-Spionage]] |
+| **Themen** | [[Spionage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Martin Murphy]] |
 | **Kurz erwähnt** | – |

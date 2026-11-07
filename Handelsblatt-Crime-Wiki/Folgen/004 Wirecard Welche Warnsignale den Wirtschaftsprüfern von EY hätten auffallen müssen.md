@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 48:39 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/28zjNrZWMsTSZZcenFw7tZ) · [MP3](https://audio.podigee-cdn.net/631459-m-0cd1540a96fae39adfcc9190398459c9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/4-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
+| **Themen** | [[Wirtschaftsprüfung]], [[Spionage]], [[Compliance]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Felix Holtermann]], [[Bert Fröndhoff]], [[Sebastian Matthes]] |
 | **Kurz erwähnt** | – |

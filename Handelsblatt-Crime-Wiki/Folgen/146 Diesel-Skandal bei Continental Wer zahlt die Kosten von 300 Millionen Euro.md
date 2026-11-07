@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 53:46 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2jlGsIG6ciwO49LKsixMW9) · [MP3](https://audio.podigee-cdn.net/2453086-m-9f7ac3841f1605aa12027fcb5c9831e2.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/146-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Dieselgate (Volkswagen)]], [[Cyberangriff auf Continental]], [[Continental-Dieselskandal]] |
+| **Themen** | [[Abgasmanipulation]], [[Compliance]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

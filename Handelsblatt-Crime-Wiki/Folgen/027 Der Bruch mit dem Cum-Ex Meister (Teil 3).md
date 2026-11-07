@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 1:07:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7fEXIeWUDGMocKJA8oxHfU) · [MP3](https://audio.podigee-cdn.net/872360-m-3b180a218399974bc4124a6881e61676.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/27-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 1:01:52 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw) · [MP3](https://audio.podigee-cdn.net/1970617-m-4ade97e0793b8a8f2dd693a0ec8aad33.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/119-showdown-um-sympatex) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Sympatex-Betrug]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]] |
 | **Kurz erwähnt** | – |

@@ -49,6 +49,22 @@ def log(msg: str) -> None:
         fh.write(time.strftime("%Y-%m-%d %H:%M:%S ") + msg + "\n")
 
 
+def save_json(path: Path, data: dict) -> None:
+    """Schreibt erst eine Temp-Datei und tauscht sie dann aus; bei kurzzeitigen Sperren (Virenscanner, Git)
+    wird einige Male neu versucht, statt den ganzen Lauf abzubrechen."""
+    tmp = path.with_suffix(".tmp")
+    for attempt in range(6):
+        try:
+            tmp.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            os.replace(tmp, path)
+            return
+        except OSError as err:
+            if attempt == 5:
+                raise
+            log(f"   ! Schreiben von {path.name} fehlgeschlagen ({err}), neuer Versuch")
+            time.sleep(2 + attempt)
+
+
 def add_cuda_dlls() -> None:
     """Macht die per pip installierten CUDA-Bibliotheken (cublas, cudnn) unter Windows sichtbar."""
     for s in site.getsitepackages() + [site.getusersitepackages()]:
@@ -116,8 +132,8 @@ def main() -> None:
                                   "start": round(w.start + offset, 2), "end": round(w.end + offset, 2)})
                 print(f"   {seg.start + offset:7.0f}s  {seg.text[:70]}", flush=True)
                 if n % 15 == 0:
-                    partial.write_text(json.dumps({"words": words}, ensure_ascii=False), encoding="utf-8")
-        target.write_text(json.dumps({"words": words}, ensure_ascii=False), encoding="utf-8")
+                    save_json(partial, {"words": words})
+        save_json(target, {"words": words})
         partial.unlink(missing_ok=True)
         log(f"   ✓ {len(words)} Wörter in {time.time() - t0:.0f}s -> {target.name}")
         if args.push:

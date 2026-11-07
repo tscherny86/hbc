@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 53:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0MJJgspZ9QvdycGQtfSdZp) · [MP3](https://audio.podigee-cdn.net/616709-m-8f54606c86074e2162ff69a33c2d1398.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/3-hanno-berger-cum-ex-strippenzieher-und-staatsfeind-nr-1) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Betrug]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

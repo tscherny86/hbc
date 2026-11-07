@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, sonder]
 | **Dauer** | 47:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8) · [MP3](https://audio.podigee-cdn.net/2551718-m-4bff094aaa4558ba0fb1b8700cd7cdea.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/154-sonderfolge-interview-mit-handelsblatt-chefredakteur-sebastian-matthes-uber-recherche-klagen-und-ki) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Tesla-Files]] |
+| **Themen** | [[Datenleck]], [[Pressefreiheit und Presserecht]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Christian Heinemann]], [[Sebastian Matthes]] |
 | **Kurz erwähnt** | – |

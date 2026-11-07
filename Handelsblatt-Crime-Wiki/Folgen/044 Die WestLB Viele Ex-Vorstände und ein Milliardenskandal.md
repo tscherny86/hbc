@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 44:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/61ZNkEVIiv0uIBehnTCfUq) · [MP3](https://audio.podigee-cdn.net/1084819-m-409796edd0b5e7d8415a932c724e07ca.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/44-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Landesbanken im Cum-Ex-Skandal]], [[WestLB]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Whistleblower]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

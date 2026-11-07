@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:02:21 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3FCuLC1SJ7shtB8uMSxaV1) · [MP3](https://audio.podigee-cdn.net/2453090-m-4d84f5e70336e0767a5859c32bcd2179.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/148-wie-das-berliner-zahnarzte-versorgungswerk-mehr-als-eine-milliarde-euro-verlor-und-das-geld-nun-zuruckholen-will) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Wirecard]], [[Zahnärzte-Versorgungswerk Berlin]] |
+| **Themen** | [[Cum-Ex-Geschäfte]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |

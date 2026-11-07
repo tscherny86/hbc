@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 41:51 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5bNtLlN0oOQbwmvKiSB4ZN) · [MP3](https://audio.podigee-cdn.net/1295617-m-ee31437297fa37cd110b75ae48a0ccb3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/63-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Tesla-Files]] |
+| **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, hinweis]
 | **Dauer** | 1:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0PHsUSiMI4Iwvp70uXvs18) · [MP3](https://audio.podigee-cdn.net/2207244-m-cd6dde00b893a3592cd7c3765182715e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/133-neuer-podcast-catching-chris-auf-der-spur-des-millionenbetrugers) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cyberangriff auf Continental]] |
+| **Themen** | [[Cyberangriff und Ransomware]], [[Hochstapler]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

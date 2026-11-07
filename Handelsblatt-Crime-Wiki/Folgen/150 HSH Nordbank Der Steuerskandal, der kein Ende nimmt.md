@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 52:50 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1CzU1Hz1G24r7Yn7901e4E) · [MP3](https://audio.podigee-cdn.net/2505521-m-c1fcaffbac96305a9a3dc39dff8896a7.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/150-hsh-nordbank) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[HSH Nordbank (Cum-Ex)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

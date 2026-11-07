@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 52:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0) · [MP3](https://audio.podigee-cdn.net/1791712-m-41ce2e793558e924a6c7c9a79f6dc548.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/109-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Picam]] |
+| **Themen** | [[Betrug]], [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

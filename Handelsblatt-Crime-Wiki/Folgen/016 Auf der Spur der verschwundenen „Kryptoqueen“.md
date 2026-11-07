@@ -19,7 +19,7 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 43:49 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI) · [MP3](https://audio.podigee-cdn.net/766592-m-a7b4caa761e0691f0ad294afce93ff85.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/16-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
+| **Fälle** | [[Kryptoqueen Ruja Ignatova]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | [[Lars-Marten Nagel]] |

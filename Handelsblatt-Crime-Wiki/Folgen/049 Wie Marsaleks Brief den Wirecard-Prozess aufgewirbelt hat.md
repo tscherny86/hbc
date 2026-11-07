@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 1:00:57 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/335u33w0CwN21gM2IijgY4) · [MP3](https://audio.podigee-cdn.net/1153976-m-e037ea95bcb857afa50036146e68e75a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/49-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Betrug]], [[Bilanzfälschung]], [[Untersuchungshaft]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

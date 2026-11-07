@@ -19,7 +19,7 @@ tags: [folge, jahr-2024, team]
 | **Dauer** | 11:47 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2XPipuwCvrz8oAwX07338t) · [MP3](https://audio.podigee-cdn.net/1457104-m-71780e8b84bee5f44d7bda807b1a5533.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/79-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
+| **Fälle** | [[Wirecard]], [[Tesla-Files]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | [[Michael Verfürden]] |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 58:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3Si6RAS2pGwjlBbOLeHT1Y) · [MP3](https://audio.podigee-cdn.net/1324836-m-5507e439983f3d8b154d5380068145dd.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/65-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
+| **Themen** | [[Insolvenzverwalter]], [[Wirtschaftsprüfung]] |
 | **Unternehmen** | – |
 | **Personen** | [[René Bender]], [[Bert Fröndhoff]] |
 | **Kurz erwähnt** | – |

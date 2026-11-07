@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, team]
 | **Dauer** | 17:32 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5xpu0x08maFvVctJtQly7o) · [MP3](https://audio.podigee-cdn.net/1545806-m-a7eae392d2a8cb8c9804d646359e6786.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/92-volker-votsmeier) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]] |
 | **Unternehmen** | – |
 | **Personen** | [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

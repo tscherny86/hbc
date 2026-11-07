@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:04:39 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI) · [MP3](https://audio.podigee-cdn.net/2328740-m-72fe63c38510d9c74b05347402cdd150.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/140-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Degag-Pleite]] |
+| **Themen** | [[Anlegerbetrug]], [[Insolvenz]], [[Immobilienkrise]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

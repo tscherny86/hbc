@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 40:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5IdAYrQVP8YEpWcI3lOMjD) · [MP3](https://audio.podigee-cdn.net/918185-m-32064f168da4d5a205e871e785dc1ee8.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/31-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

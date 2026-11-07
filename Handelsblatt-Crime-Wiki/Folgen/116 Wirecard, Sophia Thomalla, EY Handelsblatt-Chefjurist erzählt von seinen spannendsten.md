@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 39:39 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5Z9lJS57luduD7CV5NblNt) · [MP3](https://audio.podigee-cdn.net/1895587-m-88926d1ebe625764d04e5c847da44b5f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/116-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]] |
+| **Themen** | [[Pressefreiheit und Presserecht]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 59:07 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/01UwYiNftZ8Df4rXUdqumJ) · [MP3](https://audio.podigee-cdn.net/960912-m-e0d99271e67c1578dbf6de56e4516380.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/34-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cyberangriff auf Continental]], [[Continental-Dieselskandal]] |
+| **Themen** | [[Cyberangriff und Ransomware]], [[Datenleck]], [[Erpressung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

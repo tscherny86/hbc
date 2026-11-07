@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 43:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0W7Lvj2M8135PTd54uWzYE) · [MP3](https://audio.podigee-cdn.net/704284-m-bd9a417197a6a91e104dc12d6a4797bc.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/11-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Geldwäsche]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 54:18 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6zTX1RLarysZez2tzIUSWJ) · [MP3](https://audio.podigee-cdn.net/1791717-m-4fb6cff1327599a7fc0bebd27e05423d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/111-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
+| **Themen** | [[Spionage]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

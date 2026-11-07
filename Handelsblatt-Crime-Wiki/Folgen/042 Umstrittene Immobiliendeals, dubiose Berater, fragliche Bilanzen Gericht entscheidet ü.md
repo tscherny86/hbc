@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 48:58 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3Z7ybtLHDHSMlnOvQuA1Z1) · [MP3](https://audio.podigee-cdn.net/1044831-m-d61421556467bb2b6a902c220c77a95e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/42-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Adler Group]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |

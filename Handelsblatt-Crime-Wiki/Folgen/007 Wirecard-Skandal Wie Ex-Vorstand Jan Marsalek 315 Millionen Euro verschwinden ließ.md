@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 53:10 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/41TRAHxCEifLY6ZmmLUirk) · [MP3](https://audio.podigee-cdn.net/668963-m-73357f039f5e4663790822d7ed670939.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/7-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek und das russische Spionagenetzwerk]], [[Henry O’Sullivan]] |
+| **Themen** | [[Insolvenzverwalter]], [[Wirtschaftsprüfung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

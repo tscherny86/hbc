@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 40:58 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4AAOTwN0jkZszbwOrNAtap) · [MP3](https://audio.podigee-cdn.net/1229876-m-5404640b9ce14ff87e580e334d0ddc49.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/57-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Warburg Bank und Christian Olearius]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Volker Votsmeier]], [[René Bender]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 40:50 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg) · [MP3](https://audio.podigee-cdn.net/2505524-m-259c8f936d438cb883d921ba669b9ad2.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/153-volksbank-brawo) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Volksbank Brawo]] |
+| **Themen** | [[Insolvenz]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]], [[Compliance]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

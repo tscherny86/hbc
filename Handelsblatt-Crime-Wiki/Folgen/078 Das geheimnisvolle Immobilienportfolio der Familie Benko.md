@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 43:02 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6bo71rhEuxlb8LhzDYvi3N) · [MP3](https://audio.podigee-cdn.net/1457018-m-a90b37d4b2cccb27b6e2636c002a05cf.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/78-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Signa und René Benko]] |
+| **Themen** | [[Insolvenz]], [[Bankrott und Vermögensverschleierung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Martin Murphy]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

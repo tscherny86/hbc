@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:06:36 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3XWbQBgFgR3LbKk2XkzZXN) · [MP3](https://audio.podigee-cdn.net/1408607-m-8e82500db09a66870a2ea7446658369e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/71-veltins-erbstreit) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Erbstreit Veltins]] |
+| **Themen** | [[Erbstreit]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Christian Heinemann]] |
 | **Kurz erwähnt** | – |

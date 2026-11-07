@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 40:31 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/667FJEbljRO5gV8X7OckSO) · [MP3](https://audio.podigee-cdn.net/1261814-m-5590906684eec4046c7653a937a9427d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/59-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Sympatex-Betrug]] |
+| **Themen** | [[Betrug]], [[Anlegerbetrug]], [[Insolvenz]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

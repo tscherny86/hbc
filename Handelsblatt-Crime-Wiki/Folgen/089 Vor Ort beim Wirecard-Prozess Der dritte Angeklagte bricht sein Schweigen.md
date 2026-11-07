@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 59:14 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC) · [MP3](https://audio.podigee-cdn.net/1520148-m-0c1ccee85af16608d25859ded0cca31b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/89-wirecard-von-erffa) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]] |
+| **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

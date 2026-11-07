@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 39:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY) · [MP3](https://audio.podigee-cdn.net/1600527-m-17b0dc3921a5900c8ebc432b59da375d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/99-german-property-group) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Charles Smethurst und die German Property Group]] |
+| **Themen** | [[Betrug]], [[Anlegerbetrug]], [[Insolvenzverwalter]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

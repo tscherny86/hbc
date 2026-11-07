@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 48:49 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7Kbzj3ZmajXcIPDLM4bO8O) · [MP3](https://audio.podigee-cdn.net/2175147-m-e28d6e06ac7aba557c20172b32e231b9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/131-henry-o-sullivan-der-schattenmann-im-wirecard-skandal) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Hermes-Deal (Wirecard in Indien)]], [[Marsalek und das russische Spionagenetzwerk]], [[Henry O’Sullivan]] |
+| **Themen** | [[Insolvenz]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

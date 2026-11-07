@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:04:33 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs) · [MP3](https://audio.podigee-cdn.net/2428416-m-44bafc119526dd956886f0e3eb867212.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/144-der-absturz-des-wolf-of-high-street-uwe-reppegather-und-seine-centrum) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Prominente und die Steuerfahndung]], [[Wolf of High Street – Uwe Reppegather und Centrum]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untreue]], [[Immobilienkrise]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

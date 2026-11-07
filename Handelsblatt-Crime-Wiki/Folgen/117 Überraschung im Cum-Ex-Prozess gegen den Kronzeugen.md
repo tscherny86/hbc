@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 19:06 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/00mxgOadjAKFJoeNoUoeeU) · [MP3](https://audio.podigee-cdn.net/1956956-m-6fb9aca7bdf9f08aec00b0b1d133d3a6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/117-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Kai-Uwe Steck]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:39:14 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4Cki8k62paZklDEMGJmhnU) · [MP3](https://audio.podigee-cdn.net/1562728-m-050f4a553e742091fcb9252c0e10cc5f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/95-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Landesbanken im Cum-Ex-Skandal]], [[Warburg Bank und Christian Olearius]], [[LBBW-Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]], [[Vergleich und Bußgeld]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 21
+folgen: 22
 tags: [personen]
 ---
 # Michael Verfürden
@@ -14,8 +14,13 @@ _Investigativ-Redakteur; Tesla-Files, Datenlecks und Technologiekonzerne._
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (21)
+> … Studio ist Lars Mattennagel aus dem Investigativteam. Zusammen mit seinem Kollegen Michael Verfürden und Katrin Witsch, die beim Handelsblatt über erneuerbare Energien berichtet, hat er damals den Fall recherchiert. Noch bevor der Prozess überhaupt …
+>
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:39](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=99) · [[Transkript 158#Minute 1|im Transkript]]
+
+## In diesen Folgen (22)
 
 - [[034 Cyberangriff auf Continental So lief der spektakuläre Datendiebstahl bei dem Dax-Konze|#34 – Cyberangriff auf Continental: So lief der spektakuläre Datendiebstahl bei dem Dax-Konzern ab]] (2023-01-15) — Shownotes
 - [[045 Tesla-Files Die Hintergründe zum Datenleck|#45 – Tesla-Files: Die Hintergründe zum Datenleck]] (2023-06-04) — Shownotes
@@ -38,6 +43,7 @@ _Investigativ-Redakteur; Tesla-Files, Datenlecks und Technologiekonzerne._
 - [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131 – Henry O’Sullivan: Der Schattenmann im Wirecard-Skandal]] (2025-11-30) — Shownotes
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [1:39](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=99)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

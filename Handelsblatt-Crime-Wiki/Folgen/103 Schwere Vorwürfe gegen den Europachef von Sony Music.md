@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 49:33 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1bMWqeLtRobS2VD1eTho2V) · [MP3](https://audio.podigee-cdn.net/1658630-m-fe984f0454196070b7191834c1ee0199.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/103-schwere-vorwuerfe-sony-music) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Sony Music und Daniel Lieberberg]] |
+| **Themen** | [[Compliance]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Martin Murphy]] |
 | **Kurz erwähnt** | – |

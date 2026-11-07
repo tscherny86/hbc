@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 36:38 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/77tplBZbRshgJSKt1CTKqg) · [MP3](https://audio.podigee-cdn.net/704283-m-b70685b84c47243d97c6557aa2f64e64.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/10-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Russische Oligarchen und Sanktionen]], [[Megajachten-Sanktionen]] |
+| **Themen** | [[Korruption und Bestechung]], [[Sanktionen]] |
 | **Unternehmen** | – |
 | **Personen** | [[Martin Murphy]] |
 | **Kurz erwähnt** | – |

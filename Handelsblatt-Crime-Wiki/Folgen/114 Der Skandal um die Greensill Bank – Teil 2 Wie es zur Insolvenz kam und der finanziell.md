@@ -20,7 +20,7 @@ tags: [folge, jahr-2025, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7tB2yzvZvVE8X8uH89bLvE) · [MP3](https://audio.podigee-cdn.net/1895584-m-6e40222c9cca5ffb983f0f8641ec37c3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/114-skandal-um-die-greensill-bank) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
-| **Themen** | – |
+| **Themen** | [[Anlegerbetrug]], [[Insolvenz]], [[Insolvenzverwalter]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

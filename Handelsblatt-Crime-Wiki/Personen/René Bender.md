@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 28
+folgen: 27
 tags: [personen]
 ---
 # René Bender
@@ -15,7 +15,7 @@ _Investigativ-Redakteur; Immobilien, Benko/Signa und Finanzskandale._
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (28)
+## In diesen Folgen (27)
 
 - [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes
 - [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes
@@ -44,7 +44,6 @@ _Investigativ-Redakteur; Immobilien, Benko/Signa und Finanzskandale._
 - [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes
 - [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
-- [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

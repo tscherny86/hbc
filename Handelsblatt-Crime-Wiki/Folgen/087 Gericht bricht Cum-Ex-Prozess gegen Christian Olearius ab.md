@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 33:46 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0Q1z3cw1bxQjb2p61SsyyQ) · [MP3](https://audio.podigee-cdn.net/1512940-m-2491f19aa9e6ee24e57c88f12b7369eb.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/87-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

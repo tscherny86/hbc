@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 42:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6jRjRR1ylizu2TDVQJZ8mT) · [MP3](https://audio.podigee-cdn.net/806816-m-2b110b26e0be46c84c1bb32186f2df40.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/17-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
+| **Themen** | [[Betrug]], [[Abgasmanipulation]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 19:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6) · [MP3](https://audio.podigee-cdn.net/1600526-m-8d597b297e24d27f531e33cc7590a338.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/98-sympatex-update) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Sympatex-Betrug]] |
+| **Themen** | [[Betrug]], [[Untreue]], [[Marktmanipulation]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

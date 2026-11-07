@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 51:32 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4ancp96epRtxKU4KGEXnzY) · [MP3](https://audio.podigee-cdn.net/1224026-m-97b4564356c80faef4addefd3f18b82e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/56-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

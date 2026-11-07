@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 52:10 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2qaQNlmviyilnZUTk4CjBV) · [MP3](https://audio.podigee-cdn.net/827130-m-6d88c511b6e9984084bd0795807878d1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/22-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Landesbanken im Cum-Ex-Skandal]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

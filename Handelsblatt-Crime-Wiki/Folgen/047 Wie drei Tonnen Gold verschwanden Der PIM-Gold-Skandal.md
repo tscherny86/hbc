@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 45:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4MQ9XvfLTxQ30aBfEtZdBd) · [MP3](https://audio.podigee-cdn.net/1133682-m-de6ae767203d127d0f689e5042e0a9f4.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/47-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[PIM Gold]] |
+| **Themen** | [[Betrug]], [[Anlegerbetrug]], [[Schneeballsystem]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

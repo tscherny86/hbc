@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 40:26 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/28SMsWKn1Crmvv690uSa2H) · [MP3](https://audio.podigee-cdn.net/918188-m-51c82b19914cf2f648e1872b973e5c7f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/32-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Landesbanken im Cum-Ex-Skandal]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

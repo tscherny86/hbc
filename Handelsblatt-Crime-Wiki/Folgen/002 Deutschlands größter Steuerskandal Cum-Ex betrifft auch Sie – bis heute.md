@@ -19,8 +19,8 @@ tags: [folge, jahr-2021, folge]
 | **Dauer** | 39:05 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6y9jplLVetIZb1YwHZuMLH) · [MP3](https://audio.podigee-cdn.net/616704-m-96d245272563808a3cc2e9173cdc05c7.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/2-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Prominente und die Steuerfahndung]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Private Equity]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

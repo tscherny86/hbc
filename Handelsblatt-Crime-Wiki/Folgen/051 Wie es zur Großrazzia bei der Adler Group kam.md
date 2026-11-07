@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 36:07 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4lK6ioLd8wIHcEnHid37G1) · [MP3](https://audio.podigee-cdn.net/1173154-m-baa93bd54cdeb433e62e8d926e6e9a8c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/51-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Adler Group]] |
+| **Themen** | [[Insolvenz]], [[Untreue]], [[Bilanzfälschung]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

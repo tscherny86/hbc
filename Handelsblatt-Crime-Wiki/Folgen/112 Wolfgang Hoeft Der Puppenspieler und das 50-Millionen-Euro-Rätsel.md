@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 1:01:12 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE) · [MP3](https://audio.podigee-cdn.net/1829209-m-11d8098cfa4dbcf7cc73ff4c465964b3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/112-wolfgang-hoeft-der-puppenspieler-und-das-50-millionen-euro-ratsel) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wolfgang Hoeft und die MW-Gruppe]] |
+| **Themen** | [[Schneeballsystem]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

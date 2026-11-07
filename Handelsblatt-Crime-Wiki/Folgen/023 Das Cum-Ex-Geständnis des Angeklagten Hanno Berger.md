@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 27:05 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4EyZ8x7fNAz7RmBpKZbTKl) · [MP3](https://audio.podigee-cdn.net/836893-m-3caee71815962241502f4d8683fad93c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/23-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

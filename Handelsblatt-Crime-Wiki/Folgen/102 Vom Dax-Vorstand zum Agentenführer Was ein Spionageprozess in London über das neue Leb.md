@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 44:13 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz) · [MP3](https://audio.podigee-cdn.net/1658619-m-9e52779423cb29775a075e95d0f10fcf.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/102-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
+| **Themen** | [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

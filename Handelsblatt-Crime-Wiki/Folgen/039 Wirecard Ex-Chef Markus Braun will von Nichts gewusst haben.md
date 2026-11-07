@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 35:34 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7maIZX1Z1N1CvfebDpfqfg) · [MP3](https://audio.podigee-cdn.net/1016581-m-341c2b6d25ef187f1b28574374449208.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/39-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Untreue]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Vinzenz Neumaier]], [[René Bender]] |
 | **Kurz erwähnt** | – |

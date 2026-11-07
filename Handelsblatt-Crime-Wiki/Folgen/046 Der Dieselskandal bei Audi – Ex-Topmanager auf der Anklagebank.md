@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 49:47 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2pBdp0SwjRNYPWMwLAJ2gE) · [MP3](https://audio.podigee-cdn.net/1133679-m-f15359913bc3781fccb24ac7da832bd1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/46-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
+| **Themen** | [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

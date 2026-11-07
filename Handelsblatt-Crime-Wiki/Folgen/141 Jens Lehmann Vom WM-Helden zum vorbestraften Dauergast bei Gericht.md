@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:03:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1ATkqrQ0CYvqjqE04onkwd) · [MP3](https://audio.podigee-cdn.net/2353884-m-f45ca41bbae41e0d98759d09453a1781.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/141-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Jens Lehmann]] |
+| **Themen** | [[Betrug]], [[Steuerhinterziehung]], [[Steuerfahndung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Volker Votsmeier]], [[René Bender]] |
 | **Kurz erwähnt** | – |

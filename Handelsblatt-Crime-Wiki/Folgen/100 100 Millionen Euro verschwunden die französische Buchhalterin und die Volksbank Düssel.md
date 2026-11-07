@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 38:38 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/05hjAwKe4EXsQpvG4nus3N) · [MP3](https://audio.podigee-cdn.net/1600528-m-7ceddd789549df8a15700e3f0f2d1dce.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/100-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Buchhalterin und Volksbank Düsseldorf Neuss]] |
+| **Themen** | [[Betrug]], [[Untreue]], [[Geldwäsche]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]] |
 | **Kurz erwähnt** | – |

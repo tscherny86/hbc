@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 56:00 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3lOHRRodZUkylcbFqutUbF) · [MP3](https://audio.podigee-cdn.net/1142994-m-573b576420a0bc36b8e98fdcf12a5626.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/48-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Korrupter Oberstaatsanwalt Badle]] |
+| **Themen** | [[Untreue]], [[Korruption und Bestechung]], [[Steuerhinterziehung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Volker Votsmeier]], [[René Bender]] |
 | **Kurz erwähnt** | – |

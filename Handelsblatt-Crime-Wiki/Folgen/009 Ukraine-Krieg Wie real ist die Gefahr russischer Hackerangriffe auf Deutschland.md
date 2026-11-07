@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 37:19 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI) · [MP3](https://audio.podigee-cdn.net/689322-m-898490d7959fd1223a7f113b94561c7e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/9-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Hackerangriffe im Ukraine-Krieg]], [[BSI-Affäre Schönbohm]] |
+| **Themen** | [[Cyberangriff und Ransomware]], [[Erpressung]], [[Windkraft-Projektentwicklung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Martin Murphy]] |
 | **Kurz erwähnt** | – |

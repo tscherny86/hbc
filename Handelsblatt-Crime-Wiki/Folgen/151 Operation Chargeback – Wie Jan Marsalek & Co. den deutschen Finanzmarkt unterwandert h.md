@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 59:26 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf) · [MP3](https://audio.podigee-cdn.net/2505522-m-44869c663cfe836fb36b10ba4ca972da.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/151-operation-chargeback-wie-jan-marsalek-co-den-deutschen-finanzmarkt-unterwandert-haben-sollen) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Operation Chargeback]] |
+| **Themen** | [[Bankrott und Vermögensverschleierung]], [[Geldwäsche]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

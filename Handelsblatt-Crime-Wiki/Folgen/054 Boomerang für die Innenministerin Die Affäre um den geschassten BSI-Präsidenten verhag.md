@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 54:07 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd) · [MP3](https://audio.podigee-cdn.net/1192777-m-3aec6d44ed0cb2cf330af15c463488f9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/54-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[BSI-Affäre Schönbohm]] |
+| **Themen** | [[Spionage]], [[Cyberangriff und Ransomware]] |
 | **Unternehmen** | – |
 | **Personen** | [[Lars-Marten Nagel]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

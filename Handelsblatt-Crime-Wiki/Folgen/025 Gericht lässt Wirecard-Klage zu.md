@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 45:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5g9rlcbYheamI9MKFM8m7o) · [MP3](https://audio.podigee-cdn.net/858713-m-4b90bf14334181093ef62c861c00bc41.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/25-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[EY im Wirecard-Skandal]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Betrug]], [[Untreue]], [[Geldwäsche]], [[Bilanzfälschung]], [[Marktmanipulation]], [[Kronzeuge]], [[Untersuchungshaft]], [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

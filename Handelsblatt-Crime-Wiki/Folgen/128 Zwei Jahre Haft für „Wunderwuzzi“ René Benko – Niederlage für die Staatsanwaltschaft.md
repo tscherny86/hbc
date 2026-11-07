@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 42:46 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3dN74ySnhWDZ9MFgCGceus) · [MP3](https://audio.podigee-cdn.net/2100565-m-1ab5571620642d81ab07adc708ce1a96.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/128-zwei-jahre-haft-fur-wunderwuzzi-rene-benko-niederlage-fur-die-staatsanwaltschaft) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Signa und René Benko]] |
+| **Themen** | [[Insolvenz]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

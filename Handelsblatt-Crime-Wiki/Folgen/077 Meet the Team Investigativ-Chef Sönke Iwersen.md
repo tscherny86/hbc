@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, team]
 | **Dauer** | 14:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3F6JIZos9kHqIkHCowB8r1) · [MP3](https://audio.podigee-cdn.net/1442300-m-b5e1e6d6fa8fc63729d14d75b02f6eb1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/77-meet-team-soenke-iwersen) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Ergo-Lustreisen]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Pressefreiheit und Presserecht]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

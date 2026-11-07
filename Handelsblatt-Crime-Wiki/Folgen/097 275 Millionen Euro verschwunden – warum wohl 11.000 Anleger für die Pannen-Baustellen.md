@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:09:39 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3nBxE06KJKXvDKy4X1dPC4) · [MP3](https://audio.podigee-cdn.net/1577425-m-0cb5e9989d424449d336efed34eac823.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/97-soravia-one-group) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Soravia-Gruppe und One Group]] |
+| **Themen** | [[Insolvenzverwalter]], [[Immobilienkrise]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 1:12:19 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0ldT1kvhOynqjeHJRnCcd9) · [MP3](https://audio.podigee-cdn.net/1249006-m-0a01cc6cf42c58bbf10625e314eac7a2.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/58-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Tesla-Files]] |
+| **Themen** | [[Whistleblower]], [[Spionage]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

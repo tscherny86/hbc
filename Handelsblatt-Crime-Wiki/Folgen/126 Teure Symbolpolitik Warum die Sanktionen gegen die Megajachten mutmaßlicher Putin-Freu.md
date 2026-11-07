@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 55:59 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1qjk0QV4hfe9xkj6kcRz5M) · [MP3](https://audio.podigee-cdn.net/2070830-m-1db0d0e3031bb078f5507982c55491a9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/126-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Megajachten-Sanktionen]] |
+| **Themen** | [[Sanktionen]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

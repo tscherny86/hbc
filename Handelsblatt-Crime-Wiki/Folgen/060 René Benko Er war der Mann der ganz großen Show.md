@@ -19,7 +19,7 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 53:59 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4pN9Do9KalkyQQzkMXxw1L) · [MP3](https://audio.podigee-cdn.net/1272551-m-87888866c4fb205cc2c66b8fc07ff544.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/60-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
+| **Fälle** | [[Signa und René Benko]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | [[René Bender]] |

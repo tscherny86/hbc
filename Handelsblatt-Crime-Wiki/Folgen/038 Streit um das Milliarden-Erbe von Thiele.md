@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 53:56 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6Ye4utrAM3FLbnTMLNIsYy) · [MP3](https://audio.podigee-cdn.net/991207-m-9d1390f8e2fba858ce50cfc76e21b1ca.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/38-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Erbstreit Thiele]] |
+| **Themen** | [[Erbstreit]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

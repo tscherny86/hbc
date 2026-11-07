@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 50:55 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2uzIU4BK9ksiZhJSOOCmoy) · [MP3](https://audio.podigee-cdn.net/1526362-m-0933ca0c53c04eb4db1de1bf3d2584f4.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/90-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Porsche-Ikone vor Gericht]] |
+| **Themen** | [[Insolvenz]], [[Steuerfahndung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

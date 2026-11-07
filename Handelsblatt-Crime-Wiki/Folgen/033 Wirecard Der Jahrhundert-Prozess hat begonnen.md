@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 1:02:13 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/56pwfrWyKIGbnh7KscsU9A) · [MP3](https://audio.podigee-cdn.net/958043-m-3c782fccc96f31822306dd680fc82568.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/33-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]] |
+| **Themen** | [[Kronzeuge]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Felix Holtermann]] |
 | **Kurz erwähnt** | – |

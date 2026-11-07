@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 1:22:40 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3FoZTyIuIWGxyhOOoakwgk) · [MP3](https://audio.podigee-cdn.net/2175146-m-4ac4f5f9031c593f822f82da2cede671.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/130-fruhere-cum-ex-chefermittlerin-anne-brorhilker-die-finanzbranche-leistet-sich-einen-unglaublichen-lobbyapparat) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

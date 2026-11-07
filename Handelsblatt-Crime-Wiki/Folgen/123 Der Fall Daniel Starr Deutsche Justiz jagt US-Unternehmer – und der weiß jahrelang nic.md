@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 42:52 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2wtFM1BKTJZBgiJocdNG8V) · [MP3](https://audio.podigee-cdn.net/2028187-m-0a2105a4433c7599a933be4a147d697f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/123-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Daniel Starr]] |
+| **Themen** | [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

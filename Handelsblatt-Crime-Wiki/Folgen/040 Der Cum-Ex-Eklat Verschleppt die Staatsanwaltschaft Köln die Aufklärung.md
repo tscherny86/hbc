@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 50:03 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg) · [MP3](https://audio.podigee-cdn.net/1020394-m-81bfa779d0920941ff83402f50d7892c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/40-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Insolvenzverschleppung]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

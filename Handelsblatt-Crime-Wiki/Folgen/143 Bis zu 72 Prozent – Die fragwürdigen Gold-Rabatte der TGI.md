@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:00:59 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0sffIDcbYOVyzMwKwfO20q) · [MP3](https://audio.podigee-cdn.net/2416243-m-11c20db9026845f9e2b1843c4aa263db.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/143-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[PIM Gold]], [[TGI-Gold (Helmut Kaltenegger)]] |
+| **Themen** | [[Goldanlage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

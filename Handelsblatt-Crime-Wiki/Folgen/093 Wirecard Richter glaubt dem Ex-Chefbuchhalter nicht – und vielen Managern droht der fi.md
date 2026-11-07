@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 43:48 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2C8T7EblyRohRDjJlo55rL) · [MP3](https://audio.podigee-cdn.net/1557660-m-20d8ee134afb661940643030d2806aee.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/93-wirecard-managerversicherung) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]] |
+| **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Volker Votsmeier]], [[René Bender]] |
 | **Kurz erwähnt** | – |

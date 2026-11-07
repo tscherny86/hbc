@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:13:23 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7BD4vtYCujiEc5IFS9z8xZ) · [MP3](https://audio.podigee-cdn.net/1562726-m-39c10fdea8941f84cf6246cf2612290d.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/94-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Prominente und die Steuerfahndung]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

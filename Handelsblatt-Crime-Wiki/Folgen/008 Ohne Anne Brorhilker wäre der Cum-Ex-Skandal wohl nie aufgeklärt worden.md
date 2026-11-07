@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 51:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6WR6XWm6UTwmqyddC2j1Ub) · [MP3](https://audio.podigee-cdn.net/676532-m-77044c77615416ad0adc84fb950ff8ac.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/8-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

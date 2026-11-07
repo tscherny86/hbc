@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 1:13:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0dXEIlFFitnCSpSkX2d0oq) · [MP3](https://audio.podigee-cdn.net/1302662-m-344bc86c263f47c2dad4364ca7acab26.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/64-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Adler Group]], [[Cyberangriff auf Continental]], [[Tesla-Files]], [[Signa und René Benko]], [[Continental-Dieselskandal]] |
+| **Themen** | [[Whistleblower]], [[Datenleck]], [[Immobilienkrise]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

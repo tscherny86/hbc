@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:02:35 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM) · [MP3](https://audio.podigee-cdn.net/1457106-m-95e2e77fce858e3a8ed8f3b97d7303b6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/80-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Staatstrojaner-Fall]] |
+| **Themen** | [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

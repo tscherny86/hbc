@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:06:09 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss) · [MP3](https://audio.podigee-cdn.net/1457109-m-01c894c6cef3830b03908ada40df2636.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/82-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Schlecker-Insolvenz]] |
+| **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Bankrott und Vermögensverschleierung]], [[Untreue]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

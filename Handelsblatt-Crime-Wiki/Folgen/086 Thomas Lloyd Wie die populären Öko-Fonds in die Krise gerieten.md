@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:05:27 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1) · [MP3](https://audio.podigee-cdn.net/1482076-m-c3742b6f7e14c5d4feb88c1d951957ab.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/86-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Thomas Lloyd]] |
+| **Themen** | [[Anlegerbetrug]], [[Wirtschaftsprüfung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

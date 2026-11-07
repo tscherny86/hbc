@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:05:02 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2AE6G6yGV00W1HqBoiQQe3) · [MP3](https://audio.podigee-cdn.net/1658614-m-cbd3acb088daeffe61af8cabfe0e01e6.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/101-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Very Private Equity (Triton)]] |
+| **Themen** | [[Private Equity]], [[Pressefreiheit und Presserecht]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

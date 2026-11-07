@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 31:05 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4ecPYz7gYsq9OsC4dRjB67) · [MP3](https://audio.podigee-cdn.net/2228305-m-84715acaabb6476d8f88d8e1e310e161.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/135-justiziare-jahresr-ckblick) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]] |
+| **Themen** | [[Pressefreiheit und Presserecht]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

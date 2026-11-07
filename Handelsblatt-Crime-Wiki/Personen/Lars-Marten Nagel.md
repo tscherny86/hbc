@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 26
+folgen: 23
 tags: [personen]
 ---
 # Lars-Marten Nagel
@@ -15,7 +15,7 @@ _Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenze
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (26)
+## In diesen Folgen (23)
 
 - [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes
 - [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes
@@ -40,9 +40,6 @@ _Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenze
 - [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes
 - [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Shownotes
-- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes
-- [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes
-- [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Shownotes
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

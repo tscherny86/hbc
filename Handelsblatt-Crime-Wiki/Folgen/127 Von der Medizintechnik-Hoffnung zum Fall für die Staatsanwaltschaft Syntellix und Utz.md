@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 1:14:24 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v) · [MP3](https://audio.podigee-cdn.net/2100563-m-f22620a28786c5f2f3b244f6d3d7acd9.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/127-syntellix-und-utz-claassen) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Syntellix und Utz Claassen]] |
+| **Themen** | [[Betrug]], [[Insolvenzverschleppung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[René Bender]] |
 | **Kurz erwähnt** | – |

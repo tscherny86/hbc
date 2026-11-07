@@ -20,7 +20,7 @@ tags: [folge, jahr-2025, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I) · [MP3](https://audio.podigee-cdn.net/1970615-m-88b75cc0f3985223148d5eb2c573da51.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/118-insolvenz-der-groner-group-der-tiefe-sturz-eines-baulowen) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
-| **Themen** | – |
+| **Themen** | [[Insolvenz]], [[Insolvenzverschleppung]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | – |

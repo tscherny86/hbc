@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 52:50 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1ue2TsG2fqyTcLBhrZbdrf) · [MP3](https://audio.podigee-cdn.net/813031-m-b9da8e344ae452496f43f5e618aeca36.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/20-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Landesbanken im Cum-Ex-Skandal]], [[HSH Nordbank und Cum-Ex]], [[LBBW-Cum-Ex]], [[HSH Nordbank (Cum-Ex)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

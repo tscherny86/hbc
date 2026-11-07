@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 59:19 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3hq5oK3HbzWRXIuQOHSFwj) · [MP3](https://audio.podigee-cdn.net/2145579-m-ff3ad00d532f4c47601b8ffc0b94ff35.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/129-hotels-reisen-dienstwagen-spesenskandal-bei-der-fraunhofer-gesellschaft) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Fraunhofer-Spesenaffäre]] |
+| **Themen** | [[Untreue]], [[Staatsanwaltschaft und Strafprozess]], [[Compliance]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

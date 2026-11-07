@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:11:11 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn) · [MP3](https://audio.podigee-cdn.net/2547791-m-e6492960611122c756a1b9b2a630ee84.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/156-neue-episode-23-08) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Teldafax]] |
+| **Themen** | [[Betrug]], [[Insolvenz]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Christian Heinemann]] |
 | **Kurz erwähnt** | – |

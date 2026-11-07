@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:01:57 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q) · [MP3](https://audio.podigee-cdn.net/2505523-m-f2fac49e02aa21bf1222decfe2308b1b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/152-deutsche-finance) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Deutsche Finance Gruppe]] |
+| **Themen** | [[Anlegerbetrug]], [[Wirtschaftsprüfung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |

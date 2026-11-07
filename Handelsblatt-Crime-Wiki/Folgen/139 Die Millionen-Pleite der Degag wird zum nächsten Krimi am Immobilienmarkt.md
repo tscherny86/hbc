@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 59:02 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b) · [MP3](https://audio.podigee-cdn.net/2328738-m-fd851a90dc3142b75bd83a083c16be51.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/139-die-millionen-pleite-der-degag-wird-zum-nachsten-krimi-am-immobilienmarkt) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Marsalek und das russische Spionagenetzwerk]], [[Degag-Pleite]] |
+| **Themen** | [[Anlegerbetrug]], [[Insolvenz]], [[Insolvenzverwalter]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Christian Heinemann]] |
 | **Kurz erwähnt** | – |

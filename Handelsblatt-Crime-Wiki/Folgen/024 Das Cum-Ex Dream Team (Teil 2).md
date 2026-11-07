@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 58:16 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0xeMtjj5CMnUVPwd6G3V0T) · [MP3](https://audio.podigee-cdn.net/858712-m-a2b2e8ab935c773ad7040f0fa9e66f39.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/24-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 58:56 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7a7pOpjNeopmAF3W0IYGO7) · [MP3](https://audio.podigee-cdn.net/2228304-m-7def32bcceac78a3747fb9cea3c6e2eb.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/134-der-falsche-baron-von-thyssen-krupp) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Falscher Baron von Krupp]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Hochstapler]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]] |
 | **Kurz erwähnt** | – |

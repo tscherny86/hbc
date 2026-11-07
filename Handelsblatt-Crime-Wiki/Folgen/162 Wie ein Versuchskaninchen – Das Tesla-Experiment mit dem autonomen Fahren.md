@@ -19,11 +19,11 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:01:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh) · [MP3](https://audio.podigee-cdn.net/2588691-m-5c303f5e6f2e1f37e4cffc3459643cdb.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/162-wie-ein-versuchskaninchen-das-tesla-experiment) |
 | **Transkript** | [[Transkript 162]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]], [[Tesla-Experiment (autonomes Fahren)]], [[Tesla-Autopilot-Prozess (Benavides)]] |
+| **Themen** | [[Whistleblower]], [[Datenleck]], [[Autonomes Fahren]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]] |
-| **Kurz erwähnt** | – |
+| **Kurz erwähnt** | [[Wirecard]] |
 
 ## Shownotes
 

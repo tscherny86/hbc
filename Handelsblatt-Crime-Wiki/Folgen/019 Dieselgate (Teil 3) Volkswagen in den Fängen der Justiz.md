@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 54:37 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1SLSgCDu7CY3PjWTRggQIU) · [MP3](https://audio.podigee-cdn.net/806896-m-46414b6582f34427a5d5f602eaa48e8b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/19-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Dieselgate (Volkswagen)]], [[Audi-Dieselskandal]] |
+| **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Abgasmanipulation]], [[Vergleich und Bußgeld]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

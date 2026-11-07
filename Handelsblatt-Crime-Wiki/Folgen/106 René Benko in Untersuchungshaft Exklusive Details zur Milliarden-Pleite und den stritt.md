@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 1:08:10 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/07aBDmvpBH4AA8YwVcsZkM) · [MP3](https://audio.podigee-cdn.net/1740156-m-e832a3db0374399324ab9fd9fca94b5e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/106-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Signa und René Benko]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untreue]], [[Korruption und Bestechung]], [[Untersuchungshaft]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |

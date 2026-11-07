@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 46:37 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0mXTQEE5eBFD3qDxLzHtKJ) · [MP3](https://audio.podigee-cdn.net/909329-m-acf5f78ec35606de857e51a7989c8657.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/29-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Adler Group]] |
+| **Themen** | [[Betrug]], [[Marktmanipulation]], [[Wirtschaftsprüfung]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

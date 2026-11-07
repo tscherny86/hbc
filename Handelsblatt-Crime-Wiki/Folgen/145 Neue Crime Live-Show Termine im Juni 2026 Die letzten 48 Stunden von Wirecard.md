@@ -19,7 +19,7 @@ tags: [folge, jahr-2026, hinweis]
 | **Dauer** | 0:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4d7PX76IOZXvxgMR6K5ew9) · [MP3](https://audio.podigee-cdn.net/2450585-m-8a0934842ba9ed55a74c5733ac5be6c1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/145-crime-live-show-frankfurt-k-ln-hamburg-neu) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | – |

@@ -19,7 +19,7 @@ tags: [folge, jahr-2025, sonder]
 | **Dauer** | 29:21 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0bA7WBtDXNdcjwjwvWHRaQ) · [MP3](https://audio.podigee-cdn.net/2091589-m-3f3fa0361dfe126fde8cc8f56daaf11c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/124-arrested-at-the-airport) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
+| **Fälle** | [[Daniel Starr]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |

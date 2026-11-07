@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, team]
 | **Dauer** | 12:24 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3EyE9Hn100zkOmBkWStyUM) · [MP3](https://audio.podigee-cdn.net/1457110-m-bbf05dc36bf15c224bae9382afc8929c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/83-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Falscher Baron von Krupp]] |
+| **Themen** | [[Insolvenz]], [[Korruption und Bestechung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Martin Murphy]] |
 | **Kurz erwähnt** | – |

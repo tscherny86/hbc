@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 43:45 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2zN8vupg1qkOcMbSBRStC7) · [MP3](https://audio.podigee-cdn.net/722603-m-6138f708bcebd943afb8fc9d9e934a65.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/13-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Ergo-Lustreisen]] |
+| **Themen** | [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:09:00 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5cdWDNVhUkqSmUE112xM1h) · [MP3](https://audio.podigee-cdn.net/1373647-m-6aff58521e55524126bf68431cf3f311.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/69-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Insolvenz]], [[Kronzeuge]], [[Untersuchungshaft]], [[Spionage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

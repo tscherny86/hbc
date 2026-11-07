@@ -19,7 +19,7 @@ tags: [folge, jahr-2024, team]
 | **Dauer** | 11:01 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM) · [MP3](https://audio.podigee-cdn.net/1419644-m-2b0b6c90de007023debc170ebee6264e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/73-rene-bender) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
+| **Fälle** | [[Wirecard]], [[Signa und René Benko]], [[Porsche-Ikone vor Gericht]] |
 | **Themen** | – |
 | **Unternehmen** | – |
 | **Personen** | [[René Bender]] |

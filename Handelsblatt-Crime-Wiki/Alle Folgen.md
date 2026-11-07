@@ -6,11 +6,11 @@
 |---|---|---|---|
 | [[166 Podcast-Tipp Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet\|#166 – Podcast-Tipp: Made in Berlin – Wirtschaftspolitik und was sie für euch bedeutet]] | 2026-11-05 | 1:24 | ✅ |
 | [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren\|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] | 2026-11-01 | 1:01:04 | ✅ |
-| [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW\|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] | 2026-10-18 | 1:02:08 | – |
-| [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling\|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] | 2026-10-04 | 52:26 | – |
-| [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage\|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] | 2026-09-21 | 28:48 | – |
-| [[158 Hendrik Holt – Windparkbetrüger auf der Flucht\|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] | 2026-09-20 | 1:11:09 | – |
-| [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert\|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] | 2026-09-06 | 51:10 | – |
+| [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW\|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] | 2026-10-18 | 1:02:08 | ✅ |
+| [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling\|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] | 2026-10-04 | 52:26 | ✅ |
+| [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage\|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] | 2026-09-21 | 28:48 | ✅ |
+| [[158 Hendrik Holt – Windparkbetrüger auf der Flucht\|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] | 2026-09-20 | 1:11:09 | ✅ |
+| [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert\|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] | 2026-09-06 | 51:10 | ✅ |
 | [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam\|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] | 2026-08-23 | 1:11:11 | – |
 | [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H\|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] | 2026-08-09 | 1:09:04 | – |
 | [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,\|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] | 2026-08-02 | 47:28 | – |

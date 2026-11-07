@@ -19,8 +19,8 @@ tags: [folge, jahr-2022, folge]
 | **Dauer** | 44:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4ZDLYMPCTNPxYWfyP4Th8Z) · [MP3](https://audio.podigee-cdn.net/749399-m-c2c70ca448172c1597da3106f8cf6279.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/14-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

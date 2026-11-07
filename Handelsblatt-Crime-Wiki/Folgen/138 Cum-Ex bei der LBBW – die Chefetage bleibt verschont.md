@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:16:33 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA) · [MP3](https://audio.podigee-cdn.net/2262588-m-fee10df737e609421f5ac372c32eb0a8.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/138-cum-ex-bei-der-lbbw-die-chefetage-bleibt-verschont) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Landesbanken im Cum-Ex-Skandal]], [[LBBW-Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]], [[Christian Heinemann]] |
 | **Kurz erwähnt** | – |

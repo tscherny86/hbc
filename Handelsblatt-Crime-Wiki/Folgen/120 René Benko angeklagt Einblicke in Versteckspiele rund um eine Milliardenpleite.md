@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 57:11 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2qkLD5wmF98pGsGOLe6Fom) · [MP3](https://audio.podigee-cdn.net/1984457-m-fd9d9d9c341d66910f6d644b241e262a.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/120-) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Signa und René Benko]] |
+| **Themen** | [[Betrug]], [[Insolvenz]], [[Bankrott und Vermögensverschleierung]], [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]], [[Goldanlage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | – |

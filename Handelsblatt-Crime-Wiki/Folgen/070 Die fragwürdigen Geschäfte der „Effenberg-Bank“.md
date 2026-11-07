@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 32:43 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/7rkwmff6z6yd3FXrZDAESm) · [MP3](https://audio.podigee-cdn.net/1379295-m-f34f6a29d91e9a1ede00ca2435eae2e1.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/70-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Effenberg-Bank]] |
+| **Themen** | [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Volker Votsmeier]], [[Vinzenz Neumaier]] |
 | **Kurz erwähnt** | – |

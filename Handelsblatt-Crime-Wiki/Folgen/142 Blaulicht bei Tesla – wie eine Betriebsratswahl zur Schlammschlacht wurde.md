@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:19:14 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/50DFRSXIX19oHmHKxVFvVf) · [MP3](https://audio.podigee-cdn.net/2353885-m-e804aee86c99063a12e2f7c76912392c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/142-blaulicht-bei-tesla-wie-eine-betriebsratswahl-zur-schlammschlacht-wurde) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]] |
+| **Themen** | [[Betriebsrat und Mitbestimmung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 17:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2IGUAqds3gEM7fTAbM64an) · [MP3](https://audio.podigee-cdn.net/1168241-m-0b7ae22946b032c68846d7144ca1883c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/50-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Marsalek-Brief]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Themen** | [[Bilanzfälschung]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

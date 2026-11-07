@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:21 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5gugZ6Q0gmW249XVwUIcLH) · [MP3](https://audio.podigee-cdn.net/2484449-m-02fd481463fd6a6f290366f2de79f6dd.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/149-update-fur-handelsblatt-crime-live-wir-legen-nach) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Wirecard]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Bilanzfälschung]], [[Falschaussage]] |
 | **Unternehmen** | – |
 | **Personen** | [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

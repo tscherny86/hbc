@@ -20,7 +20,7 @@ tags: [folge, jahr-2024, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4FxMteOKnFTw02EWhNYgGw) · [MP3](https://audio.podigee-cdn.net/1566533-m-1c607589682f3a508fe5d97b4ad6aad4.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/96-christoph-groener-interview) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | – |
-| **Themen** | – |
+| **Themen** | [[Insolvenz]], [[Steuerfahndung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Michael Verfürden]], [[René Bender]] |
 | **Kurz erwähnt** | – |

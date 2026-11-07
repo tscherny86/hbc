@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 15:38 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4DjtArI1sSfV17GqNmDqhP) · [MP3](https://audio.podigee-cdn.net/1444677-m-620b56df2b37c22fc40b7d851598ba33.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/75-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | – |

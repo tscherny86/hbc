@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 47:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x) · [MP3](https://audio.podigee-cdn.net/1759423-m-fdf59db1a2630d673895b319cc51ac6b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/107-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Sympatex-Betrug]] |
+| **Themen** | [[Untersuchungshaft]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[René Bender]] |
 | **Kurz erwähnt** | – |

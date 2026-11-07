@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:06:35 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/1DASGD0CfUgeUGMz9SARUx) · [MP3](https://audio.podigee-cdn.net/1359100-m-57b986e45bd78cd6e3f1cbfada900b11.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/68-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Picam]] |
+| **Themen** | [[Betrug]], [[Schneeballsystem]], [[Untreue]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 1:09:35 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2hJbzyzt309XxMM9a3dyGw) · [MP3](https://audio.podigee-cdn.net/1439134-m-4540a62c766f64a540553e331842e37e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/76-cum-ex-kronzeuge) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Kronzeuge Benjamin Frey]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

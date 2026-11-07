@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 21:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5) · [MP3](https://audio.podigee-cdn.net/1219637-m-05ef8834224477ad558abb371d1c43d0.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/55-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

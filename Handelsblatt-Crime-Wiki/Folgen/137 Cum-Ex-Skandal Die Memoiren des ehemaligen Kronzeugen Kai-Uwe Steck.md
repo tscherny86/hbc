@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 1:32:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4rZ26pIuCH2Q1uZjFW9dwi) · [MP3](https://audio.podigee-cdn.net/2262586-m-39b23949410980aff50acb4040ab4ead.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/137-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Kronzeuge Benjamin Frey]], [[Wirecard]], [[Kai-Uwe Steck]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Kronzeuge]], [[Staatsanwaltschaft und Strafprozess]], [[Strafverteidigung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Sönke Iwersen]], [[Volker Votsmeier]] |
 | **Kurz erwähnt** | – |

@@ -19,8 +19,8 @@ tags: [folge, jahr-2023, folge]
 | **Dauer** | 50:28 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/77M0RiT05xy2e92n0OkjEb) · [MP3](https://audio.podigee-cdn.net/1036566-m-f6e0d8ca89013342d515e42eec624a05.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/41-new-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Erbstreit Dussmann]] |
+| **Themen** | [[Erbstreit]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

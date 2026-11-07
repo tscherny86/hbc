@@ -19,8 +19,8 @@ tags: [folge, jahr-2024, folge]
 | **Dauer** | 56:09 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B) · [MP3](https://audio.podigee-cdn.net/1692000-m-0579e95c1807c6a80b80fc1491cbc880.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/104-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Very Private Equity (Triton)]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Insolvenz]], [[Steuerhinterziehung]], [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
 | **Personen** | – |
 | **Kurz erwähnt** | – |

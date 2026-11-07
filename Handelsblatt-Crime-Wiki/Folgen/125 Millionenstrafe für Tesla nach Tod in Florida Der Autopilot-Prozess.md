@@ -19,8 +19,8 @@ tags: [folge, jahr-2025, folge]
 | **Dauer** | 50:29 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc) · [MP3](https://audio.podigee-cdn.net/2028188-m-f7ff786024ca10fb96cf706a278b945b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/125-tesla-autopilot-urteil) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Tesla-Files]], [[Tesla-Betriebsratswahl Grünheide]], [[Tesla-Autopilot-Prozess (Benavides)]] |
+| **Themen** | [[Datenleck]], [[Autonomes Fahren]], [[Betriebsrat und Mitbestimmung]] |
 | **Unternehmen** | – |
 | **Personen** | [[Solveig Gode]], [[Sönke Iwersen]], [[Michael Verfürden]] |
 | **Kurz erwähnt** | – |

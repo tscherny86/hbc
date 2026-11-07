@@ -19,8 +19,8 @@ tags: [folge, jahr-2026, folge]
 | **Dauer** | 52:21 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL) · [MP3](https://audio.podigee-cdn.net/2453088-m-a787bf6ffab7e33ecdd0ca0967d17894.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/147-ende-eines-alaska-abenteuers-warum-olbaron-kay-rieck-ins-gefangnis-muss) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | – |
-| **Themen** | – |
+| **Fälle** | [[Wirecard]], [[Alaska-Ölbohrungen (Kay Rieck)]] |
+| **Themen** | [[Insolvenz]] |
 | **Unternehmen** | – |
 | **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]] |
 | **Kurz erwähnt** | – |

@@ -2,7 +2,7 @@
 
 ## Stand: 0.1.0
 
-Live: https://tscherny86.github.io/hbc/ · Änderungen: [CHANGELOG.md](CHANGELOG.md) · Neuestes Release: [v0.1.0](https://github.com/tscherny86/hbc/releases/latest) (07.11.2026)
+Live: https://tscherny86.github.io/hbc/ · Vorschau: [Claude-Artefakt](https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB) · Änderungen: [CHANGELOG.md](CHANGELOG.md) · Neuestes Release: [v0.1.0](https://github.com/tscherny86/hbc/releases/latest) (07.11.2026)
 
 Fanwiki zum Podcast [Handelsblatt Crime – spannende Streitfälle der deutschen Wirtschaft](https://open.spotify.com/show/3bzKxZUhiIRZKavCmKIYCx)
 (Hosts Ina Karabasz und Solveig Gode, Investigativ-Team um Sönke Iwersen): Korruption, Betrug, Cum-Ex, Wirecard, Benko
