@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 2
+folgen: 4
 tags: [unternehmen]
 ---
 # Goetzpartners
@@ -20,14 +20,60 @@ Für die Beratung wurde die Affäre existenzbedrohend: Wie verkauft man eine Fir
 
 ## Was im Podcast gesagt wird
 
+> … Stephan Goetz und sein 65-jähriger Kompagnon Stefan Sankt-Johanser sind die Gründer der Unternehmensberatung Goetzpartners. Und sie sitzen seit dem Sympatex-Anlageskandal seit März in Untersuchungshaft in München. Die Staatsanwaltschaft ermittelt wegen eines mutmaßlichen Millionenbetrugs bei dem …
+>
+> — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 0:25](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=25) · [[Transkript 098#Minute 0|im Transkript]]
+
+> … Untersuchungshaft sitzen? Genau das ist das Imageproblem, mit dem sich die Beratung Goetzpartners gerade befassen muss. Die Staatsanwaltschaft München verdächtigt die Gründer Stephan Goetz und Stefan St. Johanser einer zentralen Rolle bei einem Millionenbetrug. Ob …
+>
+> — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 2:16](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=136) · [[Transkript 098#Minute 2|im Transkript]]
+
+> … Schütte und der Christian Weltermann. Die sind auch in dieser Management-Consulting-Sparte von Goetzpartners. Und dann gibt es ja noch einen zweiten wichtigen Arm bei Goetzpartners. Das ist das Corporate Finance-Geschäft. Und da sind auch …
+>
+> — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 7:23](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=443) · [[Transkript 098#Minute 7|im Transkript]]
+
+> … relativ professionell, zügig da auch beteiligt am Unternehmen. Das ist aber bei Goetzpartners nicht der Fall. Wir wissen, Ende letzten Sommers wurde schon mal so ein Projekt gestartet, wo versucht wurde, eben leitenden Mitarbeitern …
+>
+> — [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98]], [Minute 9:05](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=545) · [[Transkript 098#Minute 9|im Transkript]]
+
+> … Götzlers. Ja, das ist ein Unternehmensberater aus München, der mit seiner Firma Goetzpartners sehr bekannt geworden ist. Aber im März bereits ein zweites Mal die U-Haft antreten musste, weil er in der Vergangenheit als …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 35:10](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2110) · [[Transkript 104#Minute 35|im Transkript]]
+
+> … und Mitarbeiter, die sind teils schon in den Monaten vorher gegangen bei Goetzpartners. Also eigentlich hat ja Goetzpartners mit der Sache bei Sympatex nichts zu tun, aber weil Herr Götz und St. Johanns eben …
+>
+> — [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104]], [Minute 37:06](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2226) · [[Transkript 104#Minute 37|im Transkript]]
+
+> … in der deutschen Wirtschaft als die Partner und Macher hinter dem Beratungshaus Goetzpartners bekannt, das inzwischen im Zuge der Affäre sogar verkauft wurde. Die Staatsanwaltschaft glaubt, dass die beiden sowie Berater und Anwälte die …
+>
+> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 1:34](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=94) · [[Transkript 107#Minute 1|im Transkript]]
+
+> … Monaten eine Sonderfolge hier im Podcast gehabt. Da ging es eben um Goetzpartners. Erklär doch mal kurz, wer die sind. Also Goetzpartners ist eben, sagt der Name schon, die Gesellschaft, die von Stephan Goetz und …
+>
+> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 8:28](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=508) · [[Transkript 107#Minute 8|im Transkript]]
+
+> … der Münchner Gesellschaft, der Münchner Schickeria. Nicht nur wegen seiner Rolle bei Goetzpartners oder Investor bei einer ganzen Reihe von Firmen. Er hat auch prominent geheiratet und zwar in die Versandhandelsfamilie Otto aus Hamburg. …
+>
+> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 15:44](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=944) · [[Transkript 107#Minute 15|im Transkript]]
+
+> … genau, was man feststellen kann. Also die haben Anfang der 90er eben Goetzpartners gegründet, waren 30 Jahre in den zahlreichen Geschäften zusammen unterwegs, haben Goetzpartners geführt, aufgebaut, zu einem großen Unternehmen gemacht. Und ja, …
+>
+> — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 51:35](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=3095) · [[Transkript 119#Minute 51|im Transkript]]
+
+> … Dezember und Januar dann rausgekommen. Das hatte dramatische Folgen für ihre Unternehmensberatung Goetzpartners. Er hat es eben kurz angesprochen, vor mehr als 30 Jahren gegründet, zwischenzeitlich unter die Top 10 des Landes geführt. Dann …
+>
+> — [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119]], [Minute 53:43](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=3223) · [[Transkript 119#Minute 53|im Transkript]]
+
 > … Geld reingesteckt. Unter anderem der ehemalige Unternehmensberater Stephan Goetz. Also Namensgeber der Unternehmensberatung Goetzpartners. Vielleicht ein ganz kurzer Ausflug hier. Macht im Moment eher Schlagzeilen darüber, dass er sich in München vorm Landgericht verantworten muss. …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 37:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2252) · [[Transkript 160#Minute 37|im Transkript]]
 
-## In diesen Folgen (2)
+## In diesen Folgen (4)
 
-- [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98 – Update nach Sympatex-Skandal: Wie es mit Goetzpartners nach der Inhaftierung der Eigentümer weitergeht]] (2024-10-20) — Shownotes
-- [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes
+- [[098 Update nach Sympatex-Skandal Wie es mit Goetzpartners nach der Inhaftierung der Eigent|#98 – Update nach Sympatex-Skandal: Wie es mit Goetzpartners nach der Inhaftierung der Eigentümer weitergeht]] (2024-10-20) — Shownotes · Minute [0:25](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=25), [2:16](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=136), [7:23](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=443), [9:05](https://open.spotify.com/episode/56XM29gMgqfsD1OgBgSXu6?t=545)
+- [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Minute [35:10](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2110), [37:06](https://open.spotify.com/episode/5UZ7dvtvjhNV9q58bpxM7B?t=2226)
+- [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes · Minute [1:34](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=94), [8:28](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=508), [15:44](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=944)
+- [[119 Showdown um Sympatex Zwei Spitzenberater auf der Anklagebank|#119 – Showdown um Sympatex: Zwei Spitzenberater auf der Anklagebank]] (2025-07-13) — Minute [51:35](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=3095), [53:43](https://open.spotify.com/episode/1xAat4mUkqXpNlMO64Tygw?t=3223)
 
 ## Kurz erwähnt (1)
 

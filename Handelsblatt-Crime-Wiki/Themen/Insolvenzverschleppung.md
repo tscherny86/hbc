@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 6
+folgen: 5
 tags: [themen]
 ---
 # Insolvenzverschleppung
@@ -20,15 +20,88 @@ _Strafbares Verzögern des Insolvenzantrags trotz Zahlungsunfähigkeit oder Übe
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (6)
+> … war die Justiz hinter ihm her. Und zwar wegen mutmaßlicher Untreue und Insolvenzverschleppung. 2011 floh Göker schließlich in die Türkei und er lebt dort bis heute. Aber nicht mehr in Saus und Braus. Statt …
+>
+> — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 2:46](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=166) · [[Transkript 035#Minute 2|im Transkript]]
 
-- [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — Shownotes
-- [[037 Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verb|#37 – Wie ein Handelsblatt-Reporter mehrere Tage im Haus von Skandalmakler Mehmet Göker verbrachte (Teil 2)]] (2023-02-12) — Shownotes
+> … 2009, nochmal gegen Göker ermittelt, wegen des Verdachts der Untreue und der Insolvenzverschleppung. Also Göker wurde vorgeworfen, dass er schon viel früher hätte in die Insolvenz gehen müssen, das aber nicht getan hat. Dann …
+>
+> — [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35]], [Minute 57:21](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3441) · [[Transkript 035#Minute 57|im Transkript]]
+
+> … heute mehrere Privat - und Geschäftsräume durchsucht. Der Vorwurf lautet auf Untreue, Insolvenzverschleppung und Bankrott. Anton Schlecker, der einzige Herr über ein Drogeriemarkt-Imperium, soll vor der Insolvenz Millionen beiseite geschafft haben. Das sieht die …
+>
+> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 0:32](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=32) · [[Transkript 082#Minute 0|im Transkript]]
+
+> … handlungsfähig und auch schon insolvenzgefährdet. Deshalb war ja auch einer der Vorwürfe Insolvenzverschleppung. Und dann gab es halt diese Leiharbeitsfirma und die hat ausschließlich ihr Geschäft mit Schlecker gemacht und riesen Millionen Gewinne geschrieben. …
+>
+> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 5:09](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=309) · [[Transkript 082#Minute 5|im Transkript]]
+
+> … Kinder. Die Kinder waren damals 14 und 16 und die wurden dann verschleppt in eine Fischerhütte, nur ein paar Kilometer weit weg von der Schleckervilla und dann wurde gesagt, ihr kriegt die Kinder zurück, …
+>
+> — [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82]], [Minute 49:23](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2963) · [[Transkript 082#Minute 49|im Transkript]]
+
+> … heute mehrere Privat - und Geschäftsräume durchsucht. Der Vorwurf lautet auf Untreue, Insolvenzverschleppung und Bankrott. Anton Schlecker, der einzige Herr über ein Drogeriemarkt-Imperium, soll vor der Insolvenz Millionen beiseite geschafft haben. Das sieht die …
+>
+> — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 0:32](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=32) · [[Transkript 084#Minute 0|im Transkript]]
+
+> … ein Strafverfahren. Anton Schlecker, seine Frau Christa und seine Kinder kamen wegen Insolvenzverschleppung, Untreue und Bankrott vor Gericht. 2017 wurde Anton Schlecker zu einer hohen Geldstrafe verurteilt. Seine Kinder kamen sogar ins Gefängnis. Seither …
+>
+> — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 2:58](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=178) · [[Transkript 084#Minute 2|im Transkript]]
+
+> … spricht dann in einer Anklage von einem besonders schweren Fall von Bankrott, Insolvenzverschleppung und Untreue. Und es geht halt immer um die Frage, wann hat der Schlecker gewusst, dass es in seinem Drogeriereich nicht …
+>
+> — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 1:04:21](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3861) · [[Transkript 084#Minute 64|im Transkript]]
+
+> … Gesicht sagt, sie haben Geld beiseite geschafft, haben die Insolvenz dadurch entweder verschleppt oder eben Geld, was den Gläubigern zusteht, noch abgeschöpft, dann hat es doch ein Gewicht, was seine Wirkung bei den Betroffenen …
+>
+> — [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84]], [Minute 1:08:31](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=4111) · [[Transkript 084#Minute 68|im Transkript]]
+
+> … noch die Staatsmacht für seine Geschäfte. Die Staatsanwaltschaft Leipzig ermittelt wegen mutmaßlicher Verschleppung von Insolvenzen und Veruntreuung von Arbeitsentgelt. Darüber werde ich heute mit René Bender und Lars Maartenagel aus dem Investigativteam sprechen. Sie …
+>
+> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 2:21](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=141) · [[Transkript 118#Minute 2|im Transkript]]
+
+> … Das wird vermutlich auch noch sehr lange dauern. Der Verdacht lautet mutmaßliche Insolvenzverschleppung und mutmaßliche Veruntreuung von Arbeitsentgelt. Wir haben schon darüber gesprochen, das könnte diese Kassengeschichte sein. Die Behörde hat mitgeteilt, dass die …
+>
+> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 43:21](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2601) · [[Transkript 118#Minute 43|im Transkript]]
+
+> … den Vorwürfen äußern werde. Und man hat dann aber den Vorwurf der Insolvenzverschleppung entschieden, als unbegründet zurückgewiesen. Und man gehe, Zitat, sicher davon aus, dass die Ermittlungen zu keinem anderen Ergebnis gelangen werden. Also …
+>
+> — [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118]], [Minute 45:34](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2734) · [[Transkript 118#Minute 45|im Transkript]]
+
+> … haben. Unter anderem auch gegen uns Klaassen, eben wegen des Verdachts auf Insolvenzverschleppung. Auch da müssen wir dann natürlich fragen, was sagt Klaassen dazu, zu diesen Vorwürfen? Ja, vollkommen haltlos, sagt er dazu. Und …
+>
+> — [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127]], [Minute 1:07:21](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4041) · [[Transkript 127#Minute 67|im Transkript]]
+
+> … und das heißt er kommt jetzt auch nicht frei Bis auf weiteres. Insolvenzverschleppung kennen wir, haben wir auch häufiger schon mal hier bearbeitet. aber kannst du noch einmal genau erklären was Bankrott in dem …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 3:09](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=189) · [[Transkript 147#Minute 3|im Transkript]]
+
+> … stellen. Dem Tatverdichtigen wird vorgeworfen, er habe diesen Antrag vorsätzlich nicht gestellt, Insolvenzverschleppung und die Gesellschaft stattdessen zum Nachteil ihrer Gläubiger beerdigt in dem der Vorstand ausgetauscht, die Gesellschaft unbenannt und nach Berlin verlegt …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 34:21](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2061) · [[Transkript 147#Minute 34|im Transkript]]
+
+> … wilde Alaska-Geschichte gehört. vor dem Hintergrund klingt das mit der Festnahme wegen Insolvenzverschleppung Und Bankrott irgendwie fast schon banal. Das ist das, was ich eingangs sagte also vor Gericht in diesen acht Monaten Hauptverhandlungen …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 36:40](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2200) · [[Transkript 147#Minute 36|im Transkript]]
+
+> … langjährige Firmenanwalt Und den hat das Gericht am Ende der Beihilfe zur Insolvenzverschleppung und zum Bankrott schuldig gesprochen. Der hatte eine Strafe von einem Jahr und zehn Monate auf Bewährung erhalten, muss zudem als …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 49:24](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2964) · [[Transkript 147#Minute 49|im Transkript]]
+
+## In diesen Folgen (5)
+
+- [[035 Der gefallene Star des Versicherungsvertriebs Wie Mehmet Göker vom Millionär zum Angek|#35 – Der gefallene Star des Versicherungsvertriebs: Wie Mehmet Göker vom Millionär zum Angeklagten wurde (Teil 1)]] (2023-01-29) — Shownotes · Minute [2:46](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=166), [57:21](https://open.spotify.com/episode/3bunIzZqxI5H3LNiH5ttEa?t=3441)
 - [[040 Der Cum-Ex-Eklat Verschleppt die Staatsanwaltschaft Köln die Aufklärung|#40 – Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?]] (2023-03-26) — Shownotes
-- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Shownotes
-- [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118 – Insolvenz der Gröner Group: Der tiefe Sturz eines Baulöwen]] (2025-06-29) — Shownotes
-- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes
+- [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Shownotes · Minute [0:32](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=32), [5:09](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=309), [49:23](https://open.spotify.com/episode/3UaDq8VAZQPHP7twXYNrss?t=2963)
+- [[118 Insolvenz der Gröner Group Der tiefe Sturz eines Baulöwen|#118 – Insolvenz der Gröner Group: Der tiefe Sturz eines Baulöwen]] (2025-06-29) — Shownotes · Minute [2:21](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=141), [43:21](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2601), [45:34](https://open.spotify.com/episode/6tNyFXTQ54Gr0dmmohgq0I?t=2734)
+- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes · Minute [1:07:21](https://open.spotify.com/episode/4NLeJ5chKZBMySe2UZTv9v?t=4041)
+
+## Kurz erwähnt (2)
+
+- [[084 Der Fall Schlecker Teil 2 – der Abstieg|#84 – Der Fall Schlecker: Teil 2 – der Abstieg]] (2024-06-29) — Minute [0:32](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=32), [2:58](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=178), [1:04:21](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=3861), [1:08:31](https://open.spotify.com/episode/16iCpdvrOMVgsDnvwZ2XxU?t=4111)
+- [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Minute [3:09](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=189), [34:21](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2061), [36:40](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2200), [49:24](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2964)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

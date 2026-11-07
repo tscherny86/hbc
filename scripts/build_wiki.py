@@ -224,20 +224,29 @@ def segments(words: list[dict], seconds: int = 60) -> list[dict]:
     return segs
 
 
-def find_quotes(words: list[dict], patterns: list[str]) -> list[dict]:
+_INDEX: dict[int, tuple[str, list[int]]] = {}  # id(words) -> (Volltext, Wort-Startpositionen), einmal je Transkript
+
+
+def text_index(words: list[dict]) -> tuple[str, list[int]]:
+    key = id(words)
+    if key not in _INDEX:
+        offsets, pos = [], 0
+        for w in words:
+            offsets.append(pos)
+            pos += len(w["text"]) + 1
+        _INDEX[key] = (" ".join(w["text"] for w in words), offsets)
+    return _INDEX[key]
+
+
+def find_quotes(words: list[dict], patterns: list[str], rx: re.Pattern | None = None) -> list[dict]:
     """Findet Stellen im Transkript; liefert Zeitpunkt + Zitat-Ausschnitt."""
     if not words:
         return []
     import bisect
 
-    text_parts, offsets, pos = [], [], 0
-    for w in words:
-        offsets.append(pos)
-        text_parts.append(w["text"])
-        pos += len(w["text"]) + 1
-    full = " ".join(text_parts)
+    full, offsets = text_index(words)
     hits, last_t = [], -999.0
-    rx = re.compile("|".join(f"(?:{p})" for p in patterns), re.IGNORECASE)
+    rx = rx or re.compile("|".join(f"(?:{p})" for p in patterns), re.IGNORECASE)
     for m in rx.finditer(full):
         idx = bisect.bisect_right(offsets, m.start()) - 1
         t = words[idx]["start"]
@@ -295,13 +304,13 @@ def build() -> None:
         for ep in episodes:
             in_title = bool(rx.search(ep["title"]))
             in_notes = in_title or bool(rx.search(re.sub(r"https?://\S+|www\.\S+", " ", ep["description"])))
-            quotes = []
-            words = transcripts[ep["id"]]
-            if words and topic["name"] not in NO_QUOTES:
-                quotes = find_quotes(words, topic["patterns"])
-            raw = len(rx.findall(" ".join(w["text"] for w in words))) if words else 0
             if (topic["name"], ep["id"]) in EXCLUDE:
                 continue
+            quotes = []
+            words = transcripts[ep["id"]]
+            raw = len(rx.findall(text_index(words)[0])) if words else 0
+            if raw and topic["name"] not in NO_QUOTES:
+                quotes = find_quotes(words, topic["patterns"], rx)
             # ein Shownotes-Treffer zählt nur, wenn das Transkript ihn bestätigt (oder es noch keines gibt)
             notes_ok = in_title or (in_notes and (not words or raw >= MIN_NOTES))
             if notes_ok or raw >= min_minor:

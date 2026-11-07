@@ -20,10 +20,27 @@ Der Fall zeigt die typischen Muster des grauen Kapitalmarkts: hohe Renditeverspr
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Dann erzählt Ihnen ein langjähriger Freund von einem super Angebot. Bei der MW-Gruppe gibt es gute Zinsen, kompetente Berater und eine seriöse Filiale. Das Motto Vertrauen, Sicherheit, Kompetenz. Sie legen 100.000 Euro an. Und …
+>
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 0:54](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=54) · [[Transkript 112#Minute 0|im Transkript]]
+
+> … der Staatsanwaltschaft dabei. Und vor allem die Kriminalakte eines Mannes, nämlich Wolfgang Höft. Das ist der Strippenzieher in verschiedenen Unternehmen der sogenannten MW-Gruppe. MW-Gruppe, muss man die kennen? Also mir sagte das jetzt jedenfalls …
+>
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 3:56](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=236) · [[Transkript 112#Minute 3|im Transkript]]
+
+> … Behörde, die Banken und private Versicherungsunternehmen beaufsichtigt. Und ein ehemaliger Mitarbeiter der MW-Gruppe hat sich da beschwert, dass der Versicherungsbetrieb seine Kunden täuschen würde. Und die Kunden würden schlecht beraten und Verträge würden nicht …
+>
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 5:39](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=339) · [[Transkript 112#Minute 5|im Transkript]]
+
+> … lange her wegen Insolvenzverschleppung. Und das sind nur die Fälle, in denen Höft tatsächlich auch eine Strafe bekommen hat. Insgesamt trat Höft seit 1990, und ich habe das durchgezählt, 23 Mal strafrechtlich in Erscheinung, …
+>
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 7:19](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=439) · [[Transkript 112#Minute 7|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Shownotes
+- [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Shownotes · Minute [0:54](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=54), [3:56](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=236), [5:39](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=339), [7:19](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=439)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

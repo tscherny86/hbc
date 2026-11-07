@@ -7,7 +7,7 @@ jahr: 2024
 datum: 2024-07-13
 dauer: "12:44"
 spotify: "https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670"
-transkript: false
+transkript: true
 tags: [folge, jahr-2024, team]
 ---
 # Meet the Team: Lars-Marten Nagel
@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, team]
 | **Datum** | 2024-07-13 |
 | **Dauer** | 12:44 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670) · [MP3](https://audio.podigee-cdn.net/1522199-m-3cfa6cbc93620ecfbcbc662d48e1ff44.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/88-thomas-lloyd) |
-| **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
+| **Transkript** | [[Transkript 088]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
 | **Fälle** | – |
 | **Themen** | – |
 | **Unternehmen** | [[Handelsblatt]] |
-| **Personen** | [[Lars-Marten Nagel]] |
-| **Kurz erwähnt** | – |
+| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]] |
+| **Kurz erwähnt** | [[Adler Group]], [[Tesla-Files]], [[Thomas Lloyd]], [[Anlegerbetrug]], [[Whistleblower]], [[Datenleck]], [[Tesla]], [[ThomasLloyd]] |
 
 ## Shownotes
 
@@ -33,6 +33,15 @@ Lars-Marten Nagel recherchiert seit 2017 von Berlin aus für das Investigativ-Te
 
 Sie erreichen ihn verschlüsselt unter der Threema-ID: TCRSH4K4
 
+## Zeitmarken
+
+- [0:11](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=11) – Hallo und herzlich willkommen zu Handelsblatt Crime. Heute wieder mit einer kleinen Sonderfolge Meet the Team. Hier stellen … ([[Transkript 088#Minute 0|Transkript]])
+- [2:13](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=133) – Und dort auch schon direkt im Investigativ-Team. Ah, in Berlin oder in Hamburg? Nee, hier in Berlin dann. … ([[Transkript 088#Minute 2|Transkript]])
+- [4:14](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=254) – Und ich finde das extrem interessant, dass die sich alle noch konzentrieren können. Ich kann das immer nicht. … ([[Transkript 088#Minute 4|Transkript]])
+- [6:16](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=376) – Solche Themen, aber also ganz, ich würde es ganz weit fassen und sagen, das ist also alles, was … ([[Transkript 088#Minute 6|Transkript]])
+- [8:19](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=499) – Das ist einfach, das macht riesen Spaß. Warst du da auch vor Ort? Da war ich vor Ort, … ([[Transkript 088#Minute 8|Transkript]])
+- [10:22](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=622) – Wie meinst du das? Nimmt dich das mit, persönlich? Oder kannst du dich da irgendwie auch abgrenzen? Also … ([[Transkript 088#Minute 10|Transkript]])
+- [12:22](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=742) – Danke, Lars. Gerne. Tschüss. … ([[Transkript 088#Minute 12|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

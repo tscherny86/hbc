@@ -28,17 +28,17 @@ Erneut taucht der Name Jan Marsalek auf: Der flüchtige Ex-Wirecard-Vorstand sol
 >
 > — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 2:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=160) · [[Transkript 151#Minute 2|im Transkript]]
 
-> … jedenfalls der Vorwurf der Generalstaatsanwaltschaft Koblenz, die die Ermittlungen in dieser Operation Chargeback-Feder führend leitet. Und natürlich, klar, warum machen die das? 99 Cent, das klingt irgendwie erstmal nicht viel, aber wie wir alle …
+> … jedenfalls der Vorwurf der Generalstaatsanwaltschaft Koblenz, die die Ermittlungen in dieser Operation Chargeback federführend leitet. Und natürlich, klar, warum machen die das? 99 Cent, das klingt irgendwie erstmal nicht viel, aber wie wir alle wissen, Kleinvieh …
 >
 > — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 4:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=270) · [[Transkript 151#Minute 4|im Transkript]]
 
-> … anderen Recherche, mit dem Fall UNSER beschäftigt und dem ehemaligen Chef Mirko Hüllemann, der jetzt auch in dem Fall zu den Beschuldigten gehört. Erzählt mal bitte ein bisschen was über den, René. Ja, Mirko …
+> … mehrere ehemalige Mitarbeiter und Führungskräfte von großen deutschen Zahlungsdienstleistern, ganz konkret hier Payone, Concardis, Unzer und Wirecard. Und unter den Beschuldigten sind auch prominente Namen. Wir haben es schon angerissen am Anfang. Unter anderem der als Pornobaron bekannt …
 >
-> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 9:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=588) · [[Transkript 151#Minute 9|im Transkript]]
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 7:07](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=427) · [[Transkript 151#Minute 7|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [0:25](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=25), [2:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=160), [4:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=270), [9:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=588)
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [0:25](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=25), [2:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=160), [4:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=270), [7:07](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=427)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

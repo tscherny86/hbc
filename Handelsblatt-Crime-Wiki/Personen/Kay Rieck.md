@@ -20,10 +20,27 @@ Das Landgericht Stuttgart verurteilte Rieck Ende April 2026 zu vier Jahren und a
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Riek ist ein deutscher Unternehmer, der wegen seiner Geschäftsidee gerne auch als Ölbaron bezeichnet wird. Rund Zehntausend Anleger sollen ihm einen dreistelligen Millionen-Betrag zur Verfügung gestellt haben. Aber riechswild Westabenteuer geriet völlig außer Kontrolle, …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 0:46](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=46) · [[Transkript 147#Minute 0|im Transkript]]
+
+> … Namen ein Verochefeller sonst und deswegen ist das eben auch der sprichwörtliche Ölbaron. aber Wir fangen jetzt nicht in der Vergangenheit an, sondern wir rollen den Fall quasi von hinten auf und zwar am …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 2:36](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=156) · [[Transkript 147#Minute 2|im Transkript]]
+
+> … Stuttgart verhandelt wurden, beziehen sich tatsächlich nur auf eine einzelne Firma aus Riecks Firmengeflecht nämlich die Deutsche Öl und Gas AG. Die hat in den Firmengeflechten zwar eine zentrale Rolle gespielt aber es halt …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 6:14](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=374) · [[Transkript 147#Minute 6|im Transkript]]
+
+> … halt viele Anleger dieser Anwaltung. Wir vermuten das kann eigentlich nur Herr Rieck sein. Willst du nicht mal gucken? Tatsächlich er hat dann recht ein paar Tage später lief da in irgendeinem Fachportal dass …
+>
+> — [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147]], [Minute 34:44](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2084) · [[Transkript 147#Minute 34|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes
+- [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes · Minute [0:46](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=46), [2:36](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=156), [6:14](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=374), [34:44](https://open.spotify.com/episode/4fnTUw49TgRrab4NeuTsDL?t=2084)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

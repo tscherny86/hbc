@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-07-12 |
 | **Dauer** | 1:01:57 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q) · [MP3](https://audio.podigee-cdn.net/2505523-m-f2fac49e02aa21bf1222decfe2308b1b.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/152-deutsche-finance) |
-| **Transkript** | [[Transkript 152]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 152]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Deutsche Finance Gruppe]] |
-| **Themen** | [[Anlegerbetrug]], [[Wirtschaftsprüfung]] |
+| **Themen** | [[Wirtschaftsprüfung]] |
 | **Unternehmen** | [[Deutsche Finance Group]], [[BaFin]] |
 | **Personen** | [[Ina Karabasz]], [[René Benko]] |
-| **Kurz erwähnt** | [[Signa und René Benko]], [[Staatsanwaltschaft und Strafprozess]], [[Signa]] |
+| **Kurz erwähnt** | [[Signa und René Benko]], [[Private Equity]], [[Staatsanwaltschaft und Strafprozess]], [[Signa]] |
 
 ## Shownotes
 
@@ -71,7 +71,7 @@ Zum Artikel: Bayerische Versorgungskammer verkauft US-Immobilie
 - [52:37](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3157) – Aber das ist in Luxemburg so, dass dieser AIFM, das ist wie so eine Art Betriebsgesellschaft, der spielt … ([[Transkript 152#Minute 52|Transkript]])
 - [54:45](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3285) – Ja, also habe ich ganz genauso gesehen und habe dann auch überlegt, vielleicht kannst du noch irgendwie eine … ([[Transkript 152#Minute 54|Transkript]])
 - [56:45](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3405) – Und in einem solchen Szenario muss die CSSF den Fonds dann von der Liste der beaufsichtigten Fonds streichen. … ([[Transkript 152#Minute 56|Transkript]])
-- [58:46](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3526) – Was wir allerdings sehen, ist, dass die ersten Anlegeranwälte eine Interessengemeinschaft ins Leben gerufen haben, die Kanzleien Mathilde … ([[Transkript 152#Minute 58|Transkript]])
+- [58:46](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3526) – Was wir allerdings sehen, ist, dass die ersten Anlegeranwälte eine Interessengemeinschaft ins Leben gerufen haben, die Kanzleien Mattil … ([[Transkript 152#Minute 58|Transkript]])
 - [1:00:47](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3647) – Und wir haben ja darüber gesprochen, der Sondergesandte der BaFin befasst sich ja mit den Privatanlegern eigentlich, mit … ([[Transkript 152#Minute 60|Transkript]])
 - [1:02:49](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=3769) – Wir versuchen, alle Fälle aufzugreifen. Es kommen leider so viele. Ich habe es schon ein paar Mal gesagt, … ([[Transkript 152#Minute 62|Transkript]])
 

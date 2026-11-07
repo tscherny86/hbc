@@ -28,7 +28,6 @@
   "patterns": [
    "\\bVolkswagen\\w*",
    "\\bVW\\b",
-   "\\bWolfsburg\\w*",
    "\\bWinterkorn\\w*"
   ],
   "summary": "Wolfsburger Autokonzern, dessen Dieselskandal 2015 mehr als 30 Milliarden Euro kostete.",

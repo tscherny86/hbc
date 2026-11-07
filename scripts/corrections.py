@@ -53,6 +53,9 @@ def load_rules():
 
 RULES = load_rules()
 MAXN = max(RULES, default=0)
+# Erste Wörter aller Regeln: Wörter, mit denen keine Regel beginnt, werden ohne teure Mehrwortprüfung übernommen
+FIRST = {k.split()[0] for table in RULES.values() for k in table}
+HYPHEN = any(k.startswith("-") for table in RULES.values() for k in table)
 
 
 def _pick(cands, ep_id):
@@ -64,6 +67,13 @@ def _pick(cands, ep_id):
 def _pass(words: list[dict], ep_id: str, hits: Counter):
     out, i = [], 0
     while i < len(words):
+        t0 = words[i]["text"]
+        m0 = EDGE.match(t0)
+        if (m0.group(2).lower() not in FIRST and (m0.group(2) + m0.group(3)).lower() not in FIRST
+                and not (HYPHEN and "-" in t0)):
+            out.append(words[i])
+            i += 1
+            continue
         done = False
         for n in range(min(MAXN, len(words) - i), 0, -1):
             table = RULES.get(n)

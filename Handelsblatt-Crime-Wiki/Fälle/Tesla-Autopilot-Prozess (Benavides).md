@@ -22,6 +22,22 @@ Das Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Na
 
 ## Was im Podcast gesagt wird
 
+> … gesagt hat, der heißt Todd Poses. Er ist der Anwalt der Familie Benavides aus Florida. Ihre Tochter, Naibel, starb am Abend des 25. April 2019. Da war sie gerade mal 22 Jahre alt. Naibel …
+>
+> — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 0:57](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=57) · [[Transkript 125#Minute 0|im Transkript]]
+
+> … Und Sönke, du hast dazu in Berlin mit dem Anwalt der Familie Benavides gesprochen. Wie kam das denn dazu? Warum war der in Berlin? Ja, der Todd Poses, der hat nach dem Prozess sich …
+>
+> — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 4:43](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=283) · [[Transkript 125#Minute 4|im Transkript]]
+
+> … Tesla heran. Genau, das ist der Wagen von einem Mann namens George McGee. Der ist 42 Jahre alt, Finanzmanager und fährt diese Strecke öfter, weil er Pendler ist. Also der kennt die eigentlich gut, …
+>
+> — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 8:17](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=497) · [[Transkript 125#Minute 8|im Transkript]]
+
+> … genau diese Fahrt da an ihrem tragischen Abend denkbar schlechte Voraussetzungen für McGee und für seinen Tesla. Und darf ich jetzt, darf ich eine Zwischenfrage stellen, warum, oder erkennt das System das dann nicht, …
+>
+> — [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125]], [Minute 11:15](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=675) · [[Transkript 125#Minute 11|im Transkript]]
+
 > … und dann gibt es halt diesen Menschen, diesen Tesla-Kunden, der heißt George McGee. Und der fährt abends von seinem Büro in Boca Raton in Florida nach Haus, nach Key Largo. Und sein Model S Tesla …
 >
 > — [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162]], [Minute 21:11](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1271) · [[Transkript 162#Minute 21|im Transkript]]
@@ -32,7 +48,7 @@ Das Urteil gilt als historisch, weil es die Vermarktung des Systems unter dem Na
 
 ## In diesen Folgen (2)
 
-- [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes
+- [[125 Millionenstrafe für Tesla nach Tod in Florida Der Autopilot-Prozess|#125 – Millionenstrafe für Tesla nach Tod in Florida: Der Autopilot-Prozess]] (2025-09-07) — Shownotes · Minute [0:57](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=57), [4:43](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=283), [8:17](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=497), [11:15](https://open.spotify.com/episode/5mvACuoCXreL9tWTQSNCzc?t=675)
 - [[162 Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren|#162 – Wie ein Versuchskaninchen – Das Tesla-Experiment mit dem autonomen Fahren]] (2026-11-01) — Shownotes · Minute [21:11](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1271), [29:23](https://open.spotify.com/episode/3VMPeX0Sna8OiTQsr2nlIh?t=1763)
 
 ---

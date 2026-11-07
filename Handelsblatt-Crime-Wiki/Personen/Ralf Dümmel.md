@@ -22,6 +22,22 @@ Die Bafin stellte Fehlbuchungen in Millionenhöhe fest, die Kapitalerhöhung ger
 
 ## Was im Podcast gesagt wird
 
+> … die sicher zu den bekannteren Managern in Deutschland gehören. Georg Kofler, Ralf Dümmel und Lars Windhorst. Im Mittelpunkt stehen aber vor allem Kofler und Dümmel, die als Fernsehjuroren einer breiten Öffentlichkeit bekannt geworden sind. …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 0:30](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=30) · [[Transkript 052#Minute 0|im Transkript]]
+
+> … Die Höhle der Löwen und die beiden Juroren Georg Kofler und Ralf Dümmel. Und Kofler war bei Social Chain der Hauptinvestor mit zuletzt rund 36 Prozent der Aktien. War auch lange Aufsichtsratschef und als …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 3:28](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=208) · [[Transkript 052#Minute 3|im Transkript]]
+
+> … Konsumgüter, DS-Produkte. DS steht für Dieter Schwarz und die Karriere von Herrn Dümmel hat dieser Herr Schwarz begleitet, so dass er selbst sagt, ja, das war mein Ziehvater und Mentor und dort ist er …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 5:08](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=308) · [[Transkript 052#Minute 5|im Transkript]]
+
+> … dazu. Und eben, wie wir schon gehört haben, Georg Kofler und Ralf Dümmel. Und was man auch noch dazu sagen muss, die gehen eben mit den Investoren und mit den Gründern teilweise sehr, sehr …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 7:11](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=431) · [[Transkript 052#Minute 7|im Transkript]]
+
 > … noch prominenteren Unternehmern, Georg Kofler, der als Medienunternehmer früher bekannt, und Ralf Dümmel. Die sind beide wohl der noch breiteren Öffentlichkeit aus der Vox-TV-Sendung Höhle der Löwen bekannt, wo dann letztlich ja junge Unternehmer …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 23:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1412) · [[Transkript 160#Minute 23|im Transkript]]
@@ -32,7 +48,7 @@ Die Bafin stellte Fehlbuchungen in Millionenhöhe fest, die Kapitalerhöhung ger
 
 ## In diesen Folgen (2)
 
-- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes
+- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes · Minute [0:30](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=30), [3:28](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=208), [5:08](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=308), [7:11](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=431)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Minute [23:32](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1412), [25:12](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1512)
 
 ---

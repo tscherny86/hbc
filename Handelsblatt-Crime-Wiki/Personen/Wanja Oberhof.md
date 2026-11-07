@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 1
+folgen: 2
 tags: [personen]
 ---
 # Wanja Oberhof
@@ -22,6 +22,22 @@ Gegen eine Millionen-Kaution und unter strengen Auflagen kam Oberhof wieder frei
 
 ## Was im Podcast gesagt wird
 
+> … solche Aktien. Und ja, hören wir doch einfach mal rein, was Herr Oberhof, Wanja Oberhof, das war zu dem Zeitpunkt der CEO von Social Chain, am Tag der ersten Notseats im Prime-Standard an der Frankfurter …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 14:13](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=853) · [[Transkript 052#Minute 14|im Transkript]]
+
+> … das so von großen Börsen-Events kennt. Der Herr Kofler, Herr Dümmel, Herr Oberhof, die haben es sich natürlich nicht nehmen lassen und haben dann also auch Interviews gegeben. Vor allen Dingen Dümmel und Kofler …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 15:49](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=949) · [[Transkript 052#Minute 15|im Transkript]]
+
+> … anschaut. Und ja, ich glaube, es gibt ein paar Anleger, die Herrn Oberhof vielleicht heute nicht mehr so dolle finden. Ich kann es mir vorstellen. Also wir haben schon 2021 im Jahr des Börsengangs …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 18:00](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1080) · [[Transkript 052#Minute 18|im Transkript]]
+
+> … allerdings erst 2022 rein, ne? Genau, da wurde der Vorstand umgebaut. Herr Oberhof, wir erinnern uns, der kurz zuvor oder ein Jahr zuvor noch vom DAX erzählt hat, vom möglichen Aufstieg in DAX. Der …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 20:05](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1205) · [[Transkript 052#Minute 20|im Transkript]]
+
 > … in New York, Sylt und Berlin und auch ein Gefängnis in Brooklyn. Wanja Oberhof sitzt neun Tage im berüchtigten Metropolitan Detention Center, dem MDC. Dann kommt er wieder frei gegen eine Millionen-Dollar-Kaution, gezahlt von …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13) · [[Transkript 160#Minute 0|im Transkript]]
@@ -38,8 +54,9 @@ Gegen eine Millionen-Kaution und unter strengen Auflagen kam Oberhof wieder frei
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 5:38](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=338) · [[Transkript 160#Minute 5|im Transkript]]
 
-## In diesen Folgen (1)
+## In diesen Folgen (2)
 
+- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Minute [14:13](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=853), [15:49](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=949), [18:00](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1080), [20:05](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=1205)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13), [1:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=109), [3:48](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=228), [5:38](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=338)
 
 ---

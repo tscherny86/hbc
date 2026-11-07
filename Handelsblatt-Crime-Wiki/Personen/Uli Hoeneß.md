@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 1
+folgen: 2
 tags: [personen]
 ---
 # Uli Hoeneß
@@ -20,10 +20,32 @@ Hoeneß trat die Strafe an, wurde 2016 vorzeitig entlassen und kehrte anschließ
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (1)
+> … mit dem Steuerstrafverfahren konfrontiert. Die wenigsten mussten wie der FC Bayern-Manager Uli Hoeneß ins Gefängnis. Viele kamen mit Bewährungsstrafen weit gelimpflicher davon, wie etwa der ehemalige Chef der Deutschen Post, Klaus Zumwinkel. Sein Fall …
+>
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 1:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=119) · [[Transkript 028#Minute 1|im Transkript]]
 
-- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes
+> … mit ihm als Mensch machen? Ich glaube, er sagt sich ja, Uli Hoeneß, sein Freund, hat ja auch gekocht für den FC Bayern München, der wurde dann auch wieder Präsident. Und Uli Hoeneß hat …
+>
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 32:54](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1974) · [[Transkript 028#Minute 32|im Transkript]]
+
+> … das war auch in der Presse sehr gut zu lesen, war Uli Hoeneß. Und die beiden waren ja auch Buddys, also Hoeneß war ein Buddy von Schubeck. Und der wurde auch wegen Steuerhinterziehung verurteilt. …
+>
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 41:04](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2464) · [[Transkript 028#Minute 41|im Transkript]]
+
+> … gekommen, als nämlich Anfang Januar 2013 der Stern recherchierte. Und dann hat Höneß einen Anruf eines Fontobel-Mitarbeiters erhalten. Und der hat ihn eben informiert, dass ein Reporter des Stern da nach einem Prominenten aus …
+>
+> — [[028 Prominente und die Steuerfahndung|#28]], [Minute 42:46](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2566) · [[Transkript 028#Minute 42|im Transkript]]
+
+> … tatsächlich witzigerweise spontan. Der erste Einfall, der mir dazu kommt, ist Uli Hoeneß. Da hatten wir auch mal eine Folge zu. Das ist der Bayern-Präsident und der als Steuernterzieher von fast 30 Millionen Euro, …
+>
+> — [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109]], [Minute 14:47](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=887) · [[Transkript 109#Minute 14|im Transkript]]
+
+## In diesen Folgen (2)
+
+- [[028 Prominente und die Steuerfahndung|#28 – Prominente und die Steuerfahndung]] (2022-11-06) — Shownotes · Minute [1:59](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=119), [32:54](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=1974), [41:04](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2464), [42:46](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1?t=2566)
+- [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Minute [14:47](https://open.spotify.com/episode/1uyZkzVuL2OvjfkbROatp0?t=887)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

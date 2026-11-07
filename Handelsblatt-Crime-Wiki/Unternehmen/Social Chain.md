@@ -20,6 +20,22 @@ Gesellschafter und zeitweise Chef der Gesellschaft war auch der junge Unternehme
 
 ## Was im Podcast gesagt wird
 
+> … sind Unternehmer, die sicher zu den bekannteren Managern in Deutschland gehören. Georg Kofler, Ralf Dümmel und Lars Windhorst. Im Mittelpunkt stehen aber vor allem Kofler und Dümmel, die als Fernsehjuroren einer breiten Öffentlichkeit bekannt …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 0:29](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=29) · [[Transkript 052#Minute 0|im Transkript]]
+
+> … wir einmal ganz vorn an. Was ist denn an dem Unternehmen der Social Chain AG so besonders gewesen? Ja, also die Social Chain AG, die wollte Marken - und Produkthaus der nächsten Generation werden. …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 2:45](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=165) · [[Transkript 052#Minute 2|im Transkript]]
+
+> … zurückgehen und schauen, wie sie sich einen Namen gemacht haben. Der Georg Kofler ist bekannt als Vorstandsvorsitzender der Fernsehsender ProSieben und Premiere, wo er Anfang der Nullerjahre quasi in die Top-Management-Riege in Deutschland aufgestiegen …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 4:25](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=265) · [[Transkript 052#Minute 4|im Transkript]]
+
+> … gehören auch andere dazu. Und eben, wie wir schon gehört haben, Georg Kofler und Ralf Dümmel. Und was man auch noch dazu sagen muss, die gehen eben mit den Investoren und mit den Gründern …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 7:10](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=430) · [[Transkript 052#Minute 7|im Transkript]]
+
 > … in New York, Sylt und Berlin und auch ein Gefängnis in Brooklyn. Wanja Oberhof sitzt neun Tage im berüchtigten Metropolitan Detention Center, dem MDC. Dann kommt er wieder frei gegen eine Millionen-Dollar-Kaution, gezahlt von …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13) · [[Transkript 160#Minute 0|im Transkript]]
@@ -38,7 +54,7 @@ Gesellschafter und zeitweise Chef der Gesellschaft war auch der junge Unternehme
 
 ## In diesen Folgen (2)
 
-- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes
+- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes · Minute [0:29](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=29), [2:45](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=165), [4:25](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=265), [7:10](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=430)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:13](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=13), [1:49](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=109), [3:48](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=228), [5:38](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=338)
 
 ---

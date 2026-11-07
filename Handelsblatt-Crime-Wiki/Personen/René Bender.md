@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 25
+folgen: 7
 tags: [personen]
 ---
 # René Bender
@@ -14,34 +14,69 @@ _Investigativ-Redakteur; Immobilien, Benko/Signa und Finanzskandale._
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (25)
+> … damit herzlich willkommen zu Handelsblatt Crime. Hallo Sönke. Hallo Ina. Sönke, René Bender, unser Kollege und ich waren gestern vor Gericht und haben uns den Tag angeschaut. Sag nochmal, wo stehen wir eigentlich gerade …
+>
+> — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 2:06](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=126) · [[Transkript 015#Minute 2|im Transkript]]
 
-- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes
-- [[042 Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen Gericht entscheidet ü|#42 – Umstrittene Immobiliendeals, dubiose Berater, fragliche Bilanzen: Gericht entscheidet über die Zukunft der Adler Group]] (2023-04-23) — Shownotes
-- [[048 Wie ein Korruptionsbekämpfer selbst korrupt wurde Der tiefe Fall eines Oberstaatsanwal|#48 – Wie ein Korruptionsbekämpfer selbst korrupt wurde: Der tiefe Fall eines Oberstaatsanwalts]] (2023-07-15) — Shownotes
-- [[049 Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat|#49 – Wie Marsaleks Brief den Wirecard-Prozess aufgewirbelt hat]] (2023-07-29) — Shownotes
-- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes
-- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes
-- [[057 Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun|#57 – Cum-Ex-Chefermittlern gewinnt Machtkampf –Ex-Wirecard-Aufsichtsräte belasten Braun]] (2023-10-21) — Shownotes
-- [[060 René Benko Er war der Mann der ganz großen Show|#60 – René Benko: Er war der Mann der ganz großen Show]] (2023-12-02) — Shownotes
-- [[062 Nächste Insolvenzen, neue Vorwürfe Weitere Turbulenzen im Benko-Imperium|#62 – Nächste Insolvenzen, neue Vorwürfe: Weitere Turbulenzen im Benko-Imperium]] (2023-12-16) — Shownotes
-- [[065 Versagen im Wirecard-Skandal Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab|#65 – Versagen im Wirecard-Skandal: Aufsichtsbehörde und Insolvenzverwalter rechnen mit EY ab]] (2024-01-13) — Shownotes
-- [[069 Wirecard-Skandal wird zum Spionagethriller Wie Jan Marsalek auch auf der Flucht die St|#69 – Wirecard-Skandal wird zum Spionagethriller: Wie Jan Marsalek auch auf der Flucht die Strippen zieht]] (2024-03-09) — Shownotes
-- [[073 Meet the Team René Bender|#73 – Meet the Team: René Bender]] (2024-04-20) — Shownotes
-- [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74 – Demontage einer Legende: Porsche-Ikone im Fadenkreuz der Justiz]] (2024-04-20) — Shownotes
-- [[080 Der Bankenmanager und der Staatstrojaner|#80 – Der Bankenmanager und der Staatstrojaner]] (2024-06-01) — Shownotes
-- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Shownotes
-- [[090 Christoph Gröners Immobilienreich unter Druck Verkaufte Porsches, verpfändete Kunst un|#90 – Christoph Gröners Immobilienreich unter Druck: Verkaufte Porsches, verpfändete Kunst und Stress mit Gläubigern]] (2024-08-11) — Shownotes
-- [[096 Interview mit Christoph Gröner Ich gehe den Weg konsequent zu Ende und ich ziehe alle|#96 – Interview mit Christoph Gröner: "Ich gehe den Weg konsequent zu Ende und ich ziehe alle Register"]] (2024-08-17) — Shownotes
-- [[093 Wirecard Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der fi|#93 – Wirecard: Richter glaubt dem Ex-Chefbuchhalter nicht – und vielen Managern droht der finanzielle Ruin]] (2024-08-25) — Shownotes
-- [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes
-- [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes
-- [[127 Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft Syntellix und Utz|#127 – Von der Medizintechnik-Hoffnung zum Fall für die Staatsanwaltschaft: Syntellix und Utz Claassen]] (2025-10-05) — Shownotes
-- [[131 Henry O’Sullivan Der Schattenmann im Wirecard-Skandal|#131 – Henry O’Sullivan: Der Schattenmann im Wirecard-Skandal]] (2025-11-30) — Shownotes
-- [[141 Jens Lehmann Vom WM-Helden zum vorbestraften Dauergast bei Gericht|#141 – Jens Lehmann: Vom WM-Helden zum vorbestraften Dauergast bei Gericht]] (2026-03-08) — Shownotes
-- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
-- [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes
+> … der 24. Mai. Wir sitzen im Bonner Landgericht. Neben mir sitzt René Bender. Er ist Investigativreporter bei uns beim Handelsblatt und begleitet den Cum-Ex-Skandal, den Cum-Ex-Fall von vornherein und natürlich auch den Prozess. Hallo …
+>
+> — [[015 Hanno Berger Steuer-Guru vor Gericht|#15]], [Minute 4:49](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=289) · [[Transkript 015#Minute 4|im Transkript]]
+
+> … an und sind auch vor Ort. Ich spreche gleich dazu mit René Bender, meinem Kollegen aus dem Investigativ-Team. Mein Name ist Ina Karabasz. In diesem Podcast sprechen wir normalerweise alle zwei Wochen über die spannendsten …
+>
+> — [[055 Christian Olearius vor Gericht|#55]], [Minute 1:06](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=66) · [[Transkript 055#Minute 1|im Transkript]]
+
+> … Podcast-Team vorstellen. Ich stehe jetzt hier im Studio mit unserem Investigativ-Reporter René Bender. Hallo René. Hallo Zorak. Wir lernen uns ja auch gerade beide erst kennen. Wir arbeiten ja noch gar nicht so lange …
+>
+> — [[073 Meet the Team René Bender|#73]], [Minute 0:24](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=24) · [[Transkript 073#Minute 0|im Transkript]]
+
+> … uns natürlich auch bei Instagram schreiben oder wie gesagt gerne auch René Bender direkt kommentieren. Ja, vielen Dank, dass du das mit mir heute gemacht hast und wir uns jetzt auch mal ein bisschen …
+>
+> — [[073 Meet the Team René Bender|#73]], [Minute 10:23](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=623) · [[Transkript 073#Minute 10|im Transkript]]
+
+> … Prozess für Porsche und die Rennsportszene bedeutet, darüber spreche ich mit René Bender und Michael Verfürden aus dem Investigativ-Team. Sie haben den skurrilen Prozess im Gerichtssaal live verfolgt. In diesem Podcast sprechen wir alle zwei …
+>
+> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 3:28](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=208) · [[Transkript 074#Minute 3|im Transkript]]
+
+> … mal, wie es ihm geht. Hallo. Hallo, Herr Barth. Ja. Grüße Sie. Bender hier. Herr Bender. Zusammen mit der Kollegin Carabas und dem Kollegen Verfürden. Grüße Sie. Schön, dass das klappt. Hallo, Herr Barth. …
+>
+> — [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74]], [Minute 22:25](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1345) · [[Transkript 074#Minute 22|im Transkript]]
+
+> … heute in diesem Podcast. Gemeinsam mit den Handelsblatt-Investigativreportern Michael Verfürden und René Bender. Die beiden haben den Fall nämlich aufgedeckt. In diesem Podcast sprechen wir alle zwei Wochen über die größten Streit - und …
+>
+> — [[080 Der Bankenmanager und der Staatstrojaner|#80]], [Minute 2:46](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=166) · [[Transkript 080#Minute 2|im Transkript]]
+
+> … Mail an crime-at-handelsblatt.com oder auch gern persönlich an Michael Verfürden oder René Bender oder an mich. Da finden Sie mich auf LinkedIn oder Instagram unter solvai-gode. Und das gilt natürlich auch, wenn Sie Wünsche, …
+>
+> — [[080 Der Bankenmanager und der Staatstrojaner|#80]], [Minute 1:02:14](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3734) · [[Transkript 080#Minute 62|im Transkript]]
+
+> … ein Deal quasi. Über diese Gespräche haben Michael und sein Investigativkollege René Bender als Erste übrigens im Handelsblatt berichtet. Naja, und vorher hat von Erfa eben, wie gesagt, eisern geschwiegen. Und jetzt ist er …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 3:39](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=219) · [[Transkript 089#Minute 3|im Transkript]]
+
+> … in München beim Prozess war. Hallo Michael. Hallo Solbei. Und mit René Bender. René ist ebenfalls Reporter in unserem Investigativ-Team. Schön, dass du dabei bist. Hallo Solbei. Freue mich auch. So, bevor wir jetzt …
+>
+> — [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89]], [Minute 7:54](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=474) · [[Transkript 089#Minute 7|im Transkript]]
+
+> … entlassen und ein wichtiger Unternehmensberater musste dagegen hinein. Wie meine Kollegen René Bender und Lars-Marc Nagel aus dem Investigativ-Team im Dezember exklusiv berichtet haben, steht auch die Anklage hier kurz bevor. Mit ihnen spreche …
+>
+> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 0:38](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=38) · [[Transkript 107#Minute 0|im Transkript]]
+
+> … Hallo Zorwey. Ja und dann ist uns auch noch unser Investigativ-Kollege René Bender zugeschaltet. Der ist vor rund eineinhalb Jahren zu dem Fall dazugestoßen, als dieser zunehmend an strafrechtlicher Dynamik gewonnen hat. Hallo René. …
+>
+> — [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107]], [Minute 2:52](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=172) · [[Transkript 107#Minute 2|im Transkript]]
+
+## In diesen Folgen (7)
+
+- [[015 Hanno Berger Steuer-Guru vor Gericht|#15 – Hanno Berger: Steuer-Guru vor Gericht]] (2022-06-05) — Minute [2:06](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=126), [4:49](https://open.spotify.com/episode/0rdMLWCAdRJ9hWlICCyL8c?t=289)
+- [[055 Christian Olearius vor Gericht|#55 – Christian Olearius vor Gericht]] (2023-09-18) — Minute [1:06](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=66)
+- [[073 Meet the Team René Bender|#73 – Meet the Team: René Bender]] (2024-04-20) — Shownotes · Minute [0:24](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=24), [10:23](https://open.spotify.com/episode/2pYtjUSxkkj2NRviWC2FvM?t=623)
+- [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74 – Demontage einer Legende: Porsche-Ikone im Fadenkreuz der Justiz]] (2024-04-20) — Shownotes · Minute [3:28](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=208), [22:25](https://open.spotify.com/episode/5xGaeC5QXsAJkgVREjZcM6?t=1345)
+- [[080 Der Bankenmanager und der Staatstrojaner|#80 – Der Bankenmanager und der Staatstrojaner]] (2024-06-01) — Shownotes · Minute [2:46](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=166), [1:02:14](https://open.spotify.com/episode/3CGai4cUTtDn1z4DtLS6aM?t=3734)
+- [[089 Vor Ort beim Wirecard-Prozess Der dritte Angeklagte bricht sein Schweigen|#89 – Vor Ort beim Wirecard-Prozess: Der dritte Angeklagte bricht sein Schweigen]] (2024-07-28) — Shownotes · Minute [3:39](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=219), [7:54](https://open.spotify.com/episode/629hQJflglQT2xippCKZSC?t=474)
+- [[107 Brisante Unterlagen, Wirbel um Inhaftierungen Anklage im Fall um Textilfirma Sympatex|#107 – Brisante Unterlagen, Wirbel um Inhaftierungen: Anklage im Fall um Textilfirma Sympatex steht bevor]] (2025-02-09) — Shownotes · Minute [0:38](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=38), [2:52](https://open.spotify.com/episode/2J9vV28BQxIA0OBjLUnm9x?t=172)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 1
+folgen: 2
 tags: [personen]
 ---
 # Bernd Klein
@@ -20,10 +20,44 @@ Nach Kleins Darstellung steuerte Dehne die Gruppe aus dem Hintergrund; die offiz
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (1)
+> … gesprochen, dass das immer ein Thema ist. Wir müssen aber noch über Bernd Klein sprechen. Warum ist der so wichtig? Ja, Bernd Klein ist im Prinzip in diesem Jahr 2021, als der Birger Dene …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 17:44](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1064) · [[Transkript 139#Minute 17|im Transkript]]
 
-- [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes
+> … Denn, wir hatten es gesagt, Ende Januar hat dann eben jener Vorstand, Bernd Klein, für die zentralen Gesellschaften die Insolvenz angemeldet. Und zwar zunächst für die DACH Holding und dann für die DGAC Bestand …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 20:13](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1213) · [[Transkript 139#Minute 20|im Transkript]]
+
+> … waren Ende des Jahres die Immobilien immer mehr wert. Und der Herr Klein, der jetzt sozusagen der letzte Vorstand war, der ist zu der Zeit schon dabei. Und der arbeitet, ich glaube, der kommt …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 27:50](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1670) · [[Transkript 139#Minute 27|im Transkript]]
+
+> … noch verfügbar. Und das ist eben die neuen Chefs, das ist der Bernd Klein und dann gibt es noch einen Hans-Peter Hirse. Und was ich jetzt sozusagen von Insidern gehört habe, ist einfach, intern …
+>
+> — [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139]], [Minute 30:12](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1812) · [[Transkript 139#Minute 30|im Transkript]]
+
+> … jetzt geht's los mit der Folge. Viel Spaß. Ja, mein Name ist Bernd Klein. Lange für die Degag-Gruppe tätig gewesen. Studierter Betriebswirt. Über zehn Jahre im Grunde CEO bei einer Hotelbetriebsgesellschaft. Später dann bei …
+>
+> — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 0:37](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=37) · [[Transkript 140#Minute 0|im Transkript]]
+
+> … Studio ist wieder mein Kollege Lars-Martin Nagel, der auch das Interview mit Bernd Klein geführt hat. Er hat ihn auch zu auffälligen Millionenabflüssen in Richtung des Degag-Gründers Birgad Dehner befragt, über den wir das …
+>
+> — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 2:53](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=173) · [[Transkript 140#Minute 2|im Transkript]]
+
+> … weil wir sind sehr an Aufklärung interessiert. Also nochmal, warum ist jetzt Bernd Klein so an der Aufklärung interessiert? Warum spricht der? Naja, der steckt im Prinzip in einer Situation, die man auch so …
+>
+> — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 5:39](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=339) · [[Transkript 140#Minute 5|im Transkript]]
+
+> … und damit sie dann eben entsprechend verwaltet werden können. Ja, und wenn Bernd Klein jetzt von Anträgen spricht, damit meint der die Privatinvestoren. Das klingt jetzt so ein bisschen missverständlich, irgendwie so wie Anträge …
+>
+> — [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140]], [Minute 8:26](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=506) · [[Transkript 140#Minute 8|im Transkript]]
+
+## In diesen Folgen (2)
+
+- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Minute [17:44](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1064), [20:13](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1213), [27:50](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1670), [30:12](https://open.spotify.com/episode/7CiQtRCZ71EYFG1FvSCH8b?t=1812)
+- [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes · Minute [0:37](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=37), [2:53](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=173), [5:39](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=339), [8:26](https://open.spotify.com/episode/4gLQ2VQvzXJmcdTxMiWuZI?t=506)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

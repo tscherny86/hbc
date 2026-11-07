@@ -7,7 +7,7 @@ jahr: 2023
 datum: 2023-09-18
 dauer: "21:53"
 spotify: "https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5"
-transkript: false
+transkript: true
 tags: [folge, jahr-2023, folge]
 ---
 # Christian Olearius vor Gericht
@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-09-18 |
 | **Dauer** | 21:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5) · [MP3](https://audio.podigee-cdn.net/1219637-m-05ef8834224477ad558abb371d1c43d0.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/55-neue-episode) |
-| **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Cum-Ex]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]], [[Freshfields und Cum-Ex]] |
-| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[M.M. Warburg]], [[Freshfields]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
-| **Personen** | [[Christian Olearius]], [[Olaf Scholz]] |
-| **Kurz erwähnt** | – |
+| **Transkript** | [[Transkript 055]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Fälle** | [[Cum-Ex]], [[Warburg Bank und Christian Olearius]] |
+| **Themen** | [[Cum-Ex-Geschäfte]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Staatsanwaltschaft und Strafprozess]] |
+| **Unternehmen** | [[M.M. Warburg]], [[Landgericht Bonn]] |
+| **Personen** | [[Ina Karabasz]], [[René Bender]], [[Christian Olearius]], [[Olaf Scholz]] |
+| **Kurz erwähnt** | [[Prozess gegen Hanno Berger]], [[Wirecard]], [[Hanno Berger]], [[Strafverteidigung]] |
 
 ## Shownotes
 
@@ -48,6 +48,19 @@ Schwere Vorwürfe gegen Ex-Freshfields-Partner
 
 Ermittlungen gegen 14 ehemalige WestLB-Vorstände
 
+## Zeitmarken
+
+- [0:13](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=13) – Hallo und herzlich willkommen zu dieser Sonderfolge von Handelsblatt Crime. Sie haben es ja wahrscheinlich in den Nachrichten … ([[Transkript 055#Minute 0|Transkript]])
+- [2:16](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=136) – Das ist der, der so ein bisschen als Strippenzieher hinter dem Cum-Ex-Skandal auch gilt. Wer sich da nochmal … ([[Transkript 055#Minute 2|Transkript]])
+- [4:22](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=262) – Was genau sagt denn die Anklage? Da sind ja heute Morgen die Anklagen verlesen worden. Ja, die Anklage … ([[Transkript 055#Minute 4|Transkript]])
+- [6:28](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=388) – Beschreib mal, was da los ist. Das ist wahrscheinlich mit ein Grund dafür. Also kommen verschiedene Dinge zusammen. … ([[Transkript 055#Minute 6|Transkript]])
+- [8:31](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=511) – Und der hat auch seit Jahren eben Cum-Ex auf dem Schirm und beobachtet und begleitet das kritisch. Und … ([[Transkript 055#Minute 8|Transkript]])
+- [10:35](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=635) – Wenn das so war, dann hätte ja ein Treffen gereicht, um das Herrn Olearius zu sagen. Zu sagen, … ([[Transkript 055#Minute 10|Transkript]])
+- [12:38](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=758) – Und ich glaube, auch Fabio Di Masi wird es natürlich weiter sehr intensiv beobachten. Jemand anders, der dabei … ([[Transkript 055#Minute 12|Transkript]])
+- [14:43](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=883) – Ja, bis jetzt hat man noch kein Statement gehört von Gauweiler und auch nicht von den anderen Anwälten. … ([[Transkript 055#Minute 14|Transkript]])
+- [16:54](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1014) – Ja, es geht bei Herrn Olearius auch um das sogenannte Nachtatverhalten. Also wir haben einmal die Steuerhinterziehung, die … ([[Transkript 055#Minute 16|Transkript]])
+- [18:56](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1136) – Zum einen wird uns ein alter Bekannter wieder begegnen, und zwar der Kronzeuge. Ja, das wird aber nicht … ([[Transkript 055#Minute 18|Transkript]])
+- [20:59](https://open.spotify.com/episode/2TIeWv6WQBRKRMvi6gumq5?t=1259) – Bleiben Sie dran. Deal ist die All-in-One-Plattform für globale Teams. HR, IT und Payroll kommen hier mühelos zusammen, … ([[Transkript 055#Minute 20|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

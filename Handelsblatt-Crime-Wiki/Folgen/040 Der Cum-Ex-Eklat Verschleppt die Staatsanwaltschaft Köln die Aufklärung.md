@@ -7,7 +7,7 @@ jahr: 2023
 datum: 2023-03-26
 dauer: "50:03"
 spotify: "https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg"
-transkript: false
+transkript: true
 tags: [folge, jahr-2023, folge]
 ---
 # Der Cum-Ex-Eklat: Verschleppt die Staatsanwaltschaft Köln die Aufklärung?
@@ -18,12 +18,12 @@ tags: [folge, jahr-2023, folge]
 | **Datum** | 2023-03-26 |
 | **Dauer** | 50:03 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg) · [MP3](https://audio.podigee-cdn.net/1020394-m-81bfa779d0920941ff83402f50d7892c.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/40-new-episode) |
-| **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]] |
+| **Transkript** | [[Transkript 040]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Fälle** | [[Cum-Ex]], [[Prozess gegen Hanno Berger]], [[Cum-Ex-Ermittlungen in Köln (Brorhilker und Limbach)]], [[WestLB]], [[Warburg Bank und Christian Olearius]] |
 | **Themen** | [[Cum-Ex-Geschäfte]], [[Insolvenzverschleppung]], [[Steuerhinterziehung]], [[Staatsanwaltschaft und Strafprozess]], [[Landesbanken]] |
-| **Unternehmen** | [[Staatsanwaltschaft Köln]] |
-| **Personen** | [[Sönke Iwersen]], [[Volker Votsmeier]], [[Hanno Berger]], [[Anne Brorhilker]], [[Peter Biesenbach]], [[Jürgen Fitschen]] |
-| **Kurz erwähnt** | – |
+| **Unternehmen** | [[M.M. Warburg]], [[Staatsanwaltschaft Köln]], [[Landgericht Bonn]] |
+| **Personen** | [[Sönke Iwersen]], [[Benjamin Limbach]], [[Peter Biesenbach]] |
+| **Kurz erwähnt** | [[Landesbanken im Cum-Ex-Skandal]], [[LBBW-Cum-Ex]], [[LBBW]] |
 
 ## Shownotes
 
@@ -52,6 +52,34 @@ Zwei ehemalige HVB-Banker im Cum-Ex-Skandal zu Bewährungsstrafen verurteilt
 
 Fahnder in Fitschens Wohnung
 
+## Zeitmarken
+
+- [0:04](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=4) – Das Thema Cum-Ex beschäftigt uns ja schon eine ganze Weile. Es ist ein milliardenschwerer Steuerskandal. Cum-Ex war eine … ([[Transkript 040#Minute 0|Transkript]])
+- [2:08](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=128) – Mein Name ist Lena Jesberg und damit herzlich willkommen zu Handelsblatt Crime. Und zunächst einmal darf ich natürlich … ([[Transkript 040#Minute 2|Transkript]])
+- [4:10](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=250) – In München wird auch ein bisschen ermittelt. In Stuttgart, da beschränkt sich das aber auf wenige Fälle. Die … ([[Transkript 040#Minute 4|Transkript]])
+- [6:12](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=372) – Und ja, also unterm Strich ist die Behörde damit überfordert. Nach einer kurzen Unterbrechung geht es gleich weiter. … ([[Transkript 040#Minute 6|Transkript]])
+- [8:21](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=501) – Hat da angefangen, ja wie jede junge Staatsanwältin, mit, ich will nicht sagen Kleinkram, aber so aller Weltsachen, … ([[Transkript 040#Minute 8|Transkript]])
+- [10:24](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=624) – Ja, genau. Das kann man auf jeden Fall sagen. Das war 2013 und da kam noch ein bisschen … ([[Transkript 040#Minute 10|Transkript]])
+- [12:28](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=748) – Die waren halt sehr hoch, 10, 12, 15 Prozent innerhalb von wenigen Monaten. So wie viele andere Investoren … ([[Transkript 040#Minute 12|Transkript]])
+- [14:32](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=872) – Und ich höre nicht auf an dieser Tür oder jener Tür, weil das halt so schöne Türen sind, … ([[Transkript 040#Minute 14|Transkript]])
+- [16:35](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=995) – Und dafür braucht man natürlich wahnsinnig viel Manpower oder in diesem Fall Womanpower auch natürlich hauptsächlich. Und ja, … ([[Transkript 040#Minute 16|Transkript]])
+- [18:38](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1118) – Oder in diesem Fall 50 Millionen einzahlen und 100 zurückbekommen. Aber als die Staatsanwaltschaft das dann gefunden hat, … ([[Transkript 040#Minute 18|Transkript]])
+- [20:40](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1240) – Und da ist 4 ,7 Stellen natürlich immer noch relativ mager. Und damals gab es auch eine Pressekonferenz, … ([[Transkript 040#Minute 20|Transkript]])
+- [22:47](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1367) – Also ich habe da gesessen und gedacht, was ist denn hier los? Gibt es also das Prinzip Arbeitsteilung, … ([[Transkript 040#Minute 22|Transkript]])
+- [24:53](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1493) – Also er hat dann wohl gemerkt, dass es dann schon auch darauf ankommt, mehr Leute dahin zu setzen, … ([[Transkript 040#Minute 24|Transkript]])
+- [26:54](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1614) – Und das Landgericht Bonn tatsächlich, das war auch schon fertig oder kurz jedoch. Ich glaube, die Vorbereitungen waren … ([[Transkript 040#Minute 26|Transkript]])
+- [28:55](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1735) – Der Banker von MM Warburg, das war die rechte Hand von Christian Oliarius, der langjährigen Chef von Warburg. … ([[Transkript 040#Minute 28|Transkript]])
+- [30:57](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1857) – Also das ist gerade mal ein halbes Jahr, acht Monate her, dass er der Chef, dass das sein … ([[Transkript 040#Minute 30|Transkript]])
+- [33:01](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=1981) – Ich hoffe, dass der sich jetzt einmal rundherum informiert und dann feststellt, wie ich, dass es notwendig ist, … ([[Transkript 040#Minute 33|Transkript]])
+- [35:03](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2103) – Und die müssen erst aufwendig eingearbeitet werden. Also deswegen kann diese Hauptabteilung noch gar nicht die Schlagkraft entfalten, … ([[Transkript 040#Minute 35|Transkript]])
+- [37:05](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2225) – Cybersecurity, KI und dann wollen auch noch alle remote arbeiten. Wie soll ich mich denn auch noch darum … ([[Transkript 040#Minute 37|Transkript]])
+- [39:07](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2347) – Dann sagen die immer, die Ermittlungen laufen, melden sie sich in ein paar Monaten nochmal. Seit zehn Jahren … ([[Transkript 040#Minute 39|Transkript]])
+- [41:14](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2474) – Einige davon sind erledigt, sind auch bereits in der Revision vom Bundesgerichtshof gehalten worden. Nur die Zahl acht … ([[Transkript 040#Minute 41|Transkript]])
+- [43:22](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2602) – Ja, und warum der so brisant ist, das habt ihr natürlich schon erklärt. Und zwar in der Folge … ([[Transkript 040#Minute 43|Transkript]])
+- [45:24](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2724) – Sie hätten das zigmal geprüft und da wäre nichts. Und jetzt lassen sie uns doch endlich in Ruhe. … ([[Transkript 040#Minute 45|Transkript]])
+- [47:34](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2854) – Also das ist jetzt schon 18 Jahre her. In 15 Jahren wären sie dann 33 Jahre her. Und … ([[Transkript 040#Minute 47|Transkript]])
+- [49:38](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=2978) – Die haben nicht drauf gewartet. Aber wenn zwischen Tat und Urteil halt 15, also 25, 30 oder noch … ([[Transkript 040#Minute 49|Transkript]])
+- [51:42](https://open.spotify.com/episode/4fDrUl6iuCy7Ll750Skbbg?t=3102) – Setzen Sie ein klares Zeichen. Stärken Sie Ihre Arbeitgebermarke und geben Sie Bewerberinnen und Bewerbern die Orientierung, die … ([[Transkript 040#Minute 51|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

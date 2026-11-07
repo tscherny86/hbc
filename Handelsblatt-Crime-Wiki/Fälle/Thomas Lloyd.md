@@ -18,10 +18,39 @@ Parallel geriet auch der an der Londoner Börse gelistete ThomasLloyd Energy Imp
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … nicht dran. Denn ihr Vermögen hat sie angelegt, bei einem Investmenthaus namens Thomas Lloyd. Dort hat sie rund 300.000 Euro angelegt, die sie nun dringend benötigt, um die Chemotherapie und Medikamente zu bezahlen. Es …
+>
+> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 1:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=91) · [[Transkript 086#Minute 1|im Transkript]]
+
+> … schön. Ja, Lars, du bist ja schon seit 2019 an diesem Unternehmen Thomas Lloyd dran und hast immer wieder mit Kollegen auch darüber berichtet, dass es da bei diesen vermeintlichen so tollen und nachhaltigen …
+>
+> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 3:52](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=232) · [[Transkript 086#Minute 3|im Transkript]]
+
+> … in Finanzprodukte. Da gibt es ganz unterschiedliche Finanzprodukte, die aus diesem Investmenthaus Thomas Lloyd ausgegeben imitiert wurden. Das sind dann sogenannte Genussrechte, Direktbeteiligungen. Aber das meiste von dem Geld, das ist über eine Reihe …
+>
+> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 5:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=331) · [[Transkript 086#Minute 5|im Transkript]]
+
+> … heutigen Veranstaltung gerne dafür nutzen, Ihnen zu sagen, dass auch wir als Thomas Lloyd Verantwortung übernehmen, Verantwortung für Menschen in einer Region, in der wir nicht nur nachhaltig und dauerhaft seit vielen, vielen Jahren …
+>
+> — [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86]], [Minute 11:05](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=665) · [[Transkript 086#Minute 11|im Transkript]]
+
+> … ja jetzt gerade das erste Mal unsere gemeinsame Folge hier zusammen über Thomas Lloyd. Wie geht es dir denn heute so nach dieser Folge? Also wir mussten während der Aufnahme die Klimaanlage ausmachen, damit …
+>
+> — [[088 Meet the Team Lars-Marten Nagel|#88]], [Minute 0:39](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=39) · [[Transkript 088#Minute 0|im Transkript]]
+
+> … so große Brocken. Aber es gibt dann eben auch diese Themen wie Thomas Lloyd, die dich über Jahre begleiten, weil sie dann immer wieder mal hochkommen. Und jetzt kommt es halt gerade wieder hoch, …
+>
+> — [[088 Meet the Team Lars-Marten Nagel|#88]], [Minute 9:53](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=593) · [[Transkript 088#Minute 9|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes
+- [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes · Minute [1:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=91), [3:52](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=232), [5:31](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=331), [11:05](https://open.spotify.com/episode/07bTuyK3PFMOf2wjE0zrJ1?t=665)
+
+## Kurz erwähnt (1)
+
+- [[088 Meet the Team Lars-Marten Nagel|#88 – Meet the Team: Lars-Marten Nagel]] (2024-07-13) — Minute [0:39](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=39), [9:53](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=593)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

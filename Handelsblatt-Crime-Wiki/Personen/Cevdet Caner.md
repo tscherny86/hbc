@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 0
 tags: [personen]
 ---
 # Cevdet Caner
@@ -21,10 +21,9 @@ Die Vorwürfe lösten Ermittlungen der Staatsanwaltschaften in Frankfurt und Ber
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (2)
+## In diesen Folgen (0)
 
-- [[029 Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen Wie die Adler Gr|#29 – Umstrittene Immobiliendeals, dubiose Berater und fragwürdige Bilanzen: Wie die Adler Group in die Krise geriet (Teil 1)]] (2022-11-20) — Shownotes
-- [[051 Wie es zur Großrazzia bei der Adler Group kam|#51 – Wie es zur Großrazzia bei der Adler Group kam]] (2023-08-12) — Shownotes
+_bisher keine Folge, in der das ausführlich Thema war_
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

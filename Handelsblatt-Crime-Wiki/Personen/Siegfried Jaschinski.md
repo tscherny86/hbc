@@ -20,10 +20,19 @@ Ein Bericht der Stuttgarter Steuerfahndung, der dem Handelsblatt vorliegt, legt 
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Manager habe das vorab mit dem Handelsvorstand Hans-Joachim Ströder und Vorstandschef Siegfried Jaschinski besprochen die Vorlage habe er anschließend selbst in der Vorstandssitzung präsentiert und dann kommt so ein lockerer Satz oder nüchterner Satz …
+>
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 57:42](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3462) · [[Transkript 138#Minute 57|im Transkript]]
+
+> … Ebenen sind auch gleichzeitig die Verfahren gegen Herrn Strüder und gegen Herrn Jaschinski eingestellt worden Okay und damit sind wir wieder in dem Punkt von eben also sie sind strafrechtlich auf jeden Fall aus …
+>
+> — [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138]], [Minute 1:04:53](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3893) · [[Transkript 138#Minute 64|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[020 Landesbanken im Cum-Ex-Skandal Chefetagen als justizfreie Zone|#20 – Landesbanken im Cum-Ex-Skandal: Chefetagen als justizfreie Zone]] (2022-08-14) — Shownotes
+- [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Minute [57:42](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3462), [1:04:53](https://open.spotify.com/episode/6kecuVJRSgfAZFh1t5NnRA?t=3893)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

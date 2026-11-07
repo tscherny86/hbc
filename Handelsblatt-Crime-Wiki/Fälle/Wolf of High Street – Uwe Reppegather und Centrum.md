@@ -20,10 +20,15 @@ Der Fall zeigt, wie ein Immobilienunternehmer trotz Milliardenschulden rasch wie
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … der spanischen Polizei nehmen ihn zeitgleich auf Ibiza fest. Manche nennen ihn König der Kö oder Wolf of High Street. Er hat sich vom Hauptschüler zu einem der mächtigsten Player in der Immobilienbranche hochgearbeitet. …
+>
+> — [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144]], [Minute 1:10](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=70) · [[Transkript 144#Minute 1|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
+- [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes · Minute [1:10](https://open.spotify.com/episode/1wbnNoeKKGiI3hC5ZZHnOs?t=70)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

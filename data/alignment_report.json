@@ -1,1 +1,30 @@
-{}
+{
+ "145": {
+  "ratio": 0.62,
+  "replaced": 9,
+  "inserted": 0,
+  "deleted": 0,
+  "used": true
+ },
+ "146": {
+  "ratio": 0.839,
+  "replaced": 689,
+  "inserted": 68,
+  "deleted": 310,
+  "used": true
+ },
+ "147": {
+  "ratio": 0.865,
+  "replaced": 778,
+  "inserted": 58,
+  "deleted": 247,
+  "used": true
+ },
+ "149": {
+  "ratio": 0.775,
+  "replaced": 17,
+  "inserted": 0,
+  "deleted": 1,
+  "used": true
+ }
+}

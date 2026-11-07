@@ -45,7 +45,6 @@
    "\\bAnlegerbetrug\\w*",
    "\\bAnlagebetrug\\w*",
    "\\bKapitalanlagebetrug\\w*",
-   "\\bPrivatanleger\\w*",
    "\\bgeprellte\\w*",
    "\\bGrauer? Kapitalmarkt\\w*"
   ],

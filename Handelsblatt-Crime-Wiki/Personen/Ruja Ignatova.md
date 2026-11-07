@@ -20,10 +20,27 @@ Rund 20 Strafverfolgungsbehörden ermitteln gegen sie; das FBI setzte sie 2022 a
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … number one cryptocurrency global. Weltweit sucht die Polizei nach dieser Frau, Ruja Ignatova, bekannt als Krypto-Queen und bereits mehrfach wegen Betrugsverurteil. Die Staatsanwaltschaft verstärkt die Suche nach einer mutmaßlichen Betrügerin aus Bielefeld. Sie soll …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 0:33](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=33) · [[Transkript 016#Minute 0|im Transkript]]
+
+> … diesem Fall beschäftigt hat, fragt sich an irgendeinem Punkt, wer genau ist Dr. Ruja, wie ihre Anhänger sie gerne nennen. Wer sind ihre deutschen Helferinnen und Helfer und wieso ist der Spuk um OneCoin …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 2:05](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=125) · [[Transkript 016#Minute 2|im Transkript]]
+
+> … an der Spitze, da stand eben die sogenannte Krypto-Queen oder Krypto-Königin, Ruja Ignatova, eine richtige, ja, so eine Charismatikerin. Und Ruja oder Dr. Ruja, wie ihre Fans sie genannt haben, die ist gebürtige Bulgarin …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 4:12](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=252) · [[Transkript 016#Minute 4|im Transkript]]
+
+> … O-Ton reinhören, der, ja wie finde ich, sehr gut zeigt, wie Frau Ignatova es geschafft hat, ihre Community, ihr Netzwerk sozusagen dahingehend auch einzuschwören. Ja, jetzt muss man sagen, ehrlicherweise klingt das sehr charismatisch …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 7:00](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=420) · [[Transkript 016#Minute 7|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes
+- [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes · Minute [0:33](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=33), [2:05](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=125), [4:12](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=252), [7:00](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=420)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -20,10 +20,27 @@ Nach vier Jahren Ermittlungen erhob die Staatsanwaltschaft Hannover im Oktober 2
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … nach einem sicheren, soliden Investment. Der Chef der German Property Group, Charles Smethurst, der lockte die Investoren mit zweistelligen Renditen und Steuervorteilen. Bis dann plötzlich diese versprochenen Renditen nicht mehr ausgezahlt wurden. 2020 brach …
+>
+> — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 1:16](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=76) · [[Transkript 099#Minute 1|im Transkript]]
+
+> … German Property, beziehungsweise bei Dolphin Capital und Dolphin Trust. Das war Charles Smethurst. Und der war tatsächlich lange eine schillernde Figur in der Branche und auch sehr erfolgreich. Und manche haben ihn sogar Gentleman …
+>
+> — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 5:49](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=349) · [[Transkript 099#Minute 5|im Transkript]]
+
+> … soll er jetzt auf die Anklagebank. Was wirft denn die Staatsanwaltschaft Charles Smethurst vor? Ja, genau. Also die Ankläger gehen davon aus, dass Smethurst Anleger um ihr Geld gebracht hat. Offiziell ist von gewerbsmäßigen …
+>
+> — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 7:41](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=461) · [[Transkript 099#Minute 7|im Transkript]]
+
+> … Wirecard, einem der größten Anlegerskandale der deutschen Nachkriegsgeschichte. Also da hat Charles Smethurst offenbar ein großes Rad gedreht. Aber das ist ja nicht alles. Also da gibt es ja noch weitere Vorwürfe gegen ihn. …
+>
+> — [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99]], [Minute 11:17](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=677) · [[Transkript 099#Minute 11|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Shownotes
+- [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Shownotes · Minute [1:16](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=76), [5:49](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=349), [7:41](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=461), [11:17](https://open.spotify.com/episode/6VAS39mexufwWPtNIBkmuY?t=677)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

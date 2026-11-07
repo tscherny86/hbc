@@ -20,6 +20,10 @@ _Wie Windparks geplant und an Energiekonzerne verkauft werden – und warum sich
 
 ## Was im Podcast gesagt wird
 
+> … Ich würde gerne kurz vorher noch einmal über den Hackerangriff, Fragezeichen auf Windräder kommen. Auch das hat Schlagzeilen gemacht, dass da der Fernwartungszugang von Windrädern gestört worden ist, sodass sie jetzt tatsächlich von Hand …
+>
+> — [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9]], [Minute 17:00](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=1020) · [[Transkript 009#Minute 17|im Transkript]]
+
 > … Hendrik Holt. Sechs Jahre lang ist das mittlerweile her. Seitdem ist er als Windparkbetrüger und Hochstapler deutschlandweit bekannt geworden. Dafür hat er sogar selbst gesorgt. Noch während er im Gefängnis eine lange Haftstrafe absitzt, tritt …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 0:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=34) · [[Transkript 158#Minute 0|im Transkript]]
@@ -38,7 +42,7 @@ _Wie Windparks geplant und an Energiekonzerne verkauft werden – und warum sich
 
 ## In diesen Folgen (2)
 
-- [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes
+- [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes · Minute [17:00](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=1020)
 - [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [0:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=34), [4:14](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=254), [12:42](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=762), [16:08](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=968)
 
 ---

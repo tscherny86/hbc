@@ -24,10 +24,23 @@ Deutsche Behörden warnten vor Aktionismus: Computersabotage bleibt auch gegen r
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Ziel, Geld zu erbeuten. Wann beginnt eigentlich Vandalismus und wann beginnt der Cyberkrieg? In diesem Zusammenhang werden wir auch darüber sprechen, warum Behörden und Staatsanwälte derzeit deutlich vor privaten Cyberattacken auf russische Akteure waren. …
+>
+> — [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9]], [Minute 1:38](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=98) · [[Transkript 009#Minute 1|im Transkript]]
+
+> … gesagt haben, sie gehen jetzt Richtung Russland vor. Und zwar war das Anonymous, die haben eine IT-Army aufbauen wollen. Und deswegen lass uns einmal noch mal ganz kurz über eine dritte Gruppe von Hackern …
+>
+> — [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9]], [Minute 7:20](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=440) · [[Transkript 009#Minute 7|im Transkript]]
+
+> … Ich würde gerne kurz vorher noch einmal über den Hackerangriff, Fragezeichen auf Windräder kommen. Auch das hat Schlagzeilen gemacht, dass da der Fernwartungszugang von Windrädern gestört worden ist, sodass sie jetzt tatsächlich von Hand …
+>
+> — [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9]], [Minute 17:00](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=1020) · [[Transkript 009#Minute 17|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes
+- [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes · Minute [1:38](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=98), [7:20](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=440), [17:00](https://open.spotify.com/episode/6MelNf61aixRL9gBSaHBKI?t=1020)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 9
+folgen: 1
 tags: [themen]
 ---
 # Anlegerbetrug
@@ -25,33 +25,42 @@ Betroffen sind meist Privatanleger, die Beträge von einigen tausend bis mehrere
 
 ## Was im Podcast gesagt wird
 
-> … Haus. Mit seiner Hilfe wollen die Aufseher prüfen, ob die Fonds für Privatanleger ordnungsgemäß verweitet werden. Die Deutsche Finance ist schon ziemlich großer Player im Immobiliengeschäft. Rund 50.000 Privatanleger haben 1 ,5 Milliarden Euro …
+> … oder Artikel? Auch beides. Auch beides. Kann sich nicht entscheiden. Steuerhinterziehung oder Anlagebetrug? Auch beides. Signal, WhatsApp oder Telegram? Habe ich tatsächlich auch alles. Alles. Oder Mail? Mail. Also auf jedem Weg. Tatsächlich für …
 >
-> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 0:19](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=19) · [[Transkript 152#Minute 0|im Transkript]]
+> — [[088 Meet the Team Lars-Marten Nagel|#88]], [Minute 4:43](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=283) · [[Transkript 088#Minute 4|im Transkript]]
 
-> … große Investoren, Banken, Family Offices, aber natürlich auch kleine Investoren, also klassische Privatanleger. Welchen Investorentyp interessiert die BaFin gerade mehr? Ja, für den Sonderbeauftragten gilt, der kümmert sich um die Privatanleger. Und zwar, das …
+> … 2019 läuft das ja schon. Oder noch länger. Versuchen denn jetzt die geprellten Anleger irgendwie sich zu wehren? Also wir haben die Klagen, aber was machen die jetzt? Also die Frustration ist verständlicherweise bei …
 >
-> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 7:20](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=440) · [[Transkript 152#Minute 7|im Transkript]]
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 33:34](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=2014) · [[Transkript 112#Minute 33|im Transkript]]
 
-> … und das Besondere an ihrem Modell, sie will quasi die Welt der Privatanleger mit der der großen institutionellen Investoren verbinden. Und dafür haben sie dann auch einen Namen gefunden und sprechen von sogenannten Club-Deals. …
+> … ich da ran? Was passiert? Manche sind dann auch weitergegangen. Ein weiterer Geprellter hat auf Einschüchterung gesetzt und ist mit einem, ja, 1 ,90 Meter Profiboxer aufgetaucht, in der Hoffnung, irgendjemanden zur Rede zu …
 >
-> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 10:14](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=614) · [[Transkript 152#Minute 10|im Transkript]]
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 35:09](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=2109) · [[Transkript 112#Minute 35|im Transkript]]
 
-> … der Klassiker, kommt her, investiert, hier winken Riesenchancen. Genau. Wer Geld von Privatanlegern einsammeln will, der muss eine gute Geschichte erzählen. Und bei der Deutschen Finance klang das letztlich so. Die Privatanleger sollten eben …
+> … war wie ein Phantom. Niemand wusste so richtig, wo er war. Manche geprellte Anleger und Mitarbeitende haben dann auch einen Privatdetektiv oder sogar Plural Privatdetektive engagiert, die Höft gesucht haben. Und eine Privatdetektei hat …
 >
-> — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 12:03](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=723) · [[Transkript 152#Minute 12|im Transkript]]
+> — [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112]], [Minute 50:35](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=3035) · [[Transkript 112#Minute 50|im Transkript]]
 
-## In diesen Folgen (9)
+> … Betrügern, mutmaßlichen Betrügern im grauen Kapitalmarkt befassen. Sag nochmal, was ist der graue Kapitalmarkt? Genau, der graue Kapitalmarkt, wer es nicht kennt. Also wir alle kennen ja sozusagen den regulierten Kapitalmarkt, Kredite von Banken, …
+>
+> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 10:22](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=622) · [[Transkript 115#Minute 10|im Transkript]]
 
-- [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47 – Wie drei Tonnen Gold verschwanden: Der PIM-Gold-Skandal]] (2023-07-01) — Shownotes
-- [[059 Der Fall Sympatex Mutmaßlicher Millionenbetrug an Anlegern|#59 – Der Fall Sympatex: Mutmaßlicher Millionenbetrug an Anlegern]] (2023-11-18) — Shownotes
-- [[086 Thomas Lloyd Wie die populären Öko-Fonds in die Krise gerieten|#86 – Thomas Lloyd: Wie die populären Öko-Fonds in die Krise gerieten]] (2024-07-13) — Shownotes
-- [[099 Anklage gegen den Gentleman der Immobilienbranche Charles Smethurst soll Anleger um Mi|#99 – Anklage gegen den "Gentleman der Immobilienbranche": Charles Smethurst soll Anleger um Milliarden betrogen haben]] (2024-11-03) — Shownotes
-- [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes
-- [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes
-- [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes
-- [[140 Die Millionen-Pleite der Degag Jetzt spricht der letzte Vorstand|#140 – Die Millionen-Pleite der Degag: Jetzt spricht der letzte Vorstand]] (2026-02-22) — Shownotes
-- [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [0:19](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=19), [7:20](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=440), [10:14](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=614), [12:03](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=723)
+> … eingeräumt. Allerdings, das hat er damals so gesagt, waren die nicht wegen Anlagebetrugs. Okay, also er ist auf jeden Fall mehrfach auffällig geworden. Scheint so ein bisschen so, als ob er irgendwie so eine …
+>
+> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 35:13](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2113) · [[Transkript 115#Minute 35|im Transkript]]
+
+> … sind eigentlich weiterhin die, von denen wir vorhin gesprochen haben. Also weiter grauer Kapitalmarkt. Ja, genau. Also zuletzt ging es wieder um mutmaßliche Anlegerfallen. Also Zitatanlegerfallen. So stand es auf der Website. Und Mauri …
+>
+> — [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115]], [Minute 46:02](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2762) · [[Transkript 115#Minute 46|im Transkript]]
+
+## In diesen Folgen (1)
+
+- [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes · Minute [10:22](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=622), [35:13](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2113), [46:02](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ?t=2762)
+
+## Kurz erwähnt (2)
+
+- [[088 Meet the Team Lars-Marten Nagel|#88 – Meet the Team: Lars-Marten Nagel]] (2024-07-13) — Minute [4:43](https://open.spotify.com/episode/6htcHWQPt7qaczEiHSq670?t=283)
+- [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Minute [33:34](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=2014), [35:09](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=2109), [50:35](https://open.spotify.com/episode/6vej8QWFjCu7JuaTFR3KkE?t=3035)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

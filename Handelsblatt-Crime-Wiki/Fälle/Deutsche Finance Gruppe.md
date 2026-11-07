@@ -22,7 +22,7 @@ Für Anleger ist entscheidend, ob die Bewertungen der Immobilien in Zeiten gesti
 
 ## Was im Podcast gesagt wird
 
-> … drastisch wie ungewöhnlich. Mitte Juni schickte die Finanzaufsichtsbehörde BaFin der milliardenschweren Investmentgesellschaft Deutsche Finance einen Sonderbeauftragten ins Haus. Mit seiner Hilfe wollen die Aufseher prüfen, ob die Fonds für Privatanleger ordnungsgemäß verweitet werden. Die …
+> … drastisch wie ungewöhnlich. Mitte Juni schickte die Finanzaufsichtsbehörde BaFin der milliardenschweren Investmentgesellschaft Deutsche Finance einen Sonderbeauftragten ins Haus. Mit seiner Hilfe wollen die Aufseher prüfen, ob die Fonds für Privatanleger ordnungsgemäß verwaltet werden. Die Deutsche Finance …
 >
 > — [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152]], [Minute 0:12](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=12) · [[Transkript 152#Minute 0|im Transkript]]
 

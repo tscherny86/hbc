@@ -20,6 +20,22 @@ Kritik traf auch die beiden Prominenten selbst: Kofler soll als CEO ein mitteilu
 
 ## Was im Podcast gesagt wird
 
+> … sind Unternehmer, die sicher zu den bekannteren Managern in Deutschland gehören. Georg Kofler, Ralf Dümmel und Lars Windhorst. Im Mittelpunkt stehen aber vor allem Kofler und Dümmel, die als Fernsehjuroren einer breiten Öffentlichkeit bekannt …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 0:29](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=29) · [[Transkript 052#Minute 0|im Transkript]]
+
+> … wir einmal ganz vorn an. Was ist denn an dem Unternehmen der Social Chain AG so besonders gewesen? Ja, also die Social Chain AG, die wollte Marken - und Produkthaus der nächsten Generation werden. …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 2:45](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=165) · [[Transkript 052#Minute 2|im Transkript]]
+
+> … zurückgehen und schauen, wie sie sich einen Namen gemacht haben. Der Georg Kofler ist bekannt als Vorstandsvorsitzender der Fernsehsender ProSieben und Premiere, wo er Anfang der Nullerjahre quasi in die Top-Management-Riege in Deutschland aufgestiegen …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 4:25](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=265) · [[Transkript 052#Minute 4|im Transkript]]
+
+> … gehören auch andere dazu. Und eben, wie wir schon gehört haben, Georg Kofler und Ralf Dümmel. Und was man auch noch dazu sagen muss, die gehen eben mit den Investoren und mit den Gründern …
+>
+> — [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52]], [Minute 7:10](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=430) · [[Transkript 052#Minute 7|im Transkript]]
+
 > … Wirtschaftswunderkind. Er gründete und finanzierte zahlreiche Unternehmen, wurde Mitgründer und Chef der Social Chain AG und versuchte sich gemeinsam mit seiner Frau Anabel Oelmann ein neues Geschäft im Gesundheits - und Wellnessbereich aufzubauen. Jetzt …
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 0:43](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=43) · [[Transkript 160#Minute 0|im Transkript]]
@@ -38,7 +54,7 @@ Kritik traf auch die beiden Prominenten selbst: Kofler soll als CEO ein mitteilu
 
 ## In diesen Folgen (2)
 
-- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes
+- [[052 Die Hölle der Löwen Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte|#52 – Die Hölle der Löwen: Wie das Handelshaus zweier TV-Investoren in die Pleite rutschte]] (2023-08-26) — Shownotes · Minute [0:29](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=29), [2:45](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=165), [4:25](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=265), [7:10](https://open.spotify.com/episode/1WCgnwNL4yMAWy0gcNO379?t=430)
 - [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160 – Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling]] (2026-10-04) — Shownotes · Minute [0:43](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=43), [16:55](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1015), [22:36](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1356), [24:08](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=1448)
 
 ---

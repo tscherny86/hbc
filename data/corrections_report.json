@@ -1,34 +1,1140 @@
 {
- "151": {
+ "002": {
+  "summe": 3,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Geflogenheiten → Gepflogenheiten": 1
+  }
+ },
+ "003": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "004": {
+  "summe": 12,
+  "regeln": {
+   "Masalek → Marsalek": 8,
+   "Handelsbad → Handelsblatt": 2,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "005": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "006": {
+  "summe": 7,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 6,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "007": {
+  "summe": 29,
+  "regeln": {
+   "Masalek → Marsalek": 26,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Lars Martennagel → Lars-Marten Nagel": 1
+  }
+ },
+ "008": {
+  "summe": 4,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 2,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "009": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "010": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "011": {
+  "summe": 9,
+  "regeln": {
+   "Masalek → Marsalek": 7,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Prozesttag → Prozesstag": 1
+  }
+ },
+ "012": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 2,
+   "eidesstaatlichen → eidesstattlichen": 1
+  }
+ },
+ "013": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "014": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "015": {
+  "summe": 4,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Spiritus Rektor → Spiritus Rector": 1,
+   "Prozesttag → Prozesstag": 1
+  }
+ },
+ "016": {
+  "summe": 1,
+  "regeln": {
+   "Masalek → Marsalek": 1
+  }
+ },
+ "017": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "018": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "019": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "020": {
+  "summe": 5,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1,
+   "handelsbad.com → handelsblatt.com": 1
+  }
+ },
+ "021": {
+  "summe": 5,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 1,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "handelsbad.com → handelsblatt.com": 1
+  }
+ },
+ "022": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "023": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "024": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "025": {
+  "summe": 9,
+  "regeln": {
+   "Masalek → Marsalek": 6,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "026": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "027": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "028": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Prozesttag → Prozesstag": 1
+  }
+ },
+ "029": {
+  "summe": 5,
+  "regeln": {
+   "Masalek → Marsalek": 3,
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "030": {
+  "summe": 5,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1,
+   "Rechtschreitigkeiten → Rechtsstreitigkeiten": 1,
+   "handelsbad.com → handelsblatt.com": 1
+  }
+ },
+ "031": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "032": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "033": {
+  "summe": 5,
+  "regeln": {
+   "Masalek → Marsalek": 3,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "034": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "035": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "036": {
+  "summe": 4,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 2,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "crime-at-hannelsbad.com → crime@handelsblatt.com": 1
+  }
+ },
+ "037": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "038": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "039": {
+  "summe": 3,
+  "regeln": {
+   "Masalek → Marsalek": 3
+  }
+ },
+ "040": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "041": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "042": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "043": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "044": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "045": {
   "summe": 3,
   "regeln": {
    "Masalek → Marsalek": 2,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "046": {
+  "summe": 1,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "047": {
+  "summe": 1,
+  "regeln": {
+   "Lars Martennagel → Lars-Marten Nagel": 1
+  }
+ },
+ "048": {
+  "summe": 1,
+  "regeln": {
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "049": {
+  "summe": 27,
+  "regeln": {
+   "Masalek → Marsalek": 27
+  }
+ },
+ "050": {
+  "summe": 18,
+  "regeln": {
+   "Masalek → Marsalek": 17,
    "Ina Karabas → Ina Karabasz": 1
   }
  },
- "152": {
+ "051": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "052": {
+  "summe": 1,
+  "regeln": {
+   "Wannja Oberhof → Wanja Oberhof": 1
+  }
+ },
+ "053": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "054": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "055": {
+  "summe": 4,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "handelsbad.com → handelsblatt.com": 1,
+   "Handelsbad-Crime → Handelsblatt-crime": 1,
+   "crime.handelsbad.com → crime@handelsblatt.com": 1
+  }
+ },
+ "056": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "handelsbad.com → handelsblatt.com": 1
+  }
+ },
+ "057": {
+  "summe": 8,
+  "regeln": {
+   "Masalek → Marsalek": 8
+  }
+ },
+ "058": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "059": {
+  "summe": 4,
+  "regeln": {
+   "Stefan Götz → Stephan Goetz": 2,
+   "Lars Martennagel → Lars-Marten Nagel": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "060": {
   "summe": 1,
   "regeln": {
    "Ina Karabas → Ina Karabasz": 1
   }
  },
- "153": {
+ "061": {
   "summe": 1,
   "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "062": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "063": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "064": {
+  "summe": 7,
+  "regeln": {
+   "Masalek → Marsalek": 4,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Stefan Götz → Stephan Goetz": 1
+  }
+ },
+ "065": {
+  "summe": 2,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Masalek → Marsalek": 1
+  }
+ },
+ "066": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "067": {
+  "summe": 4,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 2,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "068": {
+  "summe": 2,
+  "regeln": {
+   "Lars Martennagel → Lars-Marten Nagel": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "069": {
+  "summe": 15,
+  "regeln": {
+   "Masalek → Marsalek": 13,
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "070": {
+  "summe": 4,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Reifeisenbank → Raiffeisenbank": 1,
+   "Reifeisenbanken → Raiffeisenbanken": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "071": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
    "Solveigode → Solveig Gode": 1
   }
  },
- "154": {
+ "072": {
+  "summe": 2,
+  "regeln": {
+   "Masalek → Marsalek": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "073": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "074": {
+  "summe": 2,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "075": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "076": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Spiritus Rektor → Spiritus Rector": 1
+  }
+ },
+ "077": {
+  "summe": 3,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 2,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "078": {
+  "summe": 2,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "079": {
+  "summe": 6,
+  "regeln": {
+   "Masalek → Marsalek": 5,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "080": {
+  "summe": 2,
+  "regeln": {
+   "Kings College → King's College": 2
+  }
+ },
+ "081": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "082": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "083": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "084": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "crime.handelsbad.com → crime@handelsblatt.com": 1
+  }
+ },
+ "085": {
+  "summe": 1,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "086": {
+  "summe": 2,
+  "regeln": {
+   "Lars Martennagel → Lars-Marten Nagel": 2
+  }
+ },
+ "087": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "088": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "089": {
+  "summe": 5,
+  "regeln": {
+   "Masalek → Marsalek": 4,
+   "Michael Verführten → Michael Verfürden": 1
+  }
+ },
+ "090": {
+  "summe": 7,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 4,
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "handelsbad-crime → handelsblatt-crime": 1
+  }
+ },
+ "091": {
+  "summe": 1,
+  "regeln": {
+   "handelsbad-crime → handelsblatt-crime": 1
+  }
+ },
+ "092": {
+  "summe": 2,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 1,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "093": {
   "summe": 11,
+  "regeln": {
+   "Masalek → Marsalek": 10,
+   "Michael Verführten → Michael Verfürden": 1
+  }
+ },
+ "094": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "095": {
+  "summe": 3,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "096": {
+  "summe": 1,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1
+  }
+ },
+ "097": {
+  "summe": 5,
+  "regeln": {
+   "Stefan Leupfinger → Stefan Loipfinger": 5
+  }
+ },
+ "098": {
+  "summe": 25,
+  "regeln": {
+   "Götz Partners → Goetzpartners": 17,
+   "Stefan Götz → Stephan Goetz": 8
+  }
+ },
+ "099": {
+  "summe": 2,
+  "regeln": {
+   "Solveigode → Solveig Gode": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "100": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "101": {
+  "summe": 3,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "102": {
+  "summe": 13,
+  "regeln": {
+   "Masalek → Marsalek": 12,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "103": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "104": {
+  "summe": 7,
+  "regeln": {
+   "Götz Partners → Goetzpartners": 4,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Reifeisenbanken → Raiffeisenbanken": 1
+  }
+ },
+ "105": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "106": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "107": {
+  "summe": 19,
+  "regeln": {
+   "Stefan Götz → Stephan Goetz": 11,
+   "Götz Partners → Goetzpartners": 7,
+   "Kompanion → Kompagnon": 1
+  }
+ },
+ "108": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "109": {
+  "summe": 5,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Michael Verführten → Michael Verfürden": 1,
+   "crime.handelsbad.com → crime@handelsblatt.com": 1,
+   "handelsbad-crime → handelsblatt-crime": 1
+  }
+ },
+ "110": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Michael Verführten → Michael Verfürden": 1
+  }
+ },
+ "111": {
+  "summe": 29,
+  "regeln": {
+   "Masalek → Marsalek": 28,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "112": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "113": {
+  "summe": 3,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 2,
+   "Reifeisenbank → Raiffeisenbank": 1
+  }
+ },
+ "114": {
+  "summe": 4,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 3,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "115": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "116": {
+  "summe": 2,
+  "regeln": {
+   "Masalek → Marsalek": 2
+  }
+ },
+ "117": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "118": {
+  "summe": 4,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 1,
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "handelsbad-crime → handelsblatt-crime": 1
+  }
+ },
+ "119": {
+  "summe": 8,
+  "regeln": {
+   "Götz Partners → Goetzpartners": 5,
+   "Stefan Götz → Stephan Goetz": 3
+  }
+ },
+ "120": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "121": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "123": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "124": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "125": {
+  "summe": 2,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1,
+   "Solveigode → Solveig Gode": 1
+  }
+ },
+ "126": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "127": {
+  "summe": 1,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "128": {
+  "summe": 2,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 2
+  }
+ },
+ "129": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 2
+  }
+ },
+ "130": {
+  "summe": 2,
+  "regeln": {
+   "Lars Martennagel → Lars-Marten Nagel": 1,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "131": {
+  "summe": 7,
+  "regeln": {
+   "Masalek → Marsalek": 6,
+   "Solveigode → Solveig Gode": 1
+  }
+ },
+ "133": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "134": {
+  "summe": 1,
+  "regeln": {
+   "Masalek → Marsalek": 1
+  }
+ },
+ "135": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "136": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "137": {
+  "summe": 4,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1,
+   "Masalek → Marsalek": 1
+  }
+ },
+ "138": {
+  "summe": 2,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsgutcrime → Handelsblatt Crime": 1
+  }
+ },
+ "139": {
+  "summe": 2,
+  "regeln": {
+   "Lars Martennagel → Lars-Marten Nagel": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "140": {
+  "summe": 1,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "141": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "142": {
+  "summe": 8,
+  "regeln": {
+   "André Thierich → André Thierig": 5,
+   "Ina Karabas → Ina Karabasz": 1,
+   "crime.handelsbad.com → crime@handelsblatt.com": 1,
+   "handelsbad-crime → handelsblatt-crime": 1
+  }
+ },
+ "143": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "144": {
+  "summe": 2,
+  "regeln": {
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1
+  }
+ },
+ "145": {
+  "summe": 3,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Handelsbad → Handelsblatt": 1,
+   "handelsbad.com → handelsblatt.com": 1
+  }
+ },
+ "146": {
+  "summe": 1,
+  "regeln": {
+   "Handelsbad → Handelsblatt": 1
+  }
+ },
+ "147": {
+  "summe": 2,
+  "regeln": {
+   "Ina Karabas → Ina Karabasz": 1,
+   "Sönke Iversen → Sönke Iwersen": 1
+  }
+ },
+ "148": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "149": {
+  "summe": 0,
+  "regeln": {}
+ },
+ "150": {
+  "summe": 2,
+  "regeln": {
+   "Sönke Iversen → Sönke Iwersen": 1,
+   "Volker Votzmeier → Volker Votsmeier": 1
+  }
+ },
+ "151": {
+  "summe": 100,
+  "regeln": {
+   "Ackerwaren → Akhavan": 13,
+   "Weigern → Weigand": 6,
+   "Hülemann → Hüllemann": 5,
+   "Häuser-Axner → Häuser-Axtner": 4,
+   "UNSAR → Unzer": 3,
+   "Concades → Concardis": 2,
+   "Masalek → Marsalek": 2,
+   "Heidel Pay → Heidelpay": 2,
+   "Häuser-Achsner → Häuser-Axtner": 2,
+   "Häuser Axner → Häuser-Axtner": 2,
+   "Zahlungsdienstleister wie unser, Payone → Zahlungsdienstleister wie Unzer, Payone": 1,
+   "Michael Verführten → Michael Verfürden": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "Chargeback-Feder führend leitet → Chargeback federführend leitet": 1,
+   "Comex betrachtet → Cum-Ex betrachtet": 1,
+   "Payone, Concadis, Unser und Wirecard → Payone, Concardis, Unzer und Wirecard": 1,
+   "Ray Acker waren → Ray Akhavan": 1,
+   "Payone und uns ein Spiel → Payone und Unzer ins Spiel": 1,
+   "Jan-Massadek → Jan Marsalek": 1,
+   "Fall UNSER → Fall Unzer": 1,
+   "die Heidelgrube → die Heidelpay Group": 1,
+   "Wettbewerber von Unser → Wettbewerber von Unzer": 1,
+   "ich spreche jetzt immer von Unser → ich spreche jetzt immer von Unzer": 1,
+   "Unser-Wettbewerber → Unzer-Wettbewerber": 1,
+   "Konkades → Concardis": 1,
+   "Unser-Chef → Unzer-Chef": 1,
+   "Wirtschaftsstraßverfahrens → Wirtschaftsstrafverfahren": 1,
+   "unser soll für Händler → Unzer soll für Händler": 1,
+   "Fleischstempel → Fleischtempel": 1,
+   "ein paar andere unserer Vertreter → ein paar andere Unzer-Vertreter": 1,
+   "Kontenfunktionen bei UNSER → Kontenfunktionen bei Unzer": 1,
+   "da steht dann UNSER → da steht dann Unzer": 1,
+   "nach Außenland unter dem Namen → nach außen dann unter dem Namen": 1,
+   "der Vorwort der Staatsanwaltschaft → der Vorwurf der Staatsanwaltschaft": 1,
+   "Und unser soll dabei → Und Unzer soll dabei": 1,
+   "dass unser genau solche Pooling-Konten → dass Unzer genau solche Pooling-Konten": 1,
+   "Scheinwirrmark → Scheinfirma": 1,
+   "zusammenreiben → zusammenreimen": 1,
+   "So die Thieser Staatsanwaltschaft → So die These der Staatsanwaltschaft": 1,
+   "sieht ihn jetzt bei uns eben in dieser Rolle → sieht ihn jetzt bei Unzer eben in dieser Rolle": 1,
+   "überweigern vermittelten → über Weigand vermittelten": 1,
+   "Geldwäsche-Prävention bei UNSER → Geldwäsche-Prävention bei Unzer": 1,
+   "dass UNSER seine Kunden kenne → dass Unzer seine Kunden kenne": 1,
+   "der Blitzziel → der Blitzdeal": 1,
+   "Firmenhöhle → Firmenhülle": 1,
+   "Heidel Pay Group → Heidelpay Group": 1,
+   "Der, ja, unser wollte → Der, ja, Unzer wollte": 1,
+   "Entwicklung von Unser orientieren → Entwicklung von Unzer orientieren": 1,
+   "Entwicklung von Unser profitiert → Entwicklung von Unzer profitiert": 1,
+   "hat Unser übernommen → hat Unzer übernommen": 1,
+   "Unternehmenswert von Unser → Unternehmenswert von Unzer": 1,
+   "Weigerns → Weigands": 1,
+   "als Chef von unserer, von dieser Übernahme → als Chef von Unzer, von dieser Übernahme": 1,
+   "Untersuchungshafte → Untersuchungshaft": 1,
+   "weigernd → Weigand": 1,
+   "auszucachen → auszucashen": 1,
+   "ob unser diese Zahlung an Weigand → ob Unzer diese Zahlung an Weigand": 1,
+   "die er an uns vermittelt haben → die er an Unzer vermittelt hat": 1,
+   "Hülemanns → Hüllemanns": 1,
+   "UNSAS zur Weigand → Unzers zu Weigand": 1,
+   "genauso wie unser auch einer dieser großen Zahlungsdienstleister → genauso wie Unzer auch einer dieser großen Zahlungsdienstleister": 1,
+   "Häuser-Achsners-Verteidiger → Häuser-Axtners Verteidiger": 1,
+   "zum Fall unser → zum Fall Unzer": 1,
+   "Baxi-Häuser-Axner → Baxi Häuser-Axtner": 1,
+   "Bono-Webseite → Porno-Webseite": 1,
+   "Ray Ackermann persönlich → Ray Akhavan persönlich": 1,
+   "die Häuserachsen → die Häuser-Axtner": 1,
+   "Ruben Weigernd → Ruben Weigand": 1,
+   "Wirecards-Prozesses → Wirecard-Prozesses": 1
+  }
+ },
+ "152": {
+  "summe": 51,
+  "regeln": {
+   "Schwoh → Shvo": 5,
+   "Stefan Leupfinger → Stefan Loipfinger": 4,
+   "Hauk & Aufhäuser → Hauck & Aufhäuser": 3,
+   "ordnungsgemäß verweitet werden → ordnungsgemäß verwaltet werden": 1,
+   "Fondkonstruktionen → Fondskonstruktionen": 1,
+   "interessiert sich inzwischen für den Pfeil → interessiert sich inzwischen für den Fall": 1,
+   "Ina Karabas → Ina Karabasz": 1,
+   "ungesprachlich so sagen → umgangssprachlich so sagen": 1,
+   "in der Form Verwaltung tatsächlich → in der Fondsverwaltung tatsächlich": 1,
+   "renditerstarke → renditestarke": 1,
+   "Handelsball-Crime → Handelsblatt Crime": 1,
+   "beschörerische Stimme → beschwörerische Stimme": 1,
+   "Oliver Thomas Müller → Thomas Oliver Müller": 1,
+   "Eigenkapitantranche → Eigenkapitaltranche": 1,
+   "BVK-Vorschungschef → BVK-Vorstandschef": 1,
+   "Axel Untenreuther → Axel Uttenreuther": 1,
+   "Pensionskosten auch in den USA → Pensionskassen auch in den USA": 1,
+   "in der Anmacht ja immer → in der Anmod ja immer": 1,
+   "Michael Schwoh → Michael Shvo": 1,
+   "Transamerika-Pyramid → Transamerica Pyramid": 1,
+   "Rainer Komender → Rainer Komenda": 1,
+   "Komender → Komenda": 1,
+   "Komenders → Komendas": 1,
+   "Lokalredaktion Wollmirstedt → Lokalredaktion Wolmirstedt": 1,
+   "Umsatzregelrecht → Umsatz regelrecht": 1,
+   "Immobilienzene → Immobilienszene": 1,
+   "Titel Investment Check → Titel Investmentcheck": 1,
+   "verherrenden → verheerenden": 1,
+   "TFTS University → Tufts University": 1,
+   "in der Erwerbung hieß es → In der Werbung hieß es": 1,
+   "Konsorsbank → Consorsbank": 1,
+   "Anschlageschwerpunkt → Anlageschwerpunkt": 1,
+   "Real Assets, RAEF → Real Assets, RAIF": 1,
+   "deutschen Finals in Luxemburg → Deutschen Finance in Luxemburg": 1,
+   "für die 3FM in Luxemburg → für die AIFM in Luxemburg": 1,
+   "AEFM → AIFM": 1,
+   "Zwangslegislation → Zwangsliquidation": 1,
+   "kein AFM → kein AIFM": 1,
+   "dann gibt es auf Dauer auch den vorn in Luxemburg nicht mehr → dann gibt es auf Dauer auch den Fonds in Luxemburg nicht mehr": 1,
+   "neuen AFM gibt → neuen AIFM gibt": 1,
+   "Kanzleien Mathilde und Dr. Gregor → Kanzleien Mattil und Dr. Greger": 1,
+   "für das Handelspartner natürlich weiter verfolgen → für das Handelsblatt natürlich weiter verfolgen": 1
+  }
+ },
+ "153": {
+  "summe": 53,
+  "regeln": {
+   "Bravo → Brawo": 37,
+   "Solveigode → Solveig Gode": 1,
+   "Bravo-Park → Brawo-Park": 1,
+   "Pagera → Paguera": 1,
+   "760 Quadramen → 760 Quadratmetern": 1,
+   "Mehrblick → Meerblick": 1,
+   "Bundesverband der Deutschen Volksbank und Reifeisenbanken → Bundesverband der Deutschen Volksbanken und Raiffeisenbanken": 1,
+   "Reifeisenbanken → Raiffeisenbanken": 1,
+   "Bravo-Konzern → Brawo-Konzern": 1,
+   "Bravo-Mitteilung → Brawo-Mitteilung": 1,
+   "Konsorsbank-Depot → Consorsbank-Depot": 1,
+   "Konsorsbank → Consorsbank": 1,
+   "konsorsbank.de slash uptrade → consorsbank.de/uptrade": 1,
+   "Rainer Melles → Rainer Mellis": 1,
+   "Reifeisenbank → Raiffeisenbank": 1,
+   "Bad Salzungen-Schmal-Kalden → Bad Salzungen-Schmalkalden": 1,
+   "Vorstadt und Aufsichtsrat → Vorstand und Aufsichtsrat": 1
+  }
+ },
+ "154": {
+  "summe": 22,
   "regeln": {
    "Sönke Iversen → Sönke Iwersen": 3,
    "Handelsbad → Handelsblatt": 2,
+   "Handelsband Crime → Handelsblatt Crime": 2,
+   "Meckel und Mattes → Meckel und Matthes": 2,
    "Sebastian Mattes → Sebastian Matthes": 1,
    "danke für die Anladung → danke für die Einladung": 1,
    "eine solche Hücke zulassen → eine solche Lücke zulassen": 1,
    "Michael Verführen → Michael Verfürden": 1,
+   "Andrea Wassmuth → Andrea Wasmuth": 1,
+   "Dieter von Holzbrink → Dieter von Holtzbrinck": 1,
+   "nichtdestotrotz → nichtsdestotrotz": 1,
    "Mir fehlt noch eine andere Geschichte ein → Mir fällt noch eine andere Geschichte ein": 1,
-   "Tesla Fights → Tesla-Files": 1
+   "Tesla Fights → Tesla-Files": 1,
+   "im Handelsplan einen großen Fall → im Handelsblatt einen großen Fall": 1,
+   "Inves-Egitiv-Team → Investigativ-Team": 1,
+   "Co-Ressortleiterins Unternehmensressorts → Co-Ressortleiterin des Unternehmensressorts": 1,
+   "Hannes Bad Crime → Handelsblatt Crime": 1
   }
  },
  "155": {

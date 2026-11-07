@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 1
 tags: [personen]
 ---
 # Nancy Faeser
@@ -20,11 +20,27 @@ Rund ein Jahr nach der Demission wurde die Affäre zum Bumerang: CDU-Abgeordnete
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
 
-## In diesen Folgen (2)
+> … oberste Cybersicherheitsexperte im Land. Beziehungsweise er war es. Seine Chefin, Bundesinnenministerin Nancy Faeser von der SPD, die hat Schönbohm im Oktober 2022 des Amtes enthoben. Nachdem der Satiriker Jan Böhmermann den BSI-Präsidenten in seiner …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 0:29](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=29) · [[Transkript 054#Minute 0|im Transkript]]
 
-- [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes
-- [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54 – Boomerang für die Innenministerin: Die Affäre um den geschassten BSI-Präsidenten verhagelt Nancy Faeser den Wahlkampf]] (2023-09-23) — Shownotes
+> … Namen, wir haben heftige Vorwürfe. Du hast es gerade gesagt, Bundesinnenministerin Nancy Faeser, die jetzt ja auch noch als Spitzenkandidatin für die Landtagswahl in Hessen antritt, musste sich jetzt in den letzten Tagen anhören, …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 3:18](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=198) · [[Transkript 054#Minute 3|im Transkript]]
+
+> … ne? Wir wissen aus ganz vielen Hintergrundgesprächen, dass der enge Zirkel von Feser schon an Tag 1 nach der Böbermann-Sendung eigentlich den Entschluss gefasst hat, dass das oberste Ziel lauten muss, Schaden vom Amt …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 28:01](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1681) · [[Transkript 054#Minute 28|im Transkript]]
+
+> … der hat dann zwar etwas später, aber auch einen Protestbrief an Frau Feser geschrieben. Und da wird er auch sehr deutlich. Also er wirft da der Ministerin vor, die Behörde im Stich zu lassen. …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 32:12](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1932) · [[Transkript 054#Minute 32|im Transkript]]
+
+## In diesen Folgen (1)
+
+- [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54 – Boomerang für die Innenministerin: Die Affäre um den geschassten BSI-Präsidenten verhagelt Nancy Faeser den Wahlkampf]] (2023-09-23) — Shownotes · Minute [0:29](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=29), [3:18](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=198), [28:01](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1681), [32:12](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=1932)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

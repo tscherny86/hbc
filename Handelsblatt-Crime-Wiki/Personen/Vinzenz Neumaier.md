@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 3
+folgen: 1
 tags: [personen]
 ---
 # Vinzenz Neumaier
@@ -15,10 +15,8 @@ _Investigativ-Redakteur; Fälle um Finanzinvestoren, Private Equity und Tech-Unt
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (3)
+## In diesen Folgen (1)
 
-- [[039 Wirecard Ex-Chef Markus Braun will von Nichts gewusst haben|#39 – Wirecard: Ex-Chef Markus Braun will von Nichts gewusst haben]] (2023-03-12) — Shownotes
-- [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes
 - [[081 Meet the Team Vinzenz Neumaier|#81 – Meet the Team: Vinzenz Neumaier]] (2024-06-01) — Shownotes
 
 ---

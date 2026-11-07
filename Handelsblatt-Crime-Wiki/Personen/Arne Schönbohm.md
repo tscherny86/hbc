@@ -20,10 +20,27 @@ Schönbohm wurde später Präsident der Hochschule des Bundes für öffentliche 
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … Hackern angegriffen wurden, dann riefen sie bis vor ungefähr einem Jahr Arne Schönbohm zu Hilfe. Der damalige Präsident des Bundesamts für Sicherheit in der Informationstechnik oder kurz BSI ist so etwas wie der oberste …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 0:11](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=11) · [[Transkript 054#Minute 0|im Transkript]]
+
+> … Mit ihrer Kollegin Selina Bettendorf vom Tagesspiegel haben sie sich den Fall Schönbohm genauer angesehen und versucht, die Hintergründe seiner Demission zu rekonstruieren. Mit ihnen werde ich heute darüber sprechen, was an den Vorwürfen …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 1:45](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=105) · [[Transkript 054#Minute 1|im Transkript]]
+
+> … sprechen werden heute, nämlich den Cybersicherheitsrat Deutschland e.V. Den haben Dünn und Schönbohm dann nämlich 2012 gemeinsam gegründet. Und das Ziel der beiden und dieses Vereins war, ja, das damalige Nischenthema Cybersicherheit aus genau …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 9:27](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=567) · [[Transkript 054#Minute 9|im Transkript]]
+
+> … die da irgendwo ein Netzwerk alter CDU-Granten sehen. Ja, den Maizière, CDU-Innenminister, Schönbohm, so. Das hat man unterstellt, ja. Ich muss ganz ehrlich sagen, ich habe damals auch schon über das Thema geschrieben. Und …
+>
+> — [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54]], [Minute 12:02](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=722) · [[Transkript 054#Minute 12|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54 – Boomerang für die Innenministerin: Die Affäre um den geschassten BSI-Präsidenten verhagelt Nancy Faeser den Wahlkampf]] (2023-09-23) — Shownotes
+- [[054 Boomerang für die Innenministerin Die Affäre um den geschassten BSI-Präsidenten verhag|#54 – Boomerang für die Innenministerin: Die Affäre um den geschassten BSI-Präsidenten verhagelt Nancy Faeser den Wahlkampf]] (2023-09-23) — Shownotes · Minute [0:11](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=11), [1:45](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=105), [9:27](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=567), [12:02](https://open.spotify.com/episode/0shQNAyUzaQV5CCjbg2mbd?t=722)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

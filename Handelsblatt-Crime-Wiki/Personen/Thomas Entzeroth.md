@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 0
 tags: [personen]
 ---
 # Thomas Entzeroth
@@ -21,10 +21,9 @@ Der Prozess vor dem Landgericht Berlin begann im Februar 2024; zunächst schwieg
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (2)
+## In diesen Folgen (0)
 
-- [[068 Die Vermögensverwalter von Picam Wie mehr als 300 Millionen Euro verschwanden|#68 – Die Vermögensverwalter von Picam: Wie mehr als 300 Millionen Euro verschwanden]] (2024-02-24) — Shownotes
-- [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Shownotes
+_bisher keine Folge, in der das ausführlich Thema war_
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

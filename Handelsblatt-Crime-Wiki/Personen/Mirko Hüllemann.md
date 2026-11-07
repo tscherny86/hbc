@@ -22,7 +22,7 @@ Die Reporter René Bender und Michael Verfürden gehen in der Folge vom Juni 202
 
 ## Was im Podcast gesagt wird
 
-> … anderen Recherche, mit dem Fall UNSER beschäftigt und dem ehemaligen Chef Mirko Hüllemann, der jetzt auch in dem Fall zu den Beschuldigten gehört. Erzählt mal bitte ein bisschen was über den, René. Ja, Mirko …
+> … einer anderen Recherche, mit dem Fall Unzer beschäftigt und dem ehemaligen Chef Mirko Hüllemann, der jetzt auch in dem Fall zu den Beschuldigten gehört. Erzählt mal bitte ein bisschen was über den, René. Ja, Mirko …
 >
 > — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 9:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=588) · [[Transkript 151#Minute 9|im Transkript]]
 

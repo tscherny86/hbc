@@ -7,7 +7,7 @@ jahr: 2025
 datum: 2025-12-11
 dauer: "0:30"
 spotify: "https://open.spotify.com/episode/3zjSMeUP8mUMfd7ATk89DR"
-transkript: false
+transkript: true
 tags: [folge, jahr-2025, hinweis]
 ---
 # Neue Crime Live-Show Termine im Februar 2026: Die letzten 48 Stunden von Wirecard
@@ -18,11 +18,11 @@ tags: [folge, jahr-2025, hinweis]
 | **Datum** | 2025-12-11 |
 | **Dauer** | 0:30 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/3zjSMeUP8mUMfd7ATk89DR) · [MP3](https://audio.podigee-cdn.net/2253701-m-ccce35b76d87844649f86395955053f3.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/136-neue-crime-live-show-termine-im-februar-2026-die-letzten-48-stunden-von-wirecard) |
-| **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]] |
+| **Transkript** | [[Transkript 136]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Fälle** | [[Wirecard]] |
 | **Themen** | – |
 | **Unternehmen** | – |
-| **Personen** | [[Jan Marsalek]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]] |
 | **Kurz erwähnt** | – |
 
 ## Shownotes
@@ -36,6 +36,9 @@ Handelsblatt Crime bringt den Skandalkonzern Wirecard auf die Bühne. Welche Tex
 Also, kommt vorbei! Wir freuen uns, euch zu treffen!
 **Tickets gibt’s hier: **Handelsblatt Crime LIVE - Die letzten 48 Stunden Wirecard - Infos & Termine
 
+## Zeitmarken
+
+- [0:00](https://open.spotify.com/episode/3zjSMeUP8mUMfd7ATk89DR?t=0) – Fast sechs Jahre ist der Absturz von Wirecard jetzt her. Aber wie sind eigentlich die letzten 48 Stunden … ([[Transkript 136#Minute 0|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

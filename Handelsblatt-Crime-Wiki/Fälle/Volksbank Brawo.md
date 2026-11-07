@@ -20,6 +20,14 @@ Offen ist, welche Kontrollmechanismen versagt haben – Aufsichtsrat, Genossensc
 
 ## Was im Podcast gesagt wird
 
+> … für Sicherheit und regionale Verbundenheit. Aber bei der angeschlagenen Volksbank Braunschweig-Wolfsburg, kurz Brawo, da ist das ein bisschen anders. Über ihre Holding ist sie an mehr als 400 Gesellschaften beteiligt. Restaurants, Fintechs, Fitnessstudios und …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 0:15](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=15) · [[Transkript 153#Minute 0|im Transkript]]
+
+> … ihr euch ja noch. Ja Elisabeth, wenn man diesen Fall der Volksbank Brawo, also Braunschweig-Wolfsburg verfolgt, dann bekommt man irgendwie ziemlich schnell den Eindruck, dass hier eine Genossenschaftsbank ziemlich aus der Spur geraten ist. …
+>
+> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 2:06](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=126) · [[Transkript 153#Minute 2|im Transkript]]
+
 > … Zinsen, Nullzinsen oder sogar Negativzinsen. Und das hat den damaligen Vorstandschef Jürgen Brinkmann veranlasst, darüber nachzudenken, neue Geschäftsmodelle zu erschließen. Und naheliegend ist natürlich vielleicht das Immobiliengeschäft, weil das natürlich mit dem Bankgeschäft sehr …
 >
 > — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 4:07](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=247) · [[Transkript 153#Minute 4|im Transkript]]
@@ -28,17 +36,9 @@ Offen ist, welche Kontrollmechanismen versagt haben – Aufsichtsrat, Genossensc
 >
 > — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 7:01](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=421) · [[Transkript 153#Minute 7|im Transkript]]
 
-> … auch einige der Beteiligungen als Verlustgeschäft entpuppt haben. Und Anfang Mai musste Brinkmann dann seinen Posten als Vorstandschef räumen, also musste ziemlich plötzlich gehen. Und der Aufsichtsrat hat damals gesagt, hat das begründet mit …
->
-> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 10:58](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=658) · [[Transkript 153#Minute 10|im Transkript]]
-
-> … diesem Fall, BG Gastro ist auch noch interessant, Geschäftsführerin wurde da Diana Brinkmann. Ah, Brinkmann kennen wir doch den Namen. Genau, das ist die Ehefrau des damaligen Vorstandschefs, Jürgen Brinkmann. Und das ist natürlich …
->
-> — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 24:59](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1499) · [[Transkript 153#Minute 24|im Transkript]]
-
 ## In diesen Folgen (1)
 
-- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [4:07](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=247), [7:01](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=421), [10:58](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=658), [24:59](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1499)
+- [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [0:15](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=15), [2:06](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=126), [4:07](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=247), [7:01](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=421)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

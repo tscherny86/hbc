@@ -20,10 +20,27 @@ Ihr Bruder Konstantin Ignatov und Mitgründer Sebastian Greenwood wurden in den 
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> This network was created to become and to fuel the growth of OneCoin, which I strongly believe will be the number one cryptocurrency worldwide. So with this OneCoin will become officially the number one …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 0:08](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=8) · [[Transkript 016#Minute 0|im Transkript]]
+
+> … ja grundsätzlich gerne auf die Menschen und das System dahinter. Im Fall OneCoin ist das besonders spannend, denn nahezu jeder, der sich mit diesem Fall beschäftigt hat, fragt sich an irgendeinem Punkt, wer genau …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 1:57](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=117) · [[Transkript 016#Minute 1|im Transkript]]
+
+> … ging es im weitesten Sinne um eine angebliche Kryptowährung mit dem Namen OneCoin. Und OneCoin, das ist so eine Art, das weiß man jetzt, Fake-Kryptowährung, mit der über Jahre zwischen 2014 und 2017 riesige …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 3:31](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=211) · [[Transkript 016#Minute 3|im Transkript]]
+
+> … testen. Da gibt es dann eben auch alle neuen Artikel zum Fall OneCoin. Lars, bevor wir jetzt tiefer einsteigen, Mareike hat eben auch Wörter wie Sekte fallen lassen. Für alle, die nicht ganz tief …
+>
+> — [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16]], [Minute 5:13](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=313) · [[Transkript 016#Minute 5|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes
+- [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes · Minute [0:08](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=8), [1:57](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=117), [3:31](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=211), [5:13](https://open.spotify.com/episode/64HXpGh7LhaCqjVdxcnftI?t=313)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

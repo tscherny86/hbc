@@ -7,7 +7,7 @@ jahr: 2024
 datum: 2024-12-01
 dauer: "44:13"
 spotify: "https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz"
-transkript: false
+transkript: true
 tags: [folge, jahr-2024, folge]
 ---
 # Vom Dax-Vorstand zum Agentenführer: Was ein Spionageprozess in London über das neue Leben von Jan Marsalek verrät
@@ -18,12 +18,12 @@ tags: [folge, jahr-2024, folge]
 | **Datum** | 2024-12-01 |
 | **Dauer** | 44:13 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz) · [MP3](https://audio.podigee-cdn.net/1658619-m-9e52779423cb29775a075e95d0f10fcf.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/102-neue-episode) |
-| **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
+| **Transkript** | [[Transkript 102]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
 | **Fälle** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Spionageprozess London (Marsaleks Agenten)]] |
 | **Themen** | [[Spionage]], [[Staatsanwaltschaft und Strafprozess]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Lars-Marten Nagel]], [[Jan Marsalek]] |
-| **Kurz erwähnt** | – |
+| **Personen** | [[Ina Karabasz]], [[Jan Marsalek]] |
+| **Kurz erwähnt** | [[Handelsblatt]] |
 
 ## Shownotes
 
@@ -44,6 +44,30 @@ Angeklagte aus Marsaleks mutmaßlichem Spionage-Ring gestehen
 
 Für alle Hörerinnen und Hörer, die mit geballtem Wirtschaftswissen punkten möchten, ist die Zeit günstig: Nur bis zum 8. Dezember haben Sie die Gelegenheit, sich das Handelsblatt digital oder gedruckt für zwölf Monate mit 50% Rabatt zu sichern. Dieses besondere Vorteilsangebot finden Sie jetzt unter handelsblatt.com/minus50.
 
+## Zeitmarken
+
+- [0:07](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=7) – Der Name Jan Marsalek ist ja wahrscheinlich den meisten von Ihnen ein Begriff. Er ist, so stellt es … ([[Transkript 102#Minute 0|Transkript]])
+- [2:18](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=138) – Deswegen machen wir jetzt doch nochmal eine schnelle, etwas kürzere Folge. Also erzähl doch vielleicht mal. Das ist … ([[Transkript 102#Minute 2|Transkript]])
+- [4:21](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=261) – Ja, und das ist schon, die kennen da wenig Skruppel. Ja, definitiv. Und da kommen wir gleich noch … ([[Transkript 102#Minute 4|Transkript]])
+- [6:32](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=392) – Der hat dem also dann mit dem sich ausgetauscht über das, was man macht, wie man es macht, … ([[Transkript 102#Minute 6|Transkript]])
+- [8:36](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=516) – Also ja, in der Anklage ist ganz klar die Rede davon August 2020, also zwei Monate nachdem Wirecard … ([[Transkript 102#Minute 8|Transkript]])
+- [10:40](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=640) – Ich habe mit Leuten gesprochen, die dabei waren, die sagen, das waren ganz kurze Geschichten. Ja, die stehen … ([[Transkript 102#Minute 10|Transkript]])
+- [12:44](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=764) – Da gab es irgendwie die Ripper in Großbritannien, wie man sie nennt, die Serienmörder, die da irgendwie verurteilt … ([[Transkript 102#Minute 12|Transkript]])
+- [14:49](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=889) – Aber das endet dann immer auf God save the King. Und dann schreit der Richter rein in so … ([[Transkript 102#Minute 14|Transkript]])
+- [17:01](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1021) – Also da hat sie ganz klar gesagt, über Marsalek für Russland spioniert. Und wir haben gesagt, August 2020, … ([[Transkript 102#Minute 17|Transkript]])
+- [19:03](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1143) – Der war also bei Recherchen dabei zu diesem Giftgafs-Anschlag auf den Skripal oder auf den Anschlag auf Nawalny, … ([[Transkript 102#Minute 19|Transkript]])
+- [21:06](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1266) – Wer ist denn die zweite Person? Das zweite bekannte Opfer heißt Roman Drobokotow. Das ist ein russischer Journalist. … ([[Transkript 102#Minute 21|Transkript]])
+- [23:12](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1392) – Und das war eine Region dieser Erde, wo ganz klar war, da kommst du als Europäer nur rein, … ([[Transkript 102#Minute 23|Transkript]])
+- [25:16](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1516) – Also das ist immer so eine besondere Beziehung gewesen. Und anderes Beispiel, warum man eigentlich hätte irgendwie was … ([[Transkript 102#Minute 25|Transkript]])
+- [27:17](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1637) – Und dann ist vielleicht noch ganz interessant, über diese beiden Orte zu sprechen, die die haben auskundschaften sollen. … ([[Transkript 102#Minute 27|Transkript]])
+- [29:26](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1766) – Also das zeigt jetzt, da sind wir mittendrin in der Gegenwart, da sind wir mittendrin in Weltpolitik, ja, … ([[Transkript 102#Minute 29|Transkript]])
+- [31:29](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=1889) – Muss man erstmal, also das läuft ja dann auch subtil ab, erstmal über eine Facebook-Freundschaftsanfrage oder so Methoden … ([[Transkript 102#Minute 31|Transkript]])
+- [33:30](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2010) – Dann gibt es halt diese unfassbar vielen gefälschten Ausweisdokumente, Pässe, Presseausweise, alles mögliche, Corona-Zertifikate, Impfzertifikate, sowas, haben sie … ([[Transkript 102#Minute 33|Transkript]])
+- [35:31](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2131) – Also in absurden Mengen. Und das ist, wenn ich jetzt sage, erdrückende Beweislast. Ich meine, wenn die Behörden … ([[Transkript 102#Minute 35|Transkript]])
+- [37:47](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2267) – Und dann hat uns Gott sei Dank die Staatsanwaltschaft auf diese Reporting Restriction hingewiesen. Das ist eine ziemlich … ([[Transkript 102#Minute 37|Transkript]])
+- [39:51](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2391) – Also das, was wir oft machen, dass wir in Ermittlungsverfahren schon vor der Anklage sozusagen Teile der Ermittlungsakte … ([[Transkript 102#Minute 39|Transkript]])
+- [41:58](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2518) – Wir wissen, 13 Seiten hat die erst vorgelesen, die Staatsanwältin. Da kommt nächste Woche also noch irgendwo mehr … ([[Transkript 102#Minute 41|Transkript]])
+- [44:01](https://open.spotify.com/episode/54Sc7wLq3r3jaSbmeHTFtz?t=2641) – Weil auf der anderen Seite ist es nämlich ja das größte Verbrechen für einen russischen Agenten, wenn er … ([[Transkript 102#Minute 44|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]

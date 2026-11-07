@@ -7,7 +7,7 @@ jahr: 2025
 datum: 2025-11-12
 dauer: "1:53"
 spotify: "https://open.spotify.com/episode/0PHsUSiMI4Iwvp70uXvs18"
-transkript: false
+transkript: true
 tags: [folge, jahr-2025, hinweis]
 ---
 # Neuer Podcast: Catching Chris - Auf der Spur des Millionenbetrügers
@@ -18,11 +18,11 @@ tags: [folge, jahr-2025, hinweis]
 | **Datum** | 2025-11-12 |
 | **Dauer** | 1:53 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0PHsUSiMI4Iwvp70uXvs18) · [MP3](https://audio.podigee-cdn.net/2207244-m-cd6dde00b893a3592cd7c3765182715e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/133-neuer-podcast-catching-chris-auf-der-spur-des-millionenbetrugers) |
-| **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
-| **Fälle** | [[Cyberangriff auf Continental]] |
-| **Themen** | [[Cyberangriff und Ransomware]], [[Hochstapler]] |
+| **Transkript** | [[Transkript 133]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Fälle** | – |
+| **Themen** | [[Hochstapler]] |
 | **Unternehmen** | – |
-| **Personen** | [[Solveig Gode]], [[Lars-Marten Nagel]], [[Michael Verfürden]] |
+| **Personen** | – |
 | **Kurz erwähnt** | – |
 
 ## Shownotes
@@ -45,6 +45,9 @@ Spotify
 
 P.S.: Wir bringen diesen besonderen Fall auch live auf die Bühne, am 20.11. im Bergson Kunstkraftwerk in München. Letzte Tickets gibts hier: Aufgedeckt: Die spektakulärsten Streitfälle der deutschen Wirtschaft - Bergson Aufgedeckt: Die spektakulärsten Streitfälle der deutschen Wirtschaft - Bergson
 
+## Zeitmarken
+
+- [0:01](https://open.spotify.com/episode/0PHsUSiMI4Iwvp70uXvs18?t=1) – Wie spürt man ein Phantom auf, von dem man nichts kennt, außer einen erfundenen Namen? Seit eineinhalb Jahren … ([[Transkript 133#Minute 0|Transkript]])
 
 ---
 ← [[Alle Folgen]] · [[Handelsblatt Crime Wiki|Start]]
