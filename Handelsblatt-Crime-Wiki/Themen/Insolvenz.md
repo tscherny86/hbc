@@ -54,7 +54,7 @@ Große deutsche Insolvenzfälle der letzten Jahre betrafen Zahlungsdienstleister
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 1:08:10](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=4090) · [[Transkript 155#Minute 68|im Transkript]]
 
-> … wechseln ist ein Klacks. Teldafax. Teldafax Energy. Einfach günstiger Strom. Nach dem Insolvenzantrag des Energieanbieters Teldafax aus Troßdorf bei Bonn sind jetzt viele Kunden verunsichert. Teldafax war vor allem als billiger Anbieter für Strom …
+> … wechseln ist ein Klacks. Teldafax. Teldafax Energy. Einfach günstiger Strom. Nach dem Insolvenzantrag des Energieanbieters Teldafax aus Troisdorf bei Bonn sind jetzt viele Kunden verunsichert. Teldafax war vor allem als billiger Anbieter für Strom …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 0:18](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=18) · [[Transkript 156#Minute 0|im Transkript]]
 

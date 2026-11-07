@@ -5,7 +5,7 @@ tags: [transkript]
 ---
 # Transkript – Volksbank Brawo – Eine Genossenschaftsbank in der Krise
 
-Folge: [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (0 Korrekturen), vereinzelte Hörfehler möglich.
+Folge: [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] · automatisch transkribiert, **noch nicht Korrektur gelesen** (1 Korrekturen), vereinzelte Hörfehler möglich.
 Klick auf ▶ öffnet Spotify an genau dieser Stelle.
 
 ### Minute 0
@@ -14,7 +14,7 @@ Wenn ich an Volksbanken denke, dann stehen die ja eigentlich für Sicherheit und
 
 ### Minute 1
 [▶ 1:11](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=71)  
-Er hat sich vor allem mit den juristischen Baustellen beschäftigt. In diesem Podcast sprechen wir alle zwei Wochen über die großen Streit - und Kriminalfälle der deutschen Wirtschaft. Wer dahinter steckt? Wie sie dahin gekommen sind? Und welches System das zugelassen hat? Mein Name ist Solveigode und damit herzlich willkommen zu Handelsblatt Crime. Hallo Volker hier bei mir im Studio in Düsseldorf. Hallo Solveig. Und hallo nach Frankfurt Elisabeth. Hi. Schön, dass du mal wieder bei uns im Podcast bist. Ist glaube ich schon eine kleine Weile her, ne? Wann war das letzte Mal? Bestimmt vor, also ich glaube es ist fast zwei Jahre her, da ging es um eine andere Volksbank. Ah ja, da kommen wir später auch nochmal zu sprechen drauf. Vielleicht erinnert ihr euch ja noch. Ja Elisabeth, wenn man diesen Fall der Volksbank Bravo, also Braunschweig-Wolfsburg verfolgt, dann bekommt man irgendwie ziemlich schnell den Eindruck, dass hier eine Genossenschaftsbank ziemlich aus der Spur geraten ist.
+Er hat sich vor allem mit den juristischen Baustellen beschäftigt. In diesem Podcast sprechen wir alle zwei Wochen über die großen Streit - und Kriminalfälle der deutschen Wirtschaft. Wer dahinter steckt? Wie sie dahin gekommen sind? Und welches System das zugelassen hat? Mein Name ist Solveig Gode und damit herzlich willkommen zu Handelsblatt Crime. Hallo Volker hier bei mir im Studio in Düsseldorf. Hallo Solveig. Und hallo nach Frankfurt Elisabeth. Hi. Schön, dass du mal wieder bei uns im Podcast bist. Ist glaube ich schon eine kleine Weile her, ne? Wann war das letzte Mal? Bestimmt vor, also ich glaube es ist fast zwei Jahre her, da ging es um eine andere Volksbank. Ah ja, da kommen wir später auch nochmal zu sprechen drauf. Vielleicht erinnert ihr euch ja noch. Ja Elisabeth, wenn man diesen Fall der Volksbank Bravo, also Braunschweig-Wolfsburg verfolgt, dann bekommt man irgendwie ziemlich schnell den Eindruck, dass hier eine Genossenschaftsbank ziemlich aus der Spur geraten ist.
 
 ### Minute 2
 [▶ 2:20](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=140)  

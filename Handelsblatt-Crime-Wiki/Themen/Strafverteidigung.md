@@ -24,6 +24,19 @@ _Die Rolle der Anwälte, die Beschuldigte in Wirtschaftsstrafverfahren vertreten
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … überhaupt nicht funktionieren können. Und ja, wir haben beide konfrontiert beziehungsweise die Verteidiger, aber Weigands Verteidiger wollte sich auf Anfrage nicht äußern und eine Anwältin Hüllemanns wies auf Anfrage eben alle Vorwürfe als haltlos …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 15:33](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=933) · [[Transkript 151#Minute 15|im Transkript]]
+
+> … der Anwalt von Jan Marsalek, der wollte sich nicht äußern. Ja, und Häuser-Achsners-Verteidiger betonte, dass seine Mandantin in keiner Weise Einfluss auf das strategische Geschäft der Wirecard gehabt habe. Ja, sie habe nur einem …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 44:27](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2667) · [[Transkript 151#Minute 44|im Transkript]]
+
+> … ja bei Marsalek und gar nicht bei Braun. Und deswegen wollen die Verteidigerinnen von Markus Braun jetzt auch Akten auswerten mit Blick auf das Münchner Verfahren und auch zahlreiche Zeugen laden. Und wenn das …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 56:05](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3365) · [[Transkript 151#Minute 56|im Transkript]]
 
 ## In diesen Folgen (13)
 
@@ -40,6 +53,10 @@ _Die Rolle der Anwälte, die Beschuldigte in Wirtschaftsstrafverfahren vertreten
 - [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Shownotes
 - [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes
 - [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes
+
+## Kurz erwähnt (1)
+
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [15:33](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=933), [44:27](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2667), [56:05](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3365)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

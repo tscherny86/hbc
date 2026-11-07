@@ -18,10 +18,10 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-09-06 |
 | **Dauer** | 51:10 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6) · [MP3](https://audio.podigee-cdn.net/2547792-m-b8a583d7563cb23cc10314df0cb2dd21.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/157-neue-episode-06-09) |
-| **Transkript** | [[Transkript 157]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 157]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Volksbank Köln Bonn (Bordell-Kredit)]] |
 | **Themen** | [[Korruption und Bestechung]], [[Staatsanwaltschaft und Strafprozess]], [[Genossenschaftsbanken]], [[Compliance]] |
-| **Unternehmen** | [[Volksbank Köln Bonn]], [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] |
+| **Unternehmen** | [[Volksbank Köln Bonn]] |
 | **Personen** | [[Ina Karabasz]] |
 | **Kurz erwähnt** | [[Effenberg-Bank]], [[Geldwäsche]] |
 
@@ -63,7 +63,7 @@ Volksbanken: „Das ist peinlich“ – Ärger nach Kredit für Bordell-Immobili
 - [27:05](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1625) – Das ist ja möglicherweise, könnte das ein Grund sein, Geldwäsche-Verdachtsanzeigen zu stellen. Also die Volksbank selbst sagt, sie … ([[Transkript 157#Minute 27|Transkript]])
 - [29:06](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1746) – Das wissen wir, weil uns da ein Grundbuchauszug vorliegt. Aber jetzt kommen wir wieder zu dem Reputationsthema. Jetzt … ([[Transkript 157#Minute 29|Transkript]])
 - [31:22](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1882) – Das geht bis dahin, dass sie sich, wenn eine Bank in Schwierigkeiten ist, gab es jetzt auch ein … ([[Transkript 157#Minute 31|Transkript]])
-- [33:23](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2003) – Deshalb auch dieser Name Art Nox angelehnt an Fort Nox. Aber dass jetzt ausgerechnet diese Art Nox diesen … ([[Transkript 157#Minute 33|Transkript]])
+- [33:23](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2003) – Deshalb auch dieser Name Art Nox angelehnt an Fort Knox. Aber dass jetzt ausgerechnet diese Art Nox diesen … ([[Transkript 157#Minute 33|Transkript]])
 - [35:33](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2133) – Und da sind dann halt einige Mitglieder hingegangen und haben Aufklärung verlangt. Und daraus entwickelte sich dann tatsächlich … ([[Transkript 157#Minute 35|Transkript]])
 - [37:43](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2263) – Und bei Lux ist noch bemerkenswert, der führt nicht nur den Aufsichtsrat der Volksbank, sondern auch die Fensterbaufirma … ([[Transkript 157#Minute 37|Transkript]])
 - [39:44](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2384) – Nach einer kurzen Unterbrechung geht es gleich weiter. Bleiben Sie dran. Cyber Security, KI und dann wollen auch … ([[Transkript 157#Minute 39|Transkript]])

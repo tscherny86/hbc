@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-09-20 |
 | **Dauer** | 1:11:09 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX) · [MP3](https://audio.podigee-cdn.net/2562634-m-db78e778220c724b2dc4fdcfe755fa5f.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/158-hendrik-holt-windparkbetruger-auf-der-flucht) |
-| **Transkript** | [[Transkript 158]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 158]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Fall Hendrik Holt]] |
 | **Themen** | [[Betrug]], [[Staatsanwaltschaft und Strafprozess]], [[Windkraft-Projektentwicklung]], [[Hochstapler]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Michael Verfürden]], [[Jan Marsalek]], [[Hendrik Holt]] |
-| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Insolvenz]], [[Insolvenzverwalter]], [[Geldwäsche]], [[Spionage]], [[Handelsblatt]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Lars-Marten Nagel]], [[Michael Verfürden]], [[Hendrik Holt]] |
+| **Kurz erwähnt** | [[Wirecard]], [[Marsalek und das russische Spionagenetzwerk]], [[Insolvenz]], [[Insolvenzverwalter]], [[Geldwäsche]], [[Untersuchungshaft]], [[Handelsblatt]] |
 
 ## Shownotes
 
@@ -52,7 +52,7 @@ Produktion: Christian Heinemann
 ## Zeitmarken
 
 - [0:06](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=6) – Am 20. Juni 2020 schreibt ein Mann in einer Gefängniszelle in Niedersachsen einen handschriftlichen Brief an unsere Redaktion. … ([[Transkript 158#Minute 0|Transkript]])
-- [2:08](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=128) – Mein Name ist Salvei Gode und damit herzlich willkommen zu Handelsblatt Crime. Hallo Lars. Hallo Salvei. Ja Lars, … ([[Transkript 158#Minute 2|Transkript]])
+- [2:08](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=128) – Mein Name ist Solveig Gode und damit herzlich willkommen zu Handelsblatt Crime. Hallo Lars. Hallo Solveig. Ja Lars, … ([[Transkript 158#Minute 2|Transkript]])
 - [4:10](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=250) – Holt sollte ja eigentlich bis Dezember 2028 wegen dieser Betrugstaten rund um erfundene Windparkprojekte im Gefängnis sein. Warum … ([[Transkript 158#Minute 4|Transkript]])
 - [6:16](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=376) – Und da stand dann daneben so ganz ohne Satzzeichen, Liebesgrüße aus Moskau, sehr schön hier, der Kaviar ist … ([[Transkript 158#Minute 6|Transkript]])
 - [8:23](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=503) – Da muss man vielleicht sagen, die Liebesgrüße aus Moskau sind ja auch eine Anspielung an den Titel des … ([[Transkript 158#Minute 8|Transkript]])
@@ -72,7 +72,7 @@ Produktion: Christian Heinemann
 - [36:56](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2216) – Ich finde, dass du das heraushebst, total berechtigt, weil er eben das Superhirn nicht im Kopf von Herrn … ([[Transkript 158#Minute 36|Transkript]])
 - [39:05](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2345) – Ich habe noch nie einen Wein von 1939 trinken dürfen. Ich kann es nicht bewerten. Ich auch nicht. … ([[Transkript 158#Minute 39|Transkript]])
 - [41:08](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2468) – Als er dann ja schon in Haft war, wir haben es schon mehrfach gesagt, YouTube-Auftritte und sowas, ne? … ([[Transkript 158#Minute 41|Transkript]])
-- [43:09](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2589) – Und jetzt, jetzt am Tiefpunkt meines Lebens, ich sitze hier in Urhaft, der der Insolvenzverwalter ist hinter meinem … ([[Transkript 158#Minute 43|Transkript]])
+- [43:09](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2589) – Und jetzt, jetzt am Tiefpunkt meines Lebens, ich sitze hier in U-Haft, der der Insolvenzverwalter ist hinter meinem … ([[Transkript 158#Minute 43|Transkript]])
 - [45:18](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2718) – Warum machen wir das aber heute und warum dürfen wir das auch heute? Ja, also das ist tatsächlich … ([[Transkript 158#Minute 45|Transkript]])
 - [47:20](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2840) – Und in dieser Doku sind halt genau diese Sachen alle drin. Da spricht seine Frau, da spricht er … ([[Transkript 158#Minute 47|Transkript]])
 - [49:23](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2963) – Wollen wir nicht mal noch auf den Hochsitz? Wollen wir nicht noch einen Champagner aufmachen? Genau. Also schräg. … ([[Transkript 158#Minute 49|Transkript]])

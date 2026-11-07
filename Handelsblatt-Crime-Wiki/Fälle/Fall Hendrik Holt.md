@@ -22,25 +22,25 @@ Der Fall zeigt, wie leicht sich große Konzerne im Boom der Energiewende von pro
 
 ## Was im Podcast gesagt wird
 
-> … Holt. Sechs Jahre lang ist das mittlerweile her. Seitdem ist er als Windparkbetrüger und Hochstapler deutschlandweit bekannt geworden. Dafür hat er sogar selbst gesorgt. Noch während er im Gefängnis eine lange Haftstrafe absitzt, tritt …
+> … Sein Pressesprecher will sich um ein besseres Bild kümmern. Den Brief schreibt Hendrik Holt. Sechs Jahre lang ist das mittlerweile her. Seitdem ist er als Windparkbetrüger und Hochstapler deutschlandweit bekannt geworden. Dafür hat er sogar …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 0:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=34) · [[Transkript 158#Minute 0|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 0:30](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=30) · [[Transkript 158#Minute 0|im Transkript]]
 
-> … Ende 2016, ne? Genau. Ende 2016 gibt es auf den Webseiten der Holt Holding Erfolgsmeldungen. Da heißt es, die Gruppe investiere jetzt in einen Windpark bei Kassel. Und da werden sechs Anlagen vom Hersteller …
+> … Lars. Hallo Solveig. Ja Lars, bevor wir jetzt in die Geschichte von Hendrik Holt einsteigen. Du hast mir ja diesen Brief gezeigt, den wir eben erwähnt haben. Der ist an unseren Kollegen Michael Verfürden gerichtet. …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 16:04](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=964) · [[Transkript 158#Minute 16|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 2:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=146) · [[Transkript 158#Minute 2|im Transkript]]
 
-> … Anfang irgendwie aufgefallen sind. Also ein Punkt. Auf der Webseite schrieb die Holt Holding, sie hätten ein Investitionsvolumen von 2 ,2 Milliarden Euro und eine Projektpipeline mit mehr als 2000 Megawatt Leistung in Vorbereitung. …
+> … Und zum anderen, weil er ja gerade wieder sehr aktuell ist, weil Hendrik Holt ja jetzt geflohen ist. Und vielleicht besprechen wir jetzt erstmal, wie es zur Flucht kam. Also für alle, die das jetzt …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 21:47](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1307) · [[Transkript 158#Minute 21|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 3:58](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=238) · [[Transkript 158#Minute 3|im Transkript]]
 
-> … sei, Zitat, wohl von Natur aus gierig. Und auch das passt zum Hendrik Holt, weil dessen Credo ist tatsächlich, Gier ist gut. Und im Gerichtssaal, also das kann man jetzt noch irgendwie, gut, es …
+> … Lass uns deswegen vielleicht mal darauf kommen, wo kommt der eigentlich her, Hendrik Holt? Wie ist seine Geschichte losgegangen? Wer ist dieser Mensch? Wo kommt er her? Ja, also Holt wird 1990 in Haselünne geboren. …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 39:36](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2376) · [[Transkript 158#Minute 39|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 8:57](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=537) · [[Transkript 158#Minute 8|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [0:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=34), [16:04](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=964), [21:47](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1307), [39:36](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2376)
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [0:30](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=30), [2:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=146), [3:58](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=238), [8:57](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=537)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 6
+folgen: 5
 tags: [themen]
 ---
 # Bankrott und Vermögensverschleierung
@@ -26,14 +26,13 @@ In großen Pleiten geht es oft darum, ob ein Unternehmer, der offiziell nur noch
 > wurde, steht unten – mit Link zur genauen Minute.
 
 
-## In diesen Folgen (6)
+## In diesen Folgen (5)
 
 - [[078 Das geheimnisvolle Immobilienportfolio der Familie Benko|#78 – Das geheimnisvolle Immobilienportfolio der Familie Benko]] (2024-05-18) — Shownotes
 - [[082 Der Fall Schlecker Teil 1 – der Aufstieg|#82 – Der Fall Schlecker: Teil 1 – der Aufstieg]] (2024-06-15) — Shownotes
 - [[106 René Benko in Untersuchungshaft Exklusive Details zur Milliarden-Pleite und den stritt|#106 – René Benko in Untersuchungshaft: Exklusive Details zur Milliarden-Pleite und den strittigen Methoden des Ex-Investors]] (2025-01-26) — Shownotes
 - [[120 René Benko angeklagt Einblicke in Versteckspiele rund um eine Milliardenpleite|#120 – René Benko angeklagt: Einblicke in Versteckspiele rund um eine Milliardenpleite]] (2025-07-27) — Shownotes
 - [[144 Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum|#144 – Der Absturz des „Wolf of High Street“ – Uwe Reppegather und seine Centrum]] (2026-04-19) — Shownotes
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

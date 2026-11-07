@@ -20,11 +20,11 @@ Im Zentrum stehen die Fragen, welche Rolle der Bankvorstand bei der Kreditvergab
 
 ## Was im Podcast gesagt wird
 
-> … Volksbank und eine große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstaatsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die …
+> … Volksbank und eine große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstandsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 0:17](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=17) · [[Transkript 157#Minute 0|im Transkript]]
 
-> … war bekannt oder bis vor kurzem war bekannt, dass es bei der Volksbank Köln-Bonn eben diesen Modellkredit gab. Und es war die Frage intern, ist das alles mit rechten Dingen zugegangen? Also wie der …
+> … war bekannt oder bis vor kurzem war bekannt, dass es bei der Volksbank Köln-Bonn eben diesen Bordellkredit gab. Und es war die Frage intern, ist das alles mit rechten Dingen zugegangen? Also wie der …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 2:01](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=121) · [[Transkript 157#Minute 2|im Transkript]]
 

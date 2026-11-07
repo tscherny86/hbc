@@ -42,7 +42,7 @@ Kritiker bemängeln, dass Prüfer Warnsignale – nicht erreichbare Geschäftspa
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 9:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=569) · [[Transkript 156#Minute 9|im Transkript]]
 
-> … Zentrale gegrillt, Würstchenwürden aufgelegt und die Feier wurde gestört, weil plötzlich die Wirtschaftsprüfer rauskamen und gesagt haben, wir müssen dringend sprechen. Oh Gott, okay, so einen Geburtstag möchte ich mir aber nicht vorstellen. Was …
+> … der Zentrale gegrillt, Würstchen wurden aufgelegt und die Feier wurde gestört, weil plötzlich die Wirtschaftsprüfer rauskamen und gesagt haben, wir müssen dringend sprechen. Oh Gott, okay, so einen Geburtstag möchte ich mir aber nicht vorstellen. Was …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 36:10](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2170) · [[Transkript 156#Minute 36|im Transkript]]
 

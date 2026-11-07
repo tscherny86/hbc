@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 2
+folgen: 1
 tags: [personen]
 ---
 # Jürgen Barth
@@ -20,28 +20,10 @@ Vor dem Landgericht Aachen wurde Barth der Prozess gemacht; er kam vergleichswei
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
-## Was im Podcast gesagt wird
 
-> … bekannt. Aber nach einer Notsitzung mit den Insolvenzberatern soll der Vorstandchef Klaus Barth damals gesagt haben, das ist mir alles egal, ich gehe hier erst, wenn mich die Polizei abholt. Ja, aber vor der …
->
-> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 39:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2396) · [[Transkript 156#Minute 39|im Transkript]]
-
-> … Spinne auf dem Tisch gehabt und da wurde der Vorstandsvorsitzende, der Herr Barth, zugeschaltet, der war gerade in Los Angeles im Urlaub. Und wenn ich jetzt sage 15 Uhr deutsche Zeit, das ist dann …
->
-> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 42:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2522) · [[Transkript 156#Minute 42|im Transkript]]
-
-> … plötzlich weggeblieben sind, Teldafax geschrumpft sind, sondern die sind noch gekommen. Klaus Barth, der Vorstandschef, hat selbst im Februar 2011 gesagt, dass Teldafax von Oktober, als unser Text erschienen ist, bis Dezember noch jeden …
->
-> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 46:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2760) · [[Transkript 156#Minute 46|im Transkript]]
-
-> … dann 2014, das ist dann doch ganz schön lange her. Jedenfalls Herr Barth sitzt da auf der Angeklagebank und Herr Koch und auch Herr Joosten. Barth hat zwei Anwälte, Joosten hat drei Anwälte, Koch …
->
-> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:03:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3826) · [[Transkript 156#Minute 63|im Transkript]]
-
-## In diesen Folgen (2)
+## In diesen Folgen (1)
 
 - [[074 Demontage einer Legende Porsche-Ikone im Fadenkreuz der Justiz|#74 – Demontage einer Legende: Porsche-Ikone im Fadenkreuz der Justiz]] (2024-04-20) — Shownotes
-- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [39:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2396), [42:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2522), [46:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2760), [1:03:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3826)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -18,12 +18,12 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-08-09 |
 | **Dauer** | 1:09:04 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif) · [MP3](https://audio.podigee-cdn.net/2547790-m-95057ab0c3c3adc56c71a697f877eb04.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/155-hedera-verius-fonds) |
-| **Transkript** | [[Transkript 155]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
+| **Transkript** | [[Transkript 155]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
 | **Fälle** | [[Hedera-Immobiliengruppe]] |
 | **Themen** | [[Insolvenzverwalter]], [[Immobilienkrise]], [[Staatsanwaltschaft und Strafprozess]], [[Erpressung]] |
 | **Unternehmen** | [[Hedera Bauwert]] |
 | **Personen** | [[Ina Karabasz]] |
-| **Kurz erwähnt** | [[Insolvenz]], [[Vergleich und Bußgeld]] |
+| **Kurz erwähnt** | [[Insolvenz]], [[Falschaussage]] |
 
 ## Shownotes
 

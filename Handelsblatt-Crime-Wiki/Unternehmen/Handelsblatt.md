@@ -20,7 +20,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 
 ## Was im Podcast gesagt wird
 
-> … drunter, für all die Dinge also, die wir hier machen, ist unser Chefredakteur Sebastian Mattes. Und den habe ich jetzt hier zu Gast. Herzlich willkommen, Sebastian. Hallo Ina, danke für die Anladung. Sebastian, wir …
+> … drunter, für all die Dinge also, die wir hier machen, ist unser Chefredakteur Sebastian Matthes. Und den habe ich jetzt hier zu Gast. Herzlich willkommen, Sebastian. Hallo Ina, danke für die Einladung. Sebastian, wir dachten, wir machen mal …
 >
 > — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 0:48](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=48) · [[Transkript 154#Minute 0|im Transkript]]
 
@@ -40,7 +40,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 2:30](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=150) · [[Transkript 156#Minute 2|im Transkript]]
 
-> … dann, das weiß ich auch noch ganz genau, da hat der damalige Chefredakteur gesagt, naja, wenn die mit uns sprechen wollen, dann sollen sie halt herkommen. Die waren ja in Trostorf, das war der …
+> … dann, das weiß ich auch noch ganz genau, da hat der damalige Chefredakteur gesagt, naja, wenn die mit uns sprechen wollen, dann sollen sie halt herkommen. Die waren ja in Troisdorf, das war der …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 41:28](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2488) · [[Transkript 156#Minute 41|im Transkript]]
 
@@ -48,7 +48,7 @@ Juristisch abgesichert werden die Recherchen von Chefjustiziar Peter Koppe und s
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 43:55](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2635) · [[Transkript 156#Minute 43|im Transkript]]
 
-> … Karriere zu sprechen. Bei mir im Studio ist Lars Mattennagel aus dem Investigativteam. Zusammen mit seinem Kollegen Michael Verfürden und Katrin Witsch, die beim Handelsblatt über erneuerbare Energien berichtet, hat er damals den Fall …
+> … kriminelle Karriere zu sprechen. Bei mir im Studio ist Lars-Marten Nagel aus dem Investigativteam. Zusammen mit seinem Kollegen Michael Verfürden und Kathrin Witsch, die beim Handelsblatt über erneuerbare Energien berichtet, hat er damals den Fall recherchiert. …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:36](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=96) · [[Transkript 158#Minute 1|im Transkript]]
 

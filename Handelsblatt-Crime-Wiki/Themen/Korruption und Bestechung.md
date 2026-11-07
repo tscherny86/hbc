@@ -24,7 +24,7 @@ Seit den Siemens- und MAN-Affären (2006 bis 2009) haben deutsche Konzerne umfan
 
 ## Was im Podcast gesagt wird
 
-> … inzwischen gegen ein Vorstaatsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die Ermittlungen hatten zunächst die Staatsanwaltschaft Düsseldorf beschäftigt und wurden inzwischen nach Köln abgegeben. Was hat der Kredit …
+> … inzwischen gegen ein Vorstandsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die Ermittlungen hatten zunächst die Staatsanwaltschaft Düsseldorf beschäftigt und wurden inzwischen nach Köln abgegeben. Was hat der Kredit …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 0:25](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=25) · [[Transkript 157#Minute 0|im Transkript]]
 

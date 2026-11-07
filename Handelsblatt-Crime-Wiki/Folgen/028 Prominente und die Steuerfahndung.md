@@ -20,7 +20,7 @@ tags: [folge, jahr-2022, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/4Fw2PKyH7fAiDYfAksZ8J1) · [MP3](https://audio.podigee-cdn.net/872362-m-c2d4182294a6fe14464a6209e597a45e.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/28-neue-episode) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Prominente und die Steuerfahndung]] |
-| **Themen** | [[Insolvenz]], [[Steuerhinterziehung]], [[Steuerfahndung]], [[Vergleich und Bußgeld]] |
+| **Themen** | [[Insolvenz]], [[Steuerhinterziehung]], [[Steuerfahndung]] |
 | **Unternehmen** | [[Landgericht München]] |
 | **Personen** | [[Alfons Schuhbeck]], [[Uli Hoeneß]], [[Klaus Zumwinkel]] |
 | **Kurz erwähnt** | – |

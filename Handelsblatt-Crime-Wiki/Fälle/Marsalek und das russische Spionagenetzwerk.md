@@ -22,6 +22,22 @@ In Deutschland hatte das Netzwerk direkte Folgen: Nach seiner Entlassung aus der
 
 ## Was im Podcast gesagt wird
 
+> … ahnt es vielleicht schon, es geht natürlich auch mal wieder um Jan Marsalek. Über all dies spreche ich heute mit René Bender und Michael Verführten aus dem Handelsblatt-Investigativ-Team. Sie haben mit Insidern gesprochen und …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 1:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=108) · [[Transkript 151#Minute 1|im Transkript]]
+
+> … eben der weltweit Flüchtige, also als bekannte gesuchte Ex-Vorstand von Wirecard Jan Marsalek. Also genau, also man muss wirklich sagen, also bei Jan Marsalek, ich weiß nicht, ob mich das nicht vielleicht auch schockiert, …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 7:38](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=458) · [[Transkript 151#Minute 7|im Transkript]]
+
+> … haben. Und der, wie gesagt, für uns natürlich kein Unbekannter ist. Jan Marsalek, Ex-Wirecard-Vorstand, ist für das Asien-Geschäft zuständig, flüchtig, weltweit gesucht, wahrscheinlich in Moskau. Sie kennen das alle. Welche Spur in diesem Fall …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 43:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2610) · [[Transkript 151#Minute 43|im Transkript]]
+
+> … zu Ackerwaren war von dieser kleinen Gruppe bei Wirecard, ja. Ackerwaren nannte Marsalek und die Häuser Axner in E-Mails seine Favorite Germans, ja. Marsalek schrieb Ackerwaren wiederum mit My Love an. Und dann haben …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 46:29](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2789) · [[Transkript 151#Minute 46|im Transkript]]
+
 > … keine Folge, schrieb jemand auch neulich, in die Kommentare machen, ohne Jan Marsalek zu nennen, und wo der überall übrigens tatsächlich auftaucht. Jetzt ist es so, dass wir schon uns auch manchmal auf die …
 >
 > — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 32:28](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1948) · [[Transkript 154#Minute 32|im Transkript]]
@@ -33,6 +49,10 @@ In Deutschland hatte das Netzwerk direkte Folgen: Nach seiner Entlassung aus der
 > … möchte und die auch dann sozusagen ihre kriminelle Bedeutung überhöhen möchte. Und Marsalek, das wissen wir, der hatte enge Kontakte zum russischen Nachrichtendiensten und wenn Holt jetzt so diese Anspielung Liebesgrüße aus Moskau, also …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 8:11](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=491) · [[Transkript 158#Minute 8|im Transkript]]
+
+> … mag nicht hoch sein, aber ich bin ja eigentlich wie Superverbrecher Jan Marsalek in Moskau und ich glaube tatsächlich, das ist nur so ein kleiner Randaspekt, aber der Name Hendrik Holt, das geht dir …
+>
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:09:22](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=4162) · [[Transkript 158#Minute 69|im Transkript]]
 
 ## In diesen Folgen (16)
 
@@ -51,12 +71,12 @@ In Deutschland hatte das Netzwerk direkte Folgen: Nach seiner Entlassung aus der
 - [[136 Neue Crime Live-Show Termine im Februar 2026 Die letzten 48 Stunden von Wirecard|#136 – Neue Crime Live-Show Termine im Februar 2026: Die letzten 48 Stunden von Wirecard]] (2025-12-11) — Shownotes
 - [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes
 - [[145 Neue Crime Live-Show Termine im Juni 2026 Die letzten 48 Stunden von Wirecard|#145 – Neue Crime Live-Show Termine im Juni 2026: Die letzten 48 Stunden von Wirecard]] (2026-04-21) — Shownotes
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [1:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=108), [7:38](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=458), [43:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2610), [46:29](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2789)
 
 ## Kurz erwähnt (2)
 
 - [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] (2026-08-02) — Minute [32:28](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=1948)
-- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [6:25](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=385), [8:11](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=491)
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [6:25](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=385), [8:11](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=491), [1:09:22](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=4162)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

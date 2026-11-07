@@ -22,25 +22,25 @@ Holt sollte seine Strafe bis Ende 2028 in Berlin verbüßen. Ende August 2026 ke
 
 ## Was im Podcast gesagt wird
 
-> … damals mit ihm zusammen recherchiert. Ja, richtig. Also kurz nachdem der Herr Holt damals im Adlon festgenommen wurde, ist das Thema bei uns auch aufgepoppt. Und wir sind dann da ziemlich tief eingestiegen. Tatsächlich, …
+> … Sein Pressesprecher will sich um ein besseres Bild kümmern. Den Brief schreibt Hendrik Holt. Sechs Jahre lang ist das mittlerweile her. Seitdem ist er als Windparkbetrüger und Hochstapler deutschlandweit bekannt geworden. Dafür hat er sogar …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 2:55](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=175) · [[Transkript 158#Minute 2|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 0:30](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=30) · [[Transkript 158#Minute 0|im Transkript]]
 
-> … Geschichte losgegangen? Wer ist dieser Mensch? Wo kommt er her? Ja, also Holt wird 1990 in Haselünne geboren. Das ist ein Städtchen im Emsland, nahe der niederländischen Grenze. Ja, das ist eine katholische Region. …
+> … Lars. Hallo Solveig. Ja Lars, bevor wir jetzt in die Geschichte von Hendrik Holt einsteigen. Du hast mir ja diesen Brief gezeigt, den wir eben erwähnt haben. Der ist an unseren Kollegen Michael Verfürden gerichtet. …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 9:02](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=542) · [[Transkript 158#Minute 9|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 2:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=146) · [[Transkript 158#Minute 2|im Transkript]]
 
-> … quasi beim Anfang, also 2017 war das mittlerweile. Und da hat die Holt-Gruppe ja sogar tatsächlich noch existierende Windparkprojekte verkauft. Das sehen wir ja öfters mal bei so Betrugsfällen, dass am Anfang doch eine …
+> … Und zum anderen, weil er ja gerade wieder sehr aktuell ist, weil Hendrik Holt ja jetzt geflohen ist. Und vielleicht besprechen wir jetzt erstmal, wie es zur Flucht kam. Also für alle, die das jetzt …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 18:59](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1139) · [[Transkript 158#Minute 18|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 3:58](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=238) · [[Transkript 158#Minute 3|im Transkript]]
 
-> … sei, Zitat, wohl von Natur aus gierig. Und auch das passt zum Hendrik Holt, weil dessen Credo ist tatsächlich, Gier ist gut. Und im Gerichtssaal, also das kann man jetzt noch irgendwie, gut, es …
+> … Lass uns deswegen vielleicht mal darauf kommen, wo kommt der eigentlich her, Hendrik Holt? Wie ist seine Geschichte losgegangen? Wer ist dieser Mensch? Wo kommt er her? Ja, also Holt wird 1990 in Haselünne geboren. …
 >
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 39:36](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2376) · [[Transkript 158#Minute 39|im Transkript]]
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 8:57](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=537) · [[Transkript 158#Minute 8|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [2:55](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=175), [9:02](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=542), [18:59](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=1139), [39:36](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2376)
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [0:30](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=30), [2:26](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=146), [3:58](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=238), [8:57](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=537)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

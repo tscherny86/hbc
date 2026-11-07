@@ -18,10 +18,27 @@ Erneut taucht der Name Jan Marsalek auf: Der flüchtige Ex-Wirecard-Vorstand sol
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … 18 Verdächtige festgenommen, fünf davon in Deutschland. Der Codename der Ermittlung Operation Chargeback. Chargeback, das habt ihr vielleicht schon mal gehört. So nennt man eine Rückbuchung von der Kreditkarte. Wenn ihr auf eurer Abrechnung …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 0:25](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=25) · [[Transkript 151#Minute 0|im Transkript]]
+
+> … angekündigt und es ist mal wieder ein richtig, richtig spannender Fall. Also, Chargeback, das klingt ja erstmal so ein bisschen technisch. Michael, was steckt dahinter? Ja, der Begriff Chargeback beschreibt erstmal nur die Rückbuchung …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 2:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=160) · [[Transkript 151#Minute 2|im Transkript]]
+
+> … jedenfalls der Vorwurf der Generalstaatsanwaltschaft Koblenz, die die Ermittlungen in dieser Operation Chargeback-Feder führend leitet. Und natürlich, klar, warum machen die das? 99 Cent, das klingt irgendwie erstmal nicht viel, aber wie wir alle …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 4:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=270) · [[Transkript 151#Minute 4|im Transkript]]
+
+> … anderen Recherche, mit dem Fall UNSER beschäftigt und dem ehemaligen Chef Mirko Hüllemann, der jetzt auch in dem Fall zu den Beschuldigten gehört. Erzählt mal bitte ein bisschen was über den, René. Ja, Mirko …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 9:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=588) · [[Transkript 151#Minute 9|im Transkript]]
 
 ## In diesen Folgen (1)
 
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [0:25](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=25), [2:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=160), [4:30](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=270), [9:48](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=588)
 
 ---
 ← [[Fälle]] · [[Handelsblatt Crime Wiki|Start]]

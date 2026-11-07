@@ -20,11 +20,6 @@ _Geheime Beschaffung von Informationen für fremde Staaten – von Wirtschaftssp
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
-## Was im Podcast gesagt wird
-
-> … möchte. Und Marsalek, das wissen wir, der hatte enge Kontakte zum russischen Nachrichtendiensten und wenn Holt jetzt so diese Anspielung Liebesgrüße aus Moskau, also das überzeugt mich nicht so richtig. Da muss man vielleicht …
->
-> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 8:13](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=493) · [[Transkript 158#Minute 8|im Transkript]]
 
 ## In diesen Folgen (13)
 
@@ -41,10 +36,6 @@ _Geheime Beschaffung von Informationen für fremde Staaten – von Wirtschaftssp
 - [[102 Vom Dax-Vorstand zum Agentenführer Was ein Spionageprozess in London über das neue Leb|#102 – Vom Dax-Vorstand zum Agentenführer: Was ein Spionageprozess in London über das neue Leben von Jan Marsalek verrät]] (2024-12-01) — Shownotes
 - [[104 Die Fälle des Jahres 2024 – und wie sie weiter gingen|#104 – Die Fälle des Jahres 2024 – und wie sie weiter gingen]] (2024-12-29) — Shownotes
 - [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes
-
-## Kurz erwähnt (1)
-
-- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Minute [8:13](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=493)
 
 ---
 ← [[Themen]] · [[Handelsblatt Crime Wiki|Start]]

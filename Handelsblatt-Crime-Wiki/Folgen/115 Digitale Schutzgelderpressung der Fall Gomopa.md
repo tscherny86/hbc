@@ -20,7 +20,7 @@ tags: [folge, jahr-2025, folge]
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2qcdNDBRwmSuwksHi3bOrJ) · [MP3](https://audio.podigee-cdn.net/1895585-m-1f48f48510ecbf63044799df829cac93.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/115-gomopa) |
 | **Transkript** | noch nicht transkribiert – siehe [[Anleitung Transkription]] |
 | **Fälle** | [[Wirecard]], [[Charles Smethurst und die German Property Group]], [[Gomopa und Klaus Maurischat]] |
-| **Themen** | [[Anlegerbetrug]], [[Schneeballsystem]], [[Pressefreiheit und Presserecht]], [[Erpressung]], [[Vergleich und Bußgeld]] |
+| **Themen** | [[Anlegerbetrug]], [[Schneeballsystem]], [[Pressefreiheit und Presserecht]], [[Erpressung]] |
 | **Unternehmen** | [[Gomopa]], [[German Property Group]] |
 | **Personen** | [[Klaus Maurischat]] |
 | **Kurz erwähnt** | – |

@@ -9,7 +9,7 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 **genauen Minute** (Klick öffnet Spotify an der Stelle).
 
 **Stand:** 07.11.2026 · **160 Folgen** · **128 h 37 min** Audio ·
-**12 von 160 transkribiert**
+**13 von 160 transkribiert**
 
 ## Navigation
 - 📼 [[Alle Folgen]]
@@ -47,8 +47,8 @@ Benko und viele weitere Fälle. Jede Info ist mit der **Folge** verlinkt – und
 - [[Prominente und die Steuerfahndung]] (4)
 - [[Cyberangriff auf Continental]] (4)
 - [[Sympatex-Betrug]] (4)
-- [[Porsche-Ikone vor Gericht]] (4)
 - [[Ergo-Lustreisen]] (3)
+- [[Porsche-Ikone vor Gericht]] (3)
 - [[LBBW-Cum-Ex]] (3)
 - [[Continental-Dieselskandal]] (3)
 - [[Hermes-Deal (Wirecard in Indien)]] (2)

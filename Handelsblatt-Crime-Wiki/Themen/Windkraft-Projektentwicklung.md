@@ -20,7 +20,7 @@ _Wie Windparks geplant und an Energiekonzerne verkauft werden – und warum sich
 
 ## Was im Podcast gesagt wird
 
-> … Holt. Sechs Jahre lang ist das mittlerweile her. Seitdem ist er als Windparkbetrüger und Hochstapler deutschlandweit bekannt geworden. Dafür hat er sogar selbst gesorgt. Noch während er im Gefängnis eine lange Haftstrafe absitzt, tritt …
+> … Hendrik Holt. Sechs Jahre lang ist das mittlerweile her. Seitdem ist er als Windparkbetrüger und Hochstapler deutschlandweit bekannt geworden. Dafür hat er sogar selbst gesorgt. Noch während er im Gefängnis eine lange Haftstrafe absitzt, tritt …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 0:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=34) · [[Transkript 158#Minute 0|im Transkript]]
 

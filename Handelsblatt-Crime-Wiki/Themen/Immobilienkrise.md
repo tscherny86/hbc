@@ -30,11 +30,11 @@ Seit 2024 stabilisieren sich die Preise, der Markt für Projektentwicklungen ble
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 0:57](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=57) · [[Transkript 155#Minute 0|im Transkript]]
 
-> … Form von sehr hochverzinsten, bis zu 15 Prozent verzinsten sogenannten Mesanin-Darlehen an Projektentwickler aus dem deutschen Immobilienbereich weiter. Genau. Also, Mesanin-Darlehen, das ist für euch im Finanzressort in Frankfurt, glaube ich, Tagesgeschäft. Für uns …
+> … Form von sehr hochverzinsten, bis zu 15 Prozent verzinsten sogenannten Mezzanine-Darlehen an Projektentwickler aus dem deutschen Immobilienbereich weiter. Genau. Also, Mezzanine-Darlehen, das ist für euch im Finanzressort in Frankfurt, glaube ich, Tagesgeschäft. Für uns …
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 14:19](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=859) · [[Transkript 155#Minute 14|im Transkript]]
 
-> … diese Gelder in den Virios-Fonds investieren konnten, der wiederum das Geld an Projektentwickler wie den Herrn M. und die Hedera Bauwert weitergibt, da muss man schon sehr stark in die Trickkiste der Finanzstrukturierer greifen …
+> … diese Gelder in den Verius-Fonds investieren konnten, der wiederum das Geld an Projektentwickler wie den Herrn M. und die Hedera Bauwert weitergibt, da muss man schon sehr stark in die Trickkiste der Finanzstrukturierer greifen …
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 17:51](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=1071) · [[Transkript 155#Minute 17|im Transkript]]
 

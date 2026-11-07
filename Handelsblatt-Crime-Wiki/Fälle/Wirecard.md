@@ -25,6 +25,22 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 
 ## Was im Podcast gesagt wird
 
+> … 300 Millionen Euro. Um große Zahlungsdienstleister wie unser, Payone, Concades und auch Wirecard. Und natürlich, ihr ahnt es vielleicht schon, es geht natürlich auch mal wieder um Jan Marsalek. Über all dies spreche ich …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 1:41](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=101) · [[Transkript 151#Minute 1|im Transkript]]
+
+> … Führungskräfte von großen deutschen Zahlungsdienstleistern, ganz konkret hier Payone, Concadis, Unser und Wirecard. Und unter den Beschuldigten sind auch prominente Namen. Wir haben es schon angerissen am Anfang. Unter anderem der als Pornobaron bekannt …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 7:10](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=430) · [[Transkript 151#Minute 7|im Transkript]]
+
+> … glaube ich, definitiv nochmal anschauen. Und wir werden natürlich gleich nochmal über Wirecard und Jan-Massadek sprechen. Aber ihr habt euch ja jetzt tatsächlich auch mit noch einer anderen Recherche, mit dem Fall UNSER beschäftigt …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 9:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=580) · [[Transkript 151#Minute 9|im Transkript]]
+
+> … man aber natürlich schon sagen, also ich meine, wir haben eben bei Wirecard gesprochen, also auch im Nachhinein wurden ja tatsächlich auch noch diverse Schutzmechanismen installiert und auch generell. Ein Mittel der Geldwäscheprävention nennt …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 21:17](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1277) · [[Transkript 151#Minute 21|im Transkript]]
+
 > … es um die geheimen Ermittlungsakten in der Arbeit von EY im Fall Wirecard. Und da gab es einen Untersuchungsausschuss im Bundestag, der eine Untersuchung in Auftrag gegeben hat. Und die wurde dann vom Untersuchungsausschuss …
 >
 > — [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,|#154]], [Minute 12:45](https://open.spotify.com/episode/590dh8bI3dktzPbid1ckS8?t=765) · [[Transkript 154#Minute 12|im Transkript]]
@@ -81,7 +97,7 @@ Die Staatsanwaltschaft München I wirft ihnen bandenmäßigen Betrug, Untreue, B
 - [[149 Update für Handelsblatt Crime Live – Wir legen nach!|#149 – Update für Handelsblatt Crime Live – Wir legen nach!]] (2026-05-10) — Shownotes
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes
 - [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [1:41](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=101), [7:10](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=430), [9:40](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=580), [21:17](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1277)
 
 ## Kurz erwähnt (3)
 

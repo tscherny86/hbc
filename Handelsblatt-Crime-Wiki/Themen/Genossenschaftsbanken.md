@@ -38,7 +38,7 @@ _Regionale, mitgliedergetragene Banken des Volks- und Raiffeisensektors – und 
 >
 > — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 7:21](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=441) · [[Transkript 153#Minute 7|im Transkript]]
 
-> … geht es um eine Affäre, in der ein Großbordell, einen Millionenkredit, eine Volksbank und eine große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstaatsmitglied der …
+> … geht es um eine Affäre, in der ein Großbordell, einen Millionenkredit, eine Volksbank und eine große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstandsmitglied der …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 0:11](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=11) · [[Transkript 157#Minute 0|im Transkript]]
 

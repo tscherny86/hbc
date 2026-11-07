@@ -30,17 +30,17 @@ Die Betreiber verwenden das Geld häufig für Luxus, Provisionen für Vermittler
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 10:51](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=651) · [[Transkript 156#Minute 10|im Transkript]]
 
-> … hat er kaum einen Aufwand gescheut, um stets neue Fonds für das Schneeballsystem zu entwerfen. Das Gericht ist davon überzeugt, dass der angeklagte Joosten sich planvoll und bewusst aus der formellen Verantwortung gestohlen hat. …
+> … hat er kaum einen Aufwand gescheut, um stets neue Fonds für das Schneeballsystem zu entwerfen. Das Gericht ist davon überzeugt, dass der angeklagte Josten sich planvoll und bewusst aus der formellen Verantwortung gestohlen hat. …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 12:58](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=778) · [[Transkript 156#Minute 12|im Transkript]]
+
+> … nur solange man neue Kunden bekommt eben durch diese neuen Tarife. Klassisches Schneeballsystem. Die Kunden zahlen ja im Voraus und mit diesem Geld kann dann Teldafax die eigenen alten Rechnungen bezahlen und dann wieder …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 20:53](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1253) · [[Transkript 156#Minute 20|im Transkript]]
 
 > … haben, auch wirklich ein lohnendes Geschäft. Dann baust du da mit dem Schneeball ein Unternehmen auf, das sehr interessant aussieht und verkaufst es für Faktor X, also Betrag X oder Y, das sind dann …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 22:49](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1369) · [[Transkript 156#Minute 22|im Transkript]]
-
-> … Köln eine Untersagung bekommen, dass wir schreiben dürfen, dass Teldafax wie ein Schneeballsystem funktioniert. Das war Anfang November 2010. Aber dann in der mündlichen Verhandlung hat sich das dann gedreht. Am 26. Januar hat …
->
-> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 45:27](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2727) · [[Transkript 156#Minute 45|im Transkript]]
 
 > … eigentlich alles los? Ja, das ging alles irgendwie 2019 los mit einem Schneeballsystem hier in Berlin. PICAM, unsere treuesten Hörer und Hörerinnen werden sich da auch an eine Folge erinnern. Und die Bande hinter …
 >
@@ -53,7 +53,7 @@ Die Betreiber verwenden das Geld häufig für Luxus, Provisionen für Vermittler
 - [[109 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft|#109 – 300 Millionen Euro gedreht – Picam-Chef muss fast sechs Jahre in Haft]] (2025-03-09) — Shownotes
 - [[112 Wolfgang Hoeft Der Puppenspieler und das 50-Millionen-Euro-Rätsel|#112 – Wolfgang Hoeft: Der Puppenspieler und das 50-Millionen-Euro-Rätsel]] (2025-04-20) — Shownotes
 - [[115 Digitale Schutzgelderpressung der Fall Gomopa|#115 – Digitale Schutzgelderpressung: der Fall Gomopa]] (2025-06-01) — Shownotes
-- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [10:51](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=651), [12:58](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=778), [22:49](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1369), [45:27](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2727)
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [10:51](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=651), [12:58](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=778), [20:53](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1253), [22:49](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1369)
 
 ## Kurz erwähnt (1)
 

@@ -2,7 +2,7 @@
 
 - [[Aldi]] — Discount-Pionier der Albrecht-Brüder, bei dem Familienstreit und Frankreich-Verluste die Bilanz trüben. (1 Folgen)
 - [[Audi]] — Ingolstädter VW-Tochter, deren Ex-Chef Rupert Stadler 2023 im Dieselskandal verurteilt wurde. (4 Folgen)
-- [[BaFin]] — Deutsche Finanzaufsicht in Bonn und Frankfurt – nach Wirecard und Greensill in der Kritik und reformiert. (12 Folgen)
+- [[BaFin]] — Deutsche Finanzaufsicht in Bonn und Frankfurt – nach Wirecard und Greensill in der Kritik und reformiert. (13 Folgen)
 - [[BND]] — Deutscher Auslandsgeheimdienst, in dessen Reihen 2022 ein mutmaßlicher Russland-Spion enttarnt wurde. (1 Folgen)
 - [[BSI]] — Deutsche Cybersicherheitsbehörde in Bonn, deren Präsident Arne Schönbohm 2022 geschasst wurde. (2 Folgen)
 - [[Centrum Gruppe]] — Düsseldorfer Projektentwickler von Uwe Reppegather, der nach der Pleite 2026 festgenommen wurde. (1 Folgen)
@@ -46,6 +46,6 @@
 - [[Volksbank Düsseldorf Neuss]] — Genossenschaftsbank, von deren Konto 100 Millionen Euro einer französischen Modekette verschwanden. (2 Folgen)
 - [[Volksbank Köln Bonn]] — Rheinische Genossenschaftsbank, die mit einem Kredit für das Kölner Großbordell „Pascha“ Schlagzeilen machte. (2 Folgen)
 - [[Volkswagen]] — Wolfsburger Autokonzern, dessen Dieselskandal 2015 mehr als 30 Milliarden Euro kostete. (5 Folgen)
-- [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] — Thüringer Genossenschaftsbank, die mit Beteiligungen und Rotlicht-Immobilien 220 Millionen Euro verlor. (3 Folgen)
+- [[VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)]] — Thüringer Genossenschaftsbank, die mit Beteiligungen und Rotlicht-Immobilien 220 Millionen Euro verlor. (2 Folgen)
 
 ← [[Handelsblatt Crime Wiki|Start]]

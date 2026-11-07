@@ -26,7 +26,7 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 
 ## Was im Podcast gesagt wird
 
-> … von einem Überfall maskierter Männer, die ihn böse zusammengeschlagen haben. Er werde erpresst, sagt er, und er wisse auch von wem. Mit seiner Zeugenaussage beginnt unsere neue Folge Handelsbut Crime, in der es dieses …
+> … von einem Überfall maskierter Männer, die ihn böse zusammengeschlagen haben. Er werde erpresst, sagt er, und er wisse auch von wem. Mit seiner Zeugenaussage beginnt unsere neue Folge Handelsblatt Crime, in der es dieses Mal, …
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 0:19](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=19) · [[Transkript 155#Minute 0|im Transkript]]
 
@@ -38,7 +38,7 @@ Opfer scheuen oft die Anzeige – aus Angst vor Gewalt, Reputationsschäden oder
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 53:10](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3190) · [[Transkript 155#Minute 53|im Transkript]]
 
-> … Kryptowährungen zu überweisen. Nochmal ganz kurz. Womit wollten die ihn eigentlich überhaupt erpressen? Er sagt, es geht darum, dass diese Firma, die früher für die Hidera gearbeitet hat, von ihm Geld verlangt. Also sozusagen …
+> … Kryptowährungen zu überweisen. Nochmal ganz kurz. Womit wollten die ihn eigentlich überhaupt erpressen? Er sagt, es geht darum, dass diese Firma, die früher für die Hedera gearbeitet hat, von ihm Geld verlangt. Also sozusagen …
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 55:31](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3331) · [[Transkript 155#Minute 55|im Transkript]]
 

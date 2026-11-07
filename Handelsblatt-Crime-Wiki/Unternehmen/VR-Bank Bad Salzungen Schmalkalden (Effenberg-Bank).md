@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 3
+folgen: 2
 tags: [unternehmen]
 ---
 # VR-Bank Bad Salzungen Schmalkalden (Effenberg-Bank)
@@ -24,15 +24,10 @@ Die BaFin entsandte zwei Sonderbeauftragte, um Vorstand und Aufsichtsrat neu zu 
 >
 > — [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153]], [Minute 35:57](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2157) · [[Transkript 153#Minute 35|im Transkript]]
 
-> … Rettung da genau abläuft. Dann gab es eine Bank, die hieß lange Bad Salzungen-Schmalkalden, VR-Bank Bad Salzungen-Schmalkalden, Volksbank Düsseldorf-Neuss. Und da ist relativ viel Geld in die Rettung geflossen. Ja, also große Summen und …
->
-> — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 49:31](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2971) · [[Transkript 157#Minute 49|im Transkript]]
-
-## In diesen Folgen (3)
+## In diesen Folgen (2)
 
 - [[070 Die fragwürdigen Geschäfte der „Effenberg-Bank“|#70 – Die fragwürdigen Geschäfte der „Effenberg-Bank“]] (2024-03-23) — Shownotes
 - [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Minute [35:57](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=2157)
-- [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Minute [49:31](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=2971)
 
 ---
 ← [[Unternehmen]] · [[Handelsblatt Crime Wiki|Start]]

@@ -1,6 +1,6 @@
 ---
 type: unternehmen
-folgen: 12
+folgen: 13
 tags: [unternehmen]
 ---
 # BaFin
@@ -19,6 +19,14 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 > wurde, steht unten – mit Link zur genauen Minute.
 
 ## Was im Podcast gesagt wird
+
+> … Es gab tatsächlich auch einen Whistleblower, der genau das später gegenüber der BaFin in einem Schreiben so sinngemäß beschrieben hat, als vielleicht etwas ungewöhnliche, aber doch brillante Geldwäsche. Aber wir kommen ja eigentlich von …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 32:58](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1978) · [[Transkript 151#Minute 32|im Transkript]]
+
+> … Geldwäsche-Verdachtsmeldung. Da gingen dann noch mehrere ein. Und ja, auch die Bundesfinanzaufsicht BaFin schaltete sich dann ein und prüfte die Verbindung unter anderem UNSAS zur Weigand. Ja, und beauftragte in Sachen UNSAR die Wirtschaftsprüfungsgesellschaft …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 41:05](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2465) · [[Transkript 151#Minute 41|im Transkript]]
 
 > Der Schritt war so drastisch wie ungewöhnlich. Mitte Juni schickte die Finanzaufsichtsbehörde BaFin der milliardenschweren Investmentgesellschaft Deutsche Finance einen Sonderbeauftragten ins Haus. Mit seiner Hilfe wollen die Aufseher prüfen, ob die Fonds für …
 >
@@ -44,7 +52,7 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 >
 > — [[160 Wanja Oberhof – Vom Wirtschafts-Wunderkind zum US-Häftling|#160]], [Minute 33:50](https://open.spotify.com/episode/6y18lLP22KZWjpftvqEtpC?t=2030) · [[Transkript 160#Minute 33|im Transkript]]
 
-## In diesen Folgen (12)
+## In diesen Folgen (13)
 
 - [[014 Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekos|#14 – Warum Cum-Ex eine Größe der Hamburger High Society den Status und noch viel mehr gekostet hat]] (2022-05-22) — Shownotes
 - [[015 Hanno Berger Steuer-Guru vor Gericht|#15 – Hanno Berger: Steuer-Guru vor Gericht]] (2022-06-05) — Shownotes
@@ -57,6 +65,7 @@ Ihr schärfstes Instrument ist die Entsendung von **Sonderbeauftragten**, die Vo
 - [[087 Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab|#87 – Gericht bricht Cum-Ex-Prozess gegen Christian Olearius ab]] (2024-06-26) — Shownotes
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes
 - [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — Shownotes
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [32:58](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1978), [41:05](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=2465)
 - [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] (2026-07-12) — Shownotes · Minute [0:08](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=8), [2:31](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=151), [4:06](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=246), [5:53](https://open.spotify.com/episode/2n2OnI0eoUBTlQDPkgVW9Q?t=353)
 
 ## Kurz erwähnt (2)

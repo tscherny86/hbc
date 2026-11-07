@@ -18,11 +18,11 @@ tags: [folge, jahr-2026, folge]
 | **Datum** | 2026-08-23 |
 | **Dauer** | 1:11:11 |
 | **Anhören** | [Spotify](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn) · [MP3](https://audio.podigee-cdn.net/2547791-m-e6492960611122c756a1b9b2a630ee84.mp3?source=feed) · [handelsblatt.com](https://hb-crime.podigee.io/156-neue-episode-23-08) |
-| **Transkript** | [[Transkript 156]] (Wort-genau mit Zeitstempeln, **noch nicht Korrektur gelesen**) |
-| **Fälle** | [[Porsche-Ikone vor Gericht]], [[Teldafax]] |
+| **Transkript** | [[Transkript 156]] (Wort-genau mit Zeitstempeln, vollständig Korrektur gelesen) |
+| **Fälle** | [[Teldafax]] |
 | **Themen** | [[Betrug]], [[Schneeballsystem]], [[Insolvenz]], [[Insolvenzverwalter]] |
 | **Unternehmen** | – |
-| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]], [[Jürgen Barth]] |
+| **Personen** | [[Ina Karabasz]], [[Solveig Gode]], [[Sönke Iwersen]] |
 | **Kurz erwähnt** | [[Wirtschaftsprüfung]], [[Staatsanwaltschaft und Strafprozess]], [[Handelsblatt]] |
 
 ## Shownotes
@@ -42,7 +42,7 @@ Mehr über die Teldafax-Recherchen von Sönke Iwersen und Jürgen Flauger gibt e
 ## Zeitmarken
 
 - [0:05](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=5) – Ich habe gestern den Stromanbieter gewechselt. Das ist total einfach. Ich dachte, das wäre voll das Ding. Nee, … ([[Transkript 156#Minute 0|Transkript]])
-- [2:08](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=128) – Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Solveigode … ([[Transkript 156#Minute 2|Transkript]])
+- [2:08](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=128) – Wer dahinter steckt, wie sie dahin gekommen sind und welches System das zugelassen hat. Mein Name ist Solveig … ([[Transkript 156#Minute 2|Transkript]])
 - [4:12](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=252) – Ja, siehst du. Und da haben wir uns wahrscheinlich erst mal 20 Minuten über Judo-ECL unterhalten und welcher … ([[Transkript 156#Minute 4|Transkript]])
 - [6:16](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=376) – Aber keine Sporttasche, in der man auf Verdacht dann die Akten stopfen könnte. Sodass tatsächlich nichts anderes blieb, … ([[Transkript 156#Minute 6|Transkript]])
 - [8:23](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=503) – Oder vielleicht das Unternehmen pleite geht und dann kommt der Sönke bei dir mit den Plastiktüten an und … ([[Transkript 156#Minute 8|Transkript]])
@@ -53,7 +53,7 @@ Mehr über die Teldafax-Recherchen von Sönke Iwersen und Jürgen Flauger gibt e
 - [18:33](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1113) – Der ist schon 2002 bei Teldafax eingestiegen. Der Name Teldafax war damals wirklich eigentlich schon bekannt, allerdings ziemlich … ([[Transkript 156#Minute 18|Transkript]])
 - [20:34](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1234) – Ja, aber das Modell hat wirklich einen entscheidenden Konstruktionsfehler gehabt. Teldafax hat Strom teilweise billiger verkauft und zwar … ([[Transkript 156#Minute 20|Transkript]])
 - [22:37](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1357) – Ich will einfach einen schnell wachsenden jungen Marktteilnehmer übernehmen. Dann stehst du da ganz oben auf der Liste. … ([[Transkript 156#Minute 22|Transkript]])
-- [24:51](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1491) – Was man Rudi Völler sozusagen zugute halten kann, das Urteil gegen Herrn Joosten war nicht öffentlich. Der konnte … ([[Transkript 156#Minute 24|Transkript]])
+- [24:51](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1491) – Was man Rudi Völler sozusagen zugute halten kann, das Urteil gegen Herrn Josten war nicht öffentlich. Der konnte … ([[Transkript 156#Minute 24|Transkript]])
 - [26:55](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1615) – Wir haben das alle zusammen geguckt am Wochenende. Genau, das war das berühmte Lagerfeuer. Gottschalk war der bekannteste … ([[Transkript 156#Minute 26|Transkript]])
 - [28:59](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1739) – Nur zu veranschaulichen, wir haben einfach die erste Sendung uns mal angeguckt, in der dieser Vertrag dann sozusagen … ([[Transkript 156#Minute 28|Transkript]])
 - [31:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1860) – Ne, das ist auch wieder ein bisschen kompliziert. Also man muss zu der Firma sagen, irgendwann hat sich … ([[Transkript 156#Minute 31|Transkript]])
@@ -61,7 +61,7 @@ Mehr über die Teldafax-Recherchen von Sönke Iwersen und Jürgen Flauger gibt e
 - [35:06](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2106) – Deutlich früher. Im Januar 2008 wissen wir, dass die Bundesnetzagentur schon an Teldafax geschrieben hat. Und das auch … ([[Transkript 156#Minute 35|Transkript]])
 - [37:08](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2228) – Die sagen jetzt nicht, alles halb so wild. Nee, vier Wochen später hat der Vorstand von Teldafax selbst … ([[Transkript 156#Minute 37|Transkript]])
 - [39:12](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2352) – Traute sich aber schon nicht mehr über die Grenze. Wir wissen, er ist ja geflohen gewissermaßen in die … ([[Transkript 156#Minute 39|Transkript]])
-- [41:15](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2475) – Und dann kommt mitten in unserer Konferenz, kommt die Antwort, ja lieber Herr Eversen, natürlich, lieber Herr Flauger, … ([[Transkript 156#Minute 41|Transkript]])
+- [41:15](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2475) – Und dann kommt mitten in unserer Konferenz, kommt die Antwort, ja lieber Herr Iwersen, natürlich, lieber Herr Flauger, … ([[Transkript 156#Minute 41|Transkript]])
 - [43:23](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2603) – Und dann habe ich ihm diese zentralen Punkte vorgelesen. Also aus dem Brief vor allem von dem Vorstand, … ([[Transkript 156#Minute 43|Transkript]])
 - [45:24](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2724) – Wir haben auch zunächst vom Landgericht Köln eine Untersagung bekommen, dass wir schreiben dürfen, dass Teldafax wie ein … ([[Transkript 156#Minute 45|Transkript]])
 - [47:26](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=2846) – So, und während den Gläubigern so viel Geld fehlt, was macht denn jetzt eigentlich Josten? Jetzt müssen wir … ([[Transkript 156#Minute 47|Transkript]])
@@ -71,11 +71,11 @@ Mehr über die Teldafax-Recherchen von Sönke Iwersen und Jürgen Flauger gibt e
 - [55:44](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3344) – Der stand da mit seinem Wagen stundenlang, weil ganz viele Kunden dann darauf bestanden haben, einschreiben mit Rückschein. … ([[Transkript 156#Minute 55|Transkript]])
 - [57:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3466) – Und die mussten dann im Rahmen eines Vergleichs 10 ,9 Millionen Euro zurückzahlen. Bayer Leverkusen, das Portal, was … ([[Transkript 156#Minute 57|Transkript]])
 - [59:47](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3587) – Und dann wird ermittelt. Die Staatsanwaltschaft Bonn macht sich da viel Arbeit, ist ja auch viel zu tun. … ([[Transkript 156#Minute 59|Transkript]])
-- [1:01:53](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3713) – Das müssen wir jetzt mal kurz hier besprechen. In Gerichtsszenien gibt es ja immer so ein Hinterzimmer. Dann … ([[Transkript 156#Minute 61|Transkript]])
-- [1:03:54](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3834) – Barth hat zwei Anwälte, Joosten hat drei Anwälte, Koch zwei Anwälte. Und wieder, also da kann man wirklich … ([[Transkript 156#Minute 63|Transkript]])
+- [1:01:53](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3713) – Das müssen wir jetzt mal kurz hier besprechen. In Gerichtssälen gibt es ja immer so ein Hinterzimmer. Dann … ([[Transkript 156#Minute 61|Transkript]])
+- [1:03:54](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3834) – Bath hat zwei Anwälte, Josten hat drei Anwälte, Koch zwei Anwälte. Und wieder, also da kann man wirklich … ([[Transkript 156#Minute 63|Transkript]])
 - [1:05:57](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3957) – Rückblickend würde er die Sache anders machen. Eigentlich hätte er auch schon nach den ersten Berichten, also nach … ([[Transkript 156#Minute 65|Transkript]])
 - [1:08:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4080) – Ja, also für mich würde ich sagen, bleibt, dass der Josten halt ein System gefunden hat, das funktioniert. … ([[Transkript 156#Minute 68|Transkript]])
-- [1:10:05](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4205) – Also die Schlange, in die sich die Bayer Leverkusen und E.ON und das Hauptzahleramt und alle damals 2011 … ([[Transkript 156#Minute 70|Transkript]])
+- [1:10:05](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4205) – Also die Schlange, in die sich die Bayer Leverkusen und E.ON und das Hauptzollamt und alle damals 2011 … ([[Transkript 156#Minute 70|Transkript]])
 - [1:12:05](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4325) – Und wir hören uns dann in zwei Wochen wieder. Bis dahin, alles Gute. Fit für die Zukunft? Mit … ([[Transkript 156#Minute 72|Transkript]])
 
 ---

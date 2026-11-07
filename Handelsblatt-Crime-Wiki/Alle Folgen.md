@@ -16,7 +16,7 @@
 | [[154 Sonderfolge Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche,\|#154 – Sonderfolge: Interview mit Handelsblatt-Chefredakteur Sebastian Matthes über Recherche, Klagen und KI]] | 2026-08-02 | 47:28 | ✅ |
 | [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise\|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] | 2026-07-26 | 40:50 | ✅ |
 | [[152 Deutsche Finance Gruppe unter Druck Millionenverluste und Kritik der Wirtschaftsprüfer\|#152 – Deutsche Finance Gruppe unter Druck: Millionenverluste und Kritik der Wirtschaftsprüfer]] | 2026-07-12 | 1:01:57 | ✅ |
-| [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h\|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] | 2026-06-28 | 59:26 | – |
+| [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h\|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] | 2026-06-28 | 59:26 | ✅ |
 | [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt\|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] | 2026-06-14 | 52:50 | – |
 | [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d\|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] | 2026-05-31 | 1:02:21 | – |
 | [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss\|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] | 2026-05-17 | 52:21 | – |

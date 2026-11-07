@@ -1,6 +1,6 @@
 ---
 type: personen
-folgen: 23
+folgen: 24
 tags: [personen]
 ---
 # Lars-Marten Nagel
@@ -16,6 +16,10 @@ _Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenze
 
 ## Was im Podcast gesagt wird
 
+> … über seine erstaunliche kriminelle Karriere zu sprechen. Bei mir im Studio ist Lars-Marten Nagel aus dem Investigativteam. Zusammen mit seinem Kollegen Michael Verfürden und Kathrin Witsch, die beim Handelsblatt über erneuerbare Energien berichtet, hat er damals …
+>
+> — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=94) · [[Transkript 158#Minute 1|im Transkript]]
+
 > … diesen Fall berichtet schon länger meine Kollegin Josefine Fokuhl aus der Politikredaktion und Lars-Marten Nagel aus dem Investigativteam war heute Morgen beim Prozess dabei. Beide sind mir jetzt zugeschaltet. In diesem Podcast sprechen wir sonst alle …
 >
 > — [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159]], [Minute 1:22](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=82) · [[Transkript 159#Minute 1|im Transkript]]
@@ -24,7 +28,7 @@ _Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenze
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 0:31](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=31) · [[Transkript 161#Minute 0|im Transkript]]
 
-## In diesen Folgen (23)
+## In diesen Folgen (24)
 
 - [[009 Ukraine-Krieg Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland|#9 – Ukraine-Krieg: Wie real ist die Gefahr russischer Hackerangriffe auf Deutschland?]] (2022-03-13) — Shownotes
 - [[016 Auf der Spur der verschwundenen „Kryptoqueen“|#16 – Auf der Spur der verschwundenen „Kryptoqueen“]] (2022-06-19) — Shownotes
@@ -47,6 +51,7 @@ _Investigativ-Redakteur; Fälle rund um Immobilien, Anlegerbetrug und Insolvenze
 - [[143 Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI|#143 – Bis zu 72 Prozent – Die fragwürdigen Gold-Rabatte der TGI]] (2026-04-05) — Shownotes
 - [[147 Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss|#147 – Ende eines Alaska-Abenteuers - Warum „Ölbaron“ Kay Rieck ins Gefängnis muss]] (2026-05-17) — Shownotes
 - [[148 Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und d|#148 – Wie das Berliner Zahnärzte-Versorgungswerk mehr als eine Milliarde Euro verlor – und das Geld nun zurückholen will]] (2026-05-31) — Shownotes
+- [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158 – Hendrik Holt – Windparkbetrüger auf der Flucht]] (2026-09-20) — Shownotes · Minute [1:34](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=94)
 - [[159 Sonderfolge Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage|#159 – Sonderfolge: Andreas Scheuer vor Gericht wegen Pkw-Maut-Aussage]] (2026-09-21) — Shownotes · Minute [1:22](https://open.spotify.com/episode/08acxLZDsSM6QYF4rR8ugs?t=82)
 - [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161 – Panzer, Scheichs, Millionen: Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW]] (2026-10-18) — Shownotes · Minute [0:31](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=31)
 

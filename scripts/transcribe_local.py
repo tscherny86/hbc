@@ -80,6 +80,8 @@ def main() -> None:
     ap.add_argument("--model", default="large-v3-turbo", help="tiny | base | small | medium | large-v3 | large-v3-turbo")
     ap.add_argument("--cpu", action="store_true", help="CPU erzwingen")
     ap.add_argument("--push", action="store_true", help="nach jeder Folge Wiki neu bauen, committen und pushen")
+    ap.add_argument("--force", action="store_true", help="vorhandene Transkripte neu erstellen")
+    ap.add_argument("--oldest-first", action="store_true", help="älteste Folgen zuerst (für einen zweiten Prozess parallel)")
     args = ap.parse_args()
     wanted = {f"{int(x):03d}" for x in args.ids}
 
@@ -98,18 +100,20 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     # neueste Folgen zuerst
-    for ep in sorted(load_episodes(), key=lambda e: e["date"], reverse=True):
+    for ep in sorted(load_episodes(), key=lambda e: e["date"], reverse=not args.oldest_first):
         target = out_dir / f"{ep['id']}.json"
         if wanted and ep["id"] not in wanted:
             continue
-        if not wanted and target.exists():
+        if target.exists() and not args.force:
             continue
+        partial = out_dir / "partial" / f"{ep['id']}.json"
+        if not wanted and partial.exists() and time.time() - partial.stat().st_mtime < 600:
+            continue  # ein anderer Prozess ist gerade an dieser Folge
         if not ep["audio"]:
             log(f"   ! {ep['id']} ohne Audio, übersprungen")
             continue
         log(f"▶ {ep['id']}  {ep['title']}  ({ep['duration'] // 60} min)")
         t0 = time.time()
-        partial = out_dir / "partial" / f"{ep['id']}.json"
         partial.parent.mkdir(exist_ok=True)
         words = json.loads(partial.read_text(encoding="utf-8"))["words"] if partial.exists() else []
         offset = words[-1]["end"] if words else 0.0

@@ -25,6 +25,22 @@ In Wirtschaftsstrafverfahren taucht Geldwäsche oft als Begleitvorwurf auf, wenn
 
 ## Was im Podcast gesagt wird
 
+> … aussehen und wirken. Dahinter sollen aber tatsächlich, jedenfalls laut den Ermittlern, hunderte Scheinfirmen gesteckt haben. Und das soll folgenden Hintergrund gehabt haben. Wenn nämlich zu viele Kunden sich beschweren und diese Chargebacks auslösen, dann …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 3:57](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=237) · [[Transkript 151#Minute 3|im Transkript]]
+
+> … dann aber auch Vermittler von den sogenannten Hochrisikokunden und ein Anbieter von Scheinfirmen. Aber eben auch, und das macht den ganzen Fall natürlich für uns auch so spannend, mehrere ehemalige Mitarbeiter und Führungskräfte von …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 6:55](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=415) · [[Transkript 151#Minute 6|im Transkript]]
+
+> … Nachverfolgung schlicht schwieriger. Und die Ermittler werden deshalb diese Settlement-Solution als mögliches Geldwäsche-Vehikel. Und eigentlich noch krasser, nach ihrer Lesart hatte das einfach einzig und allein diesen Zweck, war einzig und allein dafür geschaffen, …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 18:51](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1131) · [[Transkript 151#Minute 18|im Transkript]]
+
+> … Lesarten. Die Ermittler sagen ganz klar, sie sehen oder vermuten da eine Geldwäschedrehscheibe und Hüllemanns Umfeld sagt, das ist eine normale technische Lösung und das Risiko hat er nicht erkannt. Genau, das ist richtig …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 20:36](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1236) · [[Transkript 151#Minute 20|im Transkript]]
+
 > … sich Banken alle ihre Kunden genau angucken. Eben in erster Linie, um Geldwäsche zu vermeiden. Oder auch Terrorismusfinanzierung oder andere illegale Geschäfte. Auf jeden Fall. Also kann man schon davon ausgehen, dass die Volksbank …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 13:03](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=783) · [[Transkript 157#Minute 13|im Transkript]]
@@ -55,7 +71,7 @@ In Wirtschaftsstrafverfahren taucht Geldwäsche oft als Begleitvorwurf auf, wenn
 - [[025 Gericht lässt Wirecard-Klage zu|#25 – Gericht lässt Wirecard-Klage zu]] (2022-09-21) — Shownotes
 - [[047 Wie drei Tonnen Gold verschwanden Der PIM-Gold-Skandal|#47 – Wie drei Tonnen Gold verschwanden: Der PIM-Gold-Skandal]] (2023-07-01) — Shownotes
 - [[100 100 Millionen Euro verschwunden die französische Buchhalterin und die Volksbank Düssel|#100 – 100 Millionen Euro verschwunden: die französische Buchhalterin und die Volksbank Düsseldorf Neuss]] (2024-11-17) — Shownotes
-- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Shownotes · Minute [3:57](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=237), [6:55](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=415), [18:51](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1131), [20:36](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1236)
 
 ## Kurz erwähnt (2)
 

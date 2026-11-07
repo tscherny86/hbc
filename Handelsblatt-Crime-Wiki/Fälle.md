@@ -51,7 +51,7 @@
 - [[Picam]] — 15 bis 20 Prozent Rendite per Wundercomputer: Bei Picam verschwanden über 320 Mio. Euro Anlegergeld. (2 Folgen)
 - [[PIM Gold]] — Fast drei Tonnen Gold im Wert von über 150 Mio. Euro verschwanden aus den Tresoren des Händlers bei Frankfurt. (2 Folgen)
 - [[Pkw-Maut und Andreas Scheuer]] — Gescheiterte Pkw-Maut: 243 Mio. Euro Schadensersatz – 2026 Prozess gegen Scheuer wegen Falschaussage. (1 Folgen)
-- [[Porsche-Ikone vor Gericht]] — Le-Mans-Sieger Jürgen Barth soll geholfen haben, gefälschte historische Porsche als Originale auszugeben. (4 Folgen)
+- [[Porsche-Ikone vor Gericht]] — Le-Mans-Sieger Jürgen Barth soll geholfen haben, gefälschte historische Porsche als Originale auszugeben. (3 Folgen)
 - [[Prominente und die Steuerfahndung]] — Schuhbeck, Hoeneß, Zumwinkel: Warum Prominente für vergleichsweise kleine Beträge Ruf und Freiheit riskieren. (4 Folgen)
 - [[Prozess gegen Hanno Berger]] — Cum-Ex-Architekt, 2012 in die Schweiz geflohen, 2022 in Bonn zu acht Jahren Haft verurteilt. (17 Folgen)
 - [[Russische Oligarchen und Sanktionen]] — Eingefrorene Milliarden, festgesetzte Jachten: Wie Putins Vertraute die EU-Sanktionen umgehen. (1 Folgen)

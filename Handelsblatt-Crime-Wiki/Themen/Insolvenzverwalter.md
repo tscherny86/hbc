@@ -35,7 +35,11 @@ In der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschä
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 1:00:41](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3641) · [[Transkript 155#Minute 60|im Transkript]]
 
-> … der Insolvenz. Was passiert denn da bei Teldafax? Da kommt wahrscheinlich ein Insolvenzverwalter rein, oder? Genau, da kommt ein Insolvenzverwalter, der heißt Bina Bär, ist Anwalt bei der Kanzlei White & Case und auch …
+> … Geschäftsführung in Kauf nimmt, dass der Tarif voraussichtlich nicht kostendeckend ist. Der Insolvenzverwalter hat später mal festgestellt, dass maximal ein Drittel der Kundenverträge kostendeckend war. Zwei Drittel waren defizitär. Okay, dann ist damit ja aber …
+>
+> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 21:26](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1286) · [[Transkript 156#Minute 21|im Transkript]]
+
+> … der Insolvenz. Was passiert denn da bei Teldafax? Da kommt wahrscheinlich ein Insolvenzverwalter rein, oder? Genau, da kommt ein Insolvenzverwalter, der heißt Biner Bähr, ist Anwalt bei der Kanzlei White & Case und auch spezialisiert …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 54:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3269) · [[Transkript 156#Minute 54|im Transkript]]
 
@@ -43,19 +47,15 @@ In der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschä
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 56:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3362) · [[Transkript 156#Minute 56|im Transkript]]
 
-> … hat 2 ,8 Millionen Euro zurückbezahlt. Okay, und wie viel konnte der Insolvenzverwalter Bayer dann insgesamt für die ganzen privaten Stromkunden zurückholen? Das waren tatsächlich mehrere hundert Millionen Euro. Also das, was für die …
+> … hat 2 ,8 Millionen Euro zurückbezahlt. Okay, und wie viel konnte der Insolvenzverwalter Bähr dann insgesamt für die ganzen privaten Stromkunden zurückholen? Das waren tatsächlich mehrere hundert Millionen Euro. Also das, was für die Kunden …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 57:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3476) · [[Transkript 156#Minute 57|im Transkript]]
 
-> … Sache. Die Sache ist noch nicht zu Ende. Ich habe bei dem Insolvenzverwalter nochmal nachgefragt und der sagt, das Verfahren läuft. Also es hat noch kein Punde, auch nur irgendeinen Cent bekommen. Warum ist …
->
-> — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:09:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4154) · [[Transkript 156#Minute 69|im Transkript]]
-
-> … jetzt am Tiefpunkt meines Lebens, ich sitze hier in Urhaft, der der Insolvenzverwalter ist hinter meinem Vermögen her, jetzt habe ich eine einmalige Chance. Jetzt kann ich ja rausfinden, welche Frau sich wirklich für …
+> … jetzt am Tiefpunkt meines Lebens, ich sitze hier in U-Haft, der der Insolvenzverwalter ist hinter meinem Vermögen her, jetzt habe ich eine einmalige Chance. Jetzt kann ich ja rausfinden, welche Frau sich wirklich für …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 43:10](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=2590) · [[Transkript 158#Minute 43|im Transkript]]
 
-> … er dann auch etwas, was glaube ich ganz viele Staatsanwälte und den Insolvenzverwalter und so erstmal aufmerken ließ. Hören wir uns das mal an. Der Rolltoling existiert weiterhin und so weiter in meine Firma …
+> … er dann auch etwas, was glaube ich ganz viele Staatsanwälte und den Insolvenzverwalter und so erstmal aufmerken ließ. Hören wir uns das mal an. Der Holt Holding existiert weiterhin und so weiter in meine Firma …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 1:03:48](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=3828) · [[Transkript 158#Minute 63|im Transkript]]
 
@@ -73,7 +73,7 @@ In der **Eigenverwaltung** tritt an seine Stelle ein Sachwalter, der die Geschä
 - [[114 Der Skandal um die Greensill Bank – Teil 2 Wie es zur Insolvenz kam und der finanziell|#114 – Der Skandal um die Greensill Bank – Teil 2: Wie es zur Insolvenz kam und der finanzielle Schaden aufgearbeitet wird]] (2025-05-18) — Shownotes
 - [[139 Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt|#139 – Die Millionen-Pleite der Degag wird zum nächsten Krimi am Immobilienmarkt]] (2026-02-08) — Shownotes
 - [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [59:08](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3548), [1:00:41](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=3641)
-- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [54:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3269), [56:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3362), [57:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3476), [1:09:14](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=4154)
+- [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156 – Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam]] (2026-08-23) — Minute [21:26](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=1286), [54:29](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3269), [56:02](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3362), [57:56](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3476)
 
 ## Kurz erwähnt (1)
 

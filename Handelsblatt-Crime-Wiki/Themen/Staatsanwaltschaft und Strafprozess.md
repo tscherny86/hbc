@@ -1,6 +1,6 @@
 ---
 type: themen
-folgen: 77
+folgen: 78
 tags: [themen]
 ---
 # Staatsanwaltschaft und Strafprozess
@@ -21,6 +21,22 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 > wurde, steht unten – mit Link zur genauen Minute.
 
 ## Was im Podcast gesagt wird
+
+> … dann schon etwas mehr überrascht. Michael, wie passen die rein? Naja, die Staatsanwaltschaft sagt letztendlich, dass die Wirecard in der Hinsicht eigentlich in nichts nachstanden. Ja, die sollen genauso als Schleuse für die Machenschaften …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 8:02](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=482) · [[Transkript 151#Minute 8|im Transkript]]
+
+> … Republik. René, ich würde jetzt gerne mal genau drauf schauen, was der Staatsanwaltschaft Ihnen eigentlich konkret vorwirft. Ja, eine ganze Menge. Du hast es gesagt, beide sind beschuldigt und beide sitzen auch seit Monaten …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 14:38](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=878) · [[Transkript 151#Minute 14|im Transkript]]
+
+> … Weigand installiert haben soll. Und deshalb, das ist jetzt der Vorwort der Staatsanwaltschaft, so sei Hüllemann eben Wegbereiter dieser technischen Infrastruktur geworden, die dann letztendlich zur angeblichen Verschleierung von diesen Zahlungsströmen eingesetzt wurde. Wir …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 19:18](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1158) · [[Transkript 151#Minute 19|im Transkript]]
+
+> … zugedrückt hat, damit man einen mutmaßlichen Betrug nicht erkennt? Naja, also die Staatsanwaltschaft, die sieht es im Kern so, dass eben ja üblicherweise es bei so Zahlungsdienstleistenden natürlich Grenzen gibt, indem Warnsignale aufpoppen zum …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 22:08](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1328) · [[Transkript 151#Minute 22|im Transkript]]
 
 > … Zweifel von Wirtschaftsprüfern gestoßen, ob bestimmte Fonds fortgeführt werden können. Selbst die Staatsanwaltschaft München interessiert sich inzwischen für den Pfeil. Und über all das wollen wir in dieser Folge sprechen. In diesem Podcast sprechen …
 >
@@ -66,7 +82,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155]], [Minute 47:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2876) · [[Transkript 155#Minute 47|im Transkript]]
 
-> … das haben wir auch mal als Zitat mitgebracht aus diesem Urteil. Der angeklagte Joosten war als Spiritus Rektor die treibende Kraft des Geschehens. Die Tatausführung ließ auch eine erhebliche kriminelle Energie des angeklagten Joosten …
+> … das haben wir auch mal als Zitat mitgebracht aus diesem Urteil. Der angeklagte Josten war als Spiritus Rector die treibende Kraft des Geschehens. Die Tatausführung ließ auch eine erhebliche kriminelle Energie des angeklagten Josten erkennen. …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 12:42](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=762) · [[Transkript 156#Minute 12|im Transkript]]
 
@@ -78,11 +94,11 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 59:46](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3586) · [[Transkript 156#Minute 59|im Transkript]]
 
-> … wird unterbrochen. Alle gehen auf den Flur und sehen relativ, also die Angeklagten sehen relativ gut gelernt aus. Und nach, ich weiß nicht, 20, 30 Minuten werden alle wieder reingerufen. Und der Richter sagt, …
+> … wird unterbrochen. Alle gehen auf den Flur und sehen relativ, also die Angeklagten sehen relativ gut gelaunt aus. Und nach, ich weiß nicht, 20, 30 Minuten werden alle wieder reingerufen. Und der Richter sagt, also das …
 >
 > — [[156 Vorkasse, Prominente, Pleite – wie Teldafax jahrelang durchkam|#156]], [Minute 1:02:00](https://open.spotify.com/episode/2Hr44mEml9hyMbOpB6giZn?t=3720) · [[Transkript 156#Minute 62|im Transkript]]
 
-> … große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstaatsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die Ermittlungen hatten zunächst …
+> … große Schleuseraffäre zusammenkommen. Im Mittelpunkt steht ein Kredit der Volksbank Köln-Bonn. Die Staatsanwaltschaft ermittelt inzwischen gegen ein Vorstandsmitglied der Bank, unter anderem wegen des Verdachts der Bestechlichkeit im geschäftlichen Verkehr. Die Ermittlungen hatten zunächst …
 >
 > — [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157]], [Minute 0:19](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=19) · [[Transkript 157#Minute 0|im Transkript]]
 
@@ -154,7 +170,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 >
 > — [[161 Panzer, Scheichs, Millionen Dubiose Provisionsgeschäfte des KNDS-Vorgängers KMW|#161]], [Minute 58:49](https://open.spotify.com/episode/2xSHCgXpkBTKtDwlrAlIsf?t=3529) · [[Transkript 161#Minute 58|im Transkript]]
 
-## In diesen Folgen (77)
+## In diesen Folgen (78)
 
 - [[002 Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute|#2 – Deutschlands größter Steuerskandal Cum-Ex betrifft auch Sie – bis heute]] (2021-12-20) — Shownotes
 - [[003 Hanno Berger Cum-Ex-Strippenzieher und Staatsfeind Nr. 1|#3 – Hanno Berger: Cum-Ex-Strippenzieher und Staatsfeind Nr. 1]] (2022-01-02) — Shownotes
@@ -228,6 +244,7 @@ Die **Staatsanwaltschaft** ist „Herrin des Ermittlungsverfahrens“: Sie muss 
 - [[137 Cum-Ex-Skandal Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck|#137 – Cum-Ex-Skandal: Die Memoiren des ehemaligen Kronzeugen Kai-Uwe Steck]] (2026-01-11) — Shownotes
 - [[138 Cum-Ex bei der LBBW – die Chefetage bleibt verschont|#138 – Cum-Ex bei der LBBW – die Chefetage bleibt verschont]] (2026-01-25) — Shownotes
 - [[150 HSH Nordbank Der Steuerskandal, der kein Ende nimmt|#150 – HSH Nordbank: Der Steuerskandal, der kein Ende nimmt]] (2026-06-14) — Shownotes
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [8:02](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=482), [14:38](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=878), [19:18](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1158), [22:08](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=1328)
 - [[153 Volksbank Brawo – Eine Genossenschaftsbank in der Krise|#153 – Volksbank Brawo – Eine Genossenschaftsbank in der Krise]] (2026-07-26) — Shownotes · Minute [0:43](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=43), [21:50](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1310), [23:41](https://open.spotify.com/episode/5pNSA7b29mWaFKehgpuPtg?t=1421)
 - [[155 Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe H|#155 – Schläge, Schüsse, Schulden – der unglaubliche Krimi um die Berliner Immobiliengruppe Hedera]] (2026-08-09) — Minute [3:34](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=214), [5:07](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=307), [8:24](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=504), [47:56](https://open.spotify.com/episode/0iYCtcGgFJAedlHYm1MEif?t=2876)
 - [[157 Ein Kredit, der die Volksbank Köln Bonn erschüttert|#157 – Ein Kredit, der die Volksbank Köln Bonn erschüttert]] (2026-09-06) — Shownotes · Minute [0:19](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=19), [1:50](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=110), [3:26](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=206), [25:06](https://open.spotify.com/episode/5jy7QmgTbbQqj6amdfQFj6?t=1506)

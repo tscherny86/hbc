@@ -20,6 +20,15 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 > Die Erklärung oben ist allgemeines Hintergrundwissen. Was **im Podcast** dazu gesagt
 > wurde, steht unten – mit Link zur genauen Minute.
 
+## Was im Podcast gesagt wird
+
+> … bis Jahresende vielleicht ein Urteil erwarten. Und zwar gegen den Ex-Vorstand, Ex-CEO Markus Braun. Was genau hat jetzt Operation Chargeback damit zu tun? Überschneidungen sind ja durchaus da, wie wir schon gehört haben. Allein …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 54:11](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3251) · [[Transkript 151#Minute 54|im Transkript]]
+
+> … Marsalek und gar nicht bei Braun. Und deswegen wollen die Verteidigerinnen von Markus Braun jetzt auch Akten auswerten mit Blick auf das Münchner Verfahren und auch zahlreiche Zeugen laden. Und wenn das Gericht dem …
+>
+> — [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151]], [Minute 56:06](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3366) · [[Transkript 151#Minute 56|im Transkript]]
 
 ## In diesen Folgen (12)
 
@@ -35,6 +44,10 @@ Die Staatsanwaltschaft München wirft ihm unter anderem bandenmäßigen Betrug, 
 - [[108 Alfred Dierlamm im Gespräch Was macht einen erfolgreichen Strafverteidiger aus|#108 – Alfred Dierlamm im Gespräch: Was macht einen erfolgreichen Strafverteidiger aus?]] (2025-02-23) — Shownotes
 - [[111 Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agente|#111 – Marsaleks Chaos-Spione im Einsatz – wie der Ex-Wirecard-Vorstand sechs Russland-Agenten dirigierte]] (2025-04-06) — Shownotes
 - [[145 Neue Crime Live-Show Termine im Juni 2026 Die letzten 48 Stunden von Wirecard|#145 – Neue Crime Live-Show Termine im Juni 2026: Die letzten 48 Stunden von Wirecard]] (2026-04-21) — Shownotes
+
+## Kurz erwähnt (1)
+
+- [[151 Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert h|#151 – Operation Chargeback – Wie Jan Marsalek & Co. den deutschen Finanzmarkt unterwandert haben sollen]] (2026-06-28) — Minute [54:11](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3251), [56:06](https://open.spotify.com/episode/1cncRmDIhtg4NsusVt2HIf?t=3366)
 
 ---
 ← [[Personen]] · [[Handelsblatt Crime Wiki|Start]]

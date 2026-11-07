@@ -31,7 +31,7 @@ Soziale Netzwerke erleichtern die Inszenierung, erleichtern aber auch die Recher
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 0:36](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=36) · [[Transkript 158#Minute 0|im Transkript]]
 
-> … lassen und ich fühle mich hier jetzt auch geradezu zwanghaft an unseren Hochstapler, den Christo Bourbon erinnert aus unserem Serienpodcast. Der hat ja genau die gleiche Methode gefahren, dieses Einstecktuch. Und der hat dann …
+> … lassen und ich fühle mich hier jetzt auch geradezu zwanghaft an unseren Hochstapler, den Christoph Bourbon erinnert aus unserem Serienpodcast. Der hat ja genau die gleiche Methode gefahren, dieses Einstecktuch. Und der hat dann auf …
 >
 > — [[158 Hendrik Holt – Windparkbetrüger auf der Flucht|#158]], [Minute 14:07](https://open.spotify.com/episode/4trSy6QiYNPcP405P19bOX?t=847) · [[Transkript 158#Minute 14|im Transkript]]
 

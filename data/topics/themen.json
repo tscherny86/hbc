@@ -573,13 +573,13 @@
   "patterns": [
    "\\bBußgeld\\w*",
    "\\bGeldbuße\\w*",
-   "\\bVergleich(s|e)?\\b",
-   "\\bGeldauflage\\w*",
-   "\\bStrafbefehl\\w*",
-   "\\bMusterfeststellungsklage\\w*"
+   "\\bStrafzahlung\\w*",
+   "\\bVergleichs(verhandlung|zahlung|summe|angebot)\\w*",
+   "\\b(außergerichtlich\\w*|einen|den|einem) Vergleich\\b",
+   "\\bVergleich (geschlossen|schließen|erzielt|vereinbart)"
   ],
   "summary": "Wie Verfahren ohne Urteil enden: Bußgelder gegen Firmen, Einstellung gegen Auflagen, Vergleiche mit Klägern.",
-  "min": 10,
+  "min": 6,
   "body": "Viele Wirtschaftsverfahren enden nicht mit einem Urteil, sondern mit Geld.\n\n**Bußgeld gegen Unternehmen:** Da Deutschland keine Unternehmensstrafbarkeit kennt, werden Konzerne über das Ordnungswidrigkeitengesetz sanktioniert. Nach § 30 OWiG kann eine Geldbuße bis zu zehn Millionen Euro verhängt werden – plus die **Abschöpfung des wirtschaftlichen Vorteils** (§ 17 Abs. 4), die in der Praxis den größten Teil ausmacht. So zahlte ein Autokonzern im Dieselskandal eine Milliarde Euro an Niedersachsen, ein Zulieferer 100 Millionen Euro. Aufsichtsbehörden wie BaFin, APAS oder das Bundeskartellamt verhängen eigene Bußgelder.\n\n**Einstellung gegen Auflage** (§ 153a StPO): Bei geringer Schuld kann ein Strafverfahren gegen Zahlung einer Geldauflage beendet werden – ohne Schuldspruch und Vorstrafe. Prominente nutzen das häufig, was als Zwei-Klassen-Justiz kritisiert wird. Der **Strafbefehl** (§ 407 StPO) ermöglicht eine Verurteilung ohne Hauptverhandlung, meist zu Geldstrafen oder Bewährung.\n\n**Zivilrechtlicher Vergleich:** Anleger und Kunden bündeln Ansprüche in **Musterfeststellungsklagen** (seit 2018) oder Kapitalanleger-Musterverfahren (KapMuG). Der erste große Vergleich 2020 brachte rund 260.000 Dieselkunden zusammen mehr als 800 Millionen Euro. Auch Insolvenzverwalter schließen Vergleiche mit Ex-Managern und Versicherern, um jahrelange Prozesse zu vermeiden.\n\nKritiker bemängeln, dass Vergleiche und Bußgelder Verantwortung verwischen: Die Firma zahlt, die handelnden Personen bleiben unbehelligt."
  },
  {
