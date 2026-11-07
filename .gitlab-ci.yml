@@ -2,7 +2,9 @@
 #   ci      : python scripts/ci.py (Website bauen ohne Veröffentlichen, Artikel und Version prüfen)
 #   release : scripts/release.mjs --all-missing (Tags vX.Y.Z + CHANGELOG-Abschnitte als GitLab-Releases)
 # Runner: acespc (Alex' PC, Windows, Shell-Executor PowerShell). Das GitLab-Projekt ist privat.
-# KEIN Pages-Job: Die Seite wird nicht veröffentlicht, bis Alex entschieden hat (Volltranskripte ohne Erlaubnis).
+#   pages   : GitLab Pages NUR FÜR ALEX (Entscheidung Alex 07.11.2026: „handelsblatt crime bleibt privat nur für mich aufrufbar
+#             über gitlab“). Projekt privat, Pages-Zugriff „Only project members“ (pages_access_level=private) – ohne
+#             GitLab-Anmeldung als Projektmitglied ist nichts zu sehen. Nie öffentlich schalten, kein anderes Hosting.
 workflow:
   rules:
     - if: $CI_PIPELINE_SOURCE == "merge_request_event"
@@ -28,3 +30,13 @@ release:
   rules:
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
       changes: [package.json, CHANGELOG.md]
+
+pages:
+  stage: deploy
+  needs: [ci]
+  script:
+    - python scripts/build_site.py public/index.html
+  artifacts:
+    paths: [public]
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH

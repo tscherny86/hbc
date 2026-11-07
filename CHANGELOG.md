@@ -6,6 +6,7 @@ Neue Transkripte (Commits „Transkript NNN“) sind Inhalt, keine eigene Versio
 
 ## Unveröffentlicht
 
+- Entscheidung Alex (07.11.2026): bleibt privat, nur für Alex über GitLab aufrufbar. GitLab-CI-Job `pages` baut die Seite als GitLab Pages des privaten Projekts, Zugriff nur für Projektmitglieder. GitHub Pages bleibt aus.
 - Betrieb (07.11.2026, GitHub-Sperre): `scripts/ci.py` und `scripts/release.mjs`; `release.yml` und die neue `.gitlab-ci.yml` (Runner acespc) rufen nur noch diese Skripte auf. `pages.yml` läuft nicht mehr bei Push, nur per Hand mit `PAGES_FREIGABE=ja` (Veröffentlichung gesperrt, bis Alex entscheidet). Keine neue Version, die Seite ist unverändert.
 
 ## 1.0.0 – 07.11.2026
