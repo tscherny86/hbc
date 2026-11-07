@@ -1,0 +1,7 @@
+{
+  "name": "handelsblatt-crime-fanwiki",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Handelsblatt Crime Fanwiki – Wissensarchiv zum Podcast „Handelsblatt Crime – spannende Streitfälle der deutschen Wirtschaft“ mit Minuten-Links. Python-Projekt; diese Datei trägt nur die Version für Release und Projekt-Cockpit.",
+  "homepage": "https://tscherny86.github.io/hbc/"
+}

@@ -1,0 +1,10 @@
+__pycache__/
+.obsidian/workspace*.json
+.obsidian/cache
+.DS_Store
+data/transcripts/partial/
+data/transcripts/progress.log
+data/review/audio/
+_site/
+.claude/
+data/transcripts/run.*

@@ -1,0 +1,681 @@
+<title>Handelsblatt Crime Fanwiki</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2212%22%20fill%3D%22%230a1650%22/%3E%3Ccircle%20cx%3D%2240%22%20cy%3D%2228%22%20r%3D%2217%22%20fill%3D%22%23f26b3a%22/%3E%3Cpath%20d%3D%22M14%2016v34h30%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-width%3D%223%22/%3E%3Ctext%20x%3D%2250%22%20y%3D%2254%22%20text-anchor%3D%22middle%22%20font-family%3D%22Georgia%2C%27Times%20New%20Roman%27%2Cserif%22%20font-weight%3D%22700%22%20font-size%3D%2224%22%20fill%3D%22%23fff%22%3EH%3C/text%3E%3C/svg%3E">
+<meta name="theme-color" content="#0a1650">
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@1,8..60,400&family=JetBrains+Mono:wght@500;600&display=swap">
+<style>
+/* Design „Akte“: Nachtblau und Signalorange wie das Podcast-Cover, Serifen-Schlagzeilen wie das Handelsblatt-H.
+   Aufbau: dunkle Bühne mit Suche → Kacheln (Fälle, Themen) → Lesespalte; Minuten-Chips spielen im festen Player unten. */
+:root{
+  --bg:#f3f4f8; --surface:#ffffff; --sunk:#e6e9f2; --ink:#0b1437; --muted:#4d5676; --line:#d3d8e6;
+  --accent:#f26b3a; --accent-ink:#c24a1f; --accent-soft:#fde6db;
+  --hero-bg:#0a1650; --hero-bg2:#2447e0; --hero-ink:#f4f6ff; --hero-muted:#aab7ea; --hero-line:#243a9a;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --ui:"Inter","Segoe UI",system-ui,-apple-system,sans-serif;
+  --quote:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  --r:10px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#070d2a; --surface:#0e1740; --sunk:#15205a; --ink:#e8ecfb; --muted:#9aa7d8; --line:#223387;
+  --accent:#ff8a5b; --accent-ink:#ffa37e; --accent-soft:#3a1f12;
+  --hero-bg:#060c2e; --hero-bg2:#1f3fd0; --hero-ink:#f4f6ff; --hero-muted:#9aa7d8; --hero-line:#1d2f80; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#070d2a; --surface:#0e1740; --sunk:#15205a; --ink:#e8ecfb; --muted:#9aa7d8; --line:#223387;
+  --accent:#ff8a5b; --accent-ink:#ffa37e; --accent-soft:#3a1f12;
+  --hero-bg:#060c2e; --hero-bg2:#1f3fd0; --hero-ink:#f4f6ff; --hero-muted:#9aa7d8; --hero-line:#1d2f80; color-scheme:dark}
+
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{margin:0}
+html{scroll-padding-top:120px}
+body{background:var(--bg);color:var(--ink);font-family:var(--ui);font-size:1rem;line-height:1.55;-webkit-font-smoothing:antialiased}
+body.playing{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:40;background:var(--hero-bg)}
+a{color:inherit}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+.wrap{max-width:76rem;margin-inline:auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+
+/* ---------- Kopfleiste ---------- */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:30;background:var(--hero-bg);color:var(--hero-ink);border-bottom:1px solid var(--hero-line)}
+.bar .wrap{display:flex;align-items:center;gap:20px;min-height:60px}
+.logo{display:flex;align-items:center;gap:11px;text-decoration:none;white-space:nowrap}
+.mark{position:relative;width:38px;height:38px;flex:none}
+.mark::before{content:"";position:absolute;left:4px;top:3px;bottom:3px;width:26px;border-left:2.5px solid #fff;border-bottom:2.5px solid #fff}
+.mark::after{content:"";position:absolute;right:4px;top:5px;width:18px;height:18px;border-radius:50%;background:var(--accent)}
+.mark b{position:absolute;right:6px;bottom:1px;font:800 15px/1 var(--display);color:#fff}
+.logo .t{display:flex;flex-direction:column;gap:3px;line-height:1;font-family:var(--display);font-weight:700;font-size:1.3rem;letter-spacing:-.01em}
+.logo em{font-style:normal;color:var(--accent)}
+.logo small{font:600 .6rem var(--ui);letter-spacing:.2em;color:var(--hero-muted);text-transform:uppercase;padding-left:1px}
+.nav{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
+.nav::-webkit-scrollbar{display:none}
+.nav a{font-weight:600;font-size:.93rem;text-decoration:none;color:var(--hero-muted);padding:8px 12px;border-radius:999px;white-space:nowrap;transition:color .15s,background .15s}
+.nav a:hover{color:var(--hero-ink)}
+.nav a.on{color:var(--hero-ink);background:var(--hero-line)}
+.find{display:flex;align-items:center;gap:10px;background:transparent;border:1px solid var(--hero-line);color:var(--hero-muted);border-radius:999px;padding:7px 10px 7px 14px;cursor:pointer;font-size:.9rem;white-space:nowrap}
+.find:hover{color:var(--hero-ink);border-color:var(--hero-muted)}
+.find kbd{font:600 .7rem var(--mono);border:1px solid var(--hero-line);border-radius:5px;padding:1px 6px}
+.find svg{width:16px;height:16px}
+
+/* ---------- Bühne ---------- */
+.hero{background:var(--hero-bg);color:var(--hero-ink);position:relative;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:-20% -10% -20% 35%;background:radial-gradient(ellipse at 60% 50%,var(--accent) 0%,rgba(242,107,58,.55) 14%,rgba(36,71,224,.55) 34%,rgba(36,71,224,.15) 55%,transparent 70%);opacity:.75;filter:blur(2px);pointer-events:none}
+.hero::after{content:"";position:absolute;left:0;right:0;bottom:0;height:6px;background:linear-gradient(90deg,var(--hero-bg2),var(--accent) 50%,var(--hero-bg2))}
+.hero .wrap{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:48px;align-items:center;padding-block:56px 70px;position:relative}
+.eyebrow{font:600 .78rem var(--ui);letter-spacing:.16em;text-transform:uppercase;color:var(--accent)}
+.hero h1{font-family:var(--display);font-weight:800;font-size:clamp(2.6rem,6.5vw,5rem);line-height:.98;letter-spacing:-.02em;margin:14px 0 18px;text-wrap:balance}
+.hero h1 em{font-style:italic;color:var(--accent)}
+.hero p.lede{font-size:1.15rem;color:var(--hero-muted);max-width:34rem;margin:0 0 26px}
+.hero p.lede b{color:var(--hero-ink);font-weight:500}
+.bigsearch{display:flex;align-items:center;gap:12px;width:100%;max-width:34rem;background:var(--hero-ink);color:#4d5676;border:0;border-radius:14px;padding:16px 18px;font-size:1.05rem;cursor:text;text-align:left}
+.bigsearch svg{width:20px;height:20px;flex:none;color:var(--accent)}
+.bigsearch span{flex:1}
+.stats{display:flex;flex-wrap:wrap;gap:10px 32px;margin-top:30px;font-variant-numeric:tabular-nums}
+.stats div{display:flex;flex-direction:column}
+.stats b{font-family:var(--display);font-size:2rem;font-weight:700;line-height:1}
+.stats span{font-size:.8rem;color:var(--hero-muted);letter-spacing:.04em}
+.latest{align-self:center;background:rgba(5,10,40,.55);border:1px solid var(--hero-line);border-radius:16px;padding:22px;display:grid;gap:14px;backdrop-filter:blur(6px)}
+.latest .eyebrow{color:var(--hero-muted)}
+.latest h2{font-family:var(--display);font-size:1.6rem;line-height:1.15;margin:0;text-wrap:balance;font-weight:700}
+.latest h2 a{text-decoration:none}
+.latest h2 a:hover{color:var(--accent)}
+.latest .meta{color:var(--hero-muted);font-size:.9rem}
+.latest .tags{display:flex;flex-wrap:wrap;gap:6px}
+.latest .tags a{font-size:.8rem;text-decoration:none;color:var(--hero-ink);border:1px solid var(--hero-muted);border-radius:999px;padding:2px 10px;opacity:.85}
+.latest .tags a:hover{border-color:var(--accent);color:var(--accent)}
+
+/* ---------- Folgen-Marke (Nummer) ---------- */
+.badge{display:inline-flex;align-items:center;justify-content:center;flex:none;background:var(--hero-bg);color:#fff;border:2px solid var(--accent);border-radius:8px;
+  font:700 .82rem/1 var(--mono);letter-spacing:.04em;padding:6px 9px 5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.badge.lg{font-size:1.1rem;padding:9px 14px 8px;border-width:2.5px}
+.badge.k-team{border-color:var(--hero-bg2)}
+.badge.k-sonder{border-style:dashed}
+.badge.k-hinweis{border-color:var(--hero-muted);opacity:.8}
+
+/* ---------- Seiten ---------- */
+main{padding-block:40px 80px}
+.sec{margin-top:56px}
+.sec:first-child{margin-top:0}
+.sec-h{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin-bottom:18px;border-bottom:2px solid var(--ink);padding-bottom:8px}
+.sec-h h2{font-family:var(--display);font-weight:700;font-size:1.6rem;letter-spacing:-.01em;margin:0;line-height:1}
+.sec-h a{font-weight:600;font-size:.9rem;color:var(--accent-ink);text-decoration:none;white-space:nowrap}
+.sec-h a:hover{text-decoration:underline}
+.pagehead{margin-bottom:30px}
+.pagehead h1{font-family:var(--display);font-weight:800;font-size:clamp(2rem,5vw,3.4rem);line-height:1.05;letter-spacing:-.02em;margin:10px 0 12px;text-wrap:balance}
+.pagehead .lead{font-size:1.2rem;color:var(--muted);max-width:44rem;margin:0}
+
+/* Kacheln – alle gleich hoch: Titel bis 2 Zeilen, Beschreibung bis 3 Zeilen, Balken unten */
+.tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(15.5rem,1fr));gap:12px}
+.tile{display:grid;grid-template-rows:2.6rem 3.9rem auto;gap:8px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px 16px 14px;text-decoration:none;transition:border-color .15s,transform .15s}
+.tile:hover{border-color:var(--accent);transform:translateY(-2px)}
+.tile b{font-family:var(--display);font-size:1.2rem;font-weight:700;line-height:1.1;letter-spacing:-.01em;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.tile span{font-size:.88rem;color:var(--muted);line-height:1.4;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.gauge{display:flex;align-items:center;gap:10px;font:600 .75rem var(--mono);color:var(--muted);font-variant-numeric:tabular-nums;overflow:visible}
+.gauge s{flex:1;height:4px;border-radius:2px;background:var(--sunk);position:relative;overflow:hidden;text-decoration:none}
+.gauge s::after{content:"";position:absolute;inset:0 auto 0 0;width:var(--w);background:var(--accent);border-radius:2px}
+/* Kästchen im Raster (Unternehmen, Personen): Name links, Anzahl rechts */
+.boxes{display:grid;grid-template-columns:repeat(auto-fill,minmax(13rem,1fr));gap:8px}
+.bx{display:flex;align-items:center;justify-content:space-between;gap:10px;text-decoration:none;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:9px 12px;font-weight:600;font-size:.92rem;min-height:44px}
+.bx:hover{border-color:var(--accent);color:var(--accent-ink)}
+.bx small{font:500 .72rem var(--mono);color:var(--muted);flex:none}
+.bx .n{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+/* Folgenliste */
+.filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:18px}
+.seg{display:inline-flex;flex-wrap:wrap;background:var(--sunk);border-radius:999px;padding:3px}
+.seg button{border:0;background:transparent;padding:6px 14px;border-radius:999px;font-weight:600;font-size:.9rem;cursor:pointer;color:var(--muted)}
+.seg button.on{background:var(--surface);color:var(--ink);box-shadow:0 1px 2px #0002}
+.filters input{flex:1;min-width:12rem;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:8px 16px;font:inherit;color:var(--ink)}
+.eplist{display:grid;gap:0;border-top:1px solid var(--line)}
+.ep{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;padding:14px 4px;border-bottom:1px solid var(--line)}
+.ep .t1{font-weight:600;font-size:1.06rem;text-decoration:none;line-height:1.3;display:block}
+.ep .t1:hover{color:var(--accent-ink)}
+.ep .m{font-size:.84rem;color:var(--muted);display:flex;gap:6px 14px;flex-wrap:wrap;margin-top:3px;font-variant-numeric:tabular-nums}
+.ep .m .tx{color:var(--accent-ink);font-weight:600}
+.play{display:inline-grid;place-items:center;width:42px;height:42px;border-radius:50%;border:0;background:var(--ink);color:var(--bg);cursor:pointer;flex:none;transition:background .15s,transform .15s}
+.play:hover{background:var(--accent);transform:scale(1.06)}
+.play svg{width:16px;height:16px}
+.play.lg{width:56px;height:56px}
+.play.lg svg{width:20px;height:20px}
+.hero .play{background:var(--accent);color:#fff}
+.hero .play:hover{background:var(--hero-ink);color:var(--hero-bg)}
+
+/* Minuten-Chip */
+.t{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--accent-ink);border-radius:999px;padding:2px 10px 2px 8px;
+  font:600 .8rem/1.5 var(--mono);cursor:pointer;white-space:nowrap;font-variant-numeric:tabular-nums;transition:background .15s,color .15s}
+.t::before{content:"";width:0;height:0;border-left:7px solid currentColor;border-top:4.5px solid transparent;border-bottom:4.5px solid transparent}
+.t:hover{background:var(--accent);color:#fff}
+.t.now{background:var(--accent);color:#fff}
+
+/* Lesespalte */
+.article{display:grid;grid-template-columns:minmax(0,1fr) 18rem;gap:56px;align-items:start}
+.prose{max-width:44rem;font-size:1.08rem;line-height:1.7}
+.prose p{margin:0 0 1em}
+.prose ul{padding-left:1.2em;margin:0 0 1em}
+.prose li{margin:.35em 0}
+.prose li::marker{color:var(--accent)}
+.prose a{color:var(--accent-ink);text-decoration-thickness:1px;text-underline-offset:3px}
+.prose strong{font-weight:700}
+.prose em{font-style:italic}
+.prose blockquote{margin:1em 0;padding:12px 16px;background:var(--sunk);border-radius:var(--r);font-size:.98rem;color:var(--muted)}
+.prose blockquote p{margin:0}
+.side{position:sticky;top:96px;display:grid;gap:16px}
+.box{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px}
+.box h3{font:600 .75rem var(--ui);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.kv{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;font-size:.92rem;margin:0}
+.kv dt{color:var(--muted)}
+.kv dd{margin:0;font-weight:600;font-variant-numeric:tabular-nums}
+.btns{display:grid;gap:8px}
+.btn{display:flex;align-items:center;justify-content:center;gap:8px;border-radius:999px;padding:10px 16px;font-weight:600;font-size:.95rem;text-decoration:none;border:1px solid var(--line);background:var(--surface);cursor:pointer}
+.btn:hover{border-color:var(--ink)}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn.pri:hover{filter:brightness(1.08)}
+.btn svg{width:16px;height:16px}
+.note{font-size:.84rem;color:var(--muted);line-height:1.45}
+
+/* Zitate */
+.quotes{display:grid;gap:14px}
+.q{margin:0;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px 22px 16px}
+.q blockquote{margin:0 0 14px;font-family:var(--quote);font-style:italic;font-size:1.13rem;line-height:1.6;text-wrap:pretty}
+.q blockquote::before{content:"„";color:var(--accent);font-size:1.4em;line-height:0;margin-right:2px}
+.q blockquote::after{content:"“";color:var(--accent)}
+.q figcaption{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px;font-size:.88rem;color:var(--muted)}
+.q figcaption a{color:var(--ink);font-weight:600;text-decoration:none}
+.q figcaption a:hover{color:var(--accent-ink)}
+.q figcaption a.sub{color:var(--muted);font-weight:500;text-decoration:underline;text-underline-offset:3px}
+.more{margin-top:14px}
+
+/* Folgen eines Eintrags */
+.hits{display:grid;border-top:1px solid var(--line)}
+.hit{display:grid;grid-template-columns:auto minmax(0,1fr);gap:14px;align-items:start;padding:14px 0;border-bottom:1px solid var(--line)}
+.hit .t1{font-weight:600;text-decoration:none}
+.hit .t1:hover{color:var(--accent-ink)}
+.hit .d{font-size:.84rem;color:var(--muted)}
+.hit .row{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;align-items:center}
+.tag{font-size:.75rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--sunk);border-radius:4px;padding:2px 7px}
+
+/* Zeitmarken & Transkript */
+.marks{display:grid;border-top:1px solid var(--line)}
+.mark{display:grid;grid-template-columns:5.5rem minmax(0,1fr);gap:14px;padding:12px 0;border-bottom:1px solid var(--line);align-items:baseline}
+.mark p{margin:0;color:var(--muted)}
+.mark a{font-size:.85rem;color:var(--accent-ink);white-space:nowrap}
+.tx .mark{grid-template-columns:5.5rem minmax(0,1fr);padding:16px 0}
+.tx .mark p{color:var(--ink);font-size:1.03rem;line-height:1.7;max-width:44rem}
+.tx .mark.hl{background:linear-gradient(90deg,var(--accent-soft),transparent 70%);margin-inline:-12px;padding-inline:12px;border-radius:8px}
+.topics{display:flex;flex-wrap:wrap;gap:6px}
+.topics a{font-size:.85rem;text-decoration:none;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:3px 11px;font-weight:500}
+.topics a:hover{border-color:var(--accent);color:var(--accent-ink)}
+.topics a.k-fall{border-color:var(--accent);font-weight:600}
+.topics a.k-thema{background:var(--sunk)}
+.topics a.k-firma{border-style:dashed}
+.minor{margin:14px 0 0;font-size:.88rem;color:var(--muted);line-height:1.7}.minor span{font-weight:600;margin-right:4px}.minor a{color:inherit}
+.minorhits .hit{opacity:.85}
+.crumbs{font-size:.88rem;color:var(--muted);display:flex;gap:8px;flex-wrap:wrap}
+.crumbs a{color:var(--muted);text-decoration:none;font-weight:600}
+.crumbs a:hover{color:var(--accent-ink)}
+
+/* ---------- Suche ---------- */
+.overlay{position:fixed;inset:0;z-index:60;background:color-mix(in srgb,var(--hero-bg) 60%,transparent);backdrop-filter:blur(6px);display:flex;justify-content:center;align-items:flex-start;
+  padding:calc(8vh + env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) 16px max(16px,env(safe-area-inset-left,0px))}
+.panel{width:min(44rem,100%);max-height:80vh;display:flex;flex-direction:column;background:var(--surface);border-radius:16px;box-shadow:0 30px 80px #0006;overflow:hidden}
+.panel .in{display:flex;align-items:center;gap:12px;padding:6px 16px;border-bottom:1px solid var(--line)}
+.panel .in svg{width:20px;height:20px;color:var(--accent);flex:none}
+.panel input{flex:1;border:0;background:transparent;font:500 1.15rem var(--ui);color:var(--ink);padding:14px 0;outline:none;min-width:0}
+.panel .x{border:0;background:var(--sunk);border-radius:6px;padding:4px 8px;font:600 .72rem var(--mono);cursor:pointer;color:var(--muted)}
+.res{overflow:auto;padding:8px 8px 14px}
+.res h4{font:600 .72rem var(--ui);letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:14px 10px 6px}
+.res a.r{display:block;padding:9px 10px;border-radius:8px;text-decoration:none}
+.res a.r:hover,.res a.r.sel{background:var(--sunk)}
+.res a.r b{font-weight:600;display:block}
+.res a.r span{font-size:.87rem;color:var(--muted);display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.res .said{display:grid;grid-template-columns:auto minmax(0,1fr);gap:10px;align-items:start;padding:9px 10px;border-radius:8px}
+.res .said:hover{background:var(--sunk)}
+.res .said p{margin:0;font-size:.92rem;line-height:1.45}
+.res .said p small{display:block;color:var(--muted);font-size:.8rem;margin-top:2px}
+.res .said a{text-decoration:none}
+mark{background:var(--accent-soft);color:var(--accent-ink);border-radius:3px;padding:0 2px}
+.empty{padding:22px 12px;color:var(--muted);font-size:.95rem}
+
+/* ---------- Player ---------- */
+.player{position:fixed;left:0;right:0;bottom:0;z-index:50;background:var(--hero-bg);color:var(--hero-ink);border-top:1px solid var(--hero-line);padding-bottom:env(safe-area-inset-bottom,0px)}
+.player .wrap{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;min-height:76px}
+.player .play{background:var(--accent);color:#fff}
+.player .info{min-width:0;display:grid;gap:4px}
+.player .ti{font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none}
+.player .ti small{color:var(--hero-muted);font-weight:500;margin-right:8px;font-family:var(--mono);font-size:.78rem}
+.player .tl{display:flex;align-items:center;gap:10px;font:500 .75rem var(--mono);color:var(--hero-muted);font-variant-numeric:tabular-nums}
+.player.fail input[type=range],.player.fail #pDur{display:none}
+.player.fail #pCur{white-space:normal;font-family:var(--ui);font-size:.82rem;color:var(--hero-ink)}
+.player.fail #pSpot{color:#fff;background:var(--accent)}
+.player input[type=range]{flex:1;accent-color:var(--accent);min-width:0;height:18px}
+.player .ctl{display:flex;gap:4px;align-items:center}
+.player .ctl button,.player .ctl a{border:0;background:transparent;color:var(--hero-muted);font:600 .8rem var(--mono);padding:8px;border-radius:8px;cursor:pointer;text-decoration:none;white-space:nowrap}
+.player .ctl button:hover,.player .ctl a:hover{color:var(--hero-ink);background:var(--hero-line)}
+
+footer{border-top:1px solid var(--line);padding-block:28px 40px;color:var(--muted);font-size:.86rem}
+footer .wrap{display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between}
+footer a{color:var(--muted)}
+
+@media (max-width:960px){
+  .hero .wrap{grid-template-columns:1fr;gap:32px;padding-block:40px 64px}
+  .hero::before{inset:auto -30% -40% 20%;height:70%}
+  .article{grid-template-columns:1fr;gap:28px}
+  .side{position:static;order:-1}
+}
+@media (max-width:720px){
+  .bar .wrap{flex-wrap:wrap;gap:0 12px;padding-top:8px}
+  .logo small{display:none}
+  .logo .t{font-size:1.1rem}
+  .find{margin-left:auto;padding:7px 12px}
+  .find .lbl,.find kbd{display:none}
+  .nav{order:3;flex-basis:100%;margin:4px -8px 6px;justify-content:space-between;gap:0}
+  .nav a{padding:6px 5px;font-size:clamp(.74rem,3.2vw,.9rem)}
+  .ep{grid-template-columns:auto minmax(0,1fr) auto;gap:12px}
+  .ep .play{width:40px;height:40px;flex:none}
+  .mark,.tx .mark{grid-template-columns:1fr;gap:6px}
+  .player .wrap{grid-template-columns:auto minmax(0,1fr);gap:12px;padding-block:8px}
+  .player .ctl{grid-column:1 / -1;justify-content:space-between}
+  body.playing{padding-bottom:calc(130px + env(safe-area-inset-bottom,0px))}
+  .q{padding:16px}
+  .stats{display:grid;grid-template-columns:repeat(2,auto);justify-content:start;gap:14px 40px}
+  .side .box+.box{display:none}
+  .boxes{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .tiles{grid-template-columns:repeat(auto-fill,minmax(10rem,1fr))}
+  .tile{grid-template-rows:2.6rem 4.2rem auto;padding:12px}
+  .tile b{font-size:1.05rem}
+  .tile span{font-size:.82rem}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}
+</style>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="logo" href="#start" aria-label="Handelsblatt Crime Fanwiki, Startseite"><span class="mark"><b>H</b></span><span class="t"><span>Handelsblatt <em>Crime</em> Fanwiki</span><small>Streitfälle der deutschen Wirtschaft</small></span></a>
+    <nav class="nav" id="nav" aria-label="Bereiche">
+      <a href="#start" data-s="start">Start</a>
+      <a href="#folgen" data-s="folgen">Folgen</a>
+      <a href="#faelle" data-s="faelle">Fälle</a>
+      <a href="#themen" data-s="themen">Themen</a>
+      <a href="#unternehmen" data-s="unternehmen">Unternehmen</a>
+      <a href="#personen" data-s="personen">Personen</a>
+    </nav>
+    <button class="find" id="openSearch" type="button" aria-label="Suchen">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <span class="lbl">Suchen</span><kbd>/</kbd>
+    </button>
+  </div>
+</header>
+
+<div id="view"></div>
+
+<footer>
+  <div class="wrap">
+    <span>Handelsblatt Crime Fanwiki – ein privates Fanprojekt, nicht vom Handelsblatt. Transkripte entstehen automatisch, Hörfehler sind möglich.</span>
+    <span><a href="https://open.spotify.com/show/3bzKxZUhiIRZKavCmKIYCx" target="_blank" rel="noopener">Podcast auf Spotify</a> · <a href="https://www.handelsblatt.com/audio/crime/" target="_blank" rel="noopener">handelsblatt.com/crime</a> · <a href="https://github.com/tscherny86/hbc/blob/HEAD/CHANGELOG.md" target="_blank" rel="noopener">Version __VERSION__</a></span>
+  </div>
+</footer>
+
+<div class="overlay" id="overlay" hidden>
+  <div class="panel" role="dialog" aria-modal="true" aria-label="Suche">
+    <div class="in">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" autocomplete="off" placeholder="Fall, Person, Unternehmen, Folge oder Zitat …" aria-label="Suchbegriff">
+      <button class="x" id="closeSearch" type="button">ESC</button>
+    </div>
+    <div class="res" id="res"></div>
+  </div>
+</div>
+
+<div class="player" id="player" hidden>
+  <div class="wrap">
+    <button class="play" id="pp" type="button" aria-label="Abspielen"></button>
+    <div class="info">
+      <a class="ti" id="pTitle" href="#start"></a>
+      <div class="tl"><span id="pCur">0:00</span><input type="range" id="pSeek" min="0" max="100" value="0" step="1" aria-label="Position"><span id="pDur">0:00</span></div>
+    </div>
+    <div class="ctl">
+      <button type="button" id="pBack" aria-label="15 Sekunden zurück">−15</button>
+      <button type="button" id="pFwd" aria-label="15 Sekunden vor">+15</button>
+      <button type="button" id="pRate" aria-label="Tempo">1×</button>
+      <a id="pSpot" href="#" target="_blank" rel="noopener">Spotify ↗</a>
+      <button type="button" id="pClose" aria-label="Player schließen">✕</button>
+    </div>
+  </div>
+  <audio id="audio" preload="none"></audio>
+</div>
+
+<script>
+const DATA = __DATA__;
+const EPS = DATA.eps, EP = Object.fromEntries(EPS.map(e => [e.id, e]));
+const ENTRIES = DATA.entries, ENTRY = Object.fromEntries(ENTRIES.map(e => [e.r, e]));
+const TX = DATA.tx;
+const SHOW = "https://open.spotify.com/show/3bzKxZUhiIRZKavCmKIYCx";
+const KIND = {fall:["faelle","Fall","Fälle"], thema:["themen","Thema","Themen"], firma:["unternehmen","Unternehmen","Unternehmen"], person:["personen","Person","Personen"]};
+const SECTION = {faelle:"fall", themen:"thema", unternehmen:"firma", personen:"person"};
+const EPKIND = {folge:"Folge", sonder:"Sonderfolge", team:"Meet the Team", hinweis:"Hinweis"};
+const ICON = {
+  play:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 4.5v15l13-7.5z"/></svg>',
+  pause:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 4h4.5v16H6zM13.5 4H18v16h-4.5z"/></svg>',
+  ext:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
+  doc:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 3h9l4 4v14H6z"/><path d="M9 12h7M9 16h7"/></svg>'
+};
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt = s => { s = Math.max(0, Math.floor(s)); const h = Math.floor(s/3600), m = Math.floor(s%3600/60), x = String(s%60).padStart(2,"0"); return h ? `${h}:${String(m).padStart(2,"0")}:${x}` : `${m}:${x}`; };
+const dfmt = new Intl.DateTimeFormat("de-DE", {day:"numeric", month:"long", year:"numeric"});
+const date = d => d ? dfmt.format(new Date(d + "T12:00:00")) : "";
+const mins = d => { const p = d.split(":").map(Number); return (p.length === 3 ? p[0]*60 + p[1] : p[0]) + " min"; };
+const badge = (e, lg) => `<span class="badge${lg?" lg":""} k-${e.kind}" aria-label="Folge ${e.num}${e.kind !== "folge" ? ", " + EPKIND[e.kind] : ""}">${esc(e.label)}</span>`;
+const chip = (id, s) => `<button class="t" type="button" data-ep="${id}" data-s="${s}" aria-label="Folge ab ${fmt(s)} abspielen">${fmt(s)}</button>`;
+const playBtn = (id, lg) => `<button class="play${lg?" lg":""}" type="button" data-ep="${id}" data-s="0" aria-label="Folge abspielen">${ICON.play}</button>`;
+const epTitle = e => e.label + " · " + e.title;
+const txCount = Object.keys(TX).length;
+const folgen = n => n === 1 ? "1 Folge" : n + " Folgen";
+const byCount = (a, b) => b.count - a.count || a.name.localeCompare(b.name, "de");
+const byName = (a, b) => (b.pin >= 0) - (a.pin >= 0) || (a.pin >= 0 && b.pin >= 0 ? a.pin - b.pin : 0) || a.name.localeCompare(b.name, "de", {sensitivity: "base"});
+
+/* ---------- Ansichten ---------- */
+function tile(en){
+  const w = Math.round(en.count / EPS.length * 100);
+  return `<a class="tile" href="#${en.r}"><b>${esc(en.name)}</b><span>${esc(en.lead)}</span>
+    <span class="gauge" title="in ${en.count} von ${EPS.length} Folgen"><s style="--w:${w}%"></s>${folgen(en.count)}</span></a>`;
+}
+function epRow(e){
+  return `<div class="ep">${badge(e)}<div style="min-width:0"><a class="t1" href="#folge-${e.id}">${esc(e.title)}</a>
+    <div class="m"><span>${date(e.date)}</span><span>${mins(e.dur)}</span>${e.kind !== "folge" ? `<span>${EPKIND[e.kind]}</span>` : ""}${e.tx ? '<span class="tx">Transkript</span>' : ""}</div></div>
+    ${playBtn(e.id)}</div>`;
+}
+const boxList = list => `<div class="boxes">${list.map(b => `<a class="bx" href="#${b.r}"><span class="n">${esc(b.name)}</span><small>${b.count}</small></a>`).join("")}</div>`;
+
+function viewHome(){
+  const latest = EPS.find(e => e.kind === "folge") || EPS[0];
+  const faelle = ENTRIES.filter(e => e.kind === "fall").sort(byCount);
+  const themen = ENTRIES.filter(e => e.kind === "thema").sort(byCount);
+  const firmen = ENTRIES.filter(e => e.kind === "firma").sort(byCount);
+  const personen = ENTRIES.filter(e => e.kind === "person").sort(byName);
+  const quotes = ENTRIES.reduce((n, e) => n + e.quotes.length, 0);
+  return `<section class="hero"><div class="wrap">
+    <div>
+      <div class="eyebrow">Das Fanwiki zum Podcast Handelsblatt Crime</div>
+      <h1>Korruption, Betrug, Größenwahn – <em>Fall für Fall</em> nachgeschlagen.</h1>
+      <p class="lede">Jeder Streitfall, jede Person und jedes Unternehmen aus den Recherchen des <b>Handelsblatt-Investigativteams</b>, mit Hintergrund und Zitaten. Jede Aussage führt direkt <b>zur Minute in der Folge</b>.</p>
+      <button class="bigsearch" type="button" data-open-search>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <span>Wonach suchst du? z. B. Wirecard, Cum-Ex, Marsalek, Kronzeuge</span></button>
+      <div class="stats">
+        <div><b>${EPS.length}</b><span>Folgen</span></div>
+        <div><b>${DATA.hours[0]} h</b><span>Audio</span></div>
+        <div><b>${txCount}</b><span>Transkripte</span></div>
+        <div><b>${quotes.toLocaleString("de-DE")}</b><span>Zitate mit Minute</span></div>
+      </div>
+    </div>
+    <article class="latest">
+      <div class="eyebrow">Neueste Folge</div>
+      <div style="display:flex;align-items:center;gap:14px">${badge(latest, true)}<span class="meta">${date(latest.date)} · ${mins(latest.dur)}</span></div>
+      <h2><a href="#folge-${latest.id}">${esc(latest.title)}</a></h2>
+      <div class="tags">${latest.topics.slice(0, 6).map(([r, n]) => `<a href="#${r}">${esc(n)}</a>`).join("")}</div>
+      <div style="display:flex;align-items:center;gap:14px">${playBtn(latest.id, true)}<span class="meta">Hier anhören</span></div>
+    </article>
+  </div></section>
+  <main class="wrap">
+    <section class="sec"><div class="sec-h"><h2>Die großen Fälle</h2><a href="#faelle">Alle ${faelle.length} Fälle →</a></div>
+      <div class="tiles">${faelle.slice(0, 12).map(tile).join("")}</div></section>
+    <section class="sec"><div class="sec-h"><h2>Themen &amp; Begriffe</h2><a href="#themen">Alle ${themen.length} →</a></div>
+      <div class="tiles">${themen.slice(0, 8).map(tile).join("")}</div></section>
+    <section class="sec"><div class="sec-h"><h2>Neue Folgen</h2><a href="#folgen">Alle ${EPS.length} Folgen →</a></div>
+      <div class="eplist">${EPS.slice(0, 6).map(epRow).join("")}</div></section>
+    <section class="sec"><div class="sec-h"><h2>Unternehmen</h2><a href="#unternehmen">Alle ${firmen.length} →</a></div>${boxList(firmen.slice(0, 16))}</section>
+    <section class="sec"><div class="sec-h"><h2>Personen</h2><a href="#personen">Alle ${personen.length} →</a></div>${boxList(personen.slice(0, 16))}</section>
+  </main>`;
+}
+
+function viewIndex(kind){
+  const [, one, many] = KIND[kind];
+  const list = ENTRIES.filter(e => e.kind === kind).sort(kind === "fall" || kind === "thema" ? byCount : byName);
+  const lead = {fall:"Die Skandale und Streitfälle aus dem Podcast: Hintergrund zu jedem Fall und jede Stelle, an der das Investigativteam darüber spricht.",
+                thema:"Delikte, Begriffe und Mechanismen der Wirtschaftskriminalität erklärt, mit den Passagen aus den Folgen zur genauen Minute.",
+                firma:"Konzerne, Banken, Kanzleien und Behörden, die in den Fällen eine Rolle spielen.",
+                person:"Hosts, Investigativteam und die Protagonisten der Fälle: Angeklagte, Ermittler, Anwälte, Whistleblower."}[kind];
+  const body = kind === "fall" || kind === "thema" ? `<div class="tiles">${list.map(tile).join("")}</div>` : boxList(list);
+  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${list.length} ${many}</div><h1>${many}</h1><p class="lead">${lead}</p></div>${body}</main>`;
+}
+
+let epYear = "all", epKind = "all", epFilter = "";
+function viewEpisodes(){
+  const years = [...new Set(EPS.map(e => e.year))].sort((a, b) => b - a);
+  return `<main class="wrap"><div class="pagehead"><div class="eyebrow">${EPS.length} Folgen · ${DATA.hours[0]} h ${DATA.hours[1]} min</div><h1>Alle Folgen</h1>
+    <p class="lead">Neueste zuerst. Folgen mit Transkript lassen sich bis zur Minute durchsuchen.</p></div>
+    <div class="filters"><div class="seg" role="group" aria-label="Jahr">${["all", ...years].map(y => `<button type="button" data-year="${y}" class="${String(y) === String(epYear) ? "on" : ""}">${y === "all" ? "Alle" : y}</button>`).join("")}</div>
+    <div class="seg" role="group" aria-label="Art">${[["all","Alle Arten"],["folge","Folgen"],["sonder","Sonderfolgen"],["team","Meet the Team"],["hinweis","Hinweise"]].map(([k, l]) => `<button type="button" data-kind="${k}" class="${k === epKind ? "on" : ""}">${l}</button>`).join("")}</div>
+    <input id="epq" type="search" placeholder="Folgen filtern …" aria-label="Folgen filtern" value="${esc(epFilter)}"></div>
+    <div class="eplist" id="eplist"></div></main>`;
+}
+function fillEpisodes(){
+  const f = epFilter.trim().toLowerCase();
+  const list = EPS.filter(e => (epYear === "all" || String(e.year) === String(epYear)) && (epKind === "all" || e.kind === epKind) &&
+    (!f || (e.title + " " + e.label + " " + e.topics.map(t => t[1]).join(" ")).toLowerCase().includes(f)));
+  document.getElementById("eplist").innerHTML = list.map(epRow).join("") || `<p class="empty">Keine Folge passt zu „${esc(epFilter)}“.</p>`;
+}
+
+function viewEpisode(id){
+  const e = EP[id];
+  if (!e) return viewMissing();
+  const groups = ["fall", "thema", "firma", "person"].map(k => [k, e.topics.filter(([r]) => r.startsWith(k + "-"))]).filter(g => g[1].length);
+  return `<main class="wrap">
+    <div class="crumbs"><a href="#folgen">Folgen</a><span>/</span><span>${e.year}</span></div>
+    <div class="pagehead" style="margin-top:14px"><div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap">${badge(e, true)}<span class="eyebrow">${EPKIND[e.kind]} ${e.num} · ${date(e.date)}</span></div>
+      <h1>${esc(e.title)}</h1></div>
+    <div class="article">
+      <div style="min-width:0">
+        ${groups.length || e.minor.length ? `<section style="margin-bottom:32px">${groups.length ? `<div class="topics">${groups.map(([k, ts]) => ts.map(([r, n]) => `<a class="k-${k}" href="#${r}">${esc(n)}</a>`).join("")).join("")}</div>` : ""}
+          ${e.minor.length ? `<p class="minor"><span>Kurz erwähnt:</span> ${e.minor.map(([r, n]) => `<a href="#${r}">${esc(n)}</a>`).join(", ")}</p>` : ""}</section>` : ""}
+        <section><div class="sec-h"><h2>Shownotes</h2></div><div class="prose">${e.notes || "<p>Keine Shownotes.</p>"}</div></section>
+        ${e.marks.length ? `<section class="sec"><div class="sec-h"><h2>Zeitmarken</h2>${e.tx ? `<a href="#transkript-${e.id}">Ganzes Transkript →</a>` : ""}</div>
+          <div class="marks">${e.marks.map(([s, t]) => `<div class="mark">${chip(e.id, s)}<p>${esc(t)} <a href="#transkript-${e.id}-m${Math.floor(s/60)}">weiterlesen</a></p></div>`).join("")}</div></section>`
+          : `<section class="sec"><p class="note">Für diese Folge gibt es noch kein Transkript. Es wird gerade erstellt und erscheint hier automatisch.</p></section>`}
+      </div>
+      <aside class="side">
+        <div class="box"><h3>Anhören</h3>
+          <div style="display:flex;align-items:center;gap:14px;margin-bottom:16px">${playBtn(e.id, true)}<div><b>Hier abspielen</b><div class="note">${mins(e.dur)}</div></div></div>
+          <div class="btns">
+            <a class="btn" href="${esc(e.spotify || SHOW)}" target="_blank" rel="noopener">${ICON.ext} ${e.spotify ? "Auf Spotify öffnen" : "Podcast auf Spotify"}</a>
+            ${e.hb ? `<a class="btn" href="${esc(e.hb)}" target="_blank" rel="noopener">${ICON.ext} Folge beim Handelsblatt</a>` : ""}
+            ${e.tx ? `<a class="btn" href="#transkript-${e.id}">${ICON.doc} Transkript lesen</a>` : ""}
+          </div></div>
+        <div class="box"><h3>Details</h3><dl class="kv">
+          <dt>Datum</dt><dd>${date(e.date)}</dd><dt>Dauer</dt><dd>${e.dur}</dd><dt>Art</dt><dd>${EPKIND[e.kind]}</dd>
+          <dt>Transkript</dt><dd>${e.tx ? "ja, " + esc(e.status || "automatisch") : "folgt"}</dd><dt>Einträge</dt><dd>${e.topics.length}</dd></dl></div>
+      </aside>
+    </div></main>`;
+}
+
+const QUOTES_SHOWN = 8;
+function viewEntry(r){
+  const en = ENTRY[r];
+  if (!en) return viewMissing();
+  const [idx, one, many] = KIND[en.kind];
+  const eps = en.eps.filter(([id]) => EP[id]).sort((a, b) => EP[b[0]].date.localeCompare(EP[a[0]].date));
+  const minor = (en.minor || []).filter(([id]) => EP[id]).sort((a, b) => EP[b[0]].date.localeCompare(EP[a[0]].date));
+  const quote = ([id, s, text]) => { const e = EP[id]; return e ? `<figure class="q"><blockquote>${esc(text)}</blockquote>
+    <figcaption>${chip(id, s)}<a href="#folge-${id}">${esc(epTitle(e))}</a><a class="sub" href="#transkript-${id}-m${Math.floor(s/60)}">im Transkript</a></figcaption></figure>` : ""; };
+  return `<main class="wrap">
+    <div class="crumbs"><a href="#${idx}">${many}</a><span>/</span><span>${esc(en.name)}</span></div>
+    <div class="pagehead" style="margin-top:14px"><div class="eyebrow">${one}</div><h1>${esc(en.name)}</h1>${en.lead ? `<p class="lead">${esc(en.lead)}</p>` : ""}</div>
+    <div class="article">
+      <div style="min-width:0">
+        ${en.expl ? `<section><div class="sec-h"><h2>Worum es geht</h2></div><div class="prose">${en.expl}</div>
+          <p class="note">Allgemeines Hintergrundwissen. Was im Podcast dazu gesagt wird, steht unten.</p></section>` : ""}
+        ${en.quotes.length ? `<section class="sec"><div class="sec-h"><h2>Was im Podcast gesagt wird</h2><span class="note">${en.quotes.length} Stellen</span></div>
+          <div class="quotes" id="quotes">${en.quotes.slice(0, QUOTES_SHOWN).map(quote).join("")}</div>
+          ${en.quotes.length > QUOTES_SHOWN ? `<button class="btn more" type="button" id="moreQuotes">Alle ${en.quotes.length} Stellen zeigen</button>` : ""}</section>` : ""}
+        <section class="sec"><div class="sec-h"><h2>In diesen Folgen</h2><span class="note">${eps.length}</span></div>
+          <div class="hits">${eps.map(([id, sn, times]) => { const e = EP[id]; return `<div class="hit">${badge(e)}<div style="min-width:0">
+            <a class="t1" href="#folge-${id}">${esc(e.title)}</a> <span class="d">· ${date(e.date)}</span>
+            <div class="row">${sn ? '<span class="tag">Shownotes</span>' : ""}${times.map(s => chip(id, s)).join("")}</div></div></div>`; }).join("") || '<p class="empty">Bisher keine Folge, in der das ausführlich Thema war.</p>'}</div></section>
+        ${minor.length ? `<section class="sec"><div class="sec-h"><h2>Kurz erwähnt</h2><span class="note">${minor.length}</span></div>
+          <p class="note" style="margin:0 0 12px">Nur beiläufig genannt, kein Hauptthema der Folge.</p>
+          <div class="hits minorhits">${minor.map(([id, sn, times]) => { const e = EP[id]; return `<div class="hit">${badge(e)}<div style="min-width:0">
+            <a class="t1" href="#folge-${id}">${esc(e.title)}</a> <span class="d">· ${date(e.date)}</span>
+            <div class="row">${times.map(s => chip(id, s)).join("")}</div></div></div>`; }).join("")}</div></section>` : ""}
+      </div>
+      <aside class="side"><div class="box"><h3>Auf einen Blick</h3><dl class="kv">
+        <dt>Folgen</dt><dd>${eps.length} von ${EPS.length}</dd>${en.quotes.length ? `<dt>Zitate</dt><dd>${en.quotes.length}</dd>` : ""}
+        <dt>Zuerst</dt><dd>${eps.length ? date(EP[eps[eps.length-1][0]].date) : "–"}</dd><dt>Zuletzt</dt><dd>${eps.length ? date(EP[eps[0][0]].date) : "–"}</dd></dl>
+        <p class="note" style="margin:14px 0 0">Ein Klick auf eine Minute spielt die Folge genau ab dieser Stelle.</p></div></aside>
+    </div></main>`;
+}
+
+function viewTranscript(id, minute){
+  const e = EP[id], rows = TX[id];
+  if (!e || !rows) return viewMissing();
+  return `<main class="wrap">
+    <div class="crumbs"><a href="#folgen">Folgen</a><span>/</span><a href="#folge-${id}">${esc(epTitle(e))}</a><span>/</span><span>Transkript</span></div>
+    <div class="pagehead" style="margin-top:14px"><div style="display:flex;align-items:center;gap:14px">${badge(e, true)}<span class="eyebrow">Transkript</span></div>
+      <h1>${esc(e.title)}</h1><p class="lead">Automatisch erstellt, ${e.status && e.status.startsWith("noch") ? "<b>" + esc(e.status) + "</b>" : esc(e.status || "ungeprüft")}; vereinzelte Hörfehler möglich. Klick auf eine Zeit spielt ab dort.</p></div>
+    <div class="tx"><div class="marks">${rows.map(([s, t]) => `<div class="mark" id="m${Math.floor(s/60)}">${chip(id, s)}<p>${esc(t)}</p></div>`).join("")}</div></div></main>`;
+}
+const viewMissing = () => `<main class="wrap"><div class="pagehead"><h1>Seite nicht gefunden</h1><p class="lead">Diesen Eintrag gibt es nicht (mehr). <a href="#start">Zur Startseite</a></p></div></main>`;
+
+/* ---------- Router ---------- */
+function route(){
+  const h = location.hash.slice(1) || "start";
+  let html, section = "", after = null, m;
+  if (h === "start" || h === "home") { html = viewHome(); section = "start"; }
+  else if (SECTION[h]) { html = viewIndex(SECTION[h]); section = h; }
+  else if (h === "folgen") { html = viewEpisodes(); section = "folgen"; after = fillEpisodes; }
+  else if ((m = h.match(/^folge-(\d+)$/))) { html = viewEpisode(m[1]); section = "folgen"; }
+  else if ((m = h.match(/^transkript-(\d+)(?:-m(\d+))?$/))) {
+    html = viewTranscript(m[1], m[2]); section = "folgen";
+    if (m[2]) after = () => { let k = +m[2], el = null;   // keine Zeile für genau diese Minute: die nächste davor nehmen
+      while (k >= 0 && !(el = document.getElementById("m" + k))) k--;
+      if (el) { el.classList.add("hl"); el.scrollIntoView({block:"center"}); } };
+  }
+  else if (ENTRY[h]) { html = viewEntry(h); section = KIND[ENTRY[h].kind][0]; }
+  else html = viewMissing();
+  document.getElementById("view").innerHTML = html;
+  document.querySelectorAll("#nav a").forEach(a => a.classList.toggle("on", a.dataset.s === section));
+  const name = document.querySelector("#view h1");
+  document.title = h === "start" || !name ? "Handelsblatt Crime Fanwiki" : name.textContent + " · Handelsblatt Crime Fanwiki";
+  window.scrollTo(0, 0);
+  if (after) after();
+  markNow();
+}
+
+/* ---------- Player ---------- */
+const audio = document.getElementById("audio"), player = document.getElementById("player");
+const pp = document.getElementById("pp"), seek = document.getElementById("pSeek");
+let cur = null, rates = [1, 1.25, 1.5, 2], ri = 0;
+function play(id, s){
+  const e = EP[id]; if (!e || !e.mp3) return;
+  player.hidden = false; document.body.classList.add("playing"); player.classList.remove("fail");
+  document.getElementById("pSpot").href = e.spotify ? e.spotify + "?t=" + Math.floor(s) : SHOW;
+  if (!cur || cur.id !== id) {
+    cur = e;
+    document.getElementById("pTitle").innerHTML = `<small>${esc(e.label)}</small>${esc(e.title)}`;
+    document.getElementById("pTitle").href = "#folge-" + id;
+    document.getElementById("pDur").textContent = e.dur;
+    audio.src = e.mp3 + (s ? "#t=" + Math.floor(s) : "");   // Startpunkt steht schon in der Adresse
+    audio.addEventListener("loadedmetadata", () => { if (Math.abs(audio.currentTime - s) > 2) audio.currentTime = s; }, {once:true});
+  } else {
+    audio.currentTime = s;
+  }
+  // play() direkt im Klick aufrufen, sonst blockieren Safari & Co.
+  const pr = audio.play();
+  if (pr) pr.catch(err => { if (err.name !== "AbortError") fail(); });
+}
+function fail(){
+  player.classList.add("fail");
+  document.getElementById("pCur").textContent = "Audio kann hier nicht geladen werden. Mit „Spotify ↗“ an derselben Stelle weiterhören.";
+  sync();
+}
+audio.addEventListener("error", () => { if (cur) fail(); });
+function sync(){
+  pp.innerHTML = audio.paused ? ICON.play : ICON.pause;
+  pp.setAttribute("aria-label", audio.paused ? "Abspielen" : "Pause");
+  document.querySelectorAll(".play[data-ep]").forEach(b => { const on = cur && b.dataset.ep === cur.id && !audio.paused; b.innerHTML = on ? ICON.pause : ICON.play; });
+}
+function markNow(){
+  const t = audio.currentTime;
+  document.querySelectorAll(".t").forEach(c => c.classList.remove("now"));
+  if (!cur || audio.paused) return;
+  let best = null;
+  document.querySelectorAll(`.tx .t[data-ep="${cur.id}"]`).forEach(c => { if (+c.dataset.s <= t) best = c; });
+  if (best) best.classList.add("now");
+}
+audio.addEventListener("timeupdate", () => {
+  if (!isFinite(audio.duration)) return;
+  seek.max = Math.floor(audio.duration); seek.value = Math.floor(audio.currentTime);
+  document.getElementById("pCur").textContent = fmt(audio.currentTime);
+  document.getElementById("pDur").textContent = fmt(audio.duration);
+  const sp = document.getElementById("pSpot");
+  sp.href = cur.spotify ? cur.spotify + "?t=" + Math.floor(audio.currentTime) : SHOW;
+  markNow();
+});
+["play", "pause", "ended"].forEach(ev => audio.addEventListener(ev, () => { sync(); markNow(); }));
+pp.addEventListener("click", () => audio.paused ? audio.play().catch(() => {}) : audio.pause());
+seek.addEventListener("input", () => { audio.currentTime = +seek.value; });
+document.getElementById("pBack").addEventListener("click", () => { audio.currentTime = Math.max(0, audio.currentTime - 15); });
+document.getElementById("pFwd").addEventListener("click", () => { audio.currentTime += 15; });
+document.getElementById("pRate").addEventListener("click", e => { ri = (ri + 1) % rates.length; audio.playbackRate = rates[ri]; e.target.textContent = rates[ri] + "×"; });
+document.getElementById("pClose").addEventListener("click", () => { audio.pause(); player.hidden = true; document.body.classList.remove("playing"); });
+
+/* ---------- Suche ---------- */
+const overlay = document.getElementById("overlay"), q = document.getElementById("q"), res = document.getElementById("res");
+const norm = s => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/ß/g, "ss").replace(/[’‘]/g, "'");
+const TXIDX = Object.entries(TX).flatMap(([id, rows]) => rows.map(([s, t]) => [id, s, t, norm(t)]));
+function hl(text, term){
+  const n = norm(text), i = n.indexOf(term);
+  if (i < 0) return esc(text);
+  return esc(text.slice(0, i)) + "<mark>" + esc(text.slice(i, i + term.length)) + "</mark>" + esc(text.slice(i + term.length));
+}
+function snippet(text, term){
+  const i = norm(text).indexOf(term), a = Math.max(0, i - 70), b = Math.min(text.length, i + term.length + 110);
+  return (a ? "… " : "") + text.slice(a, b) + (b < text.length ? " …" : "");
+}
+function search(){
+  const term = norm(q.value.trim());
+  if (term.length < 2) { res.innerHTML = `<p class="empty">Mindestens zwei Buchstaben eingeben. Die Suche findet Fälle, Themen, Unternehmen, Personen, Folgen und alle ${txCount} Transkripte.</p>`; return; }
+  const ents = ENTRIES.filter(e => norm(e.name + " " + e.lead).includes(term)).sort(byCount).slice(0, 8);
+  const eps = EPS.filter(e => norm(e.title + " " + e.label).includes(term)).slice(0, 8);
+  const said = []; for (const row of TXIDX) { if (row[3].includes(term)) { said.push(row); if (said.length >= 25) break; } }
+  let out = "";
+  if (ents.length) out += `<h4>Wissen</h4>` + ents.map(e => `<a class="r" href="#${e.r}"><b>${hl(e.name, term)}</b><span>${KIND[e.kind][1]} · ${folgen(e.count)} · ${esc(e.lead)}</span></a>`).join("");
+  if (eps.length) out += `<h4>Folgen</h4>` + eps.map(e => `<a class="r" href="#folge-${e.id}"><b>${hl(e.title, term)}</b><span>${e.label} · ${date(e.date)}</span></a>`).join("");
+  if (said.length) out += `<h4>Im Podcast gesagt${said.length >= 25 ? " (erste 25)" : ""}</h4>` + said.map(([id, s, t]) => { const e = EP[id];
+    return `<div class="said">${chip(id, s)}<p><a href="#transkript-${id}-m${Math.floor(s/60)}">${hl(snippet(t, term), term)}</a><small>${esc(epTitle(e))}</small></p></div>`; }).join("");
+  res.innerHTML = out || `<p class="empty">Nichts gefunden für „${esc(q.value)}“. Versuch ein anderes Wort, z. B. einen Fall oder einen Namen.</p>`;
+}
+function openSearch(){ overlay.hidden = false; q.focus(); q.select(); search(); }
+function closeSearch(){ overlay.hidden = true; }
+let timer; q.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(search, 120); });
+document.getElementById("openSearch").addEventListener("click", openSearch);
+document.getElementById("closeSearch").addEventListener("click", closeSearch);
+overlay.addEventListener("click", e => { if (e.target === overlay || e.target.closest("a[href^='#']")) closeSearch(); });
+document.addEventListener("keydown", e => {
+  if (e.key === "Escape" && !overlay.hidden) closeSearch();
+  else if ((e.key === "/" || (e.key === "k" && (e.metaKey || e.ctrlKey))) && overlay.hidden && !/input|textarea/i.test(document.activeElement.tagName)) { e.preventDefault(); openSearch(); }
+});
+
+/* ---------- Klicks ---------- */
+document.addEventListener("click", e => {
+  const t = e.target.closest("[data-ep]");
+  if (t) { e.preventDefault(); const s = +t.dataset.s;
+    if (cur && cur.id === t.dataset.ep && t.classList.contains("play") && !audio.paused) audio.pause(); else play(t.dataset.ep, s); return; }
+  if (e.target.closest("[data-open-search]")) { openSearch(); return; }
+  const y = e.target.closest("[data-year]");
+  if (y) { epYear = y.dataset.year; document.querySelectorAll("[data-year]").forEach(b => b.classList.toggle("on", b === y)); fillEpisodes(); return; }
+  const k = e.target.closest("[data-kind]");
+  if (k) { epKind = k.dataset.kind; document.querySelectorAll("[data-kind]").forEach(b => b.classList.toggle("on", b === k)); fillEpisodes(); return; }
+  if (e.target.id === "moreQuotes") {
+    const en = ENTRY[location.hash.slice(1)];
+    document.getElementById("quotes").insertAdjacentHTML("beforeend", en.quotes.slice(QUOTES_SHOWN).map(([id, s, text]) => { const ep = EP[id]; return ep ? `<figure class="q"><blockquote>${esc(text)}</blockquote>
+      <figcaption>${chip(id, s)}<a href="#folge-${id}">${esc(epTitle(ep))}</a><a class="sub" href="#transkript-${id}-m${Math.floor(s/60)}">im Transkript</a></figcaption></figure>` : ""; }).join(""));
+    e.target.remove();
+  }
+});
+document.addEventListener("input", e => { if (e.target.id === "epq") { epFilter = e.target.value; fillEpisodes(); } });
+window.addEventListener("hashchange", route);
+route(); sync();
+</script>
