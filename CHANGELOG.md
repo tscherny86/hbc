@@ -4,7 +4,8 @@ Neueste Version oben. Jede ausgelieferte Version bekommt hier einen Eintrag und 
 (legt `.github/workflows/release.yml` automatisch an). Uhrzeiten in MEZ.
 Neue Transkripte (Commits „Transkript NNN“) sind Inhalt, keine eigene Version.
 
-## Unveröffentlicht
+## 1.0.1 – 08.11.2026
+- Sicherheit (Projekt-Cockpit R22): `.gitignore` schließt `.env` und `.env.*` aus (außer `.env.example`), damit Zugangsdaten nie ins Repo geraten. Die Seite ist unverändert.
 
 - Entscheidung Alex (07.11.2026): bleibt privat, nur für Alex über GitLab aufrufbar. GitLab-CI-Job `pages` baut die Seite als GitLab Pages des privaten Projekts, Zugriff nur für Projektmitglieder. GitHub Pages bleibt aus.
 - Betrieb (07.11.2026, GitHub-Sperre): `scripts/ci.py` und `scripts/release.mjs`; `release.yml` und die neue `.gitlab-ci.yml` (Runner acespc) rufen nur noch diese Skripte auf. `pages.yml` läuft nicht mehr bei Push, nur per Hand mit `PAGES_FREIGABE=ja` (Veröffentlichung gesperrt, bis Alex entscheidet). Keine neue Version, die Seite ist unverändert.

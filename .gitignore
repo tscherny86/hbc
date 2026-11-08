@@ -8,3 +8,6 @@ data/review/audio/
 _site/
 .claude/
 data/transcripts/run.*
+.env
+.env.*
+!.env.example

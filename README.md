@@ -1,6 +1,6 @@
 # Handelsblatt Crime Fanwiki 🕵️
 
-## Stand: 1.0.0
+## Stand: 1.0.1
 
 Live: https://tscherny86.github.io/hbc/ · Vorschau: [Claude-Artefakt](https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB) · Änderungen: [CHANGELOG.md](CHANGELOG.md) · Neuestes Release: [v1.0.0](https://github.com/tscherny86/hbc/releases/latest) (07.11.2026)
 
