@@ -78,6 +78,6 @@ Ist nichts ungeprüft: „alles geprüft, nichts offen“ antworten.
 
 Seit der GitHub-Sperre vom 07.11.2026 hängt nichts mehr allein an GitHub. Code liegt lokal, auf GitHub und privat auf GitLab (`gitlab.com/tschernutter/hbc`); `git push origin` geht zuerst an GitLab.
 
-- **Prüfen:** `python scripts/ci.py` (Website in einen Temp-Ordner bauen, Artikel und Version prüfen; veröffentlicht nichts) – dasselbe Skript ruft GitLab CI (`.gitlab-ci.yml`, Runner acespc) auf.
+- **Prüfen:** `python scripts/ci.py` (Website in einen Temp-Ordner bauen, Artikel und Version prüfen; veröffentlicht nichts) – dasselbe Skript ruft GitLab CI (`.gitlab-ci.yml`, seit 08.11.2026 Linux-Runner von gitlab.com statt acespc) auf.
 - **Release:** `node scripts/release.mjs --all-missing --title "Handelsblatt Crime Fanwiki"` legt fehlende Tags `vX.Y.Z` und Releases mit dem CHANGELOG-Abschnitt an – auf GitLab (glab) und, wenn erreichbar, auf GitHub (gh). `--dry-run` zeigt nur an.
 - **Nur für Alex, nie öffentlich** (Entscheidung Alex 07.11.2026: „handelsblatt crime bleibt privat nur für mich aufrufbar über gitlab“). Volltranskripte eines Verlagspodcasts ohne Erlaubnis. Die Seite baut der GitLab-CI-Job `pages` als GitLab Pages des **privaten** Projekts mit Zugriff „Only project members“ (`pages_access_level=private`): ohne Anmeldung als Projektmitglied ist nichts zu sehen. GitHub Pages (`pages.yml`) bleibt aus (nur per Hand und nur mit `PAGES_FREIGABE=ja`, die nicht gesetzt wird); kein Hosting auf Netlify, Vercel oder anderswo.
