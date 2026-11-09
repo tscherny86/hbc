@@ -1,5 +1,30 @@
 # Handelsblatt Crime Fanwiki – Arbeitsregeln
 
+<!-- BEGIN:obsidian-pflicht -->
+## Obsidian-Dokumentation – PFLICHT bei jedem Schritt
+
+Alex will daran **nie erinnern müssen**. Jeder Arbeitsschritt, der an diesem Projekt etwas ändert (Code, Inhalte, Daten, Konfiguration, Doku, Release), wird **im selben Zug und ohne Aufforderung** in Obsidian dokumentiert. Eine Aufgabe ist erst erledigt, wenn Obsidian nachgezogen ist – das gilt für jede Sitzung und jedes Werkzeug (Claude, Codex, Copilot, Cursor …).
+
+- Ordner: `D:\notes\notes\Projekte\Handelsblatt Crime Fanwiki\` (im Repo `tschernutter/notes-vault` auf GitLab unter `Projekte/Handelsblatt Crime Fanwiki/`).
+- **Aufbau nach Hausstandard v2** (`D:\notes\notes\00 Hausstandard.md`, seit 09.11.2026): Der Ordner enthält **genau** den Steckbrief `Handelsblatt Crime Fanwiki.md` und diese elf Notizen `Handelsblatt Crime Fanwiki – <Name>.md`: Zielbild, Funktionen und Inhalte, Architektur und Technik, Entwicklung und Betrieb, Entscheidungen, Ist-Stand, Offene Punkte, Prüfberichte, Änderungsprotokoll, Chronik, Quellen und Ablageorte. **Keine weiteren Notizen, keine Unterordner, keine Bilder oder anderen Dateien im Projektordner.**
+- **Neues Wissen** (Konzept, Prüfbericht, Anleitung, Technikdetail, Besprechung) wird ein `##`-Abschnitt in der passenden der elf Notizen und bekommt im Steckbrief unter „## Notizen“ einen Unterpunkt `  - [[Handelsblatt Crime Fanwiki – <Notiz>#<Abschnitt>|<Abschnitt>]] – worum es geht`. Prüfberichte (LogikLorenz, PentestPeter, CodingClemens, DSGVODetlef …) kommen als neuer Abschnitt oben in `Handelsblatt Crime Fanwiki – Prüfberichte.md`. Bilder und andere Anhänge nach `D:\notes\notes\Anhänge\` mit Präfix „Handelsblatt Crime Fanwiki – “ und mit `![[…]]` einbinden. Frühere Einzelnotizen gibt es nicht mehr – Links immer auf `[[Handelsblatt Crime Fanwiki – <Notiz>#<Abschnitt>]]`.
+- **Immer:** Eintrag oben in `Handelsblatt Crime Fanwiki – Änderungsprotokoll.md` unter „## Einträge (neueste oben)“ als `## TT.MM.JJJJ – Version X.Y.Z – Kurztitel` (ohne neue Version: `## TT.MM.JJJJ – keine neue Version – Kurztitel`), darunter `- Anlass: …`, was geändert wurde, wie geprüft; dazu `Handelsblatt Crime Fanwiki – Ist-Stand.md` (Gegenwart, alter „Stand in einem Satz“ nach „Stände im Verlauf“) und `Handelsblatt Crime Fanwiki – Chronik.md` (Zeile `- TT.MM.JJJJ – **Version X.Y.Z**: …` **unten** anhängen, älteste oben) nachziehen; erledigte Punkte in `Handelsblatt Crime Fanwiki – Offene Punkte.md` abhaken.
+- **Bei neuer Version zusätzlich:** „Aktuelle Version“ und „Status“ im Steckbrief `Handelsblatt Crime Fanwiki.md`.
+- **Frontmatter jeder Notiz:** `projekt`, `tags: [projekt, <slug>, <typ>]`, `stand: JJJJ-MM-TT` (auf heute setzen), `standard: 2`.
+- **Reihenfolge:** Projekt-Doku im Repo → Obsidian → Push/Auslieferung. Das Projekt-Cockpit vergleicht Obsidian mit Code, Changelog und Release und meldet Abweichungen, fehlende Notizen (R9), Zusatznotizen und Unterordner (R31) sowie Links auf fehlende Abschnitte (R6).
+- **Vault nicht erreichbar** (Sitzung ohne Alex' PC)? Direkt im Repo `tschernutter/notes-vault` auf GitLab schreiben. Geht auch das nicht: den fertigen Protokolleintrag am Ende ausgeben und ausdrücklich „Obsidian NICHT nachgezogen“ melden – nie stillschweigend fertig melden.
+- Änderungsprotokoll und Chronik nur ergänzen, nie kürzen (der Protokollwächter im Vault-Repo meldet verschwundene Einträge). Im Vault keine Git-Befehle, die nicht committete Änderungen verwerfen (`checkout`, `restore`, `reset --hard`, `stash` ohne `pop`); hochladen übernimmt Obsidian Git.
+<!-- END:obsidian-pflicht -->
+
+<!-- BEGIN:nur-gitlab -->
+## Nur GitLab – GitHub ist beendet (seit 09.11.2026, Entscheidung Alex)
+
+- Code, Releases, CI und Auslieferung laufen **ausschließlich über GitLab**: `gitlab.com/tschernutter/hbc`, Remote `origin`, Branch `main`; ausgeliefert wird aus GitLab (Vercel, GitLab Pages bzw. GitLab CI).
+- **Keine GitHub-Anbindung mehr:** nichts nach GitHub pushen, keine GitHub-Releases, keine GitHub Actions, keine GitHub-API, kein `gh`, kein `github.com`-Remote – und **keine Verbindungsversuche** zu GitHub, auch nicht „nur zum Prüfen“.
+- **GitHub nicht mehr ansprechen:** keine Meldungen, Rückfragen oder Hinweise zu GitHub-Erreichbarkeit, Kontosperre, Support oder Spiegel. Das Thema ist für Alex abgeschlossen.
+- Steht in dieser Datei, in Skripten, Workflows oder älterer Doku noch GitHub (z. B. `tscherny86/…`, `.github/`, Remote `github`), gilt das nicht mehr: ignorieren und bei Gelegenheit auf GitLab umstellen oder entfernen – ohne Alex damit zu behelligen.
+<!-- END:nur-gitlab -->
+
 Sprache mit Alex: Deutsch; Repo, Vault und Website ebenfalls Deutsch (der Podcast ist deutsch).
 Live: https://tscherny86.github.io/hbc/ · Artefakt: https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB
 Obsidian: `Projekte/Handelsblatt Crime Fanwiki/` im Repo `tscherny86/notes-vault` (Pflicht bei jeder Änderung, siehe unten).
