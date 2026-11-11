@@ -31,6 +31,19 @@ Obsidian: `Projekte/Handelsblatt Crime Fanwiki/` im Repo `tscherny86/notes-vault
 Schwesterprojekte mit derselben Struktur: ABC Podcast Fanwiki (`tscherny86/abcpodcast`) und Real Exam English Fanwiki
 (`tscherny86/realexam`). Lokaler Projektordner auf Alex' PC: `E:\Projekte\hbc`.
 
+<!-- BEGIN:notizen-norbert-pflicht -->
+## Doku-Pflicht: nach jedem Push NotizenNorbert beauftragen (Anweisung Alex, 09.11.2026)
+
+> Alex: „bei code änderungen nach dem push verpflichtend /notizen-norbert beauftragen, alle änderungen in obsidian festzuhalten. norbert weiß, welche änderungen wo zu dokumentieren sind. ich möchte damit das dokumentationschaos das bisher entstanden ist eindämmen. norbert soll dann dafür sorgen, dass nur mehr nach den hausregeln alles VOLLSTÄNDIG dokumentiert ist“
+
+- **Nach jedem Push mit Code-Änderungen** wird im selben Zug und ohne Aufforderung der Skill **NotizenNorbert** (`/notizen-norbert`) beauftragt, alle Änderungen dieses Pushs in Obsidian festzuhalten. Eine Aufgabe ist erst erledigt, wenn Norbert fertig ist. Auch Änderungen ohne Code (Inhalte, Daten, Konfiguration, Doku) laufen über Norbert – es gibt nur noch diesen einen Weg.
+- **Auftrag an Norbert:** Projekt „Handelsblatt Crime Fanwiki“, neue Version (oder „keine neue Version“), Commit(s), was geändert wurde und warum. Wo und in welcher Form dokumentiert wird, entscheidet Norbert nach `D:\notes\notes\00 Hausstandard.md` (zwölf Notizen je Projekt, Änderungsprotokoll, Ist-Stand, Chronik, Steckbrief …). Selbst keine Obsidian-Notizen anlegen und keine eigenen Formate erfinden.
+- **Vollständigkeit:** Norbert prüft dabei, ob die Notizen in `D:\notes\notes\Projekte\Handelsblatt Crime Fanwiki\` vollständig dem Hausstandard entsprechen, und schließt Lücken.
+- **Vorrang:** Diese Regel geht allen älteren Obsidian-Regeln in dieser Datei vor. Wo sie sich widersprechen (neue Notizen anlegen, eigene Formate, Reihenfolge „Obsidian vor Push“, Vault-Repo auf GitHub), gelten diese Regel und der Hausstandard.
+- **Norbert nicht verfügbar** (anderes KI-Werkzeug, Vault nicht erreichbar): nach Hausstandard selbst dokumentieren, soweit möglich, und im Abschlussbericht „Norbert-Nachlauf offen“ melden – beim nächsten Claude-Lauf holt Norbert es nach. Nie stillschweigend fertig melden.
+- Keine Geheimnisse (Schlüssel, Tokens, Passwörter, `.env`-Werte) nach Obsidian.
+<!-- END:notizen-norbert-pflicht -->
+
 ## Kurzbefehle (vereinbart mit Alex am 06.11.2026 für das ABC-Projekt, gelten hier genauso)
 
 Alex schreibt nur das Stichwort. Nicht nachfragen, sondern den ganzen Ablauf durchziehen und am Ende kurz berichten.
