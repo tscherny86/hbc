@@ -273,7 +273,7 @@ def main() -> None:
     if not fragment:
         page = ('<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8">\n'
                 '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-                # Sicherheits-Header (R13): GitHub Pages erlaubt keine eigenen HTTP-Header, daher als Meta-Tags,
+                # Sicherheits-Header (R13): die statische Seite liefert keine eigenen HTTP-Header aus, daher als Meta-Tags,
                 # soweit Browser das unterstützen (CSP ohne frame-ancestors, Referrer-Policy).
                 f'<meta http-equiv="Content-Security-Policy" content="{CSP}">\n'
                 '<meta name="referrer" content="strict-origin-when-cross-origin">\n'
