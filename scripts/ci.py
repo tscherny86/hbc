@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""CI für das Fanwiki – gleich am PC und in GitLab CI (seit 07.11.2026, Regel „GitHub-Unabhängigkeit“).
+"""CI für das Fanwiki – gleich am PC und in GitLab CI.
 
 Aufruf: python scripts/ci.py
 1. Website in einen Temp-Ordner bauen (scripts/build_site.py) und prüfen, dass eine vollständige Seite entsteht.

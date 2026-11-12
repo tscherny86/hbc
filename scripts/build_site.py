@@ -2,12 +2,13 @@
 """Baut die Website (eine einzige HTML-Datei) aus dem Obsidian-Vault.
 
 Aufruf:
-    python scripts/build_site.py                       # -> _site/index.html (für GitHub Pages)
+    python scripts/build_site.py                       # -> _site/index.html (lokale Vorschau)
+    python scripts/build_site.py public/index.html     # GitLab-CI-Job pages (GitLab Pages, privat)
     python scripts/build_site.py out.html --fragment   # ohne <html>-Gerüst (Vorschau-Artefakt)
 
 Der Vault (Handelsblatt-Crime-Wiki/) bleibt die Quelle. Dieses Skript liest die Notizen, macht daraus strukturierte
-Daten (Folgen, Artikel, Zitate, Transkripte) und setzt sie in site/template.html ein. Wird bei jedem Push von der
-GitHub Action ausgeführt.
+Daten (Folgen, Artikel, Zitate, Transkripte) und setzt sie in site/template.html ein. Wird bei jedem Push auf main
+vom GitLab-CI-Job pages ausgeführt.
 """
 import html
 import json
