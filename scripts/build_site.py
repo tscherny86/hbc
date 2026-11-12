@@ -281,8 +281,6 @@ def main() -> None:
                 'Jeder Fall, jede Person, jedes Zitat mit Link zur Folge und zur genauen Minute.">\n' + page + "\n</html>\n")
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")
-    if not fragment:
-        (out.parent / ".nojekyll").touch()
     print(f"{len(eps)} Folgen, {len(data['entries'])} Einträge, {len(data['tx'])} Transkripte -> {out} "
           f"({out.stat().st_size // 1024} KB)")
 
