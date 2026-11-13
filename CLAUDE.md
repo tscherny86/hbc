@@ -29,7 +29,7 @@ Sprache mit Alex: Deutsch; Repo, Vault und Website ebenfalls Deutsch (der Podcas
 Live: https://tscherny86.github.io/hbc/ · Artefakt: https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB
 Obsidian: `Projekte/Handelsblatt Crime Fanwiki/` im Repo `tscherny86/notes-vault` (Pflicht bei jeder Änderung, siehe unten).
 Schwesterprojekte mit derselben Struktur: ABC Podcast Fanwiki (`tscherny86/abcpodcast`) und Real Exam English Fanwiki
-(`tscherny86/realexam`). Lokaler Projektordner auf Alex' PC: `E:\Projekte\hbc`.
+(`tscherny86/realexam`). Lokaler Projektordner auf Alex' PC: `D:\Projekte\hbc`.
 
 <!-- BEGIN:notizen-norbert-pflicht -->
 ## Doku-Pflicht: nach jedem Push NotizenNorbert beauftragen (Anweisung Alex, 09.11.2026)
