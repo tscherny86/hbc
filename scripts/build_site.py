@@ -2,12 +2,13 @@
 """Baut die Website (eine einzige HTML-Datei) aus dem Obsidian-Vault.
 
 Aufruf:
-    python scripts/build_site.py                       # -> _site/index.html (für GitHub Pages)
+    python scripts/build_site.py                       # -> _site/index.html (lokale Vorschau)
+    python scripts/build_site.py public/index.html     # GitLab-CI-Job pages (GitLab Pages, privat)
     python scripts/build_site.py out.html --fragment   # ohne <html>-Gerüst (Vorschau-Artefakt)
 
 Der Vault (Handelsblatt-Crime-Wiki/) bleibt die Quelle. Dieses Skript liest die Notizen, macht daraus strukturierte
-Daten (Folgen, Artikel, Zitate, Transkripte) und setzt sie in site/template.html ein. Wird bei jedem Push von der
-GitHub Action ausgeführt.
+Daten (Folgen, Artikel, Zitate, Transkripte) und setzt sie in site/template.html ein. Wird bei jedem Push auf main
+vom GitLab-CI-Job pages ausgeführt.
 """
 import html
 import json
@@ -272,7 +273,7 @@ def main() -> None:
     if not fragment:
         page = ('<!doctype html>\n<html lang="de">\n<head>\n<meta charset="utf-8">\n'
                 '<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">\n'
-                # Sicherheits-Header (R13): GitHub Pages erlaubt keine eigenen HTTP-Header, daher als Meta-Tags,
+                # Sicherheits-Header (R13): die statische Seite liefert keine eigenen HTTP-Header aus, daher als Meta-Tags,
                 # soweit Browser das unterstützen (CSP ohne frame-ancestors, Referrer-Policy).
                 f'<meta http-equiv="Content-Security-Policy" content="{CSP}">\n'
                 '<meta name="referrer" content="strict-origin-when-cross-origin">\n'
@@ -280,8 +281,6 @@ def main() -> None:
                 'Jeder Fall, jede Person, jedes Zitat mit Link zur Folge und zur genauen Minute.">\n' + page + "\n</html>\n")
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(page, encoding="utf-8")
-    if not fragment:
-        (out.parent / ".nojekyll").touch()
     print(f"{len(eps)} Folgen, {len(data['entries'])} Einträge, {len(data['tx'])} Transkripte -> {out} "
           f"({out.stat().st_size // 1024} KB)")
 

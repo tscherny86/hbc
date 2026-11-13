@@ -17,19 +17,17 @@ Alex will daran **nie erinnern müssen**. Jeder Arbeitsschritt, der an diesem Pr
 <!-- END:obsidian-pflicht -->
 
 <!-- BEGIN:nur-gitlab -->
-## Nur GitLab – GitHub ist beendet (seit 09.11.2026, Entscheidung Alex)
-
-- Code, Releases, CI und Auslieferung laufen **ausschließlich über GitLab**: `gitlab.com/tschernutter/hbc`, Remote `origin`, Branch `main`; ausgeliefert wird aus GitLab (Vercel, GitLab Pages bzw. GitLab CI).
-- **Keine GitHub-Anbindung mehr:** nichts nach GitHub pushen, keine GitHub-Releases, keine GitHub Actions, keine GitHub-API, kein `gh`, kein `github.com`-Remote – und **keine Verbindungsversuche** zu GitHub, auch nicht „nur zum Prüfen“.
-- **GitHub nicht mehr ansprechen:** keine Meldungen, Rückfragen oder Hinweise zu GitHub-Erreichbarkeit, Kontosperre, Support oder Spiegel. Das Thema ist für Alex abgeschlossen.
-- Steht in dieser Datei, in Skripten, Workflows oder älterer Doku noch GitHub (z. B. `tscherny86/…`, `.github/`, Remote `github`), gilt das nicht mehr: ignorieren und bei Gelegenheit auf GitLab umstellen oder entfernen – ohne Alex damit zu behelligen.
+## Nur GitLab (Entscheidung Alex)
+- Code, Releases, CI und Auslieferung laufen ausschließlich über GitLab: `gitlab.com/tschernutter/hbc`, Remote `origin`, Branch `main`; ausgeliefert wird aus GitLab (GitLab Pages des privaten Projekts, GitLab CI).
+- Keine anderen Code-Hoster, Remotes, Spiegel, Release-Kanäle oder CI-Dienste – auch keine Verbindungsversuche dorthin.
+- Taucht in alten Commits oder Tags noch ein anderer Hoster auf, gilt das nicht; nicht darauf hinweisen.
 <!-- END:nur-gitlab -->
 
 Sprache mit Alex: Deutsch; Repo, Vault und Website ebenfalls Deutsch (der Podcast ist deutsch).
-Live: https://tscherny86.github.io/hbc/ · Artefakt: https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB
-Obsidian: `Projekte/Handelsblatt Crime Fanwiki/` im Repo `tscherny86/notes-vault` (Pflicht bei jeder Änderung, siehe unten).
-Schwesterprojekte mit derselben Struktur: ABC Podcast Fanwiki (`tscherny86/abcpodcast`) und Real Exam English Fanwiki
-(`tscherny86/realexam`). Lokaler Projektordner auf Alex' PC: `D:\Projekte\hbc`.
+Live (privat, nur Projektmitglieder, Entscheidung E11): https://hbc-99d4bd.gitlab.io/ · Artefakt: https://claude.ai/artifact/PSwuaMC4RpVazQB6aF99sB
+Obsidian: `Projekte/Handelsblatt Crime Fanwiki/` im Repo `tschernutter/notes-vault` (Pflicht bei jeder Änderung, siehe unten).
+Schwesterprojekte mit derselben Struktur: ABC Podcast Fanwiki (`tschernutter/abcpodcast`) und Real Exam English Fanwiki
+(`tschernutter/realexam`). Lokaler Projektordner auf Alex' PC: `D:\Projekte\hbc`.
 
 <!-- BEGIN:notizen-norbert-pflicht -->
 ## Doku-Pflicht: nach jedem Push NotizenNorbert beauftragen (Anweisung Alex, 09.11.2026)
@@ -39,7 +37,7 @@ Schwesterprojekte mit derselben Struktur: ABC Podcast Fanwiki (`tscherny86/abcpo
 - **Nach jedem Push mit Code-Änderungen** wird im selben Zug und ohne Aufforderung der Skill **NotizenNorbert** (`/notizen-norbert`) beauftragt, alle Änderungen dieses Pushs in Obsidian festzuhalten. Eine Aufgabe ist erst erledigt, wenn Norbert fertig ist. Auch Änderungen ohne Code (Inhalte, Daten, Konfiguration, Doku) laufen über Norbert – es gibt nur noch diesen einen Weg.
 - **Auftrag an Norbert:** Projekt „Handelsblatt Crime Fanwiki“, neue Version (oder „keine neue Version“), Commit(s), was geändert wurde und warum. Wo und in welcher Form dokumentiert wird, entscheidet Norbert nach `D:\notes\notes\00 Hausstandard.md` (zwölf Notizen je Projekt, Änderungsprotokoll, Ist-Stand, Chronik, Steckbrief …). Selbst keine Obsidian-Notizen anlegen und keine eigenen Formate erfinden.
 - **Vollständigkeit:** Norbert prüft dabei, ob die Notizen in `D:\notes\notes\Projekte\Handelsblatt Crime Fanwiki\` vollständig dem Hausstandard entsprechen, und schließt Lücken.
-- **Vorrang:** Diese Regel geht allen älteren Obsidian-Regeln in dieser Datei vor. Wo sie sich widersprechen (neue Notizen anlegen, eigene Formate, Reihenfolge „Obsidian vor Push“, Vault-Repo auf GitHub), gelten diese Regel und der Hausstandard.
+- **Vorrang:** Diese Regel geht allen älteren Obsidian-Regeln in dieser Datei vor. Wo sie sich widersprechen (neue Notizen anlegen, eigene Formate, Reihenfolge „Obsidian vor Push“), gelten diese Regel und der Hausstandard.
 - **Norbert nicht verfügbar** (anderes KI-Werkzeug, Vault nicht erreichbar): nach Hausstandard selbst dokumentieren, soweit möglich, und im Abschlussbericht „Norbert-Nachlauf offen“ melden – beim nächsten Claude-Lauf holt Norbert es nach. Nie stillschweigend fertig melden.
 - Keine Geheimnisse (Schlüssel, Tokens, Passwörter, `.env`-Werte) nach Obsidian.
 <!-- END:notizen-norbert-pflicht -->
@@ -107,15 +105,16 @@ Ist nichts ungeprüft: „alles geprüft, nichts offen“ antworten.
    (`## TT.MM.JJJJ – Version X.Y.Z`), Ist-Stand, Chronik, Offene Punkte abhaken, bei Korrekturen auch
    „Transkription und Korrekturen“. Alex' Vault liegt lokal unter `D:\notes\notes` (Obsidian Git schreibt mit):
    vor dem Push `git pull --rebase`; keine Git-Befehle, die nicht committete Änderungen verwerfen. Notizen auf Deutsch.
-3. Push auf `main`; GitHub Pages baut automatisch, `release.yml` legt das Release an.
-4. Projekt-Cockpit: das Projekt ist in `cockpit.config.ts` (Repo `tscherny86/projekt-cockpit`, lokal
+3. Push auf `main` (GitLab); GitLab CI prüft (`ci`), baut die private Seite (`pages`) und legt bei neuer Version das
+   GitLab-Release an (`release`).
+4. Projekt-Cockpit: das Projekt ist in `cockpit.config.ts` (Repo `tschernutter/projekt-cockpit`, lokal
    `C:\Users\tsche\OneDrive\Projekt-Cockpit`) eingetragen; dort ist nur etwas zu tun, wenn Repo, Live-URL oder
    Dateinamen sich ändern.
 
-## Ohne GitHub prüfen und Releases anlegen (Notfallweg)
+## Prüfen, Releases und private Seite
 
-Seit der GitHub-Sperre vom 07.11.2026 hängt nichts mehr allein an GitHub. Code liegt lokal, auf GitHub und privat auf GitLab (`gitlab.com/tschernutter/hbc`); `git push origin` geht zuerst an GitLab.
+Code liegt lokal und privat auf GitLab (`gitlab.com/tschernutter/hbc`, Remote `origin`, Branch `main`).
 
-- **Prüfen:** `python scripts/ci.py` (Website in einen Temp-Ordner bauen, Artikel und Version prüfen; veröffentlicht nichts) – dasselbe Skript ruft GitLab CI (`.gitlab-ci.yml`, seit 08.11.2026 Linux-Runner von gitlab.com statt acespc) auf.
-- **Release:** `node scripts/release.mjs --all-missing --title "Handelsblatt Crime Fanwiki"` legt fehlende Tags `vX.Y.Z` und Releases mit dem CHANGELOG-Abschnitt an – auf GitLab (glab) und, wenn erreichbar, auf GitHub (gh). `--dry-run` zeigt nur an.
-- **Nur für Alex, nie öffentlich** (Entscheidung Alex 07.11.2026: „handelsblatt crime bleibt privat nur für mich aufrufbar über gitlab“). Volltranskripte eines Verlagspodcasts ohne Erlaubnis. Die Seite baut der GitLab-CI-Job `pages` als GitLab Pages des **privaten** Projekts mit Zugriff „Only project members“ (`pages_access_level=private`): ohne Anmeldung als Projektmitglied ist nichts zu sehen. GitHub Pages (`pages.yml`) bleibt aus (nur per Hand und nur mit `PAGES_FREIGABE=ja`, die nicht gesetzt wird); kein Hosting auf Netlify, Vercel oder anderswo.
+- **Prüfen:** `python scripts/ci.py` (Website in einen Temp-Ordner bauen, Artikel und Version prüfen; veröffentlicht nichts) – dasselbe Skript ruft GitLab CI (`.gitlab-ci.yml`, Linux-Runner von gitlab.com) auf.
+- **Release:** `node scripts/release.mjs --all-missing --title "Handelsblatt Crime Fanwiki"` legt fehlende Tags `vX.Y.Z` und GitLab-Releases mit dem CHANGELOG-Abschnitt an (am PC über glab, in GitLab CI über die GitLab-API). `--dry-run` zeigt nur an.
+- **Nur für Alex, nie öffentlich** (Entscheidung Alex 07.11.2026: „handelsblatt crime bleibt privat nur für mich aufrufbar über gitlab“). Volltranskripte eines Verlagspodcasts ohne Erlaubnis. Die Seite baut der GitLab-CI-Job `pages` als GitLab Pages des **privaten** Projekts mit Zugriff „Only project members“ (`pages_access_level=private`): ohne Anmeldung als Projektmitglied ist nichts zu sehen. Kein anderes Hosting (kein Netlify, Vercel oder anderswo).

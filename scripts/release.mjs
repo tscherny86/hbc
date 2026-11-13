@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-// Release-Skript, unabhängig von GitHub (Regel „GitHub-Unabhängigkeit“, 07.11.2026).
-// Legt zur aktuellen Version den Tag vX.Y.Z an und erstellt das Release mit dem
-// Changelog-Abschnitt als Text – auf GitLab (glab bzw. GitLab-API) und auf GitHub (gh),
-// je nachdem, was erreichbar ist. Läuft gleich am PC, in GitHub Actions und in GitLab CI.
+// Release-Skript für GitLab (gitlab.com/tschernutter/hbc).
+// Legt zur aktuellen Version den Tag vX.Y.Z an und erstellt das GitLab-Release mit dem
+// Changelog-Abschnitt als Text – in GitLab CI über die GitLab-API (Job-Token), am PC über glab.
+// Läuft gleich am PC und in GitLab CI.
 //
 //   node scripts/release.mjs              Release zur aktuellen Version anlegen (falls es fehlt)
 //   node scripts/release.mjs --dry-run    nur anzeigen, was passieren würde
@@ -10,9 +10,9 @@
 //                                            oder Commit in der Kopfzeile „## X.Y.Z – … (`abc1234`)“)
 // Optionen: --changelog <datei> (Standard CHANGELOG.md), --version <X.Y.Z>,
 //           --version-from-changelog (oberste Version im Changelog statt package.json),
-//           --title "<Name>" (Release-Titel = "<Name> X.Y.Z"; --title "" = nur die Nummer), --only gitlab|github,
+//           --title "<Name>" (Release-Titel = "<Name> X.Y.Z"; --title "" = nur die Nummer),
 //           --notes-file <datei> (fertiger Release-Text statt Changelog-Abschnitt, braucht --version)
-// Kein Ziel erreichbar → Fehler. Ein Ziel nicht erreichbar → Hinweis, kein Fehler.
+// GitLab nicht erreichbar (weder GitLab CI noch glab) → Fehler.
 import { execFileSync, spawnSync } from "node:child_process";
 import { existsSync, readFileSync, writeFileSync, mkdtempSync } from "node:fs";
 import { tmpdir } from "node:os";
@@ -23,9 +23,7 @@ const flag = (n) => args.includes(n);
 const opt = (n, d) => { const i = args.indexOf(n); return i >= 0 ? args[i + 1] : d; };
 const DRY = flag("--dry-run");
 const ALL = flag("--all-missing");
-const ONLY = opt("--only", "");
 const CHANGELOG = opt("--changelog", "CHANGELOG.md");
-const IN_GHA = process.env.GITHUB_ACTIONS === "true";
 const IN_GLCI = !!process.env.GITLAB_CI;
 
 const log = (...m) => console.log("[release]", ...m);
@@ -71,32 +69,16 @@ function glabBin() {
   for (const c of cands) { if (run(c, ["--version"]).status === 0) return c; }
   return "";
 }
-const ghSlug = process.env.GITHUB_REPOSITORY || slugFrom(remoteUrl("origin"), "github.com") || slugFrom(remoteUrl("github"), "github.com");
-const glSlug = process.env.CI_PROJECT_PATH || slugFrom(remoteUrl("gitlab"), "gitlab.com")
+const glSlug = process.env.CI_PROJECT_PATH || slugFrom(remoteUrl("origin"), "gitlab.com") || slugFrom(remoteUrl("gitlab"), "gitlab.com")
   || slugFrom(tryGit("config", "--get-all", "remote.origin.pushurl").split("\n").find((u) => u.includes("gitlab.com")) || "", "gitlab.com");
 
 const targets = [];
-// GitLab
-if (ONLY !== "github" && glSlug && !IN_GHA) {
+if (glSlug) {
   if (IN_GLCI && process.env.CI_JOB_TOKEN) targets.push(gitlabApiTarget());
-  else { const g = glabBin(); if (g) targets.push(glabTarget(g)); else log("glab nicht gefunden – GitLab übersprungen."); }
-}
-// GitHub
-if (ONLY !== "gitlab" && ghSlug && !IN_GLCI) {
-  const ok = run("gh", ["api", `repos/${ghSlug}`, "--jq", ".full_name"]).status === 0;
-  if (ok) targets.push(ghTarget());
-  else log(`GitHub (${ghSlug}) nicht erreichbar – übersprungen. Später nachholen: Release-Skript erneut mit --only github starten.`);
-}
-if (!targets.length) { console.error("[release] Weder GitLab noch GitHub erreichbar."); process.exit(1); }
+  else { const g = glabBin(); if (g) targets.push(glabTarget(g)); else log("glab nicht gefunden."); }
+} else log("Kein GitLab-Projekt gefunden (CI_PROJECT_PATH oder Remote origin/gitlab auf gitlab.com).");
+if (!targets.length) { console.error("[release] GitLab nicht erreichbar (weder GitLab CI noch glab)."); process.exit(1); }
 
-function ghTarget() {
-  return {
-    name: `GitHub ${ghSlug}`,
-    exists: (tag) => run("gh", ["release", "view", tag, "--repo", ghSlug]).status === 0,
-    create: (tag, title, file, sha, latest) => run("gh", ["release", "create", tag, "--repo", ghSlug, "--title", title, "--notes-file", file,
-      ...(sha ? ["--target", sha] : []), `--latest=${latest}`], { stdio: "inherit" }).status === 0,
-  };
-}
 function glabTarget(g) {
   return {
     name: `GitLab ${glSlug}`,
@@ -121,7 +103,7 @@ function gitlabApiTarget() {
 
 // ---------- Ablauf ----------
 const tmp = mkdtempSync(join(tmpdir(), "release-"));
-const HEAD = tryGit("rev-parse", "HEAD") || process.env.CI_COMMIT_SHA || process.env.GITHUB_SHA;
+const HEAD = tryGit("rev-parse", "HEAD") || process.env.CI_COMMIT_SHA;
 let failed = 0;
 for (const s of todo) {
   const tag = `v${s.v}`;
@@ -133,14 +115,14 @@ for (const s of todo) {
   const file = join(tmp, `${tag}.md`);
   writeFileSync(file, notesOf(s));
   // Tag lokal anlegen und hochladen (nicht in CI – dort legt die Release-API den Tag an)
-  if (!IN_GHA && !IN_GLCI && !localTag) {
+  if (!IN_GLCI && !localTag) {
     if (DRY) log(`würde Tag ${tag} auf ${sha.slice(0, 7)} anlegen und pushen`);
     else {
       git("tag", "-a", tag, sha, "-m", title);
       for (const r of ["gitlab", "origin"]) {
         if (!remoteUrl(r)) continue;
         const p = run("git", ["push", r, `refs/tags/${tag}`], { stdio: "inherit" });
-        if (p.status !== 0) log(`Tag-Push an ${r} fehlgeschlagen (GitHub gesperrt? dann erwartet).`);
+        if (p.status !== 0) log(`Tag-Push an ${r} fehlgeschlagen.`);
       }
     }
   }

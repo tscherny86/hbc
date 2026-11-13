@@ -1,4 +1,4 @@
-# GitLab CI für das Handelsblatt Crime Fanwiki (Regel „GitHub-Unabhängigkeit“, 07.11.2026) – dieselben Skripte wie am PC.
+# GitLab CI für das Handelsblatt Crime Fanwiki – dieselben Skripte wie am PC.
 #   ci      : python scripts/ci.py (Website bauen ohne Veröffentlichen, Artikel und Version prüfen)
 #   release : scripts/release.mjs --all-missing (Tags vX.Y.Z + CHANGELOG-Abschnitte als GitLab-Releases)
 # Runner: seit 08.11.2026 die Linux-Runner von gitlab.com (Konto verifiziert), nicht mehr acespc. Das GitLab-Projekt ist privat.

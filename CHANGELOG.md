@@ -1,14 +1,20 @@
 # Changelog – Handelsblatt Crime Fanwiki
 
-Neueste Version oben. Jede ausgelieferte Version bekommt hier einen Eintrag und ein GitHub-Release mit Tag `vX.Y.Z`
-(legt `.github/workflows/release.yml` automatisch an). Uhrzeiten in MEZ.
+Neueste Version oben. Jede ausgelieferte Version bekommt hier einen Eintrag und ein GitLab-Release mit Tag `vX.Y.Z`
+(legt der CI-Job `release` in `.gitlab-ci.yml` automatisch an). Uhrzeiten in MEZ.
 Neue Transkripte (Commits „Transkript NNN“) sind Inhalt, keine eigene Version.
+
+## 1.0.2 – 12.11.2026
+- Betrieb: Code, CI, Releases und die private Seite laufen nur über GitLab (`gitlab.com/tschernutter/hbc`); alte Fremd-Hosting-Bezüge aus Doku, Skripten und Vorlage entfernt.
+- `scripts/release.mjs` legt Tags und Releases nur noch auf GitLab an (in GitLab CI über die GitLab-API, am PC über glab).
+- Fußzeile der Seite: der Versionslink zeigt auf `CHANGELOG.md` im GitLab-Repo.
+- `scripts/build_site.py` legt keine `.nojekyll`-Datei mehr an; `package.json` `homepage` ist die private GitLab-Pages-Adresse.
 
 ## 1.0.1 – 08.11.2026
 - Sicherheit (Projekt-Cockpit R22): `.gitignore` schließt `.env` und `.env.*` aus (außer `.env.example`), damit Zugangsdaten nie ins Repo geraten. Die Seite ist unverändert.
 
-- Entscheidung Alex (07.11.2026): bleibt privat, nur für Alex über GitLab aufrufbar. GitLab-CI-Job `pages` baut die Seite als GitLab Pages des privaten Projekts, Zugriff nur für Projektmitglieder. GitHub Pages bleibt aus.
-- Betrieb (07.11.2026, GitHub-Sperre): `scripts/ci.py` und `scripts/release.mjs`; `release.yml` und die neue `.gitlab-ci.yml` (Runner acespc) rufen nur noch diese Skripte auf. `pages.yml` läuft nicht mehr bei Push, nur per Hand mit `PAGES_FREIGABE=ja` (Veröffentlichung gesperrt, bis Alex entscheidet). Keine neue Version, die Seite ist unverändert.
+- Entscheidung Alex (07.11.2026): bleibt privat, nur für Alex über GitLab aufrufbar. GitLab-CI-Job `pages` baut die Seite als GitLab Pages des privaten Projekts, Zugriff nur für Projektmitglieder.
+- Betrieb (07.11.2026): `scripts/ci.py` und `scripts/release.mjs`; die neue `.gitlab-ci.yml` (Runner acespc) ruft diese Skripte auf. Keine neue Version, die Seite ist unverändert.
 
 ## 1.0.0 – 07.11.2026
 - **Alle 160 Folgen transkribiert** (faster-whisper `large-v3-turbo` auf der GPU, zwei Prozesse parallel, 1,23 Mio. Wörter) und **vollständig geprüft**: 156 Folgen von 33 Helfergruppen Zeile für Zeile Korrektur gelesen, 4 Folgen mit dem offiziellen Podigee-Transkript abgeglichen (Übereinstimmung 62–87 %). **4.469 Korrekturregeln, 9.117 Korrekturen** – vor allem Namen (Brorhilker in über 30 Hörvarianten, Marsalek, Olearius, Iwersen, Karabasz, Votsmeier, Signa, Veltins, Erffa), Firmen und Alltagswörter.
@@ -29,6 +35,5 @@ Neue Transkripte (Commits „Transkript NNN“) sind Inhalt, keine eigene Versio
   wie das Podcast-Cover: Startseite mit Suche, Kacheln für Fälle und Themen, Folgenliste mit Jahres- und Art-Filter,
   Folgen-, Artikel- und Transkriptseiten, eigener Audio-Player (MP3 von Podigee, Minuten-Chips, ±15 s, Tempo,
   „Spotify ↗“ an der aktuellen Stelle), Volltextsuche über Artikel, Folgen und Transkripte, Hell/Dunkel.
-- **Workflows:** GitHub Pages (`pages.yml`) und Releases (`release.yml`); Sicherheits-Header als Meta-Tags (CSP,
-  Referrer-Policy) wie bei den Schwesterprojekten.
+- **Sicherheits-Header** als Meta-Tags (CSP, Referrer-Policy) wie bei den Schwesterprojekten.
 - `CLAUDE.md` mit den Kurzbefehlen „check“ und „quality“ und der Auslieferungsreihenfolge.
